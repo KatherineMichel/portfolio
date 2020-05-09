@@ -12,9 +12,9 @@ I felt this call-to-action in several ways:
 
 In addition to open captioning, every PyGotham talk was interpeted in [American Sign Language](https://2019.pygotham.org/about/accessibility/#hearing-accessibility). 
 
-The three keynotes, "[Python Use Spectrum](https://2019.pygotham.org/talks/keynote-the-python-use-spectrum/)" by [Kojo Idrissa](https://twitter.com/Transition), "[Accepting your successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/)" by [Piper Thunstrom](https://twitter.com/pathunstrom), and "[Because Equity: Python FTW](https://2019.pygotham.org/talks/keynote-because-equity-python-ftw/)" by [Meg Ray](https://twitter.com/teach_python), were about welcoming people on the fringes into the community and making them feel valued, for the greater good of all.
+The three keynotes, "[Python Use Spectrum](https://2019.pygotham.org/talks/keynote-the-python-use-spectrum/)" by Kojo Idrissa, "[Accepting your successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/)" by [Piper Thunstrom](https://twitter.com/pathunstrom), and "[Because Equity: Python FTW](https://2019.pygotham.org/talks/keynote-because-equity-python-ftw/)" by [Meg Ray](https://twitter.com/teach_python), were about welcoming people on the fringes into the community and making them feel valued, for the greater good of all.
 
-I felt inspired by a talk by [Froi Irizarry Rivera](https://twitter.com/skfroi) and [José Padilla](https://twitter.com/jpadilla_) called "[Python, Governments, and Contracts](https://2019.pygotham.org/talks/python-governments-and-contracts/)," in which they told of their feeling of helplessness as they had watched a hurricane ravage Puerto Rico and how they had spontaneously channeled their frustration into an appeal for grassroots volunteers who have now created powerful tools to root out corruption in hurricane ravaged Puerto Rico.
+I felt inspired by a talk by [Froi Irizarry Rivera](https://twitter.com/froidotdev) and [José Padilla](https://twitter.com/jpadilla_) called "[Python, Governments, and Contracts](https://2019.pygotham.org/talks/python-governments-and-contracts/)," in which they told of their feeling of helplessness as they had watched a hurricane ravage Puerto Rico and how they had spontaneously channeled their frustration into an appeal for grassroots volunteers who have now created powerful tools to root out corruption.
 
 And during my own visit to the [Statue of Liberty](https://en.wikipedia.org/wiki/Statue_of_Liberty) and [Ellis Island](https://en.wikipedia.org/wiki/Ellis_Island), I watched Ranger Jenn re-enact the impassioned stories of people who had arrived at Ellis Island as prospective immigrants. She told of the extreme adversity many had faced to be accepted in the United States. More about that later in this blog post.
 
@@ -22,7 +22,7 @@ All converged into one interwoven experience that felt very fitting in such a di
 
 ### A Note About American Sign Language at PyGotham
 
-Approximately a month before PyGotham, I attended an event at Strange Loop conference in St. Louis where a deaf woman named [Mel Chua](https://twitter.com/mchua) was a featured speaker. Mel is an electrical computer engineer with a background in FOSS, large-scale distributed engineering team collaboration, and engineering education culture. 
+Approximately a month before PyGotham, I attended an event at [Strange Loop](https://www.thestrangeloop.com/) conference in St. Louis where a deaf woman named [Mel Chua](https://twitter.com/mchua) was a featured speaker. Mel is an electrical computer engineer with a background in free open-source software (FOSS), large-scale distributed engineering team collaboration, and engineering education culture. 
 
 Mel told her story, primarily through American Sign Language. I'm embarrassed to say, this was the first time I can remember ever having seen sign language interpretation happen in real life. 
 
