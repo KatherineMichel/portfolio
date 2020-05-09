@@ -30,4 +30,7 @@
 
 ## Memberships
 
+* [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
+* [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/)
+
 
