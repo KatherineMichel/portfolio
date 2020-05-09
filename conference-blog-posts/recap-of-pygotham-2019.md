@@ -128,7 +128,7 @@ Froi and José used JSON endpoints and self-throttling to optimize data collecti
 
 Sadly, the work is not done, because the consequences of mismanagement and corruption are still ongoing and Puerto Rico is suffering additional natural disasters.
 
-They intend to continue collecting the million contract documents on the website. They are considering ways to make their scraping logs and project financials transparent. They want to collect input from journalists and members of the data science community to help improve the site. They are also exploring ways to find sponsorship for the $60/month cost of running the project.
+They met their goal of collecting the million contract documents on the website. They are also considering ways to make their scraping logs and project financials transparent. They want to collect input from journalists and members of the data science community to help improve the site. They are also exploring ways to find sponsorship for the $60/month cost of running the project.
 
 If you are interested in the project or would like to contribute, reach out to them!
 
@@ -136,13 +136,13 @@ If you are interested in the project or would like to contribute, reach out to t
 
 The conference closed with a keynote by [Meg Ray](https://twitter.com/teach_python): "[Because Equity: Python FTW](https://2019.pygotham.org/talks/keynote-because-equity-python-ftw/)."
 
-Meg's keynote at PyGotham was very timely. She was recently [awarded a PSF education grant](http://pyfound.blogspot.com/2019/09/grants-awarded-for-python-in-education.html) to create an open-source, PSF landing site for Python education. Meg wants to bring together Pythonistas who are interested in education and educators interested in Python. And she's looking for contributors! Reach out to her if you are interested.
+Meg's keynote at PyGotham was very timely. She had recently been [awarded a PSF education grant](http://pyfound.blogspot.com/2019/09/grants-awarded-for-python-in-education.html) to create an open-source, PSF landing site for Python education. Meg wants to bring together Pythonistas who are interested in education and educators interested in Python. And she's looking for contributors! Reach out to her if you are interested.
 
 ![](recap-of-pygotham-2019-images/meg-python-education-website.png)
 
 Photo taken by Casey Faist, used with permission
 
-According to the Association for Computer Machinery report "Running on Empty in 2020," lack of access to computer science education or privileged knowledge in US K-12 schools is a significant social justice issue. 
+According to the Association for Computer Machinery report "[Running on Empty](https://runningonempty.acm.org/)," lack of access to computer science education or privileged knowledge in US K-12 schools is a significant social justice issue. 
 
 ![](recap-of-pygotham-2019-images/meg-social-justice-issue.png)
 
@@ -158,25 +158,25 @@ There are personal obstacles as well. Some students have visible or invisible di
 
 By the time students are in high school, they tend to be either on a computer science track or not.
 
-Speaking from her own experience, having redesigned Young Coders for PyGotham along with Barbara Shurette, as well as referencing resources such as the Gates Foundation Reboot presentation, Meg gave tips for engaging every student. 
+Speaking from her own experience, having redesigned Young Coders for PyGotham along with Barbara Shurette, as well as referencing resources such as the Gates Foundation's [Reboot Representaton](https://www.linkedin.com/pulse/closing-gender-gap-techits-time-act-melinda-gates/) coalition, Meg gave tips for engaging every student. 
 
 Students need to be motivated to pursue programming. Making kids sit at computers and power through boring stuff doesn't work. When students go to stations and make take-home projects, they learn the basics, make something meaningful, and get hooked. Students also tend to retain more of the knowledge when they make something tangible.
 
 Holistically, schools can create a longterm path for every student by offering diverse on-ramps for beginners, not one set path. A sense of belonging should be created immediately and fostered intentionally for the longterm.
 
-Meg also gave a few tips from the "Zen of Python Education" talk she gave at PyCon. 
+Meg also gave a few tips from the "[Zen of Python Education](https://www.slideshare.net/MegRay2/the-zen-of-python-open-education-resources-creating-resources-that-work)" talk she gave at PyCon 2019. 
 
 ![](recap-of-pygotham-2019-images/meg-the-zen-of-python-education.png)
 
 Photo taken by Casey Faist, used with permission
 
-At the end of the talk, Meg gave a call to action for community members to advocate and volunteer. Ways to make a difference include: personally advocating at a state or local level for CS as a graduation requirement; professionally promoting CS education via your workplace by supporting employees in volunteering for CS education week or make events, hosting school field trips in your office, inviting high school students to shadow you for a day on take your child to work day, or recruiting a first-time intern.
+At the end of the talk, Meg gave a call to action for community members to advocate and volunteer. Ways to make a difference include: personally advocating at a state or local level for computer science as a graduation requirement; professionally promoting computer science education via your workplace by supporting employees in volunteering for computer science education week or make events, hosting school field trips in your office, inviting high school students to shadow you for a day on take your child to work day, or recruiting a first-time intern.
 
 ### Hallway Track
 
-As usual, the "hallway track" was yet another invaluable opportunity to network. The connections made were too numerous to list all, but here are a few highlights:
+As usual, the "hallway track" was an invaluable opportunity to network. The connections made were too numerous to list all, but here are a few highlights:
 
-It was a pleasure to chat at length again with PSF Director [Lorena Mesa](https://twitter.com/loooorenanicole) about PSF diversity initiatives, and meet for the first time PyCon US 2019 Financial Co-chair [Jigyasa Grover](https://twitter.com/jigyasa_grover).
+It was a pleasure to chat with PSF Director [Lorena Mesa](https://twitter.com/loooorenanicole) about PSF diversity initiatives, and meet for the first time PyCon US 2019 and 2020 Financial Co-chair [Jigyasa Grover](https://twitter.com/jigyasa_grover).
 
 While mentioning to Meg Ray that perhaps there were some lessons in her talk that I could apply to my work as an open-source maintainer, we arranged for her to pick my brain about my experiences as DjangoCon Website Chair and Pinax Maintainer as she embarks on the new open-source PSF Education landing page. 
 
