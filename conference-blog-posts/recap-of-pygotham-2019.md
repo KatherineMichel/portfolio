@@ -14,7 +14,7 @@ In addition to open captioning, every PyGotham talk was interpeted in [American 
 
 The three keynotes, "[Python Use Spectrum](https://2019.pygotham.org/talks/keynote-the-python-use-spectrum/)" by Kojo Idrissa, "[Accepting your successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/)" by [Piper Thunstrom](https://twitter.com/pathunstrom), and "[Because Equity: Python FTW](https://2019.pygotham.org/talks/keynote-because-equity-python-ftw/)" by [Meg Ray](https://twitter.com/teach_python), were about welcoming people on the fringes into the community and making them feel valued, for the greater good of all.
 
-I felt inspired by a talk by [Froi Irizarry Rivera](https://twitter.com/froidotdev) and [José Padilla](https://twitter.com/jpadilla_) called "[Python, Governments, and Contracts](https://2019.pygotham.org/talks/python-governments-and-contracts/)," in which they told of their feeling of helplessness as they had watched a hurricane ravage Puerto Rico and how they had spontaneously channeled their frustration into an appeal for grassroots volunteers who have now created powerful tools to root out corruption.
+I felt inspired by a talk by [Froi Irizarry Rivera](https://twitter.com/froidotdev) and [José Padilla](https://twitter.com/jpadilla_) called "[Python, Governments, and Contracts](https://2019.pygotham.org/talks/python-governments-and-contracts/)," in which they told of their feeling of helplessness as they watched a hurricane ravage Puerto Rico and how they had spontaneously channeled their frustration into an appeal for grassroots volunteers who have now created powerful tools to root out corruption.
 
 And during my own visit to the [Statue of Liberty](https://en.wikipedia.org/wiki/Statue_of_Liberty) and [Ellis Island](https://en.wikipedia.org/wiki/Ellis_Island), I watched Ranger Jenn re-enact the impassioned stories of people who had arrived at Ellis Island as prospective immigrants. She told of the extreme adversity many had faced to be accepted in the United States. More about that later in this blog post.
 
@@ -38,9 +38,9 @@ After having heard Mel's powerful message at Strange Loop, it made me happy to s
 
 #### Python Use Spectrum
 
-I was thrilled that the conference kicked off with a keynote about the "[Python Use Spectrum](https://2019.pygotham.org/talks/keynote-the-python-use-spectrum/)" by [Kojo Idrissa](https://twitter.com/Transition)!
+I was thrilled that the conference kicked off with a keynote about the "[Python Use Spectrum](https://2019.pygotham.org/talks/keynote-the-python-use-spectrum/)" by Kojo Idrissa!
 
-Kojo is a [DjangoCon US](https://2019.djangocon.us/) Organizer, former [DEFNA](https://www.defna.org/) Board Member, and currently DEFNA North American Ambassador, traveling the U.S. and beyond to spread the word about DEFNA. DEFNA is the non-profit that oversees DjangoCon US (disclosure, I'm a DEFNA Board Member and DjangoCon US Website Chair). DEFNA provides small amounts of funding for Django events in North America. We also select the DjangoCon US location from year-to-year and negotiate the high-level details (DjangoCon US could come to your city... ask us how!). As a fellow organizer, Kojo extended an official "hello" and group hug to the PyGotham organizers from the DEFNA Board and DjangoCon US team. Thank you, Kojo! 
+Kojo is a [DjangoCon US](https://2019.djangocon.us/) Organizer, former [DEFNA](https://www.defna.org/) Board Member, and currently DEFNA North American Ambassador, traveling the U.S. and beyond to spread the word about DEFNA. DEFNA is the non-profit that oversees DjangoCon US (disclosure, I'm a DEFNA Board Member and DjangoCon US Website Co-chair). DEFNA also provides small amounts of funding for Django events in North America. As a fellow organizer, Kojo extended an official "hello" and group hug to the PyGotham organizers from the DEFNA Board and DjangoCon US team. Thank you, Kojo! 
 
 Kojo's talk was about how we, as a community, can ensure that as Python grows in use, the number of contributors and the skillset of contributors grow as well.
 
