@@ -10,7 +10,7 @@
 
 ## Talk Proposals
 
-* PyCon US 2020 Maintainer's Summit 2020 "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
+* PyCon US 2020 Maintainers Summit 2020 "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
 * PyCascades 2018 "[Choosing an Advanced Git Workflow](talk-proposals/pycascades-2018.md)"
 * Django US 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](talk-proposals/djangocon-us-2017.md)"
 
