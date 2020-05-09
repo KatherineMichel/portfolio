@@ -26,7 +26,7 @@ Approximately a month before PyGotham, I attended an event at [Strange Loop](htt
 
 Mel told her story, primarily through American Sign Language. I'm embarrassed to say, this was the first time I can remember ever having seen sign language interpretation happen in real life. 
 
-Having grown up loving math, science, and computers, Mel wanted to join the "beautiful" tech world. But she wanted to leave behind the things that made her not fit in. Cultures form in response to the people in them, she pointed out. Eventually she realized that by being her true self and becoming what tech looks like, she could make the tech community more welcoming for people like her and impact the perceptions of others.
+Having grown up loving math, science, and computers, Mel wanted to join the "beautiful" tech world. But she wanted to leave behind the things that made her not fit in. Eventually she realized that by being her true self and becoming what tech looks like, she could make the tech community more welcoming for people like her and impact the perceptions of others. Cultures form in response to the people in them, she pointed out. 
 
 Mel gave a call to action during her message, to see tech as one culture. "Let’s hack it together, and remake it in the image of all of us," she said.
 
@@ -46,7 +46,7 @@ Kojo's talk was about how we, as a community, can ensure that as Python grows in
 
 ![](recap-of-pygotham-2019-images/kojo-burnout-is-real.png)
 
-Photo taken by Casey Faist, used with permission
+Kojo Idrissa; photo credit: Casey Faist (used with permission)
 
 [CPython](https://github.com/python/cpython), the most popular implementation of the Python interpreter, is an open-source project developed primarily by volunteers. Burnout is a real possibility. As projects like CPython grow, they also need skills beyond coding, that are not taught in traditional CS programs. 
 
@@ -58,7 +58,7 @@ On the other hand, a software engineer tends to be a member of a team, using spe
 
 ![](recap-of-pygotham-2019-images/kojo-why-does-this-matter.jpg)
 
-Photo taken by Casey Faist, used with permission
+Kojo Idrissa; photo credit: Casey Faist (used with permission)
 
 Kojo believes that the Python community has developed a strong bias toward software engineering as the "one true way of writing code" and that this is detrimental to the community. 
 
@@ -66,7 +66,7 @@ In reality, everyone on the spectrum is using Python to solve problems and all a
 
 ![](recap-of-pygotham-2019-images/kojo-call-to-action.png)
 
-Photo taken by Casey Faist, used with permission
+Kojo Idrissa; photo credit: Casey Faist (used with permission)
 
 ### Friday Talks
 
@@ -84,7 +84,7 @@ Saturday kicked off with a keynote by [Piper Thunstrom](https://twitter.com/path
 
 ![](recap-of-pygotham-2019-images/piper-accepting-your-success.png)
 
-Photo taken by Casey Faist, used with permission
+Piper Thunstrom; photo credit: Casey Faist (used with permission)
 
 I first heard Piper speak at PyGotham 2017 when I attended her talk "[Monkey Patching My Life- Being a Trans Python Developer](https://youtu.be/FYcwyec7HS8)." 
 
@@ -114,7 +114,7 @@ Froi and José soon became aware of the website of the [Oficina de la Controlar 
 
 ![](recap-of-pygotham-2019-images/froi.png)
 
-Photo taken by Casey Faist, used with permission
+Froi Irizarry Rivera; photo credit: Casey Faist (used with permission)
 
 Froi and José found that the controller website has a terrible user experience. The site data is neither open nor usable. Users have to download documents one at a time. There is no real API. The contract documents are sometimes missing. The search functionality is rudimentary. The document content is not searchable. The pagination is broken. No real insights or data visualization tools are provided.
 
@@ -140,13 +140,13 @@ Meg's keynote at PyGotham was very timely. She had recently been [awarded a PSF 
 
 ![](recap-of-pygotham-2019-images/meg-python-education-website.png)
 
-Photo taken by Casey Faist, used with permission
+Meg Ray; photo credit: Casey Faist (used with permission)
 
 According to the Association for Computer Machinery report "[Running on Empty](https://runningonempty.acm.org/)," lack of access to computer science education or privileged knowledge in US K-12 schools is a significant social justice issue. 
 
 ![](recap-of-pygotham-2019-images/meg-social-justice-issue.png)
 
-Photo taken by Casey Faist, used with permission
+Meg Ray; photo credit: Casey Faist (used with permission)
 
 Meg's talk explored ways to bring computer science education to every student.
 
@@ -168,7 +168,7 @@ Meg also gave a few tips from the "[Zen of Python Education](https://www.slidesh
 
 ![](recap-of-pygotham-2019-images/meg-the-zen-of-python-education.png)
 
-Photo taken by Casey Faist, used with permission
+Meg Ray; photo credit: Casey Faist (used with permission)
 
 At the end of the talk, Meg gave a call to action for community members to advocate and volunteer. Ways to make a difference include: personally advocating at a state or local level for computer science as a graduation requirement; professionally promoting computer science education via your workplace by supporting employees in volunteering for computer science education week or make events, hosting school field trips in your office, inviting high school students to shadow you for a day on take your child to work day, or recruiting a first-time intern.
 
@@ -195,6 +195,8 @@ I was gobsmacked by my surroundings. Walking around the streets of New York, mar
 ![](recap-of-pygotham-2019-images/arriving.jpg)
 ![](recap-of-pygotham-2019-images/times-square.jpg)
 
+7th Avenue and Times Square; photo credit: Katherine Michel
+
 During that 2017 trip, I rode the [Staten Island Ferry](https://en.wikipedia.org/wiki/Staten_Island_Ferry) past the Statue of Liberty. There were so many sights on my list to see that at the time, I was satisfied with that. 
 
 This year, I decided it was time to visit the [Statue of Liberty](https://en.wikipedia.org/wiki/Statue_of_Liberty) and [Ellis Island](https://en.wikipedia.org/wiki/Ellis_Island) for the first time. 
@@ -206,12 +208,16 @@ In [Battery Park](https://en.wikipedia.org/wiki/The_Battery_(Manhattan)), I boar
 ![](recap-of-pygotham-2019-images/1.jpg)
 ![](recap-of-pygotham-2019-images/2.jpg)
 
+Boarding the ferry to Liberty Island and the view of the Statue of Liberty and South Manhattan behind us; photo credit: Katherine Michel
+
 On the island, I walked around the perimeter in front of the statue, then walked 215 steps up to the statue pedestal for a beautiful view of the Manhattan skyline and Statue of Liberty Museum. 
 
 ![](recap-of-pygotham-2019-images/3.jpg)
 ![](recap-of-pygotham-2019-images/4.jpg)
 ![](recap-of-pygotham-2019-images/5.jpg)
 ![](recap-of-pygotham-2019-images/6.jpg)
+
+Standing in front of the statue, the view of South Manhattan and the Statue of Liberty Museum from the pedestal, and the view of the statue from the Statue of Liberty Museum; photo credit: Katherine Michel
 
 I then went to the Statue of Liberty Museum and saw pieces of the statue at scale, an exhibit showing how the pieces were made, and a replica of [The New Colossus](https://en.wikipedia.org/wiki/The_New_Colossus) plaque enscribed with that famous poem that begins "Give me your tired, your poor; Your huddled masses yearning to breathe free," among many other historical items. 
 
@@ -220,14 +226,20 @@ I then went to the Statue of Liberty Museum and saw pieces of the statue at scal
 ![](recap-of-pygotham-2019-images/9.jpg)
 ![](recap-of-pygotham-2019-images/10.jpg)
 
+The Statue of Liberty Museum, pieces of the statue at scale, and a replica of The New Colossus plaque; photo credit: Katherine Michel
+
 I then re-boarded the ferry to travel to Ellis Island, to the [National Museum of Immigration](https://www.nps.gov/elis/index.htm), where immigrants were once welcomed. 
 
 ![](recap-of-pygotham-2019-images/11.jpg)
+
+The National Museum of Immigration; photo credit: Katherine Michel
 
 In the Baggage Room, I joined a tour that was in process. 
 
 ![](recap-of-pygotham-2019-images/12.jpg)
 ![](recap-of-pygotham-2019-images/13.jpg)
+
+A description of the Baggage Room and a view of the Baggage Room from the stairs leading up to the Registration Room; photo credit: Katherine Michel
 
 Ranger Jenn gave us an impassioned depiction of what the atmosphere would have been like for new arrivals in the Baggage Room. 
 
@@ -235,20 +247,28 @@ Ranger Jenn gave us an impassioned depiction of what the atmosphere would have b
 ![](recap-of-pygotham-2019-images/15.jpg)
 ![](recap-of-pygotham-2019-images/16.jpg)
 
+Ranger Jenn giving an impassioned depiction; photo credit: Katherine Michel
+
 We then moved onto the Registration Room. 
 
 ![](recap-of-pygotham-2019-images/17.jpg)
 ![](recap-of-pygotham-2019-images/18.jpg)
 ![](recap-of-pygotham-2019-images/19.jpg)
 
+A description of the Registration Room, and a photo of what it looked like ca. 1912 compared to the day that I was there; photo credit: Katherine Michel
+
 Standing at a registration desk, Ranger Jenn took us through a mock conversation between an official and a prospective immigrant. It was not unlike today. The officials were human life detectors, questioning the prospective immigrants, who had to answer correctly and show they were able-bodied. 
 
 ![](recap-of-pygotham-2019-images/20.jpg)
 ![](recap-of-pygotham-2019-images/21.jpg)
 
+Ranger Jenn taking us through a mock conversation between an official and a prospective immigrant; photo credit: Katherine Michel
+
 Amazingly, the green benches in the Registration Room were the same benches used when the building was in service, Ranger Jenn pointed out.
 
 ![](recap-of-pygotham-2019-images/22.jpg)
+
+One of the green benches used when the building was in service; photo credit: Katherine Michel
 
 At the end of the tour, Ranger Jenn led us to the far end of the room to the "golden doors" that people passed through after being approved. 
 
@@ -256,19 +276,27 @@ She said to us, "May you have many golden doors in life the way Ellis Island was
 
 ![](recap-of-pygotham-2019-images/23.jpg)
 
+Ranger Jenn standing in front of the "golden doors"; photo credit: Katherine Michel
+
 Remembering back to the time I spent working for U.S. Immigration, I had all the feels. 
 
 Ranger Jenn then gave us a special viewing of the Hearing Room. 
 
 ![](recap-of-pygotham-2019-images/24.jpg)
 
-She was keen to tell us the story of [Frank Woodhull/Mary Johnson](https://www.wikitree.com/wiki/Woodhull-215), a woman who dressed as a man, who arrived at Ellis Island in 1908 and had a hearing to determine if he/she should be allowed to enter the U.S. 
+The view of the Hearing Room from the gallery; photo credit: Katherine Michel
+
+She was keen to tell us the story of [Frank Woodhull/Mary Johnson](https://www.wikitree.com/wiki/Woodhull-215), a biological woman who looked like a man, who arrived at Ellis Island in 1908 and had a hearing to determine if he/she should be allowed to enter the U.S. 
 
 ![](recap-of-pygotham-2019-images/25.jpg)
+
+A photo of Frank Woodhull/Mary Johnson
 
 Despite having illness that could have been disqualifying, Frank Woodhull/Mary Johnson was allowed to enter the U.S. and was the only person who ever had a name change at Ellis Island.
 
 ![](recap-of-pygotham-2019-images/26.jpg)
+
+A dog-eared article about Frank Woodhull/Mary Johnson
 
 After the tour was over, I had the chance to chat with Ranger Jenn about my time spent working for U.S. Immigration and how that experience still inspires my work today. She scribbled some thoughts down on a piece of paper, because she likes to reflect on the experiences of people she meets there, and incorporate these insights into her work. 
 
@@ -280,4 +308,5 @@ PyGotham was yet another life-changing conference. Thank you to Conference Chair
 
 ![](recap-of-pygotham-2019-images/i-love-nyc.jpg)
 
-Photos taken by Katherine Michel, unless other specified
+Souveniers at LaGuardia Airport; photo credit: Katherine Michel
+
