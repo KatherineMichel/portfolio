@@ -199,7 +199,7 @@ During that 2017 trip, I rode the [Staten Island Ferry](https://en.wikipedia.org
 
 This year, I decided it was time to visit the [Statue of Liberty](https://en.wikipedia.org/wiki/Statue_of_Liberty) and [Ellis Island](https://en.wikipedia.org/wiki/Ellis_Island) for the first time. 
 
-It's mind blowing to think that some of my own Scottish, Volga German, and Pennsylvania Dutch ancestors arriving in New York City as prospective immigrants, saw the same timeless Statue of Liberty that I did, and walked through the same hallowed halls of what is now the National Museum of Immigration on Ellis Island. 
+It's mind blowing to think that some of my own Scottish, Volga German, and Pennsylvania Dutch ancestors arriving in New York City as prospective immigrants, saw the same timeless Statue of Liberty that I did, and walked through the same hallowed halls of what is now the [National Museum of Immigration](https://www.nps.gov/elis/index.htm) on Ellis Island. 
 
 In [Battery Park](https://en.wikipedia.org/wiki/The_Battery_(Manhattan)), I boarded the ferry and rode to [Liberty Island](https://en.wikipedia.org/wiki/Liberty_Island), home of the [Statue of Liberty](https://en.wikipedia.org/wiki/Statue_of_Liberty) and [Statue of Liberty Museum](https://en.wikipedia.org/wiki/Statue_of_Liberty_Museum).
 
@@ -262,7 +262,7 @@ Ranger Jenn then gave us a special viewing of the Hearing Room.
 
 ![](recap-of-pygotham-2019-images/24.jpg)
 
-She was keen to tell us the story of Frank Woodhull/Mary Johnson, a woman who dressed as a man, who arrived at Ellis Island in 1908 and had a hearing to determine if he/she should be allowed to enter the U.S. 
+She was keen to tell us the story of [Frank Woodhull/Mary Johnson](https://www.wikitree.com/wiki/Woodhull-215), a woman who dressed as a man, who arrived at Ellis Island in 1908 and had a hearing to determine if he/she should be allowed to enter the U.S. 
 
 ![](recap-of-pygotham-2019-images/25.jpg)
 
