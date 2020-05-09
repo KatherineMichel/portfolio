@@ -92,7 +92,7 @@ In Piper's own words, she's "A domestic violence survivor, a trans woman, a game
 
 In her keynote, Piper walked us through the difficult times in her life, and how she came out on the other side having found the Python community and achieved success.
 
-I found it very poinant when Piper said she stands on stage vulnerable because she needed for other people to do that for her. She is reaching out to her own self of 10 or 20 years ago, "The little kid who will be going through a world of hurt." She is also doing it for her current friends who haven't reached out. 
+I found it very poinant when Piper said that she stands on stage vulnerably because she needed for other people to do that for her. She is reaching out to her own self of 10 or 20 years ago, "The little kid who will be going through a world of hurt." She is also doing it for her current friends who haven't reached out. 
 
 In my opinion, her ability to be a role model and voice for other trans members of the community and victims of trauma, could be her most important form of success, and a source of healing for her.
 
@@ -106,7 +106,7 @@ If you're struggling with your mental health: you're not alone. Don't be afraid 
 
 ### Python, Governments, and Contracts
 
-On Saturday, I spent a lot of time in the "hallway track." But there was one talk I did attend that I found particularly important. It was "[Python, Governments, and Contracts](https://2019.pygotham.org/talks/python-governments-and-contracts/)," by [Froi Irizarry Rivera](https://twitter.com/skfroi) and [José Padilla](https://twitter.com/jpadilla_).
+On Saturday, I spent a lot of time in the "hallway track." But there was one talk I did attend that I found particularly important. It was "[Python, Governments, and Contracts](https://2019.pygotham.org/talks/python-governments-and-contracts/)," by [Froi Irizarry Rivera](https://twitter.com/froidotdev) and [José Padilla](https://twitter.com/jpadilla_).
 
 In 2017, Hurricane Maria, a category 4 storm, made landfall in Puerto Rico and devastated the island. Feeling helpless as they worried about their families back home, Froi and José decided to do something. They started the Maria Tech Brigade. In two or three weeks, through grassroots organizing, they were 300 volunteers strong.
 
@@ -120,7 +120,7 @@ Froi and José found that the controller website has a terrible user experience.
 
 Froi and José began to build their own tool [Contrato PRA](https://contratospr.com/) to help journalists and interested citizens investigate corruption.
 
-The batteries included philosophy of Django and the third-party extensions in the Python and Django ecosystem enabled them to get the project up and running as quickly and cost effectively as possible. 
+The batteries included philosophy of [Django](https://www.djangoproject.com/) and the third-party extensions in the Python and Django ecosystem enabled them to get the project up and running as quickly and cost effectively as possible. 
 
 The project was split into two parts: a REST API built with Django REST Framework, Python, Redis, Celery, Docker, and Postgres; and a front-end, which users can access the API data through, built using a React framework called Next.
 
