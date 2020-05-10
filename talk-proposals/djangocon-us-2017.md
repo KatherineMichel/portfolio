@@ -1,3 +1,5 @@
+CfP Info: https://www.papercall.io/djangocon-us-2017
+
 Get a Jumpstart on Collaboration and Code Review in GitHub
 
 Submitted to
