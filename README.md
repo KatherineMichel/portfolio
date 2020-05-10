@@ -27,9 +27,9 @@
 ## DjangoCon US
 
 * [Website Chair and Technical Lead Description](https://github.com/KatherineMichel/portfolio/blob/master/djangocon-us-roles.md)
-* Website Co-Chair, Technical Lead, and Maintainer, 2019/[Website](https://2019.djangocon.us/)
-* Website Chair, Technical Lead, and Maintainer, 2018/[Website](https://2018.djangocon.us/)
-* Website Chair, Technical Lead, and Maintainer, 2017/[Website](https://2017.djangocon.us/)
+* Website Co-Chair, Technical Lead, and Maintainer, 2019/[Website](https://2019.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2019.djangocon.us/)
+* Website Chair, Technical Lead, and Maintainer, 2018/[Website](https://2018.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2018.djangocon.us/)
+* Website Chair, Technical Lead, and Maintainer, 2017/[Website](https://2017.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2017.djangocon.us/)
 * [Website Contributing Guidance Author, 2017](https://github.com/djangocon/2017.djangocon.us/blob/master/README.md)
 * [Website CfP Author, 2017](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website/)
 * [DjangoCon US 2017 Django Girls Event Organizer](https://djangogirls.org/spokane)
