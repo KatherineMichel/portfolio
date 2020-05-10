@@ -26,9 +26,12 @@
 
 ## DjangoCon US
 
-* [Website Co-Chair, 2019](https://2019.djangocon.us/)
-* [Website Chair, 2018](https://2018.djangocon.us/)
-* [Website Chair, 2017](https://2017.djangocon.us/)
+* [Website Chair and Technical Lead Description](https://github.com/KatherineMichel/portfolio/blob/master/djangocon-us-roles.md)
+* [Website Co-Chair, Technical Lead, and Maintainer, 2019](https://2019.djangocon.us/)
+* [Website Chair, Technical Lead, and Maintainer, 2018](https://2018.djangocon.us/)
+* [Website Chair, Technical Lead, and Maintainer, 2017](https://2017.djangocon.us/)
+* [Website CfP Author, 2017](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website/)
+* [DjangoCon US 2017 Django Girls Event Organizer](https://djangogirls.org/spokane)
 
 ## Django Events Foundation North America (DEFNA)
 
@@ -38,6 +41,8 @@
 ## Memberships
 
 * [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
-* [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/)
+* [Django Software Foundation (DSF) Individual Member (Nominated and Confirmed)](https://www.djangoproject.com/foundation/individual-members/)
+
+## Mentoring
 
 
