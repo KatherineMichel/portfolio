@@ -1,3 +1,5 @@
+CfP Info: https://www.papercall.io/pycascades-2018
+
 Choosing an Advanced Git Workflow
 
 Submitted to
