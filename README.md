@@ -62,8 +62,14 @@ Positions Held
 
 ## Mentoring
 
-## Kudos
-
 ## Special Accomplishments
+
+A few accomplishments that I feel especially proud of.
+
+## Special Challenges
+
+Inspired by the late [Courtney Brousseau](https://courtneybrousseau.github.io/), I'll include a few times when things didn't go as planned.
+
+## Kudos
 
 
