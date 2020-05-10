@@ -2,7 +2,7 @@
 
 ### A Powerful Call-to-Action
 
-[PyGotham](https://2019.pygotham.org/), New York City's regional Python conference, took place again last October at Penn Hotel, in the heart of Manhattan. I've been fortunate to have been able to attend PyGotham every year for the past three years.
+[PyGotham](https://2019.pygotham.org/), New York City's regional Python conference, took place again last October at the historic [Hotel Pennsylvania](https://en.wikipedia.org/wiki/Hotel_Pennsylvania), in the heart of Manhattan. I've been fortunate to have been able to attend PyGotham every year for the past three years.
 
 The content at PyGotham is excellent and I always find myself struggling to choose which talk to attend (fortunately, the videos are [published online](https://www.youtube.com/channel/UCTFmuFVfQA8Fl2SzKERFodQ/videos)).
 
@@ -40,7 +40,7 @@ After having heard Mel's powerful message at Strange Loop, it made me happy to s
 
 I was thrilled that the conference kicked off with a keynote about the "[Python Use Spectrum](https://2019.pygotham.org/talks/keynote-the-python-use-spectrum/)" by Kojo Idrissa!
 
-Kojo is a [DjangoCon US](https://2019.djangocon.us/) Organizer, former [DEFNA](https://www.defna.org/) Board Member, and currently DEFNA North American Ambassador. DEFNA is the non-profit that oversees DjangoCon US (disclosure, I'm a DEFNA Board Member and DjangoCon US Website Co-chair). DEFNA also provides small amounts of funding for Django events in North America. As a fellow organizer, Kojo extended an official "hello" and group hug to the PyGotham organizers from the DEFNA Board and DjangoCon US team. Thank you, Kojo! 
+Kojo is a [DjangoCon US](https://2019.djangocon.us/) Organizer, former [DEFNA](https://www.defna.org/) Board Member, and currently DEFNA North American Ambassador. DEFNA is the non-profit that oversees DjangoCon US (disclosure, I'm a DEFNA Board Member and DjangoCon US Website Co-Chair). DEFNA also provides small amounts of funding for Django events in North America. As a fellow organizer, Kojo extended an official "hello" and group hug to the PyGotham organizers from the DEFNA Board and DjangoCon US team. Thank you, Kojo! 
 
 Kojo's talk was about how we, as a community, can ensure that as Python grows in use, the number of contributors and the skillset of contributors grow as well.
 
@@ -76,7 +76,7 @@ As Pinax Maintainer, I find that talks I can apply to my work particularly reson
 
 I found myself completely engrossed in [Mason Egger](https://twitter.com/masonegger)'s high-energy talk, "[Building Docs Like Code: Continuous Integration for Documentation](https://2019.pygotham.org/talks/building-docs-like-code-continuous-integration-for-documentation/)." Mason is a self-described "documentation fanatic" who believes that developers dislike writing code because they have to context-switch out of the code writing tools that they love in order to write docs in a workflow they don't love. Empowering developers to document within a workflow they already know and love can result in beautiful, uniform docs. Mason believes we should treat documentation like code... store it in version control alongside the code it documents, write it with markup language, review and test it with the same granularity as code to ensure it is accurate and functional, and auto-publish it. Mason did a review of documentation types and tools, including [Sphinx](http://www.sphinx-doc.org/) and [MkDocs](https://www.mkdocs.org/). He also gave a case study and demo showing how he created a docs pipeline.
 
-Going on at the same time as Mason Egger's talk was "[How I Solved my NYC Parking Problem with Python](https://2019.pygotham.org/talks/how-i-solved-my-nyc-parking-problem-with-python/)," by [Jessica Garson](https://twitter.com/jessicagarson). I was particularly interested in this talk because Jessica created a fun app to solve her own problem, something I'd like to do more of myself. Jessica lives in Brooklyn and used to have a car. Because of alternate side of the street parking restrictions, every night at 9 o'clock, she would move her car to avoid an expensive parking ticket. She was spending a lot of time looking for a new parking space, sometimes overlooking that she didn't need to, due to a holiday. So, she built an app that would let her know when she didn't need to move her car! Twice a day, a cron job runs the app. Using a [Twitter Premium Search endpoint](https://developer.twitter.com/en/docs/tweets/search/api-reference/premium-search), when the words "suspended" and "tomorrow" show up in a tweet from the [NYC Alt Side Parking Twitter account](https://twitter.com/NYCASP), Twilio sends her a text message letting her know she doesn't need to re-park. Very cool! 
+Going on at the same time as Mason Egger's talk was "[How I Solved my NYC Parking Problem with Python](https://2019.pygotham.org/talks/how-i-solved-my-nyc-parking-problem-with-python/)," by [Jessica Garson](https://twitter.com/jessicagarson). I was particularly interested in this talk because Jessica created a fun app to solve her own problem, something I'd like to do more of myself. Jessica lives in Brooklyn and used to have a car. Because of alternate side of the street parking restrictions, every night at 9 o'clock, she would move her car to avoid an expensive parking ticket. She was spending a lot of time looking for a new parking space, sometimes overlooking that she didn't need to, due to a holiday. So, she built an app that would let her know when she didn't need to move her car! Twice a day, a cron job runs the app. Using a [Twitter Premium Search endpoint](https://developer.twitter.com/en/docs/tweets/search/api-reference/premium-search), when the words "suspended" and "tomorrow" show up in a tweet from the [NYC Alt Side Parking Twitter account](https://twitter.com/NYCASP), [Twilio](https://www.twilio.com/) sends her a text message letting her know she doesn't need to re-park. Very cool! 
 
 ### Accepting Your Successes
 
@@ -92,7 +92,7 @@ In Piper's own words, she's "A domestic violence survivor, a trans woman, a game
 
 In her keynote, Piper walked us through the difficult times in her life, and how she came out on the other side having found the Python community and achieved success.
 
-I found it very poinant when Piper said that she stands on stage vulnerably because she needed for other people to do that for her. She is reaching out to her own self of 10 or 20 years ago, "The little kid who will be going through a world of hurt." She is also doing it for her current friends who haven't reached out. 
+I found it very poinant when Piper said that she stands on stage vulnerably, because she is reaching out to her own self of 10 or 20 years ago, "The little kid who will be going through a world of hurt." She needed for other people to do that for her. She is also doing it for her current friends who haven't reached out. 
 
 In my opinion, her ability to be a role model and voice for other trans members of the community and victims of trauma, could be her most important form of success, and a source of healing for her.
 
@@ -108,7 +108,7 @@ If you're struggling with your mental health: you're not alone. Don't be afraid 
 
 On Saturday, I spent a lot of time in the "hallway track." But there was one talk I did attend that I found particularly important. It was "[Python, Governments, and Contracts](https://2019.pygotham.org/talks/python-governments-and-contracts/)," by [Froi Irizarry Rivera](https://twitter.com/froidotdev) and [José Padilla](https://twitter.com/jpadilla_).
 
-In 2017, Hurricane Maria, a category 4 storm, made landfall in Puerto Rico and devastated the island. Feeling helpless as they worried about their families back home, Froi and José decided to do something. They started the Maria Tech Brigade. In two or three weeks, through grassroots organizing, they were 300 volunteers strong.
+In 2017, Hurricane Maria, a category 4 storm, made landfall in Puerto Rico and devastated the island. Feeling helpless as they worried about their families back home, Froi and José decided to do something. They started the [Maria Tech Brigade](https://github.com/SoPR/maria-tech-brigade-effort). In two or three weeks, through grassroots organizing, they were 300 volunteers strong.
 
 Froi and José soon became aware of the website of the [Oficina de la Controlar de Puerto Rico](https://www.ocpr.gov.pr/). Contracts made by government entities to other government entities or contractors are published there. The Puerto Rican Power Authority has had a number of suspicious contracts over the past two years. 
 
@@ -122,13 +122,13 @@ Froi and José began to build their own tool [Contrato PRA](https://contratospr.
 
 The batteries included philosophy of [Django](https://www.djangoproject.com/) and the third-party extensions in the Python and Django ecosystem enabled them to get the project up and running as quickly and cost effectively as possible. 
 
-The project was split into two parts: a REST API built with Django REST Framework, Python, Redis, Celery, Docker, and Postgres; and a front-end, which users can access the API data through, built using a React framework called Next.
+The project was split into two parts: a REST API built with [Django REST Framework](https://www.django-rest-framework.org/), [Python](https://www.python.org/), [Redis](https://redis.io/), [Celery](http://www.celeryproject.org/), [Docker,](https://www.docker.com/) and [Postgres](https://www.postgresql.org/); and a front-end, which users can access the API data through, built using a [React](https://reactjs.org/) framework called [Next](https://nextjs.org/).
 
 Froi and José used JSON endpoints and self-throttling to optimize data collection, without negatively affecting the controller site. In the Contrato PRA site, documents and their contents are now searchable and the data can be visualized by category.
 
-Sadly, the work is not done, because the consequences of mismanagement and corruption are still ongoing and Puerto Rico is suffering additional natural disasters.
+Sadly, the work is not done, because the consequences of mismanagement and corruption are still ongoing and Puerto Rico has suffered additional natural disaster.
 
-They met their goal of collecting the million contract documents on the website. They are also considering ways to make their scraping logs and project financials transparent. They want to collect input from journalists and members of the data science community to help improve the site. They are also exploring ways to find sponsorship for the $60/month cost of running the project.
+They have met their goal of collecting the million contract documents on the website. They have also explored ways of making their scraping logs and project financials transparent. They want to collect input from journalists and members of the data science community to help improve the site. And they are interested in finding sponsorship for the $60/month cost of running the project.
 
 If you are interested in the project or would like to contribute, reach out to them!
 
@@ -176,9 +176,9 @@ At the end of the talk, Meg gave a call to action for community members to advoc
 
 As usual, the "hallway track" was an invaluable opportunity to network. The connections made were too numerous to list all, but here are a few highlights:
 
-It was a pleasure to chat with PSF Director [Lorena Mesa](https://twitter.com/loooorenanicole) about PSF diversity initiatives, and meet for the first time PyCon US 2019 and 2020 Financial Co-chair [Jigyasa Grover](https://twitter.com/jigyasa_grover).
+It was a pleasure to chat with PSF Director [Lorena Mesa](https://twitter.com/loooorenanicole) about PSF diversity initiatives, and meet for the first time PyCon US 2019 and 2020 Financial Co-Chair [Jigyasa Grover](https://twitter.com/jigyasa_grover).
 
-While mentioning to Meg Ray that perhaps there were some lessons in her talk that I could apply to my work as an open-source maintainer, we arranged for her to pick my brain about my experiences as DjangoCon Website Chair and Pinax Maintainer as she embarks on the new open-source PSF Education landing page. 
+While mentioning to Meg Ray that perhaps there were some lessons in her talk that I could apply to my work as an open-source maintainer, we arranged for her to pick my brain about my experiences as [DjangoCon US Website](https://2019.djangocon.us/) Chair and Co-Chair and [Pinax](https://github.com/pinax) Maintainer as she embarks on the new open-source PSF Education landing page. 
 
 During the last few hours of PyGotham, I also serendipitiously met employees of three companies that have had a huge impact on my life, and was offered tours of the San Francisco-based headquarters of all three. Fun!
 
@@ -188,7 +188,7 @@ When I attended PyGotham for the first time in 2017, it was the first time I had
 
 I hadn't realized ahead of time how meaningful it would be to finally experience for myself a place that is such an important part of our culture.  
 
-When I arrived at [Penn Station](https://en.wikipedia.org/wiki/Pennsylvania_Station_(New_York_City)) in 2017, I distinctly remember emerging from the station onto bustling 7th Avenue, [Madison Square Garden](https://en.wikipedia.org/wiki/Madison_Square_Garden) behind me and [Hotel Penn](https://en.wikipedia.org/wiki/Hotel_Pennsylvania) in front of me. 
+When I arrived at [Penn Station](https://en.wikipedia.org/wiki/Pennsylvania_Station_(New_York_City)) in 2017, I distinctly remember emerging from the station onto bustling 7th Avenue, [Madison Square Garden](https://en.wikipedia.org/wiki/Madison_Square_Garden) behind me and [Hotel Pennsylvania](https://en.wikipedia.org/wiki/Hotel_Pennsylvania) in front of me. 
 
 I was gobsmacked by my surroundings. Walking around the streets of New York, marveling at the landscape, I found the people to be austere in appearance, but kind. I was fascinated by the rich diversity I saw around me and the sight of people just living who they are, unapologetically. 
 
