@@ -22,6 +22,10 @@ All converged into one interwoven experience that felt very fitting in such a di
 
 ### A Note About American Sign Language at PyGotham
 
+![](recap-of-pygotham-2019-images/members-of-the-deaf-community.jpg)
+
+Members of the Deaf community at PyGotham; photo credit: A. Jesse Jiryu Davis (used with permission)
+
 Approximately a month before PyGotham, I attended an event at [Strange Loop](https://www.thestrangeloop.com/) conference in St. Louis where a deaf woman named [Mel Chua](https://twitter.com/mchua) was a featured speaker. Mel is an electrical computer engineer with a background in free open-source software (FOSS), large-scale distributed engineering team collaboration, and engineering education culture. 
 
 Mel told her story, primarily through American Sign Language. I'm embarrassed to say, this was the first time I can remember ever having seen sign language interpretation happen in real life. 
