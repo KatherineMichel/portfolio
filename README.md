@@ -43,9 +43,9 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 * Website Co-Chair, Technical Lead, and Maintainer, 2019/[Website](https://2019.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2019.djangocon.us/)
 * Website Chair, Technical Lead, and Maintainer, 2018/[Website](https://2018.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2018.djangocon.us/)
 * Website Chair, Technical Lead, and Maintainer, 2017/[Website](https://2017.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2017.djangocon.us/)
-* [Website Contributing Guidance Author, 2017](https://github.com/djangocon/2017.djangocon.us/blob/master/README.md)
-* [Website CfP Author, 2017](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website/)
-* [DjangoCon US 2017 Django Girls Event Organizer](https://djangogirls.org/spokane)
+* [Website Contributing Guidance](https://github.com/djangocon/2017.djangocon.us/blob/master/README.md) Author, 2017
+* [Website CfP](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website/) Author, 2017
+* DjangoCon US 2017 [Django Girls Event](https://djangogirls.org/spokane) Organizer
 
 ## Django Events Foundation North America (DEFNA)
 
@@ -58,7 +58,7 @@ Positions Held
 ## Memberships
 
 * [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
-* [Django Software Foundation (DSF) Individual Member (Nominated and Confirmed)](https://www.djangoproject.com/foundation/individual-members/)
+* [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/) (Nominated and Confirmed)
 
 ## Mentoring
 
