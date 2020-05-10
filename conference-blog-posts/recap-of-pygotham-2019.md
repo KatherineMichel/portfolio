@@ -74,7 +74,7 @@ Kojo Idrissa; photo credit: Casey Faist (used with permission)
 
 ### Friday Talks
 
-As Pinax Maintainer, I find that talks I can apply to my work particularly resonate with me. There were several such talks on Friday.
+As a [Pinax](https://github.com/pinax) Maintainer, I find that talks I can apply to my work particularly resonate with me. There were several such talks on Friday.
 
 [Hynek Schlawack](https://twitter.com/hynek) is a CPython Core Developer and maintainer of many open-source projects. In his talk, "[Maintaining a Python Project When It's Not Your Job](https://2019.pygotham.org/talks/maintaining-a-python-project-when-its-not-your-job/)," Hynek explained how a maintainer with limited time can publish a high quality Python package, that as much as possible leverages the contributions of others. Even though the title suggests it's for volunteer maintainers, the talk included lessons that could be useful to just about any maintainer. Hynek has made a fine science out of creating a welcoming environment for all prospective contributors, removing the fiction from the contribution process, and automating the package continuous integration and release process. This process has also been helpfully documented in an [outline on his blog](https://hynek.me/talks/python-foss/). I particularly liked that the talk went beyond a list of tips, to focus more on the psychology of motivation and time, and the tools and configurations he uses.
 
