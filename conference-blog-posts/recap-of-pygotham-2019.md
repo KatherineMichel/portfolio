@@ -193,9 +193,12 @@ When I arrived at [Penn Station](https://en.wikipedia.org/wiki/Pennsylvania_Stat
 I was gobsmacked by my surroundings. Walking around the streets of New York, marveling at the landscape, I found the people to be austere in appearance, but kind. I was fascinated by the rich diversity I saw around me and the sight of people just living who they are, unapologetically. 
 
 ![](recap-of-pygotham-2019-images/arriving.jpg)
+
+7th Avenue; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/times-square.jpg)
 
-7th Avenue and Times Square; photo credit: Katherine Michel
+Times Square; photo credit: Katherine Michel
 
 During that 2017 trip, I rode the [Staten Island Ferry](https://en.wikipedia.org/wiki/Staten_Island_Ferry) past the Statue of Liberty. There were so many sights on my list to see that at the time, I was satisfied with that. 
 
@@ -206,27 +209,48 @@ It's mind blowing to think that some of my own Scottish, Volga German, and Penns
 In [Battery Park](https://en.wikipedia.org/wiki/The_Battery_(Manhattan)), I boarded the ferry and rode to [Liberty Island](https://en.wikipedia.org/wiki/Liberty_Island), home of the [Statue of Liberty](https://en.wikipedia.org/wiki/Statue_of_Liberty) and [Statue of Liberty Museum](https://en.wikipedia.org/wiki/Statue_of_Liberty_Museum).
 
 ![](recap-of-pygotham-2019-images/1.jpg)
+
+Boarding the ferry to Liberty Island; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/2.jpg)
 
-Boarding the ferry to Liberty Island and the view of the Statue of Liberty and South Manhattan behind us; photo credit: Katherine Michel
+The view of the Statue of Liberty and South Manhattan behind us; photo credit: Katherine Michel
 
 On the island, I walked around the perimeter in front of the statue, then walked 215 steps up to the statue pedestal for a beautiful view of the Manhattan skyline and Statue of Liberty Museum. 
 
 ![](recap-of-pygotham-2019-images/3.jpg)
+
+Standing in front of the Statue of Liberty; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/4.jpg)
+
+The view of South Manhattan from the pedestal; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/5.jpg)
+
+The view of the Statue of Liberty Museum from the pedestal; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/6.jpg)
 
-Standing in front of the statue, the view of South Manhattan and the Statue of Liberty Museum from the pedestal, and the view of the statue from the Statue of Liberty Museum; photo credit: Katherine Michel
+The view of the statue from the Statue of Liberty Museum; photo credit: Katherine Michel
 
 I then went to the Statue of Liberty Museum and saw pieces of the statue at scale, an exhibit showing how the pieces were made, and a replica of [The New Colossus](https://en.wikipedia.org/wiki/The_New_Colossus) plaque enscribed with that famous poem that begins "Give me your tired, your poor; Your huddled masses yearning to breathe free," among many other historical items. 
 
 ![](recap-of-pygotham-2019-images/7.jpg)
+
+The beautiful Statue of Liberty Museum; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/8.jpg)
+
+A piece of the statue at scale; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/9.jpg)
+
+A piece of the statue at scale; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/10.jpg)
 
-The Statue of Liberty Museum, pieces of the statue at scale, and a replica of The New Colossus plaque; photo credit: Katherine Michel
+A replica of The New Colossus plaque; photo credit: Katherine Michel
 
 I then re-boarded the ferry to travel to Ellis Island, to the [National Museum of Immigration](https://www.nps.gov/elis/index.htm), where immigrants were once welcomed. 
 
@@ -237,14 +261,23 @@ The National Museum of Immigration; photo credit: Katherine Michel
 In the Baggage Room, I joined a tour that was in process. 
 
 ![](recap-of-pygotham-2019-images/12.jpg)
+
+A description of the Baggage Room; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/13.jpg)
 
-A description of the Baggage Room and a view of the Baggage Room from the stairs leading up to the Registration Room; photo credit: Katherine Michel
+A view of the Baggage Room from the stairs leading up to the Registration Room; photo credit: Katherine Michel
 
 Ranger Jenn gave us an impassioned depiction of what the atmosphere would have been like for new arrivals in the Baggage Room. 
 
 ![](recap-of-pygotham-2019-images/14.jpg)
+
+Ranger Jenn giving an impassioned depiction; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/15.jpg)
+
+Ranger Jenn giving an impassioned depiction; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/16.jpg)
 
 Ranger Jenn giving an impassioned depiction; photo credit: Katherine Michel
@@ -252,14 +285,23 @@ Ranger Jenn giving an impassioned depiction; photo credit: Katherine Michel
 We then moved onto the Registration Room. 
 
 ![](recap-of-pygotham-2019-images/17.jpg)
+
+A description of the Registration Room; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/18.jpg)
+
+A photo of what the Registration Room looked like ca. 1912; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/19.jpg)
 
-A description of the Registration Room, and a photo of what it looked like ca. 1912 compared to the day that I was there; photo credit: Katherine Michel
+A photo of what the Registration Room looked like on the day that I was there; photo credit: Katherine Michel
 
 Standing at a registration desk, Ranger Jenn took us through a mock conversation between an official and a prospective immigrant. It was not unlike today. The officials were human life detectors, questioning the prospective immigrants, who had to answer correctly and show they were able-bodied. 
 
 ![](recap-of-pygotham-2019-images/20.jpg)
+
+Ranger Jenn taking us through a mock conversation between an official and a prospective immigrant; photo credit: Katherine Michel
+
 ![](recap-of-pygotham-2019-images/21.jpg)
 
 Ranger Jenn taking us through a mock conversation between an official and a prospective immigrant; photo credit: Katherine Michel
