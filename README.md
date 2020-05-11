@@ -71,6 +71,6 @@ A few accomplishments that I feel especially proud of:
 ## Special Challenges
 
 Inspired by the late [Courtney Brousseau](https://courtneybrousseau.github.io/), here are a few times when things didn't go as planned and what I learned:
-* I once accidentally deleted an important develop branch in a GitHub Project. It was quickly and easily fixed. More importantly, I made a lot of progress after that. Anytime I was afraid to do something, I would remember that I had already made the worst mistake I thought I could make, and it actually hadn't been that bad.
+* Around the time that I began learning how to be a maintainer, I accidentally deleted an important develop branch in that GitHub Project. It was quickly and easily fixed. More importantly, I learned a lot about how to be a maintainer after that. Anytime I was afraid to do something, I would remember that I had already made the worst mistake I thought I could make, and it actually hadn't been that bad.
 
 ## Kudos
