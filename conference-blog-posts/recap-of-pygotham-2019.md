@@ -1,5 +1,9 @@
 # Recap of PyGotham 2019
 
+![](recap-of-pygotham-2019-images/statue-of-liberty-and-south-manhattan.jpg)
+
+The view of the Statue of Liberty and South Manhattan behind us; photo credit: Katherine Michel
+
 ### A Powerful Call-to-Action
 
 [PyGotham](https://2019.pygotham.org/), New York City's regional Python conference, took place again last October at the historic [Hotel Pennsylvania](https://en.wikipedia.org/wiki/Hotel_Pennsylvania), in the heart of Manhattan. I've been fortunate to have been able to attend PyGotham every year for the past three years.
@@ -216,33 +220,33 @@ In [Battery Park](https://en.wikipedia.org/wiki/The_Battery_(Manhattan)), I boar
 
 Boarding the ferry to Liberty Island; photo credit: Katherine Michel
 
-![](recap-of-pygotham-2019-images/2.jpg)
-
-The view of the Statue of Liberty and South Manhattan behind us; photo credit: Katherine Michel
-
 On the island, I walked around the perimeter in front of the statue, then walked 215 steps up to the statue pedestal for a beautiful view of the Manhattan skyline and Statue of Liberty Museum. 
 
-![](recap-of-pygotham-2019-images/3.jpg)
+![](recap-of-pygotham-2019-images/2.jpg)
 
 Standing in front of the Statue of Liberty; photo credit: Katherine Michel
 
-![](recap-of-pygotham-2019-images/4.jpg)
+![](recap-of-pygotham-2019-images/3.jpg)
 
 The view of South Manhattan from the pedestal; photo credit: Katherine Michel
 
-![](recap-of-pygotham-2019-images/5.jpg)
+![](recap-of-pygotham-2019-images/4.jpg)
 
 The view of the Statue of Liberty Museum from the pedestal; photo credit: Katherine Michel
 
-![](recap-of-pygotham-2019-images/6.jpg)
+![](recap-of-pygotham-2019-images/5.jpg)
 
 The view of the statue from the Statue of Liberty Museum; photo credit: Katherine Michel
 
 I then went to the Statue of Liberty Museum and saw pieces of the statue at scale, an exhibit showing how the pieces were made, and a replica of [The New Colossus](https://en.wikipedia.org/wiki/The_New_Colossus) plaque enscribed with that famous poem that begins "Give me your tired, your poor; Your huddled masses yearning to breathe free," among many other historical items. 
 
-![](recap-of-pygotham-2019-images/7.jpg)
+![](recap-of-pygotham-2019-images/6.jpg)
 
 The beautiful Statue of Liberty Museum; photo credit: Katherine Michel
+
+![](recap-of-pygotham-2019-images/7.jpg)
+
+A piece of the statue at scale; photo credit: Katherine Michel
 
 ![](recap-of-pygotham-2019-images/8.jpg)
 
@@ -250,29 +254,29 @@ A piece of the statue at scale; photo credit: Katherine Michel
 
 ![](recap-of-pygotham-2019-images/9.jpg)
 
-A piece of the statue at scale; photo credit: Katherine Michel
-
-![](recap-of-pygotham-2019-images/10.jpg)
-
 A replica of The New Colossus plaque; photo credit: Katherine Michel
 
 I then re-boarded the ferry to travel to Ellis Island, to the [National Museum of Immigration](https://www.nps.gov/elis/index.htm), where immigrants were once welcomed. 
 
-![](recap-of-pygotham-2019-images/11.jpg)
+![](recap-of-pygotham-2019-images/10.jpg)
 
 The National Museum of Immigration; photo credit: Katherine Michel
 
 In the Baggage Room, I joined a tour that was in process. 
 
-![](recap-of-pygotham-2019-images/12.jpg)
+![](recap-of-pygotham-2019-images/11.jpg)
 
 A description of the Baggage Room; photo credit: Katherine Michel
 
-![](recap-of-pygotham-2019-images/13.jpg)
+![](recap-of-pygotham-2019-images/12.jpg)
 
 A view of the Baggage Room from the stairs leading up to the Registration Room; photo credit: Katherine Michel
 
 Ranger Jenn gave us an impassioned depiction of what the atmosphere would have been like for new arrivals in the Baggage Room. 
+
+![](recap-of-pygotham-2019-images/13.jpg)
+
+Ranger Jenn giving an impassioned depiction; photo credit: Katherine Michel
 
 ![](recap-of-pygotham-2019-images/14.jpg)
 
@@ -282,37 +286,33 @@ Ranger Jenn giving an impassioned depiction; photo credit: Katherine Michel
 
 Ranger Jenn giving an impassioned depiction; photo credit: Katherine Michel
 
-![](recap-of-pygotham-2019-images/16.jpg)
-
-Ranger Jenn giving an impassioned depiction; photo credit: Katherine Michel
-
 We then moved onto the Registration Room. 
 
-![](recap-of-pygotham-2019-images/17.jpg)
+![](recap-of-pygotham-2019-images/16.jpg)
 
 A description of the Registration Room; photo credit: Katherine Michel
 
-![](recap-of-pygotham-2019-images/18.jpg)
+![](recap-of-pygotham-2019-images/17.jpg)
 
 A photo of what the Registration Room looked like ca. 1912; photo credit: Katherine Michel
 
-![](recap-of-pygotham-2019-images/19.jpg)
+![](recap-of-pygotham-2019-images/18.jpg)
 
 A photo of what the Registration Room looked like on the day that I was there; photo credit: Katherine Michel
 
 Standing at a registration desk, Ranger Jenn took us through a mock conversation between an official and a prospective immigrant. It was not unlike today. The officials were human life detectors, questioning the prospective immigrants, who had to answer correctly and show they were able-bodied. 
 
-![](recap-of-pygotham-2019-images/20.jpg)
+![](recap-of-pygotham-2019-images/19.jpg)
 
 Ranger Jenn taking us through a mock conversation between an official and a prospective immigrant; photo credit: Katherine Michel
 
-![](recap-of-pygotham-2019-images/21.jpg)
+![](recap-of-pygotham-2019-images/20.jpg)
 
 Ranger Jenn taking us through a mock conversation between an official and a prospective immigrant; photo credit: Katherine Michel
 
 Amazingly, the green benches in the Registration Room were the same benches used when the building was in service, Ranger Jenn pointed out.
 
-![](recap-of-pygotham-2019-images/22.jpg)
+![](recap-of-pygotham-2019-images/21.jpg)
 
 One of the green benches used when the building was in service; photo credit: Katherine Michel
 
@@ -320,7 +320,7 @@ At the end of the tour, Ranger Jenn led us to the far end of the room to the "go
 
 She said to us, "May you have many golden doors in life the way Ellis Island was for them and may each of you be a golden door in this life for someone else the way this spot was for so many, personally and collectively. One third to one fourth of all Americans today can trace at least one ancestor to this little spit of land in the New York Harbor."
 
-![](recap-of-pygotham-2019-images/23.jpg)
+![](recap-of-pygotham-2019-images/22.jpg)
 
 Ranger Jenn standing in front of the "golden doors"; photo credit: Katherine Michel
 
@@ -328,19 +328,19 @@ Remembering back to the time I spent working for U.S. Immigration, I had all the
 
 Ranger Jenn then gave us a special viewing of the Hearing Room. 
 
-![](recap-of-pygotham-2019-images/24.jpg)
+![](recap-of-pygotham-2019-images/23.jpg)
 
 The view of the Hearing Room from the gallery; photo credit: Katherine Michel
 
 She was keen to tell us the story of [Frank Woodhull/Mary Johnson](https://www.wikitree.com/wiki/Woodhull-215), a biological woman who looked like a man, who arrived at Ellis Island in 1908 and had a hearing to determine if he/she should be allowed to enter the U.S. 
 
-![](recap-of-pygotham-2019-images/25.jpg)
+![](recap-of-pygotham-2019-images/24.jpg)
 
 A photo of Frank Woodhull/Mary Johnson
 
 Despite having illness that could have been disqualifying, Frank Woodhull/Mary Johnson was allowed to enter the U.S. and was the only person who ever had a name change at Ellis Island.
 
-![](recap-of-pygotham-2019-images/26.jpg)
+![](recap-of-pygotham-2019-images/25.jpg)
 
 A dog-eared article about Frank Woodhull/Mary Johnson
 
