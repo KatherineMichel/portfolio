@@ -2,9 +2,11 @@
 
 Published October 28, 2019
 
-### Teaser
+### Description
 
 DjangoCon US 2019 took place at Mission Valley Marriott in sunny San Diego from September 22-27. Eldarion’s Katherine Michel shared some insight into what that experience was like and what's on the horizon for Django!
+
+### Blog Post
 
 ![](recap-of-djangocon-us-2019-images/conference-attendees.jpg)
 
