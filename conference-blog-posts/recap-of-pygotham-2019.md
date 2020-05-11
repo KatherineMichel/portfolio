@@ -2,7 +2,7 @@
 
 ![](recap-of-pygotham-2019-images/statue-of-liberty-and-south-manhattan.jpg)
 
-While riding the ferry to Liberty Island, looking back the Statue of Liberty and South Manhattan; photo credit: Katherine Michel
+While riding the ferry to Liberty Island, looking back at the Statue of Liberty and South Manhattan; photo credit: Katherine Michel
 
 ### A Powerful Call-to-Action
 
