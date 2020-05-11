@@ -12,7 +12,7 @@ While riding the ferry to Liberty Island, looking back at the Statue of Liberty 
 
 ### A Powerful Call-to-Action
 
-[PyGotham](https://2019.pygotham.org/), New York City's regional Python conference, took place again last October at the historic [Hotel Pennsylvania](https://en.wikipedia.org/wiki/Hotel_Pennsylvania), in the heart of Manhattan. I've been fortunate to have been able to attend PyGotham every year for the past three years.
+[PyGotham](https://2019.pygotham.org/), New York City's regional Python conference, took place again last fall at the historic [Hotel Pennsylvania](https://en.wikipedia.org/wiki/Hotel_Pennsylvania), in the heart of Manhattan. I've been fortunate to have been able to attend PyGotham every year for the past three years.
 
 The content at PyGotham is excellent and I always find myself struggling to choose which talk to attend (fortunately, the videos are [published online](https://www.youtube.com/channel/UCTFmuFVfQA8Fl2SzKERFodQ/videos)).
 
