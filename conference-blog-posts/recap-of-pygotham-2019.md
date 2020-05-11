@@ -1,5 +1,11 @@
 # Recap of PyGotham 2019
 
+Published
+
+### Description
+
+### Blog Post
+
 ![](recap-of-pygotham-2019-images/statue-of-liberty-and-south-manhattan.jpg)
 
 While riding the ferry to Liberty Island, looking back at the Statue of Liberty and South Manhattan; photo credit: Katherine Michel
