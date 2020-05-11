@@ -4,6 +4,8 @@ Published
 
 ### Description
 
+PyGotham 2019 took place at Hotel Penn in New York City last fall. While sheltering-in-place, Eldarion’s Katherine Michel looked back at the wonderful experience she had there and looks forward to returning to a conference and city she loves.
+
 ### Blog Post
 
 ![](recap-of-pygotham-2019-images/statue-of-liberty-and-south-manhattan.jpg)
