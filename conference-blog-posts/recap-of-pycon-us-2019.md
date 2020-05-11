@@ -4,15 +4,13 @@ Published June 1, 2019
 
 ### Description
 
-Recap of PyCon US 2019
-
-### Teaser
-
 PyCon US 2019 took place at Huntington Convention Center in downtown Cleveland, Ohio from May 1-10. Eldarion’s Katherine Michel wrote about what it was like to experience PyCon US for the first time!
+
+### Blog Post
 
 ![](recap-of-pycon-us-2019-images/cleveland-sign.jpg)
 
-Cleveland script sign at Edgewater Park, with a lovely view of downtown Cleveland as a backdrop, taken by Katherine Michel
+Cleveland script sign at Edgewater Park, with a lovely view of downtown Cleveland as a backdrop; photo credit: Katherine Michel
 
 This was my first PyCon and I had a blast! It was one of the most fun and inspiring experiences of my life.
 
@@ -74,7 +72,7 @@ On Saturday afternoon, even though I hadn’t had time to check out the [Open Sp
 
 ![](recap-of-pycon-us-2019-images/chocolate-open-space.jpg)
 
-A selection of chocolate on the table at the Chocolate Open Space, taken by Katherine Michel
+A selection of chocolate on the table at the Chocolate Open Space; photo credit: Katherine Michel
 
 After the Chocolate Open Space I spent time as a volunteer at the [PyLadies](https://www.pyladies.com/) Booth. I hadn’t realized how many people I would meet as a booth volunteer! It was a lot of fun and I highly recommend it. So many people came up to the booth to pick up stickers, buy t-shirts, ask questions about PyLadies, and inquire about [PyLadies Auction](https://us.pycon.org/2019/events/auction/) tickets. Fortunately and unfortunately, the PyLadies Auction tickets were sold out. Although I hated to turn people away, it was great to see an abundance of support for PyLadies.
 
@@ -86,7 +84,7 @@ Another highlight of PyCon for me was meeting [Dr. Naomi Ceder](https://twitter.
 
 ![](recap-of-pycon-us-2019-images/pyladies-auction.jpg)
 
-The portrait of Guido being carried around by PyLadies, taken by Katherine Michel
+The portrait of Guido being carried around by PyLadies; photo credit: Katherine Michel
 
 ### Sunday
 
@@ -96,7 +94,7 @@ After the PyLadies Lunch, I walked from the convention center a few blocks to ta
 
 ![](recap-of-pycon-us-2019-images/terminal-tower.jpg)
 
-Cleveland skyline as seen from the Terminal Tower Observation Deck, taken by Katherine Michel
+Cleveland skyline as seen from the Terminal Tower Observation Deck; photo credit: Katherine Michel
 
 ### Development Sprints and More Sight Seeing
 
@@ -106,7 +104,7 @@ After several overcast days, the sun finally came out on Monday morning. Even th
 
 ![](recap-of-pycon-us-2019-images/edgewater-park.jpg)
 
- A peaceful scene at Edgewater Park, taken by Katherine Michel
+A peaceful scene at Edgewater Park; photo credit: Katherine Michel
 
 Back at the sprints, I spent time in the CPython Sprint. I remember back to the 2016 [PyLadies tweet](https://twitter.com/mariatta/status/737689052736978945) that led [Mariatta](https://twitter.com/mariatta) to become a CPython Core Developer. She's one of my heroes and I love having the chance to see her in person!
 
@@ -120,7 +118,7 @@ On my last full day of PyCon, I left the sprints to spend a large part of the da
 
 ![](recap-of-pycon-us-2019-images/rock-and-roll-hall-of-fame.jpg)
 
-The Beatles Exhibit at the Rock and Roll Hall of Fame Museum, taken by Katherine Michel
+The Beatles Exhibit at the Rock and Roll Hall of Fame Museum; photo credit; Katherine Michel
 
 On Wednesday, my last evening in Cleveland, being invited to eat at [Flannery’s Irish Pub](https://www.flannerys.com/) with a group of CPython Core Devs and other Pythonistas was a wonderful way to end a magical week.
 
