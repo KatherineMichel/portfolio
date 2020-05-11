@@ -15,6 +15,8 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 
 ## Community Health
 
+* [Setting Up an Open Source Project](https://github.com/KatherineMichel/setting-up-an-open-source-project) (mostly valid, but not updated recently)
+
 ## Conference Blog Posts
 
 * [Recap of PyGotham 2019](conference-blog-posts/recap-of-pygotham-2019.md)
@@ -69,7 +71,6 @@ A few accomplishments that I feel especially proud of:
 ## Special Challenges
 
 Inspired by the late [Courtney Brousseau](https://courtneybrousseau.github.io/), here are a few times when things didn't go as planned and what I learned:
+* I once accidentally deleted an important develop branch in a GitHub Project. It was quickly and easily fixed. More importantly, I made a lot of progress after that. Anytime I was afraid to do something, I would remember that I had already made the worst mistake I thought I could make, and it actually hadn't been that bad.
 
 ## Kudos
-
-
