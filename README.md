@@ -62,6 +62,10 @@ Positions Held
 * [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
 * [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/) (Nominated and Confirmed)
 
+## Stanford Code in Place
+
+* [Simba Friends Twitter Bot Project](https://github.com/KatherineMichel/stanford-code-in-place-final-project)
+
 ## Mentoring
 
 ## Special Accomplishments
