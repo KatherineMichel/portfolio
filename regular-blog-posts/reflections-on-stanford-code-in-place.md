@@ -144,7 +144,7 @@ I also appreciated that we were told that our final projects could be as humble 
 
 Having personally experienced the mixed messages women in particular face about skills and achievement, it's refreshing to be in a mental space where students are all given permission to do their best, wherever they are on their journey, without being stuck in the psychological trap women are often perpetually caught in of being either not good enough or too good, instead of simply being.
 
-My only quibble, and it's a very small one, about inclusion during the course was the use of "guys" a few times during lectures to refer to students of both genders. I'm 100% sure it was not at all intended to create a feeling of exclusion and it's something I occassionally do by accident. My friend Lacey created a website called [Hey Guys](https://heyguys.cc/) that has a list of alternatives. I'm personally a fan of "y'all." :)
+My only quibble, and it's a very small one, about inclusion during the course was the use of "guys" a few times during lectures to refer to students of all genders. I'm 100% sure it was not at all intended to create a feeling of exclusion and it's something I occassionally do by accident. My friend Lacey created a website called [Hey Guys](https://heyguys.cc/) that has a list of alternatives. I'm personally a fan of "y'all." :)
 
 ### My Favorite Lecture
 
