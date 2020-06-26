@@ -13,9 +13,9 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 * Updated setup.py format
 * Moved docs to README.mds and improved README.md layouts
 
-## Community Health
+## Regular Blog Posts
 
-* [Setting Up an Open Source Project](https://github.com/KatherineMichel/setting-up-an-open-source-project) (mostly valid, but not updated recently)
+* [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 
 ## Conference Blog Posts
 
@@ -62,9 +62,17 @@ Positions Held
 * [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
 * [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/) (Nominated and Confirmed)
 
-## Stanford Code in Place
+## Education
+
+### Stanford Code in Place
 
 * [Simba Friends Twitter Bot Project](https://github.com/KatherineMichel/stanford-code-in-place-final-project)
+
+### Lancaster University Management School
+
+## Community Health
+
+* [Setting Up an Open Source Project](https://github.com/KatherineMichel/setting-up-an-open-source-project) (mostly valid, but not updated recently)
 
 ## Mentoring
 
