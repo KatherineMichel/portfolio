@@ -52,7 +52,7 @@ That morning, I began fulfilling one of my goals as a [DEFNA](https://www.defna.
 
 Tweets in Español and English for DEFNA representation at PyCon Charlas
 
-# ![](pylatam.jpg)
+![](pylatam.jpg)
 
 Me and Joel Rivera with the PyLatam Logo
 
