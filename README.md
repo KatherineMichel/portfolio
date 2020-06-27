@@ -66,7 +66,15 @@ Positions Held
 
 ### Stanford Code in Place
 
+Code in Place, offered online by Stanford University April-May 2020
+* Completed a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A.
+* Offered by Stanford during COVID-19 pandemic, with 10,000 global students and 900 volunteer teachers participating from around the world. 
+
+Final Project
 * [Simba Friends Twitter Bot Project](https://github.com/KatherineMichel/stanford-code-in-place-final-project)
+
+Blog Post
+* [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 
 ### Lancaster University Management School
 
