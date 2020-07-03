@@ -71,10 +71,13 @@ Code in Place, offered online by Stanford University April-May 2020
 * Offered by Stanford during COVID-19 pandemic, with 10,000 global students and 900 volunteer teachers participating from around the world. 
 
 Final Project
-* [Simba Friends Twitter Bot Project](https://github.com/KatherineMichel/stanford-code-in-place-final-project)
+* [Simba Friends Twitter Bot Project GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
 
 Blog Post
 * [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
+
+Stanford Code in Place Experimental Art Exhibit
+* [Stanford Code in Place Exerimental Art Exhibit GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-art-exhibit-experiment/) and [Twitter](https://twitter.com/StanfordCiPArt)
 
 ### Lancaster University Management School
 
