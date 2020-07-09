@@ -29,6 +29,10 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 * PyCascades 2018 "[Choosing an Advanced Git Workflow](talk-proposals/pycascades-2018.md)"
 * DjangoCon US 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](talk-proposals/djangocon-us-2017.md)"
 
+## Interviews
+
+* DEFNA Interview... coming soon :)
+
 ## Talks and Panels
 
 * DjangoCon US 2018 "[State of Django" Panel](https://2018.djangocon.us/talk/state-of-django-panel/)"/[Replay](https://www.youtube.com/watch?v=TrAFQW7Wza0), representing DEFNA
@@ -71,7 +75,7 @@ Code in Place, offered online by Stanford University April-May 2020
 * Offered by Stanford during COVID-19 pandemic, with 10,000 global students and 900 volunteer teachers participating from around the world. 
 
 Final Project
-* [Simba Friends Twitter Bot Project GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
+* [Simba Friends Twitter Bot Project GitHub Repo](https://gith ub.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
 
 Blog Post
 * [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
