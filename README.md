@@ -6,6 +6,9 @@ Positions Held
 * Pinax 20.XX Release: Release Manager
 * Pinax 18.01 Release: Mentored Contributor
 
+Pinax 20.XX Release Overview (Completed in the spring and summer of 2020; around 28 Pinax apps were included)
+* TBD
+
 Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax apps were included)
 * Dropped support for Django 1.8, 1.9, 1.10 and Python 3.3
 * Added support for Django 2.0
@@ -15,6 +18,7 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 
 ## Regular Blog Posts
 
+* TIL- 100 Days of Code Version... coming soon :)
 * [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 
 ## Conference Blog Posts
@@ -75,7 +79,7 @@ Code in Place, offered online by Stanford University April-May 2020
 * Offered by Stanford during COVID-19 pandemic, with 10,000 global students and 900 volunteer teachers participating from around the world. 
 
 Final Project
-* [Simba Friends Twitter Bot Project GitHub Repo](https://gith ub.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
+* [Simba Friends Twitter Bot Project GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
 
 Blog Post
 * [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
@@ -94,6 +98,8 @@ Stanford Code in Place Experimental Art Exhibit
 ## Special Accomplishments
 
 A few accomplishments that I feel especially proud of:
+* Becoming a DjangoCon US Website Maintainer and Pinax Release Manager
+* Participating in Stanford Code in Place
 
 ## Special Challenges
 
