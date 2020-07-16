@@ -37,6 +37,10 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 
 * DEFNA Interview... coming soon :)
 
+<!--
+https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-interview.md | personal/defna-interview.md at master · KatherineMichel/personal
+-->
+
 ## Talks and Panels
 
 * DjangoCon US 2018 "[State of Django" Panel](https://2018.djangocon.us/talk/state-of-django-panel/)"/[Replay](https://www.youtube.com/watch?v=TrAFQW7Wza0), representing DEFNA
