@@ -27,6 +27,11 @@ Positions Held
 * Pinax 20.XX Release: Release Manager
 * Pinax 18.01 Release: Mentored Contributor
 
+### Release Planning
+
+* Created Pinax 20.XX [Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
+* Created Pinax [Community Health Files (WIP)](https://github.com/pinax/.github)
+
 ### Pinax 20.XX Release
 
 Pinax 20.XX Release Overview (Completed in the spring and summer of 2020; around 28 Pinax apps were included)
