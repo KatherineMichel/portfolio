@@ -4,6 +4,7 @@ Table of Contents
 -----------------
 
 - [Releases](#releases)
+    - [Release Planning](#release-planning)
     - [Pinax 20.XX Release](#pinax-20xx-release)
     - [Pinax 18.01 Release](#pinax-1801-release)
 - [Regular Blog Posts](#regular-blog-posts)
