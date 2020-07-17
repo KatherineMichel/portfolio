@@ -9,7 +9,7 @@ Table of Contents
 - [Talk Proposals](#talk-proposals)
 - [Interviews](#interviews)
 - [Talks and Panels](#talks-and-panels)
-- [Talk + GitHub Classroom](#talk-github-classroom)
+- [Talk and GitHub Classroom](#talk-and-github-classroom)
 - [DjangoCon US](#djangocon-us)
 - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
 - [Memberships](#memberships)
