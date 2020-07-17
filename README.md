@@ -23,8 +23,15 @@ Positions Held
 * Pinax 20.XX Release: Release Manager
 * Pinax 18.01 Release: Mentored Contributor
 
+### Pinax 20.XX Release
+
 Pinax 20.XX Release Overview (Completed in the spring and summer of 2020; around 28 Pinax apps were included)
-* TBD
+* Dropped support for Django 1.11, 2.0, and 2.1, and Python 2,7, 3.4, and 3.5
+* Added support for Django 2.2 and 3.0, and Python 3.6, 3.7, and 3.8 support
+* Updated packaging configs
+* Directed users to community resources
+
+### Pinax 18.01 Release
 
 Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax apps were included)
 * Dropped support for Django 1.8, 1.9, 1.10 and Python 3.3
@@ -46,6 +53,7 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 
 ## Talk Proposals
 
+* Intro to Digital Humanities... coming soon :)
 * PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/) "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
 * PyCascades 2018 "[Choosing an Advanced Git Workflow](talk-proposals/pycascades-2018.md)"
 * DjangoCon US 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](talk-proposals/djangocon-us-2017.md)"
