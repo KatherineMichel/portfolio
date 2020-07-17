@@ -1,5 +1,22 @@
 # Portfolio
 
+Table of Contents
+-----------------
+
+- [Releases](#releases)
+- [Regular Blog Posts](#regular-blog-posts)
+- [Conference Blog Posts](#conference-blog-posts)
+- [Talk Proposals](#talk-proposals)
+- [Interviews](#interviews)
+- [Talks and Panels](#talks-and-panels)
+- [Talk + GitHub Classroom](#talk-github-classroom)
+- [DjangoCon US](#djangocon-us)
+- [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
+- [Memberships](#memberships)
+- [Education](#education)
+- [Mentoring](#mentoring)
+- [Kudos](#kudos)
+
 ## Releases
 
 Positions Held
@@ -99,6 +116,7 @@ Stanford Code in Place Experimental Art Exhibit
 
 ## Mentoring
 
+<!--
 ## Special Accomplishments
 
 A few accomplishments that I feel especially proud of:
@@ -109,5 +127,6 @@ A few accomplishments that I feel especially proud of:
 
 Inspired by the late [Courtney Brousseau](https://courtneybrousseau.github.io/), here are a few times when things didn't go as planned and what I learned:
 * Around the time that I began learning how to be a maintainer, I accidentally deleted an important develop branch in that GitHub Project. It was quickly and easily fixed. More importantly, I learned a lot about how to be a maintainer after that. Anytime I was afraid to do something, I would remember that I had already made the worst mistake I thought I could make, and it actually hadn't been that bad.
+-->
 
 ## Kudos
