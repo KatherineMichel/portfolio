@@ -19,8 +19,10 @@ Table of Contents
 - [Education](#education)
     - [Stanford Code in Place](#stanford-code-in-place)
     - [Lancaster University Management School](#lancaster-university-management-school)
-- [Mentoring](#mentoring)
-- [Kudos](#kudos)
+- [Open Source Community Health](#open-source-community-health)
+    - [Mentoring](#mentoring)
+- [Miscellaneous](#miscellaneous)
+- [Kudos and Highlights](#kudos-and-highlights)
 
 ## Releases
 
@@ -106,7 +108,8 @@ Positions Held
 * Director, 2017-2019
 
 <!--
-Post to Portfolio
+Defna Devrel
+
 https://twitter.com/KatiMichel/status/1126652328608710658 | Katherine Michel on Twitter: "Thrilled to have had the chance to represent @defnado at PyCon and get to know many members of the Mexican and Latin American communities! 🇲🇽 🐍… https://t.co/98CsUcdWRK"
 https://twitter.com/defnado/status/1124342530915520512 | DEFNA on Twitter: "PyCon Charlas are kicking off right now. We have two @defnado Board Members representing DEFNA at @pyconcharlas today (@lakatialira and @KatiMichel). They want to meet people who use DEFNA's services! #PyCon #PyCon2019 https://t.co/afzqgjHjRB"
 -->
@@ -152,13 +155,21 @@ A few accomplishments that I feel especially proud of:
 * Becoming a DjangoCon US Website Maintainer and Pinax Release Manager
 * Participating in Stanford Code in Place
 
+## Miscellaneous
+
+<!--
+https://eldarion.com/blog/2020/03/13/how-eldarion-works-remotely/
+-->
+
 ## Special Challenges
 
 Inspired by the late [Courtney Brousseau](https://courtneybrousseau.github.io/), here are a few times when things didn't go as planned and what I learned:
 * Around the time that I began learning how to be a maintainer, I accidentally deleted an important develop branch in that GitHub Project. It was quickly and easily fixed. More importantly, I learned a lot about how to be a maintainer after that. Anytime I was afraid to do something, I would remember that I had already made the worst mistake I thought I could make, and it actually hadn't been that bad.
+
+https://twitter.com/KatiMichel/status/979418830781915136 | Katherine Michel on Twitter: "I accidentally deleted an important develop branch on GitHub once. It was easy to fix and afterward, if I was afraid to do something, I would tell myself that if I messed up it couldn't be worse than when I had deleted months-worth of work. I made a ton of progress after that. 😀… https://t.co/akBPmTGOdr"
 -->
 
-## Kudos
+## Kudos and Highlights
 
 <!--
 Pinax
@@ -188,4 +199,10 @@ https://twitter.com/Transition/status/965346647088693248 | Kojo @ #NorAmGT: PyCa
 https://www.slideshare.net/pyconmy/the-programmers-mind-by-jessica-mckellar | The programmer's mind by Jessica McKellar
 
 https://twitter.com/mariatta/status/1125536715215601665 | Mariatta 🤦 on Twitter: "✌️😁🤳 @KatiMichel #SelfieSprint #SelfCareSprint #pycascades… "
+
+DjangoCon- Kudos
+https://twitter.com/thedevwhisperer/status/1052725723222298626 | Amber Wanner on Twitter: "#Djangocon 2018 in San Diego has been the most inclusive, breath of fresh air conference I've ever attended, with the most beautiful and diverse group of people. Way to go Team Djangocon, @FlipperPA !!! <3"
+https://twitter.com/hops_and_smoke/status/1052728711030571009 | Drew on Twitter: "#djangocon closing remarks: biggest year 
+ever, 477 tickets, 178 tutorial tickets, $20k in financial aid to 41 people, 2x sponsorship from '17 (while @h34th3r329 was pregnant!), 66% of tutorials from underrepresented groups"
+https://medium.com/@saronyitbarek/that-time-i-went-to-djangocon-and-fell-in-love-with-the-community-2cec0383c85b | That time I went to DjangoCon and fell in love with the community
 -->
