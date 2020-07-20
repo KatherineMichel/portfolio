@@ -156,6 +156,24 @@ https://twitter.com/KatiMichel/status/1284637328330424320 | Katherine Michel on 
 https://twitter.com/paltman/status/1284696622052651008
 https://twitter.com/vixter55/status/1284640958760402947 | Vicky Tuite ☄️ on Twitter: "@KatiMichel Thank you for all your hard work." / Twitter
 
+CPython and Django
+https://archiveprogram.github.com/ | GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.
+
 Stanford
 https://twitter.com/KatiMichel/status/1264308702594527238
+
+DjangoCon US Site
+https://twitter.com/KatiMichel/status/1110297387363258368 | Katherine Michel on Twitter: "I'm a very proud @djangocon US Website Co-Chair. Our beautiful 2019 site is live! The design changes from sunrise to sunset based on time of day. ⛵️🌅 Hope you'll take a look. 😍 Thank you @helloyupgup and everyone who made it happen. Join us in San Diego? https://t.co/yVdYjmHsTJ"
+
+https://twitter.com/KatiMichel/status/978670541530779650 | Katherine🌸 on Twitter: "I'm one very proud @djangocon US Website Chair! Our site just went live and it's super cute. Thank you to the @defnado board, @helloyupgup, and the many volunteers who all came together to make it happen. I hope you'll take a look! 😍 https://t.co/YrFF9uVEL1"
+
+https://twitter.com/JoniTrythall/status/978663793529155585 | Joni Trythall on Twitter: "Excited to share a project we have been working on this year over at @helloyupgup 🚀 🌴 Thoroughly enjoyed teaming up with these folks 💕… https://t.co/sKN5XICBIm"
+
+https://twitter.com/techevangelista/status/978678618032345089 | Lindsey 🐉 | ♿🏳️‍🌈 on Twitter: "I love the new site for DjangoCon US ♥️ It's been great seeing it progress! Everyone did great work!… "
+https://twitter.com/webology/status/978719557153181698 | Jeff Triplett ✨🏀 on Twitter: "Great job! 👏👏👏👏… "
+https://twitter.com/vitorfs/status/978721185071534082 | Vitor Freitas on Twitter: "it is looking so cool! 😀😀… "
+
+Kudo
+https://twitter.com/Transition/status/965346647088693248 | Kojo @ #NorAmGT: PyCaribbean on Twitter: "Quite proud to know the people @jessicamckellar just mentioned in her #PyCaribbean closing keynote. @mariatta helped ME make my first CPython contribution too! #KojoInSDQ #NorAmGT… https://t.co/9ZQlW0mlzB"
+https://www.slideshare.net/pyconmy/the-programmers-mind-by-jessica-mckellar | The programmer's mind by Jessica McKellar
 -->
