@@ -149,11 +149,18 @@ https://github.com/djangocon/2016.djangocon.us/blob/development/CONTRIBUTING.md
 ### Mentoring
 
 <!--
+Serenity
+https://github.com/pycascades/welcome-wagon-2018/pull/27 | Remove periods. by SerenityMurdie · Pull Request #27 · pycascades/welcome-wagon-2018
+https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og | Codergirl.py - YouTube
+-->
+
 ## Special Accomplishments
 
+<!--
 A few accomplishments that I feel especially proud of:
 * Becoming a DjangoCon US Website Maintainer and Pinax Release Manager
 * Participating in Stanford Code in Place
+-->
 
 ## Miscellaneous
 
