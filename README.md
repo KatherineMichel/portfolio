@@ -152,9 +152,9 @@ Inspired by the late [Courtney Brousseau](https://courtneybrousseau.github.io/),
 
 <!--
 Pinax
-https://twitter.com/KatiMichel/status/1284637328330424320
-https://twitter.com/vixter55/status/1284640958760402947
+https://twitter.com/KatiMichel/status/1284637328330424320 | Katherine Michel on Twitter: "Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged &amp; published.🎉" / Twitter
 https://twitter.com/paltman/status/1284696622052651008
+https://twitter.com/vixter55/status/1284640958760402947 | Vicky Tuite ☄️ on Twitter: "@KatiMichel Thank you for all your hard work." / Twitter
 
 Stanford
 https://twitter.com/KatiMichel/status/1264308702594527238
