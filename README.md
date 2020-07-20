@@ -95,7 +95,7 @@ https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-intervi
 * Website Chair, Technical Lead, and Maintainer, 2017/[Website](https://2017.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2017.djangocon.us/)
 * [Website Contributing Guidance](https://github.com/djangocon/2017.djangocon.us/blob/master/README.md) Author, 2017
 * [Website CfP](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website/) Author, 2017
-* DjangoCon US 2017 [Django Girls Event](https://djangogirls.org/spokane) Organizer
+* DjangoCon US 2017 Organizer and [Django Girls Event](https://djangogirls.org/spokane) Organizer
 
 ## Django Events Foundation North America (DEFNA)
 
@@ -104,6 +104,12 @@ DEFNA is a non-profit tasked with managing DjangoCon US, the national Django con
 Positions Held
 * Director and Corporate Secretary, 2020
 * Director, 2017-2019
+
+<!--
+Post to Portfolio
+https://twitter.com/KatiMichel/status/1126652328608710658 | Katherine Michel on Twitter: "Thrilled to have had the chance to represent @defnado at PyCon and get to know many members of the Mexican and Latin American communities! 🇲🇽 🐍… https://t.co/98CsUcdWRK"
+https://twitter.com/defnado/status/1124342530915520512 | DEFNA on Twitter: "PyCon Charlas are kicking off right now. We have two @defnado Board Members representing DEFNA at @pyconcharlas today (@lakatialira and @KatiMichel). They want to meet people who use DEFNA's services! #PyCon #PyCon2019 https://t.co/afzqgjHjRB"
+-->
 
 ## Memberships
 
@@ -129,11 +135,15 @@ Stanford Code in Place Experimental Art Exhibit
 
 ### Lancaster University Management School
 
-## Community Health
+## Open Source Community Health
 
 * [Setting Up an Open Source Project](https://github.com/KatherineMichel/setting-up-an-open-source-project) (mostly valid, but not updated recently)
 
-## Mentoring
+<!--
+https://github.com/djangocon/2016.djangocon.us/blob/development/CONTRIBUTING.md
+-->
+
+### Mentoring
 
 <!--
 ## Special Accomplishments
@@ -176,4 +186,6 @@ https://twitter.com/vitorfs/status/978721185071534082 | Vitor Freitas on Twitter
 Kudo
 https://twitter.com/Transition/status/965346647088693248 | Kojo @ #NorAmGT: PyCaribbean on Twitter: "Quite proud to know the people @jessicamckellar just mentioned in her #PyCaribbean closing keynote. @mariatta helped ME make my first CPython contribution too! #KojoInSDQ #NorAmGT… https://t.co/9ZQlW0mlzB"
 https://www.slideshare.net/pyconmy/the-programmers-mind-by-jessica-mckellar | The programmer's mind by Jessica McKellar
+
+https://twitter.com/mariatta/status/1125536715215601665 | Mariatta 🤦 on Twitter: "✌️😁🤳 @KatiMichel #SelfieSprint #SelfCareSprint #pycascades… "
 -->
