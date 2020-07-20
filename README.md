@@ -149,3 +149,13 @@ Inspired by the late [Courtney Brousseau](https://courtneybrousseau.github.io/),
 -->
 
 ## Kudos
+
+<!--
+Pinax
+https://twitter.com/KatiMichel/status/1284637328330424320
+https://twitter.com/vixter55/status/1284640958760402947
+https://twitter.com/paltman/status/1284696622052651008
+
+Stanford
+https://twitter.com/KatiMichel/status/1264308702594527238
+-->
