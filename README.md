@@ -7,6 +7,9 @@ Table of Contents
     - [Release Planning](#release-planning)
     - [Pinax 20.XX Release](#pinax-20xx-release)
     - [Pinax 18.01 Release](#pinax-1801-release)
+- [Open Source Community Health](#open-source-community-health)
+    - [Documentation](#documentation)
+    - [Mentoring](#mentoring)
 - [Regular Blog Posts](#regular-blog-posts)
 - [Conference Blog Posts](#conference-blog-posts)
 - [Talk Proposals](#talk-proposals)
@@ -19,8 +22,6 @@ Table of Contents
 - [Education](#education)
     - [Stanford Code in Place](#stanford-code-in-place)
     - [Lancaster University Management School](#lancaster-university-management-school)
-- [Open Source Community Health](#open-source-community-health)
-    - [Mentoring](#mentoring)
 - [Miscellaneous](#miscellaneous)
 - [Kudos and Highlights](#kudos-and-highlights)
 
@@ -51,6 +52,24 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 * Converted from Travis CI to CircleCI and CodeCov
 * Updated setup.py format
 * Moved docs to README.mds and improved README.md layouts
+
+## Open Source Community Health
+
+### Documentation
+
+* [Setting Up an Open Source Project](https://github.com/KatherineMichel/setting-up-an-open-source-project) (mostly valid, but not updated recently)
+
+<!--
+https://github.com/djangocon/2016.djangocon.us/blob/development/CONTRIBUTING.md
+-->
+
+### Mentoring
+
+<!--
+Serenity
+https://github.com/pycascades/welcome-wagon-2018/pull/27 | Remove periods. by SerenityMurdie · Pull Request #27 · pycascades/welcome-wagon-2018
+https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og | Codergirl.py - YouTube
+-->
 
 ## Regular Blog Posts
 
@@ -107,11 +126,11 @@ Positions Held
 * Director and Corporate Secretary, 2020
 * Director, 2017-2019
 
+Special Accomplishments
+* International outreach
+
 <!--
 Defna Devrel
-
-https://twitter.com/KatiMichel/status/1126652328608710658 | Katherine Michel on Twitter: "Thrilled to have had the chance to represent @defnado at PyCon and get to know many members of the Mexican and Latin American communities! 🇲🇽 🐍… https://t.co/98CsUcdWRK"
-https://twitter.com/defnado/status/1124342530915520512 | DEFNA on Twitter: "PyCon Charlas are kicking off right now. We have two @defnado Board Members representing DEFNA at @pyconcharlas today (@lakatialira and @KatiMichel). They want to meet people who use DEFNA's services! #PyCon #PyCon2019 https://t.co/afzqgjHjRB"
 -->
 
 ## Memberships
@@ -138,28 +157,13 @@ Stanford Code in Place Experimental Art Exhibit
 
 ### Lancaster University Management School
 
-## Open Source Community Health
-
-* [Setting Up an Open Source Project](https://github.com/KatherineMichel/setting-up-an-open-source-project) (mostly valid, but not updated recently)
-
-<!--
-https://github.com/djangocon/2016.djangocon.us/blob/development/CONTRIBUTING.md
--->
-
-### Mentoring
-
-<!--
-Serenity
-https://github.com/pycascades/welcome-wagon-2018/pull/27 | Remove periods. by SerenityMurdie · Pull Request #27 · pycascades/welcome-wagon-2018
-https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og | Codergirl.py - YouTube
--->
-
 ## Special Accomplishments
 
 <!--
 A few accomplishments that I feel especially proud of:
 * Becoming a DjangoCon US Website Maintainer and Pinax Release Manager
 * Participating in Stanford Code in Place
+* Representing DEFNA at PyCon Charlas
 -->
 
 ## Miscellaneous
@@ -170,6 +174,7 @@ https://eldarion.com/blog/2020/03/13/how-eldarion-works-remotely/
 
 ## Special Challenges
 
+<!--
 Inspired by the late [Courtney Brousseau](https://courtneybrousseau.github.io/), here are a few times when things didn't go as planned and what I learned:
 * Around the time that I began learning how to be a maintainer, I accidentally deleted an important develop branch in that GitHub Project. It was quickly and easily fixed. More importantly, I learned a lot about how to be a maintainer after that. Anytime I was afraid to do something, I would remember that I had already made the worst mistake I thought I could make, and it actually hadn't been that bad.
 
@@ -178,7 +183,14 @@ https://twitter.com/KatiMichel/status/979418830781915136 | Katherine Michel on T
 
 ## Kudos and Highlights
 
+### Kudos
+
+### Highlights
+
 <!--
+https://twitter.com/KatiMichel/status/1126652328608710658 | Katherine Michel on Twitter: "Thrilled to have had the chance to represent @defnado at PyCon and get to know many members of the Mexican and Latin American communities! 🇲🇽 🐍… https://t.co/98CsUcdWRK"
+https://twitter.com/defnado/status/1124342530915520512 | DEFNA on Twitter: "PyCon Charlas are kicking off right now. We have two @defnado Board Members representing DEFNA at @pyconcharlas today (@lakatialira and @KatiMichel). They want to meet people who use DEFNA's services! #PyCon #PyCon2019 https://t.co/afzqgjHjRB"
+
 Pinax
 https://twitter.com/KatiMichel/status/1284637328330424320 | Katherine Michel on Twitter: "Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged &amp; published.🎉" / Twitter
 https://twitter.com/paltman/status/1284696622052651008
