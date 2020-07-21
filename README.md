@@ -57,7 +57,7 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 
 ### Documentation
 
-* Authored DjangoCon US [CONTRIBUTING.md](https://github.com/djangocon/2016.djangocon.us/blob/development/CONTRIBUTING.md)
+* Authored DjangoCon US [Contributing documentation](https://github.com/djangocon/2020.djangocon.us/blob/master/README.md) (originally, in 2016)
 * Created [Setting Up an Open Source Project](https://github.com/KatherineMichel/setting-up-an-open-source-project) (mostly valid, but not updated recently)
 
 ### Mentoring
