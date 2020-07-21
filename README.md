@@ -57,19 +57,12 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 
 ### Documentation
 
-* [Setting Up an Open Source Project](https://github.com/KatherineMichel/setting-up-an-open-source-project) (mostly valid, but not updated recently)
-
-<!--
-https://github.com/djangocon/2016.djangocon.us/blob/development/CONTRIBUTING.md
--->
+* Authored DjangoCon US [CONTRIBUTING.md](https://github.com/djangocon/2016.djangocon.us/blob/development/CONTRIBUTING.md)
+* Created [Setting Up an Open Source Project](https://github.com/KatherineMichel/setting-up-an-open-source-project) (mostly valid, but not updated recently)
 
 ### Mentoring
 
-<!--
-Serenity
-https://github.com/pycascades/welcome-wagon-2018/pull/27 | Remove periods. by SerenityMurdie · Pull Request #27 · pycascades/welcome-wagon-2018
-https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og | Codergirl.py - YouTube
--->
+* Mentored 12 year old [Codergirl.py](https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og) to make her first [open source contribution](https://github.com/pycascades/welcome-wagon-2018/pull/27).
 
 ## Regular Blog Posts
 
@@ -159,18 +152,19 @@ Stanford Code in Place Experimental Art Exhibit
 
 ## Special Accomplishments
 
-<!--
 A few accomplishments that I feel especially proud of:
 * Becoming a DjangoCon US Website Maintainer and Pinax Release Manager
 * Participating in Stanford Code in Place
 * Representing DEFNA at PyCon Charlas
+
+<!--
+Pinax
+https://twitter.com/KatiMichel/status/1284637328330424320 | Katherine Michel on Twitter: "Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged &amp; published.🎉" / Twitter
 -->
 
 ## Miscellaneous
 
-<!--
-https://eldarion.com/blog/2020/03/13/how-eldarion-works-remotely/
--->
+* Contributor to [How Eldarion Works Remotely](https://eldarion.com/blog/2020/03/13/how-eldarion-works-remotely/)
 
 ## Special Challenges
 
