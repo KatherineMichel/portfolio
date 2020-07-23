@@ -51,10 +51,6 @@ Special 100 Days of Code Features
 The first thing I did was spend some time looking at different TIL implementations hosted on GitHub. My intention was not to adopt another person's solution outright, but to get a general idea of what approaches people had taken, and perhaps, why. Ultimately, I wanted to take code apart and go through my own process of discovery and learning, so that I would fully understand how what I was using worked. I also wanted to create an implementation unique to my own needs, including features incorporated specifically for 100 Days of Code. 
 
 I considered four major approaches implemented in Python:
-* Simon Willison's [TIL implementation](https://github.com/simonw/til)
-* Andrei Cioara's [TIL Implementation](https://github.com/aicioara/til/) 
-* Raegon Kim's [TIL implementation](https://github.com/raycon/til/)
-* KhanhIceTea's [TIL implementation](https://github.com/khanhicetea/today-i-learned/)
 
 ### Simon Willison's Implementation
 
@@ -62,7 +58,7 @@ Simon's [implementation](https://github.com/simonw/til) uses [Datasette](https:/
 
 ### Andrei Cioara's Implementation
 
-Andrei Cioara's approach is short and sweet. The bulk of the program exists within the `main()` function and can be followed quite easily, like a list of consecutive instructions.
+Andrei Cioara's [implementation](https://github.com/aicioara/til/) is short and sweet. The bulk of the program exists within the `main()` function and can be followed quite easily, like a list of consecutive instructions.
 
 A `content` variable is assigned to an empty string. As the program progresses, using an addition assignment operator, strings are appended to the `content` variable. First, The README.md header is appended to `content` through a global `HEADER` variable assigned to a multiline, triple-double-quote string. The program then uses `os.walk()` to traverse and sort the directories and files, removing the `.git` and `.github` directories as it goes. As the program "walks," each directory name is formatted as a category and added to the `content`. The program then iterates through each file in each category, formatting the file name as a title, and converting it into a hyperlink. At the end of the program, the README.md file is opened and all of the `content` is written into it.
 
@@ -75,6 +71,9 @@ At the bottom of the program file, the main function `readme()` is called. Withi
 The `lines` list is returned by `readme()` and written into the README.md.
 
 ### KhanhIceTea's Implementation
+
+* KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/)...
+
 
 ### My Journey Through Implementations
 
