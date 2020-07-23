@@ -251,6 +251,6 @@ ever, 477 tickets, 178 tutorial tickets, $20k in financial aid to 41 people, 2x 
 https://medium.com/@saronyitbarek/that-time-i-went-to-djangocon-and-fell-in-love-with-the-community-2cec0383c85b | That time I went to DjangoCon and fell in love with the community
 -->
 
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
 <hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
