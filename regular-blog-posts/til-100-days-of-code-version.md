@@ -66,6 +66,8 @@ Andrei Cioara's approach is short and sweet. The bulk of the program exists with
 
 A `content` variable is assigned to an empty string. As the program progresses, using an addition assignment operator, strings are appended to the `content` variable. First, The README.md header is appended to `content` through a global `HEADER` variable assigned to a multiline, triple-double-quote string. The program then uses `os.walk()` to traverse and sort the directories and files, removing the `.git` and `.github` directories as it goes. As the program "walks," each directory name is formatted as a category and added to the `content`. The program then iterates through each file in each category, formatting the file name as a title, and converting it into a hyperlink. At the end of the program, the README.md file is opened and all of the `content` is written into it.
 
+To be continued...
+
 ## Step By Step Implementation
 
 ### Step One: Implement GitHub Actions
