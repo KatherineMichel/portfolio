@@ -7,15 +7,17 @@ Table of Contents
     - [Release Planning](#release-planning)
     - [Pinax 20.XX Release](#pinax-20xx-release)
     - [Pinax 18.01 Release](#pinax-1801-release)
-- [Open Source Community Health](#open-source-community-health)
+- [Open Source Management and Community Health](#open-source-management-and-community-health)
     - [Documentation](#documentation)
     - [Analysis](#analysis)
-- [Regular Blog Posts](#regular-blog-posts)
-- [Conference Blog Posts](#conference-blog-posts)
-- [Talk Proposals](#talk-proposals)
-- [Interviews](#interviews)
-- [Talks and Panels](#talks-and-panels)
-- [Talk and GitHub Classroom](#talk-and-github-classroom)
+- [Writing](#writing)
+    - [Regular Blog Posts](#regular-blog-posts)
+    - [Conference Blog Posts](#conference-blog-posts)
+- [Public Speaking](#public-speaking)
+    - [Talk Proposals](#talk-proposals)
+    - [Interviews](#interviews)
+    - [Talks and Panels](#talks-and-panels)
+    - [Talk and GitHub Classroom](#talk-and-github-classroom)
 - [DjangoCon US](#djangocon-us)
 - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
 - [Memberships](#memberships)
@@ -55,7 +57,9 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 * Updated setup.py format
 * Moved docs to README.mds and improved README.md layouts
 
-## Open Source Community Health
+<hr>
+
+## Open Source Management and Community Health
 
 ### Documentation
 
@@ -64,18 +68,26 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 
 ### Analysis
 
-## Regular Blog Posts
+<hr>
+
+## Blog Posts
+
+### Regular Blog Posts
 
 * [TIL- 100 Days of Code Version (WiP)](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
 * [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 
-## Conference Blog Posts
+### Conference Blog Posts
 
 * [Recap of PyGotham 2019](https://eldarion.com/blog/2020/07/20/recap-pygotham-2019/)/[Backup](conference-blog-posts/recap-of-pygotham-2019.md)
 * [Recap of DjangoCon US 2019](https://eldarion.com/blog/2019/10/28/recap-django-us-2019/)/[Backup](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2019.md)
 * [Recap of PyCon US 2019](https://eldarion.com/blog/2019/06/01/recap-pycon-us-2019/)/[Backup](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-pycon-us-2019.md)
 
-## Talk Proposals
+<hr>
+
+## Public Speaking
+
+### Talk Proposals
 
 * Intro to Digital Humanities... coming soon :)
 * PyGotham Proposal... coming soon :)
@@ -83,7 +95,7 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 * PyCascades 2018 "[Choosing an Advanced Git Workflow](talk-proposals/pycascades-2018.md)"
 * DjangoCon US 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](talk-proposals/djangocon-us-2017.md)"
 
-## Interviews
+### Interviews
 
 * DEFNA Interview... coming soon :)
 
@@ -91,15 +103,17 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-interview.md | personal/defna-interview.md at master · KatherineMichel/personal
 -->
 
-## Talks and Panels
+### Talks and Panels
 
 * DjangoCon US 2018 "[State of Django" Panel](https://2018.djangocon.us/talk/state-of-django-panel/)"/[Replay](https://www.youtube.com/watch?v=TrAFQW7Wza0), representing DEFNA
 * DjangoCon US 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-djangocon-2017)"/[Replay](https://youtu.be/KCKPbsi88IU)
 * DevICT Hacktoberfest 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-gitHub-devict-hacktoberfest)"/[Replay](https://youtu.be/qKQddTEHcXs)
 
-## Talk and GitHub Classroom
+### Talk and GitHub Classroom
 
 * PyLadies Remote 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-remote)"/[Replay](https://youtu.be/eBTLPYbVvQY)
+
+<hr>
 
 ## DjangoCon US
 
@@ -110,6 +124,8 @@ https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-intervi
 * [Website Contributing Guidance](https://github.com/djangocon/2017.djangocon.us/blob/master/README.md) Author, 2017
 * [Website CfP](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website/) Author, 2017
 * DjangoCon US 2017 Organizer and [Django Girls Event](https://djangogirls.org/spokane) Organizer
+
+<hr>
 
 ## Django Events Foundation North America (DEFNA)
 
@@ -126,10 +142,14 @@ Special Accomplishments
 Defna Devrel
 -->
 
+<hr>
+
 ## Memberships
 
 * [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
 * [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/) (Nominated and Confirmed)
+
+<hr>
 
 ## Projects
 
@@ -142,6 +162,8 @@ Stanford Code in Place Final Project
 
 Stanford Code in Place Experimental Art Exhibit
 * [Stanford Code in Place Exerimental Art Exhibit GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-art-exhibit-experiment/) and [Twitter](https://twitter.com/StanfordCiPArt)
+
+<hr>
 
 ## Education
 
@@ -156,6 +178,8 @@ Blog Post
 
 ### Lancaster University Management School
 
+<hr>
+
 ## Special Accomplishments
 
 A few accomplishments that I feel especially proud of:
@@ -168,6 +192,8 @@ Pinax
 https://twitter.com/KatiMichel/status/1284637328330424320 | Katherine Michel on Twitter: "Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged &amp; published.🎉" / Twitter
 -->
 
+<hr>
+
 ## Miscellaneous
 
 ### Mentoring
@@ -179,6 +205,8 @@ https://twitter.com/KatiMichel/status/1284637328330424320 | Katherine Michel on 
 Blog Post Contributions
 * Contributor to [How Eldarion Works Remotely](https://eldarion.com/blog/2020/03/13/how-eldarion-works-remotely/)
 
+<hr>
+
 ## Special Challenges
 
 <!--
@@ -187,6 +215,8 @@ Inspired by the late [Courtney Brousseau](https://courtneybrousseau.github.io/),
 
 https://twitter.com/KatiMichel/status/979418830781915136 | Katherine Michel on Twitter: "I accidentally deleted an important develop branch on GitHub once. It was easy to fix and afterward, if I was afraid to do something, I would tell myself that if I messed up it couldn't be worse than when I had deleted months-worth of work. I made a ton of progress after that. 😀… https://t.co/akBPmTGOdr"
 -->
+
+<hr>
 
 ## Kudos and Highlights
 
@@ -232,3 +262,7 @@ https://twitter.com/hops_and_smoke/status/1052728711030571009 | Drew on Twitter:
 ever, 477 tickets, 178 tutorial tickets, $20k in financial aid to 41 people, 2x sponsorship from '17 (while @h34th3r329 was pregnant!), 66% of tutorials from underrepresented groups"
 https://medium.com/@saronyitbarek/that-time-i-went-to-djangocon-and-fell-in-love-with-the-community-2cec0383c85b | That time I went to DjangoCon and fell in love with the community
 -->
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+<hr>
