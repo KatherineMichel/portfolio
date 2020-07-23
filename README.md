@@ -9,7 +9,7 @@ Table of Contents
     - [Pinax 18.01 Release](#pinax-1801-release)
 - [Open Source Community Health](#open-source-community-health)
     - [Documentation](#documentation)
-    - [Mentoring](#mentoring)
+    - [Analysis](#analysis)
 - [Regular Blog Posts](#regular-blog-posts)
 - [Conference Blog Posts](#conference-blog-posts)
 - [Talk Proposals](#talk-proposals)
@@ -23,6 +23,8 @@ Table of Contents
     - [Stanford Code in Place](#stanford-code-in-place)
     - [Lancaster University Management School](#lancaster-university-management-school)
 - [Miscellaneous](#miscellaneous)
+    - [Mentoring](#mentoring)
+    - [Blog Post Contributions](#blog-post-contributions)
 - [Kudos and Highlights](#kudos-and-highlights)
 
 ## Releases
@@ -60,13 +62,11 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 * Authored DjangoCon US [Contributing documentation](https://github.com/djangocon/2020.djangocon.us/blob/master/README.md) (originally, in 2016)
 * Created [Setting Up an Open Source Project](https://github.com/KatherineMichel/setting-up-an-open-source-project) (mostly valid, but not updated recently)
 
-### Mentoring
-
-* Mentored 12 year old [Codergirl.py](https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og) to make her first [open source contribution](https://github.com/pycascades/welcome-wagon-2018/pull/27).
+### Analysis
 
 ## Regular Blog Posts
 
-* TIL- 100 Days of Code Version... coming soon :)
+* [TIL- 100 Days of Code Version (WiP)](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
 * [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 
 ## Conference Blog Posts
@@ -131,6 +131,18 @@ Defna Devrel
 * [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
 * [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/) (Nominated and Confirmed)
 
+## Projects
+
+### 100 Days of Code
+
+### Stanford Code in Place
+
+Stanford Code in Place Final Project
+* [Simba Friends Twitter Bot Project GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
+
+Stanford Code in Place Experimental Art Exhibit
+* [Stanford Code in Place Exerimental Art Exhibit GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-art-exhibit-experiment/) and [Twitter](https://twitter.com/StanfordCiPArt)
+
 ## Education
 
 ### Stanford Code in Place
@@ -139,14 +151,8 @@ Code in Place, offered online by Stanford University April-May 2020
 * Completed a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A.
 * Offered by Stanford during COVID-19 pandemic, with 10,000 global students and 900 volunteer teachers participating from around the world. 
 
-Final Project
-* [Simba Friends Twitter Bot Project GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
-
 Blog Post
 * [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
-
-Stanford Code in Place Experimental Art Exhibit
-* [Stanford Code in Place Exerimental Art Exhibit GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-art-exhibit-experiment/) and [Twitter](https://twitter.com/StanfordCiPArt)
 
 ### Lancaster University Management School
 
@@ -164,6 +170,13 @@ https://twitter.com/KatiMichel/status/1284637328330424320 | Katherine Michel on 
 
 ## Miscellaneous
 
+### Mentoring
+
+* Mentored 12 year old [Codergirl.py](https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og) to make her first [open source contribution](https://github.com/pycascades/welcome-wagon-2018/pull/27).
+
+### Blog Post Contributions
+
+Blog Post Contributions
 * Contributor to [How Eldarion Works Remotely](https://eldarion.com/blog/2020/03/13/how-eldarion-works-remotely/)
 
 ## Special Challenges
