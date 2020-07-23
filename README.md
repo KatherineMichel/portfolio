@@ -97,7 +97,7 @@ https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-intervi
 * DjangoCon US 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-djangocon-2017)"/[Replay](https://youtu.be/KCKPbsi88IU)
 * DevICT Hacktoberfest 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-gitHub-devict-hacktoberfest)"/[Replay](https://youtu.be/qKQddTEHcXs)
 
-## Talk + GitHub Classroom
+## Talk and GitHub Classroom
 
 * PyLadies Remote 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-remote)"/[Replay](https://youtu.be/eBTLPYbVvQY)
 
