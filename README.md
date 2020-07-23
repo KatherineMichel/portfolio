@@ -23,13 +23,14 @@ Table of Contents
     - [Memberships](#memberships)
     - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
     - [DjangoCon US](#djangocon-us)
-- [Education](#education)
-    - [Stanford Code in Place](#stanford-code-in-place)
-    - [Lancaster University Management School](#lancaster-university-management-school)
 - [Miscellaneous](#miscellaneous)
     - [Mentoring](#mentoring)
     - [Blog Post Contributions](#blog-post-contributions)
-- [Kudos and Highlights](#kudos-and-highlights)
+- [Education](#education)
+    - [Stanford Code in Place](#stanford-code-in-place)
+    - [Lancaster University Management School](#lancaster-university-management-school)
+- [Special Accomplishments](#special-accomplishments)
+- [Kudos](#kudos)
 
 <hr>
 
@@ -170,6 +171,19 @@ Stanford Code in Place Experimental Art Exhibit
 
 <hr>
 
+## Miscellaneous
+
+### Mentoring
+
+* Mentored 12 year old [Codergirl.py](https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og) to make her first [open source contribution](https://github.com/pycascades/welcome-wagon-2018/pull/27).
+
+### Blog Post Contributions
+
+Blog Post Contributions
+* Contributor to [How Eldarion Works Remotely](https://eldarion.com/blog/2020/03/13/how-eldarion-works-remotely/)
+
+<hr>
+
 ## Education
 
 ### Stanford Code in Place
@@ -192,41 +206,12 @@ A few accomplishments that I feel especially proud of:
 * Participating in Stanford Code in Place
 * Representing DEFNA at PyCon Charlas, international outreach
 
-> My Pinax Release [tweet](https://twitter.com/KatiMichel/status/1284637328330424320), July 18, 2020 
-> **“Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged &amp; published.🎉”**<br>
-
-<hr>
-
-## Miscellaneous
-
-### Mentoring
-
-* Mentored 12 year old [Codergirl.py](https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og) to make her first [open source contribution](https://github.com/pycascades/welcome-wagon-2018/pull/27).
-
-### Blog Post Contributions
-
-Blog Post Contributions
-* Contributor to [How Eldarion Works Remotely](https://eldarion.com/blog/2020/03/13/how-eldarion-works-remotely/)
-
-<hr>
-
-## Kudos and Highlights
-
-### Kudos
-
-### Highlights
+> **“Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged & published.🎉”**<br>
+> — My Pinax Release [tweet](https://twitter.com/KatiMichel/status/1284637328330424320), July 18, 2020
 
 <!--
 https://twitter.com/KatiMichel/status/1126652328608710658 | Katherine Michel on Twitter: "Thrilled to have had the chance to represent @defnado at PyCon and get to know many members of the Mexican and Latin American communities! 🇲🇽 🐍… https://t.co/98CsUcdWRK"
 https://twitter.com/defnado/status/1124342530915520512 | DEFNA on Twitter: "PyCon Charlas are kicking off right now. We have two @defnado Board Members representing DEFNA at @pyconcharlas today (@lakatialira and @KatiMichel). They want to meet people who use DEFNA's services! #PyCon #PyCon2019 https://t.co/afzqgjHjRB"
-
-Pinax
-https://twitter.com/KatiMichel/status/1284637328330424320 | Katherine Michel on Twitter: "Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged &amp; published.🎉" / Twitter
-https://twitter.com/paltman/status/1284696622052651008
-https://twitter.com/vixter55/status/1284640958760402947 | Vicky Tuite ☄️ on Twitter: "@KatiMichel Thank you for all your hard work." / Twitter
-
-CPython and Django
-https://archiveprogram.github.com/ | GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.
 
 Stanford
 https://twitter.com/KatiMichel/status/1264308702594527238
@@ -235,6 +220,18 @@ DjangoCon US Site
 https://twitter.com/KatiMichel/status/1110297387363258368 | Katherine Michel on Twitter: "I'm a very proud @djangocon US Website Co-Chair. Our beautiful 2019 site is live! The design changes from sunrise to sunset based on time of day. ⛵️🌅 Hope you'll take a look. 😍 Thank you @helloyupgup and everyone who made it happen. Join us in San Diego? https://t.co/yVdYjmHsTJ"
 
 https://twitter.com/KatiMichel/status/978670541530779650 | Katherine🌸 on Twitter: "I'm one very proud @djangocon US Website Chair! Our site just went live and it's super cute. Thank you to the @defnado board, @helloyupgup, and the many volunteers who all came together to make it happen. I hope you'll take a look! 😍 https://t.co/YrFF9uVEL1"
+-->
+
+<hr>
+
+## Kudos
+
+<!--
+https://twitter.com/paltman/status/1284696622052651008
+https://twitter.com/vixter55/status/1284640958760402947 | Vicky Tuite ☄️ on Twitter: "@KatiMichel Thank you for all your hard work." / Twitter
+
+CPython and Django
+https://archiveprogram.github.com/ | GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.
 
 https://twitter.com/JoniTrythall/status/978663793529155585 | Joni Trythall on Twitter: "Excited to share a project we have been working on this year over at @helloyupgup 🚀 🌴 Thoroughly enjoyed teaming up with these folks 💕… https://t.co/sKN5XICBIm"
 
@@ -242,7 +239,6 @@ https://twitter.com/techevangelista/status/978678618032345089 | Lindsey 🐉 | �
 https://twitter.com/webology/status/978719557153181698 | Jeff Triplett ✨🏀 on Twitter: "Great job! 👏👏👏👏… "
 https://twitter.com/vitorfs/status/978721185071534082 | Vitor Freitas on Twitter: "it is looking so cool! 😀😀… "
 
-Kudo
 https://twitter.com/Transition/status/965346647088693248 | Kojo @ #NorAmGT: PyCaribbean on Twitter: "Quite proud to know the people @jessicamckellar just mentioned in her #PyCaribbean closing keynote. @mariatta helped ME make my first CPython contribution too! #KojoInSDQ #NorAmGT… https://t.co/9ZQlW0mlzB"
 https://www.slideshare.net/pyconmy/the-programmers-mind-by-jessica-mckellar | The programmer's mind by Jessica McKellar
 
