@@ -208,17 +208,6 @@ Blog Post Contributions
 
 <hr>
 
-## Special Challenges
-
-<!--
-Inspired by the late [Courtney Brousseau](https://courtneybrousseau.github.io/), here are a few times when things didn't go as planned and what I learned:
-* Around the time that I began learning how to be a maintainer, I accidentally deleted an important develop branch in that GitHub Project. It was quickly and easily fixed. More importantly, I learned a lot about how to be a maintainer after that. Anytime I was afraid to do something, I would remember that I had already made the worst mistake I thought I could make, and it actually hadn't been that bad.
-
-https://twitter.com/KatiMichel/status/979418830781915136 | Katherine Michel on Twitter: "I accidentally deleted an important develop branch on GitHub once. It was easy to fix and afterward, if I was afraid to do something, I would tell myself that if I messed up it couldn't be worse than when I had deleted months-worth of work. I made a ton of progress after that. 😀… https://t.co/akBPmTGOdr"
--->
-
-<hr>
-
 ## Kudos and Highlights
 
 ### Kudos
