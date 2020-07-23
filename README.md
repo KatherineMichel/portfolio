@@ -9,6 +9,7 @@ Table of Contents
     - [Pinax 18.01 Release](#pinax-1801-release)
 - [Open Source Management and Community Health](#open-source-management-and-community-health)
     - [Documentation](#documentation)
+    - [Developer Relations](#developer-relations)
     - [Analysis](#analysis)
 - [Blog Posts](#blog-posts)
     - [Regular Blog Posts](#regular-blog-posts)
@@ -68,6 +69,12 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 
 * Authored DjangoCon US [Contributing documentation](https://github.com/djangocon/2020.djangocon.us/blob/master/README.md) (originally, in 2016)
 * Created [Setting Up an Open Source Project](https://github.com/KatherineMichel/setting-up-an-open-source-project) (mostly valid, but not updated recently)
+
+### Developer Relations
+
+<!--
+Defna Devrel
+-->
 
 ### Analysis
 
@@ -133,10 +140,6 @@ Positions Held
 * Director and Corporate Secretary, 2020
 * Director, 2017-2019
 
-<!--
-Defna Devrel
--->
-
 ### DjangoCon US
 
 * [Website Chair and Technical Lead Description](https://github.com/KatherineMichel/portfolio/blob/master/djangocon-us-roles.md)
@@ -189,10 +192,8 @@ A few accomplishments that I feel especially proud of:
 * Participating in Stanford Code in Place
 * Representing DEFNA at PyCon Charlas, international outreach
 
-<!--
-Pinax
-https://twitter.com/KatiMichel/status/1284637328330424320 | Katherine Michel on Twitter: "Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged &amp; published.🎉" / Twitter
--->
+> My Pinax Release [tweet](https://twitter.com/KatiMichel/status/1284637328330424320), July 18, 2020 
+> **“Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged &amp; published.🎉”**<br>
 
 <hr>
 
