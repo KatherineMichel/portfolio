@@ -54,25 +54,25 @@ I considered four major approaches implemented in Python:
 
 ### Simon Willison's Implementation
 
-Simon's [implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
+Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
 
 ### Andrei Cioara's Implementation
 
-Andrei Cioara's [implementation](https://github.com/aicioara/til/) is short and sweet. The bulk of the program exists within the `main()` function and can be followed quite easily, like a list of consecutive instructions.
+Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) is short and sweet. The bulk of the program exists within the `main()` function and can be followed quite easily, like a list of consecutive instructions.
 
 A `content` variable is assigned to an empty string. As the program progresses, using an addition assignment operator, strings are appended to the `content` variable. First, The README.md header is appended to `content` through a global `HEADER` variable assigned to a multiline, triple-double-quote string. The program then uses `os.walk()` to traverse and sort the directories and files, removing the `.git` and `.github` directories as it goes. As the program "walks," each directory name is formatted as a category and added to the `content`. The program then iterates through each file in each category, formatting the file name as a title, and converting it into a hyperlink. At the end of the program, the README.md file is opened and all of the `content` is written into it.
 
 ### Raegon Kim's Implementation
 
-Raegon Kim's [implementation](https://github.com/raycon/til/) also uses `os.walk()` and achieves a similar outcome, but the program is structured very differently. Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions.
+Raegon Kim's [TIL implementation](https://github.com/raycon/til/) also uses `os.walk()` and achieves a similar outcome, but the program is structured very differently. Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions.
 
-At the bottom of the program file, the main function `readme()` is called. Within `readme()`, a `lines` list is created. As the program progresses through the `readme()` function, it creates the "Recently Modified" and "Category" header strings and calls the functions that execute the `os.walk()` and produce the lines for the sections. These new lines are appended to the `lines` list as strings.
+At the bottom of the program file, the main function `readme()` is called. Within `readme()`, a `lines` list is created. As the program progresses through the `readme()` function, it creates the "Recently Modified" and "Category" section strings and calls the functions that execute the `os.walk()` and produce the lines for the sections. These new lines are appended to the `lines` list as strings.
 
 The `lines` list is returned by `readme()` and written into the README.md.
 
 ### KhanhIceTea's Implementation
 
-* KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/)...
+KhanhIceTea's [TIL implementation](https://github.com/khanhicetea/today-i-learned/)...
 
 
 ### My Journey Through Implementations
