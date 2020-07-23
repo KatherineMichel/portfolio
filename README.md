@@ -133,9 +133,6 @@ Positions Held
 * Director and Corporate Secretary, 2020
 * Director, 2017-2019
 
-Special Accomplishments
-* International outreach
-
 <!--
 Defna Devrel
 -->
@@ -155,6 +152,10 @@ Defna Devrel
 ## Projects
 
 ### 100 Days of Code
+
+<!--
+Blog posts and demos
+-->
 
 ### Stanford Code in Place
 
@@ -186,7 +187,7 @@ Blog Post
 A few accomplishments that I feel especially proud of:
 * Becoming a DjangoCon US Website Maintainer and Pinax Release Manager
 * Participating in Stanford Code in Place
-* Representing DEFNA at PyCon Charlas
+* Representing DEFNA at PyCon Charlas, international outreach
 
 <!--
 Pinax
