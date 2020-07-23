@@ -66,6 +66,29 @@ Andrei Cioara's approach is short and sweet. The bulk of the program exists with
 
 A `content` variable is assigned to an empty string. As the program progresses, using an addition assignment operator, strings are appended to the `content` variable. First, The README.md header is appended to `content` through a global `HEADER` variable assigned to a multiline, triple-double-quote string. The program then uses `os.walk()` to traverse and sort the directories and files, removing the `.git` and `.github` directories as it goes. As the program "walks," each directory name is formatted as a category and added to the `content`. The program then iterates through each file in each category, formatting the file name as a title, and converting it into a hyperlink. At the end of the program, the README.md file is opened and all of the `content` is written into it.
 
+### Raegon Kim's Implementation
+
+Raegon Kim's [implementation](https://github.com/raycon/til/) also uses `os.walk()` and achieves a similar outcome, but the program is structured very differently. Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions.
+
+At the bottom of the program file, the main function `readme()` is called. Within `readme()`, a `lines` list is created. As the program progresses through the `readme()` function, it creates the "Recently Modified" and "Category" header strings and calls the functions that execute the `os.walk()` and produce the lines for the sections. These new lines are appended to the `lines` list as strings.
+
+The `lines` list is returned by `readme()` and written into the README.md.
+
+### KhanhIceTea's Implementation
+
+### My Journey Through Implementations
+
+```os.walk()``` is a powerful, lesser known function in the Python Standard Library and I thought using it would be a great approach for my TIL. So, I began by creating my own TIL implementation loosely based on Andrei Cioara's approach. 
+
+However, I ran into difficulty when I attempted to add a section for most recently modified files, in addition to categories. I realized that `os.walk()` needed to "walk" the directories and files twice. Adding a second `os.walk()` without using a function seemed like overkill.
+
+So, I began to study Raegon Kim's implementation, to see how he had added a "Recently Modified" category using functions. Although I nearly completed a similar implementation, I wasn't quite happy with the result. 
+
+At that point, I began looking through more examples on GitHub and came across KhanhIceTea's Implementation.
+
+I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both "Recently Modified" and "Category" sections.
+
+
 To be continued...
 
 ## Step By Step Implementation
