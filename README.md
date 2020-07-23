@@ -10,7 +10,7 @@ Table of Contents
 - [Open Source Management and Community Health](#open-source-management-and-community-health)
     - [Documentation](#documentation)
     - [Analysis](#analysis)
-- [Writing](#writing)
+- [Blog Posts](#blog-posts)
     - [Regular Blog Posts](#regular-blog-posts)
     - [Conference Blog Posts](#conference-blog-posts)
 - [Public Speaking](#public-speaking)
@@ -18,9 +18,10 @@ Table of Contents
     - [Interviews](#interviews)
     - [Talks and Panels](#talks-and-panels)
     - [Talk and GitHub Classroom](#talk-and-github-classroom)
-- [DjangoCon US](#djangocon-us)
-- [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
-- [Memberships](#memberships)
+- [Python and Django Community Leadership and Event Management](#python-and-django-community-leadership-and-event-management)
+    - [Memberships](#memberships)
+    - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
+    - [DjangoCon US](#djangocon-us)
 - [Education](#education)
     - [Stanford Code in Place](#stanford-code-in-place)
     - [Lancaster University Management School](#lancaster-university-management-school)
@@ -28,6 +29,8 @@ Table of Contents
     - [Mentoring](#mentoring)
     - [Blog Post Contributions](#blog-post-contributions)
 - [Kudos and Highlights](#kudos-and-highlights)
+
+<hr>
 
 ## Releases
 
@@ -115,19 +118,14 @@ https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-intervi
 
 <hr>
 
-## DjangoCon US
+## Python and Django Community Leadership and Event Management
 
-* [Website Chair and Technical Lead Description](https://github.com/KatherineMichel/portfolio/blob/master/djangocon-us-roles.md)
-* Website Co-Chair, Technical Lead, and Maintainer, 2019/[Website](https://2019.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2019.djangocon.us/)
-* Website Chair, Technical Lead, and Maintainer, 2018/[Website](https://2018.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2018.djangocon.us/)
-* Website Chair, Technical Lead, and Maintainer, 2017/[Website](https://2017.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2017.djangocon.us/)
-* [Website Contributing Guidance](https://github.com/djangocon/2017.djangocon.us/blob/master/README.md) Author, 2017
-* [Website CfP](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website/) Author, 2017
-* DjangoCon US 2017 Organizer and [Django Girls Event](https://djangogirls.org/spokane) Organizer
+### Memberships
 
-<hr>
+* [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
+* [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/) (Nominated and Confirmed)
 
-## Django Events Foundation North America (DEFNA)
+### Django Events Foundation North America (DEFNA)
 
 DEFNA is a non-profit tasked with managing DjangoCon US, the national Django conference, and regional and local Django events and outreach across all of North America, including Canada, the U.S., and Mexico. 
 
@@ -142,12 +140,15 @@ Special Accomplishments
 Defna Devrel
 -->
 
-<hr>
+### DjangoCon US
 
-## Memberships
-
-* [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
-* [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/) (Nominated and Confirmed)
+* [Website Chair and Technical Lead Description](https://github.com/KatherineMichel/portfolio/blob/master/djangocon-us-roles.md)
+* Website Co-Chair, Technical Lead, and Maintainer, 2019/[Website](https://2019.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2019.djangocon.us/)
+* Website Chair, Technical Lead, and Maintainer, 2018/[Website](https://2018.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2018.djangocon.us/)
+* Website Chair, Technical Lead, and Maintainer, 2017/[Website](https://2017.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2017.djangocon.us/)
+* [Website Contributing Guidance](https://github.com/djangocon/2017.djangocon.us/blob/master/README.md) Author, 2017
+* [Website CfP](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website/) Author, 2017
+* DjangoCon US 2017 Organizer and [Django Girls Event](https://djangogirls.org/spokane) Organizer
 
 <hr>
 
