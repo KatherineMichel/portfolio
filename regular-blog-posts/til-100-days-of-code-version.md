@@ -76,18 +76,21 @@ At the end of the program, the README.md file is opened and all of the `content`
 
 ### Raegon Kim's Implementation
 
-Raegon Kim's [TIL implementation](https://github.com/raycon/til/) also uses `os.walk()` and achieves a similar outcome, but the program is structured very differently. Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions.
+Raegon Kim's [TIL implementation](https://github.com/raycon/til/) also uses `os.walk()`, but the program is structured very differently. Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions.
 
+Encapsulated in the `tils()` function, `os.walk()` can be called multiple times, creating both "Recently Modified" and "Categories" sections.
+ 
 Just before re-writing the README.md, the entire program kicks off when the main function `readme()` is called. 
 
-Within `readme()`, a `lines` list is created. As the program progresses through `readme()`, a number of other functions will be called.
+Within `readme()`, a `lines` list is created. As the program progresses through `readme()`, a number of other functions are called which create the new lines that are appended to the `lines` list as strings.
 
-Encapsulated in a function, `os.walk()` is called to create a "Recently Modified" section, then again to create a "Categories" section.
+A "Recently Modified" header is added to the `lines` list.
 
-All of these new lines are appended to the `lines` list as strings
- 
+The `recent()` function is then called, passing into it the result of the `tils()` function. A `modified` list is created, the date of each `til` file is obtained, and the date and filename of each file are added to `modified`. `modified` is sorted by reverse date, sliced to provide the first five results, and returned. Each til's date is made pretty, a hyperlink is made using the root and filename, and a new entry is added to `lines` using the date and link.
+
+A "Categories" header and "Total TILs" entry are added to the `lines` list.
+
 The `lines` list is returned by `readme()` and written into the README.md.
-
 
 
 ### KhanhIceTea's Implementation
