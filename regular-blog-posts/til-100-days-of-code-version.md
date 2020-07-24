@@ -20,7 +20,7 @@ There is so much to be learned from tech that for years now, I've been curating 
 
 Now that I knew about the self-writing README.md, it was clear that a similar implementation could be very helpful to me. I bookmarked the idea as something I would revisit.
 
-### TIL- 100 Days of Code Version
+## TIL- 100 Days of Code Version
 
 Around the time of Simon's tweet, I was just beginning Stanford's Code in Place course. When Code in Place ended, I wanted to continue building small, fun apps regularly. So, I started taking part in a popular initiative called 100 Days of Code. 
 
@@ -32,7 +32,7 @@ However, 100 Days of Code is largely self-guided, and at the beginning, I found 
 
 I felt super excited at the thought of creating my own TIL implementation. What better sort of project could there be than to create a programmatic solution to my own problem?
 
-### My TIL Requirements
+## My TIL Requirements
 
 Requirements for my own TIL:
 
@@ -72,10 +72,10 @@ The `lines` list is returned by `readme()` and written into the README.md.
 
 ### KhanhIceTea's Implementation
 
-KhanhIceTea's [TIL implementation](https://github.com/khanhicetea/today-i-learned/)...
+KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/) uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. Each TIL file is passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. Each TIL is returned and added to both a `cat_articles` list and `all_articles` list. 
 
 
-### My Journey Through Implementations
+## My Journey Through Implementations
 
 ```os.walk()``` is a powerful, lesser known function in the Python Standard Library and I thought using it would be a great approach for my TIL. So, I began by creating my own TIL implementation loosely based on Andrei Cioara's approach. 
 
@@ -88,14 +88,35 @@ At that point, I began looking through more examples on GitHub and came across K
 I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both "Recently Modified" and "Category" sections.
 
 
-To be continued...
+See the "Changes I Made" section below for more information.
 
-## Step By Step Implementation
+## Make Your Own
 
-### Step One: Implement GitHub Actions
+The approach I chose does not take performance into account. 
 
-### Step Two: Implement a Header and Footer
+How would you have done it and why? Let me know on Twitter or in a GitHub issue.
 
-### Step Three: Implement the Content
+See my TIL- 100 Days of Code Version template for step-by-step instructions for setting up your own TIL. Have fun!
 
-### Step Four: Implement Status Tweet
+## Changes I Made
+
+Major changes I made:
+* Rather than making updates through an editor locally, updates will be made in the browser
+* Instead of using a `README.md.template`, all of the content is generated directly into the README.md from update.py
+* Moved the content creation part of the program out of functions and into `main()`, leaving `read_file()` and `parse_til()` functions
+* Created `HEADER` and `FOOTER` variables assigned to multiline, triple-double-quote strings
+* Changed the formatting to f-strings
+* Added newlines to break the markdown table into two sections and create a footer
+* Implemented Twython, including adding secret tokens accessed via the GitHub Action
+* Added a `status` variable to the post dictionary and passed it into Twython to auto-tweet a status update
+* Implemented a GitHub Action to run the script when a commit is made
+* Formatted update.py file using Black
+
+Minor changes I made:
+* `codecs` and `json` were removed, because they were unnecessary for my approach
+* Changed some variable names to make the meaning more clear
+* Changed `cwd` to `"."`
+* Altered the excluded directories
+* Excluded dotfiles from within the `categories` variable
+* Changed the markdown header text and emojis; capitalized the category names
+* Created a `recent_content` string
