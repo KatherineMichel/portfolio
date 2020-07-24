@@ -87,12 +87,24 @@ At that point, I began looking through more examples on GitHub and came across K
 
 I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both "Recently Modified" and "Category" sections.
 
+## What I Learned About Performance
+
+Although based on existing implementations, `os.walk()` seemed like the obvious choice at first, it performs poorly. This was explained in [PEP 0471](https://www.python.org/dev/peps/pep-0471), which introduced `os.scandir()`.
+
+"Abstract
+This PEP proposes including a new directory iteration function, os.scandir(), in the standard library. This new function adds useful functionality and increases the speed of os.walk() by 2-20 times (depending on the platform and file system) by avoiding calls to os.stat() in most cases.
+
+Python's built-in os.walk() is significantly slower than it needs to be, because -- in addition to calling os.listdir() on each directory -- it executes the stat() system call or GetFileAttributes() on each file to determine whether the entry is a directory or not."
+
+Although my implementation uses `os.listdir()` directly, which is an improvement over `os.walk()`, according to the `listdir()` documentation, `os.scandir()` gives better performance than `os.listdir()` for many common use cases.
+
+Although I learned a lot exploring different approaches, knowing what I know now, if I were to start over, I would probably use `os.scandir()`, and perhaps, I will create a new version using it.
+
 
 See the "Changes I Made" section below for more information.
 
-## Make Your Own
 
-The approach I chose does not take performance into account. 
+## Make Your Own
 
 How would you have done it and why? Let me know on Twitter or in a GitHub issue.
 
