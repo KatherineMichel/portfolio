@@ -78,7 +78,7 @@ At the end of the program, the README.md file is opened and all of the `content`
 
 Raegon Kim's [TIL implementation](https://github.com/raycon/til/) also uses `os.walk()`, but the program is structured very differently. Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions.
 
-Encapsulated in the `tils()` function, `os.walk()` can be called multiple times, creating both "Recently Modified" and "Categories" sections.
+Encapsulated in the `tils()` function, `os.walk()` is called two times, to create "Recently Modified" and "Categories" sections.
  
 Just before re-writing the README.md, the entire program kicks off when the main function `readme()` is called. 
 
@@ -86,7 +86,7 @@ Within `readme()`, a `lines` list is created. As the program progresses through 
 
 A "Recently Modified" header is added to the `lines` list.
 
-The `recent()` function is then called, passing into it the result of the `tils()` function. A `modified` list is created, the date of each `til` file is obtained, and the date and filename of each file are added to `modified`. `modified` is sorted by reverse date, sliced to provide the first five results, and returned. Each til's date is made pretty, a hyperlink is made using the root and filename, and a new entry is added to `lines` using the date and link.
+The `recent()` function is then called, with the `tils()` function passed into it. Each `til`'s `date` and `filename` are added to the `modified` list. `modified` is sorted by reverse date and sliced, returning the first five results. The five section entries are created using a formatted file title, hyperlink made from each `til`'s `root` and `filename` and formatted `date`. The entries are added to `lines`.
 
 A "Categories" header and "Total TILs" entry are added to the `lines` list.
 
