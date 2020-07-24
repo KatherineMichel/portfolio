@@ -87,6 +87,10 @@ At that point, I began looking through more examples on GitHub and came across K
 
 I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both "Recently Modified" and "Category" sections.
 
+
+See the "Changes I Made" section below for more information.
+
+
 ## What I Learned About Performance
 
 Although based on existing implementations, `os.walk()` seemed like the obvious choice at first, it performs poorly. This was explained in [PEP 0471](https://www.python.org/dev/peps/pep-0471), which introduced `os.scandir()`.
@@ -98,11 +102,7 @@ Python's built-in os.walk() is significantly slower than it needs to be, because
 
 Although my implementation uses `os.listdir()` directly, which is an improvement over `os.walk()`, according to the `listdir()` documentation, `os.scandir()` gives better performance than `os.listdir()` for many common use cases.
 
-Although I learned a lot exploring different approaches, knowing what I know now, if I were to start over, I would probably use `os.scandir()`, and perhaps, I will create a new version using it.
-
-
-See the "Changes I Made" section below for more information.
-
+I learned a lot exploring different approaches, but knowing what I know now, if I were to start over, I would probably use `os.scandir()`, and perhaps, I will create a new version using it.
 
 ## Make Your Own
 
