@@ -50,7 +50,7 @@ Special 100 Days of Code Features
 
 The first thing I did was spend some time looking at different TIL implementations hosted on GitHub. My intention was not to adopt another person's solution outright, but to get a general idea of what approaches people had taken, and perhaps, why. Ultimately, I wanted to take code apart and go through my own process of discovery and learning, so that I would fully understand how what I was using worked. I also wanted to create an implementation unique to my own needs, including features incorporated specifically for 100 Days of Code. 
 
-The upside of looking at different TIL implementations and trying them out right away was that it got me experimenting. The downside was that I overlooked an important performance issue. See the "[What I Learned About Performance](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#what-i-learned-about-performance)" section for more information about that.
+The upside of looking at different TIL implementations and trying them out right away was that it got me experimenting. The downside was that I overlooked a potentially important performance issue. See the "[What I Learned About Performance](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#what-i-learned-about-performance)" section for more information about that.
 
 I considered four major approaches implemented in Python:
 
@@ -98,13 +98,13 @@ At that point, I began looking through more examples on GitHub and came across K
 
 I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both "Recently Modified" and "Category" sections.
 
+I'm not a huge fan of using `find()` to parse file frontmatter. However, I found TIL dictionaries to be very straightforward to work with and was able to quickly add a `status` variable and implement auto-status tweet. 
 
-See the "Changes I Made" section below for more information.
-
+See the "[Changes I Made](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#changes-i-made)" section below for more information.
 
 ## What I Learned About Performance
 
-Although based on existing implementations, `os.walk()` seemed like the obvious choice at first, it performs poorly. This was explained in [PEP 0471](https://www.python.org/dev/peps/pep-0471), which introduced `os.scandir()`.
+Although based on existing implementations, `os.walk()` seemed like the obvious choice at first, it can perform poorly. This was explained in [PEP 0471](https://www.python.org/dev/peps/pep-0471), which introduced `os.scandir()`, added to the Python Standard Library in Python 3.5.
 
 "This PEP proposes including a new directory iteration function, os.scandir(), in the standard library. This new function adds useful functionality and increases the speed of os.walk() by 2-20 times (depending on the platform and file system) by avoiding calls to os.stat() in most cases.
 
