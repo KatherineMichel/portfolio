@@ -48,11 +48,9 @@ Special 100 Days of Code Features
 
 ## Implementations I Considered
 
-The first thing I did was spend some time looking at different TIL implementations hosted on GitHub. 
+The first thing I did was spend some time looking at different TIL implementations hosted on GitHub. My intention was not to adopt another person's solution outright, but to get a general idea of what approaches people had taken, and perhaps, why. Ultimately, I wanted to take code apart and go through my own process of discovery and learning, so that I would fully understand how what I was using worked. I also wanted to create an implementation unique to my own needs, including features incorporated specifically for 100 Days of Code. 
 
-My intention was not to adopt another person's solution outright, but to get a general idea of what approaches people had taken, and perhaps, why. Ultimately, I wanted to take code apart and go through my own process of discovery and learning, so that I would fully understand how what I was using worked. I also wanted to create an implementation unique to my own needs, including features incorporated specifically for 100 Days of Code. 
-
-The upside of looking at different TIL implementations and trying them out right away was that it got me experimenting. The downside was that I overlooked an important performance issue. See the "What I Learned About Performance" section for more information about that.
+The upside of looking at different TIL implementations and trying them out right away was that it got me experimenting. The downside was that I overlooked an important performance issue. See the "[What I Learned About Performance](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#what-i-learned-about-performance)" section for more information about that.
 
 I considered four major approaches implemented in Python:
 
@@ -70,7 +68,7 @@ First, The README.md header is appended to `content` through a global `HEADER` v
 
 Then, the program uses `os.walk()` to traverse and sort the directories and files, removing the `.git` and `.github` directories as it goes. 
 
-As the program "walks," each directory name is formatted as a category and added to the `content`. The program then iterates through each file in each category, formatting the file name as a title, and converting it into a hyperlink. 
+As the program "walks," each directory name is formatted as a category and added to `content`. The program then iterates through each file in each category, formatting the file name as a title, converting it into a hyperlink, and adding it to `content`. 
 
 At the end of the program, the README.md file is opened and all of the `content` is written into it.
 
@@ -108,8 +106,7 @@ See the "Changes I Made" section below for more information.
 
 Although based on existing implementations, `os.walk()` seemed like the obvious choice at first, it performs poorly. This was explained in [PEP 0471](https://www.python.org/dev/peps/pep-0471), which introduced `os.scandir()`.
 
-"Abstract
-This PEP proposes including a new directory iteration function, os.scandir(), in the standard library. This new function adds useful functionality and increases the speed of os.walk() by 2-20 times (depending on the platform and file system) by avoiding calls to os.stat() in most cases.
+"This PEP proposes including a new directory iteration function, os.scandir(), in the standard library. This new function adds useful functionality and increases the speed of os.walk() by 2-20 times (depending on the platform and file system) by avoiding calls to os.stat() in most cases.
 
 Python's built-in os.walk() is significantly slower than it needs to be, because -- in addition to calling os.listdir() on each directory -- it executes the stat() system call or GetFileAttributes() on each file to determine whether the entry is a directory or not."
 
