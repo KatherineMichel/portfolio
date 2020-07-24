@@ -4,7 +4,7 @@ In April, I was looking through my Twitter newsfeed and came across a [tweet](ht
 
 I had the good fortune to get to know [Simon](https://github.com/simonw/) when he was the moderator of a ["State of Django" panel](https://youtu.be/TrAFQW7Wza0) that I took part in at [DjangoCon US 2018](https://2018.djangocon.us/) and I've been following him on Twitter ever since. One of the original creators of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web development framework at the Lawrence Journal World, Simon can often be found discovering novel ways of doing things. So, when he comes across an "interesting" idea, I tend to take notice.
 
-While looking at Hacker News, Simon had come across the idea of a self-rewriting README.md. The idea originated from a project called [TIL (Today I Learned)](https://github.com/jbranchaud/til), created by [Josh Branchaud](https://github.com/jbranchaud/). 
+While looking at Hacker News, Simon had come across the idea of a self-rewriting README.md. The idea originated from a project called [TIL (Today I Learned)](https://github.com/jbranchaud/til), created by [Josh Branchaud](https://github.com/jbranchaud/) that was inspired by a [thoughtbot](https://github.com/thoughtbot/til) project of the same name. 
 
 <!--
 ![](til-100-days-of-code-version-images/simon_tweet.png)
@@ -30,7 +30,7 @@ It's a great initiative and I can definitely feel my coding muscles becoming str
 
 However, 100 Days of Code is largely self-guided, and at the beginning, I found myself having difficult settling into a routine. After a couple of weeks of feeling disorganized, I suddenly remembered the idea of a self-rewriting TIL. I had an ephiphany that I could create a TIL- 100 Days of Code version, to keep what I had worked on and learned from day to day organized.
 
-I felt super excited at the thought of creating my own TIL implementation. What better sort of project could there be than to create a programmatic solution to my own problem?
+I felt super excited at the thought of creating my own TIL implementation, which is a good sign. What better sort of project could there be than to create a programmatic solution to my own problem?
 
 ## My TIL Requirements
 
@@ -48,7 +48,11 @@ Special 100 Days of Code Features
 
 ## Implementations I Considered
 
-The first thing I did was spend some time looking at different TIL implementations hosted on GitHub. My intention was not to adopt another person's solution outright, but to get a general idea of what approaches people had taken, and perhaps, why. Ultimately, I wanted to take code apart and go through my own process of discovery and learning, so that I would fully understand how what I was using worked. I also wanted to create an implementation unique to my own needs, including features incorporated specifically for 100 Days of Code. 
+The first thing I did was spend some time looking at different TIL implementations hosted on GitHub. 
+
+My intention was not to adopt another person's solution outright, but to get a general idea of what approaches people had taken, and perhaps, why. Ultimately, I wanted to take code apart and go through my own process of discovery and learning, so that I would fully understand how what I was using worked. I also wanted to create an implementation unique to my own needs, including features incorporated specifically for 100 Days of Code. 
+
+The upside of looking at different TIL implementations and trying them out right away was that it got me experimenting. The downside was that I overlooked an important performance issue. See the "What I Learned About Performance" section for more information about that.
 
 I considered four major approaches implemented in Python:
 
@@ -58,13 +62,22 @@ Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](htt
 
 ### Andrei Cioara's Implementation
 
-Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) is short and sweet. The bulk of the program exists within the `main()` function and can be followed quite easily, like a list of consecutive instructions.
+Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) is the simplest of the four. The bulk of the program exists within the `main()` function and can be followed quite easily, like a list of consecutive instructions.
 
-A `content` variable is assigned to an empty string. As the program progresses, using an addition assignment operator, strings are appended to the `content` variable. First, The README.md header is appended to `content` through a global `HEADER` variable assigned to a multiline, triple-double-quote string. The program then uses `os.walk()` to traverse and sort the directories and files, removing the `.git` and `.github` directories as it goes. As the program "walks," each directory name is formatted as a category and added to the `content`. The program then iterates through each file in each category, formatting the file name as a title, and converting it into a hyperlink. At the end of the program, the README.md file is opened and all of the `content` is written into it.
+A `content` variable is assigned to an empty string. As the program progresses, using an addition assignment operator, strings are appended to the `content` variable. 
+
+First, The README.md header is appended to `content` through a global `HEADER` variable assigned to a multiline, triple-double-quote string. 
+
+Then, the program uses `os.walk()` to traverse and sort the directories and files, removing the `.git` and `.github` directories as it goes. 
+
+As the program "walks," each directory name is formatted as a category and added to the `content`. The program then iterates through each file in each category, formatting the file name as a title, and converting it into a hyperlink. 
+
+At the end of the program, the README.md file is opened and all of the `content` is written into it.
 
 ### Raegon Kim's Implementation
 
 Raegon Kim's [TIL implementation](https://github.com/raycon/til/) also uses `os.walk()` and achieves a similar outcome, but the program is structured very differently. Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions.
+
 
 At the bottom of the program file, the main function `readme()` is called. Within `readme()`, a `lines` list is created. As the program progresses through the `readme()` function, it creates the "Recently Modified" and "Category" section strings and calls the functions that execute the `os.walk()` and produce the lines for the sections. These new lines are appended to the `lines` list as strings.
 
@@ -77,7 +90,7 @@ KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/) 
 
 ## My Journey Through Implementations
 
-```os.walk()``` is a powerful, lesser known function in the Python Standard Library and I thought using it would be a great approach for my TIL. So, I began by creating my own TIL implementation loosely based on Andrei Cioara's approach. 
+I had heard positive things about ```os.walk()``` and immediately thought it would be a great approach for my TIL. So, I began by creating my own TIL implementation loosely based on Andrei Cioara's approach. 
 
 However, I ran into difficulty when I attempted to add a section for most recently modified files, in addition to categories. I realized that `os.walk()` needed to "walk" the directories and files twice. Adding a second `os.walk()` without using a function seemed like overkill.
 
@@ -102,11 +115,13 @@ Python's built-in os.walk() is significantly slower than it needs to be, because
 
 Although my implementation uses `os.listdir()` directly, which is an improvement over `os.walk()`, according to the `listdir()` documentation, `os.scandir()` gives better performance than `os.listdir()` for many common use cases.
 
-I learned a lot exploring different approaches, but knowing what I know now, if I were to start over, I would probably use `os.scandir()`, and perhaps, I will create a new version using it.
+For a small, open-source app like mine, performance might not be as much of an issue as it would be for a large-scale system or one that runs the risk of maxing out on resource, such as an app in a private repo using up all of its GitHub Action minutes.
+
+But, knowing what I know now, if I were to start over, I would probably use `os.scandir()`, and perhaps, I will create a new version using it anyway.
 
 ## Make Your Own
 
-How would you have done it and why? Let me know on Twitter or in a GitHub issue.
+How would you have done it and why? Let me know on Twitter [@KatiMichel](https://twitter.com/KatiMichel), in a GitHub issue, or by email kthrnmichel@gmail.com.
 
 See my TIL- 100 Days of Code Version template for step-by-step instructions for setting up your own TIL. Have fun!
 
@@ -119,10 +134,10 @@ Major changes I made:
 * Created `HEADER` and `FOOTER` variables assigned to multiline, triple-double-quote strings
 * Changed the formatting to f-strings
 * Added newlines to break the markdown table into two sections and create a footer
-* Implemented Twython, including adding secret tokens accessed via the GitHub Action
+* Implemented [Twython](https://twython.readthedocs.io/), including adding secret tokens accessed via the GitHub Action
 * Added a `status` variable to the post dictionary and passed it into Twython to auto-tweet a status update
 * Implemented a GitHub Action to run the script when a commit is made
-* Formatted update.py file using Black
+* Formatted update.py file using [Black](https://black.readthedocs.io/)
 
 Minor changes I made:
 * `codecs` and `json` were removed, because they were unnecessary for my approach
