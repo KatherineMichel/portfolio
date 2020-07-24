@@ -24,7 +24,7 @@ Now that I knew about the self-writing README.md, it was clear that a similar im
 
 Around the time of Simon's tweet, I was just beginning Stanford's Code in Place course. When Code in Place ended, I wanted to continue building small, fun apps regularly. So, I started taking part in a popular initiative called 100 Days of Code. 
 
-Code in Place participants spend 1 hour a day, most days, working on code-related learning and are encouraged to fork the official [100 Days of Code repo](https://github.com/kallaway/100-days-of-code) to keep a record of their work, as well as tweet their progress from day to day, in order to stay accountable. 
+100 Days of Code participants spend 1 hour a day, most days, working on code-related learning and are encouraged to fork the official [100 Days of Code repo](https://github.com/kallaway/100-days-of-code) to keep a record of their work, as well as tweet their progress from day to day, in order to stay accountable. 
 
 It's a great initiative and I can definitely feel my coding muscles becoming stronger over time. 
 
