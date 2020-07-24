@@ -86,9 +86,9 @@ Within `readme()`, a `lines` list is created. As the program progresses through 
 
 A "Recently Modified" header is added to the `lines` list.
 
-The `recent()` function is then called, with the `tils()` function passed into it. Each `til`'s `date` and `filename` are added to the `modified` list. `modified` is sorted by reverse date and sliced, returning the first five results. The five section entries are created using a formatted file title, hyperlink made from each `til`'s `root` and `filename` and formatted `date`. The entries are added to `lines`.
+The `recent()` function is then called, with the `tils()` function passed into it. Each `til`'s `date` and `filename` are added to the `modified` list. `modified` is sorted by reverse date and sliced, returning the first five results. The five section entries are created using a formatted file title, hyperlink made from each `til`'s `root` and `filename`, and formatted `date`. The entries are added to `lines`.
 
-A "Categories" header and "Total TILs" entry are added to the `lines` list.
+A "Categories" header and "Total TILs" entry are added to the `lines` list. Below that, a category table of contents is created by using each directory name as a `relative` hyperlink that links to the category in the category section, along with a TIL count for each category.
 
 The `lines` list is returned by `readme()` and written into the README.md.
 
