@@ -116,8 +116,6 @@ I immediately liked the way it looked, because of its fun use of markdown tables
 
 I'm undecided about the use of frontmatter and the `find()` function to parse it. However, I found TIL dictionaries to be very straightforward to work with and was able to quickly add a `status` variable and implement auto-status tweet. 
 
-See the "[Changes I Made](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#changes-i-made)" section below for more information.
-
 ## What I Learned About Performance
 
 Although based on existing implementations, `os.walk()` seemed like the obvious choice at first, it can perform poorly. This was explained in [PEP 0471](https://www.python.org/dev/peps/pep-0471), which introduced `os.scandir()`, added to the Python Standard Library in Python 3.5.
@@ -134,7 +132,9 @@ But, knowing what I know now, if I were to start over, I would probably use `os.
 
 ## Make Your Own
 
-How would you have done it and why? Let me know on Twitter [@KatiMichel](https://twitter.com/KatiMichel), in a GitHub issue, or by email kthrnmichel@gmail.com.
+How would you have created a TIL project and why? Let me know on Twitter [@KatiMichel](https://twitter.com/KatiMichel), in a GitHub issue, or by email kthrnmichel@gmail.com.
+
+For more information about my implementation, see the "[Changes I Made](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#changes-i-made)" section below.
 
 See my TIL- 100 Days of Code Version template for step-by-step instructions for setting up your own TIL. Have fun!
 
