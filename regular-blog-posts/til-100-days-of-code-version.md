@@ -10,7 +10,7 @@ While looking at Hacker News, Simon had come across the idea of a self-rewriting
 ![](til-100-days-of-code-version-images/simon_tweet.png)
 -->
 
-Simon re-implemented the idea and wrote about it in a [blog post](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/). 
+Simon re-implemented the idea in Python and wrote about it in a [blog post](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/). 
 
 In a nutshell, Simon's TIL repo contains a README.md and subject folders filled with TIL files. When Simon learns something new, he can open a corresponding subject folder, create a new markdown TIL file, and fill in what he has learned. When the new file is saved, a program runs and finds the change. In the README.md, each folder name is listed as a category with the names of the files contained in the folder listed below the category as TIL hyperlinks. The program rewrites the README.md, adding the new TIL file name under its category.
 
@@ -90,7 +90,7 @@ The `recent()` function is then called, with the `tils()` function passed into i
 
 A "Categories" header and "Total TILs" entry are added to the `lines` list. Below that, a category table of contents is created by using each directory name as a `relative` hyperlink that links to the category in the category section, along with a TIL count for each category.
 
-In the category sections, category headers are created using the directory name via `relative`. For each category, the program iterates through the file paths, and creates a hyperlink using using the formatted file title and relative path.
+In the category sections, category headers are created using the directory name via `relative`. For each category, the program iterates through the file paths, and creates a hyperlink using the formatted file title and relative path.
 
 The `lines` list is returned by `readme()` and written into the README.md.
 
@@ -132,11 +132,13 @@ But, knowing what I know now, if I were to start over, I would probably use `os.
 
 ## Make Your Own
 
-How would you have created a TIL project and why? Let me know on Twitter [@KatiMichel](https://twitter.com/KatiMichel), in a GitHub issue, or by email kthrnmichel@gmail.com.
+How would you create a TIL project and why? Let me know on Twitter [@KatiMichel](https://twitter.com/KatiMichel), in a GitHub issue, or by email kthrnmichel@gmail.com.
+
+See my TIL- 100 Days of Code Version template for step-by-step instructions for setting up your own TIL. 
 
 For more information about my implementation, see the "[Changes I Made](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#changes-i-made)" section below.
 
-See my TIL- 100 Days of Code Version template for step-by-step instructions for setting up your own TIL. Have fun!
+Happy learning! :)
 
 ## Changes I Made
 
