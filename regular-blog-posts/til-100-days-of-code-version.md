@@ -86,16 +86,18 @@ Within `readme()`, a `lines` list is created. As the program progresses through 
 
 A "Recently Modified" header is added to the `lines` list.
 
-The `recent()` function is then called, with the `tils()` function passed into it. Each `til`'s `date` and `filename` are added to the `modified` list. `modified` is sorted by reverse date and sliced, returning the first five results. The five section entries are created using a formatted file title, hyperlink made from each `til`'s `root` and `filename`, and formatted `date`. The entries are added to `lines`.
+The `recent()` function is then called, with the `tils()` function passed into it. Each `til`'s `date` and `filename` are added to the `modified` list. `modified` is sorted by reverse date and sliced, returning the first five results. The five section entries are created using each `til`'s formatted file title, hyperlink made from `root` and `filename`, and formatted `date`. The entries are added to `lines`.
 
 A "Categories" header and "Total TILs" entry are added to the `lines` list. Below that, a category table of contents is created by using each directory name as a `relative` hyperlink that links to the category in the category section, along with a TIL count for each category.
 
-The `lines` list is returned by `readme()` and written into the README.md.
+In the category sections, category headers are created using the directory name via `relative`. For each category, the program iterates through the file paths, and creates a hyperlink using using the formatted file title and relative path.
 
+The `lines` list is returned by `readme()` and written into the README.md.
 
 ### KhanhIceTea's Implementation
 
 KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/) uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. 
+
 
 Each TIL file is passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. Each TIL is returned and added to both a `cat_articles` list and `all_articles` list. 
 
@@ -112,7 +114,7 @@ At that point, I began looking through more examples on GitHub and came across K
 
 I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both "Recently Modified" and "Category" sections.
 
-I'm not a huge fan of using `find()` to parse file frontmatter. However, I found TIL dictionaries to be very straightforward to work with and was able to quickly add a `status` variable and implement auto-status tweet. 
+I'm undecided about the use of frontmatter and the `find()` function to parse it. However, I found TIL dictionaries to be very straightforward to work with and was able to quickly add a `status` variable and implement auto-status tweet. 
 
 See the "[Changes I Made](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#changes-i-made)" section below for more information.
 
