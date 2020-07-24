@@ -56,7 +56,9 @@ I considered four major approaches implemented in Python:
 
 ### Simon Willison's Implementation
 
-Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
+Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. 
+
+Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
 
 ### Andrei Cioara's Implementation
 
@@ -64,7 +66,7 @@ Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) is the si
 
 A `content` variable is assigned to an empty string. As the program progresses, using an addition assignment operator, strings are appended to the `content` variable. 
 
-First, The README.md header is appended to `content` through a global `HEADER` variable assigned to a multiline, triple-double-quote string. 
+First, the README.md header is appended to `content` through a global `HEADER` variable assigned to a multiline, triple-double-quote string. 
 
 Then, the program uses `os.walk()` to traverse and sort the directories and files, removing the `.git` and `.github` directories as it goes. 
 
@@ -76,14 +78,23 @@ At the end of the program, the README.md file is opened and all of the `content`
 
 Raegon Kim's [TIL implementation](https://github.com/raycon/til/) also uses `os.walk()` and achieves a similar outcome, but the program is structured very differently. Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions.
 
+Just before re-writing the README.md, the entire program kicks off when the main function `readme()` is called. 
 
-At the bottom of the program file, the main function `readme()` is called. Within `readme()`, a `lines` list is created. As the program progresses through the `readme()` function, it creates the "Recently Modified" and "Category" section strings and calls the functions that execute the `os.walk()` and produce the lines for the sections. These new lines are appended to the `lines` list as strings.
+Within `readme()`, a `lines` list is created. As the program progresses through `readme()`, a number of other functions will be called.
 
+Encapsulated in a function, `os.walk()` is called to create a "Recently Modified" section, then again to create a "Categories" section.
+
+All of these new lines are appended to the `lines` list as strings
+ 
 The `lines` list is returned by `readme()` and written into the README.md.
+
+
 
 ### KhanhIceTea's Implementation
 
-KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/) uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. Each TIL file is passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. Each TIL is returned and added to both a `cat_articles` list and `all_articles` list. 
+KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/) uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. 
+
+Each TIL file is passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. Each TIL is returned and added to both a `cat_articles` list and `all_articles` list. 
 
 
 ## My Journey Through Implementations
