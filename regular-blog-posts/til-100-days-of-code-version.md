@@ -61,7 +61,7 @@ I considered four major approaches implemented in Python:
 
 ### Contrasting the Implementations
 
-Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a Stanford John S. Knight Journalism Fellowship. Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
+Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
 
 So, I moved on to Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) and Raegon Kim's [TIL implementation](https://github.com/raycon/til/).
 
@@ -89,6 +89,44 @@ def main():
             
         for file in files:
         # Other stuff
+```
+
+Andrei Cioara creates an empty string called `content` and uses an addition assignment operator to append new strings to `content`, starting with a README.md header via a global `HEADER` variable assigned to a multiline, triple-double-quote string. At the end of the program, all of the `content` is written into the README.md at once.
+
+```python
+def main():
+    content = ""
+    content += HEADER
+
+    # Other stuff
+    
+        category = os.path.basename(root)
+
+        content += "### {}\n\n".format(category)
+
+        for file in files:
+            name = os.path.basename(file).split('.')[0]
+            name = " ".join(word.capitalize() for word in name.split('-'))
+            content += "- [{}]({})\n".format(name, os.path.join(category, file))
+        content += "\n"
+
+    with open("README.md", "w") as fd:
+        fd.write(content)
+```
+
+README.md header
+
+```python
+HEADER="""# TIL
+
+> Today I Learned
+
+
+A collection of software engineering tips that I learn every day.
+
+---
+
+"""
 ```
 
 Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code near the end of the file, when, the highest-order function `readme()` is called. At the beginning of `readme()`, an empty list called `lines` is created. As the program progresses through `readme()`, a number of other functions are called, some nested within one another. Encapsulated in a function, `os.walk()` is called twice, to create both "Recently Modified" and "Categories" sections. The built-in list function `append()` is used to append the newly generated lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
@@ -164,7 +202,7 @@ def convert_til_2_readme(source, template_file, dest):
         for file in os.listdir(os.path.join(source, cat)):
 ```
 
-Each TIL file is passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. 
+Each TIL file is split into pieces and passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. 
 
 ```python
 def parse_article(content, category):
@@ -183,7 +221,25 @@ def parse_article(content, category):
     return post
 ```
 
+Unlike the other implementations, which for the most part use Python Standard Library built-in functions to identify and parse the file paths to create the variables inserted into the README.md entries, KhanhIceTea's implementation uses TIL dictionary variables to create the entries.
 
+```python
+        cat_articles.sort(key=lambda a: a['date'])
+        
+        cat_content += "| :books: **{}** [ {} articles ] | |\n".format(cat, len(cat_articles))
+        for article in cat_articles:
+            count += 1
+            cat_content += "| {}. [{}]({}/{}) | {} |\n".format(
+                count, article['title'], article['category'], article['file_name'],
+                article['date'].strftime('%Y-%m-%d'))
+
+    all_articles.sort(reverse=True, key=lambda a: a['date'])
+    for article in all_articles[0:5]:
+        content += "| [{}]({}/{}) [{}] | {} |\n".format(
+            article['title'], article['category'],
+            article['file_name'], article['category'],
+            article['date'].strftime('%Y-%m-%d'))
+```
 
 ## My Journey Through Implementations
 
