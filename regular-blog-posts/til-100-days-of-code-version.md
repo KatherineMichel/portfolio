@@ -30,7 +30,7 @@ It's a great initiative and I can definitely feel my coding muscles becoming str
 
 However, 100 Days of Code is largely self-guided, and at the beginning, I found myself having difficult settling into a routine. After a couple of weeks of feeling disorganized, I suddenly remembered the idea of a self-rewriting TIL. I had an ephiphany that I could create a TIL- 100 Days of Code version, to keep what I had worked on and learned from day to day organized.
 
-I felt super excited at the thought of creating my own TIL implementation, which is a good sign. What better sort of project could there be than to create a programmatic solution to my own problem?
+I felt super excited at the thought of creating my own TIL implementation. What better sort of project could there be than to create a programmatic solution to my own problem?
 
 ## My TIL Requirements
 
@@ -50,7 +50,7 @@ Special 100 Days of Code Features
 
 The first thing I did was spend some time looking at different TIL implementations hosted on GitHub. My intention was not to adopt another person's solution outright, but to get a general idea of what approaches people had taken, and perhaps, why. Ultimately, I wanted to take code apart and go through my own process of discovery and learning, so that I would fully understand how what I was using worked. I also wanted to create an implementation unique to my own needs, including features incorporated specifically for 100 Days of Code. 
 
-The upside of looking at different TIL implementations and trying them out right away was that it got me experimenting. The downside was that I overlooked a potentially important performance issue. See the "[What I Learned About Performance](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#what-i-learned-about-performance)" section for more information about that.
+The upside of looking at different TIL implementations was that I immediately began to experiment and problem solve by creating my own versions. The downside was that I overlooked a potentially important performance issue. See the "[What I Learned About Performance](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#what-i-learned-about-performance)" section later in this blog post for more information about that.
 
 I considered four major approaches implemented in Python:
 
@@ -63,11 +63,14 @@ I considered four major approaches implemented in Python:
 
 Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
 
-Even though Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) and Raegon Kim's [TIL implementation](https://github.com/raycon/til/) both use `os.walk()`, their programs are structured very differently.
+So, I moved on to Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) and Raegon Kim's [TIL implementation](https://github.com/raycon/til/)
 
-For me, Andrei Cioara's implementation was the simplest of the four to understand and Raegon Kim's the most difficult to understand. 
+Both implementations use `os.walk()`, but the programs are structured very differently. For me, Andrei Cioara's implementation was the simplest of the four to understand and Raegon Kim's the most difficult to understand. 
 
-In Andrei Cioara's implementation, the bulk of the program exists within the `main()` function and executes from beginning to end, like a consecutive list of instructions. The program executes `os.walk()` once to create categories and files links. 
+In Andrei Cioara's implementation, the bulk of the program exists within the `main()` function and executes from beginning to end, like a consecutive list of instructions. The program executes `os.walk()` once to create a simple list of categories and file links. 
+
+Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code at the bottom of the program, when, the highest-order function `readme()` is called. As Raegon Kim's program progresses through `readme()`, a number of other functions are called, some nested within one another. By encapsulating `os.walk()` in a function, Raegon Kim is able to call it twice to create both "Recently Modified" and "Categories" sections. 
+
 
 Andrei Cioara's `os.walk()
 
@@ -90,7 +93,6 @@ def main():
         for file in files:
 ```
 
-Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code at the bottom of the program, when, the highest-order function `readme()` is called, and each line in the `lines` list returned by `readme()` is written into README.md.
 
 ```python
 output = open(os.path.join(root, "README.md"), 'w', encoding='UTF-8')
@@ -100,7 +102,6 @@ for line in readme():
 output.close()
 ```
 
-As Raegon Kim's program progresses through `readme()`, a number of other functions are called, some nested within one another.
 
 ```python
 def readme():
@@ -130,8 +131,6 @@ def readme():
 
     return lines
 ```
-
-By encapsulating `os.walk()` in the `tils()` function, Raegon Kim calls `os.walk()` twice to create both "Recently Modified" and "Categories" sections. 
 
 Raegon Kim's `os.walk()`
 
@@ -196,7 +195,7 @@ Although my implementation uses `os.listdir()` directly, which is an improvement
 
 For a small, open-source app like mine, performance might not be as much of an issue as it would be for a large-scale system or one that runs the risk of maxing out on resource, such as an app in a private repo using up all of its GitHub Action minutes.
 
-But, knowing what I know now, if I were to start over, I would probably use `os.scandir()`, and perhaps, I will create a new version using it anyway.
+But, knowing what I know now, if I were to start over, I would probably use `os.scandir()`. Perhaps, I will create a new version using it.
 
 ## Make Your Own
 
