@@ -69,9 +69,6 @@ Both implementations use `os.walk()`, but the programs are structured very diffe
 
 In Andrei Cioara's implementation, the bulk of the program exists within the `main()` function and executes from beginning to end, like a consecutive list of instructions. The program executes `os.walk()` once to create a simple list of categories and file links. 
 
-Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code at the bottom of the program, when, the highest-order function `readme()` is called. As Raegon Kim's program progresses through `readme()`, a number of other functions are called, some nested within one another. By encapsulating `os.walk()` in a function, Raegon Kim is able to call it twice to create both "Recently Modified" and "Categories" sections. 
-
-
 Andrei Cioara's `os.walk()`
 
 ```python
@@ -91,8 +88,12 @@ def main():
         # Other stuff    
             
         for file in files:
+        # Other stuff
 ```
 
+Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code at the bottom of the program, when, the highest-order function `readme()` is called. At the beginning of `readme()`, Raegon Kim creates an empty list called `lines`. As Raegon Kim's program progresses through `readme()`, a number of other functions are called, some nested within one another. By encapsulating `os.walk()` in a function, Raegon Kim is able to call it twice to create both "Recently Modified" and "Categories" sections. The built in list function `append()` is used to append the newly generated lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
+
+Raegon Kim's program begins and ends at the same place by calling `readme()` and writing the lines returned by `readme()` to README.md
 
 ```python
 output = open(os.path.join(root, "README.md"), 'w', encoding='UTF-8')
@@ -102,6 +103,7 @@ for line in readme():
 output.close()
 ```
 
+Raegon Kim's highest-order function `readme()`, which calls a number of other functions. 
 
 ```python
 def readme():
@@ -132,7 +134,7 @@ def readme():
     return lines
 ```
 
-Raegon Kim's `os.walk()`
+Raegon Kim's `os.walk()` encapsulated in `tils()` function
 
 ```python
 excludes = (root, "drafts", "archive")
@@ -146,6 +148,7 @@ def tils(root):
         if path != root:
             yield relative(root, path), paths
 ```
+
 
 
 
@@ -163,7 +166,7 @@ def convert_til_2_readme(source, template_file, dest):
         for file in os.listdir(os.path.join(source, cat)):
 ```
 
-Frontmatter parsing into a dictionary
+Each TIL file is passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. 
 
 
 
