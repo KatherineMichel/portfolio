@@ -265,7 +265,7 @@ Although based on existing implementations, `os.walk()` seemed like the obvious 
 
 Python's built-in os.walk() is significantly slower than it needs to be, because -- in addition to calling os.listdir() on each directory -- it executes the stat() system call or GetFileAttributes() on each file to determine whether the entry is a directory or not."
 
-Although my implementation uses `os.listdir()` directly, which is an improvement over `os.walk()`, according to the `listdir()` documentation, `os.scandir()` gives better performance than `os.listdir()` for many common use cases.
+Although my implementation uses `os.listdir()` directly, which is an improvement over `os.walk()`, according to the `os.listdir()` documentation, `os.scandir()` gives better performance than `os.listdir()` for many common use cases.
 
 For a small, open-source app like mine, performance might not be as much of an issue as it would be for a large-scale system or one that runs the risk of maxing out on resource, such as an app in a private repo using up all of its GitHub Action minutes.
 
