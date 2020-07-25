@@ -70,7 +70,7 @@ First, the README.md header is appended to `content` through a global `HEADER` v
 
 Then, the program uses `os.walk()` to traverse and sort the directories and files, removing the `.git` and `.github` directories as it goes. 
 
-As the program "walks," each directory name is formatted as a category and added to `content`. The program then iterates through each file in each category, formatting the file name as a title, converting it into a hyperlink, and adding it to `content`. 
+As the program "walks," each directory name is formatted as a `category` and added to `content`. The program then iterates through each `file` in each category, formatting the file name as a title, converting it into a hyperlink, and adding it to `content`. 
 
 At the end of the program, the README.md file is opened and all of the `content` is written into it.
 
@@ -86,17 +86,29 @@ Within `readme()`, a `lines` list is created. As the program progresses through 
 
 A "Recently Modified" header is added to the `lines` list.
 
-The `recent()` function is then called, with the `tils()` function passed into it. Each `til`'s `date` and `filename` are added to the `modified` list. `modified` is sorted by reverse date and sliced, returning the first five results. The five most recent entries are created using each `til`'s formatted file title, hyperlink made from `root` and `filename`, and formatted `date`. The entries are added to `lines`.
+The `recent()` function is then called, with the `tils()` function passed into it. Each `til`'s `date` and `filename` are added to the `modified` list. `modified` is sorted by reverse date and sliced, returning the first five results. The five most recent entries are created using each `til`'s formatted file `title`, hyperlink made from `root` and `filename`, and formatted `date`. The entries are added to `lines`.
 
-A "Categories" header and "Total TILs" entry are added to the `lines` list. Below that, a category table of contents is created by using each directory name as a `relative` hyperlink that links to the category in the category section, along with a TIL count for each category.
+A "Categories" header and "Total TILs" entry are added to the `lines` list. Below that, a category table of contents is created by using each directory name as a `relative` hyperlink that links to the category in the category section, along with a TIL `count` for each category.
 
-In the category sections, category headers are created using the directory name via `relative`. For each category, the program iterates through the file paths, and creates a hyperlink using the formatted file title and relative path.
+In the category sections, category headers are created using the directory name via `relative`. For each category, the program iterates through the file `paths`, and creates a hyperlink using the formatted file `title` and relative path.
 
 The `lines` list is returned by `readme()` and written into the README.md.
 
 ### KhanhIceTea's Implementation
 
 KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/) uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. 
+
+The main function is `convert_til_2_readme()` and the `cwd`, `README.md.template`, and `README.md` are passed in it.
+
+A list of `categories` is created and sorted, using the directories in the root, not including `excluded_folders`.
+
+
+The `articles` are appended to the separate `cat_articles` and `all_articles` lists.
+
+The `cat_articles` list is sorted by chronological date. The `all_articles` list is sorted by reverse date.
+
+The `read_entire_file()` function is called on `README.md.template`. `{TOC}` in `README.md.template` is replaced with the `content`. `write_entire_file()` is called, passing all of the `content` and `README.md` in, and the `content` is written into the `README.md`.
+
 
 
 Each TIL file is passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. Each TIL is returned and added to both a `cat_articles` list and `all_articles` list. 
@@ -110,7 +122,7 @@ However, I ran into difficulty when I attempted to add a section for most recent
 
 So, I began to study Raegon Kim's implementation, to see how he had added a "Recently Modified" category using functions. Although I nearly completed a similar implementation, I wasn't quite happy with the result. 
 
-At that point, I began looking through more examples on GitHub and came across KhanhIceTea's Implementation.
+At that point, I began looking through more examples on GitHub and came across KhanhIceTea's implementation.
 
 I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both "Recently Modified" and "Category" sections.
 
@@ -134,7 +146,7 @@ But, knowing what I know now, if I were to start over, I would probably use `os.
 
 How would you create a TIL project and why? Let me know on Twitter [@KatiMichel](https://twitter.com/KatiMichel), in a GitHub issue, or by email kthrnmichel@gmail.com.
 
-See my TIL- 100 Days of Code Version template for step-by-step instructions for setting up your own TIL. 
+Stay tuned for a TIL- 100 Days of Code Version tutorial for step-by-step instructions for setting up your own TIL. 
 
 For more information about my implementation, see the "[Changes I Made](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#changes-i-made)" section below.
 
