@@ -159,6 +159,9 @@ Positions Held
 
 <!--
 Blog posts and demos
+
+https://github.com/KatherineMichel/til-100-days-of-code-version/
+https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md
 -->
 
 ### Stanford Code in Place
