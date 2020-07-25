@@ -61,11 +61,11 @@ I considered four major approaches implemented in Python:
 
 ### Contrasting the Implementations
 
-Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
+Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a Stanford John S. Knight Journalism Fellowship. Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
 
 So, I moved on to Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) and Raegon Kim's [TIL implementation](https://github.com/raycon/til/).
 
-Both implementations use `os.walk()`, but the programs are structured very differently. For me, Andrei Cioara's implementation was the simplest of the four to understand and Raegon Kim's the most difficult to understand. 
+Both implementations use `os.walk()`, but the programs are structured very differently. For me, Andrei Cioara's implementation was the simplest of the four to understand and Raegon Kim's the most difficult. 
 
 In Andrei Cioara's implementation, the bulk of the program exists within the `main()` function and executes from beginning to end, like a consecutive list of instructions. The program executes `os.walk()` once to create a simple list of categories and file links. 
 
@@ -91,9 +91,9 @@ def main():
         # Other stuff
 ```
 
-Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code at the bottom of the program, when, the highest-order function `readme()` is called. At the beginning of `readme()`, Raegon Kim creates an empty list called `lines`. As Raegon Kim's program progresses through `readme()`, a number of other functions are called, some nested within one another. By encapsulating `os.walk()` in a function, Raegon Kim is able to call it twice to create both "Recently Modified" and "Categories" sections. The built in list function `append()` is used to append the newly generated lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
+Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code near the end of the file, when, the highest-order function `readme()` is called. At the beginning of `readme()`, an empty list called `lines` is created. As the program progresses through `readme()`, a number of other functions are called, some nested within one another. Encapsulated in a function, `os.walk()` is called twice, to create both "Recently Modified" and "Categories" sections. The built in list function `append()` is used to append the newly generated lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
 
-Raegon Kim's program begins and ends at the same place by calling `readme()` and writing the lines returned by `readme()` to README.md
+Raegon Kim's program begins and ends at the same place by calling `readme()` and writing the lines returned by `readme()` into README.md
 
 ```python
 output = open(os.path.join(root, "README.md"), 'w', encoding='UTF-8')
