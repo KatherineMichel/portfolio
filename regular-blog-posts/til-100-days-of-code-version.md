@@ -61,29 +61,13 @@ I considered four major approaches implemented in Python:
 
 ### Contrasting the Implementations
 
-Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. 
-
-Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
+Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
 
 Even though Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) and Raegon Kim's [TIL implementation](https://github.com/raycon/til/) both use `os.walk()`, their programs are structured very differently.
 
-For me, Andrei Cioara's implementation was the simplest of the four to understand and Raegon Kim's implementation was the most difficult to understand. In Andrei Cioara's implementation, the bulk of the program exists within the `main()` function and executes from beginning to end, like a consecutive list of instructions. 
+For me, Andrei Cioara's implementation was the simplest of the four to understand and Raegon Kim's the most difficult to understand. 
 
-Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code when, just before re-writing the README.md, the highest level function `readme()` is called. 
-
-Raegon Kim's program begins by calling `readme()` and ends by writing the returned `lines` into the READ.md...
-
-```python
-output = open(os.path.join(root, "README.md"), 'w', encoding='UTF-8')
-for line in readme():
-    output.write(line)
-    output.write('\n')
-output.close()
-```
-
-As Raegon Kim's program progresses through `readme()`, a number of other functions are called, some from within one another.
-
-Andrei Cioara's program executes `os.walk()` once to create categories. By encapsulating `os.walk()` in the `tils()` function, Raegon Kim call `os.walk()` twice to create both "Recently Modified" and "Categories" sections. He also creates a categories Table of Contents.
+In Andrei Cioara's implementation, the bulk of the program exists within the `main()` function and executes from beginning to end, like a consecutive list of instructions. The program executes `os.walk()` once to create categories and files links. 
 
 Andrei Cioara's `os.walk()
 
@@ -106,6 +90,49 @@ def main():
         for file in files:
 ```
 
+Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code at the bottom of the program, when, the highest-order function `readme()` is called, and each line in the `lines` list returned by `readme()` is written into README.md.
+
+```python
+output = open(os.path.join(root, "README.md"), 'w', encoding='UTF-8')
+for line in readme():
+    output.write(line)
+    output.write('\n')
+output.close()
+```
+
+As Raegon Kim's program progresses through `readme()`, a number of other functions are called, some nested within one another.
+
+```python
+def readme():
+    lines = []
+    # Other stuff
+
+    # Recents
+    lines.append("## Recently Modified\n")
+    for date, filename in recent(flat(tils(root)), 15):
+        date = datetime.utcfromtimestamp(date).strftime("%Y-%m-%d")
+        l = link(root, filename)
+        lines.append(f"- *{date}* : {l}")
+
+    # Categories
+    lines.append("\n## Categories\n")
+    lines.append("Total `%s` TILs\n" % total(root))
+    for relative, paths in tils(root):
+        count = len(paths)
+        lines.append(f"- [{relative}](#{relative}) *({count})*")
+
+    # Links
+    for relative, paths in tils(root):
+        lines.append(f"\n### {relative}\n")
+        for path in paths:
+            l = link(root, path)
+            lines.append(f"- {l}")
+
+    return lines
+```
+
+By encapsulating `os.walk()` in the `tils()` function, Raegon Kim calls `os.walk()` twice to create both "Recently Modified" and "Categories" sections. 
+
 Raegon Kim's `os.walk()`
 
 ```python
@@ -121,31 +148,41 @@ def tils(root):
             yield relative(root, path), paths
 ```
 
-Another small, but important difference between Andrei Cioara and Raegon Kim's programs is data structure choice.
-
-Andrei Cioara creates an empty string called `content` and uses an addition assignment operator to append new strings to `content`, starting with a README.md header via a global `HEADER` variable assigned to a multiline, triple-double-quote string. At the end of the program, all of the `content` is written into the README.md at once.
-
-Raegon Kim creates an empty list called `lines` and uses the built in list function `append()` to append new lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
 
 
 KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/) uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. 
 
+```python
+def convert_til_2_readme(source, template_file, dest):
+    excluded_folders = [".git", ".vscode"]
+    categories = [f for f in os.listdir(source) if os.path.isdir(f) and f not in excluded_folders]
+    categories.sort()
+    #Other stuff
+
+    for cat in categories:
+        #Other stuff
+        for file in os.listdir(os.path.join(source, cat)):
+```
+
+Frontmatter parsing into a dictionary
 
 
 
 ## My Journey Through Implementations
 
-I had heard positive things about ```os.walk()``` and immediately thought it would be a great approach for my TIL. So, I began by creating my own TIL implementation loosely based on Andrei Cioara's approach. 
+I had heard positive things about `os.walk()` and immediately thought it would be a great approach for my TIL. So, I began by creating my own TIL implementation loosely based on Andrei Cioara's approach. 
 
 However, I ran into difficulty when I attempted to add a section for most recently modified files, in addition to categories. I realized that `os.walk()` needed to "walk" the directories and files twice. Adding a second `os.walk()` without using a function seemed like overkill.
 
-So, I began to study Raegon Kim's implementation, to see how he had added a "Recently Modified" category using functions. Although I nearly completed a similar implementation, I wasn't quite happy with the result. 
+So, I began to study Raegon Kim's implementation, to see how he had added a "Recently Modified" category using functions. Although I nearly completed a similar implementation, I wasn't quite happy with the result. I felt it was overly complex.
 
 At that point, I began looking through more examples on GitHub and came across KhanhIceTea's implementation.
 
 I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both "Recently Modified" and "Category" sections.
 
-I'm undecided about the use of frontmatter and the `find()` function to parse it. However, I found TIL dictionaries to be very straightforward to work with and was able to quickly add a `status` variable and implement auto-status tweet. 
+I'm undecided about the use of frontmatter and the `find()` function to parse it. I feel it might be unnecessarily manual, but I also have confidence in it. One major advantage of KhanhIceTea's approach of using a TIL dictionary is that I found it to be very straightforward to work with and was able to quickly add a `status` variable and implement auto-status tweet. 
+
+For more information about the changes I made to KhanhIceTea's implementation, check out the "Changes I Made" section of the [program_information.py](https://github.com/KatherineMichel/til-100-days-of-code-version/blob/master/program_information.py) file.
 
 ## What I Learned About Performance
 
@@ -163,33 +200,10 @@ But, knowing what I know now, if I were to start over, I would probably use `os.
 
 ## Make Your Own
 
-How would you create a TIL project and why? Let me know on Twitter [@KatiMichel](https://twitter.com/KatiMichel), in a GitHub issue, or by email kthrnmichel@gmail.com.
+How would you create a TIL project and why? Is `os.listdir()` preferable to `os.walk()`? Which is the best method of storing and writing README.md content: string concatenation, list `append()`, or another method? Is frontmatter parsing an anti-pattern? 
+
+Let me know what you think on Twitter [@KatiMichel](https://twitter.com/KatiMichel), in a GitHub issue, or by email kthrnmichel@gmail.com.
 
 Stay tuned for a TIL- 100 Days of Code Version tutorial for step-by-step instructions for setting up your own TIL. 
 
-For more information about my implementation, see the "[Changes I Made](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#changes-i-made)" section below.
-
 Happy learning! :)
-
-## Changes I Made
-
-Major changes I made:
-* Rather than making updates through an editor locally, updates will be made in the browser
-* Instead of using a `README.md.template`, all of the content is generated directly into the README.md from update.py
-* Moved the content creation part of the program out of functions and into `main()`, leaving `read_file()` and `parse_til()` functions
-* Created `HEADER` and `FOOTER` variables assigned to multiline, triple-double-quote strings
-* Changed the formatting to f-strings
-* Added newlines to break the markdown table into two sections and create a footer
-* Implemented [Twython](https://twython.readthedocs.io/), including adding secret tokens accessed via the GitHub Action
-* Added a `status` variable to the `post` dictionary and passed it into Twython to auto-tweet a status update
-* Implemented a GitHub Action to run the script when a commit is made
-* Formatted update.py file using [Black](https://black.readthedocs.io/)
-
-Minor changes I made:
-* `codecs` and `json` were removed, because they were unnecessary for my approach
-* Changed some variable names to make the meaning more clear
-* Changed `cwd` to `"."`
-* Altered the excluded directories
-* Excluded dotfiles from within the `categories` variable
-* Changed the markdown header text and emojis; capitalized the category names
-* Created a `recent_content` string
