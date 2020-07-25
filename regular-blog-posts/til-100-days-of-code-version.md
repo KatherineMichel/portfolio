@@ -63,7 +63,7 @@ I considered four major approaches implemented in Python:
 
 Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
 
-So, I moved on to Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) and Raegon Kim's [TIL implementation](https://github.com/raycon/til/)
+So, I moved on to Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) and Raegon Kim's [TIL implementation](https://github.com/raycon/til/).
 
 Both implementations use `os.walk()`, but the programs are structured very differently. For me, Andrei Cioara's implementation was the simplest of the four to understand and Raegon Kim's the most difficult to understand. 
 
@@ -72,7 +72,7 @@ In Andrei Cioara's implementation, the bulk of the program exists within the `ma
 Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code at the bottom of the program, when, the highest-order function `readme()` is called. As Raegon Kim's program progresses through `readme()`, a number of other functions are called, some nested within one another. By encapsulating `os.walk()` in a function, Raegon Kim is able to call it twice to create both "Recently Modified" and "Categories" sections. 
 
 
-Andrei Cioara's `os.walk()
+Andrei Cioara's `os.walk()`
 
 ```python
 def main():
