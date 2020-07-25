@@ -91,7 +91,7 @@ def main():
         # Other stuff
 ```
 
-Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code near the end of the file, when, the highest-order function `readme()` is called. At the beginning of `readme()`, an empty list called `lines` is created. As the program progresses through `readme()`, a number of other functions are called, some nested within one another. Encapsulated in a function, `os.walk()` is called twice, to create both "Recently Modified" and "Categories" sections. The built in list function `append()` is used to append the newly generated lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
+Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code near the end of the file, when, the highest-order function `readme()` is called. At the beginning of `readme()`, an empty list called `lines` is created. As the program progresses through `readme()`, a number of other functions are called, some nested within one another. Encapsulated in a function, `os.walk()` is called twice, to create both "Recently Modified" and "Categories" sections. The built-in list function `append()` is used to append the newly generated lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
 
 Raegon Kim's program begins and ends at the same place by calling `readme()` and writing the lines returned by `readme()` into README.md
 
@@ -108,7 +108,8 @@ Raegon Kim's highest-order function `readme()`, which calls a number of other fu
 ```python
 def readme():
     lines = []
-    # Other stuff
+    lines.append("# TIL\n")
+    lines.append("> Today I Learned\n")/
 
     # Recents
     lines.append("## Recently Modified\n")
@@ -134,7 +135,7 @@ def readme():
     return lines
 ```
 
-Raegon Kim's `os.walk()` encapsulated in `tils()` function
+Raegon Kim's `os.walk()`, encapsulated in `tils()` function
 
 ```python
 excludes = (root, "drafts", "archive")
@@ -149,10 +150,7 @@ def tils(root):
             yield relative(root, path), paths
 ```
 
-
-
-
-KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/) uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. 
+I later came across KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/), which is the approach I finally settled on. KhanhIceTea's implementation uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. 
 
 ```python
 def convert_til_2_readme(source, template_file, dest):
@@ -167,6 +165,23 @@ def convert_til_2_readme(source, template_file, dest):
 ```
 
 Each TIL file is passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. 
+
+```python
+def parse_article(content, category):
+    pos1 = content.find('- Date : ')
+    pos2 = content.find('- Tags : ', pos1)
+    pos3 = content.find("\n", pos2)
+    pos4 = content.find("##", pos3)
+    pos5 = content.find("\n", pos4)
+    post = {
+        "date": datetime.strptime(content[pos1+9:pos2].strip(), "%Y-%m-%d"),
+        "category": category,
+        "tags": [t[1:] for t in content[pos2+9:pos3].strip().split(' ')],
+        "title": content[pos4+3:pos5].strip(),
+    }
+
+    return post
+```
 
 
 
