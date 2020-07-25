@@ -159,9 +159,16 @@ Positions Held
 
 <!--
 Blog posts and demos
+-->
 
-https://github.com/KatherineMichel/til-100-days-of-code-version/
-https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md
+#### TIL- 100 Days of Code Version
+
+* [TIL- 100 Days of Code Version GitHub Repo](https://github.com/KatherineMichel/til-100-days-of-code-version/)
+* [TIL- 100 Days of Code Version Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
+
+<!--
+Tutorial/template, demo
+https://github.com/KatherineMichel/til-100-days-of-code-version-template
 -->
 
 ### Stanford Code in Place
