@@ -54,64 +54,83 @@ The upside of looking at different TIL implementations and trying them out right
 
 I considered four major approaches implemented in Python:
 
-### Simon Willison's Implementation
+* Simon Willison's [TIL implementation](https://github.com/simonw/til)
+* Andrei Cioara's [TIL Implementation](https://github.com/aicioara/til/) 
+* Raegon Kim's [TIL implementation](https://github.com/raycon/til/)
+* KhanhIceTea's [TIL implementation](https://github.com/khanhicetea/today-i-learned/)
+
+### Contrasting the Implementations
 
 Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. 
 
 Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. I felt his implementation was too opinionated for my current needs.
 
-### Andrei Cioara's Implementation
+Even though Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) and Raegon Kim's [TIL implementation](https://github.com/raycon/til/) both use `os.walk()`, their programs are structured very differently.
 
-Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) is the simplest of the four. The bulk of the program exists within the `main()` function and can be followed quite easily, like a list of consecutive instructions.
+For me, Andrei Cioara's implementation was the simplest of the four to understand and Raegon Kim's implementation was the most difficult to understand. In Andrei Cioara's implementation, the bulk of the program exists within the `main()` function and executes from beginning to end, like a consecutive list of instructions. 
 
-A `content` variable is assigned to an empty string. As the program progresses, using an addition assignment operator, strings are appended to the `content` variable. 
+Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code when, just before re-writing the README.md, the highest level function `readme()` is called. 
 
-First, the README.md header is appended to `content` through a global `HEADER` variable assigned to a multiline, triple-double-quote string. 
+Raegon Kim's program begins by calling `readme()` and ends by writing the returned `lines` into the READ.md...
 
-Then, the program uses `os.walk()` to traverse and sort the directories and files, removing the `.git` and `.github` directories as it goes. 
+```python
+output = open(os.path.join(root, "README.md"), 'w', encoding='UTF-8')
+for line in readme():
+    output.write(line)
+    output.write('\n')
+output.close()
+```
 
-As the program "walks," each directory name is formatted as a `category` and added to `content`. The program then iterates through each `file` in each category, formatting the file name as a title, converting it into a hyperlink, and adding it to `content`. 
+As Raegon Kim's program progresses through `readme()`, a number of other functions are called, some from within one another.
 
-At the end of the program, the README.md file is opened and all of the `content` is written into it.
+Andrei Cioara's program executes `os.walk()` once to create categories. By encapsulating `os.walk()` in the `tils()` function, Raegon Kim call `os.walk()` twice to create both "Recently Modified" and "Categories" sections. He also creates a categories Table of Contents.
 
-### Raegon Kim's Implementation
+Andrei Cioara's `os.walk()
 
-Raegon Kim's [TIL implementation](https://github.com/raycon/til/) also uses `os.walk()`, but the program is structured very differently. Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions.
+```python
+def main():
+    # Other stuff
 
-Encapsulated in the `tils()` function, `os.walk()` is called two times, to create "Recently Modified" and "Categories" sections.
- 
-Just before re-writing the README.md, the entire program kicks off when the main function `readme()` is called. 
+    for root, dirs, files in os.walk("."):
+        dirs.sort()
+        if root == '.':
+            for dir in ('.git', '.github'):
+                try:
+                    dirs.remove(dir)
+                except ValueError:
+                    pass
+            continue
+            
+        # Other stuff    
+            
+        for file in files:
+```
 
-Within `readme()`, a `lines` list is created. As the program progresses through `readme()`, a number of other functions are called which create the new lines that are appended to the `lines` list as strings.
+Raegon Kim's `os.walk()`
 
-A "Recently Modified" header is added to the `lines` list.
+```python
+excludes = (root, "drafts", "archive")
 
-The `recent()` function is then called, with the `tils()` function passed into it. Each `til`'s `date` and `filename` are added to the `modified` list. `modified` is sorted by reverse date and sliced, returning the first five results. The five most recent entries are created using each `til`'s formatted file `title`, hyperlink made from `root` and `filename`, and formatted `date`. The entries are added to `lines`.
+# Other stuff
 
-A "Categories" header and "Total TILs" entry are added to the `lines` list. Below that, a category table of contents is created by using each directory name as a `relative` hyperlink that links to the category in the category section, along with a TIL `count` for each category.
+def tils(root):
+    for (path, dirs, files) in os.walk(root):
+        dirs[:] = [d for d in dirs if d not in excludes and not d.startswith(".")]
+        paths = [os.path.join(path, f) for f in files if f.endswith(".md")]
+        if path != root:
+            yield relative(root, path), paths
+```
 
-In the category sections, category headers are created using the directory name via `relative`. For each category, the program iterates through the file `paths`, and creates a hyperlink using the formatted file `title` and relative path.
+Another small, but important difference between Andrei Cioara and Raegon Kim's programs is data structure choice.
 
-The `lines` list is returned by `readme()` and written into the README.md.
+Andrei Cioara creates an empty string called `content` and uses an addition assignment operator to append new strings to `content`, starting with a README.md header via a global `HEADER` variable assigned to a multiline, triple-double-quote string. At the end of the program, all of the `content` is written into the README.md at once.
 
-### KhanhIceTea's Implementation
+Raegon Kim creates an empty list called `lines` and uses the built in list function `append()` to append new lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
+
 
 KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/) uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. 
 
-The main function is `convert_til_2_readme()` and the `cwd`, `README.md.template`, and `README.md` are passed in it.
 
-A list of `categories` is created and sorted, using the directories in the root, not including `excluded_folders`.
-
-
-The `articles` are appended to the separate `cat_articles` and `all_articles` lists.
-
-The `cat_articles` list is sorted by chronological date. The `all_articles` list is sorted by reverse date.
-
-The `read_entire_file()` function is called on `README.md.template`. `{TOC}` in `README.md.template` is replaced with the `content`. `write_entire_file()` is called, passing all of the `content` and `README.md` in, and the `content` is written into the `README.md`.
-
-
-
-Each TIL file is passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. Each TIL is returned and added to both a `cat_articles` list and `all_articles` list. 
 
 
 ## My Journey Through Implementations
