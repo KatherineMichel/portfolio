@@ -162,7 +162,7 @@ Major changes I made:
 * Changed the formatting to f-strings
 * Added newlines to break the markdown table into two sections and create a footer
 * Implemented [Twython](https://twython.readthedocs.io/), including adding secret tokens accessed via the GitHub Action
-* Added a `status` variable to the post dictionary and passed it into Twython to auto-tweet a status update
+* Added a `status` variable to the `post` dictionary and passed it into Twython to auto-tweet a status update
 * Implemented a GitHub Action to run the script when a commit is made
 * Formatted update.py file using [Black](https://black.readthedocs.io/)
 
