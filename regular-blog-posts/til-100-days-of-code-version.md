@@ -114,13 +114,11 @@ def tils(root):
 
 Raegon Kim's entire program begins and ends in the same small block of code near the end of the file, when, the highest-order function `readme()` is called. A number of other functions, some nested within one another, are called from within `readme()`. These other functions create relative and absolute paths, titles, hyperlinks, TIL `count`, and a `modified` list that returns the most recent entries.
 
-Raegon Kim's `readme()`
+Raegon Kim's `readme()` calls `til()` and other functions
 
 ```python
 def readme():
-    lines = []
-    lines.append("# TIL\n")
-    lines.append("> Today I Learned\n")/
+    # Other stuff
 
     # Recents
     lines.append("## Recently Modified\n")
@@ -143,7 +141,7 @@ def readme():
             l = link(root, path)
             lines.append(f"- {l}")
 
-    return lines
+    # Other stuff
 ```
 
 #### `os.listdir()`, TIL Dictionary, and Python Standard Library
@@ -188,7 +186,7 @@ While Andrei Cioara and Raegon Kim use Python Standard Library built-in function
 Iterating through the `cat_articles` and `all_articles` lists and accessing the data by index and variable
 
 ```python
-        #Other stuff
+        # Other stuff
         
         for article in cat_articles:
             count += 1
@@ -196,7 +194,7 @@ Iterating through the `cat_articles` and `all_articles` lists and accessing the 
                 count, article['title'], article['category'], article['file_name'],
                 article['date'].strftime('%Y-%m-%d'))
 
-    #Other stuff
+    # Other stuff
     for article in all_articles[0:5]:
         content += "| [{}]({}/{}) [{}] | {} |\n".format(
             article['title'], article['category'],
@@ -241,6 +239,24 @@ def main():
 ```
 
 In Raegon Kim's implementation, at the beginning of `readme()`, an empty list called `lines` is created. As the program progresses through `readme()`, and new lines are generated, the built-in list function `append()` is used to append the new lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
+
+```python
+def readme():
+    lines = []
+    lines.append("# TIL\n")
+    lines.append("> Today I Learned\n")
+
+    # Recents
+    lines.append("## Recently Modified\n")
+    for date, filename in recent(flat(tils(root)), 15):
+        date = datetime.utcfromtimestamp(date).strftime("%Y-%m-%d")
+        l = link(root, filename)
+        lines.append(f"- *{date}* : {l}")
+
+    #Other examples
+
+    return lines    
+```
 
 ```python
 output = open(os.path.join(root, "README.md"), 'w', encoding='UTF-8')
