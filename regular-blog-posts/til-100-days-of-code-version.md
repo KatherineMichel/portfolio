@@ -293,7 +293,7 @@ At that point, I began looking through more examples on GitHub and came across K
 
 I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both "Recently Modified" and "Category" sections. 
 
-So, I created my own implementation [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/til-100-days-of-code-version).
+So, I created my own [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/til-100-days-of-code-version).
 
 ![](til-100-days-of-code-version-images/my-til.png)
 
