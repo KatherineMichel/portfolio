@@ -164,6 +164,8 @@ def convert_til_2_readme(source, template_file, dest):
 
 Each TIL file is split into pieces and passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. Each dictionary is added to both a `cat_articles` and `all_articles` list, which are sorted by chronological and reverse date.
 
+`parse_article()` parses the file frontmatter and header and returns a dictionary containing the data
+
 ```python
 def parse_article(content, category):
     pos1 = content.find('- Date : ')
@@ -240,6 +242,8 @@ def main():
 
 In Raegon Kim's implementation, at the beginning of `readme()`, an empty list called `lines` is created. As the program progresses through `readme()`, and new lines are generated, the built-in list function `append()` is used to append the new lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
 
+Content is appended to `lines` as strings and `lines` is returned
+
 ```python
 def readme():
     lines = []
@@ -257,6 +261,8 @@ def readme():
 
     return lines    
 ```
+
+Content stored within `lines` is written into the README.md line by line
 
 ```python
 output = open(os.path.join(root, "README.md"), 'w', encoding='UTF-8')
