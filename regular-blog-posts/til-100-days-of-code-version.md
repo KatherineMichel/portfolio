@@ -74,6 +74,8 @@ Both implementations use `os.walk()` to traverse the directories and files, but 
 In Andrei Cioara's implementation, the bulk of the program exists within `main()` and executes from beginning to end, like a consecutive list of instructions. The program executes `os.walk()` once to create a simple list of categories and file links. 
 
 ```python
+# Andrei Cioara's `os.walk()`
+
 def main():
     # Other stuff
 
@@ -93,11 +95,11 @@ def main():
         # Other stuff
 ```
 
-Caption: Andrei Cioara's `os.walk()`
-
 Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Encapsulated in a function, `os.walk()` is called twice, to create both "Recently Modified" and "Categories" sections. He also creates a "Categories" table of contents with entries that link to the categories in the README.md via `relative` path.
 
 ```python
+# Raegon Kim's `os.walk()`, encapsulated in `tils()`
+
 excludes = (root, "drafts", "archive")
 
 # Other stuff
@@ -110,11 +112,11 @@ def tils(root):
             yield relative(root, path), paths
 ```
 
-Caption: Raegon Kim's `os.walk()`, encapsulated in `tils()`
-
 Raegon Kim's entire program begins and ends in the same small block of code near the end of the file, when, the highest-order function `readme()` is called. A number of other functions, some nested within one another, are called from within `readme()`. These other functions create relative and absolute paths, titles, hyperlinks, TIL `count`, and a `modified` list that returns the most recent entries.
 
 ```python
+# Raegon Kim's `readme()` calls `til()` and other functions
+
 def readme():
     # Other stuff
 
@@ -142,13 +144,13 @@ def readme():
     # Other stuff
 ```
 
-Caption: Raegon Kim's `readme()` calls `til()` and other functions
-
 #### `os.listdir()`, TIL Dictionary, and Python Standard Library
 
 I later came across KhanhIceTea's [TIL implementation](https://github.com/khanhicetea/today-i-learned/), which is the approach I finally settled on. KhanhIceTea's implementation uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. 
 
 ```python
+# KhanhIceTea uses `os.listdir()` to create and sort a list of categories and iterate through their TIL files
+
 def convert_til_2_readme(source, template_file, dest):
     excluded_folders = [".git", ".vscode"]
     categories = [f for f in os.listdir(source) if os.path.isdir(f) and f not in excluded_folders]
@@ -160,11 +162,11 @@ def convert_til_2_readme(source, template_file, dest):
         for file in os.listdir(os.path.join(source, cat)):
 ```
 
-Caption: KhanhIceTea using `os.listdir()` to create and sort a list of categories and iterate through their TIL files
-
 Each TIL file is split into pieces and passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. Each dictionary is added to both a `cat_articles` and `all_articles` list, which are sorted by chronological and reverse date.
 
 ```python
+# `parse_article()` parses the file frontmatter and header and returns a dictionary containing the data
+
 def parse_article(content, category):
     pos1 = content.find('- Date : ')
     pos2 = content.find('- Tags : ', pos1)
@@ -181,11 +183,11 @@ def parse_article(content, category):
     return post
 ```
 
-Caption: `parse_article()` parses the file frontmatter and header and returns a dictionary containing the data
-
 While Andrei Cioara and Raegon Kim use Python Standard Library built-in functions to identify the variables used to create the README.md entries, KhanhIceTea's implementation accesses that data from the TIL dictionaries using index and variables instead.
 
 ```python
+# Iterating through the `cat_articles` and `all_articles` lists and accessing the data by index and variable
+
         # Other stuff
         
         for article in cat_articles:
@@ -202,8 +204,6 @@ While Andrei Cioara and Raegon Kim use Python Standard Library built-in function
             article['date'].strftime('%Y-%m-%d'))
 ```
 
-Caption: Iterating through the `cat_articles` and `all_articles` lists and accessing the data by index and variable
-
 #### Writing Content Using String Versus List
 
 One other seemingly incidental difference between implementations that could affect performance is how content is written to the README.md.
@@ -211,6 +211,8 @@ One other seemingly incidental difference between implementations that could aff
 Andrei Cioara creates an empty string called `content` and uses an addition assignment operator to append new strings to `content`, starting with a README.md header via a global `HEADER` variable assigned to a multiline, triple-double-quote string. At the end of the program, all of the `content` is written into the README.md at once. KhanhIceTea uses the same method.
 
 ```python
+# README.md header stored in a multiline, triple-double-quote string
+
 # Other stuff
 
 HEADER="""# TIL
@@ -220,9 +222,9 @@ A collection of software engineering tips that I learn every day.
 """
 ```
 
-Caption: README.md header stored in a multiline, triple-double-quote string
-
 ```python
+# New strings are appended to `content`, then all of the `content` is written into the README.md at once. 
+
 def main():
     content = ""
     content += HEADER
@@ -243,11 +245,11 @@ def main():
         fd.write(content)
 ```
 
-Caption: New strings are appended to `content`, then all of the `content` is written into the README.md at once. 
-
 In Raegon Kim's implementation, at the beginning of `readme()`, an empty list called `lines` is created. As the program progresses through `readme()`, and new lines are generated, the built-in list function `append()` is used to append the new lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
 
 ```python
+# Content is appended to `lines` as strings and `lines` is returned
+
 def readme():
     lines = []
     lines.append("# TIL\n")
@@ -265,17 +267,15 @@ def readme():
     return lines    
 ```
 
-Caption: Content is appended to `lines` as strings and `lines` is returned
-
 ```python
+# Content stored within `lines` is written into the README.md, line by line
+
 output = open(os.path.join(root, "README.md"), 'w', encoding='UTF-8')
 for line in readme():
     output.write(line)
     output.write('\n')
 output.close()
 ```
-
-Caption: Content stored within `lines` is written into the README.md line by line
 
 ## My Journey Through Implementations
 
