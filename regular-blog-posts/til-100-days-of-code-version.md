@@ -293,7 +293,7 @@ So, I created my own implementation [TIL- 100 Days of Code Version](https://gith
 
 ![](til-100-days-of-code-version-images/my-til.png)
 
-![](til-100-days-of-code-version-images/my-til-file-example.png)
+![](til-100-days-of-code-version-images/my-til-example-til-file.png)
 
 I'm undecided about the use of frontmatter and the `find()` function to parse it. I feel it might be unnecessarily manual, but I also have confidence in it. One major advantage of KhanhIceTea's approach of using a TIL dictionary is that I found it to be very straightforward to work with and was able to quickly add a `status` variable and implement auto-status tweet. 
 
