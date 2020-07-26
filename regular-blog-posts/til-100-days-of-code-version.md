@@ -2,13 +2,13 @@
 
 In April, I was looking through my Twitter newsfeed and came across a [tweet](https://twitter.com/simonw/status/1252050046566055937) by Simon Willison that piqued my curiosity.  
 
+![](til-100-days-of-code-version-images/simon-tweet.png)
+
 I had the good fortune to get to know [Simon](https://github.com/simonw/) when he was the moderator of a ["State of Django" panel](https://youtu.be/TrAFQW7Wza0) that I took part in at [DjangoCon US 2018](https://2018.djangocon.us/) and I've been following him on Twitter ever since. One of the original creators of the [Django](https://en.wikipedia.org/wiki/Django_(web_framework)) web development framework at the Lawrence Journal World, Simon can often be found discovering novel ways of doing things. So, when he comes across an "interesting" idea, I tend to take notice.
 
 While looking at Hacker News, Simon had come across the idea of a self-rewriting README.md. The idea originated from a project called [TIL (Today I Learned)](https://github.com/jbranchaud/til), created by [Josh Branchaud](https://github.com/jbranchaud/) that was inspired by a [thoughtbot](https://github.com/thoughtbot/til) project of the same name. 
 
-<!--
-![](til-100-days-of-code-version-images/simon_tweet.png)
--->
+![](til-100-days-of-code-version-images/simon_til.png)
 
 Simon re-implemented the idea in Python and wrote about it in a [blog post](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/). 
 
@@ -290,6 +290,8 @@ At that point, I began looking through more examples on GitHub and came across K
 I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both "Recently Modified" and "Category" sections. 
 
 So, I created my own implementation [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/til-100-days-of-code-version).
+
+![](til-100-days-of-code-version-images/my_til.png)
 
 I'm undecided about the use of frontmatter and the `find()` function to parse it. I feel it might be unnecessarily manual, but I also have confidence in it. One major advantage of KhanhIceTea's approach of using a TIL dictionary is that I found it to be very straightforward to work with and was able to quickly add a `status` variable and implement auto-status tweet. 
 
