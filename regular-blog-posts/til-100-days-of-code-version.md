@@ -8,7 +8,7 @@ I had the good fortune to get to know [Simon](https://github.com/simonw/) when h
 
 While looking at Hacker News, Simon had come across the idea of a self-rewriting README.md. The idea originated from a project called [TIL (Today I Learned)](https://github.com/jbranchaud/til), created by [Josh Branchaud](https://github.com/jbranchaud/) that was inspired by a [thoughtbot](https://github.com/thoughtbot/til) project of the same name. 
 
-![](til-100-days-of-code-version-images/simon_til.png)
+![](til-100-days-of-code-version-images/simon-til.png)
 
 Simon re-implemented the idea in Python and wrote about it in a [blog post](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/). 
 
@@ -291,7 +291,7 @@ I immediately liked the way it looked, because of its fun use of markdown tables
 
 So, I created my own implementation [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/til-100-days-of-code-version).
 
-![](til-100-days-of-code-version-images/my_til.png)
+![](til-100-days-of-code-version-images/my-til.png)
 
 I'm undecided about the use of frontmatter and the `find()` function to parse it. I feel it might be unnecessarily manual, but I also have confidence in it. One major advantage of KhanhIceTea's approach of using a TIL dictionary is that I found it to be very straightforward to work with and was able to quickly add a `status` variable and implement auto-status tweet. 
 
