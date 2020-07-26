@@ -206,7 +206,7 @@ Caption: Iterating through the `cat_articles` and `all_articles` lists and acces
 
 #### Writing Content Using String Versus List
 
-One other seemingly incidental different between implementations that could affect performance is how content is written to the README.md.
+One other seemingly incidental difference between implementations that could affect performance is how content is written to the README.md.
 
 Andrei Cioara creates an empty string called `content` and uses an addition assignment operator to append new strings to `content`, starting with a README.md header via a global `HEADER` variable assigned to a multiline, triple-double-quote string. At the end of the program, all of the `content` is written into the README.md at once. KhanhIceTea uses the same method.
 
