@@ -218,8 +218,11 @@ HEADER="""# TIL
 A collection of software engineering tips that I learn every day.
 ---
 """
+```
 
+Caption: README.md header stored in a multiline, triple-double-quote string
 
+```python
 def main():
     content = ""
     content += HEADER
@@ -239,6 +242,8 @@ def main():
     with open("README.md", "w") as fd:
         fd.write(content)
 ```
+
+Caption: New strings are appended to `content`, then all of the `content` is written into the README.md at once. 
 
 In Raegon Kim's implementation, at the beginning of `readme()`, an empty list called `lines` is created. As the program progresses through `readme()`, and new lines are generated, the built-in list function `append()` is used to append the new lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
 
@@ -282,7 +287,9 @@ So, I began to study Raegon Kim's implementation, to see how he had added a "Rec
 
 At that point, I began looking through more examples on GitHub and came across KhanhIceTea's implementation.
 
-I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both "Recently Modified" and "Category" sections.
+I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both "Recently Modified" and "Category" sections. 
+
+So, I created my own implementation [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/til-100-days-of-code-version).
 
 I'm undecided about the use of frontmatter and the `find()` function to parse it. I feel it might be unnecessarily manual, but I also have confidence in it. One major advantage of KhanhIceTea's approach of using a TIL dictionary is that I found it to be very straightforward to work with and was able to quickly add a `status` variable and implement auto-status tweet. 
 
@@ -306,7 +313,7 @@ But, knowing what I know now, if I were to start over, I would probably use `os.
 
 How would you create a TIL project and why? Is `os.listdir()` preferable to `os.walk()`? Which is the best method of storing and writing README.md content: string concatenation, list `append()`, or another method? Is frontmatter parsing an anti-pattern? 
 
-Let me know what you think on Twitter [@KatiMichel](https://twitter.com/KatiMichel), in a GitHub issue, or by email kthrnmichel@gmail.com.
+Let me know what you think on Twitter [@KatiMichel](https://twitter.com/KatiMichel), in a [GitHub issue](https://github.com/KatherineMichel/til-100-days-of-code-version), or by email kthrnmichel@gmail.com.
 
 Stay tuned for a TIL- 100 Days of Code Version tutorial for step-by-step instructions for setting up your own TIL. 
 
