@@ -65,9 +65,11 @@ Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](htt
 
 So, I moved on to Andrei Cioara's [TIL implementation](https://github.com/aicioara/til/) and Raegon Kim's [TIL implementation](https://github.com/raycon/til/).
 
-Both implementations use `os.walk()`, but the programs are structured very differently. For me, Andrei Cioara's implementation was the simplest of the four to understand and Raegon Kim's the most difficult. 
+#### `os.walk()` and Program Structure
 
-In Andrei Cioara's implementation, the bulk of the program exists within the `main()` function and executes from beginning to end, like a consecutive list of instructions. The program executes `os.walk()` once to create a simple list of categories and file links. 
+Both implementations use `os.walk()` to traverse the directories and files, but the programs are structured very differently. For me, Andrei Cioara's implementation was the simplest of the four to understand and Raegon Kim's the most difficult. 
+
+In Andrei Cioara's implementation, the bulk of the program exists within `main()` and executes from beginning to end, like a consecutive list of instructions. The program executes `os.walk()` once to create a simple list of categories and file links. 
 
 Andrei Cioara's `os.walk()`
 
@@ -90,6 +92,121 @@ def main():
         for file in files:
         # Other stuff
 ```
+
+Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Encapsulated in a function, `os.walk()` is called twice, to create both "Recently Modified" and "Categories" sections. He also creates a category table of contents with entries that link to the categories via `relative` path.
+
+Raegon Kim's `os.walk()`, encapsulated in `tils()`
+
+```python
+excludes = (root, "drafts", "archive")
+
+# Other stuff
+
+def tils(root):
+    for (path, dirs, files) in os.walk(root):
+        dirs[:] = [d for d in dirs if d not in excludes and not d.startswith(".")]
+        paths = [os.path.join(path, f) for f in files if f.endswith(".md")]
+        if path != root:
+            yield relative(root, path), paths
+```
+
+Raegon Kim's entire program begins and ends in the same small block of code near the end of the file, when, the highest-order function `readme()` is called. A number of other functions, some nested within one another, are called from within `readme()`. These other functions create relative and absolute paths, titles, hyperlinks, TIL `count`, and a `modified` list that returns the most recent entries.
+
+Raegon Kim's `readme()`
+
+```python
+def readme():
+    lines = []
+    lines.append("# TIL\n")
+    lines.append("> Today I Learned\n")/
+
+    # Recents
+    lines.append("## Recently Modified\n")
+    for date, filename in recent(flat(tils(root)), 15):
+        date = datetime.utcfromtimestamp(date).strftime("%Y-%m-%d")
+        l = link(root, filename)
+        lines.append(f"- *{date}* : {l}")
+
+    # Categories
+    lines.append("\n## Categories\n")
+    lines.append("Total `%s` TILs\n" % total(root))
+    for relative, paths in tils(root):
+        count = len(paths)
+        lines.append(f"- [{relative}](#{relative}) *({count})*")
+
+    # Links
+    for relative, paths in tils(root):
+        lines.append(f"\n### {relative}\n")
+        for path in paths:
+            l = link(root, path)
+            lines.append(f"- {l}")
+
+    return lines
+```
+
+#### `os.listdir()`, TIL Dictionary, and Python Standard Library
+
+I later came across KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/), which is the approach I finally settled on. KhanhIceTea's implementation uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. 
+
+KhanhIceTea using `os.listdir()` to create and sort a list of categories and iterate their TIL files
+
+```python
+def convert_til_2_readme(source, template_file, dest):
+    excluded_folders = [".git", ".vscode"]
+    categories = [f for f in os.listdir(source) if os.path.isdir(f) and f not in excluded_folders]
+    categories.sort()
+    #Other stuff
+
+    for cat in categories:
+        #Other stuff
+        for file in os.listdir(os.path.join(source, cat)):
+```
+
+Each TIL file is split into pieces and passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. 
+
+<!--
+These are added to lists and sorted
+-->
+
+```python
+def parse_article(content, category):
+    pos1 = content.find('- Date : ')
+    pos2 = content.find('- Tags : ', pos1)
+    pos3 = content.find("\n", pos2)
+    pos4 = content.find("##", pos3)
+    pos5 = content.find("\n", pos4)
+    post = {
+        "date": datetime.strptime(content[pos1+9:pos2].strip(), "%Y-%m-%d"),
+        "category": category,
+        "tags": [t[1:] for t in content[pos2+9:pos3].strip().split(' ')],
+        "title": content[pos4+3:pos5].strip(),
+    }
+
+    return post
+```
+
+While Andrei Cioara and Raegon Kim use Python Standard Library built-in functions to identify the variables used to create the README.md entries, KhanhIceTea's implementation accesses that data from the TIL dictionaries using index and variables instead.
+
+```python
+        #Other stuff
+        
+        for article in cat_articles:
+            count += 1
+            cat_content += "| {}. [{}]({}/{}) | {} |\n".format(
+                count, article['title'], article['category'], article['file_name'],
+                article['date'].strftime('%Y-%m-%d'))
+
+    #Other stuff
+    for article in all_articles[0:5]:
+        content += "| [{}]({}/{}) [{}] | {} |\n".format(
+            article['title'], article['category'],
+            article['file_name'], article['category'],
+            article['date'].strftime('%Y-%m-%d'))
+```
+
+#### Writing Content Using String Versus List
+
+
 
 Andrei Cioara creates an empty string called `content` and uses an addition assignment operator to append new strings to `content`, starting with a README.md header via a global `HEADER` variable assigned to a multiline, triple-double-quote string. At the end of the program, all of the `content` is written into the README.md at once.
 
@@ -129,9 +246,9 @@ A collection of software engineering tips that I learn every day.
 """
 ```
 
-Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Raegon Kim's entire program begins and ends in the same small block of code near the end of the file, when, the highest-order function `readme()` is called. At the beginning of `readme()`, an empty list called `lines` is created. As the program progresses through `readme()`, a number of other functions are called, some nested within one another. Encapsulated in a function, `os.walk()` is called twice, to create both "Recently Modified" and "Categories" sections. The built-in list function `append()` is used to append the newly generated lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
 
-Raegon Kim's program begins and ends at the same place by calling `readme()` and writing the lines returned by `readme()` into README.md
+At the beginning of `readme()`, an empty list called `lines` is created. As the program progresses through `readme()`, a number of other functions are called, some nested within one another. The built-in list function `append()` is used to append the newly generated lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
+
 
 ```python
 output = open(os.path.join(root, "README.md"), 'w', encoding='UTF-8')
@@ -139,106 +256,6 @@ for line in readme():
     output.write(line)
     output.write('\n')
 output.close()
-```
-
-Raegon Kim's highest-order function `readme()`, which calls a number of other functions. 
-
-```python
-def readme():
-    lines = []
-    lines.append("# TIL\n")
-    lines.append("> Today I Learned\n")/
-
-    # Recents
-    lines.append("## Recently Modified\n")
-    for date, filename in recent(flat(tils(root)), 15):
-        date = datetime.utcfromtimestamp(date).strftime("%Y-%m-%d")
-        l = link(root, filename)
-        lines.append(f"- *{date}* : {l}")
-
-    # Categories
-    lines.append("\n## Categories\n")
-    lines.append("Total `%s` TILs\n" % total(root))
-    for relative, paths in tils(root):
-        count = len(paths)
-        lines.append(f"- [{relative}](#{relative}) *({count})*")
-
-    # Links
-    for relative, paths in tils(root):
-        lines.append(f"\n### {relative}\n")
-        for path in paths:
-            l = link(root, path)
-            lines.append(f"- {l}")
-
-    return lines
-```
-
-Raegon Kim's `os.walk()`, encapsulated in `tils()` function
-
-```python
-excludes = (root, "drafts", "archive")
-
-# Other stuff
-
-def tils(root):
-    for (path, dirs, files) in os.walk(root):
-        dirs[:] = [d for d in dirs if d not in excludes and not d.startswith(".")]
-        paths = [os.path.join(path, f) for f in files if f.endswith(".md")]
-        if path != root:
-            yield relative(root, path), paths
-```
-
-I later came across KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/), which is the approach I finally settled on. KhanhIceTea's implementation uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. 
-
-```python
-def convert_til_2_readme(source, template_file, dest):
-    excluded_folders = [".git", ".vscode"]
-    categories = [f for f in os.listdir(source) if os.path.isdir(f) and f not in excluded_folders]
-    categories.sort()
-    #Other stuff
-
-    for cat in categories:
-        #Other stuff
-        for file in os.listdir(os.path.join(source, cat)):
-```
-
-Each TIL file is split into pieces and passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. 
-
-```python
-def parse_article(content, category):
-    pos1 = content.find('- Date : ')
-    pos2 = content.find('- Tags : ', pos1)
-    pos3 = content.find("\n", pos2)
-    pos4 = content.find("##", pos3)
-    pos5 = content.find("\n", pos4)
-    post = {
-        "date": datetime.strptime(content[pos1+9:pos2].strip(), "%Y-%m-%d"),
-        "category": category,
-        "tags": [t[1:] for t in content[pos2+9:pos3].strip().split(' ')],
-        "title": content[pos4+3:pos5].strip(),
-    }
-
-    return post
-```
-
-Unlike the other implementations, which for the most part use Python Standard Library built-in functions to identify and parse the file paths to create the variables inserted into the README.md entries, KhanhIceTea's implementation uses TIL dictionary variables to create the entries.
-
-```python
-        cat_articles.sort(key=lambda a: a['date'])
-        
-        cat_content += "| :books: **{}** [ {} articles ] | |\n".format(cat, len(cat_articles))
-        for article in cat_articles:
-            count += 1
-            cat_content += "| {}. [{}]({}/{}) | {} |\n".format(
-                count, article['title'], article['category'], article['file_name'],
-                article['date'].strftime('%Y-%m-%d'))
-
-    all_articles.sort(reverse=True, key=lambda a: a['date'])
-    for article in all_articles[0:5]:
-        content += "| [{}]({}/{}) [{}] | {} |\n".format(
-            article['title'], article['category'],
-            article['file_name'], article['category'],
-            article['date'].strftime('%Y-%m-%d'))
 ```
 
 ## My Journey Through Implementations
