@@ -93,7 +93,7 @@ def main():
         # Other stuff
 ```
 
-Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Encapsulated in a function, `os.walk()` is called twice, to create both "Recently Modified" and "Categories" sections. He also creates a category table of contents with entries that link to the categories via `relative` path.
+Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Encapsulated in a function, `os.walk()` is called twice, to create both "Recently Modified" and "Categories" sections. He also creates a "Categories" table of contents with entries that link to the categories in the README.md via `relative` path.
 
 Raegon Kim's `os.walk()`, encapsulated in `tils()`
 
@@ -146,7 +146,7 @@ def readme():
 
 #### `os.listdir()`, TIL Dictionary, and Python Standard Library
 
-I later came across KhanhIceTea's [implementation](https://github.com/khanhicetea/today-i-learned/), which is the approach I finally settled on. KhanhIceTea's implementation uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. 
+I later came across KhanhIceTea's [TIL implementation](https://github.com/khanhicetea/today-i-learned/), which is the approach I finally settled on. KhanhIceTea's implementation uses `os.listdir()` to iterate through the directories and files, instead of `os.walk()`. 
 
 KhanhIceTea using `os.listdir()` to create and sort a list of categories and iterate their TIL files
 
@@ -162,11 +162,7 @@ def convert_til_2_readme(source, template_file, dest):
         for file in os.listdir(os.path.join(source, cat)):
 ```
 
-Each TIL file is split into pieces and passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. 
-
-<!--
-These are added to lists and sorted
--->
+Each TIL file is split into pieces and passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. Each dictionary is added to both a `cat_articles` and `all_articles` list, which are sorted by chronological and reverse date.
 
 ```python
 def parse_article(content, category):
@@ -187,6 +183,8 @@ def parse_article(content, category):
 
 While Andrei Cioara and Raegon Kim use Python Standard Library built-in functions to identify the variables used to create the README.md entries, KhanhIceTea's implementation accesses that data from the TIL dictionaries using index and variables instead.
 
+Iterating through the `cat_articles` and `all_articles` lists and accessing the data by index and variable
+
 ```python
         #Other stuff
         
@@ -206,11 +204,20 @@ While Andrei Cioara and Raegon Kim use Python Standard Library built-in function
 
 #### Writing Content Using String Versus List
 
+One other seemingly incidental different between implementations that could affect performance is how content is written to the README.md.
 
-
-Andrei Cioara creates an empty string called `content` and uses an addition assignment operator to append new strings to `content`, starting with a README.md header via a global `HEADER` variable assigned to a multiline, triple-double-quote string. At the end of the program, all of the `content` is written into the README.md at once.
+Andrei Cioara creates an empty string called `content` and uses an addition assignment operator to append new strings to `content`, starting with a README.md header via a global `HEADER` variable assigned to a multiline, triple-double-quote string. At the end of the program, all of the `content` is written into the README.md at once. KhanhIceTea uses the same method.
 
 ```python
+# Other stuff
+
+HEADER="""# TIL
+> Today I Learned
+A collection of software engineering tips that I learn every day.
+---
+"""
+
+
 def main():
     content = ""
     content += HEADER
@@ -231,24 +238,7 @@ def main():
         fd.write(content)
 ```
 
-README.md header
-
-```python
-HEADER="""# TIL
-
-> Today I Learned
-
-
-A collection of software engineering tips that I learn every day.
-
----
-
-"""
-```
-
-
-At the beginning of `readme()`, an empty list called `lines` is created. As the program progresses through `readme()`, a number of other functions are called, some nested within one another. The built-in list function `append()` is used to append the newly generated lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
-
+In Raegon Kim's implementation, at the beginning of `readme()`, an empty list called `lines` is created. As the program progresses through `readme()`, and new lines are generated, the built-in list function `append()` is used to append the new lines to `lines` as strings. The `lines` list is returned by `readme()` and line by line, written into the README.md.
 
 ```python
 output = open(os.path.join(root, "README.md"), 'w', encoding='UTF-8')
