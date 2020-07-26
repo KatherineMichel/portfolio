@@ -160,7 +160,7 @@ def convert_til_2_readme(source, template_file, dest):
         for file in os.listdir(os.path.join(source, cat)):
 ```
 
-Caption: KhanhIceTea using `os.listdir()` to create and sort a list of categories and iterate their TIL files
+Caption: KhanhIceTea using `os.listdir()` to create and sort a list of categories and iterate through their TIL files
 
 Each TIL file is split into pieces and passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. Each dictionary is added to both a `cat_articles` and `all_articles` list, which are sorted by chronological and reverse date.
 
