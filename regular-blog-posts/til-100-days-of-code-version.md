@@ -10,13 +10,13 @@ I had the good fortune to get to know [Simon](https://github.com/simonw/) when h
 
 While looking at Hacker News, Simon had come across the idea of a self-rewriting README.md. The idea originated from a project called [TIL (Today I Learned)](https://github.com/jbranchaud/til), created by [Josh Branchaud](https://github.com/jbranchaud/) that was inspired by a [thoughtbot](https://github.com/thoughtbot/til) project of the same name. 
 
-![](til-100-days-of-code-version-images/simon-til.png)
-
-Caption: The beginning of Simon's TIL README.md
-
 Simon re-implemented the idea in Python and wrote about it in a [blog post](https://simonwillison.net/2020/Apr/20/self-rewriting-readme/). 
 
 In a nutshell, Simon's TIL repo contains a README.md and subject folders filled with TIL files. When Simon learns something new, he can open a corresponding subject folder, create a new markdown TIL file, and fill in what he has learned. When the new file is saved, a program runs and finds the change. In the README.md, each folder name is listed as a category with the names of the files contained in the folder listed below the category as TIL hyperlinks. The program rewrites the README.md, adding the new TIL file name under its category.
+
+![](til-100-days-of-code-version-images/simon-til.png)
+
+Caption: The beginning of Simon's TIL README.md
 
 ## Lightbulb Moment
 
