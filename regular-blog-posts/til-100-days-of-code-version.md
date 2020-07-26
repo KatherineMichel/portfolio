@@ -115,7 +115,7 @@ def tils(root):
 Raegon Kim's entire program begins and ends in the same small block of code near the end of the file, when, the highest-order function `readme()` is called. A number of other functions, some nested within one another, are called from within `readme()`. These other functions create relative and absolute paths, titles, hyperlinks, TIL `count`, and a `modified` list that returns the most recent entries.
 
 ```python
-# Raegon Kim's `readme()` calls `til()` and other functions
+# Raegon Kim's `readme()` calls `tils()` and other functions
 
 def readme():
     # Other stuff
