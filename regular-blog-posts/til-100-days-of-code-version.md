@@ -159,10 +159,10 @@ def convert_til_2_readme(source, template_file, dest):
     excluded_folders = [".git", ".vscode"]
     categories = [f for f in os.listdir(source) if os.path.isdir(f) and f not in excluded_folders]
     categories.sort()
-    #Other stuff
+    # Other stuff
 
     for cat in categories:
-        #Other stuff
+        # Other stuff
         for file in os.listdir(os.path.join(source, cat)):
 ```
 
@@ -266,7 +266,7 @@ def readme():
         l = link(root, filename)
         lines.append(f"- *{date}* : {l}")
 
-    #Other examples
+    # Other examples
 
     return lines    
 ```
