@@ -166,10 +166,10 @@ def convert_til_2_readme(source, template_file, dest):
         for file in os.listdir(os.path.join(source, cat)):
 ```
 
-Each TIL file is split into pieces and passed into a `parse_article()` function and the frontmatter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. Each dictionary is added to both a `cat_articles` and `all_articles` list, which are sorted by chronological and reverse date.
+Each TIL file is split into pieces and passed into a `parse_article()` function and the front matter and header are parsed using the Python `find()` function, with a dictionary created that stores the `date`, `category`, `tags`, and `title`. Each dictionary is added to both a `cat_articles` and `all_articles` list, which are sorted by chronological and reverse date.
 
 ```python
-# `parse_article()` parses the file frontmatter and header and returns a dictionary containing the data
+# `parse_article()` parses the file front matter and header and returns a dictionary containing the data
 
 def parse_article(content, category):
     pos1 = content.find('- Date : ')
@@ -303,7 +303,7 @@ Caption: My [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/t
 
 Caption: An example file in my [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/til-100-days-of-code-version) repo
 
-I'm undecided about the use of frontmatter and the `find()` function to parse it. I feel it might be unnecessarily manual, but I also have confidence in it. One major advantage of KhanhIceTea's approach of using a TIL dictionary is that I found it to be very straightforward to work with and was able to quickly add a `status` variable and implement auto-status tweet. 
+I'm undecided about the use of front matter and the `find()` function to parse it. I feel it might be unnecessarily manual, but I also have confidence in it. One major advantage of KhanhIceTea's approach of using a TIL dictionary is that I found it to be very straightforward to work with and was able to quickly add a `status` variable and implement auto-status tweet. 
 
 For more information about the changes I made to KhanhIceTea's implementation, check out the "Changes I Made" section of the [program_information.py](https://github.com/KatherineMichel/til-100-days-of-code-version/blob/master/program_information.py) file.
 
@@ -323,7 +323,7 @@ But, knowing what I know now, if I were to start over, I would probably use `os.
 
 ## Make Your Own
 
-How would you create a TIL project and why? Is `os.listdir()` preferable to `os.walk()`? Which is the best method of storing and writing README.md content: string concatenation, list `append()`, or another method? Is frontmatter parsing an anti-pattern? 
+How would you create a TIL project and why? Is `os.listdir()` preferable to `os.walk()`? Which is the best method of storing and writing README.md content: string concatenation, list `append()`, or another method? Is front matter parsing an anti-pattern? 
 
 Let me know what you think on Twitter [@KatiMichel](https://twitter.com/KatiMichel), in a [GitHub issue](https://github.com/KatherineMichel/til-100-days-of-code-version), or by email kthrnmichel@gmail.com.
 
