@@ -185,7 +185,9 @@ Stanford Code in Place Experimental Art Exhibit
 
 ### Mentoring
 
+* Mentored [Mfon Eti-mfon](https://twitter.com/mfonism), developer and Nigerian dev community advocate, to make a major contribution to Pinax 20.XX Release, particularly through the DevOps and other documentation that I created.
 * Mentored 12 year old [Codergirl.py](https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og) to make her first [open source contribution](https://github.com/pycascades/welcome-wagon-2018/pull/27).
+* In general, I've provided mentoring and support to any Pinax user who needs help
 
 ### Blog Post Contributions
 
