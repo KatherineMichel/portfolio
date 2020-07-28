@@ -85,7 +85,7 @@ Defna Devrel
 
 ### Regular Blog Posts
 
-* [TIL- 100 Days of Code Version (WiP)](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
+* [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
 * [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 
 ### Conference Blog Posts
