@@ -239,6 +239,8 @@ https://twitter.com/KatiMichel/status/978670541530779650 | Katherine🌸 on Twit
 ## Kudos
 
 <!--
+https://twitter.com/hayleydenb/status/1299057734998867974 | Hayley Denbraver @ home on Twitter: "@adriennefriend @KatiMichel So true" / Twitter
+
 https://twitter.com/paltman/status/1284696622052651008
 https://twitter.com/vixter55/status/1284640958760402947 | Vicky Tuite ☄️ on Twitter: "@KatiMichel Thank you for all your hard work." / Twitter
 
