@@ -104,7 +104,7 @@ Defna Devrel
 * PyGotham Proposal... coming soon :)
 * PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/) "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
 * PyCascades 2018 "[Choosing an Advanced Git Workflow](talk-proposals/pycascades-2018.md)"
-* DjangoCon US 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](talk-proposals/djangocon-us-2017.md)"
+* DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/djangocon-us-2017.md)"
 
 ### Interviews
 
@@ -117,12 +117,12 @@ https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-intervi
 ### Talks and Panels
 
 * DjangoCon US 2018 "[State of Django" Panel](https://2018.djangocon.us/talk/state-of-django-panel/)"/[Replay](https://www.youtube.com/watch?v=TrAFQW7Wza0), representing DEFNA
-* DjangoCon US 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-djangocon-2017)"/[Replay](https://youtu.be/KCKPbsi88IU)
-* DevICT Hacktoberfest 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-gitHub-devict-hacktoberfest)"/[Replay](https://youtu.be/qKQddTEHcXs)
+* DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-djangocon-2017)"/[Replay](https://youtu.be/KCKPbsi88IU)
+* DevICT Hacktoberfest 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-gitHub-devict-hacktoberfest)"/[Replay](https://youtu.be/qKQddTEHcXs)
 
 ### Talk and GitHub Classroom
 
-* PyLadies Remote 2017 "[Get a Jumpstart on Collaboraton and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-remote)"/[Replay](https://youtu.be/eBTLPYbVvQY)
+* PyLadies Remote 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-remote)"/[Replay](https://youtu.be/eBTLPYbVvQY)
 
 <hr>
 
