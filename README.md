@@ -116,7 +116,7 @@ https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-intervi
 
 ### Talks and Panels
 
-* PyLadies Southwest Florida, PyLadies Miami, SWFL Coders, SWFL Data, and FGCU SEC "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida)"
+* PyLadies Southwest Florida, PyLadies Miami, SWFL Coders, SWFL Data, and FGCU SEC 2020 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida)"
 * DjangoCon US 2018 "[State of Django" Panel](https://2018.djangocon.us/talk/state-of-django-panel/)"/[Replay](https://www.youtube.com/watch?v=TrAFQW7Wza0), representing DEFNA
 * DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-djangocon-2017)"/[Replay](https://youtu.be/KCKPbsi88IU)
 * DevICT Hacktoberfest 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-gitHub-devict-hacktoberfest)"/[Replay](https://youtu.be/qKQddTEHcXs)
