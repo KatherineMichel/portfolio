@@ -74,7 +74,8 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 ### Developer Relations
 
 <!--
-Defna Devrel
+Pinax DevRel
+Defna DevRel
 -->
 
 ### Analysis
@@ -113,6 +114,10 @@ Defna Devrel
 <!--
 https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-interview.md | personal/defna-interview.md at master · KatherineMichel/personal
 -->
+
+### Lightning Talks
+
+* Coming soon :)
 
 ### Talks and Panels
 
