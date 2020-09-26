@@ -101,10 +101,10 @@ Defna Devrel
 ### Talk Proposals
 
 * Intro to Digital Humanities... coming soon :)
-* PyGotham Proposal... coming soon :)
+* PyGotham TV 2020
 * PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/) "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
 * PyCascades 2018 "[Choosing an Advanced Git Workflow](talk-proposals/pycascades-2018.md)"
-* DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/djangocon-us-2017.md)"
+* DjangoCon US 2017, PyCon Canada 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/djangocon-us-2017.md)"
 
 ### Interviews
 
