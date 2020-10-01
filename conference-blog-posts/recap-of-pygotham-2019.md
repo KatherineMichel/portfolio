@@ -1,6 +1,6 @@
 # Recap of PyGotham 2019
 
-Published: TBD
+Published: July 20, 2020
 
 ### Description
 
