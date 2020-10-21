@@ -3,6 +3,11 @@
 Table of Contents
 -----------------
 
+- [Employment and Consulting](#employment-and-consulting)
+    - [Wharton School of Business](#wharton-school-of-business)
+    - [Eldarion](#eldarion)
+    - [Co-operative Financial Services](#co-operative-financial-services)
+    - [Britannia Building Society](#britannia-building-society)
 - [Releases](#releases)
     - [Release Planning](#release-planning)
     - [Pinax 20.XX Release](#pinax-20xx-release)
@@ -31,6 +36,18 @@ Table of Contents
     - [Lancaster University Management School](#lancaster-university-management-school)
 - [Special Accomplishments](#special-accomplishments)
 - [Kudos](#kudos)
+
+<hr>
+
+## Employment and Consulting
+
+### Wharton School of Business
+
+### Eldarion
+
+### Co-operative Financial Services
+
+### Britannia Building Society
 
 <hr>
 
