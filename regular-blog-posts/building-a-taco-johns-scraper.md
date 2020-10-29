@@ -284,7 +284,9 @@ If the URL matched the `city_pattern` regex pattern, the `parse_city` function h
 
 All roads lead to the location page, which will contain the location details. 
 
-`properties` creates a model for the structured data and indicates where to find each piece of data within the source code. The developers of this website formatted the source code using a [PostalAddress Schema](https://schema.org/PostalAddress), which made the data easier to locate and parse. The scraped `properties` data will be passed into the imported [`GeojsonPointItem()` class](https://github.com/alltheplaces/alltheplaces/blob/master/locations/items.py) as a subclassed [`scrapy.Item`](https://docs.scrapy.org/en/latest/topics/items.html). The properties will be set as Scrapy fields and outputted in the terminal. 
+See the All the Places project [`DATA_FORMAT`](https://github.com/alltheplaces/alltheplaces/blob/master/DATA_FORMAT.md) file for information about the types of data that can be collected. `properties` creates a structured model for the data and indicates where to find each piece of data within the source code. The scraped `properties` data will be passed into the imported [`GeojsonPointItem()` class](https://github.com/alltheplaces/alltheplaces/blob/master/locations/items.py) as a subclassed [`scrapy.Item`](https://docs.scrapy.org/en/latest/topics/items.html) parameter. The properties will be set as Scrapy fields and outputted in the terminal.
+
+The developers of this website formatted the source code using a [PostalAddress Schema](https://schema.org/PostalAddress), which made the data easier to locate and parse.  
 
 ```python
     def parse_location(self, response):
