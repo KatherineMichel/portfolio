@@ -28,6 +28,7 @@ Table of Contents
     - [Memberships](#memberships)
     - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
     - [DjangoCon US](#djangocon-us)
+- [Projects](#projects)
 - [Miscellaneous](#miscellaneous)
     - [Mentoring](#mentoring)
     - [Blog Post Contributions](#blog-post-contributions)
@@ -103,6 +104,7 @@ Defna DevRel
 
 ### Regular Blog Posts
 
+* [Building a Taco John's Scraper](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/building-a-taco-johns-scraper.md)
 * [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
 * [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 
@@ -179,13 +181,15 @@ Positions Held
 
 ## Projects
 
-### 100 Days of Code
-
 <!--
 Blog posts and demos
 -->
 
-#### TIL- 100 Days of Code Version
+### Building a Taco John's Scraper
+
+* [Building a Taco John's Scraper](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/building-a-taco-johns-scraper.md)
+
+### TIL- 100 Days of Code Version
 
 * [TIL- 100 Days of Code Version GitHub Repo](https://github.com/KatherineMichel/til-100-days-of-code-version/)
 * [TIL- 100 Days of Code Version Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
