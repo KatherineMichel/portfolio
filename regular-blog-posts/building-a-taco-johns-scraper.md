@@ -308,7 +308,7 @@ The developers of this website formatted the source code using a [PostalAddress 
         yield GeojsonPointItem(**properties)
 ```        
     
-The data output in the terminal
+One restaurant's data output in the terminal
 
 ```javascript
 2020-10-25 15:09:08 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://locations.tacojohns.com/ks/lawrence/1101-w-6th-st.html> (referer: https://locations.tacojohns.com/ks/lawrence.html)
