@@ -63,7 +63,12 @@ Now that I've created a working scraper, I can build on that knowledge by using 
 * PR #1: https://github.com/alltheplaces/alltheplaces/pull/1634
 * PR #2: https://github.com/alltheplaces/alltheplaces/pull/1639
 
-Scrapy script...
+Action taken:
+* Studied scraper scripts and websites they scrape to see different approaches
+* Created a script that would follow CSS classes and elements to identify location page URLs and crawl them
+* Tested the script locally to verify that the script returns the scraped data
+
+My Scrapy script
 
 ```python
 import re
@@ -126,11 +131,6 @@ class TacoJohns(scrapy.Spider):
 
         yield GeojsonPointItem(**properties)
 ```
-
-Action taken:
-* Studied scraper scripts and websites they scrape to see different approaches
-* Created a script that would follow CSS classes and elements to identify location page URLs and crawl them
-* Tested the script locally to verify that the script returns the scraped data
 
 A few useful resources:
 * "All The Places Data Format": https://github.com/alltheplaces/alltheplaces/blob/master/DATA_FORMAT.md
