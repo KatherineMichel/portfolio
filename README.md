@@ -104,6 +104,7 @@ Defna DevRel
 
 ### Regular Blog Posts
 
+* [Hacktoberfest PRs- 2020](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/hacktoberfest-prs-2020.md)
 * [Building a Taco John's Scraper](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/building-a-taco-johns-scraper.md)
 * [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
 * [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
