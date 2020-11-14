@@ -6,21 +6,18 @@ Table of Contents
 - [Employment and Consulting](#employment-and-consulting)
     - [Wharton School of Business](#wharton-school-of-business)
     - [Eldarion](#eldarion)
-<!--
-    - [Co-operative Financial Services](#co-operative-financial-services)
-    - [Britannia Building Society](#britannia-building-society)
--->
+    - [Co-operative Financial Services/Britannia Building Society](#co-operative-financial-services-britannia-building-society)
 - [Product](#product)
     - [Analysis](#analysis)
 - [Software Releases](#software-releases)
     - [Software Release Planning](#software-release-planning)
     - [Pinax 20.XX Release](#pinax-20xx-release)
     - [Pinax 18.01 Release](#pinax-1801-release)
-- [Open Source Management and Community Health](#open-source-management-and-community-health)
+- [Open Source Management and Community](#open-source-management-and-community)
     - [Documentation](#documentation)
     - [Developer Relations](#developer-relations)
     - [Mentoring](#mentoring)
-- [Projects](#projects)
+- [Personal Projects](#personal-projects)
 - [Blog Posts](#blog-posts)
     - [Regular Blog Posts](#regular-blog-posts)
     - [Conference Blog Posts](#conference-blog-posts)
@@ -30,7 +27,6 @@ Table of Contents
     - [Interviews](#interviews)
     - [Talks and Panels](#talks-and-panels)
     - [Talk and GitHub Classroom](#talk-and-github-classroom)
-        
 - [Python and Django Community Leadership and Event Management](#python-and-django-community-leadership-and-event-management)
     - [Memberships](#memberships)
     - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
@@ -74,11 +70,7 @@ Roles
 * Pinax 20.XX Release: Release Manager
 * Pinax 18.01 Release: Mentored Release Manager/Contributor
 
-<!--
-### Co-operative Financial Services
-
-### Britannia Building Society
--->
+### Co-operative Financial Services/Britannia Building Society
 
 <hr>
 
@@ -86,7 +78,7 @@ Roles
 
 ### Analysis
 
-## Software Releases
+### Software Releases
 
 ### Software Release Planning
 
@@ -112,7 +104,7 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 
 <hr>
 
-## Open Source Management and Community Health
+## Open Source Management and Community
 
 ### Documentation
 
@@ -137,7 +129,7 @@ Defna
 
 <hr>
 
-## Projects
+## Personal Projects
 
 <!--
 Blog posts and demos
