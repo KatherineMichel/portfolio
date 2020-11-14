@@ -49,13 +49,12 @@ Table of Contents
 
 ## Employment and Consulting
 
-### Wharton School of Business
-
-#### Consultant for Simpl Game Simulation Framework
+### Wharton School of Business- Simpl Game Simulation Framework
 
 About [Simpl](https://simulations.wharton.upenn.edu/simpl/)
 * Build with Python/Django and React 
 * Mission driven
+* Incubated through Wharton's Alfred West Jr. Learning Lab
 
 Roles
 * Technical Advisor
@@ -63,10 +62,11 @@ Roles
 * Expert in product, market analysis, open source, community development
 * Navigation of productization, marketing, launch
 
-#### Consultant for IdeaMachine
+#### Wharton School of Business- IdeaMachine
 
 About [IdeaMachine](https://interactive.wharton.upenn.edu/learning-platforms/ideamachine/)
 * Social Interaction and Peer to Peer Learning for the Classroom
+* Incubated through Wharton Interactive
 
 Roles
 * Researcher
