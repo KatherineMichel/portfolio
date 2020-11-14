@@ -44,26 +44,34 @@ Table of Contents
 
 ### Wharton School of Business
 
-#### Simple Simulation Framework
+#### Consultant for Simpl Game Simulation Framework
 
 About Simpl
 * Build with Python/Django and React 
 * Mission driven
 
-Consultant
+Roles
 * Technical Advisor
 * Technical Writer
 * Expert in Open Source, community development
 * Navigation of productization, marketing, launch
 
-#### IdeaMachine
+<!--
+https://simulations.wharton.upenn.edu/simpl/
+-->
 
+#### Consultant for IdeaMachine
+
+About [IdeaMachine](https://interactive.wharton.upenn.edu/learning-platforms/ideamachine/)
+* Social Interaction and Peer to Peer Learning for the Classroom
+
+Roles
+* Researcher
 * Technical Writer
-* Security
 
 ### Eldarion
 
-Positions Held
+Roles
 * Pinax 20.XX Release: Release Manager
 * Pinax 18.01 Release: Mentored Release Manager/Contributor
 
