@@ -10,21 +10,17 @@ Table of Contents
     - [Co-operative Financial Services](#co-operative-financial-services)
     - [Britannia Building Society](#britannia-building-society)
 -->
-- [Releases](#releases)
-    - [Release Planning](#release-planning)
+- [Product](#product)
+    - [Analysis](#analysis)
+- [Software Releases](#software-releases)
+    - [Software Release Planning](#software-release-planning)
     - [Pinax 20.XX Release](#pinax-20xx-release)
     - [Pinax 18.01 Release](#pinax-1801-release)
 - [Open Source Management and Community Health](#open-source-management-and-community-health)
     - [Documentation](#documentation)
     - [Developer Relations](#developer-relations)
     - [Mentoring](#mentoring)
-
-<!--
-    - [Analysis](#analysis)
--->
-
 - [Projects](#projects)
-
 - [Blog Posts](#blog-posts)
     - [Regular Blog Posts](#regular-blog-posts)
     - [Conference Blog Posts](#conference-blog-posts)
@@ -62,7 +58,7 @@ Roles
 * Expert in product, market analysis, open source, community development
 * Navigation of productization, marketing, launch
 
-#### Wharton School of Business- IdeaMachine
+### Wharton School of Business- IdeaMachine
 
 About [IdeaMachine](https://interactive.wharton.upenn.edu/learning-platforms/ideamachine/)
 * Social Interaction and Peer to Peer Learning for the Classroom
@@ -86,9 +82,13 @@ Roles
 
 <hr>
 
-## Releases
+## Product
 
-### Release Planning
+### Analysis
+
+## Software Releases
+
+### Software Release Planning
 
 * Created Pinax 20.XX [Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
 * Created Pinax [Community Health Files (WiP)](https://github.com/pinax/.github)
@@ -128,10 +128,6 @@ Pinax
 
 Defna
 * Representative at numerous conferences
-
-<!--
-### Analysis
--->
 
 ### Mentoring
 
