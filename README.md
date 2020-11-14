@@ -46,19 +46,15 @@ Table of Contents
 
 #### Consultant for Simpl Game Simulation Framework
 
-About Simpl
+About [Simpl](https://simulations.wharton.upenn.edu/simpl/)
 * Build with Python/Django and React 
 * Mission driven
 
 Roles
 * Technical Advisor
 * Technical Writer
-* Expert in Open Source, community development
+* Expert in Open Source and community development
 * Navigation of productization, marketing, launch
-
-<!--
-https://simulations.wharton.upenn.edu/simpl/
--->
 
 #### Consultant for IdeaMachine
 
@@ -116,8 +112,13 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 
 ### Developer Relations
 
-* Pinax
-* Defna
+Pinax
+* Technical Writer
+* Technical Community Manager
+* Representative at numerous conferences
+
+Defna
+* Representative at numerous conferences
 
 ### Analysis
 
