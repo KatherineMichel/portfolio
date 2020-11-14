@@ -44,7 +44,28 @@ Table of Contents
 
 ### Wharton School of Business
 
+#### Simple Simulation Framework
+
+About Simpl
+* Build with Python/Django and React 
+* Mission driven
+
+Consultant
+* Technical Advisor
+* Technical Writer
+* Expert in Open Source, community development
+* Navigation of productization, marketing, launch
+
+#### IdeaMachine
+
+* Technical Writer
+* Security
+
 ### Eldarion
+
+Positions Held
+* Pinax 20.XX Release: Release Manager
+* Pinax 18.01 Release: Mentored Release Manager/Contributor
 
 ### Co-operative Financial Services
 
@@ -53,10 +74,6 @@ Table of Contents
 <hr>
 
 ## Releases
-
-Positions Held
-* Pinax 20.XX Release: Release Manager
-* Pinax 18.01 Release: Mentored Contributor
 
 ### Release Planning
 
@@ -91,10 +108,8 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 
 ### Developer Relations
 
-<!--
-Pinax DevRel
-Defna DevRel
--->
+* Pinax
+* Defna
 
 ### Analysis
 
