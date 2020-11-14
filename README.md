@@ -6,8 +6,10 @@ Table of Contents
 - [Employment and Consulting](#employment-and-consulting)
     - [Wharton School of Business](#wharton-school-of-business)
     - [Eldarion](#eldarion)
+<!--
     - [Co-operative Financial Services](#co-operative-financial-services)
     - [Britannia Building Society](#britannia-building-society)
+-->
 - [Releases](#releases)
     - [Release Planning](#release-planning)
     - [Pinax 20.XX Release](#pinax-20xx-release)
@@ -15,23 +17,28 @@ Table of Contents
 - [Open Source Management and Community Health](#open-source-management-and-community-health)
     - [Documentation](#documentation)
     - [Developer Relations](#developer-relations)
+    - [Mentoring](#mentoring)
+
+<!--
     - [Analysis](#analysis)
+-->
+
+- [Projects](#projects)
+
 - [Blog Posts](#blog-posts)
     - [Regular Blog Posts](#regular-blog-posts)
     - [Conference Blog Posts](#conference-blog-posts)
+    - [Blog Post Contributions](#blog-post-contributions)
 - [Public Speaking](#public-speaking)
     - [Talk Proposals](#talk-proposals)
     - [Interviews](#interviews)
     - [Talks and Panels](#talks-and-panels)
     - [Talk and GitHub Classroom](#talk-and-github-classroom)
+        
 - [Python and Django Community Leadership and Event Management](#python-and-django-community-leadership-and-event-management)
     - [Memberships](#memberships)
     - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
     - [DjangoCon US](#djangocon-us)
-- [Projects](#projects)
-- [Miscellaneous](#miscellaneous)
-    - [Mentoring](#mentoring)
-    - [Blog Post Contributions](#blog-post-contributions)
 - [Education](#education)
     - [Stanford Code in Place](#stanford-code-in-place)
     - [Lancaster University Management School](#lancaster-university-management-school)
@@ -53,7 +60,7 @@ About [Simpl](https://simulations.wharton.upenn.edu/simpl/)
 Roles
 * Technical Advisor
 * Technical Writer
-* Expert in Open Source and community development
+* Expert in product, market analysis, open source, community development
 * Navigation of productization, marketing, launch
 
 #### Consultant for IdeaMachine
@@ -71,9 +78,11 @@ Roles
 * Pinax 20.XX Release: Release Manager
 * Pinax 18.01 Release: Mentored Release Manager/Contributor
 
+<!--
 ### Co-operative Financial Services
 
 ### Britannia Building Society
+-->
 
 <hr>
 
@@ -82,7 +91,7 @@ Roles
 ### Release Planning
 
 * Created Pinax 20.XX [Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
-* Created Pinax [Community Health Files (WIP)](https://github.com/pinax/.github)
+* Created Pinax [Community Health Files (WiP)](https://github.com/pinax/.github)
 
 ### Pinax 20.XX Release
 
@@ -120,7 +129,45 @@ Pinax
 Defna
 * Representative at numerous conferences
 
+<!--
 ### Analysis
+-->
+
+### Mentoring
+
+* Mentored [Mfon Eti-mfon](https://twitter.com/mfonism), developer and Nigerian dev community advocate, to make a major contribution to Pinax 20.XX Release, particularly through the DevOps and other documentation that I created.
+* Mentored 12 year old [Codergirl.py](https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og) to make her first [open source contribution](https://github.com/pycascades/welcome-wagon-2018/pull/27).
+* In general, I've provided mentoring and support to any Pinax user who needs help
+
+<hr>
+
+## Projects
+
+<!--
+Blog posts and demos
+-->
+
+### Building a Taco John's Scraper
+
+* [Building a Taco John's Scraper](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/building-a-taco-johns-scraper.md)
+
+### TIL- 100 Days of Code Version
+
+* [TIL- 100 Days of Code Version GitHub Repo](https://github.com/KatherineMichel/til-100-days-of-code-version/)
+* [TIL- 100 Days of Code Version Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
+
+<!--
+Tutorial/template, demo
+https://github.com/KatherineMichel/til-100-days-of-code-version-template
+-->
+
+### Stanford Code in Place
+
+Stanford Code in Place Final Project
+* [Simba Friends Twitter Bot Project GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
+
+Stanford Code in Place Experimental Art Exhibit
+* [Stanford Code in Place Exerimental Art Exhibit GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-art-exhibit-experiment/) and [Twitter](https://twitter.com/StanfordCiPArt)
 
 <hr>
 
@@ -138,6 +185,11 @@ Defna
 * [Recap of PyGotham 2019](https://eldarion.com/blog/2020/07/20/recap-pygotham-2019/)/[Backup](conference-blog-posts/recap-of-pygotham-2019.md)
 * [Recap of DjangoCon US 2019](https://eldarion.com/blog/2019/10/28/recap-django-us-2019/)/[Backup](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2019.md)
 * [Recap of PyCon US 2019](https://eldarion.com/blog/2019/06/01/recap-pycon-us-2019/)/[Backup](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-pycon-us-2019.md)
+
+### Blog Post Contributions
+
+Blog Post Contributions
+* Contributor to [How Eldarion Works Remotely](https://eldarion.com/blog/2020/03/13/how-eldarion-works-remotely/)
 
 <hr>
 
@@ -201,51 +253,6 @@ Positions Held
 * [Website Contributing Guidance](https://github.com/djangocon/2017.djangocon.us/blob/master/README.md) Author, 2017
 * [Website CfP](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website/) Author, 2017
 * DjangoCon US 2017 Organizer and [Django Girls Event](https://djangogirls.org/spokane) Organizer
-
-<hr>
-
-## Projects
-
-<!--
-Blog posts and demos
--->
-
-### Building a Taco John's Scraper
-
-* [Building a Taco John's Scraper](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/building-a-taco-johns-scraper.md)
-
-### TIL- 100 Days of Code Version
-
-* [TIL- 100 Days of Code Version GitHub Repo](https://github.com/KatherineMichel/til-100-days-of-code-version/)
-* [TIL- 100 Days of Code Version Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
-
-<!--
-Tutorial/template, demo
-https://github.com/KatherineMichel/til-100-days-of-code-version-template
--->
-
-### Stanford Code in Place
-
-Stanford Code in Place Final Project
-* [Simba Friends Twitter Bot Project GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
-
-Stanford Code in Place Experimental Art Exhibit
-* [Stanford Code in Place Exerimental Art Exhibit GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-art-exhibit-experiment/) and [Twitter](https://twitter.com/StanfordCiPArt)
-
-<hr>
-
-## Miscellaneous
-
-### Mentoring
-
-* Mentored [Mfon Eti-mfon](https://twitter.com/mfonism), developer and Nigerian dev community advocate, to make a major contribution to Pinax 20.XX Release, particularly through the DevOps and other documentation that I created.
-* Mentored 12 year old [Codergirl.py](https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og) to make her first [open source contribution](https://github.com/pycascades/welcome-wagon-2018/pull/27).
-* In general, I've provided mentoring and support to any Pinax user who needs help
-
-### Blog Post Contributions
-
-Blog Post Contributions
-* Contributor to [How Eldarion Works Remotely](https://eldarion.com/blog/2020/03/13/how-eldarion-works-remotely/)
 
 <hr>
 
