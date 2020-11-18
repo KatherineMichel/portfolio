@@ -56,7 +56,7 @@ Roles
 * Expert in product, market analysis, open source, community development
 * Navigation of productization, marketing, launch
 
-### IdeaMachine (Wharton Interactive)
+#### IdeaMachine (Wharton Interactive)
 
 About [IdeaMachine](https://interactive.wharton.upenn.edu/learning-platforms/ideamachine/)
 * Social Interaction and Peer to Peer Learning for the Classroom
