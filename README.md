@@ -143,8 +143,7 @@ Blog posts and demos
 ### Projects
 
 * [Building a Taco John's Scraper Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/building-a-taco-johns-scraper.md)
-* [TIL- 100 Days of Code Version Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
-* [TIL- 100 Days of Code Version GitHub Repo](https://github.com/KatherineMichel/til-100-days-of-code-version/)
+* [TIL- 100 Days of Code Version Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) and [GitHub Repo](https://github.com/KatherineMichel/til-100-days-of-code-version/)
 
 <!--
 Tutorial/template, demo
