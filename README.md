@@ -46,7 +46,7 @@ Table of Contents
 
 About [Simpl](https://simulations.wharton.upenn.edu/simpl/)
 * Build with Python/Django and React 
-* Mission driven
+* Mission-driven, disruptive tool with the potential to democratize access
 * Incubated through Wharton's Alfred West Jr. Learning Lab
 
 Roles
@@ -153,13 +153,8 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 ### Stanford Code in Place
 
-Blog Post
-* [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
-
-Stanford Code in Place Final Project
+* [Reflections on Stanford Code in Place Blog Post](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 * [Simba Friends Twitter Bot Project GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
-
-Stanford Code in Place Experimental Art Exhibit
 * [Stanford Code in Place Exerimental Art Exhibit GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-art-exhibit-experiment/) and [Twitter](https://twitter.com/StanfordCiPArt)
 
 ### Conference Blog Posts
@@ -170,7 +165,6 @@ Stanford Code in Place Experimental Art Exhibit
 
 ### Blog Post Contributions
 
-Blog Post Contributions
 * Contributor to [How Eldarion Works Remotely](https://eldarion.com/blog/2020/03/13/how-eldarion-works-remotely/)
 
 <hr>
