@@ -17,8 +17,7 @@ Table of Contents
     - [Documentation](#documentation)
     - [Developer Relations](#developer-relations)
     - [Mentoring](#mentoring)
-- [Personal Projects](#personal-projects)
-- [Blog Posts](#blog-posts)
+- [Personal Projects and Blog Posts](#personal-projects-and-blog-posts)
     - [Regular Blog Posts](#regular-blog-posts)
     - [Conference Blog Posts](#conference-blog-posts)
     - [Blog Post Contributions](#blog-post-contributions)
@@ -131,20 +130,21 @@ Defna
 
 <hr>
 
-## Personal Projects
+## Personal Projects and Blog Posts
 
 <!--
 Blog posts and demos
 -->
 
-### Building a Taco John's Scraper
+### Miscellaneous
 
-* [Building a Taco John's Scraper](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/building-a-taco-johns-scraper.md)
+* [Hacktoberfest PRs- 2020 Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/hacktoberfest-prs-2020.md)
 
-### TIL- 100 Days of Code Version
+### Projects
 
-* [TIL- 100 Days of Code Version GitHub Repo](https://github.com/KatherineMichel/til-100-days-of-code-version/)
+* [Building a Taco John's Scraper Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/building-a-taco-johns-scraper.md)
 * [TIL- 100 Days of Code Version Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
+* [TIL- 100 Days of Code Version GitHub Repo](https://github.com/KatherineMichel/til-100-days-of-code-version/)
 
 <!--
 Tutorial/template, demo
@@ -153,22 +153,14 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 ### Stanford Code in Place
 
+Blog Post
+* [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
+
 Stanford Code in Place Final Project
 * [Simba Friends Twitter Bot Project GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
 
 Stanford Code in Place Experimental Art Exhibit
 * [Stanford Code in Place Exerimental Art Exhibit GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-art-exhibit-experiment/) and [Twitter](https://twitter.com/StanfordCiPArt)
-
-<hr>
-
-## Blog Posts
-
-### Regular Blog Posts
-
-* [Hacktoberfest PRs- 2020](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/hacktoberfest-prs-2020.md)
-* [Building a Taco John's Scraper](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/building-a-taco-johns-scraper.md)
-* [TIL- 100 Days of Code Version](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md)
-* [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 
 ### Conference Blog Posts
 
