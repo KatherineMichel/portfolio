@@ -42,10 +42,11 @@ Table of Contents
 ## Special Accomplishments
 
 A few accomplishments that I am especially proud of:
-* Helping to document, productize, and launch Wharton Business School's Simpl game simulation framework
+* Helping to document, productize, and launch Wharton Business School's mission-driven Simpl game simulation framework
 * Becoming a DjangoCon US Website Maintainer and Pinax Release Manager
 * Participating in Stanford Code in Place
-* Representing DEFNA at PyCon Charlas, international outreach
+* Representing DEFNA at PyCon Charlas and helping to establish some of the initial Django outreach in Mexico
+* Based on my own learning, mentoring Python and Django community members to reach new levels of achievements
 
 <hr>
 
