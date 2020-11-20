@@ -256,6 +256,9 @@ A few accomplishments that I feel especially proud of:
 > **“Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged & published.🎉”**<br>
 > — My Pinax Release [tweet](https://twitter.com/KatiMichel/status/1284637328330424320), July 18, 2020
 
+> **“Beautiful "negative" image tweeted by @SimbaFriendsBot, my Stanford Code in Place final project, inspired by @chrispiech's dog. My Python script that powers it is run solely via @GitHub Actions, downloading, modifying, and tweeting an image within GitHub. ”**<br>
+> — My [tweet](https://twitter.com/KatiMichel/status/1264308702594527238), May 23, 2020
+
 > **“I'm a very proud @djangocon US Website Co-Chair. Our beautiful 2019 site is live! The design changes from sunrise to sunset based on time of day. ⛵️🌅 Hope you'll take a look. 😍 Thank you @helloyupgup and everyone who made it happen. Join us in San Diego?”**<br>
 > — My [tweet](https://twitter.com/KatiMichel/status/1110297387363258368), March 15, 2019
 
@@ -272,16 +275,10 @@ A few accomplishments that I feel especially proud of:
 > — DEFNA PyCon Charlas [tweet](https://twitter.com/defnado/status/1135947120463081472), May 3, 2019
 
 <!--
-https://twitter.com/paltman/status/1284696622052651008
-https://twitter.com/vixter55/status/1284640958760402947 | Vicky Tuite ☄️ on Twitter: "@KatiMichel Thank you for all your hard work." / Twitter
-
 https://t.co/yVdYjmHsTJ
 https://t.co/98CsUcdWRK
 https://t.co/afzqgjHjRB
 https://t.co/sKN5XICBIm
-
-Stanford
-https://twitter.com/KatiMichel/status/1264308702594527238
 
 CPython and Django
 https://archiveprogram.github.com/ | GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.
@@ -289,10 +286,17 @@ https://archiveprogram.github.com/ | GitHub Archive Program | The GitHub Archive
 
 <hr>
 
-## Personal Kudos
+### Personal Kudos
 
 <!--
 https://twitter.com/hayleydenb/status/1299057734998867974 | Hayley Denbraver @ home on Twitter: "@adriennefriend @KatiMichel So true" / Twitter
+-->
+
+### Pinax
+
+<!--
+https://twitter.com/paltman/status/1284696622052651008
+https://twitter.com/vixter55/status/1284640958760402947 | Vicky Tuite ☄️ on Twitter: "@KatiMichel Thank you for all your hard work." / Twitter
 -->
 
 ### Python Community
@@ -308,6 +312,9 @@ https://www.slideshare.net/pyconmy/the-programmers-mind-by-jessica-mckellar | Th
 -->
 
 ### DjangoCon US Website
+
+> **"It is really beautiful Katherine! 💕"**<br>
+> — Hayley Debraver's [tweet](https://twitter.com/hayleydenb/status/1110635688548925440), March 26, 2019
 
 > **"Excited to share a project we have been working on this year over at @helloyupgup 🚀 🌴 Thoroughly enjoyed teaming up with these folks 💕"**<br>
 > — Joni Trythall's [tweet](https://twitter.com/JoniTrythall/status/978663793529155585), March 27, 2018
