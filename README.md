@@ -3,6 +3,7 @@
 Table of Contents
 -----------------
 
+- [Accomplishments](#accomplishments)
 - [Employment and Consulting](#employment-and-consulting)
     - [Wharton School of Business](#wharton-school-of-business)
     - [Eldarion](#eldarion)
@@ -35,6 +36,16 @@ Table of Contents
     - [Lancaster University Management School](#lancaster-university-management-school)
 - [Special Accomplishments](#special-accomplishments)
 - [Kudos](#kudos)
+
+<hr>
+
+## Special Accomplishments
+
+A few accomplishments that I am especially proud of:
+* Helping to document, productize, and launch Wharton Business School's Simpl game simulation framework
+* Becoming a DjangoCon US Website Maintainer and Pinax Release Manager
+* Participating in Stanford Code in Place
+* Representing DEFNA at PyCon Charlas, international outreach
 
 <hr>
 
@@ -246,13 +257,9 @@ Blog Post
 
 <hr>
 
-## Special Accomplishments
+## Kudos
 
-A few accomplishments that I feel especially proud of:
-* Helping to document, productize, and launch Wharton Business School's Simpl Game Simulation
-* Becoming a DjangoCon US Website Maintainer and Pinax Release Manager
-* Participating in Stanford Code in Place
-* Representing DEFNA at PyCon Charlas, international outreach
+For more kudos, see my [Kudos](https://github.com/KatherineMichel/portfolio/blob/master/kudos.md) file.
 
 > **“Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged & published.🎉”**<br>
 > — My Pinax Release [tweet](https://twitter.com/KatiMichel/status/1284637328330424320), July 18, 2020
@@ -290,10 +297,6 @@ https://t.co/sKN5XICBIm
 CPython and Django
 https://archiveprogram.github.com/ | GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.
 -->
-
-## Kudos
-
-For more kudos, see my [Kudos](https://github.com/KatherineMichel/portfolio/blob/master/kudos.md) file.
 
 <hr>
 
