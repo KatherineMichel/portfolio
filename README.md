@@ -256,17 +256,32 @@ A few accomplishments that I feel especially proud of:
 > **“Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged & published.🎉”**<br>
 > — My Pinax Release [tweet](https://twitter.com/KatiMichel/status/1284637328330424320), July 18, 2020
 
+> **“I'm a very proud @djangocon US Website Co-Chair. Our beautiful 2019 site is live! The design changes from sunrise to sunset based on time of day. ⛵️🌅 Hope you'll take a look. 😍 Thank you @helloyupgup and everyone who made it happen. Join us in San Diego?”**<br>
+> — My [tweet](https://twitter.com/KatiMichel/status/1110297387363258368), March 15, 2019
+
+> **“I'm one very proud @djangocon US Website Chair! Our site just went live and it's super cute. Thank you to the @defnado board, @helloyupgup, and the many volunteers who all came together to make it happen. I hope you'll take a look! 😍”**<br>
+> — My [tweet](https://twitter.com/KatiMichel/status/978670541530779650), March 27, 2018
+
+> **“Thrilled to have had the chance to represent @defnado at PyCon and get to know many members of the Mexican and Latin American communities! 🇲🇽 🐍”**<br>
+> — My PyCon Charlas [tweet](https://twitter.com/KatiMichel/status/1126652328608710658), May 9, 2019
+
+> **“PyCon Charlas are kicking off right now. We have two @defnado Board Members representing DEFNA at @pyconcharlas today (@lakatialira and @KatiMichel). They want to meet people who use DEFNA's services! #PyCon #PyCon2019”**<br>
+> — Defna PyCon Charlas [tweet](https://twitter.com/defnado/status/1124342530915520512), May 3, 2019
+
+> **“DEFNA Board Members @katimichel y @lakatialira representaron a DEFNA en las PyCon Charlas y pudieron chatear con muchos miembros de las comunidades de Python de México y Latinoamerica. Kati escribió una blog post sobre su experiencia en PyCon. Léelo aquí!”**<br>
+> — Defna PyCon Charlas [tweet](https://twitter.com/defnado/status/1135947120463081472), May 3, 2019
+
 <!--
-https://twitter.com/KatiMichel/status/1126652328608710658 | Katherine Michel on Twitter: "Thrilled to have had the chance to represent @defnado at PyCon and get to know many members of the Mexican and Latin American communities! 🇲🇽 🐍… https://t.co/98CsUcdWRK"
-https://twitter.com/defnado/status/1124342530915520512 | DEFNA on Twitter: "PyCon Charlas are kicking off right now. We have two @defnado Board Members representing DEFNA at @pyconcharlas today (@lakatialira and @KatiMichel). They want to meet people who use DEFNA's services! #PyCon #PyCon2019 https://t.co/afzqgjHjRB"
+https://t.co/yVdYjmHsTJ
+https://t.co/98CsUcdWRK
+https://t.co/afzqgjHjRB
+https://t.co/sKN5XICBIm
 
 Stanford
 https://twitter.com/KatiMichel/status/1264308702594527238
 
-DjangoCon US Site
-https://twitter.com/KatiMichel/status/1110297387363258368 | Katherine Michel on Twitter: "I'm a very proud @djangocon US Website Co-Chair. Our beautiful 2019 site is live! The design changes from sunrise to sunset based on time of day. ⛵️🌅 Hope you'll take a look. 😍 Thank you @helloyupgup and everyone who made it happen. Join us in San Diego? https://t.co/yVdYjmHsTJ"
-
-https://twitter.com/KatiMichel/status/978670541530779650 | Katherine🌸 on Twitter: "I'm one very proud @djangocon US Website Chair! Our site just went live and it's super cute. Thank you to the @defnado board, @helloyupgup, and the many volunteers who all came together to make it happen. I hope you'll take a look! 😍 https://t.co/YrFF9uVEL1"
+CPython and Django
+https://archiveprogram.github.com/ | GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.
 -->
 
 <hr>
@@ -278,23 +293,32 @@ https://twitter.com/hayleydenb/status/1299057734998867974 | Hayley Denbraver @ h
 
 https://twitter.com/paltman/status/1284696622052651008
 https://twitter.com/vixter55/status/1284640958760402947 | Vicky Tuite ☄️ on Twitter: "@KatiMichel Thank you for all your hard work." / Twitter
+-->
 
-CPython and Django
-https://archiveprogram.github.com/ | GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.
+### Python Community
 
-https://twitter.com/JoniTrythall/status/978663793529155585 | Joni Trythall on Twitter: "Excited to share a project we have been working on this year over at @helloyupgup 🚀 🌴 Thoroughly enjoyed teaming up with these folks 💕… https://t.co/sKN5XICBIm"
-
-https://twitter.com/techevangelista/status/978678618032345089 | Lindsey 🐉 | ♿🏳️‍🌈 on Twitter: "I love the new site for DjangoCon US ♥️ It's been great seeing it progress! Everyone did great work!… "
-https://twitter.com/webology/status/978719557153181698 | Jeff Triplett ✨🏀 on Twitter: "Great job! 👏👏👏👏… "
-https://twitter.com/vitorfs/status/978721185071534082 | Vitor Freitas on Twitter: "it is looking so cool! 😀😀… "
-
+<!--
 https://twitter.com/Transition/status/965346647088693248 | Kojo @ #NorAmGT: PyCaribbean on Twitter: "Quite proud to know the people @jessicamckellar just mentioned in her #PyCaribbean closing keynote. @mariatta helped ME make my first CPython contribution too! #KojoInSDQ #NorAmGT… https://t.co/9ZQlW0mlzB"
 https://www.slideshare.net/pyconmy/the-programmers-mind-by-jessica-mckellar | The programmer's mind by Jessica McKellar
 
 https://twitter.com/mariatta/status/1125536715215601665 | Mariatta 🤦 on Twitter: "✌️😁🤳 @KatiMichel #SelfieSprint #SelfCareSprint #pycascades… "
 -->
 
-### DjangoCon US
+### DjangoCon US Website
+
+> **"Excited to share a project we have been working on this year over at @helloyupgup 🚀 🌴 Thoroughly enjoyed teaming up with these folks 💕"**<br>
+> — Joni Trythall's [tweet](https://twitter.com/JoniTrythall/status/978663793529155585), March 27, 2018
+
+> **"Great job! 👏👏👏👏"**<br>
+> — Jeff Triplett's [tweet](https://twitter.com/webology/status/978719557153181698), March 27, 2018
+
+> **"it is looking so cool! 😀😀"**<br>
+> — Victor Freitas's [tweet](https://twitter.com/vitorfs/status/978721185071534082), March 27, 2018
+
+> **"I love the new site for DjangoCon US ♥️ It's been great seeing it progress! Everyone did great work!"**<br>
+> — Lindsey Dragun's [tweet](https://twitter.com/techevangelista/status/978678618032345089), March 27, 2018
+
+### DjangoCon US Conference
 
 > **"#Djangocon 2018 in San Diego has been the most inclusive, breath of fresh air conference I've ever attended, with the most beautiful and diverse group of people. Way to go Team Djangocon, @FlipperPA !!! <3"**<br>
 > — Amber Wanner's [tweet](https://twitter.com/thedevwhisperer/status/1052725723222298626), October 17, 2018
@@ -302,7 +326,7 @@ https://twitter.com/mariatta/status/1125536715215601665 | Mariatta 🤦 on Twitt
 > **"#djangocon closing remarks: biggest year ever, 477 tickets, 178 tutorial tickets, $20k in financial aid to 41 people, 2x sponsorship from '17 (while @h34th3r329 was pregnant!), 66% of tutorials from underrepresented groups"**<br>
 > — Drew Winstel's [tweet](https://twitter.com/hops_and_smoke/status/1052728711030571009), October 17, 2018
 
-> **"In all these little ways, they sent a clear and cohesive message that emphasized the importance of making everyone feel welcome... Those details are where love and empathy live. Those details are fucks given. Those details made my hear warm, and made me feel at home. Thank you DjangoCon. It was an honor to get to know you."**<br>
+> **"I had a good feeling from the website alone. It emphasized community all the way through, ... In all these little ways, they sent a clear and cohesive message that emphasized the importance of making everyone feel welcome... Those details are where love and empathy live. Those details are fucks given. Those details made my hear warm, and made me feel at home. Thank you DjangoCon. It was an honor to get to know you."**<br>
 > — From Saron Yitbarek's blog post "[That Time I Went to DjangoCon and Fell in Love with the Community](https://medium.com/@saronyitbarek/that-time-i-went-to-djangocon-and-fell-in-love-with-the-community-2cec0383c85b)," July 31, 2016
 
 <hr>
