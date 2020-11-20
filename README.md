@@ -292,13 +292,18 @@ https://twitter.com/Transition/status/965346647088693248 | Kojo @ #NorAmGT: PyCa
 https://www.slideshare.net/pyconmy/the-programmers-mind-by-jessica-mckellar | The programmer's mind by Jessica McKellar
 
 https://twitter.com/mariatta/status/1125536715215601665 | Mariatta 🤦 on Twitter: "✌️😁🤳 @KatiMichel #SelfieSprint #SelfCareSprint #pycascades… "
-
-DjangoCon- Kudos
-https://twitter.com/thedevwhisperer/status/1052725723222298626 | Amber Wanner on Twitter: "#Djangocon 2018 in San Diego has been the most inclusive, breath of fresh air conference I've ever attended, with the most beautiful and diverse group of people. Way to go Team Djangocon, @FlipperPA !!! <3"
-https://twitter.com/hops_and_smoke/status/1052728711030571009 | Drew on Twitter: "#djangocon closing remarks: biggest year 
-ever, 477 tickets, 178 tutorial tickets, $20k in financial aid to 41 people, 2x sponsorship from '17 (while @h34th3r329 was pregnant!), 66% of tutorials from underrepresented groups"
-https://medium.com/@saronyitbarek/that-time-i-went-to-djangocon-and-fell-in-love-with-the-community-2cec0383c85b | That time I went to DjangoCon and fell in love with the community
 -->
+
+### DjangoCon US
+
+> **"#Djangocon 2018 in San Diego has been the most inclusive, breath of fresh air conference I've ever attended, with the most beautiful and diverse group of people. Way to go Team Djangocon, @FlipperPA !!! <3"**<br>
+> — Amber Wanner's [tweet](https://twitter.com/thedevwhisperer/status/1052725723222298626), October 17, 2018
+
+> **"#djangocon closing remarks: biggest year ever, 477 tickets, 178 tutorial tickets, $20k in financial aid to 41 people, 2x sponsorship from '17 (while @h34th3r329 was pregnant!), 66% of tutorials from underrepresented groups"**<br>
+> — Drew Winstel's [tweet](https://twitter.com/hops_and_smoke/status/1052728711030571009), October 17, 2018
+
+> **"In all these little ways, they sent a clear and cohesive message that emphasized the importance of making everyone feel welcome... Those details are where love and empathy live. Those details are fucks given. Those details made my hear warm, and made me feel at home. Thank you DjangoCon. It was an honor to get to know you."**<br>
+> — From Saron Yitbarek's blog post "[That Time I Went to DjangoCon and Fell in Love with the Community](https://medium.com/@saronyitbarek/that-time-i-went-to-djangocon-and-fell-in-love-with-the-community-2cec0383c85b)," July 31, 2016
 
 <hr>
 
