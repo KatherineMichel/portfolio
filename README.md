@@ -275,6 +275,12 @@ A few accomplishments that I feel especially proud of:
 > — DEFNA PyCon Charlas [tweet](https://twitter.com/defnado/status/1135947120463081472), May 3, 2019
 
 <!--
+https://twitter.com/search?q=%40katimichel%20djangocon&src=typed_query&f=live
+
+https://twitter.com/KatiMichel/status/898671300327096320
+
+https://twitter.com/KatiMichel/status/978776580955623424
+
 https://t.co/yVdYjmHsTJ
 https://t.co/98CsUcdWRK
 https://t.co/afzqgjHjRB
