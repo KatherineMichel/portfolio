@@ -114,7 +114,7 @@ Pinax
 * Technical Community Manager
 * Representative at numerous conferences
 
-Defna
+DEFNA
 * Representative at numerous conferences
 
 ### Documentation
@@ -266,12 +266,15 @@ A few accomplishments that I feel especially proud of:
 > — My PyCon Charlas [tweet](https://twitter.com/KatiMichel/status/1126652328608710658), May 9, 2019
 
 > **“PyCon Charlas are kicking off right now. We have two @defnado Board Members representing DEFNA at @pyconcharlas today (@lakatialira and @KatiMichel). They want to meet people who use DEFNA's services! #PyCon #PyCon2019”**<br>
-> — Defna PyCon Charlas [tweet](https://twitter.com/defnado/status/1124342530915520512), May 3, 2019
+> — DEFNA PyCon Charlas [tweet](https://twitter.com/defnado/status/1124342530915520512), May 3, 2019
 
 > **“DEFNA Board Members @katimichel y @lakatialira representaron a DEFNA en las PyCon Charlas y pudieron chatear con muchos miembros de las comunidades de Python de México y Latinoamerica. Kati escribió una blog post sobre su experiencia en PyCon. Léelo aquí!”**<br>
-> — Defna PyCon Charlas [tweet](https://twitter.com/defnado/status/1135947120463081472), May 3, 2019
+> — DEFNA PyCon Charlas [tweet](https://twitter.com/defnado/status/1135947120463081472), May 3, 2019
 
 <!--
+https://twitter.com/paltman/status/1284696622052651008
+https://twitter.com/vixter55/status/1284640958760402947 | Vicky Tuite ☄️ on Twitter: "@KatiMichel Thank you for all your hard work." / Twitter
+
 https://t.co/yVdYjmHsTJ
 https://t.co/98CsUcdWRK
 https://t.co/afzqgjHjRB
@@ -286,22 +289,22 @@ https://archiveprogram.github.com/ | GitHub Archive Program | The GitHub Archive
 
 <hr>
 
-## Kudos
+## Personal Kudos
 
 <!--
 https://twitter.com/hayleydenb/status/1299057734998867974 | Hayley Denbraver @ home on Twitter: "@adriennefriend @KatiMichel So true" / Twitter
-
-https://twitter.com/paltman/status/1284696622052651008
-https://twitter.com/vixter55/status/1284640958760402947 | Vicky Tuite ☄️ on Twitter: "@KatiMichel Thank you for all your hard work." / Twitter
 -->
 
 ### Python Community
 
-<!--
-https://twitter.com/Transition/status/965346647088693248 | Kojo @ #NorAmGT: PyCaribbean on Twitter: "Quite proud to know the people @jessicamckellar just mentioned in her #PyCaribbean closing keynote. @mariatta helped ME make my first CPython contribution too! #KojoInSDQ #NorAmGT… https://t.co/9ZQlW0mlzB"
-https://www.slideshare.net/pyconmy/the-programmers-mind-by-jessica-mckellar | The programmer's mind by Jessica McKellar
+> **"✌️😁🤳 @KatiMichel #SelfieSprint #SelfCareSprint #pycascades"**<br>
+> — Mariatta's [tweet](https://twitter.com/mariatta/status/1125536715215601665), March 6, 2019
 
-https://twitter.com/mariatta/status/1125536715215601665 | Mariatta 🤦 on Twitter: "✌️😁🤳 @KatiMichel #SelfieSprint #SelfCareSprint #pycascades… "
+> **"Quite proud to know the people @jessicamckellar just mentioned in her #PyCaribbean closing keynote. @mariatta helped ME make my first CPython contribution too! #KojoInSDQ #NorAmGT"**<br>
+> — Kojo Idrissa's [tweet](https://twitter.com/Transition/status/965346647088693248), February 18, 2018
+
+<!--
+https://www.slideshare.net/pyconmy/the-programmers-mind-by-jessica-mckellar | The programmer's mind by Jessica McKellar
 -->
 
 ### DjangoCon US Website
