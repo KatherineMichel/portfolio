@@ -292,9 +292,16 @@ https://archiveprogram.github.com/ | GitHub Archive Program | The GitHub Archive
 
 <hr>
 
+## Kudos
+
 ### Personal Kudos
 
 <!--
+"I want to give a shout-out to @KatiMichel. She is one of the most positive, encouraging, and generous developers here on Twitter. She is thoughtful and makes people feel noticed and appreciated. So thank you, @KatiMichel -- you're making a positive difference!" 
+https://twitter.com/adriennefriend/status/995866016898043905
+
+"@KatiMichel You are one of the most encouraging & positive people I know. Not only do you regularly grace me with support, RTs, and kind words, but I see it all over my timeline as you lift up others and always seem to know just what to say. I see it & I value it: thank you. <3"
+https://twitter.com/adriennefriend/status/1299057652056690690
 https://twitter.com/hayleydenb/status/1299057734998867974 | Hayley Denbraver @ home on Twitter: "@adriennefriend @KatiMichel So true" / Twitter
 -->
 
