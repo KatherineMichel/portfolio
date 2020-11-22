@@ -36,6 +36,7 @@ Table of Contents
     - [Lancaster University Management School](#lancaster-university-management-school)
 - [Special Accomplishments](#special-accomplishments)
 - [Kudos](#kudos)
+- [Copyright](#copyright)
 
 <hr>
 
@@ -302,5 +303,11 @@ https://archiveprogram.github.com/ | GitHub Archive Program | The GitHub Archive
 -->
 
 <hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+## Copyright
+
+© 2020-Present Katherine Michel. All Rights Reserved.
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
