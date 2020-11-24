@@ -56,7 +56,7 @@ Personal interests
 * Music lover
 * Traveler
 * Moment appreciator
-* Excellence afficianado
+* Excellence aficionado
 
 <hr>
 
