@@ -48,6 +48,15 @@ Table of Contents
 * Creative
 * Precise
 * Introvert and extrovert
+* Wordsmith
+* Continual improver
+* Grit specialist
+
+Personal interests
+* Music lover
+* Traveler
+* Moment appreciator
+* Excellence afficianado
 
 <hr>
 
