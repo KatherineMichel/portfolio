@@ -3,6 +3,7 @@
 Table of Contents
 -----------------
 
+- [A Little Bit About Me](#a-little-bit-about-me)
 - [Accomplishments](#accomplishments)
 - [Employment and Consulting](#employment-and-consulting)
     - [Wharton School of Business](#wharton-school-of-business)
@@ -37,6 +38,16 @@ Table of Contents
 - [Special Accomplishments](#special-accomplishments)
 - [Kudos](#kudos)
 - [Copyright](#copyright)
+
+<hr>
+
+## A Little Bit About Me
+
+* High skilled
+* Conceptual thinker
+* Creative
+* Precise
+* Introvert and extrovert
 
 <hr>
 
