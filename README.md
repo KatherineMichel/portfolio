@@ -51,6 +51,7 @@ Table of Contents
 * Wordsmith
 * Continual improver
 * Grit specialist
+* Aspiring to world class performance
 
 Personal interests
 * Music lover
@@ -282,6 +283,12 @@ Blog Post
 <hr>
 
 ## Kudos
+
+<!--
+Mine
+https://twitter.com/i/moments/edit/1142878981437308928 | Edit Moment: Happy Moments
+https://twitter.com/aows/status/980974760304750594 | adrian on Twitter: "Moment with some of my images so I can pin it https://t.co/r8c8KITtll"
+-->
 
 For more kudos, see my [Kudos](https://github.com/KatherineMichel/portfolio/blob/master/kudos.md) file.
 
