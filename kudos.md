@@ -3,6 +3,9 @@
 ## Personal Kudos
 
 <!--
+https://twitter.com/InessaPawson/status/1329780961043652608 | Inessa Pawson on Twitter: "Looking on the bright side of 2020, the speaker line up of our events is truly superb. Thank you, Sumana @brainwane, for your insight, wisdom, and wit at last night’s event! #PythonforSWFL #CSforSWFL #futurefocusededucation #спасибо https://t.co/jFJ7qHO7tM" / Twitter
+https://twitter.com/PyLadiesSWFL/status/1332160538982268929 | PyLadiesSWFL on Twitter: "HAPPY THANKSGIVING! Today we are very thankful for all the support from the SWFL tech community and our speakers who have been so generous with their time, knowledge, and advice. #PythonforSWFL #CSforSWFL #pyladies https://t.co/VuXh1p7uzX" / Twitter
+
 "I want to give a shout-out to @KatiMichel. She is one of the most positive, encouraging, and generous developers here on Twitter. She is thoughtful and makes people feel noticed and appreciated. So thank you, @KatiMichel -- you're making a positive difference!" 
 https://twitter.com/adriennefriend/status/995866016898043905
 
