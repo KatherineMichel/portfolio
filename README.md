@@ -43,21 +43,23 @@ Table of Contents
 
 ## A Little Bit About Me
 
+* Extroverted introvert
+* Aspiring to world class execution
 * High skilled
 * Conceptual thinker
 * Creative
 * Precise
-* Introvert and extrovert
-* Wordsmith
-* Continual improver
-* Grit specialist
-* Aspiring to world class performance
+* A wordsmith
+* Interested in continual improvement, not perfection
+* Kind and empathetic
+* Strong willed
 
 Personal interests
-* Music lover
-* Traveler
-* Moment appreciator
-* Excellence aficionado
+* Music
+* Travel
+* Simple pleasures
+* Enjoying the moment
+* Art in the everyday
 
 <hr>
 
