@@ -4,7 +4,7 @@ Table of Contents
 -----------------
 
 - [A Little Bit About Me](#a-little-bit-about-me)
-- [Accomplishments](#accomplishments)
+- [Special Accomplishments](#special-accomplishments)
 - [Employment and Consulting](#employment-and-consulting)
     - [Wharton School of Business](#wharton-school-of-business)
     - [Eldarion](#eldarion)
