@@ -105,7 +105,7 @@ Roles
 * Pinax 20.XX Release: Release Manager
 * Pinax 18.01 Release: Mentored Release Manager/Contributor
 
-### Co-operative Financial Services/Britannia Building Society
+### Co-operative Financial Services and Britannia Building Society
 
 <hr>
 
