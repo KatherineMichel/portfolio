@@ -8,7 +8,7 @@ Table of Contents
 - [Employment and Consulting](#employment-and-consulting)
     - [Wharton School of Business](#wharton-school-of-business)
     - [Eldarion](#eldarion)
-    - [Co-operative Financial Services/Britannia Building Society](#co-operative-financial-services/britannia-building-society)
+    - [Co-operative Financial Services and Britannia Building Society](#co-operative-financial-services-and-britannia-building-society)
 - [Software Releases](#software-releases)
     - [Software Release Planning](#software-release-planning)
     - [Pinax 20.XX Release](#pinax-20xx-release)
