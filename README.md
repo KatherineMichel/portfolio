@@ -126,12 +126,12 @@ Roles
 
 ### Pinax 20.XX Release
 
-Pinax 20.XX Release Overview (Completed in the spring and summer of 2020; around 28 Pinax apps were included)
+Pinax 20.XX Release Overview (Completed in the spring and summer of 2020)
+* Around 28 Pinax apps were included
 * Dropped support for Django 1.11, 2.0, and 2.1, and Python 2,7, 3.4, and 3.5
 * Added support for Django 2.2 and 3.0, and Python 3.6, 3.7, and 3.8
-* Updated testing matrix and continuous integration configs
-* Updated packaging configs
-* Directed users to community resources
+* Updated testing matrix, continuous integration, and packaging configs
+* Improved documentation and its discoverability
 
 ### Pinax 18.01 Release
 
