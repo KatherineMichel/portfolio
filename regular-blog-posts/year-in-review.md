@@ -125,6 +125,9 @@ Community:
 
 In 2017, I became an open source maintainer for the first time, then created a talk about what I'd learned about using Git and GitHub for collaboration and code review. I gave the talk at DjangoCon US 2017 (my first ever conference and talk!), PyLadies Remote, and at a DevICT Hacktoberfest meetup. 
 
+![](year-in-review-images/djangocon-us-2017-talk.jpg)
+Me on stage giving my talk at DjangoCon US 2017, my first ever conference and talk
+
 In September, a PyLadies Southwest Florida organizer came across the talk and asked me to give the talk virtually to an audience that would consist of members of PyLadies Southwest Florida, PyLadies Miami, SWFL Coders, SWFL Data, and FGCU SEC Meetup.
 
 I was delighted to be asked to do it.
