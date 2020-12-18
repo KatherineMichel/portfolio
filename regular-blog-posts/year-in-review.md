@@ -162,7 +162,7 @@ My step changes have fallen under a few different categories:
 * Learning from the experts around me and producing higher quality work as a result
 * Doing a better job of recording information for my portfolio, resume, and doing career-related research
 
-My major step changes:
+My major step changes this year:
 * Gaining technical writing and product/market experience while working for Wharton School's Simpl game simulation project
 * Intiated and oversaw an important Pinax release, managing the end-to-end process for the first time
 * Kickstarted by Stanford Code in Place, spent more time making fun and useful apps and teaching others how to do it
