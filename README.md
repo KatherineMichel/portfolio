@@ -177,6 +177,7 @@ Blog posts and demos
 
 ### Miscellaneous
 
+* [Year in Review Blog Post (2020)](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/year-in-review.md)
 * [Hacktoberfest PRs- 2020 Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/hacktoberfest-prs-2020.md)
 
 ### Projects
