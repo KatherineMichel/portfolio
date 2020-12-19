@@ -146,7 +146,7 @@ At that time, I also got some good news about a talk proposal I had submitted to
 
 For the last couple of months, I've been working on a project for The Wharton School at the University of Pennsylvania. 
 
-I'm a Technical Writer and Advisor for open-source game simulation framework known as [Simpl](https://simpl.world/).
+I'm a Technical Writer and Advisor for an open-source game simulation framework known as [Simpl](https://simpl.world/).
 
 Built using Python, Django, and React, and hosted on [GitHub](https://github.com/simplworld/), Simpl has the potential to democratize game simulation access everywhere.
 
