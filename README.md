@@ -124,14 +124,28 @@ Roles
 * Created Pinax 20.XX [Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
 * Created Pinax [Community Health Files (WiP)](https://github.com/pinax/.github)
 
-### Pinax 20.XX Release
+### Pinax 20.XX Release Highlights (Completed in the spring and summer of 2020)
 
-Pinax 20.XX Release Overview (Completed in the spring and summer of 2020)
+Contributors, issues, and PRs since the previous release: 
+* Dozens of contributors opened issues, submitted PRs, and provided support
+* Over 160 issues were closed
+* Over 100 PRs were merged
+* Over 30 PRs were closed
+
+Release overview:
 * Around 28 Pinax apps were included
-* Dropped support for Django 1.11, 2.0, and 2.1, and Python 2,7, 3.4, and 3.5
-* Added support for Django 2.2 and 3.0, and Python 3.6, 3.7, and 3.8
-* Updated testing matrix, continuous integration, and packaging configs
-* Improved documentation and its discoverability
+* Support was dropped for Django 1.11, 2.0, and 2.1, and Python 2,7, 3.4, and 3.5 
+* Support was added for Django 2.2 and 3.0, and Python 3.6, 3.7, and 3.8
+* Version testing, continuous integration, and packaging configurations were updated
+
+Documentation and discoverability:
+* The Pinax release and maintainer processes were extensively documented for the first time
+* The number of files in repos was reduced and configurations standardized across repos in order to make repos more approachable and more easily documented
+* Community documents were created or revised if out-of-date, and moved to central locations
+
+Community:
+* A new Community Plan created a strategy to make it easier for users and contributors to get started
+* A new "Important Links" section at the top of each README.md will help people find what they need
 
 ### Pinax 18.01 Release
 
