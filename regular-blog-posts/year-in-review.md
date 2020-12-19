@@ -90,7 +90,7 @@ In July, I oversaw the completion of an important [Pinax](https://github.com/pin
 
 It was no small task, though. Many of the original Pinax authors were Django core devs and it shows. Pinax is a large and complex library of open-source, professional quality, interdependent Django projects and apps, including sophisticated testing, packaging, and continuous integration configurations. The Pinax GitHub organization alone has around 80 repos.
 
-One of my goals for this release was to make it easier for people to get started contributing to Pinax. I began by creating a detailed [Pinax 20.XX Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan) that put into writing for the first time, the Pinax "way of doing things." I was thrilled that contributors were able to use this documentation to complete a large portion of the work, with occassional support from me. 
+One of my goals for this release was to make it easier for people to get started contributing to Pinax. I began by creating a detailed [Pinax 20.XX Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan) that put into writing for the first time, the Pinax "way of doing things." I was thrilled that contributors were able to use this documentation to complete a large portion of the work, with occasional support from me. 
 
 Notably, in this release, support was dropped for Python 2.7, and support was added for Python 3.6+ and Django 3.0.
 
@@ -167,7 +167,7 @@ My step changes have fallen under a few different categories:
 
 My major step changes this year:
 * Gaining technical writing and product/market experience while working for Wharton School's Simpl game simulation project
-* Intiated and oversaw an important Pinax release, managing the end-to-end process for the first time
+* Initiated and oversaw an important Pinax release, managing the end-to-end process for the first time
 * Kickstarted by Stanford Code in Place, spent more time making fun and useful apps and teaching others how to do it
 * Wrote a number of blog posts about my projects, conferences I attended, and other learning experiences
 * Gave a virtual talk to a fairly sizeable meetup audience and had another talk accepted
