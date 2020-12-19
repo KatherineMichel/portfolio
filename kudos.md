@@ -3,6 +3,11 @@
 ## Personal Kudos
 
 <!--
+https://twitter.com/KatiMichel/status/1340081546859048960
+https://www.facebook.com/katherine.michel.5/posts/3842460622440237
+https://twitter.com/imbilltucker/status/1340311182154952705
+https://twitter.com/KatiMichel/status/1339988834218590210
+
 https://twitter.com/InessaPawson/status/1329780961043652608 | Inessa Pawson on Twitter: "Looking on the bright side of 2020, the speaker line up of our events is truly superb. Thank you, Sumana @brainwane, for your insight, wisdom, and wit at last night’s event! #PythonforSWFL #CSforSWFL #futurefocusededucation #спасибо https://t.co/jFJ7qHO7tM" / Twitter
 https://twitter.com/PyLadiesSWFL/status/1332160538982268929 | PyLadiesSWFL on Twitter: "HAPPY THANKSGIVING! Today we are very thankful for all the support from the SWFL tech community and our speakers who have been so generous with their time, knowledge, and advice. #PythonforSWFL #CSforSWFL #pyladies https://t.co/VuXh1p7uzX" / Twitter
 
