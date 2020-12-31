@@ -235,7 +235,7 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 ### Talk Proposals
 
-* Ideas: Twitter Bot Lightning Talk, Intro to Digital Humanities, PyCon Charla
+* Ideas: Twitter Bot Lightning Talk, Intro to Digital Humanities, PyCon Charlas
 * PyGotham TV 2020 "[Discovering the Next Great Artist: Python](https://github.com/KatherineMichel/portfolio/blob/master/talk-proposals/pygotham-tv-2020.md)"
 * PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/), PyCon US 2021 Maintainers Summit, FOSDEM 2021 "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
 * PyCascades 2018 "[Choosing an Advanced Git Workflow](talk-proposals/pycascades-2018.md)"
@@ -258,6 +258,10 @@ https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-intervi
 
 2021
 * FOSDEM Python Devroom "Bringing Pinax Back to Life"
+
+<!--
+https://fosdem.org/2021/schedule/track/python/
+-->
 
 2020
 * PyLadies Southwest Florida, PyLadies Miami, SWFL Coders, SWFL Data, and FGCU SEC Meetup (Hacktoberfest) 2020 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida)"
