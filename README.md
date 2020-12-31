@@ -251,13 +251,22 @@ https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-intervi
 
 ### Lightning Talks
 
-* Coming soon :)
+2021
+* DevICT [Lunch Lightning Talks](https://www.meetup.com/devict/events/275303517/)
 
 ### Talks and Panels
 
+2021
+* FOSDEM Python Devroom "Bringing Pinax Back to Life"
+
+2020
 * PyLadies Southwest Florida, PyLadies Miami, SWFL Coders, SWFL Data, and FGCU SEC Meetup (Hacktoberfest) 2020 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida)"
 * PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/) (Accepted but not given, due to event having been cancelled) "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
+
+2018
 * DjangoCon US 2018 "[State of Django" Panel](https://2018.djangocon.us/talk/state-of-django-panel/)"/[Replay](https://www.youtube.com/watch?v=TrAFQW7Wza0), representing DEFNA
+
+2017
 * DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-djangocon-2017)"/[Replay](https://youtu.be/KCKPbsi88IU)
 * devICT Presents Meetup (Hacktoberfest) 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-gitHub-devict-hacktoberfest)"/[Replay](https://youtu.be/qKQddTEHcXs)
 
