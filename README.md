@@ -24,11 +24,12 @@ Table of Contents
     - [Conference Blog Posts](#conference-blog-posts)
     - [Blog Post Contributions](#blog-post-contributions)
 - [Public Speaking](#public-speaking)
-    - [Talk Proposals](#talk-proposals)
     - [Interviews](#interviews)
     - [Lightning Talks](#lightning-talks)
     - [Talks and Panels](#talks-and-panels)
     - [Talk and GitHub Classroom](#talk-and-github-classroom)
+    - [Ideas](#ideas)
+    - [Talk Proposals](#talk-proposals)
 - [Python and Django Community Leadership and Event Management](#python-and-django-community-leadership-and-event-management)
     - [Memberships](#memberships)
     - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
@@ -270,8 +271,6 @@ https://fosdem.org/2021/schedule/track/python/
 
 * PyLadies Remote 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-remote)"/[Replay](https://youtu.be/eBTLPYbVvQY)
 
-<hr>
-
 ### Ideas
 
 Ideas- In Process
@@ -292,6 +291,8 @@ Moar Ideas
 * PyCon Canada 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/pycon-canada-2017.md)"
 * PyGotham 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/pygotham-2017.md)"
 * DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/djangocon-us-2017.md)"
+
+<hr>
 
 ## Python and Django Community Leadership and Event Management
 
