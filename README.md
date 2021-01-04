@@ -284,7 +284,7 @@ Moar Ideas
 
 ### Talk Proposals
 
-* PyCon US (PyCon, Maintainers Summit, PyCon Charlas)... coming soon :)
+* PyCon US 2021 (PyCon, Maintainers Summit, PyCon Charlas)... coming soon :)
 * FOSDEM 2021 "[Bringing Pinax Back to Life](talk-proposals/fosdem-2021.md)"
 * PyGotham TV 2020 "[Discovering the Next Great Artist: Python](https://github.com/KatherineMichel/portfolio/blob/master/talk-proposals/pygotham-tv-2020.md)"
 * PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/), PyCon US 2021 Maintainers Summit "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
