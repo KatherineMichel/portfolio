@@ -4,6 +4,8 @@ Event Title: Bringing Pinax Back to Life
 
 Track: Python Devroom
 
+Submitted Dec 26, 2020
+
 ## Submission notes
 
 Optional. Any additional information about your proposal. Not for publication. Occasionally reviewers may also use this box to ask you questions.
