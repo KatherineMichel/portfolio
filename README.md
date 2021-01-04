@@ -28,7 +28,7 @@ Table of Contents
     - [Lightning Talks](#lightning-talks)
     - [Talks and Panels](#talks-and-panels)
     - [Talk and GitHub Classroom](#talk-and-github-classroom)
-    - [Ideas](#ideas)
+    - [Talk Ideas](#talk-ideas)
     - [Talk Proposals](#talk-proposals)
 - [Python and Django Community Leadership and Event Management](#python-and-django-community-leadership-and-event-management)
     - [Memberships](#memberships)
@@ -234,6 +234,10 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 ## Public Speaking
 
+### Videos
+
+* Coming soon :)
+
 ### Interviews
 
 * DEFNA Interview... coming soon :)
@@ -271,7 +275,7 @@ https://fosdem.org/2021/schedule/track/python/
 
 * PyLadies Remote 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-remote)"/[Replay](https://youtu.be/eBTLPYbVvQY)
 
-### Ideas
+### Talk Ideas
 
 Ideas- In Process
 * Bringing Pinax Back to Life
