@@ -233,13 +233,25 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 ## Public Speaking
 
+### Ideas
+
+Ideas- In Process
+* Maintaining 101
+* Bringing Pinax Back to Life
+* Twitter Bot Lightning Talk
+
+Moar Ideas
+* Intro to Digital Humanities
+
 ### Talk Proposals
 
-* Ideas: Twitter Bot Lightning Talk, Intro to Digital Humanities, PyCon Charlas
+* PyCon US (PyCon, Maintainers Summit, PyCon Charlas)... coming soon :)
 * PyGotham TV 2020 "[Discovering the Next Great Artist: Python](https://github.com/KatherineMichel/portfolio/blob/master/talk-proposals/pygotham-tv-2020.md)"
 * PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/), PyCon US 2021 Maintainers Summit, FOSDEM 2021 "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
 * PyCascades 2018 "[Choosing an Advanced Git Workflow](talk-proposals/pycascades-2018.md)"
-* DjangoCon US 2017, PyCon Canada 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/djangocon-us-2017.md)"
+* PyCon Canada 2017 "Get a Jumpstart on Collaboration and Code Review in GitHub"
+* PyGotham 2017 "Get a Jumpstart on Collaboration and Code Review in GitHub"
+* DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/djangocon-us-2017.md)"
 
 ### Interviews
 
