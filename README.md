@@ -275,9 +275,9 @@ https://fosdem.org/2021/schedule/track/python/
 ### Ideas
 
 Ideas- In Process
-* Maintaining 101
 * Bringing Pinax Back to Life
 * Twitter Bot Lightning Talk
+* Maintaining 101
 
 Moar Ideas
 * Intro to Digital Humanities
