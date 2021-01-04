@@ -20,9 +20,9 @@ Pinax is an open-source ecosystem of reusable Django starter projects, apps, and
 
 ## Person
 
-First Name: Katherine
-Last Name: Michel
-Nickname: Kati
+* First Name: Katherine
+* Last Name: Michel
+* Nickname: Kati
 
 ## Short Biography
 
@@ -32,7 +32,7 @@ Katherine "Kati" Michel is currently working with The Wharton School to bring Si
 
 ## Links
 
-Twitter: https://twitter.com/KatiMichel
-GitHub: https://github.com/KatherineMichel
-LinkedIn: https://www.linkedin.com/in/katherinemichel
+* Twitter: https://twitter.com/KatiMichel
+* GitHub: https://github.com/KatherineMichel
+* LinkedIn: https://www.linkedin.com/in/katherinemichel
 
