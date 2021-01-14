@@ -249,15 +249,15 @@ https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-intervi
 ### Lightning Talks
 
 2021
-* DevICT [Lunch Lightning Talks](https://www.meetup.com/devict/events/275303517/)
+* DevICT [Lunch Lightning Talks](https://www.meetup.com/devict/events/275303517/) "Pinax Lessons Learned"
 
 ### Talks and Panels
 
 2021
-* FOSDEM Python Devroom "Bringing Pinax Back to Life"
+* [FOSDEM Python Devroom](https://fosdem.org/2021/schedule/track/python/) "[Bringing Pinax Back to Life](https://fosdem.org/2021/schedule/event/python_pinax/)"
 
 <!--
-https://fosdem.org/2021/schedule/track/python/
+https://fosdem.org/2021/schedule/tracks/
 -->
 
 2020
