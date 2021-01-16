@@ -256,7 +256,7 @@ https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-intervi
 ### Talks and Panels
 
 2021
-* [FOSDEM Python Devroom](https://fosdem.org/2021/schedule/track/python/) "[Bringing Pinax Back to Life](https://fosdem.org/2021/schedule/event/python_pinax/)"
+* [FOSDEM Python Devroom](https://fosdem.org/2021/schedule/track/python/) "[Bringing Pinax Back to Life](https://fosdem.org/2021/schedule/event/python_pinax/)" (Stats: FOSDEM is the biggest Free and Open Source software conference in the world, with more than 8000 attendees)
 
 <!--
 https://fosdem.org/2021/schedule/tracks/
