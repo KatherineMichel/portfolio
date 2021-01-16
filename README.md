@@ -91,6 +91,8 @@ Roles
 * Technical Writer
 * Expert in product, market analysis, open source, community development
 * Navigation of productization, marketing, launch
+* Working with Simpl Core Team to Docker-ize demos and game-making components, which will increase adoption
+* Documenting Docker instructions
 
 #### IdeaMachine (Wharton Interactive)
 
