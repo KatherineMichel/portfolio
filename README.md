@@ -199,6 +199,7 @@ DEFNA
 
 <!--
 Blog posts and demos
+https://eldarion.com/blog/2017/12/26/10-tips-upgrading-django-20/ | 10 Tips for Upgrading to Django 2.0 - Eldarion
 -->
 
 ### Miscellaneous
