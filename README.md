@@ -91,7 +91,7 @@ Roles
 * Technical Writer
 * Expert in product, market analysis, open source, community development
 * Navigation of productization, marketing, launch
-* Working with Simpl Core Team to Docker-ize demos and game-making components, which will increase adoption
+* Working with Simpl Core Team to Docker-ize demo and game-making components, which will increase adoption
 * Documenting Docker instructions
 
 #### IdeaMachine (Wharton Interactive)
@@ -252,16 +252,12 @@ https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-intervi
 ### Lightning Talks
 
 2021
-* DevICT [Lunch Lightning Talks](https://www.meetup.com/devict/events/275303517/) "Pinax Lessons Learned"
+* DevICT [Lunch Lightning Talks](https://www.meetup.com/devict/events/275303517/) "[Pinax Lessons Learned](https://github.com/KatherineMichel/pinax-lessons-learned-devict)"
 
 ### Talks and Panels
 
 2021
-* [FOSDEM Python Devroom](https://fosdem.org/2021/schedule/track/python/) "[Bringing Pinax Back to Life](https://fosdem.org/2021/schedule/event/python_pinax/)" (Stats: FOSDEM is the biggest Free and Open Source software conference in the world, with more than 8000 attendees)
-
-<!--
-https://fosdem.org/2021/schedule/tracks/
--->
+* [FOSDEM Python Devroom](https://fosdem.org/2021/schedule/track/python/) "[Bringing Pinax Back to Life](https://github.com/KatherineMichel/bringing-pinax-back-to-life-fosdem)" (Stats: FOSDEM is the biggest Free and Open Source software conference in the world, with more than 8000 attendees)
 
 2020
 * PyLadies Southwest Florida, PyLadies Miami, SWFL Coders, SWFL Data, and FGCU SEC Meetup (Hacktoberfest) 2020 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida)"
