@@ -3,6 +3,8 @@
 ## Personal Kudos
 
 <!--
+https://twitter.com/_erin_rachel/status/1352316874214797315 | _erin_rachel on Twitter: "@carriepresley15 @CaktusGroup Also, I'm super impressed with @djangocon for being very encouraging and inclusive of women at their conferences. I gave a talk at the 2019 conference, you can find my talk and others given by women on their channel. https://t.co/CdvW2IHFjd" / Twitter
+
 https://twitter.com/KatiMichel/status/1340081546859048960 | Katherine Michel on Twitter: "My "Year in Review" blog post is live now. I did some fun things and reached some important milestones: PyCascades, Stanford Code in Place, Pinax release, Wharton School Simpl game simulation project, to name a few. Read more, if you are so inclined. 😀 🎉 https://t.co/6l1QerUhJi" / Twitter
 https://www.facebook.com/katherine.michel.5/posts/3842460622440237
 https://twitter.com/imbilltucker/status/1340311182154952705
