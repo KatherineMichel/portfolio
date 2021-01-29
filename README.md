@@ -38,6 +38,9 @@ Table of Contents
     - [Stanford Code in Place](#stanford-code-in-place)
     - [Lancaster University Management School](#lancaster-university-management-school)
 - [Kudos](#kudos)
+    - [DjangoCon US Website](#djangocon-us-website)
+    - [DjangoCon US Conference](#djangocon-us-conference)
+    - [Python Community](#python-community)
 - [Milestones](#milestones)
 - [Copyright](#copyright)
 
@@ -342,19 +345,49 @@ Blog Post
 
 ## Kudos
 
+### DjangoCon US Website
+
+> **"It is really beautiful Katherine! 💕"**<br>
+> — Hayley Debraver's [tweet](https://twitter.com/hayleydenb/status/1110635688548925440), March 26, 2019
+
+> **"Excited to share a project we have been working on this year over at @helloyupgup 🚀 🌴 Thoroughly enjoyed teaming up with these folks 💕"**<br>
+> — Joni Trythall's [tweet](https://twitter.com/JoniTrythall/status/978663793529155585), March 27, 2018
+
+> **"Great job! 👏👏👏👏"**<br>
+> — Jeff Triplett's [tweet](https://twitter.com/webology/status/978719557153181698), March 27, 2018
+
+> **"it is looking so cool! 😀😀"**<br>
+> — Victor Freitas's [tweet](https://twitter.com/vitorfs/status/978721185071534082), March 27, 2018
+
+> **"I love the new site for DjangoCon US ♥️ It's been great seeing it progress! Everyone did great work!"**<br>
+> — Lindsey Dragun's [tweet](https://twitter.com/techevangelista/status/978678618032345089), March 27, 2018
+
+### DjangoCon US Conference
+
+> **"#Djangocon 2018 in San Diego has been the most inclusive, breath of fresh air conference I've ever attended, with the most beautiful and diverse group of people. Way to go Team Djangocon, @FlipperPA !!! <3"**<br>
+> — Amber Wanner's [tweet](https://twitter.com/thedevwhisperer/status/1052725723222298626), October 17, 2018
+
+> **"#djangocon closing remarks: biggest year ever, 477 tickets, 178 tutorial tickets, $20k in financial aid to 41 people, 2x sponsorship from '17 (while @h34th3r329 was pregnant!), 66% of tutorials from underrepresented groups"**<br>
+> — Drew Winstel's [tweet](https://twitter.com/hops_and_smoke/status/1052728711030571009), October 17, 2018
+
+> **"I had a good feeling from the website alone. It emphasized community all the way through, ... In all these little ways, they sent a clear and cohesive message that emphasized the importance of making everyone feel welcome... Those details are where love and empathy live. Those details are fucks given. Those details made my hear warm, and made me feel at home. Thank you DjangoCon. It was an honor to get to know you."**<br>
+> — From Saron Yitbarek's blog post "[That Time I Went to DjangoCon and Fell in Love with the Community](https://medium.com/@saronyitbarek/that-time-i-went-to-djangocon-and-fell-in-love-with-the-community-2cec0383c85b)," July 31, 2016
+
+### Python Community
+
+> **"✌️😁🤳 @KatiMichel #SelfieSprint #SelfCareSprint #pycascades"**<br>
+> — Mariatta's [tweet](https://twitter.com/mariatta/status/1125536715215601665), March 6, 2019
+
+> **"Quite proud to know the people @jessicamckellar just mentioned in her #PyCaribbean closing keynote. @mariatta helped ME make my first CPython contribution too! #KojoInSDQ #NorAmGT"**<br>
+> — Kojo Idrissa's [tweet](https://twitter.com/Transition/status/965346647088693248), February 18, 2018
+
+<!--
+https://www.slideshare.net/pyconmy/the-programmers-mind-by-jessica-mckellar | The programmer's mind by Jessica McKellar
+-->
+
 <hr>
 
 ## Milestones
-
-<!--
-Mine
-https://twitter.com/i/moments/edit/1142878981437308928 | Edit Moment: Happy Moments
-https://twitter.com/aows/status/980974760304750594 | adrian on Twitter: "Moment with some of my images so I can pin it https://t.co/r8c8KITtll"
-
-Stats
-https://twitter.com/KatiMichel/status/1344088982582390785 | Katherine Michel on Twitter: "Wow... 173 pull requests, 135 issues, and 130 stars associated with my GitHub account! I worked hard this year. Check how your #GithubWrapped up in 2020 at https://t.co/ghJiQgYWKb" / Twitter
-https://githubwrapped.tech/KatherineMichel | Github Wrapped 2020
--->
 
 > **“Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged & published.🎉”**<br>
 > — My Pinax Release [tweet](https://twitter.com/KatiMichel/status/1284637328330424320), July 18, 2020
@@ -376,22 +409,6 @@ https://githubwrapped.tech/KatherineMichel | Github Wrapped 2020
 
 > **“DEFNA Board Members @katimichel y @lakatialira representaron a DEFNA en las PyCon Charlas y pudieron chatear con muchos miembros de las comunidades de Python de México y Latinoamerica. Kati escribió una blog post sobre su experiencia en PyCon. Léelo aquí!”**<br>
 > — DEFNA PyCon Charlas [tweet](https://twitter.com/defnado/status/1135947120463081472), May 3, 2019
-
-<!--
-https://twitter.com/search?q=%40katimichel%20djangocon&src=typed_query&f=live
-
-https://twitter.com/KatiMichel/status/898671300327096320
-
-https://twitter.com/KatiMichel/status/978776580955623424
-
-https://t.co/yVdYjmHsTJ
-https://t.co/98CsUcdWRK
-https://t.co/afzqgjHjRB
-https://t.co/sKN5XICBIm
-
-CPython and Django
-https://archiveprogram.github.com/ | GitHub Archive Program | The GitHub Archive Program will safely story every public GitHub repo for 1,000 years in the Arctic World Archive in Svalbard, Norway.
--->
 
 <hr>
 
