@@ -263,6 +263,10 @@ https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-intervi
 2021
 * [FOSDEM Python Devroom](https://fosdem.org/2021/schedule/track/python/) "[Bringing Pinax Back to Life](https://github.com/KatherineMichel/bringing-pinax-back-to-life-fosdem)" (Stats: FOSDEM is the biggest Free and Open Source software conference in the world, with more than 8000 attendees)
 
+<!--
+https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pinax Back to Life
+-->
+
 2020
 * PyLadies Southwest Florida, PyLadies Miami, SWFL Coders, SWFL Data, and FGCU SEC Meetup (Hacktoberfest) 2020 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida)"
 * PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/) (Accepted but not given, due to event having been cancelled) "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
