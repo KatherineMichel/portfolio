@@ -38,6 +38,7 @@ Table of Contents
     - [Stanford Code in Place](#stanford-code-in-place)
     - [Lancaster University Management School](#lancaster-university-management-school)
 - [Kudos](#kudos)
+- [Milestones](#milestones)
 - [Copyright](#copyright)
 
 <hr>
@@ -341,6 +342,10 @@ Blog Post
 
 ## Kudos
 
+<hr>
+
+## Milestones
+
 <!--
 Mine
 https://twitter.com/i/moments/edit/1142878981437308928 | Edit Moment: Happy Moments
@@ -350,8 +355,6 @@ Stats
 https://twitter.com/KatiMichel/status/1344088982582390785 | Katherine Michel on Twitter: "Wow... 173 pull requests, 135 issues, and 130 stars associated with my GitHub account! I worked hard this year. Check how your #GithubWrapped up in 2020 at https://t.co/ghJiQgYWKb" / Twitter
 https://githubwrapped.tech/KatherineMichel | Github Wrapped 2020
 -->
-
-For more kudos, see my [Kudos](https://github.com/KatherineMichel/portfolio/blob/master/kudos.md) file.
 
 > **“Finishing up a new Pinax release that drops support for Python 2.7 in 25+ apps and improves our community docs, among other things. Big milestone for me because I managed the end-to-end process... created the release plan, oversaw the work, merged the PRs, tagged & published.🎉”**<br>
 > — My Pinax Release [tweet](https://twitter.com/KatiMichel/status/1284637328330424320), July 18, 2020
