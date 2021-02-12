@@ -3,6 +3,7 @@
 Table of Contents
 -----------------
 
+- [Testimonials](#testimonials)
 - [A Little Bit About Me](#a-little-bit-about-me)
 - [Special Accomplishments](#special-accomplishments)
 - [Employment and Consulting](#employment-and-consulting)
@@ -45,6 +46,15 @@ Table of Contents
 - [Copyright](#copyright)
 
 <hr>
+
+## Testimonials
+
+> **“Each year, one of my favorite parts of working with DjangoCon US has been getting to collaborate with Katherine. She has always been so level-headed, kind, and given constructive and thoughtful feedback. Katherine is someone that I would forever jump at a chance to work with again, as she brings expertise, organization, and friendly oversight to any project she’s a part of.”**<br>
+> — Joni Trythall, Owner/Design Lead at [YupGup](https://yupgup.com/), February 12, 2021
+
+<hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## A Little Bit About Me
 
