@@ -121,7 +121,8 @@ Roles
 ### Eldarion
 
 Roles
-* Pinax 20.XX Release: Release Manager
+* Pinax 21.04 Release: Lead Release Manager
+* Pinax 20.XX Release: Lead Release Manager
 * Pinax 18.01 Release: Mentored Release Manager/Contributor
 
 ### Co-operative Financial Services and Britannia Building Society
@@ -138,8 +139,27 @@ Roles
 
 ### Software Release Planning
 
+* Created Pinax 21.04 [Release Plan](https://github.com/pinax/pinax/wiki/Pinax-21.04-Release-Plan)
+* Created Pinax [Roadmap](https://github.com/pinax/pinax/projects/1)
 * Created Pinax 20.XX [Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
 * Created Pinax [Community Health Files (WiP)](https://github.com/pinax/.github)
+
+### Pinax 21.04 Release
+
+<!--
+https://www.djangoproject.com/download/#supported-versions
+https://www.python.org/downloads/
+
+Pinax 21.04 Release Overview (Completed in April 2021)
+* Updated pinax-starter-projects and pinax-cli
+* Around 28 Pinax apps were included
+* Dropped support for Django 3.0
+* Added support for Django 3.1, and Python 3.9
+* Maintained support for Django 2.2 (LTS), and Python 3.6, 3.7, and 3.8
+* Updated testing matrix, continuous integration, and packaging configs
+* Improved documentation (global docs, installation instructions, tutorial)
+* Implemented automation (auto publish by GitHub Action to PyPI upon tagging release; run tox via GitHub Actions)
+-->
 
 ### Pinax 20.XX Release
 
@@ -149,6 +169,10 @@ Pinax 20.XX Release Overview (Completed in the spring and summer of 2020)
 * Added support for Django 2.2 and 3.0, and Python 3.6, 3.7, and 3.8
 * Updated testing matrix, continuous integration, and packaging configs
 * Improved documentation and its discoverability
+
+<!--
+Added f-strings and what other functionality?
+-->
 
 #### Release Highlights
 
