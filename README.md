@@ -259,7 +259,7 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 * [Reflections on Stanford Code in Place Blog Post](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 * [Simba Friends Twitter Bot Project GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
-* [Stanford Code in Place Exerimental Art Exhibit GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-art-exhibit-experiment/) and [Twitter](https://twitter.com/StanfordCiPArt)
+* [Stanford Code in Place Experimental Art Exhibit GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-art-exhibit-experiment/) and [Twitter](https://twitter.com/StanfordCiPArt)
 
 ### Conference Blog Posts
 
