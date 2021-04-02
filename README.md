@@ -316,16 +316,6 @@ https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pi
 
 * PyLadies Remote 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-remote)"/[Replay](https://youtu.be/eBTLPYbVvQY)
 
-### Talk Ideas
-
-Ideas- In Process
-* Bringing Pinax Back to Life
-* Twitter Bot Lightning Talk
-* Maintaining 101
-
-Moar Ideas
-* Intro to Digital Humanities
-
 ### Talk Proposals
 
 * PyCon US 2021 [Maintainers Summit](https://us.pycon.org/2021/summits/maintainers/) "[Bringing Pinax Back to Life](talk-proposals/2021-pycon-us-maintainers-summit.md)"
