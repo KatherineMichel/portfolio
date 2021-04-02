@@ -45,6 +45,7 @@ Full name of speaker (s): Katherine "Kati" Michel
 What is your preferred pronoun? She/Her
 
 Speaker intro (provide a few sentences for a brief bio)
+
 Katherine "Kati" Michel is currently working for The Wharton School on a game simulation project called Simpl and is a Pinax Maintainer. She is also a Django Events Foundation (DEFNA) Board Member and DjangoCon US Website Chair and Maintainer.
 
 Twitter URL (if available): https://twitter.com/KatiMichel/
