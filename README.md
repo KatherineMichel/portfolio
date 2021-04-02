@@ -328,14 +328,14 @@ Moar Ideas
 
 ### Talk Proposals
 
-* PyCon US 2021 (PyCon, Maintainers Summit, PyCon Charlas)... coming soon :)
-* FOSDEM 2021 "[Bringing Pinax Back to Life](talk-proposals/fosdem-2021.md)"
-* PyGotham TV 2020 "[Discovering the Next Great Artist: Python](https://github.com/KatherineMichel/portfolio/blob/master/talk-proposals/pygotham-tv-2020.md)"
-* PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/) "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
+* PyCon US 2021 [Maintainers Summit](https://us.pycon.org/2021/summits/maintainers/) "[Bringing Pinax Back to Life](talk-proposals/2021-pycon-us-maintainers-summit.md)"
+* FOSDEM 2021 "[Bringing Pinax Back to Life](talk-proposals/2021-fosdem.md)"
+* PyGotham TV 2020 "[Discovering the Next Great Artist: Python](https://github.com/KatherineMichel/portfolio/blob/master/talk-proposals/2020-pygotham-tv.md)"
+* PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/) "[Bringing Pinax Back to Life](talk-proposals/2020-pycon-us-maintainers-summit.md)"
 * PyCascades 2018 "[Choosing an Advanced Git Workflow](talk-proposals/pycascades-2018.md)"
-* PyCon Canada 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/pycon-canada-2017.md)"
-* PyGotham 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/pygotham-2017.md)"
-* DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/djangocon-us-2017.md)"
+* PyCon Canada 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/2017-pycon-canada.md)"
+* PyGotham 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/2017-pygotham-.md)"
+* DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/2017-djangocon-us.md)"
 
 <hr>
 
