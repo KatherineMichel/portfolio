@@ -10,7 +10,8 @@ Table of Contents
     - [Wharton School of Business](#wharton-school-of-business)
     - [Eldarion](#eldarion)
     - [Co-operative Financial Services and Britannia Building Society](#co-operative-financial-services-and-britannia-building-society)
-- [Software Releases](#software-releases)
+- [Software Development](#software-development)
+    - [My Mentors](#my-mentors)
     - [Software Release Planning](#software-release-planning)
     - [Pinax 20.XX Release](#pinax-20xx-release)
     - [Pinax 18.01 Release](#pinax-1801-release)
@@ -36,7 +37,8 @@ Table of Contents
     - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
     - [DjangoCon US](#djangocon-us)
 - [Education](#education)
-    - [Stanford Code in Place](#stanford-code-in-place)
+    - [Section Leader, Stanford Code in Place, 2021](#section-leader-stanford-code-in-place-2021)
+    - [Student, Stanford Code in Place, 2020](#student-stanford-code-in-place-2020)
     - [Lancaster University Management School](#lancaster-university-management-school)
 - [Kudos](#kudos)
     - [DjangoCon US Website](#djangocon-us-website)
@@ -83,7 +85,7 @@ Personal interests
 A few accomplishments that I am especially proud of:
 * Helping to document, productize, and launch Wharton Business School's mission-driven Simpl game simulation framework
 * Becoming a DjangoCon US Website Maintainer and Pinax Release Manager
-* Participating in Stanford Code in Place
+* Participating in Stanford Code in Place as a section leader in 2021 and as a student in 2020
 * Representing DEFNA at PyCon Charlas and helping to establish some of the initial Django outreach in Mexico
 * Based on my own learning, mentoring Python and Django community members to reach new levels of achievements
 
@@ -135,7 +137,12 @@ Roles
 ### Analysis
 -->
 
-### Software Releases
+### Software Development
+
+### My Mentors
+
+* Jeff Triplett
+* Graham Ullrich
 
 ### Software Release Planning
 
@@ -358,7 +365,14 @@ Positions Held
 
 ## Education
 
-### Stanford Code in Place
+### Section Leader, Stanford Code in Place, 2021
+
+Code in Place, offered online by Stanford University April-May 2021
+* Chosen to be a CiP Section Leader
+* Will receive training through Stanford Engineering
+* Will lead a group of ~10 students in completing a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A.
+
+### Student, Stanford Code in Place, 2020
 
 Code in Place, offered online by Stanford University April-May 2020
 * Completed a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A.
