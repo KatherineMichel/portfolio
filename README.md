@@ -288,6 +288,7 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 ### Interviews
 
+2020-2021
 * [DEFNA Interview with Katia and Josie](https://www.youtube.com/watch?v=uzBx-w4BNdw)
 
 ### Lightning Talks
