@@ -288,11 +288,7 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 ### Interviews
 
-* DEFNA Interview... coming soon :)
-
-<!--
-https://github.com/KatherineMichel/personal/blob/master/to-publish/defna-interview.md | personal/defna-interview.md at master · KatherineMichel/personal
--->
+* [DEFNA Interview with Katia and Josie](https://www.youtube.com/watch?v=uzBx-w4BNdw)
 
 ### Lightning Talks
 
@@ -368,7 +364,7 @@ Positions Held
 ### Section Leader, Stanford Code in Place, 2021
 
 Code in Place, offered online by Stanford University April-May 2021
-* Chosen to be a CiP Section Leader
+* Among a group of highly skilled teachers handpicked to be Code in Place Section Leaders
 * Will receive training through Stanford Engineering
 * Will lead a group of ~10 students in completing a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A.
 
