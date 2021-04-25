@@ -373,7 +373,18 @@ Code in Place, offered online by Stanford University April-May 2021
 * Will lead a group of ~10 students in completing a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A.
 
 <!--
-https://compedu.stanford.edu/codeinplace/handouts/Recruitment.pdf
+2 training sessions, live-coding, session prep
+https://twitter.com/LisaEinstein/status/1380600955159392261
+
+Congrats and Welcome- Stats
+https://edstem.org/us/courses/9999/discussion/351518
+https://edstem.org/us/courses/9999/discussion/393772
+
+Teaching info
+https://codeinplace.stanford.edu/teach | Teach with Code in Place
+
+Recruiting
+https://compedu.stanford.edu/codeinplace/handouts/Recruitment.pdf | Recruitment.pdf
 -->
 
 ### Student, Stanford Code in Place, 2020
