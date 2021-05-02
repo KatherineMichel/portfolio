@@ -123,7 +123,7 @@ Roles
 ### Eldarion
 
 Roles
-* Pinax 21.04 Release: Lead Release Manager
+* Pinax 21.05 Release: Lead Release Manager
 * Pinax 20.XX Release: Lead Release Manager
 * Pinax 18.01 Release: Mentored Release Manager/Contributor
 
@@ -146,18 +146,18 @@ Roles
 
 ### Software Release Planning
 
-* Created Pinax 21.04 [Release Plan](https://github.com/pinax/pinax/wiki/Pinax-21.04-Release-Plan)
+* Created Pinax 21.05 [Release Plan](https://github.com/pinax/pinax/wiki/Pinax-21.05-Release-Plan)
 * Created Pinax [Roadmap](https://github.com/pinax/pinax/projects/1)
 * Created Pinax 20.XX [Release Plan](https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan)
 * Created Pinax [Community Health Files (WiP)](https://github.com/pinax/.github)
 
-### Pinax 21.04 Release
+### Pinax 21.05 Release
 
 <!--
 https://www.djangoproject.com/download/#supported-versions
 https://www.python.org/downloads/
 
-Pinax 21.04 Release Overview (Completed in April 2021)
+Pinax 21.05 Release Overview (Completed in April 2021)
 * Updated pinax-starter-projects and pinax-cli
 * Around 28 Pinax apps were included
 * Dropped support for Django 3.0
