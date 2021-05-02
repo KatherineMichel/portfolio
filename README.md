@@ -325,6 +325,7 @@ https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pi
 
 ### Talk Proposals
 
+* GitHub 2021 [Global Maintainer Summit](https://globalmaintainersummit.github.com/) "[Bringing Pinax Back to Life](talk-proposals/2021-github-global-maintainer-summit.md)"
 * PyCon US 2021 [Maintainers Summit](https://us.pycon.org/2021/summits/maintainers/) "[Bringing Pinax Back to Life](talk-proposals/2021-pycon-us-maintainers-summit.md)"
 * FOSDEM 2021 "[Bringing Pinax Back to Life](talk-proposals/2021-fosdem.md)"
 * PyGotham TV 2020 "[Discovering the Next Great Artist: Python](https://github.com/KatherineMichel/portfolio/blob/master/talk-proposals/2020-pygotham-tv.md)"
