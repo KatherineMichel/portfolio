@@ -141,8 +141,8 @@ Roles
 
 ### My Mentors
 
-* Jeff Triplett
-* Graham Ullrich
+* Jeff Triplett, early Django Developer at The Lawrence Journal World, birthplace of Django
+* Graham Ullrich, Pinax Maintainer
 
 ### Software Release Planning
 
