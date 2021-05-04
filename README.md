@@ -369,11 +369,18 @@ Positions Held
 ### Section Leader, Stanford Code in Place, 2021
 
 Code in Place, offered online by Stanford University April-May 2021
-* Among a group of highly skilled teachers handpicked to be Code in Place Section Leaders
-* Will receive training through Stanford Engineering
-* Will lead a group of ~10 students in completing a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A.
+* Among a group of highly skilled teachers handpicked to be part of the Code in Place Teaching Team as Section Leaders
+* Received teaching training through Stanford Engineering
+* Led a group of ~10 students in completing a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A
+* Created comprehensive recap slides for each section
+* Provided ongoing support and motivation
+* Mentored students
+* Facilitated collaborative problem solving among students through live coding
+* Consistently received very positive comments and highest possible rating from student feedback
 
 <!--
+https://codeinplace.stanford.edu/teach/feedback/students
+
 2 training sessions, live-coding, session prep
 https://twitter.com/LisaEinstein/status/1380600955159392261
 
