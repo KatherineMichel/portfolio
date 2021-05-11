@@ -305,6 +305,8 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 <!--
 PyCon Stats
 
+https://us.pycon.org/2021/summits/maintainers/
+
 https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pinax Back to Life
 -->
 
