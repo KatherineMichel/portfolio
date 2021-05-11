@@ -299,7 +299,7 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 ### Talks and Panels
 
 2021
-* PyCon US 2021 [Maintainers Summit](https://us.pycon.org/2021/summits/maintainers/) "[Bringing Pinax Back to Life](talk-proposals/2021-pycon-us-maintainers-summit.md)"
+* PyCon US 2021 [Maintainers Summit](https://us.pycon.org/2021/summits/maintainers/) "[Bringing Pinax Back to Life](talk-proposals/2021-pycon-us-maintainers-summit.md)"/[Replay](https://youtu.be/KfPukNq7lVI)
 * [FOSDEM Python Devroom](https://fosdem.org/2021/schedule/track/python/) "[Bringing Pinax Back to Life](https://github.com/KatherineMichel/bringing-pinax-back-to-life-fosdem)"/[Replay](http://bofh.nikhef.nl/events/FOSDEM/2021/D.python/python_pinax.webm) (Stats: FOSDEM is the biggest Free and Open Source software conference in the world, with more than 8000 attendees)
 
 <!--
@@ -330,7 +330,7 @@ https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pi
 * FOSDEM 2021 "[Bringing Pinax Back to Life](talk-proposals/2021-fosdem.md)"
 * PyGotham TV 2020 "[Discovering the Next Great Artist: Python](https://github.com/KatherineMichel/portfolio/blob/master/talk-proposals/2020-pygotham-tv.md)"
 * PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/) "[Bringing Pinax Back to Life](talk-proposals/2020-pycon-us-maintainers-summit.md)"
-* PyCascades 2018 "[Choosing an Advanced Git Workflow](talk-proposals/pycascades-2018.md)"
+* PyCascades 2018 "[Choosing an Advanced Git Workflow](talk-proposals/2018-pycascades.md)"
 * PyCon Canada 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/2017-pycon-canada.md)"
 * PyGotham 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/2017-pygotham-.md)"
 * DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](talk-proposals/2017-djangocon-us.md)"
