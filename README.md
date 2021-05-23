@@ -4,11 +4,13 @@ Table of Contents
 -----------------
 
 - [Testimonials](#testimonials)
-- [Special Accomplishments](#special-accomplishments)
-- [Employment and Consulting](#employment-and-consulting)
-    - [Wharton School of Business](#wharton-school-of-business)
-    - [Eldarion](#eldarion)
-    - [Co-operative Financial Services and Britannia Building Society](#co-operative-financial-services-and-britannia-building-society)
+- [A Few Favorite Accomplishments](#a-few-favorite-accomplishments)
+- [Resume Summary](#resume-summary)
+    - [Employment and Consulting](#employment-and-consulting)
+        - [Wharton School of Business](#wharton-school-of-business)
+        - [Eldarion](#eldarion)
+        - [Co-operative Financial Services and Britannia Building Society](#co-operative-financial-services-and-britannia-building-society)
+    - [Memberships](#memberships)
 - [Software Development](#software-development)
     - [My Mentors](#my-mentors)
     - [Software Release Planning](#software-release-planning)
@@ -32,7 +34,6 @@ Table of Contents
     - [Talk Ideas](#talk-ideas)
     - [Talk Proposals](#talk-proposals)
 - [Python and Django Community Leadership and Event Management](#python-and-django-community-leadership-and-event-management)
-    - [Memberships](#memberships)
     - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
     - [DjangoCon US](#djangocon-us)
 - [Education](#education)
@@ -58,7 +59,7 @@ Table of Contents
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
-## Special Accomplishments
+## A Few Favorite Accomplishments
 
 A few accomplishments that I am especially proud of:
 * Becoming a DjangoCon US Website Maintainer and Pinax Release Manager
@@ -68,6 +69,40 @@ A few accomplishments that I am especially proud of:
 * Based on my own learning, mentoring Python and Django community members to reach new levels of achievements
 
 <hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+## Resume Summary
+
+
+
+<!--
+Code in Place, offered online by Stanford University April-May 2021
+* Among a group of highly skilled teachers handpicked to be part of the Code in Place Teaching Team as Section Leaders
+* Received teaching training through Stanford Engineering
+* Led a group of ~10 students in completing a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A
+
+Activities
+* Created comprehensive recap slides for each section: https://github.com/KatherineMichel/stanford-code-in-place-section-leader
+* Facilitated collaborative problem solving among students through live coding
+* Provided ongoing support and motivation
+* Mentored students
+
+Performance
+* Consistently received very positive comments and highest possible rating from student feedback
+-->
+
+For more detailed information, see my [LinkedIn profile](https://www.linkedin.com/in/katherinemichel/).
+
+### Memberships
+
+* [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
+* [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/) (Nominated and Confirmed)
+
+<hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
 
 ## Employment and Consulting
 
@@ -108,6 +143,8 @@ Roles
 ### Co-operative Financial Services and Britannia Building Society
 
 <hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 <!--
 ## Product
@@ -194,6 +231,8 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 
 <hr>
 
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
 ## Open Source Management and Community
 
 ### Developer Relations
@@ -222,6 +261,8 @@ Pinax and The Wharton School
 * In general, I've provided mentoring and support to any Pinax user who needs help
 
 <hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## Personal Projects and Blog Posts
 
@@ -263,18 +304,22 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 <hr>
 
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
 ## Public Speaking
 
 ### Stanford Code in Place- 2021 (Section Leader)
 
-Code in Place, offered online by Stanford University April-May 2021
-* Among a group of highly skilled teachers handpicked to be part of the Code in Place Teaching Team as Section Leaders
-* Received teaching training through Stanford Engineering
-* Led a group of ~10 students in completing a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A
-
 Activities
 * Created comprehensive recap slides for each section: https://github.com/KatherineMichel/stanford-code-in-place-section-leader
 * Facilitated collaborative problem solving among students through live coding
+
+Slides
+* [Section 1](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-1.pdf)
+* [Section 2](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-2.pdf)
+* [Section 3](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-3.pdf)
+* [Section 4](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-4.pdf)
+* [Section 5](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-5.pdf)
 
 <!--
 Write a blog post
@@ -337,12 +382,9 @@ https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pi
 
 <hr>
 
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
 ## Python and Django Community Leadership and Event Management
-
-### Memberships
-
-* [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
-* [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/) (Nominated and Confirmed)
 
 ### Django Events Foundation North America (DEFNA)
 
@@ -350,7 +392,7 @@ DEFNA is a non-profit tasked with managing DjangoCon US, the national Django con
 
 Positions Held
 * Director and Corporate Secretary, 2020
-* Director, 2017-2019
+* Director, 2017-present
 
 ### DjangoCon US
 
@@ -364,23 +406,11 @@ Positions Held
 
 <hr>
 
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
 ## Education
 
 ### Stanford Code in Place- 2021 (Section Leader)
-
-Code in Place, offered online by Stanford University April-May 2021
-* Among a group of highly skilled teachers handpicked to be part of the Code in Place Teaching Team as Section Leaders
-* Received teaching training through Stanford Engineering
-* Led a group of ~10 students in completing a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A
-
-Activities
-* Created comprehensive recap slides for each section: https://github.com/KatherineMichel/stanford-code-in-place-section-leader
-* Facilitated collaborative problem solving among students through live coding
-* Provided ongoing support and motivation
-* Mentored students
-
-Performance
-* Consistently received very positive comments and highest possible rating from student feedback
 
 <!--
 https://codeinplace.stanford.edu/teach/feedback/students
@@ -412,6 +442,8 @@ Blog Post
 
 <hr>
 
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
 ## A Little Bit About Me
 
 * Extroverted introvert
@@ -433,6 +465,8 @@ Personal interests
 * Art in the everyday
 
 <hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## Kudos
 
@@ -477,6 +511,8 @@ https://www.slideshare.net/pyconmy/the-programmers-mind-by-jessica-mckellar | Th
 -->
 
 <hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## Milestones
 
