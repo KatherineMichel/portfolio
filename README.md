@@ -10,36 +10,38 @@ Table of Contents
         - [Wharton School of Business](#wharton-school-of-business)
         - [Eldarion](#eldarion)
         - [Co-operative Financial Services and Britannia Building Society](#co-operative-financial-services-and-britannia-building-society)
-    - [Memberships](#memberships)
-- [Software Development](#software-development)
-    - [My Mentors](#my-mentors)
+    - [Stanford Code in Place- 2021 (Section Leader)](#stanford-code-in-place-2021-section-leader)
+    - [Python and Django Community Leadership and Event Management](#python-and-django-community-leadership-and-event-management)
+        - [Memberships](#memberships)
+        - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
+        - [DjangoCon US](#djangocon-us)
+- [Software Development, Open Source, and Community](#software-development-open-source-and-community)
     - [Software Release Planning](#software-release-planning)
     - [Pinax 20.XX Release](#pinax-20xx-release)
     - [Pinax 18.01 Release](#pinax-1801-release)
-- [Open Source Management and Community](#open-source-management-and-community)
+    - [DjangoCon US](#djangocon-us)
     - [Developer Relations](#developer-relations)
     - [Documentation](#documentation)
-    - [Mentoring](#mentoring)
 - [Personal Projects and Blog Posts](#personal-projects-and-blog-posts)
     - [Miscellaneous](#miscellaneous)
     - [Projects](#projects)
     - [Stanford Code in Place- 2020](#stanford-code-in-place-2020)
     - [Conference Blog Posts](#conference-blog-posts)
-    - [Blog Post Contributions](#blog-post-contributions)
+    - [Blog Post Contributions](#blog-post-contributions)     
 - [Public Speaking](#public-speaking)
-    - [Interviews](#interviews)
-    - [Lightning Talks](#lightning-talks)
+    - [Stanford Code in Place- 2021](#stanford-code-in-place-2021)
     - [Talks and Panels](#talks-and-panels)
     - [Talk and GitHub Classroom](#talk-and-github-classroom)
-    - [Talk Ideas](#talk-ideas)
+    - [Lightning Talks](#lightning-talks)
+    - [Interviews](#interviews)
+    - [Videos](#videos)
     - [Talk Proposals](#talk-proposals)
-- [Python and Django Community Leadership and Event Management](#python-and-django-community-leadership-and-event-management)
-    - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
-    - [DjangoCon US](#djangocon-us)
 - [Education](#education)
-    - [Stanford Code in Place- 2021 (Section Leader)](#stanford-code-in-place-2021-section-leader)
     - [Stanford Code in Place- 2020](#student-stanford-code-in-place-2020)
     - [Lancaster University Management School](#lancaster-university-management-school)
+- [Mentoring and Mentors](#mentoring-and-mentors)
+    - [My Mentors](#my-mentors)
+    - [My Mentees](#my-mentees)
 - [A Little Bit About Me](#a-little-bit-about-me)
 - [Kudos](#kudos)
     - [DjangoCon US Website](#djangocon-us-website)
@@ -74,7 +76,48 @@ A few accomplishments that I am especially proud of:
 
 ## Resume Summary
 
+For more detailed information, see my [LinkedIn profile](https://www.linkedin.com/in/katherinemichel/).
 
+### Employment and Consulting
+
+#### Wharton School of Business
+
+##### Simpl Game Simulation Framework (Wharton Learning Lab and Wharton Interactive)
+
+About [Simpl](https://simulations.wharton.upenn.edu/simpl/)
+* Mission-driven, disruptive tool with the potential to democratize access to game simulations
+* Built with Python/Django and React 
+* Incubated through Wharton's Alfred West Jr. Learning Lab
+
+Roles
+* Technical Advisor
+* Technical Writer
+* Expert in product, market analysis, open source, community development
+* Navigation of productization, marketing, launch
+* Working with Simpl Core Team to Docker-ize demo and game-making components, which will increase adoption
+* Documenting Docker instructions
+
+##### IdeaMachine (Wharton Interactive)
+
+About [IdeaMachine](https://interactive.wharton.upenn.edu/learning-platforms/ideamachine/)
+* Social Interaction and Peer to Peer Learning for the Classroom
+* Incubated through Wharton Interactive
+
+Roles
+* Researcher
+* Technical Writer
+
+#### Eldarion
+
+Roles
+* Pinax 21.05 Release: Lead Release Manager
+* Pinax 20.XX Release: Lead Release Manager
+* Pinax 18.01 Release: Mentored Release Manager/Contributor
+
+#### Co-operative Financial Services and Britannia Building Society
+
+
+### Stanford Code in Place- 2021 (Section Leader)
 
 <!--
 Code in Place, offered online by Stanford University April-May 2021
@@ -92,73 +135,35 @@ Performance
 * Consistently received very positive comments and highest possible rating from student feedback
 -->
 
-For more detailed information, see my [LinkedIn profile](https://www.linkedin.com/in/katherinemichel/).
 
-### Memberships
+### Python and Django Community Leadership and Event Management
+
+#### Memberships
 
 * [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
 * [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/) (Nominated and Confirmed)
 
-<hr>
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
-
-## Employment and Consulting
-
-### Wharton School of Business
-
-#### Simpl Game Simulation Framework (Wharton Learning Lab and Wharton Interactive)
-
-About [Simpl](https://simulations.wharton.upenn.edu/simpl/)
-* Mission-driven, disruptive tool with the potential to democratize access to game simulations
-* Built with Python/Django and React 
-* Incubated through Wharton's Alfred West Jr. Learning Lab
-
-Roles
-* Technical Advisor
-* Technical Writer
-* Expert in product, market analysis, open source, community development
-* Navigation of productization, marketing, launch
-* Working with Simpl Core Team to Docker-ize demo and game-making components, which will increase adoption
-* Documenting Docker instructions
-
-#### IdeaMachine (Wharton Interactive)
-
-About [IdeaMachine](https://interactive.wharton.upenn.edu/learning-platforms/ideamachine/)
-* Social Interaction and Peer to Peer Learning for the Classroom
-* Incubated through Wharton Interactive
-
-Roles
-* Researcher
-* Technical Writer
-
-### Eldarion
-
-Roles
-* Pinax 21.05 Release: Lead Release Manager
-* Pinax 20.XX Release: Lead Release Manager
-* Pinax 18.01 Release: Mentored Release Manager/Contributor
-
-### Co-operative Financial Services and Britannia Building Society
-
-<hr>
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+#### Django Events Foundation North America (DEFNA)
 
 <!--
-## Product
-
-### Analysis
+DEFNA is a non-profit tasked with managing DjangoCon US, the national Django conference, and regional and local Django events and outreach across all of North America, including Canada, the U.S., and Mexico. 
 -->
 
-### Software Development
+Positions Held
+* Corporate Secretary, 2020- present
+* Director, 2017- present
 
-### My Mentors
+#### DjangoCon US
 
-* Jeff Triplett, early Django Developer at The Lawrence Journal World, birthplace of Django
-* Graham Ullrich, Pinax Maintainer
-* Mfon Eti-mfon, Pinax Contributor and DSF Board member
+<!--
+DjangoCon US Website Chair/Maintainer
+-->
+
+<hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+### Software Development, Open Source, and Community
 
 ### Software Release Planning
 
@@ -229,11 +234,15 @@ Pinax 18.01 Release Overview (Completed in the spring of 2018; around 28 Pinax a
 * Updated setup.py format
 * Moved docs to README.mds and improved README.md layouts
 
-<hr>
+### DjangoCon US
 
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
-## Open Source Management and Community
+* [Website Chair and Technical Lead Description](https://github.com/KatherineMichel/portfolio/blob/master/djangocon-us-roles.md)
+* Website Co-Chair, Technical Lead, and Maintainer, 2019/[Website](https://2019.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2019.djangocon.us/)
+* Website Chair, Technical Lead, and Maintainer, 2018/[Website](https://2018.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2018.djangocon.us/)
+* Website Chair, Technical Lead, and Maintainer, 2017/[Website](https://2017.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2017.djangocon.us/)
+* [Website Contributing Guidance](https://github.com/djangocon/2017.djangocon.us/blob/master/README.md) Author, 2017
+* [Website CfP](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website/) Author, 2017
+* DjangoCon US 2017 Organizer and [Django Girls Event](https://djangogirls.org/spokane) Organizer
 
 ### Developer Relations
 
@@ -253,12 +262,6 @@ DEFNA
 <!--
 Pinax and The Wharton School
 -->
-
-### Mentoring
-
-* Mentored [Mfon Eti-mfon](https://twitter.com/mfonism), developer and Nigerian dev community advocate, to make a major contribution to Pinax 20.XX Release, particularly through the DevOps and other documentation that I created.
-* Mentored 12 year old [Codergirl.py](https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og) to make her first [open source contribution](https://github.com/pycascades/welcome-wagon-2018/pull/27).
-* In general, I've provided mentoring and support to any Pinax user who needs help
 
 <hr>
 
@@ -384,50 +387,7 @@ https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pi
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
-## Python and Django Community Leadership and Event Management
-
-### Django Events Foundation North America (DEFNA)
-
-DEFNA is a non-profit tasked with managing DjangoCon US, the national Django conference, and regional and local Django events and outreach across all of North America, including Canada, the U.S., and Mexico. 
-
-Positions Held
-* Director and Corporate Secretary, 2020
-* Director, 2017-present
-
-### DjangoCon US
-
-* [Website Chair and Technical Lead Description](https://github.com/KatherineMichel/portfolio/blob/master/djangocon-us-roles.md)
-* Website Co-Chair, Technical Lead, and Maintainer, 2019/[Website](https://2019.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2019.djangocon.us/)
-* Website Chair, Technical Lead, and Maintainer, 2018/[Website](https://2018.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2018.djangocon.us/)
-* Website Chair, Technical Lead, and Maintainer, 2017/[Website](https://2017.djangocon.us/) and [GitHub Repo](https://github.com/djangocon/2017.djangocon.us/)
-* [Website Contributing Guidance](https://github.com/djangocon/2017.djangocon.us/blob/master/README.md) Author, 2017
-* [Website CfP](https://www.defna.org/announcements/2017/10/10/call-for-proposals-for-djangocon-2018-website/) Author, 2017
-* DjangoCon US 2017 Organizer and [Django Girls Event](https://djangogirls.org/spokane) Organizer
-
-<hr>
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
 ## Education
-
-### Stanford Code in Place- 2021 (Section Leader)
-
-<!--
-https://codeinplace.stanford.edu/teach/feedback/students
-
-2 training sessions, live-coding, session prep
-https://twitter.com/LisaEinstein/status/1380600955159392261
-
-Congrats and Welcome- Stats
-https://edstem.org/us/courses/9999/discussion/351518
-https://edstem.org/us/courses/9999/discussion/393772
-
-Teaching info
-https://codeinplace.stanford.edu/teach | Teach with Code in Place
-
-Recruiting
-https://compedu.stanford.edu/codeinplace/handouts/Recruitment.pdf | Recruitment.pdf
--->
 
 ### Stanford Code in Place- 2020
 
@@ -439,6 +399,24 @@ Blog Post
 * [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 
 ### Lancaster University Management School
+
+<hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+## Mentoring and Mentors
+
+### My Mentors
+
+* Jeff Triplett, early Django Developer at The Lawrence Journal World, birthplace of Django
+* Graham Ullrich, Pinax Maintainer
+* Mfon Eti-mfon, Pinax Contributor and DSF Board member
+
+### My Mentees
+
+* Mentored [Mfon Eti-mfon](https://twitter.com/mfonism), developer and Nigerian dev community advocate, to make a major contribution to Pinax 20.XX Release, particularly through the DevOps and other documentation that I created.
+* Mentored 12 year old [Codergirl.py](https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og) to make her first [open source contribution](https://github.com/pycascades/welcome-wagon-2018/pull/27).
+* In general, I've provided mentoring and support to any Pinax user who needs help
 
 <hr>
 
