@@ -4,7 +4,6 @@ Table of Contents
 -----------------
 
 - [Testimonials](#testimonials)
-- [A Little Bit About Me](#a-little-bit-about-me)
 - [Special Accomplishments](#special-accomplishments)
 - [Employment and Consulting](#employment-and-consulting)
     - [Wharton School of Business](#wharton-school-of-business)
@@ -22,7 +21,7 @@ Table of Contents
 - [Personal Projects and Blog Posts](#personal-projects-and-blog-posts)
     - [Miscellaneous](#miscellaneous)
     - [Projects](#projects)
-    - [Stanford Code in Place](#stanford-code-in-place)
+    - [Stanford Code in Place- 2020](#stanford-code-in-place-2020)
     - [Conference Blog Posts](#conference-blog-posts)
     - [Blog Post Contributions](#blog-post-contributions)
 - [Public Speaking](#public-speaking)
@@ -37,9 +36,10 @@ Table of Contents
     - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
     - [DjangoCon US](#djangocon-us)
 - [Education](#education)
-    - [Section Leader, Stanford Code in Place, 2021](#section-leader-stanford-code-in-place-2021)
-    - [Student, Stanford Code in Place, 2020](#student-stanford-code-in-place-2020)
+    - [Stanford Code in Place- 2021 (Section Leader)](#stanford-code-in-place-2021-section-leader)
+    - [Stanford Code in Place- 2020 (Student)](#student-stanford-code-in-place-2020-student)
     - [Lancaster University Management School](#lancaster-university-management-school)
+- [A Little Bit About Me](#a-little-bit-about-me)
 - [Kudos](#kudos)
     - [DjangoCon US Website](#djangocon-us-website)
     - [DjangoCon US Conference](#djangocon-us-conference)
@@ -58,34 +58,12 @@ Table of Contents
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
-## A Little Bit About Me
-
-* Extroverted introvert
-* Aspiring to world class execution
-* High skilled
-* Conceptual thinker
-* Creative
-* Precise
-* A wordsmith
-* Interested in continual improvement, not perfection
-* Kind and empathetic
-* Strong willed
-
-Personal interests
-* Music
-* Travel
-* Simple pleasures
-* Enjoying the moment
-* Art in the everyday
-
-<hr>
-
 ## Special Accomplishments
 
 A few accomplishments that I am especially proud of:
-* Helping to document, productize, and launch Wharton Business School's mission-driven Simpl game simulation framework
 * Becoming a DjangoCon US Website Maintainer and Pinax Release Manager
-* Participating in Stanford Code in Place as a section leader in 2021 and as a student in 2020
+* As Stanford Code in Place 2021 Section Leader, teaching Python to a group of students through presentations, live-coding, and mentoring
+* Helping to document, productize, and launch Wharton Business School's mission-driven Simpl game simulation framework
 * Representing DEFNA at PyCon Charlas and helping to establish some of the initial Django outreach in Mexico
 * Based on my own learning, mentoring Python and Django community members to reach new levels of achievements
 
@@ -143,6 +121,7 @@ Roles
 
 * Jeff Triplett, early Django Developer at The Lawrence Journal World, birthplace of Django
 * Graham Ullrich, Pinax Maintainer
+* Mfon Eti-mfon, Pinax Contributor and DSF Board member
 
 ### Software Release Planning
 
@@ -262,7 +241,7 @@ Tutorial/template, demo
 https://github.com/KatherineMichel/til-100-days-of-code-version-template
 -->
 
-### Stanford Code in Place
+### Stanford Code in Place- 2020
 
 * [Reflections on Stanford Code in Place Blog Post](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 * [Simba Friends Twitter Bot Project GitHub Repo](https://github.com/KatherineMichel/stanford-code-in-place-final-project) and [Twitter](https://twitter.com/SimbaFriendsBot)
@@ -282,19 +261,16 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 ## Public Speaking
 
-### Videos
+### Stanford Code in Place- 2021
 
-* Coming soon :)
+Code in Place, offered online by Stanford University April-May 2021
+* Among a group of highly skilled teachers handpicked to be part of the Code in Place Teaching Team as Section Leaders
+* Received teaching training through Stanford Engineering
+* Led a group of ~10 students in completing a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A
 
-### Interviews
-
-2020-2021
-* [DEFNA Interview with Katia and Josie](https://www.youtube.com/watch?v=uzBx-w4BNdw)
-
-### Lightning Talks
-
-2021
-* DevICT [Lunch Lightning Talks](https://www.meetup.com/devict/events/275303517/) "[Pinax Lessons Learned](https://github.com/KatherineMichel/pinax-lessons-learned-devict)"
+Activities
+* Created comprehensive recap slides for each section: https://github.com/KatherineMichel/stanford-code-in-place-section-leader
+* Facilitated collaborative problem solving among students through live coding
 
 ### Talks and Panels
 
@@ -324,6 +300,20 @@ https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pi
 ### Talk and GitHub Classroom
 
 * PyLadies Remote 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-remote)"/[Replay](https://youtu.be/eBTLPYbVvQY)
+
+### Lightning Talks
+
+2021
+* DevICT [Lunch Lightning Talks](https://www.meetup.com/devict/events/275303517/) "[Pinax Lessons Learned](https://github.com/KatherineMichel/pinax-lessons-learned-devict)"
+
+### Interviews
+
+2020-2021
+* [DEFNA Interview with Katia and Josie](https://www.youtube.com/watch?v=uzBx-w4BNdw)
+
+### Videos
+
+* Coming soon :)
 
 ### Talk Proposals
 
@@ -368,16 +358,20 @@ Positions Held
 
 ## Education
 
-### Section Leader, Stanford Code in Place, 2021
+### Stanford Code in Place- 2021
 
 Code in Place, offered online by Stanford University April-May 2021
 * Among a group of highly skilled teachers handpicked to be part of the Code in Place Teaching Team as Section Leaders
 * Received teaching training through Stanford Engineering
 * Led a group of ~10 students in completing a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A
-* Created comprehensive recap slides for each section
+
+Activities
+* Created comprehensive recap slides for each section: https://github.com/KatherineMichel/stanford-code-in-place-section-leader
+* Facilitated collaborative problem solving among students through live coding
 * Provided ongoing support and motivation
 * Mentored students
-* Facilitated collaborative problem solving among students through live coding
+
+Performance
 * Consistently received very positive comments and highest possible rating from student feedback
 
 <!--
@@ -397,7 +391,7 @@ Recruiting
 https://compedu.stanford.edu/codeinplace/handouts/Recruitment.pdf | Recruitment.pdf
 -->
 
-### Student, Stanford Code in Place, 2020
+### Stanford Code in Place- 2020
 
 Code in Place, offered online by Stanford University April-May 2020
 * Completed a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A.
@@ -407,6 +401,28 @@ Blog Post
 * [Reflections on Stanford Code in Place](regular-blog-posts/reflections-on-stanford-code-in-place.md)
 
 ### Lancaster University Management School
+
+<hr>
+
+## A Little Bit About Me
+
+* Extroverted introvert
+* Aspiring to world class execution
+* High skilled
+* Conceptual thinker
+* Creative
+* Precise
+* A wordsmith
+* Interested in continual improvement, not perfection
+* Kind and empathetic
+* Strong willed
+
+Personal interests
+* Music
+* Travel
+* Simple pleasures
+* Enjoying the moment
+* Art in the everyday
 
 <hr>
 
