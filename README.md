@@ -37,7 +37,7 @@ Table of Contents
     - [DjangoCon US](#djangocon-us)
 - [Education](#education)
     - [Stanford Code in Place- 2021 (Section Leader)](#stanford-code-in-place-2021-section-leader)
-    - [Stanford Code in Place- 2020 (Student)](#student-stanford-code-in-place-2020-student)
+    - [Stanford Code in Place- 2020](#student-stanford-code-in-place-2020)
     - [Lancaster University Management School](#lancaster-university-management-school)
 - [A Little Bit About Me](#a-little-bit-about-me)
 - [Kudos](#kudos)
@@ -211,6 +211,10 @@ DEFNA
 * Authored DjangoCon US [Contributing documentation](https://github.com/djangocon/2020.djangocon.us/blob/master/README.md) (originally, in 2016)
 * Created [Setting Up an Open Source Project](https://github.com/KatherineMichel/setting-up-an-open-source-project) (mostly valid, but not updated recently)
 
+<!--
+Pinax and The Wharton School
+-->
+
 ### Mentoring
 
 * Mentored [Mfon Eti-mfon](https://twitter.com/mfonism), developer and Nigerian dev community advocate, to make a major contribution to Pinax 20.XX Release, particularly through the DevOps and other documentation that I created.
@@ -261,7 +265,7 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 ## Public Speaking
 
-### Stanford Code in Place- 2021
+### Stanford Code in Place- 2021 (Section Leader)
 
 Code in Place, offered online by Stanford University April-May 2021
 * Among a group of highly skilled teachers handpicked to be part of the Code in Place Teaching Team as Section Leaders
@@ -271,6 +275,10 @@ Code in Place, offered online by Stanford University April-May 2021
 Activities
 * Created comprehensive recap slides for each section: https://github.com/KatherineMichel/stanford-code-in-place-section-leader
 * Facilitated collaborative problem solving among students through live coding
+
+<!--
+Write a blog post
+-->
 
 ### Talks and Panels
 
@@ -358,7 +366,7 @@ Positions Held
 
 ## Education
 
-### Stanford Code in Place- 2021
+### Stanford Code in Place- 2021 (Section Leader)
 
 Code in Place, offered online by Stanford University April-May 2021
 * Among a group of highly skilled teachers handpicked to be part of the Code in Place Teaching Team as Section Leaders
