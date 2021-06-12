@@ -344,7 +344,7 @@ https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pi
 
 2020
 * PyLadies Southwest Florida, PyLadies Miami, SWFL Coders, SWFL Data, and FGCU SEC Meetup (Hacktoberfest) 2020 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida-talk)"/[Replay](https://www.youtube.com/watch?v=jTc2MRg3f0I)
-* PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/) (Accepted but not given, due to event having been cancelled) "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
+* PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/) (Accepted but not given, due to event having been cancelled) "[Bringing Pinax Back to Life](talk-proposals/2020-pycon-us-maintainers-summit.md)"
 
 2018
 * DjangoCon US 2018 "[State of Django" Panel](https://2018.djangocon.us/talk/state-of-django-panel/)"/[Replay](https://www.youtube.com/watch?v=TrAFQW7Wza0), representing DEFNA
