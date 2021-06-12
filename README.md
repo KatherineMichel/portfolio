@@ -331,8 +331,8 @@ Write a blog post
 ### Talks and Panels
 
 2021
-* PyCon US 2021 [Maintainers Summit](https://us.pycon.org/2021/summits/maintainers/) "[Bringing Pinax Back to Life](https://github.com/KatherineMichel/bringing-pinax-back-to-life-pycon-us-maintainers-summit)"/[Replay](https://youtu.be/KfPukNq7lVI)
-* [FOSDEM Python Devroom](https://fosdem.org/2021/schedule/track/python/) "[Bringing Pinax Back to Life](https://github.com/KatherineMichel/bringing-pinax-back-to-life-fosdem)"/[Replay](http://bofh.nikhef.nl/events/FOSDEM/2021/D.python/python_pinax.webm) (Stats: FOSDEM is the biggest Free and Open Source software conference in the world, with more than 8000 attendees)
+* PyCon US 2021 [Maintainers Summit](https://us.pycon.org/2021/summits/maintainers/) "[Bringing Pinax Back to Life](https://github.com/KatherineMichel/bringing-pinax-back-to-life-pycon-us-maintainers-summit-talk)"/[Replay](https://youtu.be/KfPukNq7lVI)
+* [FOSDEM Python Devroom](https://fosdem.org/2021/schedule/track/python/) "[Bringing Pinax Back to Life](https://github.com/KatherineMichel/bringing-pinax-back-to-life-fosdem-talk)"/[Replay](http://bofh.nikhef.nl/events/FOSDEM/2021/D.python/python_pinax.webm) (Stats: FOSDEM is the biggest Free and Open Source software conference in the world, with more than 8000 attendees)
 
 <!--
 PyCon Stats
@@ -343,19 +343,19 @@ https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pi
 -->
 
 2020
-* PyLadies Southwest Florida, PyLadies Miami, SWFL Coders, SWFL Data, and FGCU SEC Meetup (Hacktoberfest) 2020 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida)"/[Replay](https://www.youtube.com/watch?v=jTc2MRg3f0I)
+* PyLadies Southwest Florida, PyLadies Miami, SWFL Coders, SWFL Data, and FGCU SEC Meetup (Hacktoberfest) 2020 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida-talk)"/[Replay](https://www.youtube.com/watch?v=jTc2MRg3f0I)
 * PyCon US 2020 [Maintainers Summit](https://us.pycon.org/2020/hatchery/maintainers/) (Accepted but not given, due to event having been cancelled) "[Bringing Pinax Back to Life](talk-proposals/pycon-us-2020-maintainers-summit.md)"
 
 2018
 * DjangoCon US 2018 "[State of Django" Panel](https://2018.djangocon.us/talk/state-of-django-panel/)"/[Replay](https://www.youtube.com/watch?v=TrAFQW7Wza0), representing DEFNA
 
 2017
-* DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-djangocon-2017)"/[Replay](https://youtu.be/KCKPbsi88IU)
-* devICT Presents Meetup (Hacktoberfest) 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-gitHub-devict-hacktoberfest)"/[Replay](https://youtu.be/qKQddTEHcXs)
+* DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-djangocon-2017-talk)"/[Replay](https://youtu.be/KCKPbsi88IU)
+* devICT Presents Meetup (Hacktoberfest) 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-gitHub-devict-hacktoberfest-talk)"/[Replay](https://youtu.be/qKQddTEHcXs)
 
 ### Talk and GitHub Classroom
 
-* PyLadies Remote 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-remote)"/[Replay](https://youtu.be/eBTLPYbVvQY)
+* PyLadies Remote 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-remote-talk)"/[Replay](https://youtu.be/eBTLPYbVvQY)
 
 ### Lightning Talks
 
