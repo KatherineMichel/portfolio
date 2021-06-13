@@ -5,16 +5,12 @@ Table of Contents
 
 - [Testimonials](#testimonials)
 - [A Few Favorite Accomplishments](#a-few-favorite-accomplishments)
-- [Resume Summary](#resume-summary)
-    - [Employment and Consulting](#employment-and-consulting)
-        - [Wharton School of Business](#wharton-school-of-business)
-        - [Eldarion](#eldarion)
-        - [Co-operative Financial Services and Britannia Building Society](#co-operative-financial-services-and-britannia-building-society)
-    - [Stanford Code in Place- 2021 (Section Leader)](#stanford-code-in-place-2021-section-leader)
-    - [Python and Django Community Leadership and Event Management](#python-and-django-community-leadership-and-event-management)
-        - [Memberships](#memberships)
-        - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
-        - [DjangoCon US](#djangocon-us)
+- [A Little Bit About Me](#a-little-bit-about-me)
+- [Resume and Contact Info](#resume-and-contact-info)
+- [Employment and Consulting](#employment-and-consulting)
+    - [Wharton School of Business](#wharton-school-of-business)
+    - [Eldarion](#eldarion)
+    - [Co-operative Financial Services and Britannia Building Society](#co-operative-financial-services-and-britannia-building-society)        
 - [Software Development, Open Source, and Community](#software-development-open-source-and-community)
     - [Software Release Planning](#software-release-planning)
     - [Pinax 20.XX Release](#pinax-20xx-release)
@@ -36,13 +32,17 @@ Table of Contents
     - [Interviews](#interviews)
     - [Videos](#videos)
     - [Talk Proposals](#talk-proposals)
+- [Python and Django Community Leadership and Event Management](#python-and-django-community-leadership-and-event-management)
+    - [Memberships](#memberships)
+    - [Django Events Foundation North America (DEFNA)](#django-events-foundation-north-america-defna)
+    - [DjangoCon US](#djangocon-us)
 - [Education](#education)
+    - [Stanford Code in Place- 2021 (Section Leader)](#stanford-code-in-place-2021-section-leader)
     - [Stanford Code in Place- 2020](#student-stanford-code-in-place-2020)
-    - [Lancaster University Management School](#lancaster-university-management-school)
+    - [Lancaster University Management School](#lancaster-university-management-school)        
 - [Mentoring and Mentors](#mentoring-and-mentors)
     - [My Mentors](#my-mentors)
     - [My Mentees](#my-mentees)
-- [A Little Bit About Me](#a-little-bit-about-me)
 - [Kudos](#kudos)
     - [DjangoCon US Website](#djangocon-us-website)
     - [DjangoCon US Conference](#djangocon-us-conference)
@@ -74,15 +74,39 @@ A few accomplishments that I am especially proud of:
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
-## Resume Summary
+## A Little Bit About Me
+
+* Extroverted introvert
+* Aspiring to world class execution
+* High skilled
+* Conceptual thinker
+* Creative
+* Precise
+* A wordsmith
+* Interested in continual improvement, not perfection
+* Kind and empathetic
+* Strong willed
+
+Personal interests
+* Music
+* Travel
+* Simple pleasures
+* Enjoying the moment
+* Art in the everyday
+
+<hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+## Resume and Contact Info
 
 For more detailed information, see my [LinkedIn profile](https://www.linkedin.com/in/katherinemichel/).
 
-### Employment and Consulting
+## Employment and Consulting
 
-#### Wharton School of Business
+### Wharton School of Business
 
-##### Simpl Game Simulation Framework (Wharton Learning Lab and Wharton Interactive)
+#### Simpl Game Simulation Framework (Wharton Learning Lab and Wharton Interactive)
 
 About [Simpl](https://simulations.wharton.upenn.edu/simpl/)
 * Mission-driven, disruptive tool with the potential to democratize access to game simulations
@@ -97,7 +121,7 @@ Roles
 * Working with Simpl Core Team to Docker-ize demo and game-making components, which will increase adoption
 * Documenting Docker instructions
 
-##### IdeaMachine (Wharton Interactive)
+#### IdeaMachine (Wharton Interactive)
 
 About [IdeaMachine](https://interactive.wharton.upenn.edu/learning-platforms/ideamachine/)
 * Social Interaction and Peer to Peer Learning for the Classroom
@@ -107,63 +131,16 @@ Roles
 * Researcher
 * Technical Writer
 
-#### Eldarion
+### Eldarion
 
 Roles
 * Pinax 21.05 Release: Lead Release Manager
 * Pinax 20.XX Release: Lead Release Manager
 * Pinax 18.01 Release: Mentored Release Manager/Contributor
 
-#### Co-operative Financial Services and Britannia Building Society
+### Co-operative Financial Services and Britannia Building Society
 
-
-### Stanford Code in Place- 2021 (Section Leader)
-
-<!--
-Code in Place, offered online by Stanford University April-May 2021
-* Among a group of highly skilled teachers handpicked to be part of the Code in Place Teaching Team as Section Leaders
-* Received teaching training through Stanford Engineering
-* Led a group of ~10 students in completing a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A
-
-Activities
-* Created comprehensive recap slides for each section: https://github.com/KatherineMichel/stanford-code-in-place-section-leader
-* Facilitated collaborative problem solving among students through live coding
-* Provided ongoing support and motivation
-* Mentored students
-
-Performance
-* Consistently received very positive comments and highest possible rating from student feedback
--->
-
-
-### Python and Django Community Leadership and Event Management
-
-#### Memberships
-
-* [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
-* [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/) (Nominated and Confirmed)
-
-#### Django Events Foundation North America (DEFNA)
-
-<!--
-DEFNA is a non-profit tasked with managing DjangoCon US, the national Django conference, and regional and local Django events and outreach across all of North America, including Canada, the U.S., and Mexico. 
--->
-
-Positions Held
-* Corporate Secretary, 2020- present
-* Director, 2017- present
-
-#### DjangoCon US
-
-<!--
-DjangoCon US Website Chair/Maintainer
--->
-
-<hr>
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
-### Software Development, Open Source, and Community
+## Software Development, Open Source, and Community
 
 ### Software Release Planning
 
@@ -388,7 +365,50 @@ https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pi
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
+## Python and Django Community Leadership and Event Management
+
+### Memberships
+
+* [Python Software Foundation (PSF) Contributing Member](https://www.python.org/psf/membership/)
+* [Django Software Foundation (DSF) Individual Member](https://www.djangoproject.com/foundation/individual-members/) (Nominated and Confirmed)
+
+### Django Events Foundation North America (DEFNA)
+
+<!--
+DEFNA is a non-profit tasked with managing DjangoCon US, the national Django conference, and regional and local Django events and outreach across all of North America, including Canada, the U.S., and Mexico. 
+-->
+
+Positions Held
+* Corporate Secretary, 2020- present
+* Director, 2017- present
+
+### DjangoCon US
+
+<!--
+DjangoCon US Website Chair/Maintainer
+-->
+
+<hr>
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
 ## Education
+
+### Stanford Code in Place- 2021 (Section Leader)
+
+Code in Place, offered online by Stanford University April-May 2021
+* Among a group of highly skilled teachers handpicked to be part of the Code in Place Teaching Team as Section Leaders
+* Received teaching training through Stanford Engineering
+* Led a group of ~10 students in completing a 5-week introductory online Python programming course based on material from the first half of Stanford’s introductory programming course, CS106A
+
+Activities
+* Created comprehensive recap slides for each section: https://github.com/KatherineMichel/stanford-code-in-place-section-leader
+* Facilitated collaborative problem solving among students through live coding
+* Provided ongoing support and motivation
+* Mentored students
+
+Performance
+* Consistently received very positive comments and highest possible rating from student feedback
 
 ### Stanford Code in Place- 2020
 
@@ -418,30 +438,6 @@ Blog Post
 * Mentored [Mfon Eti-mfon](https://twitter.com/mfonism), developer and Nigerian dev community advocate, to make a major contribution to Pinax 20.XX Release, particularly through the DevOps and other documentation that I created.
 * Mentored 12 year old [Codergirl.py](https://www.youtube.com/channel/UC4JR8GnLh-JUKIrrPES28Og) to make her first [open source contribution](https://github.com/pycascades/welcome-wagon-2018/pull/27).
 * In general, I've provided mentoring and support to any Pinax user who needs help
-
-<hr>
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
-## A Little Bit About Me
-
-* Extroverted introvert
-* Aspiring to world class execution
-* High skilled
-* Conceptual thinker
-* Creative
-* Precise
-* A wordsmith
-* Interested in continual improvement, not perfection
-* Kind and empathetic
-* Strong willed
-
-Personal interests
-* Music
-* Travel
-* Simple pleasures
-* Enjoying the moment
-* Art in the everyday
 
 <hr>
 
