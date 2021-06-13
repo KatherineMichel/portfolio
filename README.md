@@ -38,7 +38,7 @@ Table of Contents
     - [DjangoCon US](#djangocon-us)
 - [Education](#education)
     - [Stanford Code in Place- 2021 (Section Leader)](#stanford-code-in-place-2021-section-leader)
-    - [Stanford Code in Place- 2020](#student-stanford-code-in-place-2020)
+    - [Stanford Code in Place- 2020](#stanford-code-in-place--2020-1)
     - [Lancaster University Management School](#lancaster-university-management-school)        
 - [Mentoring and Mentors](#mentoring-and-mentors)
     - [My Mentors](#my-mentors)
