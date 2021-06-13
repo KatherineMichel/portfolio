@@ -25,7 +25,7 @@ Table of Contents
     - [Conference Blog Posts](#conference-blog-posts)
     - [Blog Post Contributions](#blog-post-contributions)     
 - [Public Speaking](#public-speaking)
-    - [Stanford Code in Place- 2021](#stanford-code-in-place--2021)
+    - [Stanford Code in Place- 2021 (Section Leader)](#stanford-code-in-place--2021-section-leader)
     - [Talks and Panels](#talks-and-panels)
     - [Talk and GitHub Classroom](#talk-and-github-classroom)
     - [Lightning Talks](#lightning-talks)
