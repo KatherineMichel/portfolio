@@ -295,11 +295,11 @@ Activities
 * Facilitated collaborative problem solving among students through live coding
 
 Slides
-* [Section 1](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-1.pdf)
-* [Section 2](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-2.pdf)
-* [Section 3](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-3.pdf)
-* [Section 4](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-4.pdf)
-* [Section 5](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-5.pdf)
+* [Section 1 Google Drive](https://docs.google.com/presentation/d/1SopOGi7yq_KO6J3OcSLR6tVTY3sj9bl2Rysdz8mSiG8/edit?usp=sharing) and [PDF](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-1.pdf)
+* [Section 2 Google Drive](https://docs.google.com/presentation/d/1m9bJjCXw0hfQP3IhATgV4LD9NchMd3lEKiy9qgk_TRQ/edit?usp=sharing) and [PDF](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-2.pdf)
+* [Section 3 Google Drive](https://docs.google.com/presentation/d/1xKYSnNtoDR0lQ_JFwEXxaichiYZ6CXzmzQvVMZeo27Q/edit?usp=sharing) and [PDF](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-3.pdf)
+* [Section 4 Google Drive](https://docs.google.com/presentation/d/1lTY9vrPXTK-X8vrTzi5m7YaJMmdIKOQXlasuhC74UAA/edit?usp=sharing) and [PDF](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-4.pdf)
+* [Section 5 Google Drive](https://docs.google.com/presentation/d/1BOGBQxL2ciGfxfIHR2frcx7qEDIvipW_qfVUbrSn1lU/edit?usp=sharing) and [PDF](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-5.pdf)
 
 <!--
 Write a blog post
