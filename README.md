@@ -288,6 +288,10 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 ## Public Speaking
 
+### Twitter DevRel
+
+* Invited by Twitter DevRel to produce a series of video tutorials and livestream sessions about my Twitter Art Bot and Art Gallery created as part of Stanford Code in Place
+
 ### Stanford Code in Place- 2021 (Section Leader)
 
 Activities
@@ -301,10 +305,6 @@ Slides
 * [Section 4 Google Drive](https://docs.google.com/presentation/d/1lTY9vrPXTK-X8vrTzi5m7YaJMmdIKOQXlasuhC74UAA/edit?usp=sharing) and [PDF](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-4.pdf)
 * [Section 5 Google Drive](https://docs.google.com/presentation/d/1BOGBQxL2ciGfxfIHR2frcx7qEDIvipW_qfVUbrSn1lU/edit?usp=sharing) and [PDF](https://github.com/KatherineMichel/stanford-code-in-place-section-leader/blob/main/section-5.pdf)
 
-<!--
-Write a blog post
--->
-
 ### Talks and Panels
 
 2021
@@ -314,8 +314,6 @@ Write a blog post
 
 <!--
 PyCon Stats
-
-https://us.pycon.org/2021/summits/maintainers/
 
 https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pinax Back to Life
 -->
