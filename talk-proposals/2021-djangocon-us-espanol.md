@@ -1,5 +1,9 @@
 Spanish Version of "Maintaining Demystified" (see English version for additional submission info)
 
+CfP Info: https://www.papercall.io/djangocon-us-2021
+
+Submitted to DjangoCon US 2021, July 26, 2021 00:50 CDT
+
 Title: Manteniendo Desmitificado
 
 Muchas Djangonauts suddenamente tienen un necessidad que mantener un proyecto. Voy a usar mis años de experiencia como mantenedora professional del open source code que enseñar ustedes el processo y prácticas mejor de ser un mantendero. ¡Manteniendo es una mejora en conocimiento y divertida también!
