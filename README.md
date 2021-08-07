@@ -349,6 +349,8 @@ https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pi
 
 ### Talk Proposals
 
+* DjangoCon US 2021 "[Manteniendo Desmitificado](talk-proposals/2021-djangocon-us-espanol.md)"
+* DjangoCon US 2021 "[Maintaining Demystified](talk-proposals/2021-djangocon-us-english.md)"
 * GitHub 2021 [Global Maintainer Summit](https://globalmaintainersummit.github.com/) "[Bringing Pinax Back to Life](talk-proposals/2021-github-global-maintainer-summit.md)"
 * PyCon US 2021 [Maintainers Summit](https://us.pycon.org/2021/summits/maintainers/) "[Bringing Pinax Back to Life](talk-proposals/2021-pycon-us-maintainers-summit.md)"
 * FOSDEM 2021 "[Bringing Pinax Back to Life](talk-proposals/2021-fosdem.md)"
