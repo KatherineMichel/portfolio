@@ -1,5 +1,9 @@
 Title: Maintaining Demystified
 
+CfP Info: https://www.papercall.io/djangocon-us-2021
+
+Submitted to DjangoCon US 2021, July 25, 2021 23:46 CDT
+
 Elevator Pitch
 You have 300 characters to sell your talk. This is known as the "elevator pitch". Make it as exciting and enticing as possible.
 
