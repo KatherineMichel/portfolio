@@ -292,6 +292,22 @@ https://github.com/KatherineMichel/til-100-days-of-code-version-template
 
 * Invited by Twitter DevRel to produce a series of video tutorials and livestream sessions about my Twitter Art Bot and Art Gallery created as part of Stanford Code in Place
 
+<!--
+Twitter API Expert/MVP
+
+In-person speaking events (local, regional, conferences, community meetups)
+Virtual speaking events
+Live coding shows
+Judging Hackathons
+Blogging
+Beta Testing
+Giving Feedback
+Answering Questions on Forums
+Interviews
+Mentorships
+Office Hours
+-->
+
 ### Stanford Code in Place- 2021 (Section Leader)
 
 Activities
