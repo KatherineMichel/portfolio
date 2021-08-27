@@ -313,6 +313,11 @@ Slides
 * [FOSDEM Python Devroom](https://fosdem.org/2021/schedule/track/python/) "[Bringing Pinax Back to Life](https://github.com/KatherineMichel/bringing-pinax-back-to-life-fosdem-talk)"/[Replay](http://bofh.nikhef.nl/events/FOSDEM/2021/D.python/python_pinax.webm) (Stats: FOSDEM is the biggest Free and Open Source software conference in the world, with more than 8000 attendees)
 
 <!--
+* DjangoCon US 2021 "[Manteniendo Desmitificado]()"
+https://github.com/KatherineMichel/maintaining-demystified-djangocon-us-2021
+* DjangoCon US 2021 "[Maintaining Demystified]()"
+https://github.com/KatherineMichel/manteniendo-desmitificado-djangocon-us-2021
+
 PyCon Stats
 
 https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pinax Back to Life
