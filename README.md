@@ -326,7 +326,7 @@ https://fosdem.org/2021/schedule/event/python_pinax/ | FOSDEM 2021 - Bringing Pi
 * DjangoCon US 2018 "[State of Django" Panel](https://2018.djangocon.us/talk/state-of-django-panel/)"/[Replay](https://www.youtube.com/watch?v=TrAFQW7Wza0), representing DEFNA
 
 2017
-* DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-djangocon-2017-talk)"/[Replay](https://youtu.be/KCKPbsi88IU)
+* DjangoCon US 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-djangocon-us-2017-talk)"/[Replay](https://youtu.be/KCKPbsi88IU)
 * devICT Presents Meetup (Hacktoberfest) 2017 "[Get a Jumpstart on Collaboration and Code Review in GitHub](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-gitHub-devict-hacktoberfest-talk)"/[Replay](https://youtu.be/qKQddTEHcXs)
 
 ### Talk and GitHub Classroom
