@@ -324,15 +324,18 @@ Slides
 ### Talks and Panels
 
 2021
+* DjangoCon US 2021 "Desmitificando el Mantenimiento"
+* DjangoCon US 2021 "Maintaining Demystified"
 * GitHub Talk "[Journey to Maintainer](https://github.com/KatherineMichel/journey-to-maintainer-github-talk)"
 * PyCon US 2021 [Maintainers Summit](https://us.pycon.org/2021/summits/maintainers/) "[Bringing Pinax Back to Life](https://github.com/KatherineMichel/bringing-pinax-back-to-life-pycon-us-maintainers-summit-talk)"/[Replay](https://youtu.be/KfPukNq7lVI)
 * [FOSDEM Python Devroom](https://fosdem.org/2021/schedule/track/python/) "[Bringing Pinax Back to Life](https://github.com/KatherineMichel/bringing-pinax-back-to-life-fosdem-talk)"/[Replay](http://bofh.nikhef.nl/events/FOSDEM/2021/D.python/python_pinax.webm) (Stats: FOSDEM is the biggest Free and Open Source software conference in the world, with more than 8000 attendees)
 
 <!--
-* DjangoCon US 2021 "[Manteniendo Desmitificado]()"
-https://github.com/KatherineMichel/maintaining-demystified-djangocon-us-2021
+Make Public
+* DjangoCon US 2021 "[Desmitificando el Mantenimiento]()"
+https://github.com/KatherineMichel/desmitificando-el-mantenimiento-djangocon-us-2021-talk
 * DjangoCon US 2021 "[Maintaining Demystified]()"
-https://github.com/KatherineMichel/manteniendo-desmitificado-djangocon-us-2021
+https://github.com/KatherineMichel/maintaining-demystified-djangocon-us-2021-talk
 
 PyCon Stats
 
