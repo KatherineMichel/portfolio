@@ -102,6 +102,22 @@ Personal interests
 
 For more detailed information, see my [LinkedIn profile](https://www.linkedin.com/in/katherinemichel/).
 
+<!--
+Job Posting
+https://jobs.lever.co/octoenergy/46e388d7-71a5-41d6-ad34-03b7577f816e | Octopus Energy - Backend Developer
+
+Wharton
+https://interactive.wharton.upenn.edu/
+https://interactive.wharton.upenn.edu/experiences/ | Learning Experiences | Wharton Interactive
+https://github.com/janeeisenstein | janeeisenstein (Jane Eisenstein)
+
+Partners
+https://haas.berkeley.edu/
+
+Stanford
+http://robotics.stanford.edu/~sahami/bio.html
+-->
+
 ## Employment and Consulting
 
 ### Wharton School of Business
