@@ -10,6 +10,14 @@ Pinax includes a group of Django projects called [Pinax Starter Projects](https:
 
 This tutorial will focus on app release. 
 
+## Required Setup
+
+In order to test code locally and make the updates required for the release, you will need to be able to access every version of Python used in the release. The Pinax way of doing this is to install [pyenv](https://github.com/pyenv/pyenv) on a MacBook. This will enable you to install multiple versions of Python on your computer and make them globally available using the command: 
+
+```bash
+$ pyenv global 3.10.0 3.9.0 3.8.0 3.7.0
+```
+
 ## Release Plan
 
 I create a release plan for each release. This serves several purposes. 
@@ -22,13 +30,13 @@ Here is the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/P
 
 ## Why Do a New Release? 
 
-Pinax is based on the [Django](https://www.djangoproject.com/) framework, which is based on the [Python](https://www.python.org/) programming language. Like other software, Python and Django evolve over time. Features are added, bugs are fixed, and security flaws are patched. New releases of Python and Django are then published. By incorporporating new versions of Python and Django into Pinax, Pinax can benefit from these new features, bug fixes, and security patches. This is done through a release. Pinax releases can include new features, bug fixes, and security patches as well. 
+Pinax is based on the [Django](https://www.djangoproject.com/) framework, which is based on the [Python](https://www.python.org/) programming language. Like other software, Python and Django evolve over time. Features are added, bugs are fixed, and security flaws are patched. New releases of Python and Django are then published. By incorporporating new versions of Python and Django into Pinax, Pinax can benefit from these new features, bug fixes, and security patches. This is done through a release. Pinax releases can also include new features, bug fixes, and security patches. 
 
 ## Knowing Which Versions of Python and Django to Include
 
-In order to determine which Python and Django versions to incorporate into the release, check out the [Python downloads](https://www.python.org/downloads/) page, [Django downloads](https://www.djangoproject.com/download/) page, and [What Python version can I use with Django?](https://docs.djangoproject.com/en/4.1/faq/install/#what-python-version-can-i-use-with-django) section of the Django FAQs. 
+We will want to use Python and Django versions that are being actively supported. For one thing, unsupported versions of Python and Django no longer receive security patches. It's best to drop these versions and add new, supported versions. 
 
-We will want to include the Python and Django versions that are being actively supported. For one thing, unsupported versions of Python and Django no longer receive security patches. It's best to drop these versions and add new, supported versions. 
+In order to determine which versions of Python and Django are being actively supported, check out the [Python downloads](https://www.python.org/downloads/) and [Django downloads](https://www.djangoproject.com/download/) pages.
 
 Current Python support schedule
 
@@ -38,13 +46,52 @@ Current Django support schedule
 
 ![](pinax-release-tutorial/django-support-schedule.png)
 
-Not all versions of Python and Django are compatible together. Check out the "What Python version can I use with Django?" section of Django FAQs to see which Python and Django versions are compatible. This will help us create the test matrix and release documentation. 
+Not all versions of Python and Django are compatible together. In order to determine which Python and Django versions are compatible, check out the [What Python version can I use with Django?](https://docs.djangoproject.com/en/4.1/faq/install/#what-python-version-can-i-use-with-django) section of the Django FAQs. This will help us create the test matrix and release documentation. 
 
 Python and Django compatibility
 
 ![](pinax-release-tutorial/python-django-compatibility.png)
 
-## CircleCI and Tox
+## Test Matrix Configurations
+
+Once we know which Python and Django versions to use, we can create updated configurations for the CircleCI `config.yml` and `tox.ini` files that will be in each Pinax App repo. Once the configurations are documented, we will be able to clone each Pinax App repo, update the configurations in the repo using the documentation, run tox, then fix the errors that result from the incompatibility between the existing code and the new Python and Django versions we are testing against. 
+
+## Additional Formatting
+
+In addition to testing against Python and Django, Pinax test matrix includes a few tools that check for proper formatting in the codebase. 
+
+These tools are:
+* [Flake8](https://flake8.pycqa.org/en/latest/): check your codebase style and complexity
+* [Black](https://black.readthedocs.io/) (being added in this release): check your codebase style and reformat in place
+* [isort](https://pycqa.github.io/isort/): sort Django imports
+
+## Running the Test Matrix Locally Using tox
+
+Although CircleCI and tox can be used together, it is primarily tox that we will be interested in for this tutorial. 
+
+Clone the repo using the command line tool of your choice
+
+```bash
+$ git clone https://github.com/pinax/pinax-messages
+```
+
+Change directory
+
+```bash
+$ cd pinax-messages
+```
+
+Run the tox test matrix using the Makefile
+
+```bash
+$ Makefile
+```
+
+Alternatively, run tox directly
+
+```bash
+$ tox
+```
 
 Tox environments created within the Pinax app directory `.tox` folder
 
@@ -53,4 +100,21 @@ Tox environments created within the Pinax app directory `.tox` folder
 Tox success! :) 
 
 ![](pinax-release-tutorial/tox-success.png)
+
+## CircleCI
+
+In order to run locally the tox test matrix that includes every supported version of Python and Django, 
+
+## TL;DR Process
+
+* Determine which Python and Django versions to use
+* Using these Python and Django versions, create updates configurations for the CircleCI `config.yml` file and `tox.ini` file
+* Clone a Pinax App repo locally, cd, and create a new branch
+* Update the CircleCI `config.yml` file and `tox.ini` file in that Pinax App directory with the new configurations
+* Run tox
+* Fix the errors 
+* When tox is successful, push your changes to GitHub
+* Open a pull request
+* When all of the updates are made to an app, tag the release
+* Then, create and publish a package to PyPI
 
