@@ -1,8 +1,25 @@
 # Pinax Release Tutorial
 
+Pinax has been a popular group of projects, apps, and themes for around 15 years and still has many users. 
+
+A request was made recently to add support for Django 4.0 and 4.1. I decided it's time to create a new Pinax release plan. I've also created this tutorial to teach others how Pinax releases are done. Let's get started! 
+
+## Background
+
+Pinax includes a group of Django projects called [Pinax Starter Projects](https://github.com/pinax/pinax-starter-projects) that can be installed using [Pinax CLI](https://github.com/pinax/pinax-cli). These Pinax Starter Projects include relevant Pinax Apps that can be found in the [Pinax GitHub organization](https://github.com/pinax) or on PyPI via [Pinax keyword search](https://pypi.org/search/?q=pinax). 
+
+This tutorial will focus on app release. 
+
 ## Release Plan
 
-[Example Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/)
+I create a release plan for each release. This serves several purposes. 
+
+* It provides instructions for how to complete the release as it happens
+* It enables newcomers to contribute more easily to a release
+* It serves as a reference for future releases
+
+Here is the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
+
 
 ## Knowing Which Versions of Python and Django to Include
 
