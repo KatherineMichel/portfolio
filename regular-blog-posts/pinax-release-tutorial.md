@@ -1,6 +1,10 @@
 # Pinax Release Tutorial
 
-### Knowing Which Versions of Python and Django to Include
+## Release Plan
+
+[Example Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/)
+
+## Knowing Which Versions of Python and Django to Include
 
 Unsupported versions of Python and Django no longer receive security patches or new features. It's best to drop unsupported versions and add new, supported versions to your test matrix. 
 
