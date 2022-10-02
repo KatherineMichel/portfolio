@@ -22,15 +22,18 @@ Here is the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/P
 
 ## Why Do a New Release? 
 
-Pinax is based on the [Django](https://www.djangoproject.com/) framework, which is based on the [Python](https://www.python.org/) programming language. Like other software, Python and Django evolve over time. Features are added, bugs are fixed, and security flaws are patched. New releases of Python and Django are then published.
-
-By incorporporating new versions of Python and Django into Pinax, Pinax can benefit from these new features, bug fixes, and security patches. 
-
-
-
+Pinax is based on the [Django](https://www.djangoproject.com/) framework, which is based on the [Python](https://www.python.org/) programming language. Like other software, Python and Django evolve over time. Features are added, bugs are fixed, and security flaws are patched. New releases of Python and Django are then published. By incorporporating new versions of Python and Django into Pinax, Pinax can benefit from these new features, bug fixes, and security patches. This is done through a release. Pinax releases can include new features, bug fixes, and security patches as well. 
 
 ## Knowing Which Versions of Python and Django to Include
 
-Unsupported versions of Python and Django no longer receive security patches or new features. It's best to drop unsupported versions and add new, supported versions to your test matrix. 
+In order to determine which Python and Django versions to incorporate into the release, check out the [Python downloads](https://www.python.org/downloads/) page, [Django downloads](https://www.djangoproject.com/download/) page, and [What Python version can I use with Django?](https://docs.djangoproject.com/en/4.1/faq/install/#what-python-version-can-i-use-with-django) section of the Django FAQs. 
 
-See the [Python downloads](https://www.python.org/downloads/) page, [Django downloads](https://www.djangoproject.com/download/) page, and [What Python version can I use with Django?](https://docs.djangoproject.com/en/4.1/faq/install/#what-python-version-can-i-use-with-django) section of the Django FAQs for more info. 
+We will want to include the Python and Django versions that are being actively supported. For one thing, unsupported versions of Python and Django no longer receive security patches. It's best to drop these versions and add new, supported versions. 
+
+Not all versions of Python and Django are compatible together. Check out the "What Python version can I use with Django?" section of Django FAQs to see which Python and Django versions are compatible. This will help us create the test matrix and release documentation. 
+
+## CircleCI and Tox
+
+
+
+
