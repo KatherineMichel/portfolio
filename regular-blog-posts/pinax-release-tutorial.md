@@ -30,10 +30,27 @@ In order to determine which Python and Django versions to incorporate into the r
 
 We will want to include the Python and Django versions that are being actively supported. For one thing, unsupported versions of Python and Django no longer receive security patches. It's best to drop these versions and add new, supported versions. 
 
+Current Python support schedule
+
+![](pinax-release-tutorial/python-support-schedule.png)
+
+Current Django support schedule
+
+![](pinax-release-tutorial/django-support-schedule.png)
+
 Not all versions of Python and Django are compatible together. Check out the "What Python version can I use with Django?" section of Django FAQs to see which Python and Django versions are compatible. This will help us create the test matrix and release documentation. 
+
+Python and Django compatibility
+
+![](pinax-release-tutorial/python-django-compatibility.png)
 
 ## CircleCI and Tox
 
+Tox environments created within the Pinax app directory `.tox` folder
 
+![](pinax-release-tutorial/tox-folder.png)
 
+Tox success! :) 
+
+![](pinax-release-tutorial/tox-success.png)
 
