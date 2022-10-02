@@ -20,6 +20,14 @@ I create a release plan for each release. This serves several purposes.
 
 Here is the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
 
+## Why Do a New Release? 
+
+Pinax is based on the [Django](https://www.djangoproject.com/) framework, which is based on the [Python](https://www.python.org/) programming language. Like other software, Python and Django evolve over time. Features are added, bugs are fixed, and security flaws are patched. New releases of Python and Django are then published.
+
+By incorporporating new versions of Python and Django into Pinax, Pinax can benefit from these new features, bug fixes, and security patches. 
+
+
+
 
 ## Knowing Which Versions of Python and Django to Include
 
