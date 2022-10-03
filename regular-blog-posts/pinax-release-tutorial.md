@@ -168,7 +168,7 @@ skip_glob=**/*/migrations/*
 
 After `checkqa` is finished running, tox will iterate through each Python/Django combination, creating an environment to test that combination. 
 
-Tox environments created within the Pinax App directory `.tox` folder
+tox environments created within the Pinax App directory `.tox` folder
 
 ![](pinax-release-tutorial/tox-folder.png)
 
