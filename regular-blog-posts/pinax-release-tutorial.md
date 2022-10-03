@@ -56,9 +56,7 @@ Based on the "[What Python version can I use with Django?](https://docs.djangopr
 
 ## Test Matrix Configurations
 
-Once we know which Python and Django versions to use, we can create updated configurations for the CircleCI `config.yml` and `tox.ini` files that will be in each Pinax App repo. Once the configurations are documented, we will be able to clone each Pinax App repo, update the configurations in the repo using the documentation, run tox, then fix the errors that result from the incompatibility between the existing code and the new Python and Django versions we are testing against. 
-
-## Additional Dependencies
+Once we know which Python and Django versions to use, we can create updated configurations for the CircleCI `config.yml` and `tox.ini` files that will be in each Pinax App repo. 
 
 In addition to testing against Python and Django, Pinax tox configuration includes a few other tools to maintain code quality. 
 
@@ -68,9 +66,11 @@ These tools are:
 * [isort](https://pycqa.github.io/isort/): sort Django imports
 * [Coverage](https://coverage.readthedocs.io/): measures the percentage of code per file that is covered by tests
 
+Invariably, these other tools will have had new releases of their own between Pinax releases. As a result, additional changes will need to be made to the configuration. For some exmaples, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
+
 ## Running the Test Matrix Locally Using tox
 
-Although CircleCI and tox can be used together, it is primarily tox that we will be interested in for this tutorial. 
+Once the configurations are documented, we will be able to clone each Pinax App repo, update the CircleCI `config.yml` and `tox.ini` files, run tox, then fix the errors that result from the incompatibility between the existing code and the new Python and Django versions we are testing against. 
 
 Clone the repo using the command line tool of your choice
 
@@ -144,23 +144,57 @@ include_trailing_comma=True
 skip_glob=**/*/migrations/*
 ```
 
-After `checkqa` is finished running, tox will iterate through each Python/Django combination. 
-
-
-## tox Output
-
-
-tox will iterate through each Python/Django combination in the test matrix, creating an environment to test that combination. 
+After `checkqa` is finished running, tox will iterate through each Python/Django combination, creating an environment to test that combination. 
 
 Tox environments created within the Pinax app directory `.tox` folder
 
 ![](pinax-release-tutorial/tox-folder.png)
+
+This will include a coverage report for each combination. 
+
+```tox
+[testenv]
+passenv = CI CIRCLECI CIRCLE_*
+deps =
+    coverage<5
+    codecov
+    dj32: Django>=3.2,<4.0
+    dj40: Django>=4.0,<4.1
+    dj41: Django>=4.1,<4.2
+    master: https://github.com/django/django/tarball/master
+```
+
+Separate `[coverage:run]` and `[coverage:report]` configurations document coverage choices specific to Pinax. 
+
+```tox
+[coverage:run]
+source = pinax
+omit = **/*/conf.py,**/*/tests/*,**/*/migrations/*,**/*/admin.py
+branch = true
+data_file = .coverage
+
+[coverage:report]
+omit = **/*/conf.py,**/*/tests/*,**/*/migrations/*,**/*/admin.py
+exclude_lines =
+    coverage: omit
+show_missing = True
+```
+
+## tox Output
+
+For each Python/Django combination, tox will show the incompability errors. 
+
+
+For some exmaples, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
+
 
 tox success! :) 
 
 ![](pinax-release-tutorial/tox-success.png)
 
 ## CircleCI
+
+Although CircleCI and tox can be used together, it is primarily tox that we will be interested in for this tutorial. 
 
 ## TL;DR Process
 
