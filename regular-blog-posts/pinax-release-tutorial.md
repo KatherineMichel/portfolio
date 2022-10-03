@@ -192,7 +192,7 @@ Example coverage report
 
 tox will give one error at a time. Fix that error, and rerun tox. 
 
-If needed, refer to the [Django 3.2](https://docs.djangoproject.com/en/4.1/releases/3.2/), [Django 4.0](https://docs.djangoproject.com/en/4.0/releases/4.0/#features-removed-in-4-0), and [Django 4.1](https://docs.djangoproject.com/en/4.1/releases/4.1/) release notes for more info about changes. Google and Stack Overflow can also help. 
+If needed, refer to the [Django 3.2 release notes](https://docs.djangoproject.com/en/4.1/releases/3.2/), [Django 4.0 release notes](https://docs.djangoproject.com/en/4.0/releases/4.0/#features-removed-in-4-0), and [Django 4.1 release notes](https://docs.djangoproject.com/en/4.1/releases/4.1/) for more info about changes. Google and Stack Overflow can also help. 
 
 For some example errors, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
 
@@ -204,8 +204,6 @@ tox success! :)
 
 ## CircleCI
 
-Although CircleCI and tox can be used together, it is primarily tox that we will be interested in for this tutorial. 
-
 ## TL;DR Process
 
 * Determine which Python and Django versions to use
@@ -216,6 +214,6 @@ Although CircleCI and tox can be used together, it is primarily tox that we will
 * Fix the errors 
 * When tox is successful, push your changes to GitHub
 * Open a pull request
-* When all of the updates are made to an app, tag the release
-* Then, create and publish a package to PyPI
+* When all of the updates are made to a Pinax App, the app release will be tagged
+* Then, a package will be created and published to PyPI
 
