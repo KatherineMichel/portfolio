@@ -44,7 +44,7 @@ Here is the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/P
 
 ## Why Do a New Release? 
 
-Pinax is based on the [Django](https://www.djangoproject.com/) framework, which is based on the [Python](https://www.python.org/) programming language. Like other software, Python and Django evolve over time. Features are added, bugs are fixed, and security flaws are patched. New releases of Python and Django are then published. By incorporporating new versions of Python and Django into Pinax, Pinax can benefit from these new features, bug fixes, and security patches. This is done through a release. Pinax releases can also include new features, bug fixes, and security patches. 
+Pinax is based on the [Django](https://www.djangoproject.com/) framework, which is based on the [Python](https://www.python.org/) programming language. Like other software, Python and Django evolve over time. Features are added, bugs are fixed, and security flaws are patched. New releases of Python and Django are then published. By incorporating new versions of Python and Django into Pinax, Pinax can benefit from these new features, bug fixes, and security patches. This is done through a release. Pinax releases can also include new features, bug fixes, and security patches. 
 
 ## Knowing Which Versions of Python and Django to Include
 
@@ -70,7 +70,7 @@ Based on the "[What Python version can I use with Django?](https://docs.djangopr
 
 ## Test Matrix Configurations
 
-Once we know which Python and Django versions to use, we can create updated configurations for the CircleCI `config.yml` and `tox.ini` files that will be in each Pinax App repo. Although CircleCI and tox can be used together, it is primarily tox that we will be interested in for this tutorial.
+Once we know which Python and Django versions to use, we can create updated configurations for the CircleCI `config.yml` and `tox.ini` files that will be in each Pinax App repo. Although CircleCI and tox can be used together, it is primarily tox that we will be interested in for this tutorial, because it's the tool we will use to update the code locally.
 
 In addition to testing against Python and Django, Pinax tox configuration includes a few other tools to maintain code quality. 
 
@@ -124,9 +124,9 @@ envlist =
 
 The first one, called `checkqa`, runs the formatting tools Flake8, Black, and isort. 
 
-A special `[testenv:checkqa]` configuration specifies which version of each tool to use and the commands needed to run each one. 
+A special `[testenv:checkqa]` configuration specifies which version of each tool tox should use and the commands needed to run each one. Instead of running the tools ourselves manually via the command line, tox will run them as it executes. 
 
-Here, it's specified that Flake8 and Black will run in the `pinax` directory. `--check-only` and `--diff` indicate proposed changes should be outputted in the terminal, rather than the files being modified. The `--settings-path` is explicitly set. For more information, see the [isort Configuration Options page](https://pycqa.github.io/isort/docs/configuration/options.html). 
+Here, it's specified that Flake8 and Black will run in the `pinax` directory. The isort `--check-only` and `--diff` flags indicate proposed changes should be outputted in the terminal, rather than the files being modified. The isort `--settings-path` is explicitly set. For more information about isort options, see the [isort Configuration Options page](https://pycqa.github.io/isort/docs/configuration/options.html). 
 
 ```tox
 [testenv:checkqa]
@@ -204,15 +204,15 @@ show_missing = True
 
 ## tox Output
 
-When `checkqa` runs, tox will show the formatting errors. 
+When `checkqa` runs, tox will output any formatting errors in the terminal. 
 
-For each Python/Django combination, tox will show the incompability errors. 
+For each Python/Django combination, tox will output the incompability errors. 
 
 tox will show one error at a time. Fix that error, and rerun tox. 
 
 If needed, refer to the [Django 3.2 release notes](https://docs.djangoproject.com/en/4.1/releases/3.2/), [Django 4.0 release notes](https://docs.djangoproject.com/en/4.0/releases/4.0/#features-removed-in-4-0), and [Django 4.1 release notes](https://docs.djangoproject.com/en/4.1/releases/4.1/) for more info about changes. Google and Stack Overflow can also help. 
 
-For some example errors, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
+To see some example errors, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
 
 Once all of the errors are fixed, tox will show all green. 
 
@@ -229,3 +229,5 @@ Example coverage report
 ![](pinax-release-tutorial/coverage-report.png)
 
 ## CircleCI
+
+## Tagging and Publishing
