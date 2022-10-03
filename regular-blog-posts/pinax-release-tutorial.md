@@ -4,6 +4,20 @@ Pinax has been a popular group of projects, apps, and themes for around 15 years
 
 A request was made recently to add support for Django 4.0 and 4.1. I decided it's time to create a new Pinax release plan. I've also created this tutorial to teach others how Pinax releases are done. Let's get started! 
 
+## TL;DR Process
+
+* You will need to be able to install and access multiple Python interpreters locally
+* Determine which Python and Django versions to use
+* Using these Python and Django versions, create updated configurations for the CircleCI `config.yml` file and `tox.ini` file
+* Clone a Pinax App repo locally, cd, and create a new branch
+* Update the CircleCI `config.yml` file and `tox.ini` file in that Pinax App directory with the new configurations
+* Run tox
+* Fix the errors 
+* When tox is successful, push your changes to GitHub
+* Open a pull request
+* When all of the updates are made to a Pinax App, the app release will be tagged
+* Then, a package will be created and published to PyPI
+
 ## Background
 
 Pinax includes a group of Django projects called [Pinax Starter Projects](https://github.com/pinax/pinax-starter-projects) that can be installed using [Pinax CLI](https://github.com/pinax/pinax-cli). These Pinax Starter Projects include relevant Pinax Apps that can be found in the [Pinax GitHub organization](https://github.com/pinax) or on PyPI via [Pinax keyword search](https://pypi.org/search/?q=pinax). 
@@ -12,7 +26,7 @@ This tutorial will focus on app release.
 
 ## Required Setup
 
-In order to test code locally and make the updates required for the release, you will need to be able to access every version of Python used in the release. The Pinax way of doing this is to install [pyenv](https://github.com/pyenv/pyenv) on a MacBook. This will enable you to install multiple versions of Python on your computer and make them globally available using the command: 
+In order to test code locally and make the updates required for the release, you will need to be able to access a Python interpreter for every version used in the release. The Pinax way of doing this is to install [pyenv](https://github.com/pyenv/pyenv) on a MacBook. This will enable you to install multiple versions of Python on your computer and make them globally available using the command: 
 
 ```bash
 $ pyenv global 3.10.0 3.9.0 3.8.0 3.7.0
@@ -56,7 +70,7 @@ Based on the "[What Python version can I use with Django?](https://docs.djangopr
 
 ## Test Matrix Configurations
 
-Once we know which Python and Django versions to use, we can create updated configurations for the CircleCI `config.yml` and `tox.ini` files that will be in each Pinax App repo. 
+Once we know which Python and Django versions to use, we can create updated configurations for the CircleCI `config.yml` and `tox.ini` files that will be in each Pinax App repo. Although CircleCI and tox can be used together, it is primarily tox that we will be interested in for this tutorial.
 
 In addition to testing against Python and Django, Pinax tox configuration includes a few other tools to maintain code quality. 
 
@@ -70,7 +84,7 @@ Invariably, these other tools will have had new releases of their own between Pi
 
 ## Running the Test Matrix Locally Using tox
 
-Once the configurations are documented, we will be able to clone each Pinax App repo, update the CircleCI `config.yml` and `tox.ini` files, run tox, then fix the errors that result from the incompatibility between the existing code and the new Python and Django versions we are testing against. 
+Once the configurations are documented, we will be able to clone a Pinax App repo, update its CircleCI `config.yml` and `tox.ini` files, run tox, then fix the errors that result from the incompatibility between the existing code and the new Python and Django versions we are testing against. 
 
 Clone the repo using the command line tool of your choice
 
@@ -110,7 +124,9 @@ envlist =
 
 The first one, called `checkqa`, runs the formatting tools Flake8, Black, and isort. 
 
-A special `[testenv:checkqa]` configuration specifies which version of each tool to use and the commands needed to run each one.  
+A special `[testenv:checkqa]` configuration specifies which version of each tool to use and the commands needed to run each one. 
+
+Here, it's specified that Flake8 and Black will run in the `pinax` directory. `--check-only` and `--diff` indicate proposed changes should be outputted in the terminal, rather than the files being modified. The `--settings-path` is explicitly set. For more information, see the [isort Configuration Options page](https://pycqa.github.io/isort/docs/configuration/options.html). 
 
 ```tox
 [testenv:checkqa]
@@ -127,6 +143,8 @@ deps =
 
 Separate `[flake8]` and `[isort]` configurations document choices specific to Pinax such as which tool formatting rules to ignore. 
 
+Here, it's specified that [Flake8 rules](https://www.flake8rules.com/) that a colon should not have a space before it, that a block comment should have a space before the pound sign and comment, that there is no need for backslashes between brackets, and that a line break should occur before a binary operator should be ignored. [`max-line-length`](https://flake8.pycqa.org/en/2.5.5/config.html#settings) can be up to 100 characters, rather than the 79 suggested by [PEP 8](https://peps.python.org/pep-0008/). [`max-complexity`](https://flake8.pycqa.org/en/2.5.5/#quickstart) can be up to 10 (more than 10 is believed to be too complex). Migrations files should be excluded from formatting. `inline-quotes` should be double, not single. 
+
 ```tox
 [flake8]
 ignore = E203,E265,E501,W504
@@ -134,7 +152,11 @@ max-line-length = 100
 max-complexity = 10
 exclude = **/*/migrations/*
 inline-quotes = double
+```
 
+Here, it's specified that [`multi_line_output`](https://pycqa.github.io/isort/docs/configuration/multi_line_output_modes.html) should be formatted as a vertical hanging indent. 
+
+```tox
 [isort]
 multi_line_output=3
 known_django=django
@@ -146,7 +168,7 @@ skip_glob=**/*/migrations/*
 
 After `checkqa` is finished running, tox will iterate through each Python/Django combination, creating an environment to test that combination. 
 
-Tox environments created within the Pinax app directory `.tox` folder
+Tox environments created within the Pinax App directory `.tox` folder
 
 ![](pinax-release-tutorial/tox-folder.png)
 
@@ -184,13 +206,9 @@ show_missing = True
 
 When `checkqa` runs, tox will show the formatting errors. 
 
-For each Python/Django combination, tox will show the incompability errors and a coverage report. 
+For each Python/Django combination, tox will show the incompability errors. 
 
-Example coverage report
-
-![](pinax-release-tutorial/coverage-report.png)
-
-tox will give one error at a time. Fix that error, and rerun tox. 
+tox will show one error at a time. Fix that error, and rerun tox. 
 
 If needed, refer to the [Django 3.2 release notes](https://docs.djangoproject.com/en/4.1/releases/3.2/), [Django 4.0 release notes](https://docs.djangoproject.com/en/4.0/releases/4.0/#features-removed-in-4-0), and [Django 4.1 release notes](https://docs.djangoproject.com/en/4.1/releases/4.1/) for more info about changes. Google and Stack Overflow can also help. 
 
@@ -202,18 +220,12 @@ tox success! :)
 
 ![](pinax-release-tutorial/tox-success.png)
 
+## Coverage Report
+
+For each Python/Django combination, tox will also show a coverage report. The report will show the percentage of coverage for each file. Files with 100% coverage will be ignored. To see the line numbers missing coverage, add the `--show-missing` flag. 
+
+Example coverage report
+
+![](pinax-release-tutorial/coverage-report.png)
+
 ## CircleCI
-
-## TL;DR Process
-
-* Determine which Python and Django versions to use
-* Using these Python and Django versions, create updated configurations for the CircleCI `config.yml` file and `tox.ini` file
-* Clone a Pinax App repo locally, cd, and create a new branch
-* Update the CircleCI `config.yml` file and `tox.ini` file in that Pinax App directory with the new configurations
-* Run tox
-* Fix the errors 
-* When tox is successful, push your changes to GitHub
-* Open a pull request
-* When all of the updates are made to a Pinax App, the app release will be tagged
-* Then, a package will be created and published to PyPI
-
