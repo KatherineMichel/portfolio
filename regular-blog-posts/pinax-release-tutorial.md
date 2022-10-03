@@ -8,9 +8,9 @@ A request was made recently to add support for Django 4.0 and 4.1. I decided it'
 
 * You will need to be able to install and access multiple Python interpreters locally
 * Determine which Python and Django versions to use
-* Using these Python and Django versions, create updated configurations for the CircleCI `config.yml` file and `tox.ini` file
+* Using these Python and Django versions, create updated configurations for the CircleCI `config.yml` and `tox.ini` files
 * Clone a Pinax App repo locally, cd, and create a new branch
-* Update the CircleCI `config.yml` file and `tox.ini` file in that Pinax App directory with the new configurations
+* Update the CircleCI `config.yml` and `tox.ini` files in that Pinax App directory with the new configurations
 * Run tox
 * Fix the errors 
 * When tox is successful, push your changes to GitHub
@@ -105,7 +105,7 @@ $ cd pinax-messages
 Run the tox test matrix using the Makefile
 
 ```bash
-$ Makefile
+$ Make
 ```
 
 Alternatively, run tox directly
