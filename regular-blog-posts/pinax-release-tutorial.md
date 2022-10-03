@@ -184,21 +184,21 @@ show_missing = True
 
 When `checkqa` runs, tox will show the formatting errors. 
 
-For each Python/Django combination, tox will show the incompability errors. 
+For each Python/Django combination, tox will show the incompability errors and a coverage report. 
 
-For some examples, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
+Example coverage report
+
+![](pinax-release-tutorial/coverage-report.png)
 
 tox will give one error at a time. Fix that error, and rerun tox. 
+
+For some examples, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
 
 Once all of the errors are fixed, tox will show all green. 
 
 tox success! :) 
 
 ![](pinax-release-tutorial/tox-success.png)
-
-Example coverage report
-
-![](pinax-release-tutorial/coverage-report.png)
 
 ## CircleCI
 
