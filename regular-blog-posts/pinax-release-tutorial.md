@@ -46,24 +46,27 @@ Current Django support schedule
 
 ![](pinax-release-tutorial/django-support-schedule.png)
 
-Not all versions of Python and Django are compatible together. In order to determine which Python and Django versions are compatible, check out the [What Python version can I use with Django?](https://docs.djangoproject.com/en/4.1/faq/install/#what-python-version-can-i-use-with-django) section of the Django FAQs. This will help us create the test matrix and release documentation. 
+Not all versions of Python and Django are compatible together. In order to determine which Python and Django versions are compatible, check out the "[What Python version can I use with Django?](https://docs.djangoproject.com/en/4.1/faq/install/#what-python-version-can-i-use-with-django)" section of the Django FAQs. This will help us create the test matrix and release documentation. 
 
 Python and Django compatibility
 
 ![](pinax-release-tutorial/python-django-compatibility.png)
 
+Based on the "[What Python version can I use with Django?](https://docs.djangoproject.com/en/4.1/faq/install/#what-python-version-can-i-use-with-django)" section of the Django FAQs, we now know that Python 3.7 is not compatible with Django 4.0 or 4.1. 
+
 ## Test Matrix Configurations
 
 Once we know which Python and Django versions to use, we can create updated configurations for the CircleCI `config.yml` and `tox.ini` files that will be in each Pinax App repo. Once the configurations are documented, we will be able to clone each Pinax App repo, update the configurations in the repo using the documentation, run tox, then fix the errors that result from the incompatibility between the existing code and the new Python and Django versions we are testing against. 
 
-## Additional Formatting
+## Additional Dependencies
 
-In addition to testing against Python and Django, Pinax test matrix includes a few tools that check for proper formatting in the codebase. 
+In addition to testing against Python and Django, Pinax tox configuration includes a few other tools to maintain code quality. 
 
 These tools are:
 * [Flake8](https://flake8.pycqa.org/en/latest/): check your codebase style and complexity
 * [Black](https://black.readthedocs.io/) (being added in this release): check your codebase style and reformat in place
 * [isort](https://pycqa.github.io/isort/): sort Django imports
+* [Coverage](https://coverage.readthedocs.io/): measures the percentage of code per file that is covered by tests
 
 ## Running the Test Matrix Locally Using tox
 
@@ -93,22 +96,76 @@ Alternatively, run tox directly
 $ tox
 ```
 
+## tox Test Environments
+
+Pinax tox configuration includes several test environments that it will run. 
+
+```tox
+[tox]
+envlist =
+    checkqa,
+    py{37}-dj{32}
+    py{38, 39, 310}-dj{32, 40, 41}
+```
+
+The first one, called `checkqa`, runs the formatting tools Flake8, Black, and isort. 
+
+A special `[testenv:checkqa]` configuration specifies which version of each tool to use and the commands needed to run each one.  
+
+```tox
+[testenv:checkqa]
+commands =
+    flake8 pinax
+    isort --check-only --diff pinax --settings-path tox.ini
+    black pinax
+deps =
+    flake8 == 5.0.4
+    flake8-quotes == 3.3.1
+    isort == 5.10.01
+    black == 22.8.0
+```
+
+Separate `[flake8]` and `[isort]` configurations document choices specific to Pinax such as which tool formatting rules to ignore. 
+
+```tox
+[flake8]
+ignore = E203,E265,E501,W504
+max-line-length = 100
+max-complexity = 10
+exclude = **/*/migrations/*
+inline-quotes = double
+
+[isort]
+multi_line_output=3
+known_django=django
+known_third_party=appconf,pinax
+sections=FUTURE,STDLIB,DJANGO,THIRDPARTY,FIRSTPARTY,LOCALFOLDER
+include_trailing_comma=True
+skip_glob=**/*/migrations/*
+```
+
+After `checkqa` is finished running, tox will iterate through each Python/Django combination. 
+
+
+## tox Output
+
+
+tox will iterate through each Python/Django combination in the test matrix, creating an environment to test that combination. 
+
 Tox environments created within the Pinax app directory `.tox` folder
 
 ![](pinax-release-tutorial/tox-folder.png)
 
-Tox success! :) 
+tox success! :) 
 
 ![](pinax-release-tutorial/tox-success.png)
 
 ## CircleCI
 
-In order to run locally the tox test matrix that includes every supported version of Python and Django, 
-
 ## TL;DR Process
 
 * Determine which Python and Django versions to use
-* Using these Python and Django versions, create updates configurations for the CircleCI `config.yml` file and `tox.ini` file
+* Using these Python and Django versions, create updated configurations for the CircleCI `config.yml` file and `tox.ini` file
 * Clone a Pinax App repo locally, cd, and create a new branch
 * Update the CircleCI `config.yml` file and `tox.ini` file in that Pinax App directory with the new configurations
 * Run tox
