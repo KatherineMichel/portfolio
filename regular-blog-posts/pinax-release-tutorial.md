@@ -66,7 +66,7 @@ These tools are:
 * [isort](https://pycqa.github.io/isort/): sort Django imports
 * [Coverage](https://coverage.readthedocs.io/): measures the percentage of code per file that is covered by tests
 
-Invariably, these other tools will have had new releases of their own between Pinax releases. As a result, additional changes will need to be made to the configuration. For some exmaples, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
+Invariably, these other tools will have had new releases of their own between Pinax releases. As a result, additional changes will need to be made to the configuration. For some examples, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
 
 ## Running the Test Matrix Locally Using tox
 
@@ -182,15 +182,23 @@ show_missing = True
 
 ## tox Output
 
+When `checkqa` runs, tox will show the formatting errors. 
+
 For each Python/Django combination, tox will show the incompability errors. 
 
+For some examples, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
 
-For some exmaples, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
+tox will give one error at a time. Fix that error, and rerun tox. 
 
+Once all of the errors are fixed, tox will show all green. 
 
 tox success! :) 
 
 ![](pinax-release-tutorial/tox-success.png)
+
+Example coverage report
+
+![](pinax-release-tutorial/coverage-report.png)
 
 ## CircleCI
 
