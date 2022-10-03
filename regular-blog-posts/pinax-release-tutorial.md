@@ -66,8 +66,12 @@ Python and Django compatibility
 
 ![](pinax-release-tutorial/python-django-compatibility.png)
 
-Based on the "[What Python version can I use with Django?](https://docs.djangoproject.com/en/4.1/faq/install/#what-python-version-can-i-use-with-django)" section of the Django FAQs, we now know that Python 3.7 is not compatible with Django 4.0 or 4.1. 
+We now know that the Python 3.7, 3.8, 3.9, 3.10 and Django 3.2, 40, and 4.1 are supported. 
 
+Python 3.8, 3.9, and 3.10 are compatible with all versions of Django. 
+    
+Python 3.7 is not compatible with Django 4.0 or 4.1. 
+    
 ## Test Matrix Configurations
 
 Once we know which Python and Django versions to use, we can create updated configurations for the CircleCI `config.yml` and `tox.ini` files that will be in each Pinax App repo. Although CircleCI and tox can be used together, it is primarily tox that we will be interested in for this tutorial, because it's the tool we will use to update the code locally.
