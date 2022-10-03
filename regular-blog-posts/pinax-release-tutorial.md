@@ -143,7 +143,7 @@ deps =
 
 Separate `[flake8]` and `[isort]` configurations document choices specific to Pinax such as which tool formatting rules to ignore. 
 
-Here, it's specified that [Flake8 rules](https://www.flake8rules.com/) that a colon should not have a space before it, that a block comment should have a space before the pound sign and comment, that there is no need for backslashes between brackets, and that a line break should occur before a binary operator should be ignored. [`max-line-length`](https://flake8.pycqa.org/en/2.5.5/config.html#settings) can be up to 100 characters, rather than the 79 suggested by [PEP 8](https://peps.python.org/pep-0008/). [`max-complexity`](https://flake8.pycqa.org/en/2.5.5/#quickstart) can be up to 10 (more than 10 is believed to be too complex). Migrations files should be excluded from formatting. `inline-quotes` should be double, not single. 
+Here, it's specified that tox should ignore the default [Flake8 rules](https://www.flake8rules.com/) that a colon should not have a space before it, that a block comment should have a space before the pound sign and comment, that there is no need for backslashes between brackets, and that a line break should occur before a binary operator. [`max-line-length`](https://flake8.pycqa.org/en/2.5.5/config.html#settings) can be up to 100 characters, rather than the 79 suggested by [PEP 8](https://peps.python.org/pep-0008/). [`max-complexity`](https://flake8.pycqa.org/en/2.5.5/#quickstart) can be up to 10 (more than 10 is believed to be too complex). Migrations files should be excluded from formatting. `inline-quotes` should be double, not single. 
 
 ```tox
 [flake8]
@@ -154,7 +154,7 @@ exclude = **/*/migrations/*
 inline-quotes = double
 ```
 
-Here, it's specified that [`multi_line_output`](https://pycqa.github.io/isort/docs/configuration/multi_line_output_modes.html) should be formatted as a vertical hanging indent. 
+[`multi_line_output`](https://pycqa.github.io/isort/docs/configuration/multi_line_output_modes.html) should be formatted as a vertical hanging indent. 
 
 ```tox
 [isort]
@@ -188,13 +188,19 @@ deps =
 
 Separate `[coverage:run]` and `[coverage:report]` configurations document coverage choices specific to Pinax. 
 
+Here, it is specified that coverage should run in the `pinax` directory. `conf.py`, `tests`, `migrations`, and `admin.py` folders and files should be ignored. 
+
 ```tox
 [coverage:run]
 source = pinax
 omit = **/*/conf.py,**/*/tests/*,**/*/migrations/*,**/*/admin.py
 branch = true
 data_file = .coverage
+```
 
+`conf.py`, `tests`, `migrations`, and `admin.py` folders and files should be ignored. The `--show-missing` flag indicates that the report should show the file line numbers missing coverage. 
+
+```tox
 [coverage:report]
 omit = **/*/conf.py,**/*/tests/*,**/*/migrations/*,**/*/admin.py
 exclude_lines =
@@ -210,7 +216,7 @@ For each Python/Django combination, tox will output the incompability errors.
 
 tox will show one error at a time. Fix that error, and rerun tox. 
 
-If needed, refer to the [Django 3.2 release notes](https://docs.djangoproject.com/en/4.1/releases/3.2/), [Django 4.0 release notes](https://docs.djangoproject.com/en/4.0/releases/4.0/#features-removed-in-4-0), and [Django 4.1 release notes](https://docs.djangoproject.com/en/4.1/releases/4.1/) for more info about changes. Google and Stack Overflow can also help. 
+If needed, refer to the [Django 3.2 release notes](https://docs.djangoproject.com/en/4.1/releases/3.2/), [Django 4.0 release notes](https://docs.djangoproject.com/en/4.0/releases/4.0/#features-removed-in-4-0), and [Django 4.1 release notes](https://docs.djangoproject.com/en/4.1/releases/4.1/) for more info about the changes made in those releases. Google and Stack Overflow can also help. 
 
 To see some example errors, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
 
@@ -222,7 +228,7 @@ tox success! :)
 
 ## Coverage Report
 
-For each Python/Django combination, tox will also show a coverage report. The report will show the percentage of coverage for each file. Files with 100% coverage will be ignored. To see the line numbers missing coverage, add the `--show-missing` flag. 
+For each Python/Django combination, tox will also show a coverage report. The report will show the percentage of coverage for each file. Files with 100% coverage will be ignored.
 
 Example coverage report
 
