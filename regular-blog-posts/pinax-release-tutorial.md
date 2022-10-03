@@ -156,7 +156,7 @@ This will include a coverage report for each combination.
 [testenv]
 passenv = CI CIRCLECI CIRCLE_*
 deps =
-    coverage<5
+    coverage==6.5.0
     codecov
     dj32: Django>=3.2,<4.0
     dj40: Django>=4.0,<4.1
@@ -192,7 +192,9 @@ Example coverage report
 
 tox will give one error at a time. Fix that error, and rerun tox. 
 
-For some examples, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
+If needed, refer to the [Django 3.2](https://docs.djangoproject.com/en/4.1/releases/3.2/), [Django 4.0](https://docs.djangoproject.com/en/4.0/releases/4.0/#features-removed-in-4-0), and [Django 4.1](https://docs.djangoproject.com/en/4.1/releases/4.1/) release notes for more info about changes. Google and Stack Overflow can also help. 
+
+For some example errors, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
 
 Once all of the errors are fixed, tox will show all green. 
 
