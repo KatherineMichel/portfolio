@@ -4,7 +4,7 @@ Pinax has been a popular group of projects, apps, and themes for around 15 years
 
 A request was made recently to add support for Django 4.0 and 4.1. I decided it's time to create a new Pinax release plan. I've also created this tutorial to teach others how Pinax releases are done. Let's get started! 
 
-## TL;DR Process
+## TL;DR
 
 * You will need to be able to install and access multiple Python interpreters locally
 * Determine which Python and Django versions to use
