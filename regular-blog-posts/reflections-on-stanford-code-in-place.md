@@ -30,7 +30,7 @@ I was excited to be able to participate and was intent to make the most of the e
 
 As a release manager of an open-source Django library named [Pinax](https://github.com/pinax), Python was not new to me. However, there were specific things I wanted to get out of Code in Place and I can wholeheartedly say that I did: 
 
-* A more untuitive understanding of control flow, algorithms, and program structure
+* A more intuitive understanding of control flow, algorithms, and program structure
 * Reinforcement of my Python fundamentals knowledge
 
 There were also a few unexpected bonuses that I got out of the course:
