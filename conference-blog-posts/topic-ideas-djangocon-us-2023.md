@@ -64,3 +64,5 @@ Django Fellows
 
 Addressing Hard Topics/Making New Progress
 * How to bring more diversity to: our steering council, core dev, contributor base, community
+
+For even more ideas, see my fellow DEFNA Board Member Jeff Triplett's [list](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/).
