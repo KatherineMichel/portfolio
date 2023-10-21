@@ -10,6 +10,22 @@ Nichole
 
 It was an incredible opportunity to get to know other board members in person and have some amazing food. I asked several people for recommendations about what to order there. They all said you can't go wrong. Everything is so good. I decided to be adventurous and order something that sounded good, but that I'd never had before: linguini and clams. I chose well. It was one of the most delicious meals that I've ever had.
 
+<!--
+![](recap-of-djangocon-us-2023-images/parizade-foyer.jpg)
+-->
+
+![](recap-of-djangocon-us-2023-images/parizade-walking-to-table.jpg)
+![](recap-of-djangocon-us-2023-images/parizade-dining-room.jpg)
+
+Apple Pie Mezcal Margarita
+![](recap-of-djangocon-us-2023-images/parizade-apple-pie-mezcal-margarita.jpg)
+
+Linguini and clams
+![](recap-of-djangocon-us-2023-images/parizade-linguini-and-clams.jpg)
+
+Cookie and ice cream desert
+![](recap-of-djangocon-us-2023-images/parizade-cookie-and-ice-cream-dessert.jpg)
+
 ## Sunday
 
 I love a good cup of coffee. On Sunday, I ventured to nearby [Cocoa Cinnamon](https://littlewaves.coffee/pages/old-north-durham) coffee shop. I had a Dr. Durham Latte ([organizer recommended](https://2023.djangocon.us/venue/#places)). 
@@ -49,6 +65,8 @@ John Gould
 -->
 
 Later that night, I attended Django Social at [Ponysaurus](https://www.ponysaurusbrewing.com/taproom). Not being a fan of beer, I had one of their signature [Beer Cocktails](https://www.ponysaurusbrewing.com/taproom-menu) a Gosé Margarita (lime juice, triple sec, & tequila, topped with Gosé beer). 
+
+![](recap-of-djangocon-us-2023-images/ponysaurus-beer-cocktail.jpg)
 
 During the event, I happened to find myself having a conversation with a woman who really knew a lot about open source and events! It turned out to be the new Python Software Foundation Executive Director Deb Nicholson. Serendity strikes again. I love it when that happens. :) She was accessible throughout the conference, and it was a wonderful place to get to know her. Check out her Monday talk about meetups. 
 
@@ -258,6 +276,9 @@ Video
 
 I also visited the [Museum of Life and Science](lifeandscience.org/). The [Butterfly House](https://www.lifeandscience.org/explore/butterfly-house/) in particular was a really special experience. I was also happy to have a second change to see lemurs. Duke University has the largest sanctuary for lemurs in the world, but unfortunately, its tours were booked through the rest of the year. The Museum of Life and Science has a [Lemur Exhibit](https://www.lifeandscience.org/explore/lemurs-and-tortoises/). I enjoyed observing these beautiful animals. [The Farmyard](https://www.lifeandscience.org/explore/the-farmyard/), [Insectarium](https://www.lifeandscience.org/explore/insectarium/), and [Aerospace](https://www.lifeandscience.org/explore/aerospace/) exhibits were also really fun and interesting. 
 
+Butterfly House butterfly
+![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-butterfly-house-butterfly.jpg)
+
 Unfortunately, the [train](https://www.lifeandscience.org/explore/train/) that takes passengers around the museum's 84 acres was not in operation at the time of my visit. I know I would have really enjoyed it. 
 
 <!--
@@ -272,7 +293,14 @@ Museum of Life and Science lemurs
 
 After having read rave reviews about [Loaf](https://www.loafdurham.com/) bakery, I had to pay a visit. It did not disappoint. I ordered a ham and gruyere croissant, a walnut sea salt brownie, a pain au chocolat, and 5 pumpkin chocolate chip cookies. 
 
-A walnut sea salt brownie from Loaf bakery
+![](recap-of-djangocon-us-2023-images/loaf.jpg)
+
+![](recap-of-djangocon-us-2023-images/loaf-display-case.jpg)
+
+Ham and gruyere croissant
+![](recap-of-djangocon-us-2023-images/loaf-ham-and-gruyere-croissant.jpg)
+
+Walnut sea salt brownie
 ![](recap-of-djangocon-us-2023-images/the-loaf-brownie.jpg)
 
 For dinner one night, I ordered takeaway from [Pizzeria Toro](https://www.pizzeriatoro.com/), right around the corner from the Marriott. I had a mouthwatering red-sauce pizza with shredded mozzarella, black olives, mixed mushrooms, and fennel sausage. 
@@ -344,7 +372,7 @@ Benedict Kofi Amofah
 Sheena O'Connell
 Ron Maravanyika
 Abigail
-
+ 
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
 
