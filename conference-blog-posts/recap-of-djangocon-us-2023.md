@@ -259,9 +259,9 @@ Museum of Life and Science lemurs
 
 ### Food
 
-After having read rave reviews about [The Loaf](https://www.loafdurham.com/) bakery, I had to pay a visit. It did not disappoint. I ordered a ham and gruyere croissant, a walnut sea salt brownie, a pain au chocolat, and 5 pumpkin chocolate chip cookies. 
+After having read rave reviews about [Loaf](https://www.loafdurham.com/) bakery, I had to pay a visit. It did not disappoint. I ordered a ham and gruyere croissant, a walnut sea salt brownie, a pain au chocolat, and 5 pumpkin chocolate chip cookies. 
 
-A walnut sea salt brownie from The Loaf bakery
+A walnut sea salt brownie from Loaf bakery
 ![](recap-of-djangocon-us-2023-images/the-loaf-brownie.jpg)
 
 For dinner one night, I ordered takeaway from [Pizzeria Toro](https://www.pizzeriatoro.com/), right around the corner from the Marriott. I had a mouthwatering red-sauce pizza with shredded mozzarella, black olives, mixed mushrooms, and fennel sausage. 
