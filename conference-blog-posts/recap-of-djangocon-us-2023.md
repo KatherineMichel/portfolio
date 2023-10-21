@@ -14,9 +14,30 @@ It was an incredible opportunity to get to know other board members in person an
 
 I love a good cup of coffee. On Sunday, I ventured to nearby [Cocoa Cinnamon](https://littlewaves.coffee/pages/old-north-durham) coffee shop. I had a Dr. Durham Latte [organizer recommended](https://2023.djangocon.us/venue/#places). 
 
+Cocoa Cinnamon Coffee Shop
+![](recap-of-djangocon-us-2023-images/cocoa-cinnamon.jpg)
+
+Dr. Durham Latte
+![](recap-of-djangocon-us-2023-images/cocoa-cinnamon-dr-durham.jpg)
+
 It was comically on brand that with coffee in hand, I was looking for the Durham Convention Center to help with organizing and serendipitously stumbled upon the [Django Girls](https://djangogirls.org/en/) Workshop hosted at the office of our wonderful, longtime partners [Caktus Group](https://www.caktusgroup.com/). I was reunited with my good friends Dawn Wages, Jay Miller, Jason Judkins, Rebecca Conway, and Tim Allen. It was a great time and lives were changed. Many Django careers have been started through Django Girls. While there, I enjoyed food from [Neomonde Mediterranean](https://www.neomonde.com/mediterranean-restaurant-durham/) [organizer recommended](https://2023.djangocon.us/venue/#places) and picked up some swag! 
 
+So good to be welcomed in by my friend Tim :)
+![](recap-of-djangocon-us-2023-images/tim-welcome.jpg)
+
+Django Girls Lunch from Neomonde Mediterranean
+![](recap-of-djangocon-us-2023-images/django-girls-lunch.jpg)
+
 I've always wanted one of these shirts! 
+
+I eventually made it to the Durham Convention Center for Swag Stuffing! 
+![](recap-of-djangocon-us-2023-images/swag-stuffing.jpg)
+
+<!--
+Discover Durham generously provided 
+![](recap-of-djangocon-us-2023-images/discover-durham-box.jpg)
+![](recap-of-djangocon-us-2023-images/discover-durham-box-2.jpg)
+-->
 
 <!--
 Explain what Django Social is
@@ -28,6 +49,9 @@ John Gould
 Later that night, I attended Django Social at [Ponysaurus](https://www.ponysaurusbrewing.com/taproom). Not being a fan of beer, I had one of their signature [Beer Cocktails](https://www.ponysaurusbrewing.com/taproom-menu) a Gosé Margarita (lime juice, triple sec, & tequila, topped with Gosé beer). 
 
 During the event, I happened to find myself having a conversation with a woman who really knew a lot about open source and events! It turned out to be the new Python Software Foundation Executive Director Deb Nicholson. Serendity strikes again. I love it when that happens. :) She was accessible throughout the conference, and it was a wonderful place to get to know her. Check out her talk about meetups. 
+
+Me and PSF Executive Director Deb Nicholson later in the week 
+![](recap-of-djangocon-us-2023-images/me-and-deb.jpg)
 
 ## Monday
 
@@ -70,7 +94,8 @@ https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-us
 
 On Monday, I was fortunate to come into the possession of one of Foxley Talent's highly covetted Django Social t-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
 
-Pic with John Gould
+Me wearing my Django Social t-shirt with Django Social Organizer and Foxley Talent Principal Jon Gould
+![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
 
 Marc Gibbons
 Lymphoma
@@ -81,6 +106,15 @@ At lunch, I had the opportunity to learn more
 -->
 
 After the conference and group photo, I attended the complimentary speaker/organizer dinner at [The Pit](https://www.thepit-durham.com/). The food was really good! 
+
+The Pit dining room
+![](recap-of-djangocon-us-2023-images/the-pit-dining-room.jpg)
+
+The Pit bar
+![](recap-of-djangocon-us-2023-images/the-pit-bar.jpg)
+
+Another delicious southern-style meal! 
+![](recap-of-djangocon-us-2023-images/the-pit-meal.jpg)
 
 <!--
 Wharton
@@ -101,8 +135,14 @@ https://2023.djangocon.us/talks/panel-discussion-who-put-me-in-charge/
 https://2023.djangocon.us/talks/closing-remarks/
 -->
 
+My friend Andrew "Pandy" Knight delivered Wednesday morning keynote. 
+
+<!--
 Testing
-Andrew Pandy Knight
+-->
+
+A gift from my friend Andy
+![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
 
 Ask and you shall receive. 
 
@@ -127,9 +167,35 @@ Frank, Jacob, Andrew, Verda, Charles, Tim, me
 
 As usual, hanging around in the lobby led a great adventure. 
 
+You know you're in a good place when you see this :) 
+![](recap-of-djangocon-us-2023-images/kansas-basketball.jpg)
+
 We ate at a restaurant called [It's a Southern Thing](https://getsouthernfood.com/). The food was high quality and the service was great. 
 
+<!--
+![](recap-of-djangocon-us-2023-images/its-a-southern-thing-catfish.jpg)
+-->
+
+Our table after an incredible meal!
+![](recap-of-djangocon-us-2023-images/its-a-southern-thing-table.jpg)
+
 Afterward, we had ice cream at a novel ice cream shop called [Simon Says Dip This](https://www.simonssaysdipthis.com/). 
+
+<!--
+I had a chocolate core, bourbon shell, and straweberry topping. 
+-->
+
+Simon Says Dip This Counter
+![](recap-of-djangocon-us-2023-images/simon-says-counter.jpg)
+
+Sauce being poured on
+![](recap-of-djangocon-us-2023-images/simon-says-sauce.jpg)
+
+Toppings to choose from
+![](recap-of-djangocon-us-2023-images/simon-says-toppings.jpg)
+
+Final product... wow! 
+![](recap-of-djangocon-us-2023-images/simon-says-ice-cream.jpg)
 
 <!--
 When as this?
@@ -160,16 +226,43 @@ After visiting the gardens, I made the quick walk over to the [Duke Chapel](http
 
 I also visited the [Museum of Life and Science](lifeandscience.org/). The [Butterfly House](https://www.lifeandscience.org/explore/butterfly-house/) in particular was a really special experience. I was also happy to have a second change to see lemurs. Duke has the largest sanctuary for lemurs in the world, but unfortunately, its tours were booked through the rest of the year. The Museum of Life and Science has a [Lemur Exhibit](https://www.lifeandscience.org/explore/lemurs-and-tortoises/). I enjoyed observing these beautiful animals. Unfortunately, the [train](https://www.lifeandscience.org/explore/train/) that takes passengers around the museum's 84 acres was not in operation at the time of my visit. I know I would have really enjoyed it. 
 
+Museum of Life and Sciences lemurs
+![](recap-of-djangocon-us-2023-images/museum-of-life-and-sciences-lemurs.jpg)
+
 ### Food
 
 After having read rave reviews about [The Loaf](https://www.loafdurham.com/) bakery, I had to pay a visit. It did not disappoint. I ordered a ham and gruyere croissant, a walnut sea salt brownie, a pain au chocolat, and 5 pumpkin chocolate chip cookies. 
 
+A Walnut Sea Salt Brownie from The Loaf Bakery
+![](recap-of-djangocon-us-2023-images/the-loaf-brownie.jpg)
+
 I ordered takeaway from [Pizzeria Toro](https://www.pizzeriatoro.com/), right around the corner from the Marriott, for dinner one night. I had a mouthwatering red-sauce pizza with shredded mozzarella, black olives, mixed mushrooms, and fennel sausage. 
+
+Cool atmosphere! 
+![](recap-of-djangocon-us-2023-images/pizzeria-toro.jpg)
+
+Yum! 
+![](recap-of-djangocon-us-2023-images/pizzeria-toro-pizza.jpg)
 
 <!--
 After reading rave reviews about [Press Coffee, Crepe, and Cocktails](https://pressccc.com/locations/durham/) at the American Tobacco Campus, I simply had to visit. 
 
 Black Forest Latte
+
+Coffee Bar
+![](recap-of-djangocon-us-2023-images/press-crepes-coffee.jpg)
+
+Bar bar 
+![](recap-of-djangocon-us-2023-images/press-crepes-bar.jpg)
+
+Black Forest Latte... the foam was silky smooth. Delicious! 
+![](recap-of-djangocon-us-2023-images/press-crepes-silky-black-forest-latte.jpg)
+
+The Downhome breakfast crepe with bacon
+![](recap-of-djangocon-us-2023-images/press-crepes-crepe.jpg)
+
+The inside 
+![](recap-of-djangocon-us-2023-images/press-crepes-crepe-inside.jpg)
 -->
 
 ## In Closing
@@ -179,4 +272,26 @@ The t-shirt trilogy
 -->
 
 Can't wait for next year! :)
+
+<!--
+![](recap-of-djangocon-us-2023-images/coherence-demo.jpg)
+![](recap-of-djangocon-us-2023-images/coherence-table.jpg)
+
+![](recap-of-djangocon-us-2023-images/new-friends.jpg)
+![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
+
+![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
+![](recap-of-djangocon-us-2023-images/jacob.jpg)
+![](recap-of-djangocon-us-2023-images/jeff-eric-william.jpg)
+![](recap-of-djangocon-us-2023-images/marriott-fried-green-tomato.jpg)
+![](recap-of-djangocon-us-2023-images/marriott-ice-cream.jpg)
+![](recap-of-djangocon-us-2023-images/me-and-abigail.jpg)
+![](recap-of-djangocon-us-2023-images/organizers-slide.jpg)
+![](recap-of-djangocon-us-2023-images/parts-and-labor-margarita.jpg)
+![](recap-of-djangocon-us-2023-images/self-care-sprint.jpg)
+![](recap-of-djangocon-us-2023-images/the-parlour-chocolate-ice-cream.jpg)
+![](recap-of-djangocon-us-2023-images/the-parlour.jpg)
+![](recap-of-djangocon-us-2023-images/this-is-what-we-do.jpg)
+![](recap-of-djangocon-us-2023-images/trilogy.jpg)
+-->
 
