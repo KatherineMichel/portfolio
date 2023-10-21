@@ -70,9 +70,12 @@ Me and Abigail
 
 <!--
 https://2023.djangocon.us/talks/meet-ups-a-grand-vision-for-a-humble-endeavor/
+![](recap-of-djangocon-us-2023-images/deb-nicholson-some-people-find.jpg)
 
 https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/
+
 https://2023.djangocon.us/talks/using-database-triggers-to-reliably-track-model-history/
+
 
 AWS Cloud Practitioner
 https://2023.djangocon.us/talks/hosting-and-devops-for-django/
@@ -112,18 +115,6 @@ Will Vincent
 https://2023.djangocon.us/talks/keynote-django-the-dinosaur/
 https://2023.djangocon.us/talks/mixing-reliability-with-celery-for-delicious-async-tasks/
 https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/
-
-https://2023.djangocon.us/talks/empathetic-testing-developing-with-compassion-and-humility/
-
-https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
-https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/
-https://2023.djangocon.us/talks/dont-buy-the-ai-hype/
-https://2023.djangocon.us/talks/all-about-djangoproject-com/
-
-YupGup
-https://2023.djangocon.us/talks/managing-content-with-django/
-
-https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/
 -->
 
 On Monday, I was fortunate to come into the possession of one of [Foxley Talent](https://foxleytalent.com/about/)'s highly coveted Django Social t-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
@@ -132,10 +123,29 @@ Me wearing my Django Social t-shirt with Django Social Organizer and Foxley Tale
 ![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
 
 <!--
+https://2023.djangocon.us/talks/empathetic-testing-developing-with-compassion-and-humility/
+
 Marc Gibbons
 Lymphoma
 At the end of his talk, Marc revealed that days before the conference, he'd gotten a clean bill of health. 
 At lunch, I had the opportunity to learn more
+-->
+
+<!--
+https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
+
+https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/
+![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
+
+https://2023.djangocon.us/talks/dont-buy-the-ai-hype/
+![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
+
+https://2023.djangocon.us/talks/all-about-djangoproject-com/
+
+YupGup
+https://2023.djangocon.us/talks/managing-content-with-django/
+
+https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/
 -->
 
 After the conference and group photo, I attended the complimentary speaker/organizer dinner at [The Pit](https://www.thepit-durham.com/). The food was really good! 
@@ -163,6 +173,8 @@ My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
 
+This year, I've tried to do higher impact work as a DEFNA Board Member. Along the lines of fellow board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I decided to create my own. Tim Schilling, who has done an incredible job of taking over my former role of DEFNA Corporate Secretary, tooted to Natalia. 
+
 Ask and you shall receive. 
 
 <!--
@@ -172,13 +184,11 @@ https://2023.djangocon.us/talks/inside-out-my-journey-of-understanding-inclusion
 https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md
 
 https://fosstodon.org/@nessita/110340749235756274
-
-Tim, who has done an incredible job of taking over my former role of DEFNA Corporate Secretary, 
 -->
 
-<!--
 Thank you to Natalia for embracing our community and asking for reflection about an important subject. :) 
 
+<!--
 A welcome sign of progress! 
 “I had to stand in line at the women's bathroom. I’ve never had to do that before at a conference.” Natalia Bidart at #DjangoConUS"
 https://twitter.com/KatiMichel/status/1714679106510434533
@@ -189,9 +199,9 @@ Daniele
 https://2023.djangocon.us/talks/closing-remarks/
 -->
 
-<!--
 As usual, hanging around in the lobby led a great adventure. 
 
+<!--
 Guido
 -->
 
@@ -292,13 +302,15 @@ The inside
 
 ## In Closing
 
-I came away from Durham with some new friends and some coveted swag. 
-
-Prized possessions 
-![](recap-of-djangocon-us-2023-images/trilogy.jpg)
+DjangoCon US 2023 marked my sixth DjangoCon US
 
 My sixth DjangoCon US
 ![](recap-of-djangocon-us-2023-images/badge.jpg)
+
+I came away from Durham with some new friends and new hope. 
+
+Prized possessions 
+![](recap-of-djangocon-us-2023-images/trilogy.jpg)
 
 Proud to be a DEFNA Board Member and DjangoCon US Organizer
 ![](recap-of-djangocon-us-2023-images/organizers-slide.jpg)
@@ -332,10 +344,6 @@ Benedict Kofi Amofah
 Sheena O'Connell
 Ron Maravanyika
 Abigail
-
-![](recap-of-djangocon-us-2023-images/deb-nicholson-some-people-find.jpg)
-![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
-![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
 
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
