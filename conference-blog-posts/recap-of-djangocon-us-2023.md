@@ -10,6 +10,12 @@ Victor
 Nichole
 -->
 
+It was a rare opportunity to spend time in person with other board members and enjoy some incredible food. 
+
+<!--
+I asked several people for recommendations about what to order there. They all said you can't go wrong. Everything is so good. I decided to be adventurous and order something that sounded good, but that I'd never had before: linguini and clams. I chose well. It was one of the most delicious meals that I've ever had.
+-->
+
 Amazing ambiance
 ![](recap-of-djangocon-us-2023-images/parizade-walking-to-table.jpg)
 
@@ -24,10 +30,6 @@ Linguini and clams ("chorizo, cherry tomatoes, toasted garlic, white wine sauce,
 
 Cookie and ice cream desert
 ![](recap-of-djangocon-us-2023-images/parizade-cookie-and-ice-cream-dessert.jpg)
-
-<!--
-It was an incredible opportunity to get to know other board members in person and have some amazing food. I asked several people for recommendations about what to order there. They all said you can't go wrong. Everything is so good. I decided to be adventurous and order something that sounded good, but that I'd never had before: linguini and clams. I chose well. It was one of the most delicious meals that I've ever had.
--->
 
 ## Sunday
 
@@ -50,7 +52,7 @@ Django Girls lunch from Neomonde Mediterranean
 I've always wanted one of these shirts! 
 ![](recap-of-djangocon-us-2023-images/django-girls-shirts.jpg)
 
-I eventually made it to the Durham Convention Center for swag stuffing! Discover Durham also generously provided gift boxes by City Box Durham.
+I eventually made it to the Durham Convention Center for swag stuffing! [Discover Durham](https://www.discoverdurham.com/) also generously provided gift boxes by [City Box Durham](https://cityboxdurham.com/).
 
 Swag stuffing operation
 ![](recap-of-djangocon-us-2023-images/swag-stuffing.jpg)
@@ -81,7 +83,7 @@ Me and PSF Executive Director Deb Nicholson later in the week
 
 ## Monday
 
-On Monday, I ate breakfast with our new Django Fellow Natalia Bidart. I was thrilled to meet her! 
+On Monday, I ate breakfast with our new [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/). I was thrilled to meet her! 
 
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). It was inspiring. 
 
@@ -153,13 +155,17 @@ At lunch, I had the opportunity to learn more
 
 <!--
 https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
+-->
 
 https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
 
-https://2023.djangocon.us/talks/dont-buy-the-ai-hype/
+While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk "Don't Buy the AI Hype" the he had put together at the last minute to fill an open slot. 
+
+Tim on stage
 ![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
 
+<!--
 https://2023.djangocon.us/talks/all-about-djangoproject-com/
 
 YupGup
