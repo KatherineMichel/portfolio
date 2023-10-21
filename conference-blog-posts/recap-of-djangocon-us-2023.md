@@ -1,6 +1,8 @@
 ## Saturday
 
 <!--
+https://www.parizadedurham.com/menus/
+
 "Thank you to our DEFNA President Peter Grandstaff and Two Rock Software for treating fellow DEFNA Board Members in Durham for DjangoCon US to a magical dinner last night at Parizade. The apple pie mezcal margarita, linguini and clams, cookie and ice cream dessert, and company were stellar."
 https://www.linkedin.com/posts/katherinemichel_thank-you-to-our-defna-president-peter-grandstaff-activity-7119291550492233728-wBC5?utm_source=share&utm_medium=member_desktop
 
@@ -8,23 +10,24 @@ Victor
 Nichole
 -->
 
-It was an incredible opportunity to get to know other board members in person and have some amazing food. I asked several people for recommendations about what to order there. They all said you can't go wrong. Everything is so good. I decided to be adventurous and order something that sounded good, but that I'd never had before: linguini and clams. I chose well. It was one of the most delicious meals that I've ever had.
-
-<!--
-![](recap-of-djangocon-us-2023-images/parizade-foyer.jpg)
--->
-
+Amazing ambiance
 ![](recap-of-djangocon-us-2023-images/parizade-walking-to-table.jpg)
+
+Wow...
 ![](recap-of-djangocon-us-2023-images/parizade-dining-room.jpg)
 
-Apple Pie Mezcal Margarita
+Apple Pie Mezcal Margarita ("Del Maguey Vida Mezcal, triple sec, lime juice, apple pie syrup, salted rim")
 ![](recap-of-djangocon-us-2023-images/parizade-apple-pie-mezcal-margarita.jpg)
 
-Linguini and clams
+Linguini and clams ("chorizo, cherry tomatoes, toasted garlic, white wine sauce, tarragon bread crumbs")
 ![](recap-of-djangocon-us-2023-images/parizade-linguini-and-clams.jpg)
 
 Cookie and ice cream desert
 ![](recap-of-djangocon-us-2023-images/parizade-cookie-and-ice-cream-dessert.jpg)
+
+<!--
+It was an incredible opportunity to get to know other board members in person and have some amazing food. I asked several people for recommendations about what to order there. They all said you can't go wrong. Everything is so good. I decided to be adventurous and order something that sounded good, but that I'd never had before: linguini and clams. I chose well. It was one of the most delicious meals that I've ever had.
+-->
 
 ## Sunday
 
@@ -47,15 +50,13 @@ Django Girls lunch from Neomonde Mediterranean
 I've always wanted one of these shirts! 
 ![](recap-of-djangocon-us-2023-images/django-girls-shirts.jpg)
 
-I eventually made it to the Durham Convention Center for swag stuffing! 
+I eventually made it to the Durham Convention Center for swag stuffing! Discover Durham also generously provided gift boxes by City Box Durham.
+
+Swag stuffing operation
 ![](recap-of-djangocon-us-2023-images/swag-stuffing.jpg)
 
-Discover Durham also generously provided gift boxes by City Box Durham
+City Box Durham gift boxes
 ![](recap-of-djangocon-us-2023-images/discover-durham-box-2.jpg)
-
-<!--
-![](recap-of-djangocon-us-2023-images/discover-durham-box.jpg)
--->
 
 <!--
 Explain what Django Social is
@@ -66,9 +67,10 @@ John Gould
 
 Later that night, I attended Django Social at [Ponysaurus](https://www.ponysaurusbrewing.com/taproom). Not being a fan of beer, I had one of their signature [Beer Cocktails](https://www.ponysaurusbrewing.com/taproom-menu) a Gosé Margarita (lime juice, triple sec, & tequila, topped with Gosé beer). 
 
+Gosé Margarita 
 ![](recap-of-djangocon-us-2023-images/ponysaurus-beer-cocktail.jpg)
 
-During the event, I happened to find myself having a conversation with a woman who really knew a lot about open source and events! It turned out to be the new Python Software Foundation Executive Director Deb Nicholson. Serendity strikes again. I love it when that happens. :) She was accessible throughout the conference, and it was a wonderful place to get to know her. Check out her Monday talk about meetups. 
+During the event, I happened to find myself having a conversation with a woman who really knew a lot about open source and events! It turned out to be the new [Python Software Foundation Executive Director Deb Nicholson](https://www.python.org/psf/records/staff/). Serendity strikes again. I love it when that happens. :) She was accessible throughout the conference, and it was a wonderful place to get to know her. Check out her Monday talk about meetups. 
 
 Me and PSF Executive Director Deb Nicholson later in the week 
 ![](recap-of-djangocon-us-2023-images/me-and-deb.jpg)
@@ -191,30 +193,27 @@ My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
 
-This year, I've tried to do higher impact work as a DEFNA Board Member. Along the lines of fellow board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I decided to create my own. Tim Schilling, who has done an incredible job of taking over my former role of DEFNA Corporate Secretary, tooted to Natalia. 
+This year, along the lines of my fellow DEFNA board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I decided to create my own [Talk Topic Ideas List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md). Tim Schilling, who has done an incredible job of taking over my former role of DEFNA Corporate Secretary, tooted to Natalia on Fosstodon. 
 
 Ask and you shall receive. 
 
+On Wednesday, Natalia gave the talk [Inside Out: My Journey of Understanding Inclusion](https://2023.djangocon.us/talks/inside-out-my-journey-of-understanding-inclusion)
+
 <!--
-Ideas list, Fosstodon
-https://2023.djangocon.us/talks/inside-out-my-journey-of-understanding-inclusion
-
-https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md
-
 https://fosstodon.org/@nessita/110340749235756274
 -->
 
-Thank you to Natalia for embracing our community and asking for reflection about an important subject. :) 
+Thank you to Natalia for embracing our community and asking for reflection about an important subject.
+
+I hope she found our conference to be very welcoming in return. We have certainly made progress. 
+
+“I had to stand in line at the women's bathroom. I’ve never had to do that before at a conference.” Natalia Bidart at #DjangoConUS"
 
 <!--
-A welcome sign of progress! 
-“I had to stand in line at the women's bathroom. I’ve never had to do that before at a conference.” Natalia Bidart at #DjangoConUS"
 https://twitter.com/KatiMichel/status/1714679106510434533
 
 DjangoCon Europe
 Daniele
-
-https://2023.djangocon.us/talks/closing-remarks/
 -->
 
 As usual, hanging around in the lobby led a great adventure. 
@@ -344,6 +343,8 @@ Proud to be a DEFNA Board Member and DjangoCon US Organizer
 ![](recap-of-djangocon-us-2023-images/organizers-slide.jpg)
 
 <!--
+https://2023.djangocon.us/talks/closing-remarks/
+
 Durham
 
 As Jeff said, this was a hell of a year
