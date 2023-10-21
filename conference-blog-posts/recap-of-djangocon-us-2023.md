@@ -1,4 +1,4 @@
-## Saturday
+![badge](https://github.com/KatherineMichel/portfolio/assets/4193054/cd67abf5-ae60-4504-9b6c-07ee0dd7575a)## Saturday
 
 <!--
 "Thank you to our DEFNA President Peter Grandstaff and Two Rock Software for treating fellow DEFNA Board Members in Durham for DjangoCon US to a magical dinner last night at Parizade. The apple pie mezcal margarita, linguini and clams, cookie and ice cream dessert, and company were stellar."
@@ -29,6 +29,7 @@ Django Girls lunch from Neomonde Mediterranean
 ![](recap-of-djangocon-us-2023-images/django-girls-lunch.jpg)
 
 I've always wanted one of these shirts! 
+![](recap-of-djangocon-us-2023-images/django-girls-shirts.jpg)
 
 I eventually made it to the Durham Convention Center for swag stuffing! 
 ![](recap-of-djangocon-us-2023-images/swag-stuffing.jpg)
@@ -326,6 +327,11 @@ Benedict Kofi Amofah
 Sheena O'Connell
 Ron Maravanyika
 Abigail
+
+![](recap-of-djangocon-us-2023-images/deb-nicholson-some-people-find.jpg)
+![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
+![](recap-of-djangocon-us-2023-images/badge.jpg)
+![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
 
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
