@@ -117,9 +117,9 @@ https://2023.djangocon.us/talks/mixing-reliability-with-celery-for-delicious-asy
 https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/
 -->
 
-On Monday, I was fortunate to come into the possession of one of [Foxley Talent](https://foxleytalent.com/about/)'s highly coveted Django Social t-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
+On Monday, I was fortunate to come into the possession of one of [Foxley Talent](https://foxleytalent.com/about/)'s highly coveted Django Social T-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
 
-Me wearing my Django Social t-shirt with Django Social Organizer and Foxley Talent Principal Jon Gould
+Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Talent Principal Jon Gould
 ![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
 
 <!--
