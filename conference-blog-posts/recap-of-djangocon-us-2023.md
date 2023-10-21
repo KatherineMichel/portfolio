@@ -12,7 +12,7 @@ It was an incredible opportunity to get to know other board members in person an
 
 ## Sunday
 
-I love a good cup of coffee. On Sunday, I ventured to nearby [Cocoa Cinnamon](https://littlewaves.coffee/pages/old-north-durham) coffee shop. I had a Dr. Durham Latte [organizer recommended](https://2023.djangocon.us/venue/#places). 
+I love a good cup of coffee. On Sunday, I ventured to nearby [Cocoa Cinnamon](https://littlewaves.coffee/pages/old-north-durham) coffee shop. I had a Dr. Durham Latte ([organizer recommended](https://2023.djangocon.us/venue/#places)). 
 
 Cocoa Cinnamon Coffee Shop
 ![](recap-of-djangocon-us-2023-images/cocoa-cinnamon.jpg)
@@ -20,12 +20,12 @@ Cocoa Cinnamon Coffee Shop
 Dr. Durham Latte
 ![](recap-of-djangocon-us-2023-images/cocoa-cinnamon-dr-durham.jpg)
 
-It was comically on brand that with coffee in hand, I was looking for the Durham Convention Center to help with organizing and serendipitously stumbled upon the [Django Girls](https://djangogirls.org/en/) Workshop hosted at the office of our wonderful, longtime partners [Caktus Group](https://www.caktusgroup.com/). I was reunited with my good friends Dawn Wages, Jay Miller, Jason Judkins, Rebecca Conway, and Tim Allen. It was a great time and lives were changed. Many Django careers have been started through Django Girls. While there, I enjoyed food from [Neomonde Mediterranean](https://www.neomonde.com/mediterranean-restaurant-durham/) [organizer recommended](https://2023.djangocon.us/venue/#places) and picked up some swag! 
+It was comically on brand that with coffee in hand, I was looking for the Durham Convention Center to help with organizing and serendipitously stumbled upon the [Django Girls](https://djangogirls.org/en/) Workshop hosted at the office of our wonderful, longtime partners [Caktus Group](https://www.caktusgroup.com/). I was reunited with my good friends Dawn Wages, Jay Miller, Jason Judkins, Rebecca Conway, and Tim Allen. It was a great time and lives were changed. Many Django careers have been started through Django Girls. While there, I enjoyed food from [Neomonde Mediterranean](https://www.neomonde.com/mediterranean-restaurant-durham/) ([organizer recommended](https://2023.djangocon.us/venue/#places)) and picked up some swag! 
 
 So good to be welcomed in by my friend Tim :)
 ![](recap-of-djangocon-us-2023-images/tim-welcome.jpg)
 
-Django Girls Lunch from Neomonde Mediterranean
+Django Girls lunch from Neomonde Mediterranean
 ![](recap-of-djangocon-us-2023-images/django-girls-lunch.jpg)
 
 I've always wanted one of these shirts! 
@@ -33,11 +33,9 @@ I've always wanted one of these shirts!
 I eventually made it to the Durham Convention Center for Swag Stuffing! 
 ![](recap-of-djangocon-us-2023-images/swag-stuffing.jpg)
 
-<!--
 Discover Durham generously provided 
 ![](recap-of-djangocon-us-2023-images/discover-durham-box.jpg)
 ![](recap-of-djangocon-us-2023-images/discover-durham-box-2.jpg)
--->
 
 <!--
 Explain what Django Social is
