@@ -20,7 +20,7 @@ Cocoa Cinnamon Coffee Shop
 Dr. Durham Latte ("House made vanilla bean syrup, maca root, and ginger topped with black lava salt")
 ![](recap-of-djangocon-us-2023-images/cocoa-cinnamon-dr-durham.jpg)
 
-It was comically on brand that with coffee in hand, I was looking for the Durham Convention Center to help with organizing, got lost, and serendipitously stumbled upon the [Django Girls](https://djangogirls.org/en/) Workshop hosted at the office of our wonderful, longtime partners [Caktus Group](https://www.caktusgroup.com/). I was reunited with my friends Dawn Wages, Jay Miller, Jason Judkins, Rebecca Conway, and Tim Allen. It was a great time and lives were changed. Many Django careers have been started through Django Girls. While there, I enjoyed food from [Neomonde Mediterranean](https://www.neomonde.com/mediterranean-restaurant-durham/) ([organizer recommended](https://2023.djangocon.us/venue/#places)), caught up with my friends, and picked up some swag! 
+It was comically on brand that with coffee in hand, I was looking for the Durham Convention Center to help with organizing, got lost, and serendipitously stumbled upon the [Django Girls](https://djangogirls.org/en/durham/) Workshop hosted at the office of our wonderful, longtime partners [Caktus Group](https://www.caktusgroup.com/). I was reunited with my friends Dawn Wages, Jay Miller, Jason Judkins, Rebecca Conway, and Tim Allen. It was a great time and lives were changed. Many Django careers have been started through Django Girls. While there, I enjoyed food from [Neomonde Mediterranean](https://www.neomonde.com/mediterranean-restaurant-durham/) ([organizer recommended](https://2023.djangocon.us/venue/#places)), caught up with my friends, and picked up some swag! 
 
 So good to be welcomed in by my friend Tim :)
 ![](recap-of-djangocon-us-2023-images/tim-welcome.jpg)
@@ -235,11 +235,26 @@ I consider getting to know the host city to be an important part of the conferen
 
 After doing a bit of research, I chose the [Sarah P. Duke Gardens](https://gardens.duke.edu/) as my top priority for sight seeing. After spending time there, I can personally report that if you are in Durham, it is an absolute must see. Some of the scenes there were simply stunning! 
 
+<!--
+Sarah P. Duke Gardens pics
+-->
+
 After visiting the gardens, I made the quick walk over to the [Duke Chapel](https://chapel.duke.edu/). Not only was the chapel gorgeous, but the [Conference for North Carolina Chapter of the American Choral Directors Association](https://chapel.duke.edu/events/conference-north-carolina-chapter-american-choral-directors-association-1697169600) was taking place. A choir that must have been made up of elite children singers happened to be practicing. I've stumbled into some jaw-dropping experiences while traveling. This was another one. Together, the music and surroundings were magical. Take a listen. 
 
-I also visited the [Museum of Life and Science](lifeandscience.org/). The [Butterfly House](https://www.lifeandscience.org/explore/butterfly-house/) in particular was a really special experience. I was also happy to have a second change to see lemurs. Duke has the largest sanctuary for lemurs in the world, but unfortunately, its tours were booked through the rest of the year. The Museum of Life and Science has a [Lemur Exhibit](https://www.lifeandscience.org/explore/lemurs-and-tortoises/). I enjoyed observing these beautiful animals. Unfortunately, the [train](https://www.lifeandscience.org/explore/train/) that takes passengers around the museum's 84 acres was not in operation at the time of my visit. I know I would have really enjoyed it. 
+<!--
+Duke Chapel pics
+-->
 
-Museum of Life and Sciences lemurs
+I also visited the [Museum of Life and Science](lifeandscience.org/). The [Butterfly House](https://www.lifeandscience.org/explore/butterfly-house/) in particular was a really special experience. I was also happy to have a second change to see lemurs. Duke University has the largest sanctuary for lemurs in the world, but unfortunately, its tours were booked through the rest of the year. The Museum of Life and Science has a [Lemur Exhibit](https://www.lifeandscience.org/explore/lemurs-and-tortoises/). I enjoyed observing these beautiful animals. [The Farmyard](https://www.lifeandscience.org/explore/the-farmyard/), [Insectarium](https://www.lifeandscience.org/explore/insectarium/), and [Aerospace](https://www.lifeandscience.org/explore/aerospace/) exhibits were also really fun and interesting. 
+
+Unfortunately, the [train](https://www.lifeandscience.org/explore/train/) that takes passengers around the museum's 84 acres was not in operation at the time of my visit. I know I would have really enjoyed it. 
+
+<!--
+Butterfly pics
+Lemur pics
+-->
+
+Museum of Life and Science lemurs
 ![](recap-of-djangocon-us-2023-images/museum-of-life-and-sciences-lemurs.jpg)
 
 ### Food
