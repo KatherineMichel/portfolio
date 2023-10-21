@@ -1,4 +1,4 @@
-![badge](https://github.com/KatherineMichel/portfolio/assets/4193054/cd67abf5-ae60-4504-9b6c-07ee0dd7575a)## Saturday
+## Saturday
 
 <!--
 "Thank you to our DEFNA President Peter Grandstaff and Two Rock Software for treating fellow DEFNA Board Members in Durham for DjangoCon US to a magical dinner last night at Parizade. The apple pie mezcal margarita, linguini and clams, cookie and ice cream dessert, and company were stellar."
@@ -292,17 +292,22 @@ The inside
 
 ## In Closing
 
+I came away from Durham with some new friends and some coveted swag. 
+
+Prized possessions 
+![](recap-of-djangocon-us-2023-images/trilogy.jpg)
+
+My sixth DjangoCon US
+![](recap-of-djangocon-us-2023-images/badge.jpg)
+
+Proud to be a DEFNA Board Member and DjangoCon US Organizer
+![](recap-of-djangocon-us-2023-images/organizers-slide.jpg)
+
 <!--
 Durham
 
 As Jeff said, this was a hell of a year
 -->
-
-Proud to be a DEFNA Board Member and DjangoCon US Organizer
-![](recap-of-djangocon-us-2023-images/organizers-slide.jpg)
-
-Prized possessions 
-![](recap-of-djangocon-us-2023-images/trilogy.jpg)
 
 Can't wait for next year! :)
 
@@ -330,14 +335,14 @@ Abigail
 
 ![](recap-of-djangocon-us-2023-images/deb-nicholson-some-people-find.jpg)
 ![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
-![](recap-of-djangocon-us-2023-images/badge.jpg)
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
 
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
-![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
+
 ![](recap-of-djangocon-us-2023-images/this-is-what-we-do.jpg)
 ![](recap-of-djangocon-us-2023-images/self-care-sprint.jpg)
+![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
 
 ![](recap-of-djangocon-us-2023-images/jacob.jpg)
 ![](recap-of-djangocon-us-2023-images/marriott-fried-green-tomato.jpg)
