@@ -54,11 +54,15 @@ During the event, I happened to find myself having a conversation with a woman w
 Me and PSF Executive Director Deb Nicholson later in the week 
 ![](recap-of-djangocon-us-2023-images/me-and-deb.jpg)
 
+<!--
+![](recap-of-djangocon-us-2023-images/jeff-eric-william.jpg)
+-->
+
 ## Monday
 
 On Monday, I ate breakfast with our new Django Fellow Natalia Bidart. I was thrilled to meet her! 
 
-Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/).
+Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). It was inspiring. 
 
 Me and Abigail
 ![](recap-of-djangocon-us-2023-images/me-and-abigail.jpg)
@@ -68,8 +72,13 @@ https://2023.djangocon.us/talks/meet-ups-a-grand-vision-for-a-humble-endeavor/
 
 https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/
 https://2023.djangocon.us/talks/using-database-triggers-to-reliably-track-model-history/
+
+AWS Cloud Practitioner
 https://2023.djangocon.us/talks/hosting-and-devops-for-django/
+
 https://2023.djangocon.us/talks/afropython-using-django-to-change-black-people-life-in-brazil/
+
+Jacob, DSF Working Groups
 https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/
 -->
 
@@ -80,9 +89,17 @@ Parts and Labor margarita
 
 Afterward, I had a scoop of chocolate ice cream from [The Parlor](https://theparlour.co/) ([organizer recommended](https://2023.djangocon.us/venue/#places)). 
 
-Pic with Paola
+The Parlour
+![](recap-of-djangocon-us-2023-images/the-parlour.jpg)
+
+Chocolate ice cream... yum!
+![](recap-of-djangocon-us-2023-images/the-parlour-chocolate-ice-cream.jpg)
 
 <!--
+Back at the hotel
+
+Pic with Paola
+
 Authors
 Eric Matthes
 Will Vincent
@@ -94,16 +111,21 @@ Will Vincent
 https://2023.djangocon.us/talks/keynote-django-the-dinosaur/
 https://2023.djangocon.us/talks/mixing-reliability-with-celery-for-delicious-async-tasks/
 https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/
+
 https://2023.djangocon.us/talks/empathetic-testing-developing-with-compassion-and-humility/
+
 https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
 https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/
 https://2023.djangocon.us/talks/dont-buy-the-ai-hype/
 https://2023.djangocon.us/talks/all-about-djangoproject-com/
+
+YupGup
 https://2023.djangocon.us/talks/managing-content-with-django/
+
 https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/
 -->
 
-On Monday, I was fortunate to come into the possession of one of Foxley Talent's highly covetted Django Social t-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
+On Monday, I was fortunate to come into the possession of one of Foxley Talent's highly coveted Django Social t-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
 
 Me wearing my Django Social t-shirt with Django Social Organizer and Foxley Talent Principal Jon Gould
 ![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
@@ -112,7 +134,6 @@ Me wearing my Django Social t-shirt with Django Social Organizer and Foxley Tale
 Marc Gibbons
 Lymphoma
 At the end of his talk, Marc revealed that days before the conference, he'd gotten a clean bill of health. 
-
 At lunch, I had the opportunity to learn more
 -->
 
@@ -130,9 +151,6 @@ Another delicious southern-style meal!
 ## Wednesday
 
 <!--
-https://2023.djangocon.us/talks/opening-remarks-wednesday/
-https://2023.djangocon.us/talks/keynote-testing-modern-web-apps-like-a-champion/
-
 Ideas list, Fosstodon
 https://2023.djangocon.us/talks/inside-out-my-journey-of-understanding-inclusion
 
@@ -144,11 +162,7 @@ https://2023.djangocon.us/talks/panel-discussion-who-put-me-in-charge/
 https://2023.djangocon.us/talks/closing-remarks/
 -->
 
-My friend Andrew "Pandy" Knight delivered Wednesday morning keynote. 
-
-<!--
-Testing
--->
+My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing Modern Web Apps Like a Champion](https://2023.djangocon.us/talks/keynote-testing-modern-web-apps-like-a-champion/). Afterward, I had the chance to catch up with him. His talk has rekindled my desire to get better at testing and reminded me of what a great resource Test Automation University is. He gave me a card resource too! 
 
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
@@ -156,10 +170,15 @@ A gift from my friend Andy
 Ask and you shall receive. 
 
 <!--
+https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md
+
+https://fosstodon.org/@nessita/110340749235756274
+
 Tim
 Secretary replacement
 -->
 
+<!--
 Thank you to Natalia for embracing our community and asking for reflection about an important subject. :) 
 
 A welcome sign of progress! 
@@ -168,10 +187,11 @@ https://twitter.com/KatiMichel/status/1714679106510434533
 
 DjangoCon Europe
 Daniele
-
-As usual, hanging around in the lobby led a great adventure. 
+-->
 
 <!--
+As usual, hanging around in the lobby led a great adventure. 
+
 Guido
 -->
 
@@ -180,8 +200,6 @@ Dinner
 Frank, Jacob, Andrew, Verda, Charles, Tim, me
 
 Wharton
-Tim
-Charles
 -->
 
 You know you're in a good place when you see this :) 
@@ -197,42 +215,17 @@ Our table after an incredible meal!
 
 Afterward, led by Tim, we had ice cream at a novel ice cream shop called [Simon Says Dip This](https://www.simonssaysdipthis.com/). 
 
-<!--
-I had a chocolate core, bourbon shell, and straweberry topping. 
--->
-
 Simon Says Dip This Counter
 ![](recap-of-djangocon-us-2023-images/simon-says-counter.jpg)
 
-Sauce being poured on
+Dip being poured on
 ![](recap-of-djangocon-us-2023-images/simon-says-sauce.jpg)
 
 Toppings to choose from
 ![](recap-of-djangocon-us-2023-images/simon-says-toppings.jpg)
 
-Final product... wow! 
+Final product... wow! (vanilla soft serve, chocolate core, bourbon dip, and strawberry topping)
 ![](recap-of-djangocon-us-2023-images/simon-says-ice-cream.jpg)
-
-<!--
-When as this?
-
-Two members of our party had founded a startup called Coherence. 
-![](recap-of-djangocon-us-2023-images/coherence-demo.jpg)
-![](recap-of-djangocon-us-2023-images/coherence-table.jpg)
-
-White Coat Captioning
-Anne Beeman
-
-Africans
-Richard Ackon
-Abigail Afi Gbadago
-Ntalie Geofrey
-Noah
-Benedict Kofi Amofah
-Sheena O'Connell
-Ron Maravanyika
-Abigail
--->
 
 ## Sight Seeing and More Food!
 
@@ -253,10 +246,10 @@ Museum of Life and Sciences lemurs
 
 After having read rave reviews about [The Loaf](https://www.loafdurham.com/) bakery, I had to pay a visit. It did not disappoint. I ordered a ham and gruyere croissant, a walnut sea salt brownie, a pain au chocolat, and 5 pumpkin chocolate chip cookies. 
 
-A Walnut Sea Salt Brownie from The Loaf Bakery
+A walnut sea salt brownie from The Loaf bakery
 ![](recap-of-djangocon-us-2023-images/the-loaf-brownie.jpg)
 
-I ordered takeaway from [Pizzeria Toro](https://www.pizzeriatoro.com/), right around the corner from the Marriott, for dinner one night. I had a mouthwatering red-sauce pizza with shredded mozzarella, black olives, mixed mushrooms, and fennel sausage. 
+For dinner one night, I ordered takeaway from [Pizzeria Toro](https://www.pizzeriatoro.com/), right around the corner from the Marriott. I had a mouthwatering red-sauce pizza with shredded mozzarella, black olives, mixed mushrooms, and fennel sausage. 
 
 Cool atmosphere! 
 ![](recap-of-djangocon-us-2023-images/pizzeria-toro.jpg)
@@ -264,10 +257,7 @@ Cool atmosphere!
 Yum! 
 ![](recap-of-djangocon-us-2023-images/pizzeria-toro-pizza.jpg)
 
-<!--
-After reading rave reviews about [Press Coffee, Crepe, and Cocktails](https://pressccc.com/locations/durham/) at the American Tobacco Campus, I simply had to visit. 
-
-Black Forest Latte
+After having read rave reviews about [Press Coffee, Crepe, and Cocktails](https://pressccc.com/locations/durham/) at the American Tobacco Campus, I simply had to visit. I was keen to have a Black Forest Latte. I finally had the opportunity on sprint day morning. The atmosphere was bright and cute. The food was excellent. I think this was the first time that I've ever had a savory crepe. 
 
 Coffee Bar
 ![](recap-of-djangocon-us-2023-images/press-crepes-coffee.jpg)
@@ -278,35 +268,52 @@ Bar bar
 Black Forest Latte... the foam was silky smooth. Delicious! 
 ![](recap-of-djangocon-us-2023-images/press-crepes-silky-black-forest-latte.jpg)
 
-The Downhome breakfast crepe with bacon
+The Down Home breakfast crepe ("bacon with scrambled eggs and hoop cheese")
 ![](recap-of-djangocon-us-2023-images/press-crepes-crepe.jpg)
 
 The inside 
 ![](recap-of-djangocon-us-2023-images/press-crepes-crepe-inside.jpg)
--->
 
 ## In Closing
 
-<!--
-The t-shirt trilogy
--->
+Proud to be a DEFNA Board Member and DjangoCon US Organizer
+![](recap-of-djangocon-us-2023-images/organizers-slide.jpg)
+
+Prized possessions 
+![](recap-of-djangocon-us-2023-images/trilogy.jpg)
 
 Can't wait for next year! :)
 
 <!--
+When as this?
+
+Two members of our party had founded a startup called Coherence. 
+![](recap-of-djangocon-us-2023-images/coherence-demo.jpg)
+![](recap-of-djangocon-us-2023-images/coherence-table.jpg)
+
+White Coat Captioning
+Anne Beeman
+-->
+
+<!--
+Africans
+Richard Ackon
+Abigail Afi Gbadago
+Ntalie Geofrey
+Noah
+Benedict Kofi Amofah
+Sheena O'Connell
+Ron Maravanyika
+Abigail
+
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
-
 ![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
+![](recap-of-djangocon-us-2023-images/this-is-what-we-do.jpg)
+![](recap-of-djangocon-us-2023-images/self-care-sprint.jpg)
+
 ![](recap-of-djangocon-us-2023-images/jacob.jpg)
-![](recap-of-djangocon-us-2023-images/jeff-eric-william.jpg)
 ![](recap-of-djangocon-us-2023-images/marriott-fried-green-tomato.jpg)
 ![](recap-of-djangocon-us-2023-images/marriott-ice-cream.jpg)
-![](recap-of-djangocon-us-2023-images/organizers-slide.jpg)
-![](recap-of-djangocon-us-2023-images/self-care-sprint.jpg)
-![](recap-of-djangocon-us-2023-images/the-parlour-chocolate-ice-cream.jpg)
-![](recap-of-djangocon-us-2023-images/the-parlour.jpg)
-![](recap-of-djangocon-us-2023-images/this-is-what-we-do.jpg)
-![](recap-of-djangocon-us-2023-images/trilogy.jpg)
 -->
 
