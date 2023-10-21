@@ -155,9 +155,10 @@ At lunch, I had the opportunity to learn more
 
 <!--
 https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
--->
 
 https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/
+-->
+
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
 
 While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk "Don't Buy the AI Hype" the he had put together at the last minute to fill an open slot. 
