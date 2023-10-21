@@ -125,7 +125,7 @@ https://2023.djangocon.us/talks/managing-content-with-django/
 https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/
 -->
 
-On Monday, I was fortunate to come into the possession of one of Foxley Talent's highly coveted Django Social t-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
+On Monday, I was fortunate to come into the possession of one of [Foxley Talent](https://foxleytalent.com/about/)'s highly coveted Django Social t-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
 
 Me wearing my Django Social t-shirt with Django Social Organizer and Foxley Talent Principal Jon Gould
 ![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
@@ -151,15 +151,10 @@ Another delicious southern-style meal!
 ## Wednesday
 
 <!--
-Ideas list, Fosstodon
-https://2023.djangocon.us/talks/inside-out-my-journey-of-understanding-inclusion
-
 https://2023.djangocon.us/talks/how-to-schedule-tasks-with-celery-and-django/
 https://2023.djangocon.us/talks/one-database-table-one-model-many-behaviours-proxy-model/
 https://2023.djangocon.us/talks/back-to-the-future-of-hypermedia-in-django/
 https://2023.djangocon.us/talks/panel-discussion-who-put-me-in-charge/
-
-https://2023.djangocon.us/talks/closing-remarks/
 -->
 
 My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing Modern Web Apps Like a Champion](https://2023.djangocon.us/talks/keynote-testing-modern-web-apps-like-a-champion/). Afterward, I had the chance to catch up with him. His talk has rekindled my desire to get better at testing and reminded me of what a great resource Test Automation University is. He gave me a card resource too! 
@@ -170,12 +165,14 @@ A gift from my friend Andy
 Ask and you shall receive. 
 
 <!--
+Ideas list, Fosstodon
+https://2023.djangocon.us/talks/inside-out-my-journey-of-understanding-inclusion
+
 https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md
 
 https://fosstodon.org/@nessita/110340749235756274
 
-Tim
-Secretary replacement
+Tim, who has done an incredible job of taking over my former role of DEFNA Corporate Secretary, 
 -->
 
 <!--
@@ -187,6 +184,8 @@ https://twitter.com/KatiMichel/status/1714679106510434533
 
 DjangoCon Europe
 Daniele
+
+https://2023.djangocon.us/talks/closing-remarks/
 -->
 
 <!--
@@ -213,7 +212,7 @@ Crispy Catfish ("Crispy cornmeal fried catfish served over a bed of red beans & 
 Our table after an incredible meal!
 ![](recap-of-djangocon-us-2023-images/its-a-southern-thing-table.jpg)
 
-Afterward, led by Tim, we had ice cream at a novel ice cream shop called [Simon Says Dip This](https://www.simonssaysdipthis.com/). 
+Afterward, led by Tim, we had ice cream at a novel ice cream shop called [Simon Says Dip This](https://www.simonssaysdipthis.com/). Tim said he's never seen an ice cream shop like this anywhere else. 
 
 Simon Says Dip This Counter
 ![](recap-of-djangocon-us-2023-images/simon-says-counter.jpg)
@@ -243,6 +242,7 @@ After visiting the gardens, I made the quick walk over to the [Duke Chapel](http
 
 <!--
 Duke Chapel pics
+Video
 -->
 
 I also visited the [Museum of Life and Science](lifeandscience.org/). The [Butterfly House](https://www.lifeandscience.org/explore/butterfly-house/) in particular was a really special experience. I was also happy to have a second change to see lemurs. Duke University has the largest sanctuary for lemurs in the world, but unfortunately, its tours were booked through the rest of the year. The Museum of Life and Science has a [Lemur Exhibit](https://www.lifeandscience.org/explore/lemurs-and-tortoises/). I enjoyed observing these beautiful animals. [The Farmyard](https://www.lifeandscience.org/explore/the-farmyard/), [Insectarium](https://www.lifeandscience.org/explore/insectarium/), and [Aerospace](https://www.lifeandscience.org/explore/aerospace/) exhibits were also really fun and interesting. 
@@ -272,7 +272,7 @@ Cool atmosphere!
 Yum! 
 ![](recap-of-djangocon-us-2023-images/pizzeria-toro-pizza.jpg)
 
-After having read rave reviews about [Press Coffee, Crepe, and Cocktails](https://pressccc.com/locations/durham/) at the American Tobacco Campus, I simply had to visit. I was keen to have a Black Forest Latte. I finally had the opportunity on sprint day morning. The atmosphere was bright and cute. The food was excellent. I think this was the first time that I've ever had a savory crepe. 
+After having read rave reviews about [Press Coffee, Crepe, and Cocktails](https://pressccc.com/locations/durham/) at the [American Tobacco Campus](https://americantobacco.co/), I simply had to visit. I was keen to have a seasonal Black Forest Latte. I finally had the opportunity on sprint day morning. The atmosphere was bright and cute. The food was excellent. I think this was the first time that I've ever had a savory crepe. 
 
 Coffee Bar
 ![](recap-of-djangocon-us-2023-images/press-crepes-coffee.jpg)
@@ -280,7 +280,7 @@ Coffee Bar
 Bar bar 
 ![](recap-of-djangocon-us-2023-images/press-crepes-bar.jpg)
 
-Black Forest Latte... the foam was silky smooth. Delicious! 
+Black Forest Latte... the foam was silky smooth. Delicious! ("a combination of our house-made chocolate-sauce and cherry syrup")
 ![](recap-of-djangocon-us-2023-images/press-crepes-silky-black-forest-latte.jpg)
 
 The Down Home breakfast crepe ("bacon with scrambled eggs and hoop cheese")
@@ -290,6 +290,12 @@ The inside
 ![](recap-of-djangocon-us-2023-images/press-crepes-crepe-inside.jpg)
 
 ## In Closing
+
+<!--
+Durham
+
+As Jeff said, this was a hell of a year
+-->
 
 Proud to be a DEFNA Board Member and DjangoCon US Organizer
 ![](recap-of-djangocon-us-2023-images/organizers-slide.jpg)
