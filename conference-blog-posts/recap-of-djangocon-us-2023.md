@@ -1,3 +1,7 @@
+# Recap of DjangoCon US 2023
+
+## Intro
+
 ## Saturday
 
 <!--
@@ -6,8 +10,6 @@ https://www.parizadedurham.com/menus/
 "Thank you to our DEFNA President Peter Grandstaff and Two Rock Software for treating fellow DEFNA Board Members in Durham for DjangoCon US to a magical dinner last night at Parizade. The apple pie mezcal margarita, linguini and clams, cookie and ice cream dessert, and company were stellar."
 https://www.linkedin.com/posts/katherinemichel_thank-you-to-our-defna-president-peter-grandstaff-activity-7119291550492233728-wBC5?utm_source=share&utm_medium=member_desktop
 -->
-
-![](recap-of-djangocon-us-2023-images/parizade-post.png)
 
 According to every person I spoke to who had eaten there before, you can't go wrong. Everything is so good. I'd never eaten linguini and clams before, but it sounded really good. I decided to be adventurous and try it. If you won't do something new on the eve of DjangoCon US, when will you? I chose well.  
 
@@ -28,6 +30,8 @@ Linguini and clams ("chorizo, cherry tomatoes, toasted garlic, white wine sauce,
 Cookie and ice cream desert
 ![](recap-of-djangocon-us-2023-images/parizade-cookie-and-ice-cream-dessert.jpg)
 
+![](recap-of-djangocon-us-2023-images/parizade-post.png)
+
 ## Sunday
 
 I love a good cup of coffee. On Sunday, I ventured to nearby [Cocoa Cinnamon](https://littlewaves.coffee/pages/old-north-durham) coffee shop. I had a Dr. Durham Latte ([organizer recommended](https://2023.djangocon.us/venue/#places)). 
@@ -38,7 +42,7 @@ Cocoa Cinnamon Coffee Shop
 Dr. Durham Latte ("House made vanilla bean syrup, maca root, and ginger topped with black lava salt")
 ![](recap-of-djangocon-us-2023-images/cocoa-cinnamon-dr-durham.jpg)
 
-It was comically on brand that with coffee in hand, I was looking for the Durham Convention Center to help with organizing, got lost, and serendipitously stumbled upon the [Django Girls](https://djangogirls.org/en/durham/) Workshop hosted at the office of our wonderful, longtime partners [Caktus Group](https://www.caktusgroup.com/). I was reunited with my friends Dawn Wages, Jay Miller, Jason Judkins, Rebecca Conway, and Tim Allen. It was a great time and lives were changed. Many Django careers have been started through Django Girls. While there, I enjoyed food from [Neomonde Mediterranean](https://www.neomonde.com/mediterranean-restaurant-durham/) ([organizer recommended](https://2023.djangocon.us/venue/#places)), caught up with my friends, and picked up some swag! 
+It was comically on brand that with coffee in hand, I was looking for the [Durham Convention Center](https://www.durhamconventioncenter.com/) to help with organizing, got lost, and serendipitously stumbled upon the [Django Girls](https://djangogirls.org/en/durham/) Workshop hosted at the office of our wonderful, longtime partners [Caktus Group](https://www.caktusgroup.com/). I was reunited with my friends Dawn Wages, Jay Miller, Jason Judkins, Rebecca Conway, and Tim Allen. It was a great time and lives were changed. Many Django careers have been started through [Django Girls](https://djangogirls.org/en/). While there, I enjoyed food from [Neomonde Mediterranean](https://www.neomonde.com/mediterranean-restaurant-durham/) ([organizer recommended](https://2023.djangocon.us/venue/#places)), caught up with my friends, and picked up some swag! 
 
 So good to be welcomed in by my friend Tim :)
 ![](recap-of-djangocon-us-2023-images/tim-welcome.jpg)
@@ -51,7 +55,7 @@ I've always wanted one of these shirts!
 
 I eventually made it to the Durham Convention Center for swag stuffing! Many hands make light work. [Discover Durham](https://www.discoverdurham.com/) also generously provided gift boxes by [City Box Durham](https://cityboxdurham.com/). 
 
-Swag stuffing operation (I spy a DEFNA sticker!)
+Swag stuffing operation (I spy a [DEFNA](https://www.defna.org/) sticker!)
 ![](recap-of-djangocon-us-2023-images/swag-stuffing.jpg)
 
 City Box Durham gift boxes
@@ -80,7 +84,7 @@ Me and PSF Executive Director Deb Nicholson later in the week
 
 ## Monday
 
-On Monday, I ate breakfast with our new [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/). I was thrilled to meet her! 
+On Monday, I ate breakfast with our new [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/). I was thrilled to meet her! We talked about our work, what her experience has been like so far as a Django Fellow, and she introduced me to the art of drinking [maté](https://en.wikipedia.org/wiki/Mate_(drink)).
 
 <!--
 ![](recap-of-djangocon-us-2023-images/kojo.jpg)
@@ -150,13 +154,14 @@ Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Tale
 ![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
 
 <!--
+I was intrigued about the subject
 https://2023.djangocon.us/talks/empathetic-testing-developing-with-compassion-and-humility/
 
 Marc Gibbons
 Lymphoma
-At the end of his talk, Marc revealed that days before the conference, he'd gotten a clean bill of health. 
-At lunch, I had the opportunity to learn more
 -->
+
+At the end of his talk, Marc revealed that just days before the conference, he'd gotten a clean bill of health. I ate lunch with Marc and had the opportunity to learn more about his journey and how his perspective on life has changed over time. Thank you for sharing, Marc! 
 
 <!--
 https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
@@ -220,6 +225,8 @@ Thank you to Natalia for embracing our community and asking for reflection about
 I hope she found our conference to be very welcoming in return. We have certainly made progress. 
 
 “I had to stand in line at the women's bathroom. I’ve never had to do that before at a conference.” Natalia Bidart at #DjangoConUS"
+
+I don't take the time that Natalie spent on her talk lightly. I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. I am looking forward to getting to know Natalia's development work. 
 
 <!--
 https://twitter.com/KatiMichel/status/1714679106510434533
@@ -359,7 +366,8 @@ https://2023.djangocon.us/talks/closing-remarks/
 
 Durham
 
-As Jeff said, this was a hell of a year
+As Jeff said, it was one hell of a year
+https://fosstodon.org/@webology@mastodon.social/111270062215335417
 -->
 
 Can't wait for next year! :)
