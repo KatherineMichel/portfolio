@@ -108,16 +108,12 @@ Thank you Kojo for setting the stage for a wonderful conference.
 Self care sprint
 ![](recap-of-djangocon-us-2023-images/self-care-sprint.jpg)
 
-A powerful tool pointed out by Eric Holscher of Read the Docs and Write the Docs for setting norms: "Hey, we don't do that here."
-![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
-
 <!--
 Opening remarks
-https://www.ericholscher.com/blog/2023/feb/10/we-dont-do-that-here/
-
-https://about.readthedocs.com/
-https://www.writethedocs.org/
 -->
+
+A powerful tool pointed out by Eric Holscher of [Read the Docs](https://about.readthedocs.com/) and [Write the Docs](https://www.writethedocs.org/) for setting norms: "[Hey, we don't do that here.](https://www.ericholscher.com/blog/2023/feb/10/we-dont-do-that-here/)"
+![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
 
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). 
 
@@ -131,10 +127,13 @@ Summary
 Me and Abigail
 ![](recap-of-djangocon-us-2023-images/me-and-abigail.jpg)
 
+[HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
+
 [Meet-ups: A Grand Vision for a Humble Endeavor](https://2023.djangocon.us/talks/meet-ups-a-grand-vision-for-a-humble-endeavor/)
 ![](recap-of-djangocon-us-2023-images/deb-nicholson-some-people-find.jpg)
 
-[HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
+At lunch... trying a fried green tomatoe for the first time!
+![](recap-of-djangocon-us-2023-images/marriott-fried-green-tomato.jpg)
 
 [Using database triggers to reliably track model history](https://2023.djangocon.us/talks/using-database-triggers-to-reliably-track-model-history/)
 ![](recap-of-djangocon-us-2023-images/pg-history.jpg)
@@ -175,7 +174,6 @@ Chocolate ice cream... yum!
 
 <!--
 Back at the hotel
-
 Pic with Paola
 
 Authors
@@ -225,6 +223,9 @@ While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/
 
 Tim on stage
 ![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
+
+Ice cream for afternoon snack
+![](recap-of-djangocon-us-2023-images/marriott-ice-cream.jpg)
 
 <!--
 https://2023.djangocon.us/talks/all-about-djangoproject-com/
@@ -292,7 +293,7 @@ Daniele
 DjangoCon Africa Organizers
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
 
-New friends
+New friends... beautiful on the inside and out!
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 
 <!--
@@ -322,7 +323,7 @@ Frank, Jacob, Andrew, Verda, Charles, Tim, me
 Wharton
 -->
 
-You know you're in a good place when you see this :) 
+You know you're in good company when someone in your party is wearing this :) 
 ![](recap-of-djangocon-us-2023-images/kansas-basketball.jpg)
 
 We ate at a restaurant called [It's a Southern Thing](https://getsouthernfood.com/). The food was high quality and the service was great. I had the Crispy Catfish. 
@@ -477,8 +478,5 @@ Benedict Kofi Amofah
 Sheena O'Connell
 Ron Maravanyika
 Abigail
-
-![](recap-of-djangocon-us-2023-images/marriott-fried-green-tomato.jpg)
-![](recap-of-djangocon-us-2023-images/marriott-ice-cream.jpg)
 -->
 
