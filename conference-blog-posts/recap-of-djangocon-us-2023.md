@@ -53,7 +53,7 @@ Django Girls lunch from Neomonde Mediterranean
 I've always wanted one of these shirts! 
 ![](recap-of-djangocon-us-2023-images/django-girls-shirts.jpg)
 
-I eventually made it to the Durham Convention Center for swag stuffing! Many hands make light work. [Discover Durham](https://www.discoverdurham.com/) also generously provided gift boxes by [City Box Durham](https://cityboxdurham.com/). 
+I eventually made it to the Durham Convention Center for swag stuffing! Many hands make light work. A wonderful conference partner [Discover Durham](https://www.discoverdurham.com/) also generously provided city guides for swag bags and gift boxes by [City Box Durham](https://cityboxdurham.com/) for organizers and speakers. 
 
 Swag stuffing operation (I spy a [DEFNA](https://www.defna.org/) sticker!)
 ![](recap-of-djangocon-us-2023-images/swag-stuffing.jpg)
