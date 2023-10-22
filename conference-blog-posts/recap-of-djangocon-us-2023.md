@@ -5,10 +5,9 @@ https://www.parizadedurham.com/menus/
 
 "Thank you to our DEFNA President Peter Grandstaff and Two Rock Software for treating fellow DEFNA Board Members in Durham for DjangoCon US to a magical dinner last night at Parizade. The apple pie mezcal margarita, linguini and clams, cookie and ice cream dessert, and company were stellar."
 https://www.linkedin.com/posts/katherinemichel_thank-you-to-our-defna-president-peter-grandstaff-activity-7119291550492233728-wBC5?utm_source=share&utm_medium=member_desktop
-
-Victor
-Nichole
 -->
+
+![](recap-of-djangocon-us-2023-images/parizade post.jpg)
 
 According to every person I spoke to who had eaten there before, you can't go wrong. Everything is so good. I'd never eaten linguini and clams before, but it sounded really good. I decided to be adventurous and try it. If you won't do something new on the eve of DjangoCon US, when will you? I chose well.  
 
@@ -83,6 +82,10 @@ Me and PSF Executive Director Deb Nicholson later in the week
 
 On Monday, I ate breakfast with our new [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/). I was thrilled to meet her! 
 
+<!--
+![](recap-of-djangocon-us-2023-images/kojo.jpg)
+-->
+
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). It was inspiring. 
 
 Me and Abigail
@@ -95,7 +98,7 @@ https://2023.djangocon.us/talks/meet-ups-a-grand-vision-for-a-humble-endeavor/
 https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/
 
 https://2023.djangocon.us/talks/using-database-triggers-to-reliably-track-model-history/
-
+![](recap-of-djangocon-us-2023-images/pg-history.jpg)
 
 AWS Cloud Practitioner
 https://2023.djangocon.us/talks/hosting-and-devops-for-django/
@@ -104,6 +107,7 @@ https://2023.djangocon.us/talks/afropython-using-django-to-change-black-people-l
 
 Jacob, DSF Working Groups
 https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/
+![](recap-of-djangocon-us-2023-images/what-can-the-dsf.jpg)
 -->
 
 That night, I walked with a group of fellow conference-goers to [Parts and Labor](https://partsnlabor.com/). 
@@ -115,6 +119,9 @@ Afterward, I had a scoop of chocolate ice cream from [The Parlor](https://thepar
 
 The Parlour
 ![](recap-of-djangocon-us-2023-images/the-parlour.jpg)
+
+Parlor flavors
+![](recap-of-djangocon-us-2023-images/parlor-flavors.jpg)
 
 Chocolate ice cream... yum!
 ![](recap-of-djangocon-us-2023-images/the-parlour-chocolate-ice-cream.jpg)
@@ -378,7 +385,7 @@ Benedict Kofi Amofah
 Sheena O'Connell
 Ron Maravanyika
 Abigail
- 
+
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
 
