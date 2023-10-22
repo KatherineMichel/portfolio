@@ -2,13 +2,15 @@
 
 ## Intro
 
+<!--
+Conference summary
+-->
+
 ## Saturday
 
 <!--
+Dinner intro
 https://www.parizadedurham.com/menus/
-
-"Thank you to our DEFNA President Peter Grandstaff and Two Rock Software for treating fellow DEFNA Board Members in Durham for DjangoCon US to a magical dinner last night at Parizade. The apple pie mezcal margarita, linguini and clams, cookie and ice cream dessert, and company were stellar."
-https://www.linkedin.com/posts/katherinemichel_thank-you-to-our-defna-president-peter-grandstaff-activity-7119291550492233728-wBC5?utm_source=share&utm_medium=member_desktop
 -->
 
 According to every person I spoke to who had eaten there before, you can't go wrong. Everything is so good. I'd never eaten linguini and clams before, but it sounded really good. I decided to be adventurous and try it. If you won't do something new on the eve of DjangoCon US, when will you? I chose well.  
@@ -30,7 +32,12 @@ Linguini and clams ("chorizo, cherry tomatoes, toasted garlic, white wine sauce,
 Cookie and ice cream desert
 ![](recap-of-djangocon-us-2023-images/parizade-cookie-and-ice-cream-dessert.jpg)
 
+"Thank you to our DEFNA President Peter Grandstaff and Two Rock Software for treating fellow DEFNA Board Members in Durham for DjangoCon US to a magical dinner last night at Parizade. The apple pie mezcal margarita, linguini and clams, cookie and ice cream dessert, and company were stellar."
 ![](recap-of-djangocon-us-2023-images/parizade-post.png)
+
+<!--
+https://www.linkedin.com/posts/katherinemichel_thank-you-to-our-defna-president-peter-grandstaff-activity-7119291550492233728-wBC5?utm_source=share&utm_medium=member_desktop
+-->
 
 ## Sunday
 
@@ -79,8 +86,10 @@ Me and PSF Executive Director Deb Nicholson later in the week
 ![](recap-of-djangocon-us-2023-images/me-and-deb.jpg)
 
 <!--
-![](recap-of-djangocon-us-2023-images/jeff-eric-william.jpg)
+Summary or tweet
 -->
+
+![](recap-of-djangocon-us-2023-images/jeff-eric-william.jpg)
 
 ## Monday
 
@@ -95,6 +104,20 @@ Thank you Kojo for setting the stage for a wonderful conference.
 
 “All of you are beyond welcome and we are thrilled you are here.”
 ![](recap-of-djangocon-us-2023-images/kojo-welcome.png)
+
+Self care sprint
+![](recap-of-djangocon-us-2023-images/self-care-sprint.jpg)
+
+A powerful tool pointed out by Eric Holscher of Read the Docs and Write the Docs for setting norms: "Hey, we don't do that here."
+![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
+
+<!--
+Opening remarks
+https://www.ericholscher.com/blog/2023/feb/10/we-dont-do-that-here/
+
+https://about.readthedocs.com/
+https://www.writethedocs.org/
+-->
 
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). 
 
@@ -127,8 +150,12 @@ https://2023.djangocon.us/talks/afropython-using-django-to-change-black-people-l
 ![](recap-of-djangocon-us-2023-images/what-can-the-dsf.jpg)
 
 <!--
-Jacob, DSF Working Groups
+Accessible
+Jacob Kaplan-Moss
 -->
+
+Jacob talking to attendees about the new DSF Working Groups iniative
+![](recap-of-djangocon-us-2023-images/jacob.jpg)
 
 That night, I walked with a group of fellow conference-goers to [Parts and Labor](https://partsnlabor.com/). 
 
@@ -194,7 +221,7 @@ Dawn and Rachell killing it on stage and keeping it real :)
 The magic of Django Girls... Dawn and Rachell are alumnae
 ![](recap-of-djangocon-us-2023-images/celebration.jpg)
 
-While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk "Don't Buy the AI Hype" the he had put together at the last minute to fill an open slot. 
+While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk [Don't Buy the "AI" Hype](https://2023.djangocon.us/talks/dont-buy-the-ai-hype/) the he had put together at the last minute to fill an open slot. 
 
 Tim on stage
 ![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
@@ -208,7 +235,7 @@ https://2023.djangocon.us/talks/managing-content-with-django/
 https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/
 -->
 
-After the conference and group photo, I attended the complimentary speaker/organizer dinner at [The Pit](https://www.thepit-durham.com/). The food was really good! 
+After the conference activities and group photo, I attended the complimentary speaker and organizer dinner at [The Pit](https://www.thepit-durham.com/). The food was really good! 
 
 The Pit dining room
 ![](recap-of-djangocon-us-2023-images/the-pit-dining-room.jpg)
@@ -255,10 +282,11 @@ https://twitter.com/KatiMichel/status/1714679106510434533
 I don't take the time that Natalie spent on her talk lightly. I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. It can be exhausting. I am looking forward to getting to know Natalia's development work. 
 
 <!--
-DjangoCon Europe
+DjangoCon Africa
 Daniele
 -->
 
+"This is what we do. This is how we are."
 ![](recap-of-djangocon-us-2023-images/this-is-what-we-do.jpg)
 
 DjangoCon Africa Organizers
@@ -267,7 +295,21 @@ DjangoCon Africa Organizers
 New friends
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 
-As usual, hanging around in the lobby led a great adventure. 
+<!--
+Is this the year I'll finally... ?
+
+https://2023.djangocon.africa/
+https://www.djangoproject.com/weblog/2023/oct/14/djangocon-europe-2024/
+
+A few of the steps we've taken to create an inclusive space
+
+https://fosstodon.org/@kati/111276680465247885
+This makes me smile. ❤️ We are nowhere near where we want to be on diversity, but making big strides. I think this was the most fun DjangoCon US I've been to so far, and the growing diversity played a big part in that. 
+Hunar, Libya, Africa
+https://blackpythondevs.github.io/2023-10-20-djangoconus/
+-->
+
+After conference activities, as usual, hanging around in the lobby led a great adventure. 
 
 <!--
 Guido
@@ -424,6 +466,8 @@ Anne Beeman
 -->
 
 <!--
+Simon
+
 Africans
 Richard Ackon
 Abigail Afi Gbadago
@@ -434,15 +478,6 @@ Sheena O'Connell
 Ron Maravanyika
 Abigail
 
-https://fosstodon.org/@kati/111276680465247885
-This makes me smile. ❤️ We are nowhere near where we want to be on diversity, but making big strides. I think this was the most fun DjangoCon US I've been to so far, and the growing diversity played a big part in that. 
-Hunar, Libya, Africa
-https://blackpythondevs.github.io/2023-10-20-djangoconus/
-
-![](recap-of-djangocon-us-2023-images/self-care-sprint.jpg)
-![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
-
-![](recap-of-djangocon-us-2023-images/jacob.jpg)
 ![](recap-of-djangocon-us-2023-images/marriott-fried-green-tomato.jpg)
 ![](recap-of-djangocon-us-2023-images/marriott-ice-cream.jpg)
 -->
