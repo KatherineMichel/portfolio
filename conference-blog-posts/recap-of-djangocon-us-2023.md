@@ -84,9 +84,6 @@ Me and PSF Executive Director Deb Nicholson later in the week
 
 ## Monday
 
-Hallway track
-![](recap-of-djangocon-us-2023-images/hallway.jpg)
-
 On Monday, I ate breakfast with our new [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/). I was thrilled to meet her! We talked about our work, what her experience has been like so far as a Django Fellow, and she introduced me to the art of drinking [maté](https://en.wikipedia.org/wiki/Mate_(drink)).
 
 Kojo Idressa kicked of the conference with the the kind of [Orientation and Welcome](https://2023.djangocon.us/talks/orientation-and-welcome/) that only he can deliver. 
@@ -94,11 +91,10 @@ Kojo Idressa kicked of the conference with the the kind of [Orientation and Welc
 Kojo on stage- sorry for the fuzzy pic, Kojo! 
 ![](recap-of-djangocon-us-2023-images/kojo.jpg)
 
-“All of you are beyond welcome and we are thrilled you are here.” Thank you Kojo for setting the stage for a wonderful conference. #DjangoCon
-![](recap-of-djangocon-us-2023-images/kojo-welcome.png)
+Thank you Kojo for setting the stage for a wonderful conference. 
 
-"Don’t have stats, but this feels like the most diverse DjangoCon US I’ve ever been to. Particularly excited at how many Africans we have speaking and attending, starting with Abigail Mesrenyame Dogbe‘s inspiring keynote “Finding Purpose in Open Source Through Community Building.” #DjangoConUS"
-![](recap-of-djangocon-us-2023-images/don't-have-stats.jpg)
+“All of you are beyond welcome and we are thrilled you are here.”
+![](recap-of-djangocon-us-2023-images/kojo-welcome.png)
 
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). 
 
@@ -106,26 +102,32 @@ Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source T
 Summary
 -->
 
+"Don’t have stats, but this feels like the most diverse DjangoCon US I’ve ever been to. Particularly excited at how many Africans we have speaking and attending, starting with Abigail Mesrenyame Dogbe‘s inspiring keynote “Finding Purpose in Open Source Through Community Building.” #DjangoConUS"
+![](recap-of-djangocon-us-2023-images/don't-have-stats.png)
+
 Me and Abigail
 ![](recap-of-djangocon-us-2023-images/me-and-abigail.jpg)
 
-<!--
-https://2023.djangocon.us/talks/meet-ups-a-grand-vision-for-a-humble-endeavor/
+[Meet-ups: A Grand Vision for a Humble Endeavor](https://2023.djangocon.us/talks/meet-ups-a-grand-vision-for-a-humble-endeavor/)
 ![](recap-of-djangocon-us-2023-images/deb-nicholson-some-people-find.jpg)
 
-https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/
+[HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
 
-https://2023.djangocon.us/talks/using-database-triggers-to-reliably-track-model-history/
+[Using database triggers to reliably track model history](https://2023.djangocon.us/talks/using-database-triggers-to-reliably-track-model-history/)
 ![](recap-of-djangocon-us-2023-images/pg-history.jpg)
 
+<!--
 AWS Cloud Practitioner
 https://2023.djangocon.us/talks/hosting-and-devops-for-django/
 
 https://2023.djangocon.us/talks/afropython-using-django-to-change-black-people-life-in-brazil/
+-->
 
-Jacob, DSF Working Groups
-https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/
+[^What can (the DSF | I) do for (me | the DSF)\?$](https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/)
 ![](recap-of-djangocon-us-2023-images/what-can-the-dsf.jpg)
+
+<!--
+Jacob, DSF Working Groups
 -->
 
 That night, I walked with a group of fellow conference-goers to [Parts and Labor](https://partsnlabor.com/). 
@@ -169,19 +171,20 @@ Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Tale
 
 <!--
 I was intrigued about the subject
-https://2023.djangocon.us/talks/empathetic-testing-developing-with-compassion-and-humility/
 
 Marc Gibbons
 Lymphoma
 -->
 
+[Empathetic testing: Developing with compassion and humility](https://2023.djangocon.us/talks/empathetic-testing-developing-with-compassion-and-humility/)
+
 At the end of his talk, Marc revealed that just days before the conference, he'd gotten a clean bill of health. I ate lunch with Marc and had the opportunity to learn more about his journey and how his perspective on life has changed over time. Thank you for sharing, Marc! 
 
 <!--
 https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
-
-https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/
 -->
+
+[Navigating Django's Future: Djangonaut Space](https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/)
 
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
 
@@ -234,13 +237,12 @@ On Wednesday, Natalia gave the talk [Inside Out: My Journey of Understanding Inc
 https://fosstodon.org/@nessita/110340749235756274
 -->
 
-Thank you to Natalia for embracing our community and asking for reflection about an important subject.
+Thank you to Natalia for embracing our community and asking for reflection about an important subject. I hope she found our conference to be very welcoming in return. We have certainly made progress. 
 
-I hope she found our conference to be very welcoming in return. We have certainly made progress. 
+“I had to stand in line at the women's bathroom. I’ve never had to do that before at a conference.” 
+![](recap-of-djangocon-us-2023-images/i-had-to-stand-in-line.png)
 
-“I had to stand in line at the women's bathroom. I’ve never had to do that before at a conference.” Natalia Bidart at #DjangoConUS"
-
-I don't take the time that Natalie spent on her talk lightly. I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. I am looking forward to getting to know Natalia's development work. 
+I don't take the time that Natalie spent on her talk lightly. I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. It can be exhausting. I am looking forward to getting to know Natalia's development work. 
 
 <!--
 https://twitter.com/KatiMichel/status/1714679106510434533
@@ -385,6 +387,9 @@ https://fosstodon.org/@webology@mastodon.social/111270062215335417
 -->
 
 Can't wait for next year! :)
+
+Hallway track
+![](recap-of-djangocon-us-2023-images/hallway.jpg)
 
 djurham
 ![](recap-of-djangocon-us-2023-images/djurham.jpg)
