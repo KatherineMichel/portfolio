@@ -7,7 +7,7 @@ https://www.parizadedurham.com/menus/
 https://www.linkedin.com/posts/katherinemichel_thank-you-to-our-defna-president-peter-grandstaff-activity-7119291550492233728-wBC5?utm_source=share&utm_medium=member_desktop
 -->
 
-![](recap-of-djangocon-us-2023-images/parizade-post.jpg)
+![](recap-of-djangocon-us-2023-images/parizade-post.png)
 
 According to every person I spoke to who had eaten there before, you can't go wrong. Everything is so good. I'd never eaten linguini and clams before, but it sounded really good. I decided to be adventurous and try it. If you won't do something new on the eve of DjangoCon US, when will you? I chose well.  
 
@@ -51,7 +51,7 @@ I've always wanted one of these shirts!
 
 I eventually made it to the Durham Convention Center for swag stuffing! Many hands make light work. [Discover Durham](https://www.discoverdurham.com/) also generously provided gift boxes by [City Box Durham](https://cityboxdurham.com/). 
 
-Swag stuffing operation
+Swag stuffing operation (I spy a DEFNA sticker!)
 ![](recap-of-djangocon-us-2023-images/swag-stuffing.jpg)
 
 City Box Durham gift boxes
