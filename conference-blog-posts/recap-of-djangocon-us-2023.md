@@ -10,11 +10,9 @@ Victor
 Nichole
 -->
 
-It was a rare opportunity to spend time in person with other board members and enjoy some incredible food. 
+According to every person I spoke to who had eaten there before, you can't go wrong. Everything is so good. I'd never eaten linguini and clams before, but it sounded really good. I decided to be adventurous and try it. If you won't do something new on the eve of DjangoCon US, when will you? I chose well.  
 
-<!--
-I asked several people for recommendations about what to order there. They all said you can't go wrong. Everything is so good. I decided to be adventurous and order something that sounded good, but that I'd never had before: linguini and clams. I chose well. It was one of the most delicious meals that I've ever had.
--->
+It was a rare opportunity to spend time in person with other board members and enjoy a perfect meal. 
 
 Amazing ambiance
 ![](recap-of-djangocon-us-2023-images/parizade-walking-to-table.jpg)
@@ -52,7 +50,7 @@ Django Girls lunch from Neomonde Mediterranean
 I've always wanted one of these shirts! 
 ![](recap-of-djangocon-us-2023-images/django-girls-shirts.jpg)
 
-I eventually made it to the Durham Convention Center for swag stuffing! [Discover Durham](https://www.discoverdurham.com/) also generously provided gift boxes by [City Box Durham](https://cityboxdurham.com/).
+I eventually made it to the Durham Convention Center for swag stuffing! Many hands make light work. [Discover Durham](https://www.discoverdurham.com/) also generously provided gift boxes by [City Box Durham](https://cityboxdurham.com/). 
 
 Swag stuffing operation
 ![](recap-of-djangocon-us-2023-images/swag-stuffing.jpg)
