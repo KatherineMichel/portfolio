@@ -84,13 +84,24 @@ Me and PSF Executive Director Deb Nicholson later in the week
 
 ## Monday
 
+Hallway track
+![](recap-of-djangocon-us-2023-images/hallway.jpg)
+
 On Monday, I ate breakfast with our new [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/). I was thrilled to meet her! We talked about our work, what her experience has been like so far as a Django Fellow, and she introduced me to the art of drinking [maté](https://en.wikipedia.org/wiki/Mate_(drink)).
 
-<!--
 ![](recap-of-djangocon-us-2023-images/kojo.jpg)
--->
 
-Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). It was inspiring. 
+“All of you are beyond welcome and we are thrilled you are here.” Thank you Kojo for setting the stage for a wonderful conference. #DjangoCon
+![](recap-of-djangocon-us-2023-images/kojo-welcome.jpg)
+
+"Don’t have stats, but this feels like the most diverse DjangoCon US I’ve ever been to. Particularly excited at how many Africans we have speaking and attending, starting with Abigail Mesrenyame Dogbe‘s inspiring keynote “Finding Purpose in Open Source Through Community Building.” #DjangoConUS"
+![](recap-of-djangocon-us-2023-images/don't-have-stats.jpg)
+
+Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). 
+
+<!--
+Summary
+-->
 
 Me and Abigail
 ![](recap-of-djangocon-us-2023-images/me-and-abigail.jpg)
@@ -371,6 +382,9 @@ https://fosstodon.org/@webology@mastodon.social/111270062215335417
 -->
 
 Can't wait for next year! :)
+
+djurham
+![](recap-of-djangocon-us-2023-images/djurham.jpg)
 
 <!--
 When as this?
