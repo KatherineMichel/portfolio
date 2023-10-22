@@ -7,7 +7,7 @@ https://www.parizadedurham.com/menus/
 https://www.linkedin.com/posts/katherinemichel_thank-you-to-our-defna-president-peter-grandstaff-activity-7119291550492233728-wBC5?utm_source=share&utm_medium=member_desktop
 -->
 
-![](recap-of-djangocon-us-2023-images/parizade post.jpg)
+![](recap-of-djangocon-us-2023-images/parizade-post.jpg)
 
 According to every person I spoke to who had eaten there before, you can't go wrong. Everything is so good. I'd never eaten linguini and clams before, but it sounded really good. I decided to be adventurous and try it. If you won't do something new on the eve of DjangoCon US, when will you? I chose well.  
 
