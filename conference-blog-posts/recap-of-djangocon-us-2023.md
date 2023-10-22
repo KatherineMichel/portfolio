@@ -186,7 +186,11 @@ https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-p
 
 [Navigating Django's Future: Djangonaut Space](https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/)
 
+Dawn and Rachell killing it on stage and keeping it real :) 
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
+
+The magic of Django Girls... Dawn and Rachell are alumnae
+![](recap-of-djangocon-us-2023-images/celebration.jpg)
 
 While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk "Don't Buy the AI Hype" the he had put together at the last minute to fill an open slot. 
 
@@ -242,14 +246,24 @@ Thank you to Natalia for embracing our community and asking for reflection about
 “I had to stand in line at the women's bathroom. I’ve never had to do that before at a conference.” 
 ![](recap-of-djangocon-us-2023-images/i-had-to-stand-in-line.png)
 
+<!--
+https://twitter.com/KatiMichel/status/1714679106510434533
+-->
+
 I don't take the time that Natalie spent on her talk lightly. I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. It can be exhausting. I am looking forward to getting to know Natalia's development work. 
 
 <!--
-https://twitter.com/KatiMichel/status/1714679106510434533
-
 DjangoCon Europe
 Daniele
 -->
+
+![](recap-of-djangocon-us-2023-images/this-is-what-we-do.jpg)
+
+DjangoCon Africa Organizers
+![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
+
+New friends
+![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 
 As usual, hanging around in the lobby led a great adventure. 
 
@@ -386,6 +400,8 @@ As Jeff said, it was one hell of a year
 https://fosstodon.org/@webology@mastodon.social/111270062215335417
 -->
 
+![](recap-of-djangocon-us-2023-images/standing-ovation.jpg)
+
 Can't wait for next year! :)
 
 Hallway track
@@ -416,10 +432,6 @@ Sheena O'Connell
 Ron Maravanyika
 Abigail
 
-![](recap-of-djangocon-us-2023-images/new-friends.jpg)
-![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
-
-![](recap-of-djangocon-us-2023-images/this-is-what-we-do.jpg)
 ![](recap-of-djangocon-us-2023-images/self-care-sprint.jpg)
 ![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
 
