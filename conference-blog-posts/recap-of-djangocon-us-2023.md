@@ -186,6 +186,8 @@ https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-p
 
 [Navigating Django's Future: Djangonaut Space](https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/)
 
+Djangonaut Space is now [accepting appications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/)! 
+
 Dawn and Rachell killing it on stage and keeping it real :) 
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
 
@@ -431,6 +433,11 @@ Benedict Kofi Amofah
 Sheena O'Connell
 Ron Maravanyika
 Abigail
+
+https://fosstodon.org/@kati/111276680465247885
+This makes me smile. ❤️ We are nowhere near where we want to be on diversity, but making big strides. I think this was the most fun DjangoCon US I've been to so far, and the growing diversity played a big part in that. 
+Hunar, Libya, Africa
+https://blackpythondevs.github.io/2023-10-20-djangoconus/
 
 ![](recap-of-djangocon-us-2023-images/self-care-sprint.jpg)
 ![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
