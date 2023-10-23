@@ -153,8 +153,13 @@ Accessible
 Jacob Kaplan-Moss
 -->
 
-Jacob talking to attendees about the new DSF Working Groups iniative
+Jacob talking to attendees about the new DSF Working Groups initiative
 ![](recap-of-djangocon-us-2023-images/jacob.jpg)
+
+<!--
+https://www.djangoproject.com/weblog/2023/oct/13/announcing-dsf-working-groups/
+https://github.com/django/dsf-working-groups
+-->
 
 That night, I walked with a group of fellow conference-goers to [Parts and Labor](https://partsnlabor.com/). 
 
