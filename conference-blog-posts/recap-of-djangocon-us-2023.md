@@ -166,12 +166,12 @@ That night, I walked with a group of fellow conference-goers to [Parts and Labor
 Parts and Labor margarita
 ![](recap-of-djangocon-us-2023-images/parts-and-labor-margarita.jpg)
 
-Afterward, I had a scoop of chocolate ice cream from [The Parlor](https://theparlour.co/) ([organizer recommended](https://2023.djangocon.us/venue/#places)). 
+Afterward, I had a scoop of chocolate ice cream from [The Parlour](https://theparlour.co/) ([organizer recommended](https://2023.djangocon.us/venue/#places)). 
 
 The Parlour
 ![](recap-of-djangocon-us-2023-images/the-parlour.jpg)
 
-Parlor flavors
+Parlour flavors
 ![](recap-of-djangocon-us-2023-images/parlor-flavors.jpg)
 
 Chocolate ice cream... yum!
