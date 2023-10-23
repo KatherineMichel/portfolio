@@ -68,14 +68,11 @@ Swag stuffing operation (I spy a [DEFNA](https://www.defna.org/) sticker!)
 City Box Durham gift boxes
 ![](recap-of-djangocon-us-2023-images/discover-durham-box-2.jpg)
 
-<!--
-Explain what Django Social is
+Later that night, I attended Django Social at [Ponysaurus](https://www.ponysaurusbrewing.com/taproom). The event was hosted by Jason Judkins, DjangoCon US Organizer, and Jon Gould of Foxley Talent, DjangoCon US Sponsors. 
 
-Jason Judkins
-John Gould
--->
+Jon and company have started a network of Django meetups in the UK called Django Social. Jason is starting a Durham chapter and this was the kickoff. 
 
-Later that night, I attended Django Social at [Ponysaurus](https://www.ponysaurusbrewing.com/taproom). Not being a fan of beer, I had one of their signature [Beer Cocktails](https://www.ponysaurusbrewing.com/taproom-menu) a Gosé Margarita (lime juice, triple sec, & tequila, topped with Gosé beer). 
+Not being a fan of beer, I had a Ponysaurus signature [Beer Cocktail](https://www.ponysaurusbrewing.com/taproom-menu) called a Gosé Margarita (lime juice, triple sec, & tequila, topped with Gosé beer). 
 
 Gosé Margarita 
 ![](recap-of-djangocon-us-2023-images/ponysaurus-beer-cocktail.jpg)
@@ -105,14 +102,14 @@ Thank you Kojo for setting the stage for a wonderful conference.
 “All of you are beyond welcome and we are thrilled you are here.”
 ![](recap-of-djangocon-us-2023-images/kojo-welcome.png)
 
-Self care sprint
+Kojo also educated the audience about the concept of a Self Care Sprint. It's important to take time for yourself, as needed. 
+
+Self Care Sprint
 ![](recap-of-djangocon-us-2023-images/self-care-sprint.jpg)
 
-<!--
-Opening remarks
--->
+During the Opening Remarks, Peter Grandstaff asked everyone to be kind and make this conference a great place for everyone else. "If you see someone engaging in inappropriate behavior, here's a phrase you can use, 'Hey, we don't do that here.'"
 
-A powerful tool pointed out by Eric Holscher of [Read the Docs](https://about.readthedocs.com/) and [Write the Docs](https://www.writethedocs.org/) for setting norms: "[Hey, we don't do that here.](https://www.ericholscher.com/blog/2023/feb/10/we-dont-do-that-here/)"
+A powerful tool borrowed from PyCon Australia and written about by Eric Holscher of [Read the Docs](https://about.readthedocs.com/) and [Write the Docs](https://www.writethedocs.org/) for setting norms: "[Hey, we don't do that here.](https://www.ericholscher.com/blog/2023/feb/10/we-dont-do-that-here/)"
 ![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
 
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). 
@@ -129,8 +126,16 @@ Me and Abigail
 
 [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
 
+<!--
+Summary
+-->
+
 [Meet-ups: A Grand Vision for a Humble Endeavor](https://2023.djangocon.us/talks/meet-ups-a-grand-vision-for-a-humble-endeavor/)
 ![](recap-of-djangocon-us-2023-images/deb-nicholson-some-people-find.jpg)
+
+<!--
+Summary
+-->
 
 At lunch... trying a fried green tomatoe for the first time!
 ![](recap-of-djangocon-us-2023-images/marriott-fried-green-tomato.jpg)
@@ -139,16 +144,26 @@ At lunch... trying a fried green tomatoe for the first time!
 ![](recap-of-djangocon-us-2023-images/pg-history.jpg)
 
 <!--
+Summary
+-->
+
+<!--
 AWS Cloud Practitioner
 https://2023.djangocon.us/talks/hosting-and-devops-for-django/
 
 https://2023.djangocon.us/talks/afropython-using-django-to-change-black-people-life-in-brazil/
 -->
 
-[^What can (the DSF | I) do for (me | the DSF)\?$](https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/)
+[What Can the DSF Do for Me? What Can I Do for the DSF?](https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/)
 ![](recap-of-djangocon-us-2023-images/what-can-the-dsf.jpg)
 
 <!--
+Summary
+-->
+
+<!--
+Shout out to Catherine
+
 Accessible
 Jacob Kaplan-Moss
 -->
@@ -157,6 +172,9 @@ Jacob talking to attendees about the new DSF Working Groups initiative
 ![](recap-of-djangocon-us-2023-images/jacob.jpg)
 
 <!--
+Jacob updated DEP process docs
+https://github.com/django/deps/pull/81#discussion_r1367950389
+
 https://www.djangoproject.com/weblog/2023/oct/13/announcing-dsf-working-groups/
 https://github.com/django/dsf-working-groups
 -->
@@ -172,7 +190,7 @@ The Parlour
 ![](recap-of-djangocon-us-2023-images/the-parlour.jpg)
 
 Parlour flavors
-![](recap-of-djangocon-us-2023-images/parlor-flavors.jpg)
+![](recap-of-djangocon-us-2023-images/the-parlour-flavors.jpg)
 
 Chocolate ice cream... yum!
 ![](recap-of-djangocon-us-2023-images/the-parlour-chocolate-ice-cream.jpg)
@@ -219,6 +237,10 @@ Lymphoma
 
 [Empathetic testing: Developing with compassion and humility](https://2023.djangocon.us/talks/empathetic-testing-developing-with-compassion-and-humility/)
 
+<!--
+Summary
+-->
+
 At the end of his talk, Marc revealed that just days before the conference, he'd gotten a clean bill of health. I ate lunch with Marc and had the opportunity to learn more about his journey and how his perspective on life has changed over time. Thank you for sharing, Marc! 
 
 <!--
@@ -226,6 +248,10 @@ https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-p
 -->
 
 [Navigating Django's Future: Djangonaut Space](https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/)
+
+<!--
+Summary
+-->
 
 Djangonaut Space is now [accepting appications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/)! 
 
@@ -236,6 +262,10 @@ The magic of Django Girls... Dawn and Rachell are alumnae
 ![](recap-of-djangocon-us-2023-images/celebration.jpg)
 
 While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk [Don't Buy the "AI" Hype](https://2023.djangocon.us/talks/dont-buy-the-ai-hype/) the he had put together at the last minute to fill an open slot. 
+
+<!--
+Summary
+-->
 
 Tim on stage
 ![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
@@ -274,6 +304,10 @@ https://2023.djangocon.us/talks/panel-discussion-who-put-me-in-charge/
 
 My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing Modern Web Apps Like a Champion](https://2023.djangocon.us/talks/keynote-testing-modern-web-apps-like-a-champion/). Afterward, I had the chance to catch up with him. His talk has rekindled my desire to get better at testing and reminded me of what a great resource Test Automation University is. He gave me a card resource too! 
 
+<!--
+Summary
+-->
+
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
 
@@ -282,6 +316,10 @@ This year, along the lines of my fellow DEFNA board member Jeff Triplett's annua
 Ask and you shall receive. 
 
 On Wednesday, Natalia gave the talk [Inside Out: My Journey of Understanding Inclusion](https://2023.djangocon.us/talks/inside-out-my-journey-of-understanding-inclusion)
+
+<!--
+Summary
+-->
 
 <!--
 https://fosstodon.org/@nessita/110340749235756274
@@ -301,6 +339,17 @@ I don't take the time that Natalie spent on her talk lightly. I've chatted with 
 <!--
 DjangoCon Africa
 Daniele
+
+<!--
+Africans
+Richard Ackon
+Abigail Afi Gbadago
+Ntalie Geofrey
+Noah
+Benedict Kofi Amofah
+Sheena O'Connell
+Ron Maravanyika
+Abigail
 -->
 
 "This is what we do. This is how we are."
@@ -329,7 +378,7 @@ https://blackpythondevs.github.io/2023-10-20-djangoconus/
 
 After conference activities, as usual, hanging around in the lobby led to a great adventure. Hanging around in a lobby once led to me sitting next to Guido at an impromptu group dinner and chatting with him about the early days of Python. 
 
-On this night, I ended up having dinner with Jacob Kaplan-Moss, Andrew Godwin (Django Core Dev, Django Async Architect, South creator, and the only person who has attended every DjangoCon US), Frank Wiles (Revsys Founder and Partner, and DSF President), and Tim and and Charles of the Wharton School, my client. 
+On this night, I ended up having dinner with Jacob Kaplan-Moss, Andrew Godwin (Django Core Dev, Django Async Architect, South creator, and the only person who has attended every DjangoCon US), Frank Wiles (Revsys Founder and Partner, and former DSF President), and Tim and and Charles of the Wharton School, my past client. 
 
 You know you're in good company when someone in your party is wearing this :) 
 ![](recap-of-djangocon-us-2023-images/kansas-basketball.jpg)
@@ -356,6 +405,13 @@ Toppings to choose from
 Final product... wow! (vanilla soft serve, chocolate core, bourbon dip, and strawberry topping)
 ![](recap-of-djangocon-us-2023-images/simon-says-ice-cream.jpg)
 
+<!--
+White Coat Captioning
+Anne Beeman
+
+Simon
+-->
+
 ## Sight Seeing and More Food!
 
 I consider getting to know the host city to be an important part of the conference experience. 
@@ -375,7 +431,7 @@ Duke Chapel pics
 Video
 -->
 
-I also visited the [Museum of Life and Science](lifeandscience.org/). The [Butterfly House](https://www.lifeandscience.org/explore/butterfly-house/) in particular was a really special experience. I was also happy to have a second change to see lemurs. Duke University has the largest sanctuary for lemurs in the world, but unfortunately, its tours were booked through the rest of the year. The Museum of Life and Science has a [Lemur Exhibit](https://www.lifeandscience.org/explore/lemurs-and-tortoises/). I enjoyed observing these beautiful animals. [The Farmyard](https://www.lifeandscience.org/explore/the-farmyard/), [Insectarium](https://www.lifeandscience.org/explore/insectarium/), and [Aerospace](https://www.lifeandscience.org/explore/aerospace/) exhibits were also really fun and interesting. 
+I also visited the [Museum of Life and Science](lifeandscience.org/). The [Butterfly House](https://www.lifeandscience.org/explore/butterfly-house/) in particular was a really special experience. I was also happy to have a second change to see lemurs. Duke University has the largest population of lemurs in the world outside of Madagascar, but unfortunately, its tours were booked through the rest of the year. The Museum of Life and Science has a [Lemur Exhibit](https://www.lifeandscience.org/explore/lemurs-and-tortoises/). I enjoyed observing these beautiful animals. [The Farmyard](https://www.lifeandscience.org/explore/the-farmyard/), [Insectarium](https://www.lifeandscience.org/explore/insectarium/), and [Aerospace](https://www.lifeandscience.org/explore/aerospace/) exhibits were also really fun and interesting. 
 
 Butterfly House butterfly
 ![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-butterfly-house-butterfly.jpg)
@@ -462,23 +518,3 @@ Hallway track
 
 djurham
 ![](recap-of-djangocon-us-2023-images/djurham.jpg)
-
-<!--
-https://github.com/django/deps/pull/81#discussion_r1367950389
-
-White Coat Captioning
-Anne Beeman
-
-Simon
-
-Africans
-Richard Ackon
-Abigail Afi Gbadago
-Ntalie Geofrey
-Noah
-Benedict Kofi Amofah
-Sheena O'Connell
-Ron Maravanyika
-Abigail
--->
-
