@@ -195,6 +195,17 @@ Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Tale
 ![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
 
 <!--
+Two members of our party had founded a startup called Coherence. 
+https://www.withcoherence.com/
+-->
+
+Coherence table
+![](recap-of-djangocon-us-2023-images/coherence-table.jpg)
+
+Coherence demo
+![](recap-of-djangocon-us-2023-images/coherence-demo.jpg)
+
+<!--
 I was intrigued about the subject
 
 Marc Gibbons
@@ -293,15 +304,16 @@ Daniele
 DjangoCon Africa Organizers
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
 
+[DjangoCon Africa 2023](https://2023.djangocon.africa/) will take place in Tanzania, Africa in November and [DjangoCon Europe 2024](https://www.djangoproject.com/weblog/2023/oct/14/djangocon-europe-2024/) will take place in Vigo, Spain in June 2024. I hope to go to both someday. 
+
+<!--
+Is this the year I'll finally... ?
+-->
+
 New friends... beautiful on the inside and out!
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 
 <!--
-Is this the year I'll finally... ?
-
-https://2023.djangocon.africa/
-https://www.djangoproject.com/weblog/2023/oct/14/djangocon-europe-2024/
-
 A few of the steps we've taken to create an inclusive space
 
 https://fosstodon.org/@kati/111276680465247885
@@ -310,18 +322,9 @@ Hunar, Libya, Africa
 https://blackpythondevs.github.io/2023-10-20-djangoconus/
 -->
 
-After conference activities, as usual, hanging around in the lobby led a great adventure. 
+After conference activities, as usual, hanging around in the lobby led to a great adventure. Hanging around in a lobby once led to me sitting next to Guido at an impromptu group dinner and chatting with him about the early days of Python. 
 
-<!--
-Guido
--->
-
-<!--
-Dinner
-Frank, Jacob, Andrew, Verda, Charles, Tim, me
-
-Wharton
--->
+On this night, I ended up having dinner with Jacob Kaplan-Moss, Andrew Godwin (Django Core Dev, Django Async Architect, South creator, and the only person who has attended every DjangoCon US), Frank Wiles (Revsys Founder and Partner, and DSF President), and Tim and and Charles of the Wharton School, my client. 
 
 You know you're in good company when someone in your party is wearing this :) 
 ![](recap-of-djangocon-us-2023-images/kansas-basketball.jpg)
@@ -456,17 +459,11 @@ djurham
 ![](recap-of-djangocon-us-2023-images/djurham.jpg)
 
 <!--
-When as this?
-
-Two members of our party had founded a startup called Coherence. 
-![](recap-of-djangocon-us-2023-images/coherence-demo.jpg)
-![](recap-of-djangocon-us-2023-images/coherence-table.jpg)
+https://github.com/django/deps/pull/81#discussion_r1367950389
 
 White Coat Captioning
 Anne Beeman
--->
 
-<!--
 Simon
 
 Africans
