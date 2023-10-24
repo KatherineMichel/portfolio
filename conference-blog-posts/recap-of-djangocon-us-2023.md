@@ -502,7 +502,7 @@ My sixth DjangoCon US
 "As usual, I've tried to squeeze every last bit of experience out of DjangoCon US and have done about as much as I humanly can. 🤣 Today is a day for relaxed sprinting, catching up with a few more people, and flying back to Plano. I'll write up a proper blog post soon with thoughts about talks, the people I met, sightseeing, and food. For the moment, suffice it to say, this conference just gets better every year and that is because of the people. Everyone is welcome and everyone makes it a better place. This community is changing the world for the better through shared humanity and technology. And, it's not a coincidence that it started in wonderful Lawrence, Kansas."
 ![](recap-of-djangocon-us-2023-images/as-usual.png)
 
-I came away from Durham with some new friends and new hope. 
+I came away from Durham with some new friends, new hope, and some amazing swag. 
 
 New friends... beautiful on the inside and out!
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
@@ -522,6 +522,7 @@ As Jeff said, it was one hell of a year
 https://fosstodon.org/@webology@mastodon.social/111270062215335417
 -->
 
+Standing ovation for organizers
 ![](recap-of-djangocon-us-2023-images/standing-ovation.jpg)
 
 Can't wait for next year! :)
