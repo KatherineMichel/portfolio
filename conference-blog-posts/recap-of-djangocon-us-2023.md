@@ -2,16 +2,13 @@
 
 ## Intro
 
-<!--
-Conference summary
--->
+DjangoCon US 2023 took place from October 16-20 in Durham, North Carolina. It was the sixth DjangoCon US I've had the privilege of attending, and in my opinion, the best one yet. 
+
+![](recap-of-djangocon-us-2023-images/this-makes-me-smile.jpg)
 
 ## Saturday
 
-<!--
-Dinner intro
-https://www.parizadedurham.com/menus/
--->
+Things got off to a great start with a DEFNA Board dinner at [Parizade](https://www.parizadedurham.com/menus/). 
 
 According to every person I spoke to who had eaten there before, you can't go wrong. Everything is so good. I'd never eaten linguini and clams before, but it sounded really good. I decided to be adventurous and try it. If you won't do something new on the eve of DjangoCon US, when will you? I chose well.  
 
@@ -68,7 +65,7 @@ Swag stuffing operation (I spy a [DEFNA](https://www.defna.org/) sticker!)
 City Box Durham gift boxes
 ![](recap-of-djangocon-us-2023-images/discover-durham-box-2.jpg)
 
-Later that night, I attended Django Social at [Ponysaurus](https://www.ponysaurusbrewing.com/taproom). The event was hosted by Jason Judkins, DjangoCon US Organizer, and Jon Gould of Foxley Talent, DjangoCon US Sponsors. 
+Later that night, I attended Django Social at [Ponysaurus](https://www.ponysaurusbrewing.com/taproom). The event was hosted by Jason Judkins, DjangoCon US Organizer, and Jon Gould of [Foxley Talent](https://foxleytalent.com/about/), DjangoCon US Sponsors. 
 
 Jon and company have started a network of Django meetups in the UK called Django Social. Jason is starting a Durham chapter and this was the kickoff. 
 
@@ -206,13 +203,16 @@ Will Vincent
 
 ## Tuesday
 
+Hallway track
+![](recap-of-djangocon-us-2023-images/hallway.jpg)
+
 <!--
 https://2023.djangocon.us/talks/keynote-django-the-dinosaur/
 https://2023.djangocon.us/talks/mixing-reliability-with-celery-for-delicious-async-tasks/
 https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/
 -->
 
-On Monday, I was fortunate to come into the possession of one of [Foxley Talent](https://foxleytalent.com/about/)'s highly coveted Django Social T-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
+On Monday, I was fortunate to come into the possession of one of Foxley Talent's highly coveted Django Social T-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
 
 Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Talent Principal Jon Gould
 ![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
@@ -487,8 +487,6 @@ The inside
 
 ## In Closing
 
-DjangoCon US 2023 marked my sixth DjangoCon US
-
 My sixth DjangoCon US
 ![](recap-of-djangocon-us-2023-images/badge.jpg)
 
@@ -512,9 +510,6 @@ https://fosstodon.org/@webology@mastodon.social/111270062215335417
 ![](recap-of-djangocon-us-2023-images/standing-ovation.jpg)
 
 Can't wait for next year! :)
-
-Hallway track
-![](recap-of-djangocon-us-2023-images/hallway.jpg)
 
 djurham
 ![](recap-of-djangocon-us-2023-images/djurham.jpg)
