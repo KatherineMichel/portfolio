@@ -140,7 +140,7 @@ Summary
 Summary
 -->
 
-At lunch... trying a fried green tomatoe for the first time!
+At lunch... trying a fried green tomato for the first time!
 ![](recap-of-djangocon-us-2023-images/marriott-fried-green-tomato.jpg)
 
 [Using database triggers to reliably track model history](https://2023.djangocon.us/talks/using-database-triggers-to-reliably-track-model-history/)
