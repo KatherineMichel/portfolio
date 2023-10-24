@@ -4,7 +4,13 @@
 
 DjangoCon US 2023 took place from October 16-20 in Durham, North Carolina. It was the sixth DjangoCon US I've had the privilege of attending, and in my opinion, the best one yet. 
 
+"This makes me smile. ❤️ We are nowhere near where we want to be on diversity, but making big strides. I think this was the most fun DjangoCon US I've been to so far, and the growing diversity played a big part in that."
 ![](recap-of-djangocon-us-2023-images/this-makes-me-smile.png)
+
+<!--
+https://fosstodon.org/@kati/111276680465247885
+https://blackpythondevs.github.io/2023-10-20-djangoconus/
+-->
 
 ## Saturday
 
@@ -260,13 +266,13 @@ Summary
 
 Djangonaut Space is now [accepting appications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/)! 
 
+<!--
 "Love to see Dawn Wages and Rachell Calhoun killing it on stage and keeping it real. Great talk!"
 ![](recap-of-djangocon-us-2023-images/love-to-see.png)
+-->
 
-<!--
 Dawn and Rachell killing it on stage and keeping it real :) 
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
--->
 
 The magic of Django Girls... Dawn and Rachell are alumnae
 ![](recap-of-djangocon-us-2023-images/celebration.jpg)
@@ -318,8 +324,10 @@ My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing
 Summary
 -->
 
+<!--
 "Another high level endorsement of HTMX: “HTMX is a great way to democratize front-end development.” Andrew Knight"
 ![](recap-of-djangocon-us-2023-images/another-high-level.png)
+-->
 
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
@@ -340,7 +348,7 @@ https://fosstodon.org/@nessita/110340749235756274
 
 Thank you to Natalia for embracing our community and asking for reflection about an important subject. I hope she found our conference to be very welcoming in return. We have certainly made progress. 
 
-“I had to stand in line at the women's bathroom. I’ve never had to do that before at a conference.” 
+“I had to stand in line at the women's bathroom. I’ve never had to do that before at a conference.” -Natalia Bidart during her talk
 ![](recap-of-djangocon-us-2023-images/i-had-to-stand-in-line.png)
 
 <!--
@@ -353,7 +361,6 @@ I don't take the time that Natalie spent on her talk lightly. I've chatted with 
 DjangoCon Africa
 Daniele
 
-<!--
 Africans
 Richard Ackon
 Abigail Afi Gbadago
@@ -363,6 +370,8 @@ Benedict Kofi Amofah
 Sheena O'Connell
 Ron Maravanyika
 Abigail
+
+Hunar, Libya, Africa
 -->
 
 "This is what we do. This is how we are."
@@ -375,15 +384,6 @@ DjangoCon Africa Organizers
 
 "Is 2024 the year that I finally make it to DjangoCon Europe? 👀 😘"
 ![](recap-of-djangocon-us-2023-images/is-2024-the-year.png)
-
-<!--
-A few of the steps we've taken to create an inclusive space
-
-https://fosstodon.org/@kati/111276680465247885
-This makes me smile. ❤️ We are nowhere near where we want to be on diversity, but making big strides. I think this was the most fun DjangoCon US I've been to so far, and the growing diversity played a big part in that. 
-Hunar, Libya, Africa
-https://blackpythondevs.github.io/2023-10-20-djangoconus/
--->
 
 After conference activities, as usual, hanging around in the lobby led to a great adventure. Hanging around in a lobby once led to me sitting next to Guido at an impromptu group dinner and chatting with him about the early days of Python. 
 
