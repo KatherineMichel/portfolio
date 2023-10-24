@@ -8,7 +8,7 @@ DjangoCon US 2023 took place from October 16-20 in Durham, North Carolina. It wa
 
 ## Saturday
 
-Things got off to a great start with a DEFNA Board dinner at [Parizade](https://www.parizadedurham.com/menus/). 
+Things got off to a great start with a DEFNA Board dinner at [Parizade](https://www.parizadedurham.com/menus/) on Saturday night. 
 
 According to every person I spoke to who had eaten there before, you can't go wrong. Everything is so good. I'd never eaten linguini and clams before, but it sounded really good. I decided to be adventurous and try it. If you won't do something new on the eve of DjangoCon US, when will you? I chose well.  
 
