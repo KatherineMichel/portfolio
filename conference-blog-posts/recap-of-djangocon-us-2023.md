@@ -79,11 +79,13 @@ During the event, I happened to find myself having a conversation with a woman w
 Me and PSF Executive Director Deb Nicholson later in the week 
 ![](recap-of-djangocon-us-2023-images/me-and-deb.jpg)
 
-<!--
-Summary or tweet
--->
+After Django Social, I found myself hanging out with two of my favorite Python/Django authors Eric Matthes and William Vincent, and a fellow DEFNA Board Member Jeff Triplett. 
 
 ![](recap-of-djangocon-us-2023-images/jeff-eric-william.jpg)
+
+<!--
+Tweet
+-->
 
 ## Monday
 
