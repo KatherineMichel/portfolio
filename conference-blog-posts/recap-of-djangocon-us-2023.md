@@ -67,7 +67,7 @@ City Box Durham gift boxes
 
 Later that night, I attended Django Social at [Ponysaurus](https://www.ponysaurusbrewing.com/taproom). The event was hosted by Jason Judkins, DjangoCon US Organizer, and Jon Gould of [Foxley Talent](https://foxleytalent.com/about/), DjangoCon US Sponsors. 
 
-Jon and company have started a network of Django meetups in the UK called Django Social. Jason is starting a Durham chapter and this was the kickoff. 
+Jon and company have started a network of Django meetups in the UK called Django Social. Jason is starting a [Raleigh-Durham chapter](https://www.meetup.com/djangosocial-raleighdurham/) and this was the kickoff. 
 
 Not being a fan of beer, I had a Ponysaurus signature [Beer Cocktail](https://www.ponysaurusbrewing.com/taproom-menu) called a Gosé Margarita (lime juice, triple sec, & tequila, topped with Gosé beer). 
 
