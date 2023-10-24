@@ -79,13 +79,11 @@ During the event, I happened to find myself having a conversation with a woman w
 Me and PSF Executive Director Deb Nicholson later in the week 
 ![](recap-of-djangocon-us-2023-images/me-and-deb.jpg)
 
-After Django Social, I found myself hanging out with two of my favorite Python/Django authors Eric Matthes and William Vincent, and a fellow DEFNA Board Member Jeff Triplett. 
+"Thank you to Jason Judkins and Jon Gould for generously hosting a wonderful Django Social event tonight on the eve of DjangoCon US. I enjoyed meeting and getting to know the new Python Software Foundation Executive Director Deb Nicholson, spending time with two of my favorite Python/Django authors Eric Matthes and William Vincent, and catching up with my wonderful Revsys friends Frank and Jeff, among many interesting conversations."
+![](recap-of-djangocon-us-2023-images/thank-you-to.png)
 
+Eric, William, and Jeff
 ![](recap-of-djangocon-us-2023-images/jeff-eric-william.jpg)
-
-<!--
-Tweet
--->
 
 ## Monday
 
@@ -216,6 +214,11 @@ https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/
 
 On Monday, I was fortunate to come into the possession of one of Foxley Talent's highly coveted Django Social T-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
 
+<!--
+"Couldn’t resist wearing this super cute Django Social shirt from Jon and company. I’ve been to a Django Social in Durham now. Hoping to make it to one in the U.K. eventually!"
+![](recap-of-djangocon-us-2023-images/couldn't-resist.png)
+-->
+
 Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Talent Principal Jon Gould
 ![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
 
@@ -257,8 +260,13 @@ Summary
 
 Djangonaut Space is now [accepting appications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/)! 
 
+"Love to see Dawn Wages and Rachell Calhoun killing it on stage and keeping it real. Great talk!"
+![](recap-of-djangocon-us-2023-images/love-to-see.png)
+
+<!--
 Dawn and Rachell killing it on stage and keeping it real :) 
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
+-->
 
 The magic of Django Girls... Dawn and Rachell are alumnae
 ![](recap-of-djangocon-us-2023-images/celebration.jpg)
@@ -309,6 +317,9 @@ My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing
 <!--
 Summary
 -->
+
+"Another high level endorsement of HTMX: “HTMX is a great way to democratize front-end development.” Andrew Knight"
+![](recap-of-djangocon-us-2023-images/another-high-level.png)
 
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
@@ -362,12 +373,8 @@ DjangoCon Africa Organizers
 
 [DjangoCon Africa 2023](https://2023.djangocon.africa/) will take place in Tanzania, Africa in November and [DjangoCon Europe 2024](https://www.djangoproject.com/weblog/2023/oct/14/djangocon-europe-2024/) will take place in Vigo, Spain in June 2024. I hope to go to both someday. 
 
-<!--
-Is this the year I'll finally... ?
--->
-
-New friends... beautiful on the inside and out!
-![](recap-of-djangocon-us-2023-images/new-friends.jpg)
+"Is 2024 the year that I finally make it to DjangoCon Europe? 👀 😘"
+![](recap-of-djangocon-us-2023-images/is-2024-the-year.png)
 
 <!--
 A few of the steps we've taken to create an inclusive space
@@ -492,7 +499,13 @@ The inside
 My sixth DjangoCon US
 ![](recap-of-djangocon-us-2023-images/badge.jpg)
 
+"As usual, I've tried to squeeze every last bit of experience out of DjangoCon US and have done about as much as I humanly can. 🤣 Today is a day for relaxed sprinting, catching up with a few more people, and flying back to Plano. I'll write up a proper blog post soon with thoughts about talks, the people I met, sightseeing, and food. For the moment, suffice it to say, this conference just gets better every year and that is because of the people. Everyone is welcome and everyone makes it a better place. This community is changing the world for the better through shared humanity and technology. And, it's not a coincidence that it started in wonderful Lawrence, Kansas."
+![](recap-of-djangocon-us-2023-images/as-usual.png)
+
 I came away from Durham with some new friends and new hope. 
+
+New friends... beautiful on the inside and out!
+![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 
 Prized possessions 
 ![](recap-of-djangocon-us-2023-images/trilogy.jpg)
