@@ -334,15 +334,21 @@ Summary
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
 
-This year, along the lines of my fellow DEFNA board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I created my own [Talk Topic Ideas List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and posted it on social media. Tim Schilling, who has done an incredible job of taking over my former role of DEFNA Corporate Secretary and driving a lot of improvement across DEFNA and DjangoCon US, tooted to me and Natalia in response. 
+This year, along the lines of my fellow DEFNA board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I created my own [Talk Topic Ideas List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and posted it on social media. 
 
 ![](recap-of-djangocon-us-2023-images/the-djangocon-us-cfp.png)
+
+Tim Schilling, who has done an incredible job of taking over my former role of DEFNA Corporate Secretary and driving a lot of improvement across DEFNA and DjangoCon US, tooted to me and Natalia in response. 
+
+![](recap-of-djangocon-us-2023-images/oh-i-really-like-this.png)
 
 It kicked off a conversation that led to her giving the talk [Inside Out: My Journey of Understanding Inclusion](https://2023.djangocon.us/talks/inside-out-my-journey-of-understanding-inclusion) on Wednesday. 
 
 ![](recap-of-djangocon-us-2023-images/i've-been-thinking-about-this-a-lot.png)
 
 <!--
+Toot text
+
 Summary
 -->
 
