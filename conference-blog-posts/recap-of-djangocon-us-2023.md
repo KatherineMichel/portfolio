@@ -276,7 +276,7 @@ Many Django careers have been started through [Django Girls](https://djangogirls
 Dawn and Rachell killing it on stage and keeping it real :) 
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
 
-The magic of Django Girls... Dawn and Rachell are alumae
+The magic of Django Girls... Dawn and Rachell are alumnae
 ![](recap-of-djangocon-us-2023-images/celebration.jpg)
 
 While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk [Don't Buy the "AI" Hype](https://2023.djangocon.us/talks/dont-buy-the-ai-hype/) the he had put together at the last minute to fill an open slot. 
@@ -288,10 +288,10 @@ Summary
 Tim on stage
 ![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
 
+<!--
 Ice cream for afternoon snack
 ![](recap-of-djangocon-us-2023-images/marriott-ice-cream.jpg)
 
-<!--
 https://2023.djangocon.us/talks/all-about-djangoproject-com/
 
 YupGup
@@ -334,9 +334,11 @@ Summary
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
 
-This year, along the lines of my fellow DEFNA board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I decided to create my own [Talk Topic Ideas List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md). Tim Schilling, who has done an incredible job of taking over my former role of DEFNA Corporate Secretary, tooted to Natalia on Fosstodon. 
+This year, along the lines of my fellow DEFNA board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I created my own [Talk Topic Ideas List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and posted it on social media. Tim Schilling, who has done an incredible job of taking over my former role of DEFNA Corporate Secretary, tooted to Natalia on Fosstodon. 
 
-Ask and you shall receive. 
+![](recap-of-djangocon-us-2023-images/the-djangocon-us-cfp.png)
+ 
+![](recap-of-djangocon-us-2023-images/i've-been-thinking-about-this-a-lot.png)
 
 On Wednesday, Natalia gave the talk [Inside Out: My Journey of Understanding Inclusion](https://2023.djangocon.us/talks/inside-out-my-journey-of-understanding-inclusion)
 
