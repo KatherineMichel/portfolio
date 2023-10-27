@@ -88,7 +88,7 @@ Me and PSF Executive Director Deb Nicholson later in the week
 "Thank you to Jason Judkins and Jon Gould for generously hosting a wonderful Django Social event tonight on the eve of DjangoCon US. I enjoyed meeting and getting to know the new Python Software Foundation Executive Director Deb Nicholson, spending time with two of my favorite Python/Django authors Eric Matthes and William Vincent, and catching up with my wonderful Revsys friends Frank and Jeff, among many interesting conversations."
 ![](recap-of-djangocon-us-2023-images/thank-you-to.png)
 
-Eric, William, and Jeff
+Hanging out with favorite Python/Django authors Eric Matthes and William Vincent, and my wonderful Revsys friend Jeff
 ![](recap-of-djangocon-us-2023-images/jeff-eric-william.jpg)
 
 ## Monday
