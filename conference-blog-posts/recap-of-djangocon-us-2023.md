@@ -436,11 +436,28 @@ I consider getting to know the host city to be an important part of the conferen
 
 ### Sight Seeing
 
-After doing a bit of research, I chose the [Sarah P. Duke Gardens](https://gardens.duke.edu/) as my top priority for sight seeing. After spending time there, I can personally report that if you are in Durham, it is an absolute must see. Some of the scenes there were simply stunning! 
+After doing a bit of research, I chose the [Sarah P. Duke Gardens](https://gardens.duke.edu/) as my top priority for sight seeing. After spending time there, I can personally report that if you are in Durham, it is an absolute must see. Some of the scenes there were simply stunning! A local pointed out to me that it's a different garden every month depending on which plants are in bloom. 
 
-<!--
-Sarah P. Duke Gardens pics
--->
+Pink flowers
+![](recap-of-djangocon-us-2023-images/duke-gardens-pink-flowers.jpg)
+
+Glorious nature
+![](recap-of-djangocon-us-2023-images/duke-gardens-glorious-nature.jpg)
+
+H.L. Blomquist Garden of Native Plants Pavilion
+![](recap-of-djangocon-us-2023-images/duke-gardens-blomquist-pavilion.jpg)
+
+Fish pool, historic terraces, and Cindy Brodhead Pergola
+![](recap-of-djangocon-us-2023-images/duke-gardens-historic-terraces-fish-pool-and-cindy-brodhead-pergola.jpg)
+
+South Lawn
+![](recap-of-djangocon-us-2023-images/duke-gardens-south-lawn.jpg)
+
+Red Bridge
+![](recap-of-djangocon-us-2023-images/duke-gardens-red-bridge.jpg)
+
+Wooden Bridge
+![](recap-of-djangocon-us-2023-images/duke-gardens-wooden-bridge.jpg)
 
 After visiting the gardens, I made the quick walk over to the [Duke Chapel](https://chapel.duke.edu/). Not only was the chapel gorgeous, but the [Conference for North Carolina Chapter of the American Choral Directors Association](https://chapel.duke.edu/events/conference-north-carolina-chapter-american-choral-directors-association-1697169600) was taking place. A choir that must have been made up of elite children singers happened to be practicing. I've stumbled into some jaw-dropping experiences while traveling. This was another one. Together, the music and surroundings were magical. Take a listen. 
 
