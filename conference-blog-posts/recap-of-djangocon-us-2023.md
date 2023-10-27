@@ -211,7 +211,7 @@ Will Vincent
 
 Hallway track
 
-2020 [Malcolm Tredinnick Memorial Prize](https://www.djangoproject.com/foundation/prizes/) winner Ken Whitesell at the registration desk. 
+Ken Whitesell, 2020 [Malcolm Tredinnick Memorial Prize](https://www.djangoproject.com/foundation/prizes/) winner, at the registration desk. 
 ![](recap-of-djangocon-us-2023-images/hallway.jpg)
 
 <!--
@@ -263,6 +263,8 @@ https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-p
 [Navigating Django's Future: Djangonaut Space](https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/)
 
 <!--
+History of trying to make DjangoCon US more diverse and increase number of contributors
+
 Summary
 -->
 
@@ -370,8 +372,7 @@ https://twitter.com/KatiMichel/status/1714679106510434533
 I don't take the time that Natalie spent on her talk lightly. I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. It can be exhausting. I am looking forward to getting to know Natalia's development work. 
 
 <!--
-DjangoCon Africa
-Daniele
+Daniele Procida gave a moving message about DjangoCon Africa. 
 
 Africans
 Richard Ackon
@@ -379,11 +380,14 @@ Abigail Afi Gbadago
 Ntalie Geofrey
 Noah
 Benedict Kofi Amofah
-Sheena O'Connell
 Ron Maravanyika
+
+Sheena O'Connell
 Abigail
 
 Hunar, Libya, Africa
+
+One of the Black attendees said that he's often the only Black person in attendance. DjangoCon US was a very different and wonderful experience. 
 -->
 
 "This is what we do. This is how we are."
@@ -425,13 +429,6 @@ Toppings to choose from
 
 Final product... wow! (vanilla soft serve, chocolate core, bourbon dip, and strawberry topping)
 ![](recap-of-djangocon-us-2023-images/simon-says-ice-cream.jpg)
-
-<!--
-White Coat Captioning
-Anne Beeman
-
-Simon
--->
 
 ## Sight Seeing and More Food!
 
