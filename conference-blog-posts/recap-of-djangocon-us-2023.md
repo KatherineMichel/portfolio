@@ -52,7 +52,7 @@ Cocoa Cinnamon Coffee Shop
 Dr. Durham Latte ("House made vanilla bean syrup, maca root, and ginger topped with black lava salt")
 ![](recap-of-djangocon-us-2023-images/cocoa-cinnamon-dr-durham.jpg)
 
-It was comically on brand that with coffee in hand, I was looking for the [Durham Convention Center](https://www.durhamconventioncenter.com/) to help with organizing, got lost, and serendipitously stumbled upon the [Django Girls](https://djangogirls.org/en/durham/) Workshop hosted at the office of our wonderful, longtime partners [Caktus Group](https://www.caktusgroup.com/). I was reunited with my friends Dawn Wages, Jay Miller, Jason Judkins, Rebecca Conway, and Tim Allen. It was a great time at an event where lives are changed. Many Django careers have been started through [Django Girls](https://djangogirls.org/en/). Check out Django Girls alumane Dawn and Rachell Calhoun's Tuesday talk [Navigating Django's Future: Djangonaut Space](https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/) for their career success stories. While at the workshop, I enjoyed food from [Neomonde Mediterranean](https://www.neomonde.com/mediterranean-restaurant-durham/) ([organizer recommended](https://2023.djangocon.us/venue/#places)), caught up with my friends, and picked up some swag! 
+It was comically on brand that with coffee in hand, I was looking for the [Durham Convention Center](https://www.durhamconventioncenter.com/) to help with organizing, got lost, and serendipitously stumbled upon the [Django Girls](https://djangogirls.org/en/durham/) Workshop hosted at the office of our wonderful, longtime partners [Caktus Group](https://www.caktusgroup.com/). I was reunited with my friends Dawn Wages, Jay Miller, Jason Judkins, Rebecca Conway, and Tim Allen. It was a great time at an event where lives are changed. The event featured a majority of black participants! While at the workshop, I enjoyed food from [Neomonde Mediterranean](https://www.neomonde.com/mediterranean-restaurant-durham/) ([organizer recommended](https://2023.djangocon.us/venue/#places)), caught up with my friends, and picked up some swag! 
 
 So good to be welcomed in by my friend Tim :)
 ![](recap-of-djangocon-us-2023-images/tim-welcome.jpg)
@@ -267,6 +267,8 @@ Summary
 Djangonaut Space is now [accepting appications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/)! 
 
 <!--
+Many Django careers have been started through [Django Girls](https://djangogirls.org/en/). 
+
 "Love to see Dawn Wages and Rachell Calhoun killing it on stage and keeping it real. Great talk!"
 ![](recap-of-djangocon-us-2023-images/love-to-see.png)
 -->
@@ -274,7 +276,7 @@ Djangonaut Space is now [accepting appications](https://www.djangoproject.com/we
 Dawn and Rachell killing it on stage and keeping it real :) 
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
 
-The magic of Django Girls
+The magic of Django Girls... Dawn and Rachell are alumae
 ![](recap-of-djangocon-us-2023-images/celebration.jpg)
 
 While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk [Don't Buy the "AI" Hype](https://2023.djangocon.us/talks/dont-buy-the-ai-hype/) the he had put together at the last minute to fill an open slot. 
