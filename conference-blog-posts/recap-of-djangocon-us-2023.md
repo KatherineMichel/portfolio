@@ -69,7 +69,7 @@ Cocoa Cinnamon Coffee Shop
 Dr. Durham Latte ("House made vanilla bean syrup, maca root, and ginger topped with black lava salt")
 ![](recap-of-djangocon-us-2023-images/cocoa-cinnamon-dr-durham.jpg)
 
-It was comically on brand that with coffee in hand, I was looking for the [Durham Convention Center](https://www.durhamconventioncenter.com/) to help with organizing, got lost, and serendipitously stumbled upon the [Django Girls](https://djangogirls.org/en/durham/) Workshop hosted at the office of our wonderful, longtime partners [Caktus Group](https://www.caktusgroup.com/). I was reunited with my friends Dawn Wages, Jay Miller, Jason Judkins, Rebecca Conway, and Tim Allen. It was a great time at an event where lives are changed. The event featured a majority of Black participants! While at the workshop, I enjoyed food from [Neomonde Mediterranean](https://www.neomonde.com/mediterranean-restaurant-durham/) ([organizer recommended](https://2023.djangocon.us/venue/#places)), caught up with my friends, and picked up some swag! 
+With coffee in hand, I was looking for the [Durham Convention Center](https://www.durhamconventioncenter.com/) to help with organizing, got lost, and serendipitously stumbled upon the [Django Girls](https://djangogirls.org/en/durham/) Workshop hosted at the office of our wonderful, longtime partners [Caktus Group](https://www.caktusgroup.com/). I was reunited with my friends Dawn Wages, Jay Miller, Jason Judkins, Rebecca Conway, and Tim Allen. It was a great time at an event where lives are changed. The event featured a majority of Black participants! While at the workshop, I enjoyed food from [Neomonde Mediterranean](https://www.neomonde.com/mediterranean-restaurant-durham/) ([organizer recommended](https://2023.djangocon.us/venue/#places)), caught up with my friends, and picked up some swag! 
 
 So good to be welcomed in by my friend Tim :)
 ![](recap-of-djangocon-us-2023-images/tim-welcome.jpg)
@@ -120,7 +120,7 @@ Hanging out with favorite Python/Django authors Eric Matthes and William Vincent
 On Monday, I ate breakfast with our new [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/). I was thrilled to meet her! We talked about our work, what her experience has been like so far as a Django Fellow, and she introduced me to the art of drinking [maté](https://en.wikipedia.org/wiki/Mate_(drink)).
 
 <!--
-Talk on Wednesday
+I am happy to have played a role in making her Wednesday talk happen. 
 -->
 
 ### Kojo Idressa and Peter Grandstaff Kick Off the Conference
@@ -210,6 +210,7 @@ https://2023.djangocon.us/talks/afropython-using-django-to-change-black-people-l
 
 <!--
 Summary
+Report card
 -->
 
 <!--
@@ -274,15 +275,17 @@ https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/
 
 #### Django Social T-Shirt
 
-On Monday, I was fortunate to come into the possession of one of Foxley Talent's highly coveted Django Social T-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
+On Monday, I was fortunate to come into the possession of one of Foxley Talent's super cute Django Social T-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
+
+I’ve been to a Django Social in Durham now. I am hoping to make it to one in the U.K. eventually.
+
+Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Talent Principal Jon Gould
+![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
 
 <!--
 "Couldn’t resist wearing this super cute Django Social shirt from Jon and company. I’ve been to a Django Social in Durham now. Hoping to make it to one in the U.K. eventually!"
 ![](recap-of-djangocon-us-2023-images/couldn't-resist.png)
 -->
-
-Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Talent Principal Jon Gould
-![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
 
 #### Coherence Demo
 
@@ -466,12 +469,13 @@ New friends... beautiful on the inside and out!
 
 Later in the week, a Black attendee told me that when he attends a conference in the U.S. or Europe, he is sometimes the only Black person in attendance. DjangoCon US was a very different and wonderful experience. 
 
+Check out the Black Python Devs write-up about their [DjangoCon US experience](https://blackpythondevs.github.io/2023-10-20-djangoconus/). 
+
 "This makes me smile. ❤️ We are nowhere near where we want to be on diversity, but making big strides. I think this was the most fun DjangoCon US I've been to so far, and the growing diversity played a big part in that."
 ![](recap-of-djangocon-us-2023-images/this-makes-me-smile.png)
 
 <!--
 https://fosstodon.org/@kati/111276680465247885
-https://blackpythondevs.github.io/2023-10-20-djangoconus/
 -->
 
 <!--
