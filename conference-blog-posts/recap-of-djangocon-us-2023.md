@@ -217,12 +217,9 @@ Shout out to Catherine
 
 Chaim gave a special thanks to Jacob Kaplan-Moss for the work he has done in getting the new DSF Working Groups Initiative off the ground. 
 
-The DSF is changing how its day-to-day work gets done by re-distributing power from the DSF Board to working groups. The working groups will be tracking in the [DSF Working Groups GitHub repo](https://github.com/django/dsf-working-groups). 
+The DSF is changing how its day-to-day work gets done by re-distributing power from the DSF Board to working groups. The working groups will be tracked in the [DSF Working Groups GitHub repo](https://github.com/django/dsf-working-groups). 
 
-<!--
-Membership will also change
-Based on PSF model
--->
+DSF Membership will also eventually change. This will be more in line with the PSF model. 
 
 For more info, check out Jacob's blog post [Announcing DSF Working Groups](https://www.djangoproject.com/weblog/2023/oct/13/announcing-dsf-working-groups/).
 
@@ -231,11 +228,7 @@ During the sprint, Jacob also submitted a [pull request](https://github.com/djan
 Jacob talking to attendees about the new DSF Working Groups initiative
 ![](recap-of-djangocon-us-2023-images/jacob.jpg)
 
-It's great that the creators and early architects of Django continue to be engaged with and accessible to the community. Check out this DjangoCon 2008 panel that Django Co-Creator Simon Willison recently unearthed featuring himself and Andrew Godwin. :)
-
-<!--
-Link
--->
+It's great that the creators and early architects of Django continue to be engaged with and accessible to the community. Check out this DjangoCon 2008 [Schema Evolution Panel](https://fosstodon.org/@simon@simonwillison.net/111310910516740202) that Django Co-Creator Simon Willison recently unearthed featuring himself, Andrew Godwin, and Russell Keith-Magee. :)
 
 ### Parts and Labor, The Parlour, and Back to the Hotel
 
@@ -284,16 +277,19 @@ Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Tale
 
 #### Coherence Demo
 
-<!--
-Two members of our party had founded a startup called Coherence. 
-https://www.withcoherence.com/
--->
+Two members of our party at Parts and Labor had founded a startup called [Coherence](https://www.withcoherence.com/). 
 
-Coherence table
+Coherence brand
 ![](recap-of-djangocon-us-2023-images/coherence-table.jpg)
+
+On Tuesday, I stopped by their sponsor table for a demo. 
 
 Coherence demo
 ![](recap-of-djangocon-us-2023-images/coherence-demo.jpg)
+
+<!--
+Summary
+-->
 
 ### Marc Gibbons
 
