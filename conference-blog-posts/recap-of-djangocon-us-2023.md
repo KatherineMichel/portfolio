@@ -459,10 +459,14 @@ Red Bridge
 Wooden Bridge
 ![](recap-of-djangocon-us-2023-images/duke-gardens-wooden-bridge.jpg)
 
-After visiting the gardens, I made the quick walk over to the [Duke Chapel](https://chapel.duke.edu/). Not only was the chapel gorgeous, but the [Conference for North Carolina Chapter of the American Choral Directors Association](https://chapel.duke.edu/events/conference-north-carolina-chapter-american-choral-directors-association-1697169600) was taking place. A choir that must have been made up of elite children singers happened to be practicing. I've stumbled into some jaw-dropping experiences while traveling. This was another one. Together, the music and surroundings were magical. Take a listen. 
+After visiting the gardens, I made the quick walk over to the [Duke Chapel](https://chapel.duke.edu/). Not only was the chapel gorgeous, but the [Conference for North Carolina Chapter of the American Choral Directors Association](https://chapel.duke.edu/events/conference-north-carolina-chapter-american-choral-directors-association-1697169600) was taking place. A choir that must have been made up of elite children singers happened to be practicing. I've stumbled into some jaw-dropping experiences while traveling. This was another one. Together, the music and surroundings were magical. 
+
+![](recap-of-djangocon-us-2023-images/duke-chapel-outside.jpg)
+![](recap-of-djangocon-us-2023-images/duke-chapel-altar.jpg)
+![](recap-of-djangocon-us-2023-images/duke-chapel-side.jpg)
+![](recap-of-djangocon-us-2023-images/duke-chapel-back.jpg)
 
 <!--
-Duke Chapel pics
 Video
 -->
 
