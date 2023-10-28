@@ -23,17 +23,11 @@ It was a rare opportunity to spend time in person with other board members and e
 Amazing ambiance
 ![](recap-of-djangocon-us-2023-images/parizade-walking-to-table.jpg)
 
-Wow...
-![](recap-of-djangocon-us-2023-images/parizade-dining-room.jpg)
-
 Apple Pie Mezcal Margarita ("Del Maguey Vida Mezcal, triple sec, lime juice, apple pie syrup, salted rim")
 ![](recap-of-djangocon-us-2023-images/parizade-apple-pie-mezcal-margarita.jpg)
 
 Linguini and clams ("chorizo, cherry tomatoes, toasted garlic, white wine sauce, tarragon bread crumbs")
 ![](recap-of-djangocon-us-2023-images/parizade-linguini-and-clams.jpg)
-
-Cookie and ice cream desert
-![](recap-of-djangocon-us-2023-images/parizade-cookie-and-ice-cream-dessert.jpg)
 
 "Thank you to our DEFNA President Peter Grandstaff and Two Rock Software for treating fellow DEFNA Board Members in Durham for DjangoCon US to a magical dinner last night at Parizade. The apple pie mezcal margarita, linguini and clams, cookie and ice cream dessert, and company were stellar."
 ![](recap-of-djangocon-us-2023-images/parizade-post.png)
@@ -380,6 +374,8 @@ I don't take the time that Natalie spent on her talk lightly. I've chatted with 
 <!--
 Daniele Procida gave a moving message about DjangoCon Africa. 
 
+"This is what we do. This is how we are."
+
 Africans
 Richard Ackon
 Abigail Afi Gbadago
@@ -396,8 +392,9 @@ Hunar, Libya, Africa
 One of the Black attendees said that he's often the only Black person in attendance. DjangoCon US was a very different and wonderful experience. 
 -->
 
-"This is what we do. This is how we are."
+<!--
 ![](recap-of-djangocon-us-2023-images/this-is-what-we-do.jpg)
+-->
 
 DjangoCon Africa Organizers
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
@@ -424,19 +421,34 @@ Crispy Catfish ("Crispy cornmeal fried catfish served over a bed of red beans & 
 Our table after an incredible meal!
 ![](recap-of-djangocon-us-2023-images/its-a-southern-thing-table.jpg)
 
-Afterward, led by Tim, we had ice cream at a novel ice cream shop called [Simon Says Dip This](https://www.simonssaysdipthis.com/). Tim said he's never seen an ice cream shop like this anywhere else. 
+Afterward, led by Tim, we had ice cream at a novel ice cream shop called [Simon Says Dip This](https://www.simonssaysdipthis.com/). Tim said he's never seen an ice cream shop like this anywhere else. Vanilla soft serve has a core, dip, and topping of your choice. 
 
 Simon Says Dip This Counter
 ![](recap-of-djangocon-us-2023-images/simon-says-counter.jpg)
 
-Dip being poured on
-![](recap-of-djangocon-us-2023-images/simon-says-sauce.jpg)
-
-Toppings to choose from
-![](recap-of-djangocon-us-2023-images/simon-says-toppings.jpg)
-
-Final product... wow! (vanilla soft serve, chocolate core, bourbon dip, and strawberry topping)
+Final product... wow! (chocolate core, bourbon dip, and strawberry topping)
 ![](recap-of-djangocon-us-2023-images/simon-says-ice-cream.jpg)
+
+## Conference Conclusion
+
+Privileged to have attended DjangoCon US six times. 
+
+My sixth DjangoCon US
+![](recap-of-djangocon-us-2023-images/badge.jpg)
+
+I came away from Durham with many new friends, renewed optimism, and some amazing swag. 
+
+New friends... beautiful on the inside and out!
+![](recap-of-djangocon-us-2023-images/new-friends.jpg)
+
+Prized possessions 
+![](recap-of-djangocon-us-2023-images/trilogy.jpg)
+
+Proud to be a DEFNA Board Member and DjangoCon US Organizer
+![](recap-of-djangocon-us-2023-images/organizers-slide.jpg)
+
+Standing ovation for organizers
+![](recap-of-djangocon-us-2023-images/standing-ovation.jpg)
 
 ## Sight Seeing and More Food!
 
@@ -497,6 +509,16 @@ Lemur pics
 Museum of Life and Science lemurs
 ![](recap-of-djangocon-us-2023-images/museum-of-life-and-sciences-lemurs.jpg)
 
+### Parizade
+
+More pics from the incredible Parizade!
+
+Wow...
+![](recap-of-djangocon-us-2023-images/parizade-dining-room.jpg)
+
+Cookie and ice cream desert
+![](recap-of-djangocon-us-2023-images/parizade-cookie-and-ice-cream-dessert.jpg)
+
 ### Loaf Bakery
 
 After having read rave reviews about [Loaf](https://www.loafdurham.com/) bakery, I had to pay a visit. It did not disappoint. I ordered a ham and gruyere croissant, a walnut sea salt brownie, a pain au chocolat, and 5 pumpkin chocolate chip cookies. 
@@ -521,6 +543,16 @@ Cool atmosphere!
 Yum! 
 ![](recap-of-djangocon-us-2023-images/pizzeria-toro-pizza.jpg)
 
+## Simon Says Dip This
+
+More pics from the amazing Simon Says Dip This!
+
+Dip being poured on
+![](recap-of-djangocon-us-2023-images/simon-says-sauce.jpg)
+
+Toppings to choose from
+![](recap-of-djangocon-us-2023-images/simon-says-toppings.jpg)
+
 ### Press Coffee, Crepes,and Cocktails
 
 After having read rave reviews about [Press Coffee, Crepes, and Cocktails](https://pressccc.com/locations/durham/) at the [American Tobacco Campus](https://americantobacco.co/), I simply had to visit. I was keen to have a seasonal Black Forest Latte. I finally had the opportunity on sprint day morning. The atmosphere was bright and cute. The food was excellent. I think this was the first time that I've ever had a savory crepe. 
@@ -542,34 +574,13 @@ The inside
 
 ## In Closing
 
-My sixth DjangoCon US
-![](recap-of-djangocon-us-2023-images/badge.jpg)
-
-"As usual, I've tried to squeeze every last bit of experience out of DjangoCon US and have done about as much as I humanly can. 🤣 Today is a day for relaxed sprinting, catching up with a few more people, and flying back to Plano. I'll write up a proper blog post soon with thoughts about talks, the people I met, sightseeing, and food. For the moment, suffice it to say, this conference just gets better every year and that is because of the people. Everyone is welcome and everyone makes it a better place. This community is changing the world for the better through shared humanity and technology. And, it's not a coincidence that it started in wonderful Lawrence, Kansas."
-![](recap-of-djangocon-us-2023-images/as-usual.png)
-
-I came away from Durham with some new friends, new hope, and some amazing swag. 
-
-New friends... beautiful on the inside and out!
-![](recap-of-djangocon-us-2023-images/new-friends.jpg)
-
-Prized possessions 
-![](recap-of-djangocon-us-2023-images/trilogy.jpg)
-
-Proud to be a DEFNA Board Member and DjangoCon US Organizer
-![](recap-of-djangocon-us-2023-images/organizers-slide.jpg)
-
 <!--
-https://2023.djangocon.us/talks/closing-remarks/
-
-Durham
-
 As Jeff said, it was one hell of a year
 https://fosstodon.org/@webology@mastodon.social/111270062215335417
 -->
 
-Standing ovation for organizers
-![](recap-of-djangocon-us-2023-images/standing-ovation.jpg)
+"As usual, I've tried to squeeze every last bit of experience out of DjangoCon US and have done about as much as I humanly can. 🤣 Today is a day for relaxed sprinting, catching up with a few more people, and flying back to Plano. I'll write up a proper blog post soon with thoughts about talks, the people I met, sightseeing, and food. For the moment, suffice it to say, this conference just gets better every year and that is because of the people. Everyone is welcome and everyone makes it a better place. This community is changing the world for the better through shared humanity and technology. And, it's not a coincidence that it started in wonderful Lawrence, Kansas."
+![](recap-of-djangocon-us-2023-images/as-usual.png)
 
 Can't wait for next year! :)
 
