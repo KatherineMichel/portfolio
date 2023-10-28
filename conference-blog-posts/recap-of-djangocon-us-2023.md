@@ -34,7 +34,7 @@ Table of Contents
 DjangoCon US 2023 took place from October 16-20 in Durham, North Carolina. It was the sixth DjangoCon US I've had the privilege of attending, and in my opinion, the best one yet. 
 
 Attendee photo (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
-![](recap-of-djangocon-us-2023-images/attendee-photo.jpb)
+![](recap-of-djangocon-us-2023-images/attendee-photo.jpg)
 
 ## Pre-Conference Activities
 
