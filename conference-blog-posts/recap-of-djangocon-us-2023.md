@@ -8,7 +8,7 @@ Table of Contents
     - [Django Girls Workshop](#django-girls-workshop)
     - [Swag Stuffing](#swag-stuffing)
     - [Django Social](#django-social)
-        - [Meeting the PSF Executive Director](#meeting-the-psf-executive-director)
+        - [Meeting the New PSF Executive Director Deb Nicholson](#meeting-the-new-psf-executive-director-deb-nicholson)
         - [A Chance to Hang Out with Old Friends and Make New Friends](#a-chance-to-hang-out-with-old-friends-and-make-new-friends)
 - [Monday](#monday)
     - [Meeting the New Django Fellow Natalia Bidart](#meeting-the-new-django-fellow-natalia-bidard)
@@ -98,7 +98,7 @@ Not being a fan of beer, I had a Ponysaurus signature [Beer Cocktail](https://ww
 Gosé Margarita 
 ![](recap-of-djangocon-us-2023-images/ponysaurus-beer-cocktail.jpg)
 
-#### Meeting the PSF Executive Director
+#### Meeting the New PSF Executive Director Deb Nicholson
 
 During the event, I happened to find myself having a conversation with a woman who really knew a lot about open source and events! It turned out to be the new [Python Software Foundation Executive Director Deb Nicholson](https://www.python.org/psf/records/staff/). Serendity strikes again. I love it when that happens. :) She was accessible throughout the conference, and it was a wonderful place to get to know her. Check out her Monday talk about meetups. 
 
@@ -255,7 +255,6 @@ Chocolate ice cream... yum!
 Back at the hotel
 Pic with Paola
 
-Authors
 Eric Matthes
 Will Vincent
 -->
