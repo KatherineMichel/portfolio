@@ -157,9 +157,6 @@ A powerful tool borrowed from PyCon Australia and written about by Eric Holscher
 
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). 
 
-<!--
-Summary
-
 When Abigail was young, she didn't like math, science, and computers. Her parents would show her how to do a chore, then leave her to do it herself. She credits them with having taught her how to bring people into open source. That is her purpose in life. 
 
 In 2017, after her undergraduate studies, she took part in a Django Girls workshop with DjangoCon US Organizer Noah as her mentor. She was encouraged to give back by teaching other women how to code. She went on to be an organizer or mentor at 25 events with 500+ participants in cities and and remote areas of Ghana. She was happy to be the first female mentor, but not satisfied. She encouraged other women to become involved. 
@@ -168,7 +165,7 @@ Only two years later, at PyCon Africa Django Girls workshop in Ghana, all of the
 
 Abigail told the stories of six people she had met through her open source work. Some were shy or inexperienced. Others were more established. Some were coders, some weren't. Some had a passion. Otherws were trying to figure out where they could fit in. She was able to get to know them and see their potential. Like her parents, she taught them how to do tasks, then left them on their own to grow into leadership and perhaps find themselves in the process. She has been able to "10x" her impact this way. 
 
-Abigail talked about some of the challenges faced. 
+Abigail talked about some of the challenges faced:
 * Lack of opportunities (especially for junior developers)
 * Lack of paid open source work
 * Lack of resources
@@ -180,12 +177,11 @@ Abigail talked about organizers who have grown the Africa Python/Django communit
 
 She has taken chances and created opportunities. She is currently on a journey to become an open source program manager, using all of her lessons learned. Contributing to open source has helped her develop resilience, embrace discomfort, achieve personal growth, and find purpose. 
 
-Her resume is impressive. 
+Her organizer resume is impressive: Django Girls, PyLadies Ghana, PyData Ghana, PyLadies Morovia, PyLadies Zambia and other PyLadies communities, PyLadies Global, PyCon Ghana 2018, PyCon Africa, PSF internship, Everything Open Research (a non-profit she started), and DE&I research
 
-She invited the audience to DjangoCon Africa in Zanzibar, Tanzania from November 6-11. 
+She invited the audience to DjangoCon Africa in Zanzibar, Tanzania from November 6-11. Another PyCon Africa is also in the works. 
 
 She asked the audience to consider how they are helping bring people into open source, especially people who do not necessarily love coding. She hopes her story will inspire others to give back to their local communities. 
--->
 
 Abigail and I have been following each other on social media for quite a while. I was really excited to meet her in person! 
 
