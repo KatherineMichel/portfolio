@@ -1,5 +1,25 @@
 # Recap of DjangoCon US 2023
 
+Table of Contents
+-----------------
+
+- [Pre-Conference Activities](#pre-conference-activities)
+    - [Board Dinner](#board-dinner)
+- [The Conference](#the-conference)
+    - [DjangoCon Africa](#djangocon-africa)
+    - [Another Great Adventure](#another-great-adventure)
+    - [Conference Conclusion](#conference-conclusion)
+- [Sight Seeing and More Food](#sight-seeing-and-more-food)
+    - [Sarah P. Duke Gardens](#sarah-p-duke-gardens)
+    - [Duke Chapel](#duke-chapel)
+    - [Museum of Life and Science](#museum-of-life-and-science)
+    - [Parizade](#parizade)
+    - [Loaf Bakery](#loaf-bakery)
+    - [Pizzeria Toro](#pizzeria-toro)
+    - [Simon Says Dip This](#simon-says-dip-this)
+    - [Press Coffee, Crepes, and Cocktails](#press-coffee-crepesand-cocktails)
+- [In Closing](#in-closing)
+
 ## Intro
 
 DjangoCon US 2023 took place from October 16-20 in Durham, North Carolina. It was the sixth DjangoCon US I've had the privilege of attending, and in my opinion, the best one yet. 
@@ -12,7 +32,9 @@ https://fosstodon.org/@kati/111276680465247885
 https://blackpythondevs.github.io/2023-10-20-djangoconus/
 -->
 
-## Saturday
+## Pre-Conference Activities
+
+### Board Dinner
 
 Things got off to a great start with a DEFNA Board dinner at [Parizade](https://www.parizadedurham.com/menus/) on Saturday night. 
 
@@ -371,6 +393,8 @@ https://twitter.com/KatiMichel/status/1714679106510434533
 
 I don't take the time that Natalie spent on her talk lightly. I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. It can be exhausting. I am looking forward to getting to know Natalia's development work. 
 
+### DjangoCon Africa
+
 <!--
 Daniele Procida gave a moving message about DjangoCon Africa. 
 
@@ -404,6 +428,8 @@ DjangoCon Africa Organizers
 "Is 2024 the year that I finally make it to DjangoCon Europe? 👀 😘"
 ![](recap-of-djangocon-us-2023-images/is-2024-the-year.png)
 
+### Another Great Adventure
+
 After conference activities, as usual, hanging around in the lobby led to a great adventure. Hanging around in a lobby once led to me sitting next to Guido at an impromptu group dinner and chatting with him about the early days of Python. 
 
 On this night, I ended up having dinner with Jacob Kaplan-Moss, Andrew Godwin (Django Core Dev, Django Async Architect, South creator, and the only person who has attended every DjangoCon US), Frank Wiles (Revsys Founder and Partner, and former DSF President), and Tim and and Charles of the Wharton School, my past client. 
@@ -429,7 +455,7 @@ Simon Says Dip This Counter
 Final product... wow! (chocolate core, bourbon dip, and strawberry topping)
 ![](recap-of-djangocon-us-2023-images/simon-says-ice-cream.jpg)
 
-## Conference Conclusion
+### Conference Conclusion
 
 Privileged to have attended DjangoCon US six times. 
 
