@@ -634,7 +634,7 @@ Toppings to choose from
 
 ### Press Coffee, Crepes,and Cocktails
 
-After having read rave reviews about [Press Coffee, Crepes, and Cocktails](https://pressccc.com/locations/durham/) at the [American Tobacco Campus](https://americantobacco.co/), I simply had to visit. I was keen to have a seasonal Black Forest Latte. I finally had the opportunity on sprint day morning. The atmosphere was bright and cute. The food was excellent. I think this was the first time that I've ever had a savory crepe. 
+After having read rave reviews about [Press Coffee, Crepes, and Cocktails](https://pressccc.com/locations/durham/) at the [American Tobacco Campus](https://americantobacco.co/), I simply had to visit. I was keen to have a seasonal Black Forest Latte. I finally had the opportunity on the first day of sprints. The atmosphere was bright and cute. The food was excellent. I think this was the first time that I've ever had a savory crepe. 
 
 Coffee Bar
 ![](recap-of-djangocon-us-2023-images/press-crepes-coffee.jpg)
