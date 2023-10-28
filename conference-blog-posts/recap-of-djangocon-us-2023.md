@@ -511,7 +511,7 @@ Final product... wow! (chocolate core, bourbon dip, and strawberry topping)
 
 ### Conference Conclusion
 
-Privileged to have attended DjangoCon US six times. 
+I am privileged to have attended DjangoCon US six times. 
 
 My sixth DjangoCon US
 ![](recap-of-djangocon-us-2023-images/badge.jpg)
