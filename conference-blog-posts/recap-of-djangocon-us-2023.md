@@ -222,7 +222,9 @@ Chaim also gave a special thanks to Jacob Kaplan-Moss for the work he has done i
 
 The DSF is changing how its day-to-day work gets done by re-distributing power from the DSF Board to working groups. The working groups will be tracked in the [DSF Working Groups GitHub repo](https://github.com/django/dsf-working-groups). 
 
+<!--
 DSF Membership will also eventually change. This will be more in line with the PSF model. 
+-->
 
 For more info, check out Jacob's blog post [Announcing DSF Working Groups](https://www.djangoproject.com/weblog/2023/oct/13/announcing-dsf-working-groups/).
 
@@ -324,6 +326,9 @@ History of trying to make DjangoCon US more diverse and increase number of contr
 Panels
 
 Summary 
+
+It's been all the buzz at this conference. It's a space for peer mentoring and contributing to Django Core. It's focused on collaborative learning, sustainability in the community, and long-term growth. It was created and had a very successful pilot program all since the last DjangoCon. 
+How did they do it? 
 -->
 
 Dawn and Rachell talked about their non-traditional paths to becoming Django developers and the huge impact Django Girls has had on their lives. Many Django careers have been started through [Django Girls](https://djangogirls.org/en/).
