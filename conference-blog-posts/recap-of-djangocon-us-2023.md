@@ -63,13 +63,10 @@ Django Girls lunch from Neomonde Mediterranean
 I've always wanted one of these shirts! 
 ![](recap-of-djangocon-us-2023-images/django-girls-shirts.jpg)
 
-I eventually made it to the Durham Convention Center for swag stuffing! Many hands make light work. A wonderful conference partner [Discover Durham](https://www.discoverdurham.com/) also generously provided city guides for swag bags and gift boxes by [City Box Durham](https://cityboxdurham.com/) for organizers and speakers. 
+I eventually made it to the Durham Convention Center for swag stuffing! Many hands make light work.
 
 Swag stuffing operation (I spy a [DEFNA](https://www.defna.org/) sticker!)
 ![](recap-of-djangocon-us-2023-images/swag-stuffing.jpg)
-
-City Box Durham gift boxes
-![](recap-of-djangocon-us-2023-images/discover-durham-box-2.jpg)
 
 Later that night, I attended Django Social at [Ponysaurus](https://www.ponysaurusbrewing.com/taproom). The event was hosted by Jason Judkins, DjangoCon US Organizer, and Jon Gould of [Foxley Talent](https://foxleytalent.com/about/), DjangoCon US Sponsors. 
 
@@ -319,6 +316,11 @@ The Pit bar
 Another delicious southern-style meal! 
 ![](recap-of-djangocon-us-2023-images/the-pit-meal.jpg)
 
+A wonderful conference partner [Discover Durham](https://www.discoverdurham.com/) generously provided city guides for swag bags and gift boxes by [City Box Durham](https://cityboxdurham.com/) for organizers and speakers.
+
+City Box Durham gift boxes
+![](recap-of-djangocon-us-2023-images/discover-durham-box-2.jpg)
+
 ## Wednesday
 
 <!--
@@ -521,7 +523,7 @@ Yum!
 
 ### Press Coffee, Crepes,and Cocktails
 
-After having read rave reviews about [Press Coffee, Crepe, and Cocktails](https://pressccc.com/locations/durham/) at the [American Tobacco Campus](https://americantobacco.co/), I simply had to visit. I was keen to have a seasonal Black Forest Latte. I finally had the opportunity on sprint day morning. The atmosphere was bright and cute. The food was excellent. I think this was the first time that I've ever had a savory crepe. 
+After having read rave reviews about [Press Coffee, Crepes, and Cocktails](https://pressccc.com/locations/durham/) at the [American Tobacco Campus](https://americantobacco.co/), I simply had to visit. I was keen to have a seasonal Black Forest Latte. I finally had the opportunity on sprint day morning. The atmosphere was bright and cute. The food was excellent. I think this was the first time that I've ever had a savory crepe. 
 
 Coffee Bar
 ![](recap-of-djangocon-us-2023-images/press-crepes-coffee.jpg)
