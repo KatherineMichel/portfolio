@@ -33,14 +33,6 @@ Table of Contents
 
 DjangoCon US 2023 took place from October 16-20 in Durham, North Carolina. It was the sixth DjangoCon US I've had the privilege of attending, and in my opinion, the best one yet. 
 
-"This makes me smile. ❤️ We are nowhere near where we want to be on diversity, but making big strides. I think this was the most fun DjangoCon US I've been to so far, and the growing diversity played a big part in that."
-![](recap-of-djangocon-us-2023-images/this-makes-me-smile.png)
-
-<!--
-https://fosstodon.org/@kati/111276680465247885
-https://blackpythondevs.github.io/2023-10-20-djangoconus/
--->
-
 ## Pre-Conference Activities
 
 ### Board Dinner
@@ -127,7 +119,15 @@ Hanging out with favorite Python/Django authors Eric Matthes and William Vincent
 
 On Monday, I ate breakfast with our new [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/). I was thrilled to meet her! We talked about our work, what her experience has been like so far as a Django Fellow, and she introduced me to the art of drinking [maté](https://en.wikipedia.org/wiki/Mate_(drink)).
 
+<!--
+Talk on Wednesday
+-->
+
 ### Kojo Idressa and Peter Grandstaff Kick Off the Conference
+
+<!--
+Increase in diversity
+-->
 
 Kojo Idressa kicked of the conference with the the kind of [Orientation and Welcome](https://2023.djangocon.us/talks/orientation-and-welcome/) that only he can deliver. 
 
@@ -157,20 +157,23 @@ Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source T
 Summary
 -->
 
-"Don’t have stats, but this feels like the most diverse DjangoCon US I’ve ever been to. Particularly excited at how many Africans we have speaking and attending, starting with Abigail Mesrenyame Dogbe‘s inspiring keynote “Finding Purpose in Open Source Through Community Building.” #DjangoConUS"
-![](recap-of-djangocon-us-2023-images/don't-have-stats.png)
-
 Abigail and I have been following each other on social media for quite a while. I was really excited to meet her in person! 
 
 Me and Abigail
 ![](recap-of-djangocon-us-2023-images/me-and-abigail.jpg)
 
+"Don’t have stats, but this feels like the most diverse DjangoCon US I’ve ever been to. Particularly excited at how many Africans we have speaking and attending, starting with Abigail Mesrenyame Dogbe‘s inspiring keynote “Finding Purpose in Open Source Through Community Building.” #DjangoConUS"
+![](recap-of-djangocon-us-2023-images/don't-have-stats.png)
+
+### Chris May
 
 [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
 
 <!--
 Summary
 -->
+
+### Deb Nicholson
 
 [Meet-ups: A Grand Vision for a Humble Endeavor](https://2023.djangocon.us/talks/meet-ups-a-grand-vision-for-a-humble-endeavor/)
 ![](recap-of-djangocon-us-2023-images/deb-nicholson-some-people-find.jpg)
@@ -183,6 +186,8 @@ Summary
 
 At lunch... trying a fried green tomato for the first time!
 ![](recap-of-djangocon-us-2023-images/marriott-fried-green-tomato.jpg)
+
+### Wes Kendall and Maxwell Muoto
 
 [Using database triggers to reliably track model history](https://2023.djangocon.us/talks/using-database-triggers-to-reliably-track-model-history/)
 ![](recap-of-djangocon-us-2023-images/pg-history.jpg)
@@ -197,6 +202,8 @@ https://2023.djangocon.us/talks/hosting-and-devops-for-django/
 
 https://2023.djangocon.us/talks/afropython-using-django-to-change-black-people-life-in-brazil/
 -->
+
+### Chaim Kirby
 
 [What Can the DSF Do for Me? What Can I Do for the DSF?](https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/)
 ![](recap-of-djangocon-us-2023-images/what-can-the-dsf.jpg)
@@ -452,28 +459,29 @@ DjangoCon Africa Organizers
 
 [DjangoCon Africa 2023](https://2023.djangocon.africa/) will take place in Tanzania, Africa in November and [DjangoCon Europe 2024](https://www.djangoproject.com/weblog/2023/oct/14/djangocon-europe-2024/) will take place in Vigo, Spain in June 2024. I hope to go to both someday. 
 
+One day at lunch, I had the pleasure of eating with a table of Africans: Richard, Afi, Noah, Ntale, and Benedict. I learned that Ghanians are laid back and Ugandans are tribal. We had the chance to speak at length about our cultures. It was a really fun conversation! 
+
 New friends... beautiful on the inside and out!
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 
+Later in the week, a Black attendee told me that when he attends a conference in the U.S. or Europe, he is sometimes the only Black person in attendance. DjangoCon US was a very different and wonderful experience. 
+
+"This makes me smile. ❤️ We are nowhere near where we want to be on diversity, but making big strides. I think this was the most fun DjangoCon US I've been to so far, and the growing diversity played a big part in that."
+![](recap-of-djangocon-us-2023-images/this-makes-me-smile.png)
+
 <!--
-Africans
-Richard Ackon
-Abigail Afi Gbadago
-Ntalie Geofrey
-Noah
-Benedict Kofi Amofah
-Ron Maravanyika
-
-Sheena O'Connell
-Abigail
-
-Hunar, Libya, Africa
-
-One of the Black attendees said that he's often the only Black person in attendance. DjangoCon US was a very different and wonderful experience. 
+https://fosstodon.org/@kati/111276680465247885
+https://blackpythondevs.github.io/2023-10-20-djangoconus/
 -->
 
+<!--
 "Is 2024 the year that I finally make it to DjangoCon Europe? 👀 😘"
 ![](recap-of-djangocon-us-2023-images/is-2024-the-year.png)
+-->
+
+<!--
+Hunar
+-->
 
 ### Another Great Adventure
 
