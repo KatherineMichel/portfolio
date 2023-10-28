@@ -114,7 +114,7 @@ Me and PSF Executive Director Deb Nicholson later in the week
 
 #### A Chance to Hang Out with Old Friends and Make New Friends
 
-Hanging out with favorite Python/Django authors Eric Matthes and William Vincent, and my wonderful Revsys friend and fellow DEFNA Board Member Jeff
+Hanging out with favorite Python/Django authors Eric Matthes and William Vincent, and my wonderful Revsys friend and fellow DEFNA Board Member Jeff Triplett
 ![](recap-of-djangocon-us-2023-images/jeff-eric-william.jpg)
 
 !["Thank you to Jason Judkins and Jon Gould for generously hosting a wonderful Django Social event tonight on the eve of DjangoCon US. I enjoyed meeting and getting to know the new Python Software Foundation Executive Director Deb Nicholson, spending time with two of my favorite Python/Django authors Eric Matthes and William Vincent, and catching up with my wonderful Revsys friends Frank and Jeff, among many interesting conversations."](recap-of-djangocon-us-2023-images/thank-you-to.png)
@@ -125,17 +125,14 @@ Hanging out with favorite Python/Django authors Eric Matthes and William Vincent
 
 On Monday, I ate breakfast with our new [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/). I was thrilled to meet her! We talked about our work, what her experience has been like so far as a Django Fellow, and she introduced me to the art of drinking [maté](https://en.wikipedia.org/wiki/Mate_(drink)).
 
-<!--
-I am happy to have played a role in making her Wednesday talk happen. 
--->
-
 ### Kojo Idressa and Peter Grandstaff Kick Off the Conference
 
 <!--
+Following in the footsteps of PyCon US...
 Increase in diversity
 -->
 
-Kojo Idressa kicked of the conference with the the kind of [Orientation and Welcome](https://2023.djangocon.us/talks/orientation-and-welcome/) that only he can deliver. 
+DEFNA North America Ambassador Kojo Idressa kicked of the conference with the the kind of [Orientation and Welcome](https://2023.djangocon.us/talks/orientation-and-welcome/) that only he can deliver. 
 
 Kojo on stage- sorry for the fuzzy pic, Kojo! 
 ![](recap-of-djangocon-us-2023-images/kojo.jpg)
@@ -215,24 +212,29 @@ https://2023.djangocon.us/talks/afropython-using-django-to-change-black-people-l
 <!--
 Summary
 Report card
+Shout out to Catherine
 -->
+
+Chaim gave a special thanks to Jacob Kaplan-Moss for the work he has done in getting the new DSF Working Groups Initiative off the ground. 
+
+The DSF is changing how its day-to-day work gets done by re-distributing power from the DSF Board to working groups. The working groups will be tracking in the [DSF Working Groups GitHub repo](https://github.com/django/dsf-working-groups). 
 
 <!--
-Shout out to Catherine
-
-Accessible
-Jacob Kaplan-Moss
+Membership will also change
+Based on PSF model
 -->
+
+For more info, check out Jacob's blog post [Announcing DSF Working Groups](https://www.djangoproject.com/weblog/2023/oct/13/announcing-dsf-working-groups/).
+
+During the sprint, Jacob also submitted a [pull request](https://github.com/django/deps/pull/81) to update the Django Enhancement Process (DEP) process docs. 
 
 Jacob talking to attendees about the new DSF Working Groups initiative
 ![](recap-of-djangocon-us-2023-images/jacob.jpg)
 
-<!--
-Jacob updated DEP process docs
-https://github.com/django/deps/pull/81#discussion_r1367950389
+It's great that the creators and early architects of Django continue to be engaged with and accessible to the community. Check out this DjangoCon 2008 panel that Django Co-Creator Simon Willison recently unearthed featuring himself and Andrew Godwin. :)
 
-https://www.djangoproject.com/weblog/2023/oct/13/announcing-dsf-working-groups/
-https://github.com/django/dsf-working-groups
+<!--
+Link
 -->
 
 ### Parts and Labor, The Parlour, and Back to the Hotel
@@ -262,7 +264,7 @@ Back at the hotel, a late night chat... great crew :) (© 2023 Paolo Melchiorre 
 
 ### Hallway track
 
-Ken Whitesell at the registration desk. 
+Ken Whitesell at the registration desk 
 ![](recap-of-djangocon-us-2023-images/hallway.jpg)
 
 <!--
@@ -273,16 +275,12 @@ https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/
 
 #### Django Social T-Shirt
 
-On Monday, I was fortunate to come into the possession of one of Foxley Talent's super cute Django Social T-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
+On Monday, I was fortunate to come into the possession of one of Foxley Talent's Django Social T-shirts. :) 
 
-I’ve been to a Django Social in Durham now. I am hoping to make it to one in the U.K. eventually.
+!["Couldn’t resist wearing this super cute Django Social shirt from Jon and company. I’ve been to a Django Social in Durham now. Hoping to make it to one in the U.K. eventually!"](recap-of-djangocon-us-2023-images/couldn't-resist.png)
 
 Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Talent Principal Jon Gould
 ![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
-
-<!--
-!["Couldn’t resist wearing this super cute Django Social shirt from Jon and company. I’ve been to a Django Social in Durham now. Hoping to make it to one in the U.K. eventually!"](recap-of-djangocon-us-2023-images/couldn't-resist.png)
--->
 
 #### Coherence Demo
 
@@ -324,23 +322,24 @@ https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-p
 
 <!--
 History of trying to make DjangoCon US more diverse and increase number of contributors
+Panels
 
-Summary
+Summary 
 -->
+
+Dawn and Rachell talked about their non-traditional paths to becoming Django developers and the huge impact Django Girls has had on their lives. Many Django careers have been started through [Django Girls](https://djangogirls.org/en/).
 
 Djangonaut Space is now [accepting appications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/)! 
-
-<!--
-Many Django careers have been started through [Django Girls](https://djangogirls.org/en/). 
-
-!["Love to see Dawn Wages and Rachell Calhoun killing it on stage and keeping it real. Great talk!"](recap-of-djangocon-us-2023-images/love-to-see.png)
--->
 
 Dawn and Rachell killing it on stage and keeping it real :) 
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
 
 The magic of Django Girls... Dawn and Rachell are alumnae
 ![](recap-of-djangocon-us-2023-images/celebration.jpg)
+
+<!--
+!["Love to see Dawn Wages and Rachell Calhoun killing it on stage and keeping it real. Great talk!"](recap-of-djangocon-us-2023-images/love-to-see.png)
+-->
 
 ### Tim Allen
 
@@ -499,16 +498,16 @@ Final product... wow! (chocolate core, bourbon dip, and strawberry topping)
 
 ### Conference Conclusion
 
-I am privileged to have attended DjangoCon US six times. 
-
-My sixth DjangoCon US
-![](recap-of-djangocon-us-2023-images/badge.jpg)
-
 I came away from Durham with many new friends, renewed optimism, and some amazing swag. 
 
 <!--
+It was a pleasure
+
 Hunar
 -->
+
+Conference badge
+![](recap-of-djangocon-us-2023-images/badge.jpg)
 
 Prized possessions 
 ![](recap-of-djangocon-us-2023-images/trilogy.jpg)
