@@ -195,8 +195,10 @@ The Parlour
 Parlour flavors
 ![](recap-of-djangocon-us-2023-images/the-parlour-flavors.jpg)
 
+<!--
 Chocolate ice cream... yum!
 ![](recap-of-djangocon-us-2023-images/the-parlour-chocolate-ice-cream.jpg)
+-->
 
 <!--
 Back at the hotel
@@ -309,8 +311,10 @@ After the conference activities and group photo, I attended the complimentary sp
 The Pit dining room
 ![](recap-of-djangocon-us-2023-images/the-pit-dining-room.jpg)
 
+<!--
 The Pit bar
 ![](recap-of-djangocon-us-2023-images/the-pit-bar.jpg)
+-->
 
 Another delicious southern-style meal! 
 ![](recap-of-djangocon-us-2023-images/the-pit-meal.jpg)
@@ -405,8 +409,10 @@ After conference activities, as usual, hanging around in the lobby led to a grea
 
 On this night, I ended up having dinner with Jacob Kaplan-Moss, Andrew Godwin (Django Core Dev, Django Async Architect, South creator, and the only person who has attended every DjangoCon US), Frank Wiles (Revsys Founder and Partner, and former DSF President), and Tim and and Charles of the Wharton School, my past client. 
 
+<!--
 You know you're in good company when someone in your party is wearing this :) 
 ![](recap-of-djangocon-us-2023-images/kansas-basketball.jpg)
+-->
 
 We ate at a restaurant called [It's a Southern Thing](https://getsouthernfood.com/). The food was high quality and the service was great. I had the Crispy Catfish. 
 
@@ -434,7 +440,7 @@ Final product... wow! (vanilla soft serve, chocolate core, bourbon dip, and stra
 
 I consider getting to know the host city to be an important part of the conference experience. 
 
-### Sight Seeing
+### Sarah P. Duke Gardens
 
 After doing a bit of research, I chose the [Sarah P. Duke Gardens](https://gardens.duke.edu/) as my top priority for sight seeing. After spending time there, I can personally report that if you are in Durham, it is an absolute must see. Some of the scenes there were simply stunning! A local pointed out to me that it's a different garden every month depending on which plants are in bloom. 
 
@@ -459,6 +465,8 @@ Red Bridge
 Wooden Bridge
 ![](recap-of-djangocon-us-2023-images/duke-gardens-wooden-bridge.jpg)
 
+### Duke Chapel
+
 After visiting the gardens, I made the quick walk over to the [Duke Chapel](https://chapel.duke.edu/). Not only was the chapel gorgeous, but the [Conference for North Carolina Chapter of the American Choral Directors Association](https://chapel.duke.edu/events/conference-north-carolina-chapter-american-choral-directors-association-1697169600) was taking place. A choir that must have been made up of elite children singers happened to be practicing. I've stumbled into some jaw-dropping experiences while traveling. This was another one. Together, the music and surroundings were magical. 
 
 ![](recap-of-djangocon-us-2023-images/duke-chapel-front.jpg)
@@ -469,6 +477,8 @@ After visiting the gardens, I made the quick walk over to the [Duke Chapel](http
 <!--
 Video
 -->
+
+### Museum of Life and Science
 
 I also visited the [Museum of Life and Science](lifeandscience.org/). The [Butterfly House](https://www.lifeandscience.org/explore/butterfly-house/) in particular was a really special experience. I was also happy to have a second change to see lemurs. Duke University has the largest population of lemurs in the world outside of Madagascar, but unfortunately, its tours were booked through the rest of the year. The Museum of Life and Science has a [Lemur Exhibit](https://www.lifeandscience.org/explore/lemurs-and-tortoises/). I enjoyed observing these beautiful animals. [The Farmyard](https://www.lifeandscience.org/explore/the-farmyard/), [Insectarium](https://www.lifeandscience.org/explore/insectarium/), and [Aerospace](https://www.lifeandscience.org/explore/aerospace/) exhibits were also really fun and interesting. 
 
@@ -485,7 +495,7 @@ Lemur pics
 Museum of Life and Science lemurs
 ![](recap-of-djangocon-us-2023-images/museum-of-life-and-sciences-lemurs.jpg)
 
-### Food
+### Loaf Bakery
 
 After having read rave reviews about [Loaf](https://www.loafdurham.com/) bakery, I had to pay a visit. It did not disappoint. I ordered a ham and gruyere croissant, a walnut sea salt brownie, a pain au chocolat, and 5 pumpkin chocolate chip cookies. 
 
@@ -499,6 +509,8 @@ Ham and gruyere croissant
 Walnut sea salt brownie
 ![](recap-of-djangocon-us-2023-images/the-loaf-brownie.jpg)
 
+### Pizzeria Toro
+
 For dinner one night, I ordered takeaway from [Pizzeria Toro](https://www.pizzeriatoro.com/), right around the corner from the Marriott. I had a mouthwatering red-sauce pizza with shredded mozzarella, black olives, mixed mushrooms, and fennel sausage. 
 
 Cool atmosphere! 
@@ -506,6 +518,8 @@ Cool atmosphere!
 
 Yum! 
 ![](recap-of-djangocon-us-2023-images/pizzeria-toro-pizza.jpg)
+
+### Press Coffee, Crepes,and Cocktails
 
 After having read rave reviews about [Press Coffee, Crepe, and Cocktails](https://pressccc.com/locations/durham/) at the [American Tobacco Campus](https://americantobacco.co/), I simply had to visit. I was keen to have a seasonal Black Forest Latte. I finally had the opportunity on sprint day morning. The atmosphere was bright and cute. The food was excellent. I think this was the first time that I've ever had a savory crepe. 
 
