@@ -6,9 +6,13 @@ Table of Contents
 - [Pre-Conference Activities](#pre-conference-activities)
     - [Board Dinner](#board-dinner)
     - [Django Girls Workshop](#django-girls-workshop)
+    - [Swag Stuffing](#swag-stuffing)
     - [Django Social](#django-social)
         - [Meeting the PSF Executive Director](#meeting-the-psf-executive-director)
+        - [A Chance to Hang Out with Old Friends and Make New Friends](#a-chance-to-hang-out-with-old-friends-and-make-new-friends)
 - [Monday](#monday)
+    - [Meeting the New Django Fellow Natalia Bidart](#meeting-the-new-django-fellow-natalia-bidard)
+    - [Kojo Idressa and Peter Grandstaff Kick Off the Conference](#kojo-idress-and-peter-grandstaff-kick-off-the-conference) 
 - [Tuesday](#tuesday)
 - [Wednesday](#wednesday)
     - [DjangoCon Africa](#djangocon-africa)
@@ -84,12 +88,14 @@ Django Girls lunch from Neomonde Mediterranean
 I've always wanted one of these shirts! 
 ![](recap-of-djangocon-us-2023-images/django-girls-shirts.jpg)
 
+### Swag Stuffing
+
 I eventually made it to the Durham Convention Center for swag stuffing! Many hands make light work.
 
 Swag stuffing operation (I spy a [DEFNA](https://www.defna.org/) sticker!)
 ![](recap-of-djangocon-us-2023-images/swag-stuffing.jpg)
 
-### Django Social and Meeting the PSF Executive Director
+### Django Social
 
 Later that night, I attended Django Social at [Ponysaurus](https://www.ponysaurusbrewing.com/taproom). The event was hosted by Jason Judkins, DjangoCon US Organizer, and Jon Gould of [Foxley Talent](https://foxleytalent.com/about/), DjangoCon US Sponsors. 
 
@@ -107,6 +113,8 @@ During the event, I happened to find myself having a conversation with a woman w
 Me and PSF Executive Director Deb Nicholson later in the week 
 ![](recap-of-djangocon-us-2023-images/me-and-deb.jpg)
 
+#### A Chance to Hang Out with Old Friends and Make New Friends
+
 Hanging out with favorite Python/Django authors Eric Matthes and William Vincent, and my wonderful Revsys friend and fellow DEFNA Board Member Jeff
 ![](recap-of-djangocon-us-2023-images/jeff-eric-william.jpg)
 
@@ -115,7 +123,11 @@ Hanging out with favorite Python/Django authors Eric Matthes and William Vincent
 
 ## Monday
 
+### Meeting the New Django Fellow Natalia Bidart
+
 On Monday, I ate breakfast with our new [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/). I was thrilled to meet her! We talked about our work, what her experience has been like so far as a Django Fellow, and she introduced me to the art of drinking [maté](https://en.wikipedia.org/wiki/Mate_(drink)).
+
+### Kojo Idressa and Peter Grandstaff Kick Off the Conference
 
 Kojo Idressa kicked of the conference with the the kind of [Orientation and Welcome](https://2023.djangocon.us/talks/orientation-and-welcome/) that only he can deliver. 
 
@@ -137,6 +149,8 @@ During the Opening Remarks, Peter Grandstaff asked everyone to be kind and make 
 A powerful tool borrowed from PyCon Australia and written about by Eric Holscher of [Read the Docs](https://about.readthedocs.com/) and [Write the Docs](https://www.writethedocs.org/) for setting norms: "[Hey, we don't do that here.](https://www.ericholscher.com/blog/2023/feb/10/we-dont-do-that-here/)"
 ![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
 
+### Abigail
+
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). 
 
 <!--
@@ -146,8 +160,11 @@ Summary
 "Don’t have stats, but this feels like the most diverse DjangoCon US I’ve ever been to. Particularly excited at how many Africans we have speaking and attending, starting with Abigail Mesrenyame Dogbe‘s inspiring keynote “Finding Purpose in Open Source Through Community Building.” #DjangoConUS"
 ![](recap-of-djangocon-us-2023-images/don't-have-stats.png)
 
+Abigail and I have been following each other on social media for quite a while. I was really excited to meet her in person! 
+
 Me and Abigail
 ![](recap-of-djangocon-us-2023-images/me-and-abigail.jpg)
+
 
 [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
 
@@ -161,6 +178,8 @@ Summary
 <!--
 Summary
 -->
+
+### Fried Green Tomatoes :)
 
 At lunch... trying a fried green tomato for the first time!
 ![](recap-of-djangocon-us-2023-images/marriott-fried-green-tomato.jpg)
@@ -204,6 +223,8 @@ https://www.djangoproject.com/weblog/2023/oct/13/announcing-dsf-working-groups/
 https://github.com/django/dsf-working-groups
 -->
 
+### Parts and Labor, The Parlour, and Back to the Hotel
+
 That night, I walked with a group of fellow conference-goers to [Parts and Labor](https://partsnlabor.com/). 
 
 Parts and Labor margarita
@@ -233,7 +254,7 @@ Will Vincent
 
 ## Tuesday
 
-Hallway track
+### Hallway track
 
 Ken Whitesell at the registration desk. 
 ![](recap-of-djangocon-us-2023-images/hallway.jpg)
@@ -243,6 +264,8 @@ https://2023.djangocon.us/talks/keynote-django-the-dinosaur/
 https://2023.djangocon.us/talks/mixing-reliability-with-celery-for-delicious-async-tasks/
 https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/
 -->
+
+#### Django Social T-Shirt
 
 On Monday, I was fortunate to come into the possession of one of Foxley Talent's highly coveted Django Social T-shirts. I couldn't resist wearing it on Tuesday. Jon and I took a picture together at the Foxley Talent booth. :) 
 
@@ -254,6 +277,8 @@ On Monday, I was fortunate to come into the possession of one of Foxley Talent's
 Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Talent Principal Jon Gould
 ![](recap-of-djangocon-us-2023-images/me-and-jon.jpg)
 
+#### Coherence Demo
+
 <!--
 Two members of our party had founded a startup called Coherence. 
 https://www.withcoherence.com/
@@ -264,6 +289,8 @@ Coherence table
 
 Coherence demo
 ![](recap-of-djangocon-us-2023-images/coherence-demo.jpg)
+
+### Marc Gibbons
 
 <!--
 I was intrigued about the subject
@@ -283,6 +310,8 @@ At the end of his talk, Marc revealed that just days before the conference, he'd
 <!--
 https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
 -->
+
+### Dawn and Rachell
 
 [Navigating Django's Future: Djangonaut Space](https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/)
 
@@ -307,6 +336,8 @@ Dawn and Rachell killing it on stage and keeping it real :)
 The magic of Django Girls... Dawn and Rachell are alumnae
 ![](recap-of-djangocon-us-2023-images/celebration.jpg)
 
+### Tim Allen
+
 While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk [Don't Buy the "AI" Hype](https://2023.djangocon.us/talks/dont-buy-the-ai-hype/) the he had put together at the last minute to fill an open slot. 
 
 <!--
@@ -327,6 +358,8 @@ https://2023.djangocon.us/talks/managing-content-with-django/
 
 https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/
 -->
+
+### Speaker and Organizer Dinner
 
 After the conference activities and group photo, I attended the complimentary speaker and organizer dinner at [The Pit](https://www.thepit-durham.com/). The food was really good! 
 
@@ -355,6 +388,8 @@ https://2023.djangocon.us/talks/back-to-the-future-of-hypermedia-in-django/
 https://2023.djangocon.us/talks/panel-discussion-who-put-me-in-charge/
 -->
 
+### Andrew Knight
+
 My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing Modern Web Apps Like a Champion](https://2023.djangocon.us/talks/keynote-testing-modern-web-apps-like-a-champion/). Afterward, I had the chance to catch up with him. His talk has rekindled my desire to get better at testing and reminded me of what a great resource Test Automation University is. He gave me a card resource too! 
 
 <!--
@@ -368,6 +403,8 @@ Summary
 
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
+
+## Natalia Bidart
 
 This year, along the lines of my fellow DEFNA board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I created my own [Talk Topic Ideas List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and posted it on social media. 
 
