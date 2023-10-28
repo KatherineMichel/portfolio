@@ -211,7 +211,7 @@ Will Vincent
 
 Hallway track
 
-Ken Whitesell, 2020 [Malcolm Tredinnick Memorial Prize](https://www.djangoproject.com/foundation/prizes/) winner, at the registration desk. 
+Ken Whitesell at the registration desk. 
 ![](recap-of-djangocon-us-2023-images/hallway.jpg)
 
 <!--
