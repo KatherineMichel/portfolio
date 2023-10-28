@@ -467,8 +467,7 @@ Later in the week, a Black attendee told me that when he attends a conference in
 
 Check out the Black Python Devs write-up about their [DjangoCon US experience](https://blackpythondevs.github.io/2023-10-20-djangoconus/). 
 
-"This makes me smile. ❤️ We are nowhere near where we want to be on diversity, but making big strides. I think this was the most fun DjangoCon US I've been to so far, and the growing diversity played a big part in that."
-![](recap-of-djangocon-us-2023-images/this-makes-me-smile.png)
+!["This makes me smile. ❤️ We are nowhere near where we want to be on diversity, but making big strides. I think this was the most fun DjangoCon US I've been to so far, and the growing diversity played a big part in that."](recap-of-djangocon-us-2023-images/this-makes-me-smile.png)
 
 <!--
 https://fosstodon.org/@kati/111276680465247885
