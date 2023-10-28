@@ -252,7 +252,7 @@ Chocolate ice cream... yum!
 -->
 
 Back at the hotel, a late night chat... great crew :)
-![](recap-of-djangocon-us-2023-images/ponysaurus-beer-cocktail.jpg)
+![](recap-of-djangocon-us-2023-images/hotel-table.jpg)
 
 <!--
 Pic courtesy of Paola
