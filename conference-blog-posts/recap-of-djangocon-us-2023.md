@@ -43,8 +43,8 @@ According to every person I spoke to who had eaten there before, you can't go wr
 
 It was a rare opportunity to spend time in person with other board members and enjoy a perfect meal. 
 
-Amazing ambiance
-![](recap-of-djangocon-us-2023-images/parizade-walking-to-table.jpg)
+Wow...
+![](recap-of-djangocon-us-2023-images/parizade-dining-room.jpg)
 
 Apple Pie Mezcal Margarita ("Del Maguey Vida Mezcal, triple sec, lime juice, apple pie syrup, salted rim")
 ![](recap-of-djangocon-us-2023-images/parizade-apple-pie-mezcal-margarita.jpg)
@@ -251,9 +251,11 @@ Chocolate ice cream... yum!
 ![](recap-of-djangocon-us-2023-images/the-parlour-chocolate-ice-cream.jpg)
 -->
 
+Back at the hotel, a late night chat... great crew :)
+![](recap-of-djangocon-us-2023-images/ponysaurus-beer-cocktail.jpg)
+
 <!--
-Back at the hotel
-Pic with Paola
+Pic courtesy of Paola
 -->
 
 ## Tuesday
@@ -463,6 +465,10 @@ One day at lunch, I had the pleasure of eating with a table of Africans: Richard
 New friends... beautiful on the inside and out!
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 
+<!--
+Pic courtesy of Abigail
+-->
+
 Later in the week, a Black attendee told me that when he attends a conference in the U.S. or Europe, he is sometimes the only Black person in attendance. DjangoCon US was a very different and wonderful experience. 
 
 Check out the Black Python Devs write-up about their [DjangoCon US experience](https://blackpythondevs.github.io/2023-10-20-djangoconus/). 
@@ -586,8 +592,8 @@ Museum of Life and Science lemurs
 
 More pics from the incredible Parizade!
 
-Wow...
-![](recap-of-djangocon-us-2023-images/parizade-dining-room.jpg)
+Amazing ambiance
+![](recap-of-djangocon-us-2023-images/parizade-walking-to-table.jpg)
 
 Cookie and ice cream desert
 ![](recap-of-djangocon-us-2023-images/parizade-cookie-and-ice-cream-dessert.jpg)
