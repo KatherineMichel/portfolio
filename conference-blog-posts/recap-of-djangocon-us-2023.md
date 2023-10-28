@@ -461,7 +461,7 @@ DjangoCon Africa Organizers
 
 [DjangoCon Africa 2023](https://2023.djangocon.africa/) will take place in Tanzania, Africa in November and [DjangoCon Europe 2024](https://www.djangoproject.com/weblog/2023/oct/14/djangocon-europe-2024/) will take place in Vigo, Spain in June 2024. I hope to go to both someday. 
 
-One day at lunch, I had the pleasure of eating with a table of Africans: Richard, Afi, Noah, Ntale, and Benedict. I learned that Ghanians are laid back and Ugandans are tribal. We had the chance to speak at length about our cultures. It was a really fun conversation! 
+One day at lunch, I had the pleasure of eating with a table of Africans: Richard, Afi, Noah, Ntale, and Benedict. I learned that Ghanians are laid back and Ugandians are tribal. We had the chance to speak at length about our cultures. It was a really fun conversation! 
 
 New friends... beautiful on the inside and out!
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
