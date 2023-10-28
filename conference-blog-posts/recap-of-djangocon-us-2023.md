@@ -212,10 +212,11 @@ https://2023.djangocon.us/talks/afropython-using-django-to-change-black-people-l
 <!--
 Summary
 Report card
-Shout out to Catherine
 -->
 
-Chaim gave a special thanks to Jacob Kaplan-Moss for the work he has done in getting the new DSF Working Groups Initiative off the ground. 
+Chaim gave a special thanks to Catherine Holmes for being the glue that makes DjangoCon US a success every year. 
+
+Chaim also gave a special thanks to Jacob Kaplan-Moss for the work he has done in getting the new DSF Working Groups Initiative off the ground. 
 
 The DSF is changing how its day-to-day work gets done by re-distributing power from the DSF Board to working groups. The working groups will be tracked in the [DSF Working Groups GitHub repo](https://github.com/django/dsf-working-groups). 
 
@@ -232,7 +233,7 @@ It's great that the creators and early architects of Django continue to be engag
 
 ### Parts and Labor, The Parlour, and Back to the Hotel
 
-That night, I walked with a group of fellow conference-goers to [Parts and Labor](https://partsnlabor.com/). 
+That night, I walked with a group of fellow conference-goers to [Parts and Labor](https://partsnlabor.com/) for light food and drinks. 
 
 Parts and Labor margarita
 ![](recap-of-djangocon-us-2023-images/parts-and-labor-margarita.jpg)
