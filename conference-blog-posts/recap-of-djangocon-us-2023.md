@@ -105,6 +105,8 @@ Not being a fan of beer, I had a Ponysaurus signature [Beer Cocktail](https://ww
 Gosé Margarita 
 ![](recap-of-djangocon-us-2023-images/ponysaurus-beer-cocktail.jpg)
 
+!["Thank you to Jason Judkins and Jon Gould for generously hosting a wonderful Django Social event tonight on the eve of DjangoCon US. I enjoyed meeting and getting to know the new Python Software Foundation Executive Director Deb Nicholson, spending time with two of my favorite Python/Django authors Eric Matthes and William Vincent, and catching up with my wonderful Revsys friends Frank and Jeff, among many interesting conversations."](recap-of-djangocon-us-2023-images/thank-you-to.png)
+
 #### Meeting the New PSF Executive Director Deb Nicholson
 
 During the event, I happened to find myself having a conversation with a woman who really knew a lot about open source and events! It turned out to be the new [Python Software Foundation Executive Director Deb Nicholson](https://www.python.org/psf/records/staff/). Serendity strikes again. I love it when that happens. :) She was accessible throughout the conference, and it was a wonderful place to get to know her.
@@ -116,8 +118,6 @@ Me and PSF Executive Director Deb Nicholson later in the week
 
 Hanging out with favorite Python/Django authors Eric Matthes and William Vincent, and my wonderful Revsys friend and fellow DEFNA Board Member Jeff Triplett
 ![](recap-of-djangocon-us-2023-images/jeff-eric-william.jpg)
-
-!["Thank you to Jason Judkins and Jon Gould for generously hosting a wonderful Django Social event tonight on the eve of DjangoCon US. I enjoyed meeting and getting to know the new Python Software Foundation Executive Director Deb Nicholson, spending time with two of my favorite Python/Django authors Eric Matthes and William Vincent, and catching up with my wonderful Revsys friends Frank and Jeff, among many interesting conversations."](recap-of-djangocon-us-2023-images/thank-you-to.png)
 
 ## Monday
 
