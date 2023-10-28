@@ -673,5 +673,5 @@ djurham
 
 <!--
 You know you're in good company when someone in your party is wearing this :) 
--->
 ![](recap-of-djangocon-us-2023-images/kansas-basketball.jpg)
+-->
