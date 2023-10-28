@@ -5,7 +5,12 @@ Table of Contents
 
 - [Pre-Conference Activities](#pre-conference-activities)
     - [Board Dinner](#board-dinner)
-- [The Conference](#the-conference)
+    - [Django Girls Workshop](#django-girls-workshop)
+    - [Django Social](#django-social)
+        - [Meeting the PSF Executive Director](#meeting-the-psf-executive-director)
+- [Monday](#monday)
+- [Tuesday](#tuesday)
+- [Wednesday](#wednesday)
     - [DjangoCon Africa](#djangocon-africa)
     - [Another Great Adventure](#another-great-adventure)
     - [Conference Conclusion](#conference-conclusion)
@@ -14,7 +19,7 @@ Table of Contents
     - [Duke Chapel](#duke-chapel)
     - [Museum of Life and Science](#museum-of-life-and-science)
     - [Parizade](#parizade)
-    - [Loaf Bakery](#loaf-bakery)
+    - [Loaf](#loaf)
     - [Pizzeria Toro](#pizzeria-toro)
     - [Simon Says Dip This](#simon-says-dip-this)
     - [Press Coffee, Crepes, and Cocktails](#press-coffee-crepesand-cocktails)
@@ -58,7 +63,7 @@ Linguini and clams ("chorizo, cherry tomatoes, toasted garlic, white wine sauce,
 https://www.linkedin.com/posts/katherinemichel_thank-you-to-our-defna-president-peter-grandstaff-activity-7119291550492233728-wBC5?utm_source=share&utm_medium=member_desktop
 -->
 
-## Sunday
+### Django Girls Workshop
 
 I love a good cup of coffee. On Sunday, I ventured to nearby [Cocoa Cinnamon](https://littlewaves.coffee/pages/old-north-durham) coffee shop. I had a Dr. Durham Latte ([organizer recommended](https://2023.djangocon.us/venue/#places)). 
 
@@ -84,6 +89,8 @@ I eventually made it to the Durham Convention Center for swag stuffing! Many han
 Swag stuffing operation (I spy a [DEFNA](https://www.defna.org/) sticker!)
 ![](recap-of-djangocon-us-2023-images/swag-stuffing.jpg)
 
+### Django Social and Meeting the PSF Executive Director
+
 Later that night, I attended Django Social at [Ponysaurus](https://www.ponysaurusbrewing.com/taproom). The event was hosted by Jason Judkins, DjangoCon US Organizer, and Jon Gould of [Foxley Talent](https://foxleytalent.com/about/), DjangoCon US Sponsors. 
 
 Jon and company have started a network of Django meetups in the UK called Django Social. Jason is starting a [Raleigh-Durham chapter](https://www.meetup.com/djangosocial-raleighdurham/) and this was the kickoff. 
@@ -93,16 +100,18 @@ Not being a fan of beer, I had a Ponysaurus signature [Beer Cocktail](https://ww
 Gosé Margarita 
 ![](recap-of-djangocon-us-2023-images/ponysaurus-beer-cocktail.jpg)
 
+#### Meeting the PSF Executive Director
+
 During the event, I happened to find myself having a conversation with a woman who really knew a lot about open source and events! It turned out to be the new [Python Software Foundation Executive Director Deb Nicholson](https://www.python.org/psf/records/staff/). Serendity strikes again. I love it when that happens. :) She was accessible throughout the conference, and it was a wonderful place to get to know her. Check out her Monday talk about meetups. 
 
 Me and PSF Executive Director Deb Nicholson later in the week 
 ![](recap-of-djangocon-us-2023-images/me-and-deb.jpg)
 
-"Thank you to Jason Judkins and Jon Gould for generously hosting a wonderful Django Social event tonight on the eve of DjangoCon US. I enjoyed meeting and getting to know the new Python Software Foundation Executive Director Deb Nicholson, spending time with two of my favorite Python/Django authors Eric Matthes and William Vincent, and catching up with my wonderful Revsys friends Frank and Jeff, among many interesting conversations."
-![](recap-of-djangocon-us-2023-images/thank-you-to.png)
-
 Hanging out with favorite Python/Django authors Eric Matthes and William Vincent, and my wonderful Revsys friend and fellow DEFNA Board Member Jeff
 ![](recap-of-djangocon-us-2023-images/jeff-eric-william.jpg)
+
+"Thank you to Jason Judkins and Jon Gould for generously hosting a wonderful Django Social event tonight on the eve of DjangoCon US. I enjoyed meeting and getting to know the new Python Software Foundation Executive Director Deb Nicholson, spending time with two of my favorite Python/Django authors Eric Matthes and William Vincent, and catching up with my wonderful Revsys friends Frank and Jeff, among many interesting conversations."
+![](recap-of-djangocon-us-2023-images/thank-you-to.png)
 
 ## Monday
 
@@ -395,11 +404,21 @@ I don't take the time that Natalie spent on her talk lightly. I've chatted with 
 
 ### DjangoCon Africa
 
+Daniele Procida gave a moving message about DjangoCon Africa. "This is what we do. This is how we are."
+
 <!--
-Daniele Procida gave a moving message about DjangoCon Africa. 
+![](recap-of-djangocon-us-2023-images/this-is-what-we-do.jpg)
+-->
 
-"This is what we do. This is how we are."
+DjangoCon Africa Organizers
+![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
 
+[DjangoCon Africa 2023](https://2023.djangocon.africa/) will take place in Tanzania, Africa in November and [DjangoCon Europe 2024](https://www.djangoproject.com/weblog/2023/oct/14/djangocon-europe-2024/) will take place in Vigo, Spain in June 2024. I hope to go to both someday. 
+
+New friends... beautiful on the inside and out!
+![](recap-of-djangocon-us-2023-images/new-friends.jpg)
+
+<!--
 Africans
 Richard Ackon
 Abigail Afi Gbadago
@@ -416,15 +435,6 @@ Hunar, Libya, Africa
 One of the Black attendees said that he's often the only Black person in attendance. DjangoCon US was a very different and wonderful experience. 
 -->
 
-<!--
-![](recap-of-djangocon-us-2023-images/this-is-what-we-do.jpg)
--->
-
-DjangoCon Africa Organizers
-![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
-
-[DjangoCon Africa 2023](https://2023.djangocon.africa/) will take place in Tanzania, Africa in November and [DjangoCon Europe 2024](https://www.djangoproject.com/weblog/2023/oct/14/djangocon-europe-2024/) will take place in Vigo, Spain in June 2024. I hope to go to both someday. 
-
 "Is 2024 the year that I finally make it to DjangoCon Europe? 👀 😘"
 ![](recap-of-djangocon-us-2023-images/is-2024-the-year.png)
 
@@ -433,11 +443,6 @@ DjangoCon Africa Organizers
 After conference activities, as usual, hanging around in the lobby led to a great adventure. Hanging around in a lobby once led to me sitting next to Guido at an impromptu group dinner and chatting with him about the early days of Python. 
 
 On this night, I ended up having dinner with Jacob Kaplan-Moss, Andrew Godwin (Django Core Dev, Django Async Architect, South creator, and the only person who has attended every DjangoCon US), Frank Wiles (Revsys Founder and Partner, and former DSF President), and Tim and and Charles of the Wharton School, my past client. 
-
-<!--
-You know you're in good company when someone in your party is wearing this :) 
-![](recap-of-djangocon-us-2023-images/kansas-basketball.jpg)
--->
 
 We ate at a restaurant called [It's a Southern Thing](https://getsouthernfood.com/). The food was high quality and the service was great. I had the Crispy Catfish. 
 
@@ -463,9 +468,6 @@ My sixth DjangoCon US
 ![](recap-of-djangocon-us-2023-images/badge.jpg)
 
 I came away from Durham with many new friends, renewed optimism, and some amazing swag. 
-
-New friends... beautiful on the inside and out!
-![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 
 Prized possessions 
 ![](recap-of-djangocon-us-2023-images/trilogy.jpg)
@@ -545,7 +547,7 @@ Wow...
 Cookie and ice cream desert
 ![](recap-of-djangocon-us-2023-images/parizade-cookie-and-ice-cream-dessert.jpg)
 
-### Loaf Bakery
+### Loaf
 
 After having read rave reviews about [Loaf](https://www.loafdurham.com/) bakery, I had to pay a visit. It did not disappoint. I ordered a ham and gruyere croissant, a walnut sea salt brownie, a pain au chocolat, and 5 pumpkin chocolate chip cookies. 
 
@@ -605,6 +607,8 @@ As Jeff said, it was one hell of a year
 https://fosstodon.org/@webology@mastodon.social/111270062215335417
 -->
 
+I wrote this on Thursday, the day after the conference and the first day of sprints. 
+
 "As usual, I've tried to squeeze every last bit of experience out of DjangoCon US and have done about as much as I humanly can. 🤣 Today is a day for relaxed sprinting, catching up with a few more people, and flying back to Plano. I'll write up a proper blog post soon with thoughts about talks, the people I met, sightseeing, and food. For the moment, suffice it to say, this conference just gets better every year and that is because of the people. Everyone is welcome and everyone makes it a better place. This community is changing the world for the better through shared humanity and technology. And, it's not a coincidence that it started in wonderful Lawrence, Kansas."
 ![](recap-of-djangocon-us-2023-images/as-usual.png)
 
@@ -612,3 +616,8 @@ Can't wait for next year! :)
 
 djurham
 ![](recap-of-djangocon-us-2023-images/djurham.jpg)
+
+<!--
+You know you're in good company when someone in your party is wearing this :) 
+-->
+![](recap-of-djangocon-us-2023-images/kansas-basketball.jpg)
