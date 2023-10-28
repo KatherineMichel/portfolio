@@ -144,7 +144,7 @@ Kojo also educated the audience about the concept of a Self Care Sprint. It's im
 Self Care Sprint
 ![](recap-of-djangocon-us-2023-images/self-care-sprint.jpg)
 
-During the Opening Remarks, Peter Grandstaff asked everyone to be kind and make this conference a great place for everyone else. "If you see someone engaging in inappropriate behavior, here's a phrase you can use, 'Hey, we don't do that here.'"
+During the Opening Remarks, Conference Chair Peter Grandstaff asked everyone to be kind and make this conference a great place for everyone else. "If you see someone engaging in inappropriate behavior, here's a phrase you can use, 'Hey, we don't do that here.'"
 
 A powerful tool borrowed from PyCon Australia and written about by Eric Holscher of [Read the Docs](https://about.readthedocs.com/) and [Write the Docs](https://www.writethedocs.org/) for setting norms: "[Hey, we don't do that here.](https://www.ericholscher.com/blog/2023/feb/10/we-dont-do-that-here/)"
 ![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
@@ -254,9 +254,6 @@ Chocolate ice cream... yum!
 <!--
 Back at the hotel
 Pic with Paola
-
-Eric Matthes
-Will Vincent
 -->
 
 ## Tuesday
