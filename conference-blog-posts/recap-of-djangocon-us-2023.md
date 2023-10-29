@@ -349,11 +349,6 @@ After the conference activities and group photo, I attended the complimentary sp
 The Pit dining room
 ![](recap-of-djangocon-us-2023-images/the-pit-dining-room.jpg)
 
-<!--
-The Pit bar
-![](recap-of-djangocon-us-2023-images/the-pit-bar.jpg)
--->
-
 Another delicious southern-style meal! 
 ![](recap-of-djangocon-us-2023-images/the-pit-meal.jpg)
 
