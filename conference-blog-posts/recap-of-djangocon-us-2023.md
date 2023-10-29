@@ -389,23 +389,22 @@ It kicked off a conversation that led to her giving the talk [Inside Out: My Jou
 
 !["@CodenameTim @kati @djangocon I've been thinking about this a lot, and I would be most thrilled to prepare a talk. Currently, one of the topics I'm feeling most passionate about is Diversity And Inclusion, so I'd be excited to share my view, thoughts and my experience on the matter. Would that be a talk you'd like to see/attend?"](recap-of-djangocon-us-2023-images/i've-been-thinking-about-this-a-lot.png)
 
-Natalia gave some examples of prejudice that she has faced as a woman. She explained what unconscious bias is, gave some example sources, and explained that we are unaware of it. Her hope is that we will reflect on our unconscious biases to improve the Django community as a whole. 
+Natalia gave some examples of prejudice that she has faced as a woman. Thank you Natalia for putting into words the type of that experiences I've also had, but have questioned. 
 
-She then talked about the conflicting standards women are expected to meet. I personally found this to be the most powerful part of her talk. 
+She explained what unconscious bias is and that we are unaware of it. Her hope is that we will reflect on our unconscious biases to improve the Django community as a whole. 
+
+She then talked about the conflicting standards women are expected to meet. I personally found this to be a very powerful part of her talk. 
 
 <!--
 Summary
 Ned's talk, culture book
-Please watch and reflect. 
-
-I don't take the time that Natalia spent on her talk lightly. I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. It can be exhausting. I am looking forward to getting to know Natalia's development work. 
 -->
 
 <!--
 https://fosstodon.org/@nessita/110340749235756274
 -->
 
-Thank you to Natalia for embracing our community and asking for reflection about an important subject. I hope she found our conference to be very welcoming in return.
+Thank you to Natalia for embracing our community and generously asking for reflection about an important subject. I hope she found our conference to be very welcoming in return.
 
 ![“I had to stand in line at the women's bathroom. I’ve never had to do that before at a conference.” Natalia Bidart at #DjangoConUS](recap-of-djangocon-us-2023-images/i-had-to-stand-in-line.png)
 
@@ -413,16 +412,22 @@ Thank you to Natalia for embracing our community and asking for reflection about
 https://twitter.com/KatiMichel/status/1714679106510434533
 -->
 
+I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. It can be exhausting. I am looking forward to getting to know Natalia's development work. 
+
 ### DjangoCon Africa
 
-Daniele Procida gave a moving message about DjangoCon Africa. "This is what we do. This is how we are."
+Daniele has been involved in organizing and attending African PyCons for nearly a decade now. There are special challenges, including questions of safety. 
 
-<!--
-Summary
--->
+We should not just be asking these questions about African events. We should be asking them about events in all countries, including our own. Other countries need to come with safety warnings as well. 
 
-DjangoCon Africa Organizers
+African PyCons are creating safe spaces through codes of conduct. It's an investment in courage. "This is what we do and this is how we are." 
+
+Daniele asked DjangoCon Keynoter and Organizers to come up to the stage. 
+
+Wonderful people I am proud to call friends: Daniele, Kojo, Sheena, Abigail, Dawn, Noah
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
+
+Daniele praised DjangoCon US for doing exactly the same work from another part of the work. "And I haven't seen so many African and Black faces- non-white faces as a proportion at an event outside Africa." 
 
 [DjangoCon Africa 2023](https://2023.djangocon.africa/) will take place in Tanzania, Africa in November and [DjangoCon Europe 2024](https://www.djangoproject.com/weblog/2023/oct/14/djangocon-europe-2024/) will take place in Vigo, Spain in June 2024. 
 
@@ -434,6 +439,8 @@ New friends... beautiful on the inside and out! (photo courtesy of Abigail Mesre
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
 
 Later in the week, a Black attendee told me that when he attends a conference in the U.S. or Europe, he is sometimes the only Black person in attendance. DjangoCon US was a very different and wonderful experience. 
+
+By one organizers count, we had around 10 Black speakers. 
 
 Check out the Black Python Devs write-up about their [DjangoCon US experience](https://blackpythondevs.github.io/2023-10-20-djangoconus/). 
 
