@@ -154,7 +154,7 @@ Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source T
 
 When Abigail was young, she didn't like math, science, and computers. Her parents would show her how to do a chore, then leave her to do it herself. She credits them with having taught her how to bring people into open source. That is her purpose in life. 
 
-In 2017, after her undergraduate studies, she took part in a Django Girls workshop with DjangoCon US Organizer Noah as her mentor. She was encouraged to give back by teaching other women how to code. She went on to be an organizer or mentor at 25 events with 500+ participants in cities and and remote areas of Ghana. She was happy to be the first female mentor, but not satisfied. She encouraged other women to become involved. 
+In 2017, after her undergraduate studies, she took part in a Django Girls workshop with DjangoCon US Organizer Noah Alorwu as her mentor. She was encouraged to give back by teaching other women how to code. She went on to be an organizer or mentor at 25 events with 500+ participants in cities and and remote areas of Ghana. She was happy to be the first female mentor, but not satisfied. She encouraged other women to become involved. 
 
 Only two years later, at PyCon Africa Django Girls workshop in Ghana, all of the coaches were women. It was a proud moment and a result of that effort. 
 
@@ -416,15 +416,15 @@ I've chatted with women recently about the additional overhead women and other u
 
 ### DjangoCon Africa
 
-Daniele has been involved in organizing and attending African PyCons for nearly a decade now. There are special challenges, including questions of safety. 
+Daniele Procida has been involved in organizing and attending African PyCons for nearly a decade now. He spoke of the special challenges, including questions of safety. 
 
-We should not just be asking these questions about African events. We should be asking them about events in all countries, including our own. Other countries need to come with safety warnings as well. 
+Daniele said we should not just be asking these questions about African events. We should be asking them about events in all countries, including our own. Other countries need to come with safety warnings as well. 
 
 African PyCons are creating safe spaces through codes of conduct. It's an investment in courage. "This is what we do and this is how we are." 
 
-Daniele asked DjangoCon Keynoter and Organizers to come up to the stage. 
+Daniele asked DjangoCon Africa Keynoter and Organizers to come up to the stage. 
 
-Wonderful people I am proud to call friends: Daniele, Kojo, Sheena, Abigail, Dawn, Noah
+Wonderful people I am proud to call friends: Daniele Procida, Kojo Idressa, Sheena O'Connell, Abigail Mesrenyame Dogbe, Dawn Wages, Noah Alorwu
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
 
 Daniele praised DjangoCon US for doing exactly the same work from another part of the work. "And I haven't seen so many African and Black faces- non-white faces as a proportion at an event outside Africa." 
@@ -433,7 +433,7 @@ Daniele praised DjangoCon US for doing exactly the same work from another part o
 
 I hope to go to both someday. 
 
-One day at lunch, I had the pleasure of eating with a table of Africans: Richard, Afi, Noah, Ntale, and Benedict. I learned that Ghanians are laid back and Ugandians are tribal. We had the chance to speak at length about our cultures. It was a really fun conversation! 
+One day at lunch, I had the pleasure of eating with a table of Africans: Richard Ackon, Abigail "Afi" Gbadago, Noah Alorwu, Ntale Geofrey, and Benedict Kofi Amofah. I learned that Ghanians are laid back and Ugandians are tribal. We had the chance to speak at length about our cultures. It was a really fun conversation! 
 
 New friends... beautiful on the inside and out! (photo courtesy of Abigail Mesrenyame Dogbe)
 ![](recap-of-djangocon-us-2023-images/new-friends.jpg)
