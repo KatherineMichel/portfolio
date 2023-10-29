@@ -331,9 +331,23 @@ The magic of Django Girls... Dawn and Rachell are alumnae
 
 While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk [Don't Buy the "AI" Hype](https://2023.djangocon.us/talks/dont-buy-the-ai-hype/) the he had put together at the last minute to fill an open slot. 
 
-<!--
-Summary
--->
+Tim has been writing code since 1980. Over the years, he has seen a lot of tech trends and hype, and has been involved in some of it. He has never seen anything like what he calls the "AI" hype cycle. According to Tim, it's next level. At the risk of sounding "like an old man yelling at kids to get off my lawn," he wants to provide a warning.
+
+Tim cited a KPMG report that says that 93% of senior business leaders believe that generative AI will provide value for their businesses. He does not dispute that. 
+
+He compared the Gartner Hype Cycle for Emerging Trends 2023 with Generative AI at the peak that he calls "Mount Hype" with the Dunning-Kruger effect curve. He believes the similarity is not a coincidence. 
+
+Tim gave an entertaining rundown of technology trends over the past 25 years. They were all useful tools in the technology toolbox, but did not live up to the hype. According to Tim, the media builds the technology up to "Mount Hype" for clickbait, then tears it apart in its descent. By blinding the world with hype and fear, it's impossible to find the true utility of these new technologies and use them to improve the human condition. 
+
+Tim told the story of the startup he build as a web portal for Second Life virtual world. Hyped to the max, Second life was the media's darling, then became its whipping boy. 
+
+He says among Generative AI companies, it's now an arms race, and the race to the bottom "is dangerous." He puts "AI" in quotation marks, because he says it's not AI, it's machine learning models, a subset of AI. "It's not artificial and it's not intelligent." It's dangerous to give these attributes to machine learning models. By saying that models "hallucinate" (a.k.a. make things up) we are removing the responsibility of the programmer and model trainer to be ethical. 
+
+With these falsehoods becoming part of the permanent record, we risk the line of collective truth becoming so blurred, it's invisible. 
+
+He believes that a large portion of our population have been left behind by the education system and are easily misled. He fears that we are unprepared for the effect of Generative AI on future elections. 
+
+He doesn't have an easy answer, but says that as technologists we must be responsible stewards and do better. 
 
 Tim on stage
 ![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
