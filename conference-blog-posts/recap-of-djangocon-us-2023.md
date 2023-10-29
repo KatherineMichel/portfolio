@@ -207,10 +207,6 @@ At lunch... trying a fried green tomato for the first time!
 Summary
 -->
 
-<!--
-https://2023.djangocon.us/talks/afropython-using-django-to-change-black-people-life-in-brazil/
--->
-
 ### Chaim Kirby
 
 [What Can the DSF Do for Me? What Can I Do for the DSF?](https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/)
@@ -278,11 +274,6 @@ Back at the hotel, a late night chat... great crew :) (© 2023 Paolo Melchiorre 
 
 Ken Whitesell at the registration desk 
 ![](recap-of-djangocon-us-2023-images/hallway.jpg)
-
-<!--
-https://2023.djangocon.us/talks/keynote-django-the-dinosaur/
-https://2023.djangocon.us/talks/mixing-reliability-with-celery-for-delicious-async-tasks/
--->
 
 #### Django Social T-Shirt
 
@@ -382,13 +373,6 @@ City Box Durham gift boxes
 
 ## Wednesday
 
-<!--
-https://2023.djangocon.us/talks/how-to-schedule-tasks-with-celery-and-django/
-https://2023.djangocon.us/talks/one-database-table-one-model-many-behaviours-proxy-model/
-https://2023.djangocon.us/talks/back-to-the-future-of-hypermedia-in-django/
-https://2023.djangocon.us/talks/panel-discussion-who-put-me-in-charge/
--->
-
 ### Andrew Knight
 
 My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing Modern Web Apps Like a Champion](https://2023.djangocon.us/talks/keynote-testing-modern-web-apps-like-a-champion/). Afterward, I had the chance to catch up with him. His talk has rekindled my desire to get better at testing and reminded me of what a great resource Test Automation University is. He gave me a card resource too! 
@@ -408,19 +392,17 @@ A gift from my friend Andy
 
 This year, along the lines of my fellow DEFNA board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I created my own [Talk Topic Ideas List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and posted it on social media. 
 
-![](recap-of-djangocon-us-2023-images/the-djangocon-us-cfp.png)
+!["The @djangocon US CfP closes May 15th. We'd LOVE to receive your talk proposal! If you need some inspiration, I've written up a list of possible topics. What topics would you like to learn more about? ❤️🐍"](recap-of-djangocon-us-2023-images/the-djangocon-us-cfp.png)
 
 Tim Schilling, who has done an incredible job of taking over my former role of DEFNA Corporate Secretary and driving a lot of improvement across DEFNA and DjangoCon US, tooted to me and Natalia in response. 
 
-![](recap-of-djangocon-us-2023-images/oh-i-really-like-this.png)
+!["@kati @djangocon Oh, I really like this one on your list: > Learning more about our new fellow :) @nessita are you submitting a talk?!"](recap-of-djangocon-us-2023-images/oh-i-really-like-this.png)
 
 It kicked off a conversation that led to her giving the talk [Inside Out: My Journey of Understanding Inclusion](https://2023.djangocon.us/talks/inside-out-my-journey-of-understanding-inclusion) on Wednesday. 
 
-![](recap-of-djangocon-us-2023-images/i've-been-thinking-about-this-a-lot.png)
+!["@CodenameTim @kati @djangocon I've been thinking about this a lot, and I would be most thrilled to prepare a talk. Currently, one of the topics I'm feeling most passionate about is Diversity And Inclusion, so I'd be excited to share my view, thoughts and my experience on the matter. Would that be a talk you'd like to see/attend?"](recap-of-djangocon-us-2023-images/i've-been-thinking-about-this-a-lot.png)
 
 <!--
-Toot text
-
 Summary
 -->
 
