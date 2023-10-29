@@ -157,15 +157,16 @@ A powerful tool borrowed from PyCon Australia and written about by Eric Holscher
 
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). 
 
+<!--
 When Abigail was young, she didn't like math, science, and computers. Her parents would show her how to do a chore, then leave her to do it herself. She credits them with having taught her how to bring people into open source. That is her purpose in life. 
 
 In 2017, after her undergraduate studies, she took part in a Django Girls workshop with DjangoCon US Organizer Noah as her mentor. She was encouraged to give back by teaching other women how to code. She went on to be an organizer or mentor at 25 events with 500+ participants in cities and and remote areas of Ghana. She was happy to be the first female mentor, but not satisfied. She encouraged other women to become involved. 
 
 Only two years later, at PyCon Africa Django Girls workshop in Ghana, all of the coaches were women. It was a proud moment and a result of that effort. 
 
-Abigail told the stories of six people she had met through her open source work. Some were shy or inexperienced. Others were more established. Some were coders, some weren't. Some had a passion. Otherws were trying to figure out where they could fit in. She was able to get to know them and see their potential. Like her parents, she taught them how to do tasks, then left them on their own to grow into leadership and perhaps find themselves in the process. She has been able to "10x" her impact this way. 
+Abigail told the stories of six people she had met through her open source work. Some were shy or inexperienced. Others were more established. Some were coders, some weren't. Some had a passion. Others were trying to figure out where they could fit in. She was able to get to know them and see their potential. Like her parents, she taught them how to do tasks, then left them on their own to grow into leadership and perhaps find themselves in the process. She has been able to "10x" her impact this way. 
 
-Abigail talked about some of the challenges faced:
+Abigail talked about some of the challenges faced:  
 * Lack of opportunities (especially for junior developers)
 * Lack of paid open source work
 * Lack of resources
@@ -175,13 +176,14 @@ Abigail missed out on some high profile international speaking opportunities due
 
 Abigail talked about organizers who have grown the Africa Python/Django community, looked out for her, and pushed her outside of her comfort zone. 
 
-She has taken chances and created opportunities. She is currently on a journey to become an open source program manager, using all of her lessons learned. Contributing to open source has helped her develop resilience, embrace discomfort, achieve personal growth, and find purpose. 
+She is currently on a journey to become an open source program manager, using all of her lessons learned. Contributing to open source has helped her develop resilience, embrace discomfort, achieve personal growth, and find purpose. 
 
 Her organizer resume is impressive: Django Girls, PyLadies Ghana, PyData Ghana, PyLadies Morovia, PyLadies Zambia and other PyLadies communities, PyLadies Global, PyCon Ghana 2018, PyCon Africa, PSF internship, Everything Open Research (a non-profit she started), and DE&I research
 
 She invited the audience to DjangoCon Africa in Zanzibar, Tanzania from November 6-11. Another PyCon Africa is also in the works. 
 
 She asked the audience to consider how they are helping bring people into open source, especially people who do not necessarily love coding. She hopes her story will inspire others to give back to their local communities. 
+-->
 
 Abigail and I have been following each other on social media for quite a while. I was really excited to meet her in person! 
 
@@ -222,9 +224,6 @@ Summary
 -->
 
 <!--
-AWS Cloud Practitioner
-https://2023.djangocon.us/talks/hosting-and-devops-for-django/
-
 https://2023.djangocon.us/talks/afropython-using-django-to-change-black-people-life-in-brazil/
 -->
 
@@ -233,20 +232,29 @@ https://2023.djangocon.us/talks/afropython-using-django-to-change-black-people-l
 [What Can the DSF Do for Me? What Can I Do for the DSF?](https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/)
 ![](recap-of-djangocon-us-2023-images/what-can-the-dsf.jpg)
 
-<!--
-Summary
-Report card
--->
+Chaim Kirby is DSF President. 
 
-Chaim gave a special thanks to Catherine Holmes for being the glue that makes DjangoCon US a success every year. 
+What can the DSF do for me? He gave a report card:
+* Support development of Django by sponsoring sprints, meetups, gatherings and community events: B
+* Promote the use of Django among the World Wide Web development community: D
+* Project the intellectual property and the framework's long-term viability: A
+* Advance the state of the art in web development: no grade
 
-Chaim also gave a special thanks to Jacob Kaplan-Moss for the work he has done in getting the new DSF Working Groups Initiative off the ground. 
+Chaim gave a special thanks to DSF Board Assistant Catherine Homes: "Honestly, we could disappear and if Catherine sticks around, things keep going."
 
-The DSF is changing how its day-to-day work gets done by re-distributing power from the DSF Board to working groups. The working groups will be tracked in the [DSF Working Groups GitHub repo](https://github.com/django/dsf-working-groups). 
+What can I do for the DSF?
 
-<!--
-DSF Membership will also eventually change. This will be more in line with the PSF model. 
--->
+Chaim announced two new initiatives: 
+* Change to DSF Membership qualification
+* DSF Working Groups
+
+In the past, DSF membership has been available to people who shared IP with the DSF- that is, literally wrote code or documentation. 
+
+DSF Membership will now go beyond code or documentation to recognize the myriad of ways that people support the Django community. It will be predicated on making meaningful contributions toward the purpose of the DSF.  
+
+The DSF is also changing how its day-to-day work gets done by re-distributing power from the DSF Board to working groups. The working groups will be tracked in the [DSF Working Groups GitHub repo](https://github.com/django/dsf-working-groups). If you have an idea for how to better achieve a DSF goal, there is a process and template. You can nominate yourself to define a working group and the board will review, with the potential for a budget. 
+
+Chaim gave a special thanks to Jacob Kaplan-Moss for taking the lead on the DSF Working Groups initiative. 
 
 For more info, check out Jacob's blog post [Announcing DSF Working Groups](https://www.djangoproject.com/weblog/2023/oct/13/announcing-dsf-working-groups/).
 
