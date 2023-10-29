@@ -148,7 +148,7 @@ During the Opening Remarks, Conference Chair Peter Grandstaff asked everyone to 
 A powerful tool borrowed from PyCon Australia and written about by Eric Holscher of [Read the Docs](https://about.readthedocs.com/) and [Write the Docs](https://www.writethedocs.org/) for setting norms: "[Hey, we don't do that here.](https://www.ericholscher.com/blog/2023/feb/10/we-dont-do-that-here/)"
 ![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
 
-### Abigail
+### Abigail Mesrenyame Dogbe
 
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). 
 
@@ -301,6 +301,8 @@ Check out the [docs](https://docs.withcoherence.com/)!
 
 Coherence brand
 ![](recap-of-djangocon-us-2023-images/coherence-table.jpg)
+
+### Pavel Sviridov
 
 <!--
 https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
