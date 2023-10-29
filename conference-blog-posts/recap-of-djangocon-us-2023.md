@@ -209,10 +209,9 @@ Summary
 
 ### Chaim Kirby
 
-[What Can the DSF Do for Me? What Can I Do for the DSF?](https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/)
-![](recap-of-djangocon-us-2023-images/what-can-the-dsf.jpg)
+Chaim Kirby, Django Software Foundation (DSF) President, gave the talk [What Can the DSF Do for Me? What Can I Do for the DSF?](https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/)
 
-Chaim Kirby is DSF President. 
+![](recap-of-djangocon-us-2023-images/what-can-the-dsf.jpg)
 
 What can the DSF do for me? He gave a report card:
 * Support development of Django by sponsoring sprints, meetups, gatherings and community events: B
