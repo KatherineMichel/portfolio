@@ -157,7 +157,6 @@ A powerful tool borrowed from PyCon Australia and written about by Eric Holscher
 
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). 
 
-<!--
 When Abigail was young, she didn't like math, science, and computers. Her parents would show her how to do a chore, then leave her to do it herself. She credits them with having taught her how to bring people into open source. That is her purpose in life. 
 
 In 2017, after her undergraduate studies, she took part in a Django Girls workshop with DjangoCon US Organizer Noah as her mentor. She was encouraged to give back by teaching other women how to code. She went on to be an organizer or mentor at 25 events with 500+ participants in cities and and remote areas of Ghana. She was happy to be the first female mentor, but not satisfied. She encouraged other women to become involved. 
@@ -183,7 +182,6 @@ Her organizer resume is impressive: Django Girls, PyLadies Ghana, PyData Ghana, 
 She invited the audience to DjangoCon Africa in Zanzibar, Tanzania from November 6-11. Another PyCon Africa is also in the works. 
 
 She asked the audience to consider how they are helping bring people into open source, especially people who do not necessarily love coding. She hopes her story will inspire others to give back to their local communities. 
--->
 
 Abigail and I have been following each other on social media for quite a while. I was really excited to meet her in person! 
 
@@ -289,7 +287,6 @@ Ken Whitesell at the registration desk
 <!--
 https://2023.djangocon.us/talks/keynote-django-the-dinosaur/
 https://2023.djangocon.us/talks/mixing-reliability-with-celery-for-delicious-async-tasks/
-https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/
 -->
 
 #### Django Social T-Shirt
@@ -367,11 +364,6 @@ Tim on stage
 <!--
 Ice cream for afternoon snack
 ![](recap-of-djangocon-us-2023-images/marriott-ice-cream.jpg)
-
-https://2023.djangocon.us/talks/all-about-djangoproject-com/
-
-YupGup
-https://2023.djangocon.us/talks/managing-content-with-django/
 
 https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/
 -->
