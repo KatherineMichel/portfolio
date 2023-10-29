@@ -342,7 +342,7 @@ He compared the Gartner Hype Cycle for Emerging Trends 2023 with generative AI a
 
 Tim gave an entertaining rundown of technology trends over the past 25 years. They were all useful tools in the technology toolbox, but did not live up to the hype. According to Tim, the media builds the technology up to "Mount Hype" for clickbait, then tears it apart in its descent. By blinding the world with hype and fear, it's impossible to find the true utility of these new technologies and use them to improve the human condition. 
 
-Tim told the story of the startup he build as a web portal for Second Life virtual world. Hyped to the max, Second life was the media's darling, then became its whipping boy. 
+Tim told the story of the startup he built as a web portal for Second Life virtual world. Hyped to the max, Second life was the media's darling, then became its whipping boy. 
 
 He says among generative AI companies, it's now an arms race, and the race to the bottom "is dangerous." He puts "AI" in quotation marks, because he says it's not AI, it's machine learning models, a subset of AI. "It's not artificial and it's not intelligent." It's dangerous to give these attributes to machine learning models. By saying that models "hallucinate" (a.k.a. make things up) we are removing the responsibility of the programmer and model trainer to be ethical. 
 
@@ -351,6 +351,8 @@ With these falsehoods becoming part of the permanent record, we risk the line of
 He believes that a large portion of our population have been left behind by the education system and are easily misled. He fears that we are unprepared for the effect of generative AI on future elections. 
 
 He doesn't have an easy answer, but says that as technologists we must be responsible stewards and do better. 
+
+"We've got to stop falling for it."
 
 ### Eliana Rosselli
 
