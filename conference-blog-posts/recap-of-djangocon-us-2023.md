@@ -367,9 +367,8 @@ My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing
 Summary
 -->
 
-<!--
+Andy singing the praises of HTMX
 !["Another high level endorsement of HTMX: “HTMX is a great way to democratize front-end development.” Andrew Knight"](recap-of-djangocon-us-2023-images/another-high-level.png)
--->
 
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
@@ -389,6 +388,8 @@ It kicked off a conversation that led to her giving the talk [Inside Out: My Jou
 !["@CodenameTim @kati @djangocon I've been thinking about this a lot, and I would be most thrilled to prepare a talk. Currently, one of the topics I'm feeling most passionate about is Diversity And Inclusion, so I'd be excited to share my view, thoughts and my experience on the matter. Would that be a talk you'd like to see/attend?"](recap-of-djangocon-us-2023-images/i've-been-thinking-about-this-a-lot.png)
 
 <!--
+I am not the best audience for this talk. I've lived it also and can identify with her experiences. It was good validation. 
+
 Summary
 -->
 
@@ -396,7 +397,7 @@ Summary
 https://fosstodon.org/@nessita/110340749235756274
 -->
 
-Thank you to Natalia for embracing our community and asking for reflection about an important subject. I hope she found our conference to be very welcoming in return. We have certainly made progress. 
+Thank you to Natalia for embracing our community and asking for reflection about an important subject. I hope she found our conference to be very welcoming in return.
 
 ![“I had to stand in line at the women's bathroom. I’ve never had to do that before at a conference.” Natalia Bidart at #DjangoConUS](recap-of-djangocon-us-2023-images/i-had-to-stand-in-line.png)
 
@@ -404,7 +405,7 @@ Thank you to Natalia for embracing our community and asking for reflection about
 https://twitter.com/KatiMichel/status/1714679106510434533
 -->
 
-I don't take the time that Natalie spent on her talk lightly. I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. It can be exhausting. I am looking forward to getting to know Natalia's development work. 
+I don't take the time that Natalia spent on her talk lightly. I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. It can be exhausting. I am looking forward to getting to know Natalia's development work. 
 
 ### DjangoCon Africa
 
