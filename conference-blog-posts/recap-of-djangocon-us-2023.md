@@ -639,8 +639,3 @@ Can't wait for next year! :)
 
 djurham
 ![](recap-of-djangocon-us-2023-images/djurham.jpg)
-
-<!--
-You know you're in good company when someone in your party is wearing this :) 
-![](recap-of-djangocon-us-2023-images/kansas-basketball.jpg)
--->
