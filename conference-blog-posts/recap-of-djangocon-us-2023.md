@@ -134,11 +134,6 @@ Increase in diversity
 
 DEFNA North America Ambassador Kojo Idressa kicked of the conference with the the kind of [Orientation and Welcome](https://2023.djangocon.us/talks/orientation-and-welcome/) that only he can deliver. 
 
-<!--
-Kojo on stage- sorry for the fuzzy pic, Kojo! 
-![](recap-of-djangocon-us-2023-images/kojo.jpg)
--->
-
 Thank you Kojo for setting the stage for a wonderful conference. 
 
 ![“All of you are beyond welcome and we are thrilled you are here.”](recap-of-djangocon-us-2023-images/kojo-welcome.png)
