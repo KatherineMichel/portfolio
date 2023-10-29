@@ -453,7 +453,7 @@ Daniele asked DjangoCon Africa Keynoter and Organizers to come up to the stage.
 Wonderful people I am proud to call friends: Daniele Procida, Kojo Idressa, Sheena O'Connell, Abigail Mesrenyame Dogbe, Dawn Wages, Noah Alorwu
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
 
-Daniele praised DjangoCon US for doing exactly the same work from another part of the world. "I haven't seen so many African and Black faces- non-white faces as a proportion at an event outside Africa." 
+Daniele praised DjangoCon US for doing exactly the same work from another part of the world. "I haven't seen so many African and Black faces, non-white faces, as a proportion at an event outside Africa." 
 
 [DjangoCon Africa 2023](https://2023.djangocon.africa/) will take place in Tanzania, Africa in November and [DjangoCon Europe 2024](https://www.djangoproject.com/weblog/2023/oct/14/djangocon-europe-2024/) will take place in Vigo, Spain in June 2024. 
 
