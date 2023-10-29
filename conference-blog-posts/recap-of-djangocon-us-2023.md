@@ -260,11 +260,6 @@ The Parlour
 Parlour flavors
 ![](recap-of-djangocon-us-2023-images/the-parlour-flavors.jpg)
 
-<!--
-Chocolate ice cream... yum!
-![](recap-of-djangocon-us-2023-images/the-parlour-chocolate-ice-cream.jpg)
--->
-
 Back at the hotel, a late night chat... great crew :) (© 2023 Paolo Melchiorre CC BY-SA 4.0)
 ![](recap-of-djangocon-us-2023-images/hotel-table.jpg)
 
