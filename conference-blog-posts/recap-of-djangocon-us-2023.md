@@ -411,8 +411,16 @@ She explained what unconscious bias is and that we are unaware of it. Her hope i
 
 She then talked about the conflicting standards women are expected to meet. I personally found this to be a very powerful part of her talk. 
 
+Double Bind
+![](recap-of-djangocon-us-2023-images/double-bind.png)
+
+Double Bind Paradoxes
+![](recap-of-djangocon-us-2023-images/double-bind-paradoxes.png)
+
+Double Bind from Barbie movie
+![](recap-of-djangocon-us-2023-images/double-bind-barbie.png)
+
 <!--
-Summary
 Ned's talk, culture book
 -->
 
