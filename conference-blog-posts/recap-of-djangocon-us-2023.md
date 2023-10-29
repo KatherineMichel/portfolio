@@ -333,6 +333,9 @@ While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/
 
 Tim has been writing code since 1980. Over the years, he has seen a lot of tech trends and hype, and has been involved in some of it. He has never seen anything like what he calls the "AI" hype cycle. According to Tim, it's next level. At the risk of sounding "like an old man yelling at kids to get off my lawn," he wants to provide a warning.
 
+Tim on stage
+![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
+
 Tim cited a KPMG report that says that 93% of senior business leaders believe that generative AI will provide value for their businesses. He does not dispute that. 
 
 He compared the Gartner Hype Cycle for Emerging Trends 2023 with Generative AI at the peak that he calls "Mount Hype" with the Dunning-Kruger effect curve. He believes the similarity is not a coincidence. 
@@ -348,9 +351,6 @@ With these falsehoods becoming part of the permanent record, we risk the line of
 He believes that a large portion of our population have been left behind by the education system and are easily misled. He fears that we are unprepared for the effect of Generative AI on future elections. 
 
 He doesn't have an easy answer, but says that as technologists we must be responsible stewards and do better. 
-
-Tim on stage
-![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
 
 ### Eliana Rosselli
 
