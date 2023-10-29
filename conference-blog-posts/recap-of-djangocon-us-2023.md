@@ -362,9 +362,6 @@ Tim on stage
 ![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
 
 <!--
-Ice cream for afternoon snack
-![](recap-of-djangocon-us-2023-images/marriott-ice-cream.jpg)
-
 https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/
 -->
 
