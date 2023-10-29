@@ -109,7 +109,7 @@ Gosé Margarita
 
 #### Meeting the New PSF Executive Director Deb Nicholson
 
-During the event, I happened to find myself having a conversation with a woman who really knew a lot about open source and events! It turned out to be the new [Python Software Foundation Executive Director Deb Nicholson](https://www.python.org/psf/records/staff/). Serendity strikes again. I love it when that happens. :) She was accessible throughout the conference, and it was a wonderful place to get to know her.
+During the event, I happened to find myself having a conversation with a woman who really knew a lot about open source and events! It turned out to be the new [Python Software Foundation Executive Director Deb Nicholson](https://www.python.org/psf/records/staff/). Serendity strikes again. I love it when that happens. :) She was accessible throughout the conference, and it was a wonderful place to get to know her. Check out her Monday talk [Meet-ups: A Grand Vision for a Humble Endeavor](https://2023.djangocon.us/talks/meet-ups-a-grand-vision-for-a-humble-endeavor/). 
 
 Me and PSF Executive Director Deb Nicholson later in the week 
 ![](recap-of-djangocon-us-2023-images/me-and-deb.jpg)
@@ -195,15 +195,6 @@ Me and Abigail
 ### Chris May
 
 [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
-
-<!--
-Summary
--->
-
-### Deb Nicholson
-
-[Meet-ups: A Grand Vision for a Humble Endeavor](https://2023.djangocon.us/talks/meet-ups-a-grand-vision-for-a-humble-endeavor/)
-![](recap-of-djangocon-us-2023-images/deb-nicholson-some-people-find.jpg)
 
 <!--
 Summary
@@ -325,23 +316,6 @@ Coherence demo
 <!--
 Summary
 -->
-
-### Marc Gibbons
-
-<!--
-I was intrigued about the subject
-
-Marc Gibbons
-Lymphoma
--->
-
-[Empathetic testing: Developing with compassion and humility](https://2023.djangocon.us/talks/empathetic-testing-developing-with-compassion-and-humility/)
-
-<!--
-Summary
--->
-
-At the end of his talk, Marc revealed that just days before the conference, he'd gotten a clean bill of health. I ate lunch with Marc and had the opportunity to learn more about his journey and how his perspective on life has changed over time. Thank you for sharing, Marc! 
 
 <!--
 https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
@@ -534,12 +508,6 @@ Final product... wow! (chocolate core, bourbon dip, and strawberry topping)
 
 I came away from Durham with many new friends, renewed optimism, and some amazing swag. 
 
-<!--
-It was a pleasure
-
-Hunar
--->
-
 Conference badge
 ![](recap-of-djangocon-us-2023-images/badge.jpg)
 
@@ -589,10 +557,6 @@ After visiting the gardens, I made the quick walk over to the [Duke Chapel](http
 ![](recap-of-djangocon-us-2023-images/duke-chapel-altar.jpg)
 ![](recap-of-djangocon-us-2023-images/duke-chapel-side.jpg)
 ![](recap-of-djangocon-us-2023-images/duke-chapel-back.jpg)
-
-<!--
-Video
--->
 
 ### Museum of Life and Science
 
@@ -675,11 +639,6 @@ The inside
 ![](recap-of-djangocon-us-2023-images/press-crepes-crepe-inside.jpg)
 
 ## In Closing
-
-<!--
-As Jeff said, it was one hell of a year
-https://fosstodon.org/@webology@mastodon.social/111270062215335417
--->
 
 Can't wait for next year! :)
 
