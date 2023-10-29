@@ -231,7 +231,7 @@ What can the DSF do for me? He gave a report card:
 * Project the intellectual property and the framework's long-term viability: A
 * Advance the state of the art in web development: no grade
 
-Chaim gave a special thanks to DSF Board Assistant Catherine Homes: "Honestly, we could disappear and if Catherine sticks around, things keep going."
+Chaim gave a special thanks to DSF Board Assistant Catherine Holmes: "Honestly, we could disappear and if Catherine sticks around, things keep going."
 
 What can I do for the DSF?
 
@@ -305,17 +305,24 @@ Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Tale
 
 Two members of our party at Parts and Labor had founded a startup called [Coherence](https://www.withcoherence.com/). 
 
-Coherence brand
-![](recap-of-djangocon-us-2023-images/coherence-table.jpg)
-
 On Tuesday, I stopped by their sponsor table for a demo. 
 
 Coherence demo
 ![](recap-of-djangocon-us-2023-images/coherence-demo.jpg)
 
-<!--
-Summary
--->
+Coherence is an alternative to traditional PaaS built on top of AWS and GCP that provides:
+* Full-stack previews
+* Build pipelines
+* Static and production environments
+* Cloud IDEs
+* Hosted web-based SSH tools for secure & audited access to REPL or databases in each environment
+* Polished UI for admin and deployments
+* Infrastructure-as-code
+
+Check out the [docs](https://docs.withcoherence.com/)! 
+
+Coherence brand
+![](recap-of-djangocon-us-2023-images/coherence-table.jpg)
 
 <!--
 https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
@@ -330,9 +337,6 @@ History of trying to make DjangoCon US more diverse and increase number of contr
 Panels
 
 Summary 
-
-It's been all the buzz at this conference. It's a space for peer mentoring and contributing to Django Core. It's focused on collaborative learning, sustainability in the community, and long-term growth. It was created and had a very successful pilot program all since the last DjangoCon. 
-How did they do it? 
 -->
 
 Dawn and Rachell talked about their non-traditional paths to becoming Django developers and the huge impact Django Girls has had on their lives. Many Django careers have been started through [Django Girls](https://djangogirls.org/en/).
