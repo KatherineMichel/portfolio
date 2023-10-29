@@ -422,12 +422,14 @@ Daniele said we should not just be asking these questions about African events. 
 
 African PyCons are creating safe spaces through codes of conduct. It's an investment in courage. "This is what we do and this is how we are." 
 
+He also pointed out that African PyCons and DjangoCons operate on a shoestring budget. For example, PyCon Namibia's total conference budget was less than $7,000 USD. The conference finished with a balance of just over $100 USD. 
+
 Daniele asked DjangoCon Africa Keynoter and Organizers to come up to the stage. 
 
 Wonderful people I am proud to call friends: Daniele Procida, Kojo Idressa, Sheena O'Connell, Abigail Mesrenyame Dogbe, Dawn Wages, Noah Alorwu
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
 
-Daniele praised DjangoCon US for doing exactly the same work from another part of the work. "And I haven't seen so many African and Black faces- non-white faces as a proportion at an event outside Africa." 
+Daniele praised DjangoCon US for doing exactly the same work from another part of the world. "I haven't seen so many African and Black faces- non-white faces as a proportion at an event outside Africa." 
 
 [DjangoCon Africa 2023](https://2023.djangocon.africa/) will take place in Tanzania, Africa in November and [DjangoCon Europe 2024](https://www.djangoproject.com/weblog/2023/oct/14/djangocon-europe-2024/) will take place in Vigo, Spain in June 2024. 
 
@@ -471,6 +473,8 @@ Final product... wow! (chocolate core, bourbon dip, and strawberry topping)
 ### Conference Conclusion
 
 I came away from Durham with many new friends, renewed optimism, and some amazing swag. 
+
+Thank you to my employer JPMorgan Chase & Co. for sponsoring me to attend. 
 
 Conference badge
 ![](recap-of-djangocon-us-2023-images/badge.jpg)
