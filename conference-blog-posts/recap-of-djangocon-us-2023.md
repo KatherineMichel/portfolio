@@ -332,10 +332,6 @@ Dawn and Rachell killing it on stage and keeping it real :)
 The magic of Django Girls... Dawn and Rachell are alumnae
 ![](recap-of-djangocon-us-2023-images/celebration.jpg)
 
-<!--
-!["Love to see Dawn Wages and Rachell Calhoun killing it on stage and keeping it real. Great talk!"](recap-of-djangocon-us-2023-images/love-to-see.png)
--->
-
 ### Tim Allen
 
 While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk [Don't Buy the "AI" Hype](https://2023.djangocon.us/talks/dont-buy-the-ai-hype/) the he had put together at the last minute to fill an open slot. 
