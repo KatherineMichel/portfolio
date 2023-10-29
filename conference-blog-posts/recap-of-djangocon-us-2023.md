@@ -338,6 +338,8 @@ Summary
 Tim on stage
 ![](recap-of-djangocon-us-2023-images/tims-talk.jpg)
 
+### Eliana Rosselli
+
 <!--
 https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/
 -->
@@ -373,7 +375,7 @@ Andy singing the praises of HTMX
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
 
-## Natalia Bidart
+### Natalia Bidart
 
 This year, along the lines of my fellow DEFNA board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I created my own [Talk Topic Ideas List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and posted it on social media. 
 
@@ -556,7 +558,7 @@ Cool atmosphere!
 Yum! 
 ![](recap-of-djangocon-us-2023-images/pizzeria-toro-pizza.jpg)
 
-## Simon Says Dip This
+### Simon Says Dip This
 
 More pics from the amazing Simon Says Dip This!
 
