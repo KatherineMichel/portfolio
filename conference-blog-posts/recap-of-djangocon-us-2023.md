@@ -438,12 +438,6 @@ Check out the Black Python Devs write-up about their [DjangoCon US experience](h
 
 !["This makes me smile. ❤️ We are nowhere near where we want to be on diversity, but making big strides. I think this was the most fun DjangoCon US I've been to so far, and the growing diversity played a big part in that."](recap-of-djangocon-us-2023-images/this-makes-me-smile.png)
 
-<!--
-https://fosstodon.org/@kati/111276680465247885
-
-!["Is 2024 the year that I finally make it to DjangoCon Europe? 👀 😘"](recap-of-djangocon-us-2023-images/is-2024-the-year.png)
--->
-
 ### Another Great Adventure
 
 After conference activities, as usual, hanging around in the lobby led to a great adventure. Hanging around in a lobby once led to me sitting next to Guido at an impromptu group dinner and chatting with him about the early days of Python. 
