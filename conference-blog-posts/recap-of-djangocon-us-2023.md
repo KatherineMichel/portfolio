@@ -389,10 +389,16 @@ It kicked off a conversation that led to her giving the talk [Inside Out: My Jou
 
 !["@CodenameTim @kati @djangocon I've been thinking about this a lot, and I would be most thrilled to prepare a talk. Currently, one of the topics I'm feeling most passionate about is Diversity And Inclusion, so I'd be excited to share my view, thoughts and my experience on the matter. Would that be a talk you'd like to see/attend?"](recap-of-djangocon-us-2023-images/i've-been-thinking-about-this-a-lot.png)
 
-<!--
-I am not the best audience for this talk. I've lived it also and can identify with her experiences. It was good validation. 
+Natalia gave some examples of prejudice that she has faced as a woman. She explained what unconscious bias is, gave some example sources, and explained that we are unaware of it. Her hope is that we will reflect on our unconscious biases to improve the Django community as a whole. 
 
+She then talked about the conflicting standards women are expected to meet. I personally found this to be the most powerful part of her talk. 
+
+<!--
 Summary
+Ned's talk, culture book
+Please watch and reflect. 
+
+I don't take the time that Natalia spent on her talk lightly. I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. It can be exhausting. I am looking forward to getting to know Natalia's development work. 
 -->
 
 <!--
@@ -407,11 +413,13 @@ Thank you to Natalia for embracing our community and asking for reflection about
 https://twitter.com/KatiMichel/status/1714679106510434533
 -->
 
-I don't take the time that Natalia spent on her talk lightly. I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. It can be exhausting. I am looking forward to getting to know Natalia's development work. 
-
 ### DjangoCon Africa
 
 Daniele Procida gave a moving message about DjangoCon Africa. "This is what we do. This is how we are."
+
+<!--
+Summary
+-->
 
 DjangoCon Africa Organizers
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
