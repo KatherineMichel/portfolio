@@ -321,7 +321,7 @@ Summary
 
 Dawn and Rachell talked about their non-traditional paths to becoming Django developers and the huge impact Django Girls has had on their lives. Many Django careers have been started through [Django Girls](https://djangogirls.org/en/).
 
-Djangonaut Space is now [accepting appications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/)! 
+Djangonaut Space is now [accepting applications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/)! 
 
 Dawn and Rachell killing it on stage and keeping it real :) 
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
