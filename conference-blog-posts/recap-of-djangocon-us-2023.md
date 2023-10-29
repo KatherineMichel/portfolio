@@ -225,12 +225,12 @@ Chaim gave a special thanks to DSF Board Assistant Catherine Holmes: "Honestly, 
 What can I do for the DSF?
 
 Chaim announced two new initiatives: 
-* Change to DSF Membership qualification
+* Change to DSF membership qualification
 * DSF Working Groups
 
 In the past, DSF membership has been available to people who shared IP with the DSF- that is, literally wrote code or documentation. 
 
-DSF Membership will now go beyond code or documentation to recognize the myriad of ways that people support the Django community. It will be predicated on making meaningful contributions toward the purpose of the DSF.  
+DSF membership will now go beyond code or documentation to recognize the myriad of ways that people support the Django community. It will be predicated on making meaningful contributions toward the purpose of the DSF.  
 
 The DSF is also changing how its day-to-day work gets done by re-distributing power from the DSF Board to working groups. The working groups will be tracked in the [DSF Working Groups GitHub repo](https://github.com/django/dsf-working-groups). If you have an idea for how to better achieve a DSF goal, there is a process and template. You can nominate yourself to define a working group and the board will review, with the potential for a budget. 
 
