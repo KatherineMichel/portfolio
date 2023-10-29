@@ -447,10 +447,6 @@ I don't take the time that Natalie spent on her talk lightly. I've chatted with 
 
 Daniele Procida gave a moving message about DjangoCon Africa. "This is what we do. This is how we are."
 
-<!--
-![](recap-of-djangocon-us-2023-images/this-is-what-we-do.jpg)
--->
-
 DjangoCon Africa Organizers
 ![](recap-of-djangocon-us-2023-images/djangocon-africa.jpg)
 
@@ -566,7 +562,7 @@ Lemur pics
 -->
 
 Museum of Life and Science lemurs
-![](recap-of-djangocon-us-2023-images/museum-of-life-and-sciences-lemurs.jpg)
+![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-lemurs.jpg)
 
 ### Parizade
 
