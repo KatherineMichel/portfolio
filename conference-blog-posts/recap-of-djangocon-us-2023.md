@@ -337,85 +337,53 @@ Being connected with a Python user group got Dawn moving from analyst to develop
 
 Through Rachell's involvement with Django Girls Seoul, she was pushed to become a leader of the organization. This connected her with the wider community and eventually DjangoCons. She was encouraged to submit a talk proposal and gave her first talk at DjangoCon US. Rachell never would have imagined that she could give a successful conference talk.
 
+The magic of Django Girls... Dawn and Rachell are alumnae
+![](recap-of-djangocon-us-2023-images/celebration.jpg)
+
 This was a common a theme that came up throughout the conference that works: invite people in, empower them, and encourage them to do things they might not think they are capable of doing. This helps them break their own boundaries. 
 
 Rachell said, "These policies and initiatives that focus on inclusivity, connection, sponsorship, and accountability are not just points to get. These initiatives... are really important in sustaining community, but also including people that might not have been included before and opening doors. They work, and I'm here and Dawn's here. A lot of people are here and becoming leaders in the community because of these kind of initiatives."
 
-
-<!--
-History of trying to make DjangoCon US more diverse and increase number of contributors
-Panels
-
-Summary 
-
-They were able to learn from other mentorship style programs that already existed, such as Google Summer of Code, Kubernetes, Underdog Devs, Django Girls, and Outreachy. Many of their methods aren't new. They are taking lessons from organizations doing similar work and applying them to a new problem. 
-
-They have found an active approach to inclusion to be more effective than a passive one. People will be more likely to participate if you reach out to them directly. 
-
 "Historically-excluded groups of people are just that. Excluded. And they often don't feel comfortable stepping up or making that first connection. If there's a mentorship program (you need) somebody to be like, 'hey why don't you try this?' or 'hey, you would be great at this!' and just bring them along and include them."
+
+The Djangonaut Space Organizers were able to take lessons from other mentorship programs that already exist, such as Google Summer of Code, Kubernetes, Underdog Devs, Django Girls, and Outreachy, and apply them to this new problem. 
 
 The first flight was a "roaring success." It lasted 3 months. 
 
-They focused on retention. Through high-touch, quality communication, they supported people with kindness and worked around their lives. 
+They found an active approach to inclusion to be more effective than a passive one. People will be more likely to participate if you reach out to them directly. 
 
-They used a private Djangonaut Discord server with the goal of transitioning to Django server. It's easier to learn privately in front of 30 people than publicly in front of thousands of people. 
+They focused on high-touch, quality communication, retention. They supported people with kindness and worked around their lives. 
 
-Accountability, connection, sponsorship, and inclusivity are the common themes that lead to success. 
+Dawn and Rachell clarified that Djangonaut Space is not just for underrepresented people, but the goal is to make everyone comfortable. That inclusivity will benefit the entire group. 
 
-Dawn and Rachell gave examples of these themes at work in the program: 
+They gave examples of accountability, connection, sponsorship, and inclusivity at work in the program: 
 * Acountability- regular checkins and sharing
 * Connection- although Django community doesn't "trade on celebrity" it was welcoming and empowering for participants to engage with people who have done "big things"
-* Sponsorship- celebrate wins, give a talk, encourage someone to give a talk, make connections, share links and resources, like Djangonaut social media posts
+* Sponsorship- celebrate wins, give a talk, encourage someone to give a talk, make connections, share links and resources, "like" Djangonaut social media posts
 * Inclusivity- creating representation in a safe space
 
-Dawn and Rachell clarified that Djangonaut Space is not just for underrepresented people. CIS "blokes" can join, but the goal is to make everyone comfortable. That inclusivity will benefit the entire group. 
-
-Organizers
-Captains- weekly checkin for encouragement and support
-Navigators- mentor who does a weekly checkin
-
-There were two Django Fellow presentations. 
-* Mariusz: Django Ticketing
-* Natalia: Contributing without Feeling Overwhelmed
-
-It was not just about pull requests, commits, and code. 
-
-Djangonauts have been helping to write the Django Newsletter section. 
-
-Baseline stats
-
-80% feel more comfortable contributing to Django
-80% feel more comfortable participating the Django community
-
-What does it take to be a Djangonaut?
-Slide
-You don't have to be part of our organization to do it. You're doing it now
-Write, code, raise your hand, give feedback, comment on threads, organize events, speak at events, attend events
-
-Call to action... a few ways to contribute to Djangonaut Space: 
-* Be a participant
-* Give a talk to future Djangonauts
-* Connect your organization to Djangonaut Space as a partner
-* Initiate a collaborative session
-
-The program will be eight weeks. 
-
-2024 Session Applications open
-App deadline: November 15
-Results announced: December 1
-Program starts: January 15 for 8 weeks
-Apply on website
-
-Share the word :)
+<!--
+Stats slide
 -->
 
-Djangonaut Space is now [accepting applications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/)! 
+After the program:
+* 80% feel more comfortable contributing to Django
+* 80% feel more comfortable participating the Django community
+
+What does it take to be a Djangonaut? You don't have to be part of Djanognaut Space. You are doing it now: write, code, raise your hand, give feedback, comment on threads, organize events, speak at events, attend events
+
+Dawn and Rachel gave a call to action to contribute to Djangonaut Space: 
+* Be a participant
+* Give a talk to future Djangonauts
+* Connect your organization as a partner
+* Initiate a collaborative session
+
+Djangonaut Space is now [accepting applications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/) for an eight week session in early 2024! The deadline is November 15. 
+
+Share the word :)
 
 Dawn and Rachell killing it on stage and keeping it real :) 
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
-
-The magic of Django Girls... Dawn and Rachell are alumnae
-![](recap-of-djangocon-us-2023-images/celebration.jpg)
 
 ### Tim Allen
 
