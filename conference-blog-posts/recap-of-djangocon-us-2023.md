@@ -362,9 +362,8 @@ They gave examples of accountability, connection, sponsorship, and inclusivity a
 * Sponsorship- celebrate wins, give a talk, encourage someone to give a talk, make connections, share links and resources, "like" Djangonaut social media posts
 * Inclusivity- creating representation in a safe space
 
-<!--
-Stats slide
--->
+Stats
+![](recap-of-djangocon-us-2023-images/djangonaut-space-stats.png)
 
 After the program:
 * 80% feel more comfortable contributing to Django
