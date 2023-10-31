@@ -264,6 +264,7 @@ Back at the hotel, a late night chat... great crew :) (© 2023 Paolo Melchiorre 
 
 <!--
 Paolo and Will's sprint project
+https://www.paulox.net/2023/10/26/udjango_micro_django/#history
 -->
 
 ## Tuesday
@@ -313,7 +314,7 @@ https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-p
 
 ### Dawn and Rachell
 
-It was at DjangoCon US 2018 that I personally first recall a growing sense of discontent being publicly expressed, for example in this talk that year by former Django Fellow Carlton Gibson, [Your Framework Needs You](https://2018.djangocon.us/talk/your-web-framework-needs-you/). 
+It was at DjangoCon US 2018 that I personally first recall a growing sense of discontent being publicly expressed, for example in this talk that year by former Django Fellow Carlton Gibson, [Your Framework Needs You](https://youtu.be/1BFjg9XtptM?si=oUQr3y2monEzCoud). 
 
 I wrote about it in this [DjangoCon US 2019 recap blog post](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2019.md#your-web-framework-needs-you). 
 
@@ -323,7 +324,7 @@ In the words of Carlton Gibson, "How do we get non-white blokes?"
 
 After DjangoCon US 2018, [DEP 10](https://github.com/django/deps/blob/main/final/0010-new-governance.rst) dissolving Django Core and creating a new model of governance was accepted. This DEP was in part intended to fix some of the problems discussed by Carlton in his talk. James Bennett, the author of the DEP, explained the changes in his blog post [Core no more](https://www.b-list.org/weblog/2018/nov/20/core/). Django project was not attracting enough new contributors to replace the ones becoming inactive and there was a lack of diversity among those new contributors. 
 
-During that DjangoCon US 2022 State of Django Panel, this gap was still strongly felt. This was a topic that had come up many times before, nothing had been done. Django Fellow Mariusz Felisiak said, "My hot take is that we need a mentorship program... for new Django Core Developers." 
+During the [DjangoCon US 2022 State of Django Panel](https://youtu.be/IumYtz0G5v0?si=J6G24BdVXIf-94ZS), this gap was still strongly felt. This was a topic that had come up many times before, but nothing had been done. Django Fellow Mariusz Felisiak said, "My hot take is that we need a mentorship program... for new Django Core Developers." 
 
 Dawn Wages, PSF Chair, and Rachell Calhoun, Django Girls Trustee, knew this was a powerful idea and went to work. 
 
