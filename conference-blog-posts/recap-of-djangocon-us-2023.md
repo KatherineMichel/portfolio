@@ -127,11 +127,6 @@ On Monday, I ate breakfast with our new [Django Fellow Natalia Bidart](https://w
 
 ### Kojo Idressa and Peter Grandstaff Kick Off the Conference
 
-<!--
-Following in the footsteps of PyCon US...
-Increase in diversity
--->
-
 DEFNA North America Ambassador Kojo Idressa kicked of the conference with the the kind of [Orientation and Welcome](https://2023.djangocon.us/talks/orientation-and-welcome/) that only he can deliver. 
 
 Thank you Kojo for setting the stage for a wonderful conference. 
