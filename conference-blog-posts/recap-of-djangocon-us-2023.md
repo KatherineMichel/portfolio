@@ -361,7 +361,7 @@ They focused on high-touch, quality communication, retention. They supported peo
 Dawn and Rachell clarified that Djangonaut Space is not just for underrepresented people, but the goal is to make everyone comfortable. That inclusivity will benefit the entire group. 
 
 They gave examples of accountability, connection, sponsorship, and inclusivity at work in the program: 
-* Acountability- regular checkins and sharing
+* Acountability- regular catch ups and sharing
 * Connection- although Django community doesn't "trade on celebrity" it was welcoming and empowering for participants to engage with people who have done "big things"
 * Sponsorship- celebrate wins, give a talk, encourage someone to give a talk, make connections, share links and resources, "like" Djangonaut social media posts
 * Inclusivity- creating representation in a safe space
