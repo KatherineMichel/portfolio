@@ -262,6 +262,10 @@ Parlour flavors
 Back at the hotel, a late night chat... great crew :) (© 2023 Paolo Melchiorre CC BY-SA 4.0)
 ![](recap-of-djangocon-us-2023-images/hotel-table.jpg)
 
+<!--
+Paolo and Will's sprint project
+-->
+
 ## Tuesday
 
 ### Hallway track
@@ -709,6 +713,10 @@ The inside
 ![](recap-of-djangocon-us-2023-images/press-crepes-crepe-inside.jpg)
 
 ## In Closing
+
+<!--
+Replays on YouTube
+-->
 
 Can't wait for next year! :)
 
