@@ -548,7 +548,7 @@ New friends... beautiful on the inside and out! (photo courtesy of Abigail Mesre
 
 Later in the week, a Black attendee told me that when he attends a conference in the U.S. or Europe, he is sometimes the only Black person in attendance. DjangoCon US was a very different and wonderful experience. 
 
-By one organizers count, we had around 10 Black speakers. 
+By one organizer's count, we had around 10 Black speakers. 
 
 Check out the Black Python Devs write-up about their [DjangoCon US experience](https://blackpythondevs.github.io/2023-10-20-djangoconus/). 
 
