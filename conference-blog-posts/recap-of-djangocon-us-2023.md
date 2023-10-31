@@ -314,7 +314,7 @@ https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-p
 
 ### Dawn and Rachell
 
-It was at DjangoCon US 2018 that I personally first recall a growing sense of discontent being publicly expressed, for example in this talk that year by former Django Fellow Carlton Gibson, [Your Framework Needs You](https://youtu.be/1BFjg9XtptM?si=oUQr3y2monEzCoud). 
+It was at [DjangoCon US 2018](https://2018.djangocon.us/) that I personally first recall a growing sense of discontent being publicly expressed, for example in this talk that year by former Django Fellow Carlton Gibson, [Your Framework Needs You](https://youtu.be/1BFjg9XtptM?si=oUQr3y2monEzCoud). 
 
 I wrote about it in this [DjangoCon US 2019 recap blog post](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2019.md#your-web-framework-needs-you). 
 
@@ -335,7 +335,7 @@ In their talk [Navigating Django's Future: Djangonaut Space](https://2023.django
 Dawn and Rachell killing it on stage and keeping it real :) 
 ![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
 
-Dawn and Rachell talked about their non-traditional paths to becoming Django developers and the huge impact Django Girls has had on their lives. The impact of Django Girls came up often at the conference. Many Django careers have been started through [Django Girls](https://djangogirls.org/en/).
+Dawn and Rachell talked about their non-traditional paths to becoming Django developers and the huge impact Django Girls has had on their lives. Many Django careers have been started through [Django Girls](https://djangogirls.org/en/).
 
 Being connected with a Python user group got Dawn moving from analyst to developer. DjangoCon US 2016 Philadelphia started her relationship with Django and that's why she is here. She fell in love with Django. Her story is also not all highlights and she would like to talk with you more about that.  
 
