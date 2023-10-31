@@ -198,12 +198,12 @@ Summary
 At lunch... trying a fried green tomato for the first time!
 ![](recap-of-djangocon-us-2023-images/marriott-fried-green-tomato.jpg)
 
+<!--
 ### Wes Kendall and Maxwell Muoto
 
 [Using database triggers to reliably track model history](https://2023.djangocon.us/talks/using-database-triggers-to-reliably-track-model-history/)
 ![](recap-of-djangocon-us-2023-images/pg-history.jpg)
 
-<!--
 Summary
 -->
 
@@ -305,38 +305,48 @@ Check out the [docs](https://docs.withcoherence.com/)!
 Coherence brand
 ![](recap-of-djangocon-us-2023-images/coherence-table.jpg)
 
+<!--
 ### Pavel Sviridov
 
-<!--
 https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
 -->
 
 ### Dawn and Rachell
 
-[Navigating Django's Future: Djangonaut Space](https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/)
+It was at DjangoCon US 2018 that I personally first recall a growing sense of discontent being publicly expressed, for example in this talk that year by former Django Fellow Carlton Gibson, [Your Framework Needs You](https://2018.djangocon.us/talk/your-web-framework-needs-you/). 
+
+I wrote about it in this [DjangoCon US 2019 recap blog post](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2019.md#your-web-framework-needs-you). 
+
+"Carlton acknowleged that the (Django) community is more diverse than ever, but the core contributors have continued to be white guys, many of whom have been associated with Django for a very long time and are no longer even contributing. The talk was a call to action to community members to contribute to the Django core code. In short, there is not a quick fix, but change is a priority."
+
+In the words of Carlton Gibson, "How do we get non-white blokes?"
+
+After DjangoCon US 2018, [DEP 10](https://github.com/django/deps/blob/main/final/0010-new-governance.rst) dissolving Django Core and creating a new model of governance was accepted. This DEP was in part intended to fix some of the problems discussed by Carlton in his talk. James Bennett, the author of the DEP, explained the changes in his blog post [Core no more](https://www.b-list.org/weblog/2018/nov/20/core/). Django project was not attracting enough new contributors to replace the ones becoming inactive and there was a lack of diversity among those new contributors. 
+
+During that DjangoCon US 2022 State of Django Panel, this gap was still strongly felt. This was a topic that had come up many times before, nothing had been done. Django Fellow Mariusz Felisiak said, "My hot take is that we need a mentorship program... for new Django Core Developers." 
+
+Dawn Wages, PSF Chair, and Rachell Calhoun, Django Girls Trustee, knew this was a powerful idea and went to work. 
+
+Also inspired by the DjangoCon US 2022 State of Django Panel, [DEP 12](https://github.com/django/deps/blob/main/final/0012-steering-council.rst) was an effort to encourage diversification of the Django Steering Committee, the governing body that determines the technical direction of Django, but this effort has fallen short in the most recent election. 
+
+In their talk [Navigating Django's Future: Djangonaut Space](https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/), Dawn Wages, PSF Chair, and Rachell Calhoun, Django Girls Trustee, told how Djangonaut Space, an inclusive mentorship program for new Django Core contributors, was kickstarted. 
+
+Dawn and Rachell talked about their non-traditional paths to becoming Django developers and the huge impact Django Girls has had on their lives. The impact of Django Girls came up often at the conference. Many Django careers have been started through [Django Girls](https://djangogirls.org/en/).
+
+Being connected with a Python user group got Dawn moving from analyst to developer. DjangoCon US 2016 Philadelphia started her relationship with Django and that's why she is here. She fell in love with Django. Her story is also not all highlights and she would like to talk with you more about that.  
+
+Through Rachell's involvement with Django Girls Seoul, she was pushed to become a leader of the organization. This connected her with the wider community and eventually DjangoCons. She was encouraged to submit a talk proposal and gave her first talk at DjangoCon US. Rachell never would have imagined that she could give a successful conference talk.
+
+This was a common a theme that came up throughout the conference that works: invite people in, empower them, and encourage them to do things they might not think they are capable of doing. This helps them break their own boundaries. 
+
+Rachell said, "These policies and initiatives that focus on inclusivity, connection, sponsorship, and accountability are not just points to get. These initiatives... are really important in sustaining community, but also including people that might not have been included before and opening doors. They work, and I'm here and Dawn's here. A lot of people are here and becoming leaders in the community because of these kind of initiatives."
+
 
 <!--
 History of trying to make DjangoCon US more diverse and increase number of contributors
 Panels
 
 Summary 
-Dawn Wages, PSF Chair, and Rachell Calhoun, Django Girls Trustee.
-Tell why and how they launched Djangonaut Space
-
-Being connected with a Python user group got Dawn moving from analyst to developer. DjangoCon US 2016 Philadelphia started her relationship with Django and that's why she is here. She fell in love with Django. Her story is also not all highlights and she would like to talk with you more about that.  
-
-Through Rachell's involvement with Django Girls Seoul, she was pushed to become a leader of the organization. This connected her with the wider community and eventually DjangoCons. She was encouraged to submit a talk proposal and gave her first talk at DjangoCon US. Rachell never would have imagined that she could give a successful conference talk.
-
-Inviting people to do things they maybe didn't think they were capable of doing helps them break their own boundaries.  
-
-Rachell said, "These policies and initiatives that focus on inclusivity, connection, sponsorship, and accountability are not just points to get. These initiatives... are really important in sustaining community, but also including people that might not have been included before and opening doors. They work, and I'm here and Dawn's here. A lot of people are here and becoming leaders in the community because of these kind of initiatives."
-
-In the words of Carlton Gibson, former Django Fellow, "How do we get non-white blokes?" 
-This is something that had been said in other words many times, but nothing had been done. 
-
-At the DjangoCon US 2022 State of Django Panel, Django Fellow Mariusz expressed 
-
-Rachell: "My hot take is that... we need a mentorship program for new Django Core developers. 
 
 They were able to learn from other mentorship style programs that already existed, such as Google Summer of Code, Kubernetes, Underdog Devs, Django Girls, and Outreachy. Many of their methods aren't new. They are taking lessons from organizations doing similar work and applying them to a new problem. 
 
@@ -399,8 +409,6 @@ Apply on website
 Share the word :)
 -->
 
-Dawn and Rachell talked about their non-traditional paths to becoming Django developers and the huge impact Django Girls has had on their lives. The impact of Django Girls came up often at the conference. Many Django careers have been started through [Django Girls](https://djangogirls.org/en/).
-
 Djangonaut Space is now [accepting applications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/)! 
 
 Dawn and Rachell killing it on stage and keeping it real :) 
@@ -438,8 +446,10 @@ He doesn't have an easy answer, but says that as technologists we must be respon
 
 ### Eliana Rosselli
 
+Having implemented multi-tenancy, I thought Eliana's talk [An Approach to Lightweight Tenancy Management Using Django Rest Framework](https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/) would be an interesting one to attend, and it was. 
+
 <!--
-https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/
+Summary
 -->
 
 ### Speaker and Organizer Dinner
@@ -504,6 +514,7 @@ Double Bind from Barbie movie
 
 <!--
 Ned's talk, culture book
+https://nedbatchelder.com/blog/202305/pycon_2023_keynote.html
 -->
 
 <!--
@@ -714,9 +725,7 @@ The inside
 
 ## In Closing
 
-<!--
-Replays on YouTube
--->
+The talk replays will be available on the [DjangoCon US YouTube channel](https://www.youtube.com/c/DjangoConUS) in a few weeks. 
 
 Can't wait for next year! :)
 
