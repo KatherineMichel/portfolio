@@ -262,10 +262,7 @@ Parlour flavors
 Back at the hotel, a late night chat... great crew :) (© 2023 Paolo Melchiorre CC BY-SA 4.0)
 ![](recap-of-djangocon-us-2023-images/hotel-table.jpg)
 
-<!--
-Paolo and Will's sprint project
-https://www.paulox.net/2023/10/26/udjango_micro_django/#history
--->
+Incidentally, on the first sprint day, Paolo, along with Will Vincent, presented μDjango, a single file Django micro project. Read about its inception on [Paolo's blog](https://www.paulox.net/2023/10/26/udjango_micro_django/#history). 
 
 ## Tuesday
 
