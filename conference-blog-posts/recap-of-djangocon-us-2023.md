@@ -556,7 +556,7 @@ Check out the Black Python Devs write-up about their [DjangoCon US experience](h
 
 ### Another Great Adventure
 
-After conference activities, as usual, hanging around in the lobby led to a great adventure. Hanging around in a lobby once led to me sitting next to Guido at an impromptu group dinner and chatting with him about the early days of Python. 
+After conference activities, as usual, hanging around in the lobby led to a great adventure. Hanging around in a lobby once led to me sitting next to Python creator and BDFL Guido van Rossum at an impromptu group dinner and chatting with him about the early days of Python. 
 
 On this night, I ended up having dinner with Jacob Kaplan-Moss, Andrew Godwin (Django Core Dev, Django Async Architect, South creator, and the only person who has attended every DjangoCon US), Frank Wiles (Revsys Founder and Partner, and former DSF President), and Tim and and Charles of the Wharton School, my past client. 
 
