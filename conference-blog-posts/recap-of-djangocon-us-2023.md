@@ -331,20 +331,23 @@ Also inspired by the DjangoCon US 2022 State of Django Panel, [DEP 12](https://g
 
 In their talk [Navigating Django's Future: Djangonaut Space](https://2023.djangocon.us/talks/navigating-djangos-future-djangonaut-space/), Dawn Wages, PSF Chair, and Rachell Calhoun, Django Girls Trustee, told how Djangonaut Space, an inclusive mentorship program for new Django Core contributors, was kickstarted. 
 
+Dawn and Rachell killing it on stage and keeping it real :) 
+![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
+
 Dawn and Rachell talked about their non-traditional paths to becoming Django developers and the huge impact Django Girls has had on their lives. The impact of Django Girls came up often at the conference. Many Django careers have been started through [Django Girls](https://djangogirls.org/en/).
 
 Being connected with a Python user group got Dawn moving from analyst to developer. DjangoCon US 2016 Philadelphia started her relationship with Django and that's why she is here. She fell in love with Django. Her story is also not all highlights and she would like to talk with you more about that.  
 
 Through Rachell's involvement with Django Girls Seoul, she was pushed to become a leader of the organization. This connected her with the wider community and eventually DjangoCons. She was encouraged to submit a talk proposal and gave her first talk at DjangoCon US. Rachell never would have imagined that she could give a successful conference talk.
 
-The magic of Django Girls... Dawn and Rachell are alumnae
-![](recap-of-djangocon-us-2023-images/celebration.jpg)
-
 This was a common a theme that came up throughout the conference that works: invite people in, empower them, and encourage them to do things they might not think they are capable of doing. This helps them break their own boundaries. 
 
 Rachell said, "These policies and initiatives that focus on inclusivity, connection, sponsorship, and accountability are not just points to get. These initiatives... are really important in sustaining community, but also including people that might not have been included before and opening doors. They work, and I'm here and Dawn's here. A lot of people are here and becoming leaders in the community because of these kind of initiatives."
 
 "Historically-excluded groups of people are just that. Excluded. And they often don't feel comfortable stepping up or making that first connection. If there's a mentorship program (you need) somebody to be like, 'hey why don't you try this?' or 'hey, you would be great at this!' and just bring them along and include them."
+
+The magic of Django Girls... Dawn and Rachell are alumnae
+![](recap-of-djangocon-us-2023-images/celebration.jpg)
 
 The Djangonaut Space Organizers were able to take lessons from other mentorship programs that already exist, such as Google Summer of Code, Kubernetes, Underdog Devs, Django Girls, and Outreachy, and apply them to this new problem. 
 
@@ -380,9 +383,6 @@ Dawn and Rachel gave a call to action to contribute to Djangonaut Space:
 Djangonaut Space is now [accepting applications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/) for an eight week session in early 2024! The deadline is November 15. 
 
 Share the word :)
-
-Dawn and Rachell killing it on stage and keeping it real :) 
-![](recap-of-djangocon-us-2023-images/dawn-and-rachell.jpg)
 
 ### Tim Allen
 
