@@ -184,10 +184,93 @@ Me and Abigail
 
 [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
 
-<!--
-Summary
--->
+Chris began by talking about the prevant architectural pattern of SPAs. An initial page load downloads a JavaScript application that handles all interactions and uses APIs to communicate with servers. As the data changes, the page is updated with small payloads without reloading the page. Users enjoy dynamic and engaging interfaces.
 
+"SPAs incur complexity that simply doesn't exist with traditional server-based websites: issues such as search engine optimization, browser history management, web analytics and first page load time all need to be addressed. Proper analysis and consideration of the trade-offs is required to determine if that complexity is warranted for business or user experience reasons. Too often teams are skipping that trade-off analysis, blindly accepting the complexity of SPAs by default even when business needs don't justify it. "
+"We still see some developers who aren't aware of an alternative approach because they've spent their entire career in a framework like React." [Thoughtworks on SPAs](https://www.thoughtworks.com/en-us/radar/techniques/spa-by-default#:~:text=SPAs%20incur%20complexity%20that%20simply,all%20need%20to%20be%20addressed.)
+
+As an organizer at [PyRVA[(http://www.pyrva.org/), he comes across many people who are excited to learn Python, but discouraged by the common job posting requirement of knowing React or some other JavaScript framework. 
+
+Chris believes that better user experience drove the popularity of SPAs, but this is no longer an advantage. Due to the capabilities of new tools, traditional websites can be just as friendly and much easier to maintain. 
+
+Chris referred to a real life case study [Making the world’s fastest website, and other mistakes](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na) by Taylor Hunt, a developer at a supermarket chain. 
+
+Taylow knew their web app needed a better experience and wanted to record what customers experienced. 
+
+He bought several popular phones, gave them to people, and recorded them performing a task.
+
+He asked them to load either the production web app, super market chain native app, or the competitor amazon.com or walmart.com apps. 
+
+Once loaded, search for eggs, add the first result to the shopping cart, and start the checkout process. 
+
+Chris showed a video of the results. 
+
+Each app takes a significant amount of time to accomplish the task, sometimes with a lag between the time the user touches the device and app response. 
+
+amazon.com takes the lead, returns the wrong response, and finishes in 59 seconds. The native app is slowest to start, but finishes second at 1:21.
+
+The other two websites take almost 4 minutes to accomplish the task. 
+
+Taylor knew it could be better and had a vision: "Be so fast it’s fun on the worst devices and networks our customers use."
+
+He found some advice from 2017- for optimal website performance, establish a budget of 130 kb or less (first download- HTML, CSS, JavaScript). 
+
+Due to the third party JavaScript data collection tools and use of ReactJS and Redux in the production app, he could not meet the budget as a SPA app. 
+
+He decided to focus on HTML, with minimal CSS and laser-focused JavaScript that required complex interactivity. 
+
+His demo app was the functional equivalent of the prod app (using same phone, internet, server, APIs, data), with a drastically elevated experience. 
+
+Much quicker to load and interact with, it finished in 20 seconds. 
+
+You can use Django and HTML today to create the same kind of better than SPA and better than native experience today. In the talk, Chris would show us how. 
+
+Chris was once a graphic designer and learned how user experience could drastically transform any project. He fell in love with Python in 2007 and his passion is helping other people enjoy Python and their websites. 
+
+Chris told the story of Caleb, a Laravel developer at Titan, one of the best PHP shops. He realized there was a significant cost and complexity to SPAs, so he decided to default to traditional web apps and only choose a SPA when needed. But, after starting to create a web app, he would always feel a gravitational pull back to SPA. He realized the seminal decision causing this would be when you decide to return JSON from the server. You need JavaScript on the page to receive the request. If you return HTML, you need much less JavaScript on the page to handle it. He created a framework called [Livewire](https://laravel-livewire.com/) for Laravel Developers. 
+
+[django-unicorn](https://www.django-unicorn.com/) has the same philosophy, but Python and Django devs have adopted a different framework called [HTMX](https://htmx.org/) that is growing in popularity. 
+
+HTMX enables JavaScript-like functionality, without the use of JavaScript, such as re-rendering part of a page using AJAX at the cost of just 14 kb. 
+
+See Mario's talk. 
+
+Five components of elevated experiences
+* Remove whole page refreshes for every interaction- accomplished with HTMX
+* Use small pyaloads form the server to update the interface- accomplished with HTMX
+* Update HTML as a result of changes in data- accomplished with alpine.js
+* Empower rich on-page interactions- accomplished with alpine.js
+* Be fast
+
+
+
+
+He called this a ridiculous example and acknowledged that all sorts of things outside of our control can slow things down, but said it's a great pattern. 
+
+He showed an example of this in real life in the wild. In a GitHub repo, when you click on any file to drill down into it, GitHub allows critical elements to appear quickly and does not prevent you from accomplishing your goal, but nice to have details load async. 
+
+He demonstrated how to create the demo functionality in Django using Django 4.2's new `StreamingHttpResponse` async functionality. Unfortunately, as of the conference, this pattern only works with Jinja templates. 
+
+He also showed some patterns that work with Django templates too. 
+
+Option 1: 
+* Split templates into parts
+* Yield each one via Django 4.2's new async iteration in `StreamingHttpResponse`
+
+Option 2
+* Render a view
+* Subscribe to HTMX Server-Side Events
+* Send the slow parts to the page when they're ready
+
+These are not the only options. Chris has created a [web-async-patterns repo](https://github.com/PyHAT-stack/web-async-patterns) in PyHAT-stack GitHub organization. He wants your contributions. He believes that the community can create better patterns that empower us and enable Django to do new things. 
+
+Chris closed by summarizing what created an exception experience. 
+
+Exceptional Experiences with Django
+* Using `StreamingHttpResponse` to stream critical elements to the user as quickly as possible
+* Use HTML fragments to update parts of the page with HTMX
+* Leverage scoped down frameworks like Alpine.js to power rich interactions
+  
 ### Fried Green Tomatoes :)
 
 At lunch... trying a fried green tomato for the first time!
@@ -412,7 +495,7 @@ In a single-tenancy architecture, each tenant has its own application instance a
 
 In a multi-tenancy architecture, all tenants share the same database and application instance, but each tenant is isolated from the rest, and you have to implement the isolation. A user can belong to multiple tenants, but can only access resources from the tenants to which they belong. 
 
-"Multitenancy is a software architecture where a single software instance can serve multiple, distinct user groups."- [Red Hat's definition](https://www.redhat.com/en/topics/cloud-computing/what-is-multitenancy#:~:text=Multitenancy%20is%20a%20software%20architecture,an%20example%20of%20multitenant%20architecture)
+"Multitenancy is a software architecture where a single software instance can serve multiple, distinct user groups."- [Red Hat's definition](https://www.redhat.com/en/topics/cloud-computing/what-is-multitenancy#:~:text=Multitenancy%20is%20a%20software%20architecture,an%20example%20of%20multitenant%20architecture.)
 
 According to Eliana, multi-tenancy is more common when a company uses your product and will have its own users, not when you market directly to the end user. 
 
