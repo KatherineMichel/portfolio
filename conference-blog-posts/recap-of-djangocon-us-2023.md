@@ -660,6 +660,9 @@ You are going to be limited to "white box" testing of calling methods and functi
 
 Andy pointed out the "white box" unit testing at the bottom of the pyramid and "black box" testing of the components above. 
 
+Tools for black box testing
+![](recap-of-djangocon-us-2023-images/andy-tools-for-black-box-testing.png)
+
 Web Test Automation Tool Comparison
 ![](recap-of-djangocon-us-2023-images/andy-web-test-automation-tool-comparison.png)
 
