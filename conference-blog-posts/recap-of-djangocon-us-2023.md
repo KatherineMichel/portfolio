@@ -184,6 +184,8 @@ Me and Abigail
 
 [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
 
+Chris has been a long-time appreciator of the Django community and wants to give back by elevating the experience of your Django app. Chris was once a graphic designer and learned how user experience could drastically transform any project. He fell in love with Python in 2007, and his passion is helping other people enjoy Python and their websites. 
+
 Chris began by talking about the prevant architectural pattern of SPAs. An initial page load downloads a JavaScript application that handles all interactions and uses APIs to communicate with servers. As the data changes, the page is updated with small payloads without reloading the page. Users enjoy dynamic and engaging interfaces.
 
 "SPAs incur complexity that simply doesn't exist with traditional server-based websites: issues such as search engine optimization, browser history management, web analytics and first page load time all need to be addressed. Proper analysis and consideration of the trade-offs is required to determine if that complexity is warranted for business or user experience reasons. Too often teams are skipping that trade-off analysis, blindly accepting the complexity of SPAs by default even when business needs don't justify it. "
@@ -195,11 +197,7 @@ Chris believes that better user experience drove the popularity of SPAs, but thi
 
 Chris referred to a real life case study [Making the world’s fastest website, and other mistakes](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na) by Taylor Hunt, a developer at a supermarket chain. 
 
-Taylow knew their web app needed a better experience and wanted to record what customers experienced. 
-
-He bought several popular phones, gave them to people, and recorded them performing a task.
-
-He asked them to load either the production web app, super market chain native app, or the competitor amazon.com or walmart.com apps. 
+Taylow knew their web app needed a better experience and wanted to record what customers experienced. He bought several popular phones, gave them to people, and recorded them performing a task. He asked them to load either the production web app, super market chain native app, or the competitor amazon.com or walmart.com apps. 
 
 Once loaded, search for eggs, add the first result to the shopping cart, and start the checkout process. 
 
@@ -225,15 +223,19 @@ Much quicker to load and interact with, it finished in 20 seconds.
 
 You can use Django and HTML today to create the same kind of better than SPA and better than native experience today. In the talk, Chris would show us how. 
 
-Chris was once a graphic designer and learned how user experience could drastically transform any project. He fell in love with Python in 2007 and his passion is helping other people enjoy Python and their websites. 
-
 Chris told the story of Caleb, a Laravel developer at Titan, one of the best PHP shops. He realized there was a significant cost and complexity to SPAs, so he decided to default to traditional web apps and only choose a SPA when needed. But, after starting to create a web app, he would always feel a gravitational pull back to SPA. He realized the seminal decision causing this would be when you decide to return JSON from the server. You need JavaScript on the page to receive the request. If you return HTML, you need much less JavaScript on the page to handle it. He created a framework called [Livewire](https://laravel-livewire.com/) for Laravel Developers. 
 
 [django-unicorn](https://www.django-unicorn.com/) has the same philosophy, but Python and Django devs have adopted a different framework called [HTMX](https://htmx.org/) that is growing in popularity. 
 
 HTMX enables JavaScript-like functionality, without the use of JavaScript, such as re-rendering part of a page using AJAX at the cost of just 14 kb. 
 
+<!--
 See Mario's talk. 
+-->
+
+alpine.js was created to support Livewire. According to Chris, it's an incredible framework that can create rich interactions with very littel JavaScript. Its focus is the in-page experience. You can use it to create mobile components, make dynamic forms. It is reactive, so any data on the page associated with HTML will update when changed. 
+
+HTMX and alpine.js together can enable you to give your users a SPA-like experience for less than 30 kb. 
 
 Five components of elevated experiences
 * Remove whole page refreshes for every interaction- accomplished with HTMX
@@ -242,8 +244,51 @@ Five components of elevated experiences
 * Empower rich on-page interactions- accomplished with alpine.js
 * Be fast
 
+Developer Experience boost
+* Both frameworks can use HTML attributes to control behavior (this creates locality- see Carlton Gibson's talk)
+* Locality
+* Remove your JS build system
+* Write mostly Python and HTML (fewer languages to deal with)
+* Easier maintenance
+* Faster iteration cycles
 
+While both of these frameworks have JavaScript interfaces, they are optimized to use HTML attributes. Instead of working with JavaScript and making it compile, with HTMX and Alpine, you can define the behavior in your HTML file. You can potentially remove the JavaScript build system. 
 
+These two frameworks, along with Tailwind CSS have brought the joy of web dev back to his life. He hadn't realized how much it had faded over time. 
+
+Chris referred to a talk by David Guillot at DjangoCon Europe. David described his company's transition from React to HTMX. 
+
+There were no negative tradeoffs. There were positive tradeoffs. 
+
+By removing React, you can make use of the native browser, which creates many new possibilities such as the capability of rendering large docs. 
+
+Website performance was also a big win. Django/React interactivity took up to six seconds to render. The Django/HTMX version took up to 2. 
+
+Chris then wanted to focus on the "Be fast" component of elevated experience, which he said could trump the rest. 
+
+SPAs using React and other JavaScript frameworks have a hidden cost- time to boot up. 
+
+While working the HTTP Archive, an archive of as much of the web as possible, Tim Kadlec found that half of all websites built with React took over ten seconds to render on a mobile device. 10% of sites build with React took over 25 seconds to load on mobile, which can lead to significant user experience issues. 
+
+Chris went back to the production app and demonstrated that the JavaScript prep took so much phone resource that it caused the text input to lag. The eggs search was deleted and the app then attempted to find 360,000 items and summarize them on the page instead. The user would then have to research, taking over a minute and a half. 
+
+In the demo app, the transaction happens very quickly, before the app has finished loading. As soo as the search bar appears, it is able to be used for a search. Critical elements are delivered as quickly as possible, and the user is not prevented from accomplishing their goal. 
+
+Chris wants Python developers to be able to do this. 
+
+With traditional web apps, Python will
+* Gather all the data pieces
+* Grab the templates
+* Render and stick together the whole template in memory
+* Send it down the pipe
+
+This is ok, but can hurt user experience. 
+
+Chris created a recommendation engine and engineered it to take up to five seconds to load recommendations on the homepage. Currently, we won't see anything on the page until all of the template is complete. 
+
+Chris proposes that when the request comes in, we start sending the template as soon as we can and continue sending pieces of it as they become available, until it's done. This can be done using streaming HTML technology that has been around since 1997. Every browser is already optimized to use it. 
+
+If the CSS container element does not have four items, the page will render the CSS skeleton elements shaped like the eventual content. This will prevent the page from jumping around as it renders. Each recommendation will be sent when it is ready. Meanwhile, the user can react with the site. 
 
 He called this a ridiculous example and acknowledged that all sorts of things outside of our control can slow things down, but said it's a great pattern. 
 
@@ -270,7 +315,12 @@ Exceptional Experiences with Django
 * Using `StreamingHttpResponse` to stream critical elements to the user as quickly as possible
 * Use HTML fragments to update parts of the page with HTMX
 * Leverage scoped down frameworks like Alpine.js to power rich interactions
-  
+
+<!--
+k, kb?
+Alpine versus alpine.js
+-->
+
 ### Fried Green Tomatoes :)
 
 At lunch... trying a fried green tomato for the first time!
