@@ -406,11 +406,11 @@ He doesn't have an easy answer, but says that as technologists we must be respon
 
 ### Eliana Rosselli
 
-Having implemented multi-tenancy, I thought Eliana's talk [An Approach to Lightweight Tenancy Management Using Django Rest Framework](https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/) would be an interesting one to attend, and it was. 
+Having implemented multi-tenancy myself, I thought Eliana's talk [An Approach to Lightweight Tenancy Management Using Django Rest Framework](https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/) would be an interesting one to attend, and it was. 
 
 In a single-tenancy architecture, each tenant has its own application instance and its own database, physically isolated. 
 
-In a multi-tenant architecture, all tenants share the same database and application instance, but each tenant is isolated form the rest, and you have to implement the isolation. A user can belong to multiple tenants, but can only access resources from the tenants to which they belong. 
+In a multi-tenant architecture, all tenants share the same database and application instance, but each tenant is isolated from the rest, and you have to implement the isolation. A user can belong to multiple tenants, but can only access resources from the tenants to which they belong. 
 
 "Multitenancy is a software architecture where a single software instance can serve multiple, distinct user groups."- [Red Hat's definition](https://www.redhat.com/en/topics/cloud-computing/what-is-multitenancy#:~:text=Multitenancy%20is%20a%20software%20architecture,an%20example%20of%20multitenant%20architecture)
 
