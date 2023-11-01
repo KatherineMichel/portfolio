@@ -408,9 +408,6 @@ He doesn't have an easy answer, but says that as technologists we must be respon
 
 Having implemented multi-tenancy, I thought Eliana's talk [An Approach to Lightweight Tenancy Management Using Django Rest Framework](https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/) would be an interesting one to attend, and it was. 
 
-<!--
-Single-tenancy versus multi-tenancy
-
 In single-tenancy, each tenant has their own application instance and their own database, physically isolated. 
 
 In multi-tenancy, all tenants share the same database and application instance, and you have to implement the isolation. 
@@ -418,11 +415,11 @@ In multi-tenancy, all tenants share the same database and application instance, 
 "Multitenancy is a software architecture where a single software instance can serve multiple, distinct user groups."- Red Hat
 https://www.redhat.com/en/topics/cloud-computing/what-is-multitenancy#:~:text=Multitenancy%20is%20a%20software%20architecture,an%20example%20of%20multitenant%20architecture.
 
-In a multi-tenant architecture, the tenants share the same database, but each tenant is isolated form the rest. There are multiple, distinct user groups. A user can belong to multiple tenants, but can only access resources from the tenants to which they belong. 
+In a multi-tenant architecture, the tenants share the same database, but each tenant is isolated form the rest. A user can belong to multiple tenants, but can only access resources from the tenants to which they belong. 
 
 She referred to Slack as a possible example of multi-tenancy architecture: each workspace is a tenant, isolated from each other, and users can access multiple workspaces, but can only access workspaces to which they belong, and information does not cross from one workspace to another. 
 
-This type of software architecture is more common when a company uses your product and will have its own users, not when you market direclty to the end user. 
+This type of software architecture is more common when a company uses your product and will have its own users, not when you market directly to the end user. 
 
 Eliana showed an example app that was an abstraction of the requirements from a number of different multi-tenant websites that she and her colleagues had implemented. 
 
@@ -436,22 +433,22 @@ Key points
 * Consistently restrict access to resources 
 * Centralize checks in a single place to avoid code duplication
 
-They used drf-nested-routers package to nest resources under a specific tenant. 
+They used [drf-nested-routers](https://github.com/alanjds/drf-nested-routers) package to nest resources under a specific tenant. 
 
-https://github.com/alanjds/drf-nested-routers
-
-URL example: tenant/<tenant-id><some-resource/<resource-id>
+URL example: `tenant/<tenant-id><some-resource/<resource-id>`
 
 In order for this to work, a few lines of code need to be added to urls.py. 
 
+<!--
 Screenshot- explain
+-->
 
-If there is a company_id 23 associated with a report with id 1 and a company_id 5 associated with a report with id 2:
+If there is a `company_id` 23 associated with a report with `id` 1 and a `company_id` 5 associated with a report with `id` 2:
 
-A GET request to companies/23/reports/1 will return a 200
-A GET request to companies/5/reports/1 will return a 404
+A `GET` request to `companies/23/reports/1` will return a 200 HTTP status
+A `GET` request to `companies/5/reports/1` will return a 404 HTTP status
 
-She then explained how they write a custom viewset and overrided the initial() method to implement tenancy check functionality to restrict user access to resources. 
+She then explained how they write a custom viewset and overrided the `initial()` method to implement tenancy check functionality to restrict user access to resources. 
 
 First they check that the user is logged in and get the company primary key from the URL. If either is missing a not found exception is raised. 
 
@@ -465,9 +462,12 @@ Eliana and her colleagues would occasionally forget to filter by company which w
 
 As a bonus, she demonstrated how they created a custom model manager to avoid this. 
 
-They would override the filter() method and check if company_id or company is in the kwargs. If not, the missing company exception is raised. 
+They would override the `filter()` method and check if `company_id` or `company` is in the `kwargs`. If not, the missing company exception is raised. 
 
-If either exists, company is filtered like intended with the kwarg. 
+If either exists, company is filtered like intended with the `kwarg`. 
+
+<!--
+Check viewset capitalization, not found error
 
 Limitations 
 A different approach using https://github.com/rsinger86/drf-access-policy
