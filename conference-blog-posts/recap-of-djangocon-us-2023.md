@@ -329,11 +329,11 @@ Dawn and Rachell killing it on stage and keeping it real :)
 
 Dawn and Rachell talked about their non-traditional paths to becoming Django developers and the huge impact Django Girls has had on their lives. Many Django careers have been started through [Django Girls](https://djangogirls.org/en/).
 
-Being connected with a Python user group got Dawn moving from analyst to developer. DjangoCon US 2016 Philadelphia started her relationship with Django and that's why she is here. She fell in love with Django. Her story is also not all highlights and she would like to talk with you more about that.  
+Being connected with a Python user group got Dawn moving from analyst to developer. [DjangoCon US 2016](https://2016.djangocon.us/) in Philadelphia started her relationship with Django and that's why she is here. She fell in love with Django. Her story is also "not all highlights" and she would like to talk with you more about that.  
 
 Through Rachell's involvement with Django Girls Seoul, she was pushed to become a leader of the organization. This connected her with the wider community and eventually DjangoCons. She was encouraged to submit a talk proposal and gave her first talk at DjangoCon US. Rachell never would have imagined that she could give a successful conference talk.
 
-This was a common a theme that came up throughout the conference that works: invite people in, empower them, and encourage them to do things they might not think they are capable of doing. This helps them break their own boundaries. 
+This was a common a theme that came up throughout the conference that works: invite underrepresented people in, empower them, and encourage them to do things they might not think they are capable of doing. This helps them break their own boundaries. 
 
 Rachell said, "These policies and initiatives that focus on inclusivity, connection, sponsorship, and accountability are not just points to get. These initiatives... are really important in sustaining community, but also including people that might not have been included before and opening doors. They work, and I'm here and Dawn's here. A lot of people are here and becoming leaders in the community because of these kind of initiatives."
 
@@ -375,7 +375,7 @@ Dawn and Rachel gave a call to action to contribute to Djangonaut Space:
 
 Djangonaut Space is now [accepting applications](https://www.djangoproject.com/weblog/2023/oct/19/djangonaut-space-now-accepting-applications/) for an eight week session in early 2024! The deadline is November 15. 
 
-Share the word :)
+Spread the word :)
 
 ### Tim Allen
 
