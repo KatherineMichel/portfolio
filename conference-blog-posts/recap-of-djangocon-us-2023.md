@@ -195,39 +195,25 @@ As an organizer at [PyRVA[(http://www.pyrva.org/), he comes across many people w
 
 Chris believes that better user experience drove the popularity of SPAs, but this is no longer an advantage. Due to the capabilities of new tools, traditional websites can be just as friendly and much easier to maintain. 
 
-Chris referred to a real life case study [Making the world’s fastest website, and other mistakes](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na) by Taylor Hunt, a developer at a supermarket chain. 
+Chris referred to a real life case study [Making the world’s fastest website, and other mistakes](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na) by Taylor Hunt, a developer at a supermarket chain. Taylor knew their web app needed a better experience and wanted to record what customers experienced. 
 
-Taylow knew their web app needed a better experience and wanted to record what customers experienced. He bought several popular phones, gave them to people, and recorded them performing a task. He asked them to load either the production web app, super market chain native app, or the competitor amazon.com or walmart.com apps. 
-
-Once loaded, search for eggs, add the first result to the shopping cart, and start the checkout process. 
+He bought several popular phones, gave them to people, and recorded them performing a task. He asked them to load either the production web app, super market chain native app, or the competitor amazon.com or walmart.com apps. Once loaded, search for eggs, add the first result to the shopping cart, and start the checkout process. 
 
 Chris showed a video of the results. 
 
-Each app takes a significant amount of time to accomplish the task, sometimes with a lag between the time the user touches the device and app response. 
-
-amazon.com takes the lead, returns the wrong response, and finishes in 59 seconds. The native app is slowest to start, but finishes second at 1:21.
-
-The other two websites take almost 4 minutes to accomplish the task. 
+Each app takes a significant amount of time to accomplish the task, sometimes with a lag between the time the user touches the device and app response. amazon.com takes the lead, returns the wrong response, and finishes in 59 seconds. The native app is slowest to start, but finishes second at 1:21. The other two websites take almost 4 minutes to accomplish the task. 
 
 Taylor knew it could be better and had a vision: "Be so fast it’s fun on the worst devices and networks our customers use."
 
-He found some advice from 2017- for optimal website performance, establish a budget of 130 kb or less (first download- HTML, CSS, JavaScript). 
+He found some advice from 2017- for optimal website performance, establish a budget of 130 kb or less (first download- HTML, CSS, JavaScript). Due to the third party JavaScript data collection tools and use of ReactJS and Redux in the production app, he could not meet the budget as a SPA app. He decided to focus on HTML, with minimal CSS and laser-focused JavaScript that required complex interactivity. 
 
-Due to the third party JavaScript data collection tools and use of ReactJS and Redux in the production app, he could not meet the budget as a SPA app. 
-
-He decided to focus on HTML, with minimal CSS and laser-focused JavaScript that required complex interactivity. 
-
-His demo app was the functional equivalent of the prod app (using same phone, internet, server, APIs, data), with a drastically elevated experience. 
-
-Much quicker to load and interact with, it finished in 20 seconds. 
+His demo app was the functional equivalent of the prod app (using same phone, internet, server, APIs, data), with a drastically elevated experience. Much quicker to load and interact with, it finished in 20 seconds. 
 
 You can use Django and HTML today to create the same kind of better than SPA and better than native experience today. In the talk, Chris would show us how. 
 
 Chris told the story of Caleb, a Laravel developer at Titan, one of the best PHP shops. He realized there was a significant cost and complexity to SPAs, so he decided to default to traditional web apps and only choose a SPA when needed. But, after starting to create a web app, he would always feel a gravitational pull back to SPA. He realized the seminal decision causing this would be when you decide to return JSON from the server. You need JavaScript on the page to receive the request. If you return HTML, you need much less JavaScript on the page to handle it. He created a framework called [Livewire](https://laravel-livewire.com/) for Laravel Developers. 
 
-[django-unicorn](https://www.django-unicorn.com/) has the same philosophy, but Python and Django devs have adopted a different framework called [HTMX](https://htmx.org/) that is growing in popularity. 
-
-HTMX enables JavaScript-like functionality, without the use of JavaScript, such as re-rendering part of a page using AJAX at the cost of just 14 kb. 
+[django-unicorn](https://www.django-unicorn.com/) has the same philosophy, but Python and Django devs have adopted a different framework called [HTMX](https://htmx.org/) that is growing in popularity. HTMX enables JavaScript-like functionality, without the use of JavaScript, such as re-rendering part of a page using AJAX at the cost of just 14 kb. 
 
 <!--
 See Mario's talk. 
@@ -256,13 +242,7 @@ While both of these frameworks have JavaScript interfaces, they are optimized to
 
 These two frameworks, along with Tailwind CSS have brought the joy of web dev back to his life. He hadn't realized how much it had faded over time. 
 
-Chris referred to a talk by David Guillot at DjangoCon Europe. David described his company's transition from React to HTMX. 
-
-There were no negative tradeoffs. There were positive tradeoffs. 
-
-By removing React, you can make use of the native browser, which creates many new possibilities such as the capability of rendering large docs. 
-
-Website performance was also a big win. Django/React interactivity took up to six seconds to render. The Django/HTMX version took up to 2. 
+Chris referred to a talk by David Guillot at DjangoCon Europe. David described his company's transition from React to HTMX. There were no negative tradeoffs. There were positive tradeoffs. By removing React, you can make use of the native browser, which creates many new possibilities such as the capability of rendering large docs. Website performance was also a big win. Django/React interactivity took up to six seconds to render. The Django/HTMX version took up to 2. 
 
 Chris then wanted to focus on the "Be fast" component of elevated experience, which he said could trump the rest. 
 
