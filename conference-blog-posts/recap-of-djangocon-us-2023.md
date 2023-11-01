@@ -408,18 +408,15 @@ He doesn't have an easy answer, but says that as technologists we must be respon
 
 Having implemented multi-tenancy, I thought Eliana's talk [An Approach to Lightweight Tenancy Management Using Django Rest Framework](https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/) would be an interesting one to attend, and it was. 
 
-In single-tenancy, each tenant has their own application instance and their own database, physically isolated. 
+In a single-tenancy architecture, each tenant has its own application instance and its own database, physically isolated. 
 
-In multi-tenancy, all tenants share the same database and application instance, and you have to implement the isolation. 
+In a multi-tenant architecture, all tenants share the same database and application instance, but each tenant is isolated form the rest, and you have to implement the isolation. A user can belong to multiple tenants, but can only access resources from the tenants to which they belong. 
 
-"Multitenancy is a software architecture where a single software instance can serve multiple, distinct user groups."- Red Hat
-https://www.redhat.com/en/topics/cloud-computing/what-is-multitenancy#:~:text=Multitenancy%20is%20a%20software%20architecture,an%20example%20of%20multitenant%20architecture.
-
-In a multi-tenant architecture, the tenants share the same database, but each tenant is isolated form the rest. A user can belong to multiple tenants, but can only access resources from the tenants to which they belong. 
-
-She referred to Slack as a possible example of multi-tenancy architecture: each workspace is a tenant, isolated from each other, and users can access multiple workspaces, but can only access workspaces to which they belong, and information does not cross from one workspace to another. 
+"Multitenancy is a software architecture where a single software instance can serve multiple, distinct user groups."- [Red Hat's definition](https://www.redhat.com/en/topics/cloud-computing/what-is-multitenancy#:~:text=Multitenancy%20is%20a%20software%20architecture,an%20example%20of%20multitenant%20architecture)
 
 This type of software architecture is more common when a company uses your product and will have its own users, not when you market directly to the end user. 
+
+She referred to Slack as a possible example of multi-tenancy architecture: each workspace is a tenant, isolated from each other, and users can access multiple workspaces, but can only access workspaces to which they belong, and information does not cross from one workspace to another. 
 
 Eliana showed an example app that was an abstraction of the requirements from a number of different multi-tenant websites that she and her colleagues had implemented. 
 
