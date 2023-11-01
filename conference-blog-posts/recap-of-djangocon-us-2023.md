@@ -628,6 +628,12 @@ My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing
 Summary
 -->
 
+Tips for testing modern web apps like a champion
+![](recap-of-djangocon-us-2023-images/andy-test-modern-web-apps.png)
+
+Web Test Automation Tool Comparison
+![](recap-of-djangocon-us-2023-images/andy-web-test-automation-tool-comparison.png)
+
 Andy singing the praises of HTMX
 !["Another high level endorsement of HTMX: “HTMX is a great way to democratize front-end development.” Andrew Knight"](recap-of-djangocon-us-2023-images/another-high-level.png)
 
