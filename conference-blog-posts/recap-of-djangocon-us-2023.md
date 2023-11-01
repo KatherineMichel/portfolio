@@ -628,14 +628,26 @@ My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing
 Summary
 -->
 
-Tips for testing modern web apps like a champion
-![](recap-of-djangocon-us-2023-images/andy-test-modern-web-apps.png)
-
-Web Test Automation Tool Comparison
-![](recap-of-djangocon-us-2023-images/andy-web-test-automation-tool-comparison.png)
+Bulldoggy app architecture
+![](recap-of-djangocon-us-2023-images/andy-bulldoggy-app-architecture.png)
 
 Andy singing the praises of HTMX
 !["Another high level endorsement of HTMX: “HTMX is a great way to democratize front-end development.” Andrew Knight"](recap-of-djangocon-us-2023-images/another-high-level.png)
+
+Tips for testing modern web apps like a champion
+![](recap-of-djangocon-us-2023-images/andy-test-modern-web-apps.png)
+
+Modern Testing Goals
+![](recap-of-djangocon-us-2023-images/andy-modern-testing-goals.png)
+
+Test Pyramid Scheme
+![](recap-of-djangocon-us-2023-images/andy-test-pyramid-scheme.png)
+
+Testing Challenges
+![](recap-of-djangocon-us-2023-images/andy-testing-challenges.png)
+
+Web Test Automation Tool Comparison
+![](recap-of-djangocon-us-2023-images/andy-web-test-automation-tool-comparison.png)
 
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
