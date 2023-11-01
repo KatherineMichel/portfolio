@@ -670,7 +670,13 @@ Writing good tests: follow the Arrange-Act-Assert method:
 
 Arrange-Act-Assert works for all types of functional tests, whether they are unit, component, API, or UI. This pattern came up over and over again in the talk. 
 
-Can't we just use pytest or unittest? Andy loves pytest. He is a pytest stan and thinks it is the best testing framework in any language, 
+Can't we just use pytest or unittest? Andy loves pytest. He is a pytest stan and thinks it is the best testing framework in any language, but...
+
+pytest and unnitest cannot test web apps or frameworks. They provide the structure for writing test cases. You need to add the "magic sauce" inside the test cases. pytest alone is not the answer. 
+
+What about Django's testing support? Django has an awesome test client. Django testing support is probably some of the best Andy has seen in a Python web framework, but...
+
+You're not going to be able to test the app like a user. 
 
 Web Test Automation Tool Comparison
 ![](recap-of-djangocon-us-2023-images/andy-web-test-automation-tool-comparison.png)
