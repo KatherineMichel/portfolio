@@ -622,22 +622,15 @@ City Box Durham gift boxes
 
 ### Andrew Knight
 
-My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing Modern Web Apps Like a Champion](https://2023.djangocon.us/talks/keynote-testing-modern-web-apps-like-a-champion/). Afterward, I had the chance to catch up with him. His talk has rekindled my desire to get better at testing and reminded me of what a great resource Test Automation University is. He gave me a card resource too! 
+My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing Modern Web Apps Like a Champion](https://2023.djangocon.us/talks/keynote-testing-modern-web-apps-like-a-champion/). 
 
-<!--
-Summary
--->
+Andy is a local and learned development through Django. At DjangoCon US 2019, he gave a [Selenium tutorial](https://2019.djangocon.us/tutorials/hands-on-web-ui-testing/). It was special for him to be back four years later giving a keynote about testing. 
 
-Andy is a local and learned development through Django. At DjangoCon US 2019, he gave a Selenium tutorial. It was special for him to be back four years later giving a keynote about testing. 
+Andy introduced us to Suki, his French bulldog. He created [Bulldoggy Reminders app](https://github.com/AutomationPanda/bulldoggy-reminders-app) to help him take care of his dog. 
 
-Testing is an art and a science, he said. Development and testing are two sides of the same coin. 
+Users can log in. On the left side are the reminders lists they have created. On the right side are the items in a list. Users can dynamically add items to lists, rename lists, and delete lists. When an item is completed they can strike through it by clicking on it. 
 
-Tips for testing modern web apps like a champion
-![](recap-of-djangocon-us-2023-images/andy-test-modern-web-apps.png)
-
-Andy introduced us to Suki, his French bulldog. He created Bulldoggy Reminders app to help him take care of his dog. 
-
-Users can log in. On the main page are the reminders they are tracking. On the left are lists of reminders they have created. Users can dynamically add items to lists, rename lists, and delete lists. When an item is completed they can strike through it by clicking on it. 
+The app was made with FastAPI, HTMX, and stores data in TinyDB. 
 
 Bulldoggy app architecture
 ![](recap-of-djangocon-us-2023-images/andy-bulldoggy-app-architecture.png)
@@ -645,21 +638,36 @@ Bulldoggy app architecture
 Andy singing the praises of HTMX
 !["Another high level endorsement of HTMX: “HTMX is a great way to democratize front-end development.” Andrew Knight"](recap-of-djangocon-us-2023-images/another-high-level.png)
 
-This talk was a bookend for a talk Andy did at PyTexas. That one focused on full-stack Python development. 
+Testing is an art and a science, Andy said. Development and testing are two sides of the same coin. 
 
-In this talk, Andy would be talking about how to go about testing a modern web app like Bulldoggy Reminders app. 
+This talk was a bookend for a keynote Andy did at PyTexas that focused on the full-stack Python development of Bulldoggy Reminders app. 
 
-Modern Testing Goals
-![](recap-of-djangocon-us-2023-images/andy-modern-testing-goals.png)
+In this talk, Andy would be talking about how to test the app. 
 
-Test Pyramid Scheme
-![](recap-of-djangocon-us-2023-images/andy-test-pyramid-scheme.png)
+"Testing is hard." 
 
 Testing Challenges
 ![](recap-of-djangocon-us-2023-images/andy-testing-challenges.png)
 
+Historically, testing strategy has been built around the Test Pyramid that has probably been around longer than Andy has been in a professional environment. :) 
+
+According to the strategy, we want a lot of unit tests. They are white box, next to the code, low level, very fast, touching the Python methods. Moving up the pyramid, if we have UI, we want to test the widget library as components. Moving up the pyramid, we reach API testing. We make a request, get a response, verify a `200` code. They take a bit longer to run and there could be network issues, but they are ok. We reach UI tests. We want to do as few of them as possible. They are the most complex, longest, slowest, most brittle, most prone to flakiness, the riskiest. 
+
+Test Pyramid Scheme
+![](recap-of-djangocon-us-2023-images/andy-test-pyramid-scheme.png)
+
+"We have developed an entire testing strategy with this pyramid around presumptions that certain types of tests are good and bad. And I'm here to tell you today that's bull crap. Every type of test adds value in unique, special ways. To try to label some as good and bad is not healthy for us as we approach the quality of our applications. I could argue that UI tests are the valuable ones because they are the ones that are testing your application as a user would." 
+
+Modern testing goals- breaking away from the pyramid and its preconceived notions
+![](recap-of-djangocon-us-2023-images/andy-modern-testing-goals.png)
+
 Web Test Automation Tool Comparison
 ![](recap-of-djangocon-us-2023-images/andy-web-test-automation-tool-comparison.png)
+
+Tips for testing modern web apps like a champion
+![](recap-of-djangocon-us-2023-images/andy-test-modern-web-apps.png)
+
+Afterw the talk, I had the chance to catch up with Andy. His talk has rekindled my desire to get better at testing and reminded me of what a great resource Test Automation University is. He gave me a card resource too! 
 
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
