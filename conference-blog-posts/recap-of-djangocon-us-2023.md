@@ -12,7 +12,7 @@ Table of Contents
         - [A Chance to Hang Out with Old Friends and Make New Friends](#a-chance-to-hang-out-with-old-friends-and-make-new-friends)
 - [Monday](#monday)
     - [Meeting the New Django Fellow Natalia Bidart](#meeting-the-new-django-fellow-natalia-bidard)
-    - [Kojo Idressa and Peter Grandstaff Kick Off the Conference](#kojo-idress-and-peter-grandstaff-kick-off-the-conference) 
+    - [Kojo Idressa and Peter Grandstaff Kick Off the Conference](#kojo-idress-and-peter-grandstaff-kick-off-the-onference) 
 - [Tuesday](#tuesday)
 - [Wednesday](#wednesday)
     - [DjangoCon Africa](#djangocon-africa)
@@ -658,8 +658,19 @@ Test Pyramid Scheme
 
 "We have developed an entire testing strategy with this pyramid around presumptions that certain types of tests are good and bad. And I'm here to tell you today that's bull crap. Every type of test adds value in unique, special ways. To try to label some as good and bad is not healthy for us as we approach the quality of our applications. I could argue that UI tests are the valuable ones because they are the ones that are testing your application as a user would." 
 
-Modern testing goals- breaking away from the pyramid and its preconceived notions
+Modern testing goals- let's break away from the pyramid and its preconceived notions
 ![](recap-of-djangocon-us-2023-images/andy-modern-testing-goals.png)
+
+While testing can be challenging, our approach to testing doesn't need to be. 
+
+Writing good tests: follow the Arrange-Act-Assert method:
+* *Arrange* things in the system
+* *Act* on the target behavior
+* *Assert* expected outcomes
+
+Arrange-Act-Assert works for all types of functional tests, whether they are unit, component, API, or UI. This pattern came up over and over again in the talk. 
+
+Can't we just use pytest or unittest? Andy loves pytest. He is a pytest stan and thinks it is the best testing framework in any language, 
 
 Web Test Automation Tool Comparison
 ![](recap-of-djangocon-us-2023-images/andy-web-test-automation-tool-comparison.png)
