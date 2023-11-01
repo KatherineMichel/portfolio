@@ -656,7 +656,9 @@ pytest and unnitest cannot test web apps or frameworks. They provide the structu
 
 What about Django's testing support? Django has an awesome test client. Django testing support is probably some of the best Andy has seen in a Python web framework, but...
 
-You're not going to be able to test the app like a user. 
+You are going to be limited to "white box" testing of calling methods and functions directly from the code. You're not going to be able to test the app like a user by opening up a browser and clicking around or calling the API with a REST client. 
+
+Andy pointed out the "white box" unit testing at the bottom of the pyramid and "black box" testing of the components above. 
 
 Web Test Automation Tool Comparison
 ![](recap-of-djangocon-us-2023-images/andy-web-test-automation-tool-comparison.png)
@@ -664,7 +666,7 @@ Web Test Automation Tool Comparison
 Tips for testing modern web apps like a champion
 ![](recap-of-djangocon-us-2023-images/andy-test-modern-web-apps.png)
 
-Afterw the talk, I had the chance to catch up with Andy. His talk has rekindled my desire to get better at testing and reminded me of what a great resource Test Automation University is. He gave me a card resource too! 
+Afterw the talk, I had the chance to catch up with Andy. His talk has rekindled my desire to get better at testing and reminded me of what a great resource [Test Automation University](https://testautomationu.applitools.com/) is. He gave me a card resource too! 
 
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
