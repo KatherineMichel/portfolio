@@ -628,14 +628,26 @@ My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing
 Summary
 -->
 
+Andy is a local and learned development through Django. At DjangoCon US 2019, he gave a Selenium tutorial. It was special for him to be back four years later giving a keynote about testing. 
+
+Testing is an art and a science, he said. Development and testing are two sides of the same coin. 
+
+Tips for testing modern web apps like a champion
+![](recap-of-djangocon-us-2023-images/andy-test-modern-web-apps.png)
+
+Andy introduced us to Suki, his French bulldog. He created Bulldoggy Reminders app to help him take care of his dog. 
+
+Users can log in. On the main page are the reminders they are tracking. On the left are lists of reminders they have created. Users can dynamically add items to lists, rename lists, and delete lists. When an item is completed they can strike through it by clicking on it. 
+
 Bulldoggy app architecture
 ![](recap-of-djangocon-us-2023-images/andy-bulldoggy-app-architecture.png)
 
 Andy singing the praises of HTMX
 !["Another high level endorsement of HTMX: “HTMX is a great way to democratize front-end development.” Andrew Knight"](recap-of-djangocon-us-2023-images/another-high-level.png)
 
-Tips for testing modern web apps like a champion
-![](recap-of-djangocon-us-2023-images/andy-test-modern-web-apps.png)
+This talk was a bookend for a talk Andy did at PyTexas. That one focused on full-stack Python development. 
+
+In this talk, Andy would be talking about how to go about testing a modern web app like Bulldoggy Reminders app. 
 
 Modern Testing Goals
 ![](recap-of-djangocon-us-2023-images/andy-modern-testing-goals.png)
