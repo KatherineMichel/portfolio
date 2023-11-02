@@ -207,8 +207,11 @@ Chris was once a graphic designer and learned how user experience could drastica
 
 Chris began by talking about the prevant architectural pattern of SPAs. An initial page load downloads a JavaScript application that handles all interactions and uses APIs to communicate with servers. As the data changes, the page is updated with small payloads without reloading the page. Users enjoy dynamic and engaging interfaces.
 
-"SPAs incur complexity that simply doesn't exist with traditional server-based websites: issues such as search engine optimization, browser history management, web analytics and first page load time all need to be addressed. Proper analysis and consideration of the trade-offs is required to determine if that complexity is warranted for business or user experience reasons. Too often teams are skipping that trade-off analysis, blindly accepting the complexity of SPAs by default even when business needs don't justify it. "
+!["SPAs incur complexity that simply doesn't exist with traditional server-based websites: issues such as search engine optimization, browser history management, web analytics and first page load time all need to be addressed. Proper analysis and consideration of the trade-offs is required to determine if that complexity is warranted for business or user experience reasons. Too often teams are skipping that trade-off analysis, blindly accepting the complexity of SPAs by default even when business needs don't justify it. "](recap-of-djangocon-us-2023-images/chris-spa-thoughtworks.png)
+
+<!--
 "We still see some developers who aren't aware of an alternative approach because they've spent their entire career in a framework like React." [Thoughtworks on SPAs](https://www.thoughtworks.com/en-us/radar/techniques/spa-by-default#:~:text=SPAs%20incur%20complexity%20that%20simply,all%20need%20to%20be%20addressed.)
+-->
 
 <!--
 As an organizer at [PyRVA](http://www.pyrva.org/), he comes across many people who are excited to learn Python, but discouraged by the common job posting requirement of knowing React or some other JavaScript framework. 
@@ -230,6 +233,9 @@ He found some advice from 2017- for optimal website performance, establish a bud
 
 His demo app was the functional equivalent of the prod app (using same phone, internet, server, APIs, data), with a drastically elevated experience. Much quicker to load and interact with, it finished in 20 seconds. 
 
+20 seconds! 
+![](recap-of-djangocon-us-2023-images/chris-demo-2.png)
+
 You can use Django and HTML today to create the same kind of better than SPA and better than native experience today. In the talk, Chris would show us how. 
 
 Chris told the story of Caleb, a Laravel developer at Titan, one of the best PHP shops. He realized there was a significant cost and complexity to SPAs, so he decided to default to traditional web apps and only choose a SPA when needed. But, after starting to create a web app, he would always feel a gravitational pull back to SPA. He realized the seminal decision causing this would be when you decide to return JSON from the server. You need JavaScript on the page to receive the request. If you return HTML, you need much less JavaScript on the page to handle it. He created a framework called [Livewire](https://laravel-livewire.com/) for Laravel Developers. 
@@ -244,25 +250,18 @@ Alpine was created to support Livewire. According to Chris, it's an incredible f
 
 HTMX and Alpine together can enable you to give your users a SPA-like experience for less than 30 kb. 
 
-Five components of elevated experiences
-* Remove whole page refreshes for every interaction- accomplished with HTMX
-* Use small pyaloads form the server to update the interface- accomplished with HTMX
-* Update HTML as a result of changes in data- accomplished with Alpine
-* Empower rich on-page interactions- accomplished with Alpine
-* Be fast
-
-Developer Experience boost
-* Both frameworks can use HTML attributes to control behavior (this creates locality- see Carlton Gibson's talk)
-* Locality
-* Remove your JS build system
-* Write mostly Python and HTML (fewer languages to deal with)
-* Easier maintenance
-* Faster iteration cycles
+![Five components of elevated experiences: remove whole page refreshes for every interaction- accomplished with HTMX, use small pyaloads form the server to update the interface- accomplished with HTMX, update HTML as a result of changes in data- accomplished with Alpine, empower rich on-page interactions- accomplished with Alpine, be fast](recap-of-djangocon-us-2023-images/chris-components-of-elevated-experience.png)
 
 While both of these frameworks have JavaScript interfaces, they are optimized to use HTML attributes. Instead of working with JavaScript and making it compile, with HTMX and Alpine, you can define the behavior in your HTML file. You can potentially remove the JavaScript build system. 
 
 These two frameworks, along with Tailwind CSS have brought the joy of web dev back to his life. He hadn't realized how much it had faded over time. 
 
+![Developer Experience boost: Both frameworks can use HTML attributes to control behavior, locality, remove your JS build system, write mostly Python and HTML, easier maintenance, faster iteration cycles](recap-of-djangocon-us-2023-images/chris-developer-experience-boost.png)
+
+<!--
+(this creates locality- see Carlton Gibson's talk)
+-->
+   
 Chris referred to a talk by David Guillot at DjangoCon Europe. David described his company's transition from React to HTMX. There were no negative tradeoffs. There were positive tradeoffs. By removing React, you can make use of the native browser, which creates many new possibilities such as the capability of rendering large docs. Website performance was also a big win. Django/React interactivity took up to six seconds to render. The Django/HTMX version took up to 2. 
 
 Chris then wanted to focus on the "Be fast" component of elevated experience, which he said could trump the rest. 
@@ -305,12 +304,8 @@ Chris closed by summarizing what created an exception experience.
 <!--
 k, kb?
 
-![](recap-of-djangocon-us-2023-images/chris-components-of-elevated-experience.png)
 ![](recap-of-djangocon-us-2023-images/chris-demo-1.png)
-![](recap-of-djangocon-us-2023-images/chris-demo-2.png)
-![](recap-of-djangocon-us-2023-images/chris-developer-experience-boost.png)
 ![](recap-of-djangocon-us-2023-images/chris-experience-drove-spa-popularity.png)
-![](recap-of-djangocon-us-2023-images/chris-spa-thoughtworks.png)
 -->
 
 ### Fried Green Tomatoes :)
