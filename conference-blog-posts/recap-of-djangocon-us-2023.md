@@ -206,6 +206,7 @@ Chris was once a graphic designer and learned how user experience could drastica
 Chris began by talking about the prevalent architectural pattern of SPAs. Chris believes that better user experience drove their popularity.
 ![An initial page load downloads a JavaScript application that handles all interactions and uses APIs to communicate with servers. As the data changes, the page is updated with small payloads without reloading the page. Users enjoy dynamic and engaging interfaces.](recap-of-djangocon-us-2023-images/chris-experience-drove-spa-popularity.png)
 
+But, SPAs have been overused. 
 !["SPAs incur complexity that simply doesn't exist with traditional server-based websites: issues such as search engine optimization, browser history management, web analytics and first page load time all need to be addressed. Proper analysis and consideration of the trade-offs is required to determine if that complexity is warranted for business or user experience reasons. Too often teams are skipping that trade-off analysis, blindly accepting the complexity of SPAs by default even when business needs don't justify it. "](recap-of-djangocon-us-2023-images/chris-spa-thoughtworks.png)
 
 <!--
