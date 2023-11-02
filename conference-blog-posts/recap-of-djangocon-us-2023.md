@@ -317,8 +317,10 @@ He also showed some patterns that work with Django templates too.
 
 ![Option 2: Render a view, subscribe to HTMX Server-Side Events, send the slow parts to the page when they're ready](recap-of-djangocon-us-2023-images/chris-option-2.png)
 
+<!--
 HTMX Server-Side Events
 ![](recap-of-djangocon-us-2023-images/chris-htmx-sse.png)
+-->
 
 These are not the only options. Chris has created a [web-async-patterns repo](https://github.com/PyHAT-stack/web-async-patterns) in PyHAT-stack GitHub organization. He wants your contributions. He believes that the community can create better patterns that empower us and enable Django to do new things. 
 
