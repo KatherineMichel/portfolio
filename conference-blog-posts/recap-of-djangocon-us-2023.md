@@ -199,14 +199,20 @@ Me and Abigail
 
 [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
 
-Chris has been a long-time appreciator of the Django community and wants to give back by elevating the experience of your Django app. Chris was once a graphic designer and learned how user experience could drastically transform any project. He fell in love with Python in 2007, and his passion is helping other people enjoy Python and their websites. 
+Chris has been a long-time appreciator of the Django community and wants to give back by elevating the experience of your Django app. 
+
+<!--
+Chris was once a graphic designer and learned how user experience could drastically transform any project. He fell in love with Python in 2007, and his passion is helping other people enjoy Python and their websites. 
+-->
 
 Chris began by talking about the prevant architectural pattern of SPAs. An initial page load downloads a JavaScript application that handles all interactions and uses APIs to communicate with servers. As the data changes, the page is updated with small payloads without reloading the page. Users enjoy dynamic and engaging interfaces.
 
 "SPAs incur complexity that simply doesn't exist with traditional server-based websites: issues such as search engine optimization, browser history management, web analytics and first page load time all need to be addressed. Proper analysis and consideration of the trade-offs is required to determine if that complexity is warranted for business or user experience reasons. Too often teams are skipping that trade-off analysis, blindly accepting the complexity of SPAs by default even when business needs don't justify it. "
 "We still see some developers who aren't aware of an alternative approach because they've spent their entire career in a framework like React." [Thoughtworks on SPAs](https://www.thoughtworks.com/en-us/radar/techniques/spa-by-default#:~:text=SPAs%20incur%20complexity%20that%20simply,all%20need%20to%20be%20addressed.)
 
-As an organizer at [PyRVA[(http://www.pyrva.org/), he comes across many people who are excited to learn Python, but discouraged by the common job posting requirement of knowing React or some other JavaScript framework. 
+<!--
+As an organizer at [PyRVA](http://www.pyrva.org/), he comes across many people who are excited to learn Python, but discouraged by the common job posting requirement of knowing React or some other JavaScript framework. 
+-->
 
 Chris believes that better user experience drove the popularity of SPAs, but this is no longer an advantage. Due to the capabilities of new tools, traditional websites can be just as friendly and much easier to maintain. 
 
@@ -257,9 +263,7 @@ Chris referred to a talk by David Guillot at DjangoCon Europe. David described h
 
 Chris then wanted to focus on the "Be fast" component of elevated experience, which he said could trump the rest. 
 
-SPAs using React and other JavaScript frameworks have a hidden cost- time to boot up. 
-
-While working the HTTP Archive, an archive of as much of the web as possible, Tim Kadlec found that half of all websites built with React took over ten seconds to render on a mobile device. 10% of sites build with React took over 25 seconds to load on mobile, which can lead to significant user experience issues. 
+SPAs using React and other JavaScript frameworks have a hidden cost- time to boot up. While working the HTTP Archive, an archive of as much of the web as possible, Tim Kadlec found that half of all websites built with React took over ten seconds to render on a mobile device. 10% of sites build with React took over 25 seconds to load on mobile, which can lead to significant user experience issues. 
 
 Chris went back to the production app and demonstrated that the JavaScript prep took so much phone resource that it caused the text input to lag. The eggs search was deleted and the app then attempted to find 360,000 items and summarize them on the page instead. The user would then have to research, taking over a minute and a half. 
 
