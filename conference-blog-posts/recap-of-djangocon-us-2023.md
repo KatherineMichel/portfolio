@@ -16,7 +16,7 @@ Table of Contents
     - [Kojo Idressa and Peter Grandstaff Kick Off the Conference](#kojo-idressa-and-peter-grandstaff-kick-off-the-conference)
     - [Finding Purpose in Open Source Through Community Building](#finding-purpose-in-open-source-through-community-building)
     - [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](#html-ivating-your-django-web-apps-experience-with-htmx-alpinejs-and-streaming-html)
-    - [Fried Green Tomatoes :)](#fried-green-tomatoes-),f
+    - [Fried Green Tomatoes :)](#fried-green-tomatoes-),
     - [What Can the DSF Do for Me? What Can I Do for the DSF?](#what-can-the-dsf-do-for-me-what-can-i-do-for-the-dsf)
     - [Parts and Labor, The Parlour, and Back to the Hotel](#parts-and-labor-the-parlour-and-back-to-the-hotel) 
 - [Tuesday](#tuesday)
