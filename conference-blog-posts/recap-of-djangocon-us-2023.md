@@ -226,7 +226,11 @@ He bought several popular phones, gave them to people, and recorded them perform
 
 Chris showed a video of the results. 
 
-Each app takes a significant amount of time to accomplish the task, sometimes with a lag between the time the user touches the device and app response. amazon.com takes the lead, returns the wrong response, and finishes in 59 seconds. The native app is slowest to start, but finishes second at 1:21. The other two websites take almost 4 minutes to accomplish the task. 
+Each app takes a significant amount of time to accomplish the task, sometimes with a lag between the time the user touches the device and app response. The apps took between 59 seconds and 4 minutes to finish. 
+
+<!--
+amazon.com takes the lead, returns the wrong response, and finishes in 59 seconds. The native app is slowest to start, but finishes second at 1:21. The other two websites take almost 4 minutes to accomplish the task. 
+-->
 
 Ranging from 59 seconds to 4 minutes to finish
 ![](recap-of-djangocon-us-2023-images/chris-demo-1.png)
@@ -256,7 +260,9 @@ HTMX and Alpine together can enable you to give your users a SPA-like experience
 
 ![Five components of elevated experiences: remove whole page refreshes for every interaction- accomplished with HTMX, use small pyaloads form the server to update the interface- accomplished with HTMX, update HTML as a result of changes in data- accomplished with Alpine, empower rich on-page interactions- accomplished with Alpine, be fast](recap-of-djangocon-us-2023-images/chris-components-of-elevated-experience.png)
 
+<!--
 While both of these frameworks have JavaScript interfaces, they are optimized to use HTML attributes. Instead of working with JavaScript and making it compile, with HTMX and Alpine, you can define the behavior in your HTML file. You can potentially remove the JavaScript build system. 
+-->
 
 These two frameworks, along with Tailwind CSS have brought the joy of web dev back to his life. He hadn't realized how much it had faded over time. 
 
@@ -270,7 +276,11 @@ Chris referred to a talk by David Guillot at DjangoCon Europe. David described h
    
 Chris then wanted to focus on the "Be fast" component of elevated experience, which he said could trump the rest. 
 
-SPAs using React and other JavaScript frameworks have a hidden cost- time to boot up. While working the HTTP Archive, an archive of as much of the web as possible, Tim Kadlec found that half of all websites built with React took over ten seconds to render on a mobile device. 10% of sites build with React took over 25 seconds to load on mobile, which can lead to significant user experience issues. 
+SPAs using React and other JavaScript frameworks have a hidden cost- time to boot up. 
+
+<!--
+While working the HTTP Archive, an archive of as much of the web as possible, Tim Kadlec found that half of all websites built with React took over ten seconds to render on a mobile device. 10% of sites build with React took over 25 seconds to load on mobile, which can lead to significant user experience issues. 
+-->
 
 Chris went back to the production app and demonstrated that the JavaScript prep took so much phone resource that it caused the text input to lag. The eggs search was deleted and the app then attempted to find 360,000 items and summarize them on the page instead. The user would then have to research, taking over a minute and a half. 
 
@@ -282,8 +292,10 @@ Currently, Python will obtain all of the data, put it in the template, then send
 
 Chris proposes that when the request comes in, we start sending the template as soon as we can and continue sending pieces of it as they become available, until it's done. This can be done using streaming HTML technology that has been around since 1997. Every browser is already optimized to use it. 
 
+<!--
 What we want...
 ![](recap-of-djangocon-us-2023-images/chris-what-we-want.png)
+-->
 
 Chris created a recommendation engine and engineered it to take up to five seconds to load recommendations on the homepage. 
 
