@@ -811,6 +811,9 @@ Proud to be a DEFNA Board Member and DjangoCon US Organizer
 Standing ovation for organizers
 ![](recap-of-djangocon-us-2023-images/standing-ovation.jpg)
 
+DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
+![](recap-of-djangocon-us-2023-images/djangocon-us-organizers.jpg)
+ 
 ## Sight Seeing and More Food!
 
 I consider getting to know the host city to be an important part of the conference experience. 
@@ -955,3 +958,6 @@ Can't wait for next year! :)
 
 djurham
 ![](recap-of-djangocon-us-2023-images/djurham.jpg)
+
+DEFNA Board (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
+![](recap-of-djangocon-us-2023-images/defna-board.jpg)
