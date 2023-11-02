@@ -78,7 +78,7 @@ Linguini and clams ("chorizo, cherry tomatoes, toasted garlic, white wine sauce,
 https://www.linkedin.com/posts/katherinemichel_thank-you-to-our-defna-president-peter-grandstaff-activity-7119291550492233728-wBC5?utm_source=share&utm_medium=member_desktop
 -->
 
-DEFNA Board at the conference (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
+DEFNA Board (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ![](recap-of-djangocon-us-2023-images/defna-board.jpg)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
