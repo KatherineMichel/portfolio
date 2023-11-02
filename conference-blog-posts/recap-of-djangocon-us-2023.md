@@ -695,7 +695,7 @@ It kicked off a conversation that led to her giving the talk [Inside Out: My Jou
 
 !["@CodenameTim @kati @djangocon I've been thinking about this a lot, and I would be most thrilled to prepare a talk. Currently, one of the topics I'm feeling most passionate about is Diversity And Inclusion, so I'd be excited to share my view, thoughts and my experience on the matter. Would that be a talk you'd like to see/attend?"](recap-of-djangocon-us-2023-images/i've-been-thinking-about-this-a-lot.png)
 
-Natalia gave some examples of prejudice that she has faced as a woman. Thank you Natalia for putting into words the type of that experiences I've also had, but have questioned. 
+In her talk, Natalia gave some examples of prejudice that she has faced as a woman. Thank you Natalia for putting into words the type of that experiences I've also had, but have questioned. 
 
 She explained what unconscious bias is and that we are unaware of it. Her hope is that we will reflect on our unconscious biases to improve the Django community as a whole. 
 
