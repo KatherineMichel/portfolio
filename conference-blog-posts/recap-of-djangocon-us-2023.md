@@ -197,7 +197,7 @@ Me and Abigail
 
 ### HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML
 
-Chris has been a long-time appreciator of the Django community and wants to give back by elevating the experience of your Django app through his talk [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/).
+Chris May has been a long-time appreciator of the Django community and wants to give back by elevating the experience of your Django app through his talk [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/).
 
 <!--
 Chris was once a graphic designer and learned how user experience could drastically transform any project. He fell in love with Python in 2007, and his passion is helping other people enjoy Python and their websites. 
@@ -264,10 +264,10 @@ These two frameworks, along with Tailwind CSS have brought the joy of web dev ba
 
 <!--
 (this creates locality- see Carlton Gibson's talk)
+
+Chris referred to a talk by David Guillot at DjangoCon Europe. David described his company's transition from React to HTMX. There were no negative tradeoffs. There were positive tradeoffs. By removing React, you can make use of the native browser, which creates many new possibilities such as the capability of rendering large docs. Website performance was also a big win. Django/React interactivity took up to six seconds to render. The Django/HTMX version took up to 2. 
 -->
    
-Chris referred to a talk by David Guillot at DjangoCon Europe. David described his company's transition from React to HTMX. There were no negative tradeoffs. There were positive tradeoffs. By removing React, you can make use of the native browser, which creates many new possibilities such as the capability of rendering large docs. Website performance was also a big win. Django/React interactivity took up to six seconds to render. The Django/HTMX version took up to 2. 
-
 Chris then wanted to focus on the "Be fast" component of elevated experience, which he said could trump the rest. 
 
 SPAs using React and other JavaScript frameworks have a hidden cost- time to boot up. While working the HTTP Archive, an archive of as much of the web as possible, Tim Kadlec found that half of all websites built with React took over ten seconds to render on a mobile device. 10% of sites build with React took over 25 seconds to load on mobile, which can lead to significant user experience issues. 
@@ -291,9 +291,11 @@ Chris created a recommendation engine and engineered it to take up to five secon
 Currently, we won't see anything on the page until all of the template is complete. 
 -->
 
-If the CSS container element does not have four items, the page will render the CSS skeleton elements shaped like the eventual content. This will prevent the page from jumping around as it renders. Each recommendation will be sent when it is ready. Meanwhile, the user can react with the site. 
+If the CSS container element does not have four items, the page will render the CSS skeleton elements shaped like the eventual content. This will prevent the page from jumping around as it renders. Each recommendation will be sent when it is ready. Meanwhile, the user can use the site. 
 
+<!--
 He called this a ridiculous example and acknowledged that all sorts of things outside of our control can slow things down, but said it's a great pattern. He showed an example of this in real life in the wild. In a GitHub repo, when you click on any file to drill down into it, GitHub allows critical elements to appear quickly and does not prevent you from accomplishing your goal, but nice to have details load async. 
+-->
 
 He demonstrated how to create the demo functionality in Django using Django 4.2's new `StreamingHttpResponse` async functionality. Unfortunately, as of the conference, this pattern only works with Jinja templates. 
 
@@ -310,10 +312,6 @@ These are not the only options. Chris has created a [web-async-patterns repo](ht
 
 Chris closed by summarizing what created an exception experience. 
 ![Exceptional Experiences with Django: Using `StreamingHttpResponse` to stream critical elements to the user as quickly as possible, use HTML fragments to update parts of the page with HTMX, leverage scoped down frameworks like Alpine.js to power rich interactions](recap-of-djangocon-us-2023-images/chris-exceptional-experiences.png)
-
-<!--
-k, kb?
--->
 
 ### Fried Green Tomatoes :)
 
