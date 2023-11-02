@@ -28,6 +28,8 @@ Table of Contents
     - [An Approach to Lightweight Tenancy Management Using Django Rest Framework](#an-approach-to-lightweight-tenancy-management-using-django-rest-framework)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
 - [Wednesday](#wednesday)
+    - [Testing Modern Web Apps Like a Champion](#testing-modern-web-apps-like-a-champion)
+    - [Inside Out: My Journey of Understanding Inclusion](#inside-out-my-journey-of-understanding-inclusion)
     - [DjangoCon Africa](#djangocon-africa)
     - [Another Great Adventure](#another-great-adventure)
     - [Conference Conclusion](#conference-conclusion)
