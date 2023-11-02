@@ -843,14 +843,20 @@ I also visited the [Museum of Life and Science](lifeandscience.org/). The [Butte
 
 Unfortunately, the [train](https://www.lifeandscience.org/explore/train/) that takes passengers around the museum's 84 acres was not in operation at the time of my visit. I know I would have really enjoyed it. 
 
-Museum of Life and Science lemurs
+Lemurs
 ![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-lemurs.jpg)
 
-Museum of Life and Science Lemur Exhibit
+Lemur Exhibit
 ![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-exhibit.jpg)
 
-Museum of Life and Science lemur
+Lemur
 ![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-lemur.jpg)
+
+Butterfly House path
+![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-path.jpg)
+
+Butterfly House path
+![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-path-2.jpg)
 
 Butterfly House butterfly
 ![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-butterfly-house-butterfly.jpg)
@@ -863,7 +869,7 @@ Insectarium- cockroaches
 
 Insectarium- tarantula
 ![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-tarantula.jpg)
-
+ 
 ### Parizade
 
 More pics from the incredible Parizade!
