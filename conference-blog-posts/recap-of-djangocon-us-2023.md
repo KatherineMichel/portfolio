@@ -422,7 +422,7 @@ Coherence brand
 https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-projects/
 -->
 
-### Dawn and Rachell
+### Navigating Django's Future: Djangonaut Space
 
 It was at [DjangoCon US 2018](https://2018.djangocon.us/) that I personally first recall a growing sense of discontent being publicly expressed, for example in this talk that year by former Django Fellow Carlton Gibson, [Your Framework Needs You](https://youtu.be/1BFjg9XtptM?si=oUQr3y2monEzCoud). 
 
@@ -495,7 +495,7 @@ Djangonaut Space is now [accepting applications](https://www.djangoproject.com/w
 
 Spread the word :)
 
-### Tim Allen
+### Don't Buy the "AI" Hype
 
 While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk [Don't Buy the "AI" Hype](https://2023.djangocon.us/talks/dont-buy-the-ai-hype/) the he had put together at the last minute to fill an open slot. 
 
@@ -522,7 +522,7 @@ He doesn't have an easy answer, but says that as technologists we must be respon
 
 "We've got to stop falling for it."
 
-### Eliana Rosselli
+### An Approach to Lightweight Tenancy Management Using Django Rest Framework
 
 Having implemented multi-tenancy myself, I thought Eliana's talk [An Approach to Lightweight Tenancy Management Using Django Rest Framework](https://2023.djangocon.us/talks/an-approach-to-lightweight-tenancy-management-using-django-rest-framework/) would be an interesting one to attend, and it was. 
 
@@ -595,7 +595,7 @@ City Box Durham gift boxes
 
 ## Wednesday
 
-### Andrew Knight
+### Testing Modern Web Apps Like a Champion
 
 My friend Andrew "Pandy" Knight delivered the Wednesday morning keynote [Testing Modern Web Apps Like a Champion](https://2023.djangocon.us/talks/keynote-testing-modern-web-apps-like-a-champion/). 
 
@@ -671,7 +671,7 @@ Afterw the talk, I had the chance to catch up with Andy. His talk has rekindled 
 A gift from my friend Andy
 ![](recap-of-djangocon-us-2023-images/test-card-from-andy.jpg)
 
-### Natalia Bidart
+### Inside Out: My Journey of Understanding Inclusion
 
 This year, along the lines of my fellow DEFNA board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I created my own [Talk Topic Ideas List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and posted it on social media. 
 
