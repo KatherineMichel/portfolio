@@ -197,9 +197,7 @@ Me and Abigail
 
 ### HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML
 
-[HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
-
-Chris has been a long-time appreciator of the Django community and wants to give back by elevating the experience of your Django app. 
+Chris has been a long-time appreciator of the Django community and wants to give back by elevating the experience of your Django app through his talk [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/).
 
 <!--
 Chris was once a graphic designer and learned how user experience could drastically transform any project. He fell in love with Python in 2007, and his passion is helping other people enjoy Python and their websites. 
@@ -211,13 +209,14 @@ Chris began by talking about the prevant architectural pattern of SPAs. An initi
 
 <!--
 "We still see some developers who aren't aware of an alternative approach because they've spent their entire career in a framework like React." [Thoughtworks on SPAs](https://www.thoughtworks.com/en-us/radar/techniques/spa-by-default#:~:text=SPAs%20incur%20complexity%20that%20simply,all%20need%20to%20be%20addressed.)
--->
 
-<!--
 As an organizer at [PyRVA](http://www.pyrva.org/), he comes across many people who are excited to learn Python, but discouraged by the common job posting requirement of knowing React or some other JavaScript framework. 
 -->
 
-Chris believes that better user experience drove the popularity of SPAs, but this is no longer an advantage. Due to the capabilities of new tools, traditional websites can be just as friendly and much easier to maintain. 
+Chris believes that better user experience drove the popularity of SPAs
+![](recap-of-djangocon-us-2023-images/chris-experience-drove-spa-popularity.png)
+
+Spa user experience is no longer an advantage. Due to the capabilities of new tools, traditional websites can be just as friendly and much easier to maintain. 
 
 Chris referred to a real life case study [Making the world’s fastest website, and other mistakes](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na) by Taylor Hunt, a developer at a supermarket chain. Taylor knew their web app needed a better experience and wanted to record what customers experienced. 
 
@@ -227,13 +226,16 @@ Chris showed a video of the results.
 
 Each app takes a significant amount of time to accomplish the task, sometimes with a lag between the time the user touches the device and app response. amazon.com takes the lead, returns the wrong response, and finishes in 59 seconds. The native app is slowest to start, but finishes second at 1:21. The other two websites take almost 4 minutes to accomplish the task. 
 
+Ranging from 59 seconds to 4 minutes to finish
+![](recap-of-djangocon-us-2023-images/chris-demo-1.png)
+
 Taylor knew it could be better and had a vision: "Be so fast it’s fun on the worst devices and networks our customers use."
 
 He found some advice from 2017- for optimal website performance, establish a budget of 130 kb or less (first download- HTML, CSS, JavaScript). Due to the third party JavaScript data collection tools and use of ReactJS and Redux in the production app, he could not meet the budget as a SPA app. He decided to focus on HTML, with minimal CSS and laser-focused JavaScript that required complex interactivity. 
 
 His demo app was the functional equivalent of the prod app (using same phone, internet, server, APIs, data), with a drastically elevated experience. Much quicker to load and interact with, it finished in 20 seconds. 
 
-20 seconds! 
+20 seconds to finish! 
 ![](recap-of-djangocon-us-2023-images/chris-demo-2.png)
 
 You can use Django and HTML today to create the same kind of better than SPA and better than native experience today. In the talk, Chris would show us how. 
@@ -303,9 +305,6 @@ Chris closed by summarizing what created an exception experience.
 
 <!--
 k, kb?
-
-![](recap-of-djangocon-us-2023-images/chris-demo-1.png)
-![](recap-of-djangocon-us-2023-images/chris-experience-drove-spa-popularity.png)
 -->
 
 ### Fried Green Tomatoes :)
