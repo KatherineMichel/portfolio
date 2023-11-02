@@ -3,6 +3,7 @@
 Table of Contents
 -----------------
 
+- [Intro](#intro)
 - [Pre-Conference Activities](#pre-conference-activities)
     - [Board Dinner](#board-dinner)
     - [Django Girls Workshop](#django-girls-workshop)
@@ -12,7 +13,8 @@ Table of Contents
         - [A Chance to Hang Out with Old Friends and Make New Friends](#a-chance-to-hang-out-with-old-friends-and-make-new-friends)
 - [Monday](#monday)
     - [Meeting the New Django Fellow Natalia Bidart](#meeting-the-new-django-fellow-natalia-bidard)
-    - [Kojo Idressa and Peter Grandstaff Kick Off the Conference](#kojo-idress-and-peter-grandstaff-kick-off-the-onference) 
+    - [Kojo Idressa and Peter Grandstaff Kick Off the Conference](#kojo-idress-and-peter-grandstaff-kick-off-the-onference)
+    - 
 - [Tuesday](#tuesday)
 - [Wednesday](#wednesday)
     - [DjangoCon Africa](#djangocon-africa)
@@ -143,7 +145,7 @@ During the Opening Remarks, Conference Chair Peter Grandstaff asked everyone to 
 A powerful tool borrowed from PyCon Australia and written about by Eric Holscher of [Read the Docs](https://about.readthedocs.com/) and [Write the Docs](https://www.writethedocs.org/) for setting norms: "[Hey, we don't do that here.](https://www.ericholscher.com/blog/2023/feb/10/we-dont-do-that-here/)"
 ![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
 
-### Abigail Mesrenyame Dogbe
+### Abigail Mesrenyame Dogbe: Finding Purpose in Open Source Through Community Building
 
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). 
 
@@ -180,7 +182,7 @@ Me and Abigail
 
 !["Don’t have stats, but this feels like the most diverse DjangoCon US I’ve ever been to. Particularly excited at how many Africans we have speaking and attending, starting with Abigail Mesrenyame Dogbe‘s inspiring keynote “Finding Purpose in Open Source Through Community Building.” #DjangoConUS"](recap-of-djangocon-us-2023-images/don't-have-stats.png)
 
-### Chris May
+### Chris May: HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML
 
 [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
 
@@ -315,7 +317,7 @@ At lunch... trying a fried green tomato for the first time!
 Summary
 -->
 
-### Chaim Kirby
+### Chaim Kirby: What Can the DSF Do for Me? What Can I Do for the DSF?
 
 Chaim Kirby, Django Software Foundation (DSF) President, asked [What Can the DSF Do for Me? What Can I Do for the DSF?](https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/)
 
