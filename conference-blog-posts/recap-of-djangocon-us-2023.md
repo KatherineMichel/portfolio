@@ -16,7 +16,7 @@ Table of Contents
     - [Kojo Idressa and Peter Grandstaff Kick Off the Conference](#kojo-idressa-and-peter-grandstaff-kick-off-the-conference)
     - [Finding Purpose in Open Source Through Community Building](#finding-purpose-in-open-source-through-community-building)
     - [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](#html-ivating-your-django-web-apps-experience-with-htmx-alpinejs-and-streaming-html)
-    - [Fried Green Tomatoes :)](#fried-green-tomatoes-)
+    - [Fried Green Tomatoes :)](#fried-green-tomatoes-),f
     - [What Can the DSF Do for Me? What Can I Do for the DSF?](#what-can-the-dsf-do-for-me-what-can-i-do-for-the-dsf)
     - [Parts and Labor, The Parlour, and Back to the Hotel](#parts-and-labor-the-parlour-and-back-to-the-hotel) 
 - [Tuesday](#tuesday)
@@ -203,7 +203,8 @@ Chris has been a long-time appreciator of the Django community and wants to give
 Chris was once a graphic designer and learned how user experience could drastically transform any project. He fell in love with Python in 2007, and his passion is helping other people enjoy Python and their websites. 
 -->
 
-Chris began by talking about the prevant architectural pattern of SPAs. An initial page load downloads a JavaScript application that handles all interactions and uses APIs to communicate with servers. As the data changes, the page is updated with small payloads without reloading the page. Users enjoy dynamic and engaging interfaces.
+Chris began by talking about the prevalent architectural pattern of SPAs. Chris believes that better user experience drove their popularity.
+![An initial page load downloads a JavaScript application that handles all interactions and uses APIs to communicate with servers. As the data changes, the page is updated with small payloads without reloading the page. Users enjoy dynamic and engaging interfaces.](recap-of-djangocon-us-2023-images/chris-experience-drove-spa-popularity.png)
 
 !["SPAs incur complexity that simply doesn't exist with traditional server-based websites: issues such as search engine optimization, browser history management, web analytics and first page load time all need to be addressed. Proper analysis and consideration of the trade-offs is required to determine if that complexity is warranted for business or user experience reasons. Too often teams are skipping that trade-off analysis, blindly accepting the complexity of SPAs by default even when business needs don't justify it. "](recap-of-djangocon-us-2023-images/chris-spa-thoughtworks.png)
 
@@ -213,10 +214,7 @@ Chris began by talking about the prevant architectural pattern of SPAs. An initi
 As an organizer at [PyRVA](http://www.pyrva.org/), he comes across many people who are excited to learn Python, but discouraged by the common job posting requirement of knowing React or some other JavaScript framework. 
 -->
 
-Chris believes that better user experience drove the popularity of SPAs
-![](recap-of-djangocon-us-2023-images/chris-experience-drove-spa-popularity.png)
-
-Spa user experience is no longer an advantage. Due to the capabilities of new tools, traditional websites can be just as friendly and much easier to maintain. 
+Spa user experience is no longer an advantage. 
 
 Chris referred to a real life case study [Making the world’s fastest website, and other mistakes](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na) by Taylor Hunt, a developer at a supermarket chain. Taylor knew their web app needed a better experience and wanted to record what customers experienced. 
 
@@ -238,7 +236,7 @@ His demo app was the functional equivalent of the prod app (using same phone, in
 20 seconds to finish! 
 ![](recap-of-djangocon-us-2023-images/chris-demo-2.png)
 
-You can use Django and HTML today to create the same kind of better than SPA and better than native experience today. In the talk, Chris would show us how. 
+Due to the capabilities of new tools, Django websites can be just as friendly as SPAs and much easier to maintain. In the talk, Chris would show us how. 
 
 Chris told the story of Caleb, a Laravel developer at Titan, one of the best PHP shops. He realized there was a significant cost and complexity to SPAs, so he decided to default to traditional web apps and only choose a SPA when needed. But, after starting to create a web app, he would always feel a gravitational pull back to SPA. He realized the seminal decision causing this would be when you decide to return JSON from the server. You need JavaScript on the page to receive the request. If you return HTML, you need much less JavaScript on the page to handle it. He created a framework called [Livewire](https://laravel-livewire.com/) for Laravel Developers. 
 
