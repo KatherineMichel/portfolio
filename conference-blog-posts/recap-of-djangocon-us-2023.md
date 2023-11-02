@@ -56,6 +56,8 @@ Attendee photo (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 CC BY-SA 4.0
 -->
 
+:top: <sub>[**back to top**](#table-of-contents)</sub>
+
 ## Pre-Conference Activities
 
 ### DEFNA Board Dinner
