@@ -5,7 +5,7 @@ Table of Contents
 
 - [Intro](#intro)
 - [Pre-Conference Activities](#pre-conference-activities)
-    - [Board Dinner](#board-dinner)
+    - [DEFNA Board Dinner](#defna-board-dinner)
     - [Django Girls Workshop](#django-girls-workshop)
     - [Swag Stuffing](#swag-stuffing)
     - [Django Social](#django-social)
@@ -58,7 +58,9 @@ CC BY-SA 4.0
 
 ## Pre-Conference Activities
 
-### Board Dinner
+### DEFNA Board Dinner
+
+!["Thank you to our DEFNA President Peter Grandstaff and Two Rock Software for treating fellow DEFNA Board Members in Durham for DjangoCon US to a magical dinner last night at Parizade. The apple pie mezcal margarita, linguini and clams, cookie and ice cream dessert, and company were stellar."](recap-of-djangocon-us-2023-images/parizade-post.png)
 
 Things got off to a great start with a DEFNA Board dinner at [Parizade](https://www.parizadedurham.com/menus/) on Saturday night. 
 
@@ -75,11 +77,12 @@ Apple Pie Mezcal Margarita ("Del Maguey Vida Mezcal, triple sec, lime juice, app
 Linguini and clams ("chorizo, cherry tomatoes, toasted garlic, white wine sauce, tarragon bread crumbs")
 ![](recap-of-djangocon-us-2023-images/parizade-linguini-and-clams.jpg)
 
-!["Thank you to our DEFNA President Peter Grandstaff and Two Rock Software for treating fellow DEFNA Board Members in Durham for DjangoCon US to a magical dinner last night at Parizade. The apple pie mezcal margarita, linguini and clams, cookie and ice cream dessert, and company were stellar."](recap-of-djangocon-us-2023-images/parizade-post.png)
-
 <!--
 https://www.linkedin.com/posts/katherinemichel_thank-you-to-our-defna-president-peter-grandstaff-activity-7119291550492233728-wBC5?utm_source=share&utm_medium=member_desktop
 -->
+
+DEFNA Board at the conference (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
+![](recap-of-djangocon-us-2023-images/defna-board.jpg)
 
 ### Django Girls Workshop
 
@@ -958,6 +961,3 @@ Can't wait for next year! :)
 
 djurham
 ![](recap-of-djangocon-us-2023-images/djurham.jpg)
-
-DEFNA Board (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
-![](recap-of-djangocon-us-2023-images/defna-board.jpg)
