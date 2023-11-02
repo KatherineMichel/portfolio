@@ -293,27 +293,24 @@ He demonstrated how to create the demo functionality in Django using Django 4.2'
 
 He also showed some patterns that work with Django templates too. 
 
-Option 1: 
-* Split templates into parts
-* Yield each one via Django 4.2's new async iteration in `StreamingHttpResponse`
+![Option 1: Split templates into parts, yield each one via Django 4.2's new async iteration in `StreamingHttpResponse`](recap-of-djangocon-us-2023-images/chris-option-1.png)
 
-Option 2
-* Render a view
-* Subscribe to HTMX Server-Side Events
-* Send the slow parts to the page when they're ready
+![Option 2: Render a view, subscribe to HTMX Server-Side Events, send the slow parts to the page when they're ready](recap-of-djangocon-us-2023-images/chris-option-2.png)
 
 These are not the only options. Chris has created a [web-async-patterns repo](https://github.com/PyHAT-stack/web-async-patterns) in PyHAT-stack GitHub organization. He wants your contributions. He believes that the community can create better patterns that empower us and enable Django to do new things. 
 
 Chris closed by summarizing what created an exception experience. 
-
-Exceptional Experiences with Django
-* Using `StreamingHttpResponse` to stream critical elements to the user as quickly as possible
-* Use HTML fragments to update parts of the page with HTMX
-* Leverage scoped down frameworks like Alpine.js to power rich interactions
+![Exceptional Experiences with Django: Using `StreamingHttpResponse` to stream critical elements to the user as quickly as possible, use HTML fragments to update parts of the page with HTMX, leverage scoped down frameworks like Alpine.js to power rich interactions](recap-of-djangocon-us-2023-images/chris-exceptional-experiences.png)
 
 <!--
 k, kb?
-Alpine versus alpine.js
+
+![](recap-of-djangocon-us-2023-images/chris-components-of-elevated-experience.png)
+![](recap-of-djangocon-us-2023-images/chris-demo-1.png)
+![](recap-of-djangocon-us-2023-images/chris-demo-2.png)
+![](recap-of-djangocon-us-2023-images/chris-developer-experience-boost.png)
+![](recap-of-djangocon-us-2023-images/chris-experience-drove-spa-popularity.png)
+![](recap-of-djangocon-us-2023-images/chris-spa-thoughtworks.png)
 -->
 
 ### Fried Green Tomatoes :)
