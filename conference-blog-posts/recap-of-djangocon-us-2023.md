@@ -627,11 +627,11 @@ A `GET` request to `companies/5/reports/1` will return a 404 HTTP status
 
 She then explained how they write a custom viewset and overrided the `initial()` method to implement tenancy check functionality to restrict user access to resources. 
 
-First they check that the user is logged in and get the company primary key from the URL. If either is missing a not found exception is raised. They then get the user from the request. Instead of looking up the company using the primary key, they look for it within the user's set of companies. If the company does not exist, they raised a not found exception. If it exists, but it's not among the user's companies, it also raises a not found exception. The company needs to exist and be among the user's set of companies in order for it to be returned. 
+First they check that the user is logged in and get the company primary key from the URL. If either is missing an exception is raised. They then get the user from the request. Instead of looking up the company using the primary key, they look for it within the user's set of companies. The company needs to exist and be among the user's set of companies in order for it to be returned. 
 
 Eliana and her colleagues would occasionally forget to filter by company which would result in accidentally leaking information from other tenants. As a bonus, she demonstrated how they created a custom model manager to avoid this. 
 
-They would override the `filter()` method and check if `company_id` or `company` is in the `kwargs`. If not, the missing company exception is raised. If either exists, company is filtered like intended with the `kwarg`. 
+They would override the `filter()` method and check if `company_id` or `company` is in the `kwargs`. If not, the `MissingCompanyException` is raised. If either exists, company is filtered like intended with the `kwarg`. 
 
 <!--
 Check viewset capitalization, not found error
