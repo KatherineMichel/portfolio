@@ -841,18 +841,28 @@ After visiting the gardens, I made the quick walk over to the [Duke Chapel](http
 
 I also visited the [Museum of Life and Science](lifeandscience.org/). The [Butterfly House](https://www.lifeandscience.org/explore/butterfly-house/) in particular was a really special experience. I was also happy to have a second change to see lemurs. Duke University has the largest population of lemurs in the world outside of Madagascar, but unfortunately, its tours were booked through the rest of the year. The Museum of Life and Science has a [Lemur Exhibit](https://www.lifeandscience.org/explore/lemurs-and-tortoises/). I enjoyed observing these beautiful animals. [The Farmyard](https://www.lifeandscience.org/explore/the-farmyard/), [Insectarium](https://www.lifeandscience.org/explore/insectarium/), and [Aerospace](https://www.lifeandscience.org/explore/aerospace/) exhibits were also really fun and interesting. 
 
-Butterfly House butterfly
-![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-butterfly-house-butterfly.jpg)
-
 Unfortunately, the [train](https://www.lifeandscience.org/explore/train/) that takes passengers around the museum's 84 acres was not in operation at the time of my visit. I know I would have really enjoyed it. 
 
 Museum of Life and Science lemurs
 ![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-lemurs.jpg)
 
-<!--
-Butterfly pics
-Lemur pics
--->
+Museum of Life and Science Lemur Exhibit
+![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-exhibit.jpg)
+
+Museum of Life and Science lemur
+![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-lemur.jpg)
+
+Butterfly House butterfly
+![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-butterfly-house-butterfly.jpg)
+
+Butterflies with "eyes" eating watermelon
+![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-eye-butterflies.jpg)
+
+Insectarium- cockroaches
+![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-cockroaches.jpg)
+
+Insectarium- tarantula
+![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-tarantula.jpg)
 
 ### Parizade
 
