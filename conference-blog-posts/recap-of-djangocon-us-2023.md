@@ -560,21 +560,11 @@ A `GET` request to `companies/5/reports/1` will return a 404 HTTP status
 
 She then explained how they write a custom viewset and overrided the `initial()` method to implement tenancy check functionality to restrict user access to resources. 
 
-First they check that the user is logged in and get the company primary key from the URL. If either is missing a not found exception is raised. 
+First they check that the user is logged in and get the company primary key from the URL. If either is missing a not found exception is raised. They then get the user from the request. Instead of looking up the company using the primary key, they look for it within the user's set of companies. If the company does not exist, they raised a not found exception. If it exists, but it's not among the user's companies, it also raises a not found exception. The company needs to exist and be among the user's set of companies in order for it to be returned. 
 
-They then get the user from the request. Instead of looking up the company using the primary key, they look for it within the user's set of companies. 
+Eliana and her colleagues would occasionally forget to filter by company which would result in accidentally leaking information from other tenants. As a bonus, she demonstrated how they created a custom model manager to avoid this. 
 
-If the company does not exist, they raised a not found exception. If it exists, but it's not among the user's companies, it also raises a not found exception. 
-
-The company needs to exist and be among the user's set of companies in order for it to be returned. 
-
-Eliana and her colleagues would occasionally forget to filter by company which would result in accidentally leaking information from other tenants. 
-
-As a bonus, she demonstrated how they created a custom model manager to avoid this. 
-
-They would override the `filter()` method and check if `company_id` or `company` is in the `kwargs`. If not, the missing company exception is raised. 
-
-If either exists, company is filtered like intended with the `kwarg`. 
+They would override the `filter()` method and check if `company_id` or `company` is in the `kwargs`. If not, the missing company exception is raised. If either exists, company is filtered like intended with the `kwarg`. 
 
 <!--
 Check viewset capitalization, not found error
@@ -660,8 +650,10 @@ You are going to be limited to "white box" testing of calling methods and functi
 
 Andy pointed out the "white box" unit testing at the bottom of the pyramid and "black box" testing of the components above. 
 
-Tools for black box testing
+Tools for black box testing... Cypress and Playwright can do all of these things
 ![](recap-of-djangocon-us-2023-images/andy-tools-for-black-box-testing.png)
+
+Focusing on open source tools, Andy went over how to do component, API, and UI testing, with examples and pitfalls from his own personal experience. 
 
 Web Test Automation Tool Comparison
 ![](recap-of-djangocon-us-2023-images/andy-web-test-automation-tool-comparison.png)
@@ -703,10 +695,7 @@ Double Bind Paradoxes
 Double Bind from Barbie movie
 ![](recap-of-djangocon-us-2023-images/double-bind-barbie.png)
 
-<!--
-Ned's talk, culture book
-https://nedbatchelder.com/blog/202305/pycon_2023_keynote.html
--->
+Natalia went on to talk about cultural aspects too and recommended Ned Batchelder's PyCon US 2023 keynote [People: the API User's Guide](https://nedbatchelder.com/blog/202305/pycon_2023_keynote.html) and the book [The Culture Map](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries-ebook/dp/B00IHGVQ9I/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1698883387&sr=8-1) by Erin Meyer. 
 
 <!--
 https://fosstodon.org/@nessita/110340749235756274
@@ -843,13 +832,13 @@ Butterfly House butterfly
 
 Unfortunately, the [train](https://www.lifeandscience.org/explore/train/) that takes passengers around the museum's 84 acres was not in operation at the time of my visit. I know I would have really enjoyed it. 
 
+Museum of Life and Science lemurs
+![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-lemurs.jpg)
+
 <!--
 Butterfly pics
 Lemur pics
 -->
-
-Museum of Life and Science lemurs
-![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-lemurs.jpg)
 
 ### Parizade
 
