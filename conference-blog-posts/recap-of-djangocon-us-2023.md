@@ -474,9 +474,9 @@ Through Rachell's involvement with Django Girls Seoul, she was pushed to become 
 
 This was a common a theme that came up throughout the conference that works: invite underrepresented people in, empower them, and encourage them to do things they might not think they are capable of doing. This helps them break their own boundaries. 
 
-Rachell said, "These policies and initiatives that focus on inclusivity, connection, sponsorship, and accountability are not just points to get. These initiatives... are really important in sustaining community, but also including people that might not have been included before and opening doors. They work, and I'm here and Dawn's here. A lot of people are here and becoming leaders in the community because of these kind of initiatives."
+Rachell said, "Historically-excluded groups of people are just that. Excluded. And they often don't feel comfortable stepping up or making that first connection. If there's a mentorship program (you need) somebody to be like, 'hey why don't you try this?' or 'hey, you would be great at this!' and just bring them along and include them."
 
-"Historically-excluded groups of people are just that. Excluded. And they often don't feel comfortable stepping up or making that first connection. If there's a mentorship program (you need) somebody to be like, 'hey why don't you try this?' or 'hey, you would be great at this!' and just bring them along and include them."
+She went on to say, "These policies and initiatives that focus on inclusivity, connection, sponsorship, and accountability are not just points to get. These initiatives... are really important in sustaining community, but also including people that might not have been included before and opening doors. They work, and I'm here and Dawn's here. A lot of people are here and becoming leaders in the community because of these kind of initiatives."
 
 The magic of Django Girls... Dawn and Rachell are alumnae
 ![](recap-of-djangocon-us-2023-images/celebration.jpg)
@@ -487,7 +487,7 @@ The first flight was a "roaring success." It lasted 3 months.
 
 They found an active approach to inclusion to be more effective than a passive one. People will be more likely to participate if you reach out to them directly. 
 
-They focused on high-touch, quality communication, retention. They supported people with kindness and worked around their lives. 
+They focused on high-touch, quality communication, and retention. They supported people with kindness and worked around their lives. 
 
 Dawn and Rachell clarified that Djangonaut Space is not just for underrepresented people, but the goal is to make everyone comfortable. That inclusivity will benefit the entire group. 
 
