@@ -235,7 +235,7 @@ Taylor knew it could be better and had a vision: "Be so fast it’s fun on the w
 
 He found some advice from 2017- for optimal website performance, establish a budget of 130 kb or less (first download- HTML, CSS, JavaScript). Due to the third party JavaScript data collection tools and use of ReactJS and Redux in the production app, he could not meet the budget as a SPA app. He decided to focus on HTML, with minimal CSS and laser-focused JavaScript that required complex interactivity. 
 
-His demo app was the functional equivalent of the prod app (using same phone, internet, server, APIs, data), with a drastically elevated experience. Much quicker to load and interact with, it finished in 20 seconds. 
+His demo app was the functional equivalent of the production app (using same phone, internet, server, APIs, data), with a drastically elevated experience. Much quicker to load and interact with, it finished in 20 seconds. 
 
 20 seconds to finish! 
 ![](recap-of-djangocon-us-2023-images/chris-demo-2.png)
