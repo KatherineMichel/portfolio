@@ -234,17 +234,21 @@ You can use Django and HTML today to create the same kind of better than SPA and
 
 Chris told the story of Caleb, a Laravel developer at Titan, one of the best PHP shops. He realized there was a significant cost and complexity to SPAs, so he decided to default to traditional web apps and only choose a SPA when needed. But, after starting to create a web app, he would always feel a gravitational pull back to SPA. He realized the seminal decision causing this would be when you decide to return JSON from the server. You need JavaScript on the page to receive the request. If you return HTML, you need much less JavaScript on the page to handle it. He created a framework called [Livewire](https://laravel-livewire.com/) for Laravel Developers. 
 
-[django-unicorn](https://www.django-unicorn.com/) has the same philosophy, but Python and Django devs have adopted a different framework called [HTMX](https://htmx.org/) that is growing in popularity. HTMX enables JavaScript-like functionality, without the use of JavaScript, such as re-rendering part of a page using AJAX at the cost of just 14 kb. 
+<!--
+[django-unicorn](https://www.django-unicorn.com/) has the same philosophy. 
+-->
 
-alpine.js was created to support Livewire. According to Chris, it's an incredible framework that can create rich interactions with very littel JavaScript. Its focus is the in-page experience. You can use it to create mobile components, make dynamic forms. It is reactive, so any data on the page associated with HTML will update when changed. 
+Python and Django devs have adopted a different framework called [HTMX](https://htmx.org/) that is growing in popularity. HTMX enables JavaScript-like functionality, without the use of JavaScript, such as re-rendering part of a page using AJAX at the cost of just 14 kb. 
 
-HTMX and alpine.js together can enable you to give your users a SPA-like experience for less than 30 kb. 
+Alpine was created to support Livewire. According to Chris, it's an incredible framework that can create rich interactions with very little JavaScript. Its focus is the in-page experience. You can use it to create mobile components, make dynamic forms. It is reactive, so any data on the page associated with HTML will update when changed. 
+
+HTMX and Alpine together can enable you to give your users a SPA-like experience for less than 30 kb. 
 
 Five components of elevated experiences
 * Remove whole page refreshes for every interaction- accomplished with HTMX
 * Use small pyaloads form the server to update the interface- accomplished with HTMX
-* Update HTML as a result of changes in data- accomplished with alpine.js
-* Empower rich on-page interactions- accomplished with alpine.js
+* Update HTML as a result of changes in data- accomplished with Alpine
+* Empower rich on-page interactions- accomplished with Alpine
 * Be fast
 
 Developer Experience boost
@@ -271,23 +275,19 @@ In the demo app, the transaction happens very quickly, before the app has finish
 
 Chris wants Python developers to be able to do this. 
 
-With traditional web apps, Python will
-* Gather all the data pieces
-* Grab the templates
-* Render and stick together the whole template in memory
-* Send it down the pipe
-
-This is ok, but can hurt user experience. 
-
-Chris created a recommendation engine and engineered it to take up to five seconds to load recommendations on the homepage. Currently, we won't see anything on the page until all of the template is complete. 
+Currently, Python will obtain all of the data, put it in the template, then send it in the response. This is ok, but can hurt user experience. 
 
 Chris proposes that when the request comes in, we start sending the template as soon as we can and continue sending pieces of it as they become available, until it's done. This can be done using streaming HTML technology that has been around since 1997. Every browser is already optimized to use it. 
 
+Chris created a recommendation engine and engineered it to take up to five seconds to load recommendations on the homepage. 
+
+<!--
+Currently, we won't see anything on the page until all of the template is complete. 
+-->
+
 If the CSS container element does not have four items, the page will render the CSS skeleton elements shaped like the eventual content. This will prevent the page from jumping around as it renders. Each recommendation will be sent when it is ready. Meanwhile, the user can react with the site. 
 
-He called this a ridiculous example and acknowledged that all sorts of things outside of our control can slow things down, but said it's a great pattern. 
-
-He showed an example of this in real life in the wild. In a GitHub repo, when you click on any file to drill down into it, GitHub allows critical elements to appear quickly and does not prevent you from accomplishing your goal, but nice to have details load async. 
+He called this a ridiculous example and acknowledged that all sorts of things outside of our control can slow things down, but said it's a great pattern. He showed an example of this in real life in the wild. In a GitHub repo, when you click on any file to drill down into it, GitHub allows critical elements to appear quickly and does not prevent you from accomplishing your goal, but nice to have details load async. 
 
 He demonstrated how to create the demo functionality in Django using Django 4.2's new `StreamingHttpResponse` async functionality. Unfortunately, as of the conference, this pattern only works with Jinja templates. 
 
