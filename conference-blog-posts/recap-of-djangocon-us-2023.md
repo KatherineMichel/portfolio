@@ -937,7 +937,7 @@ Butterfly House path
 Butterfly House butterfly
 ![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-butterfly-house-butterfly.jpg)
 
-Butterflies with "eyes" eating watermelon
+Butterflies with "eyes" eating fruit
 ![](recap-of-djangocon-us-2023-images/museum-of-life-and-science-eye-butterflies.jpg)
 
 Insectarium- cockroaches
