@@ -203,7 +203,10 @@ Chris has been a long-time appreciator of the Django community and wants to give
 Chris was once a graphic designer and learned how user experience could drastically transform any project. He fell in love with Python in 2007, and his passion is helping other people enjoy Python and their websites. 
 -->
 
-Chris began by talking about the prevalent architectural pattern of SPAs. Chris believes that better user experience drove their popularity.
+Chris began by talking about the prevalent architectural pattern of SPAs. 
+![](recap-of-djangocon-us-2023-images/chris-spas.png)
+
+Chris believes that better user experience drove their popularity.
 ![An initial page load downloads a JavaScript application that handles all interactions and uses APIs to communicate with servers. As the data changes, the page is updated with small payloads without reloading the page. Users enjoy dynamic and engaging interfaces.](recap-of-djangocon-us-2023-images/chris-experience-drove-spa-popularity.png)
 
 But, SPAs have been overused. 
@@ -279,6 +282,9 @@ Currently, Python will obtain all of the data, put it in the template, then send
 
 Chris proposes that when the request comes in, we start sending the template as soon as we can and continue sending pieces of it as they become available, until it's done. This can be done using streaming HTML technology that has been around since 1997. Every browser is already optimized to use it. 
 
+What we want...
+![](recap-of-djangocon-us-2023-images/chris-what-we-want.png)
+
 Chris created a recommendation engine and engineered it to take up to five seconds to load recommendations on the homepage. 
 
 <!--
@@ -296,6 +302,9 @@ He also showed some patterns that work with Django templates too.
 ![Option 1: Split templates into parts, yield each one via Django 4.2's new async iteration in `StreamingHttpResponse`](recap-of-djangocon-us-2023-images/chris-option-1.png)
 
 ![Option 2: Render a view, subscribe to HTMX Server-Side Events, send the slow parts to the page when they're ready](recap-of-djangocon-us-2023-images/chris-option-2.png)
+
+HTMX Server-Side Events
+![](recap-of-djangocon-us-2023-images/chris-htmx-sse.png)
 
 These are not the only options. Chris has created a [web-async-patterns repo](https://github.com/PyHAT-stack/web-async-patterns) in PyHAT-stack GitHub organization. He wants your contributions. He believes that the community can create better patterns that empower us and enable Django to do new things. 
 
