@@ -14,7 +14,10 @@ Table of Contents
 - [Monday](#monday)
     - [Meeting the New Django Fellow Natalia Bidart](#meeting-the-new-django-fellow-natalia-bidard)
     - [Kojo Idressa and Peter Grandstaff Kick Off the Conference](#kojo-idress-and-peter-grandstaff-kick-off-the-onference)
-    - 
+    - [Finding Purpose in Open Source Through Community Building](#finding-purpose-in-open-source-through-community-building)
+    - [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](#html-ivating-your-django-web-apps-experience-with-htmx-alpinejs-and-streaming-html)
+    - [Fried Green Tomatoes :)](#fried-green-tomatoes-)
+    - [What Can the DSF Do for Me? What Can I Do for the DSF?](#what-can-the-dsf-do-for-me-what-can-i-do-for-the-dsf)
 - [Tuesday](#tuesday)
 - [Wednesday](#wednesday)
     - [DjangoCon Africa](#djangocon-africa)
@@ -145,7 +148,7 @@ During the Opening Remarks, Conference Chair Peter Grandstaff asked everyone to 
 A powerful tool borrowed from PyCon Australia and written about by Eric Holscher of [Read the Docs](https://about.readthedocs.com/) and [Write the Docs](https://www.writethedocs.org/) for setting norms: "[Hey, we don't do that here.](https://www.ericholscher.com/blog/2023/feb/10/we-dont-do-that-here/)"
 ![](recap-of-djangocon-us-2023-images/hey-we-dont.jpg)
 
-### Abigail Mesrenyame Dogbe: Finding Purpose in Open Source Through Community Building
+### Finding Purpose in Open Source Through Community Building
 
 Abigail Mesrenyame Dogbe delivered the keynote [Finding Purpose in Open Source Through Community Building](https://2023.djangocon.us/talks/keynote-finding-purpose-in-open-source-through-community-building/). 
 
@@ -182,7 +185,7 @@ Me and Abigail
 
 !["Don’t have stats, but this feels like the most diverse DjangoCon US I’ve ever been to. Particularly excited at how many Africans we have speaking and attending, starting with Abigail Mesrenyame Dogbe‘s inspiring keynote “Finding Purpose in Open Source Through Community Building.” #DjangoConUS"](recap-of-djangocon-us-2023-images/don't-have-stats.png)
 
-### Chris May: HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML
+### HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML
 
 [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](https://2023.djangocon.us/talks/html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html/)
 
@@ -216,10 +219,6 @@ You can use Django and HTML today to create the same kind of better than SPA and
 Chris told the story of Caleb, a Laravel developer at Titan, one of the best PHP shops. He realized there was a significant cost and complexity to SPAs, so he decided to default to traditional web apps and only choose a SPA when needed. But, after starting to create a web app, he would always feel a gravitational pull back to SPA. He realized the seminal decision causing this would be when you decide to return JSON from the server. You need JavaScript on the page to receive the request. If you return HTML, you need much less JavaScript on the page to handle it. He created a framework called [Livewire](https://laravel-livewire.com/) for Laravel Developers. 
 
 [django-unicorn](https://www.django-unicorn.com/) has the same philosophy, but Python and Django devs have adopted a different framework called [HTMX](https://htmx.org/) that is growing in popularity. HTMX enables JavaScript-like functionality, without the use of JavaScript, such as re-rendering part of a page using AJAX at the cost of just 14 kb. 
-
-<!--
-See Mario's talk. 
--->
 
 alpine.js was created to support Livewire. According to Chris, it's an incredible framework that can create rich interactions with very littel JavaScript. Its focus is the in-page experience. You can use it to create mobile components, make dynamic forms. It is reactive, so any data on the page associated with HTML will update when changed. 
 
@@ -317,7 +316,7 @@ At lunch... trying a fried green tomato for the first time!
 Summary
 -->
 
-### Chaim Kirby: What Can the DSF Do for Me? What Can I Do for the DSF?
+### What Can the DSF Do for Me? What Can I Do for the DSF?
 
 Chaim Kirby, Django Software Foundation (DSF) President, asked [What Can the DSF Do for Me? What Can I Do for the DSF?](https://2023.djangocon.us/talks/what-can-the-dsf-i-do-for-me-the-dsf/)
 
