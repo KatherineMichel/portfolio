@@ -536,7 +536,7 @@ After the program:
 * 80% feel more comfortable contributing to Django
 * 80% feel more comfortable participating the Django community
 
-What does it take to be a Djangonaut? You don't have to be part of Djanognaut Space. You are doing it now: write, code, raise your hand, give feedback, comment on threads, organize events, speak at events, attend events
+What does it take to be a Djangonaut? You don't have to be part of Djangonaut Space. You are doing it now: write, code, raise your hand, give feedback, comment on threads, organize events, speak at events, attend events
 
 Dawn and Rachel gave a call to action to contribute to Djangonaut Space: 
 * Be a participant
