@@ -1,12 +1,37 @@
 # Portfolio
 
+<!--
+To add
+
+AWS Cloud Practitioner Certification
+CockroachDB University certifications
+
+Any talks?
+DjangoCon US 2021?
+
+Conference photos
+https://www.flickr.com/photos/djangocon/53300688310/
+
+Topic Ideas List
+https://django-news.com/issues/179#start
+https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md
+
+DjangoCon US Recap
+https://django-news.com/issues/205#start
+https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md
+
+https://engineering.stanford.edu/magazine/stanford-engineering-offers-free-online-introductory-programming-course
+-->
+
 Table of Contents
 -----------------
 
 - [Testimonials](#testimonials)
+<!--
 - [A Few Favorite Accomplishments](#a-few-favorite-accomplishments)
 - [A Little Bit About Me](#a-little-bit-about-me)
 - [Resume and Contact Info](#resume-and-contact-info)
+-->
 - [Employment and Consulting](#employment-and-consulting)
     - [Wharton School of Business](#wharton-school-of-business)
     - [Eldarion](#eldarion)
@@ -61,6 +86,7 @@ Table of Contents
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
+<!--
 ## A Few Favorite Accomplishments
 
 A few accomplishments that I am especially proud of:
@@ -97,6 +123,7 @@ Personal interests
 <hr>
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
+-->
 
 ## Resume and Contact Info
 
