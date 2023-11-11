@@ -21,6 +21,9 @@ https://django-news.com/issues/205#start
 https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md
 
 https://engineering.stanford.edu/magazine/stanford-engineering-offers-free-online-introductory-programming-course
+
+Photos
+https://twitter.com/KatiMichel/status/1707909068843602233 | Katherine "Kati" Michel on X: "I am calling this JPMC-henge. It's the full harvest moon shining beyond the Plano campus buildings at 7:15 am CST this morning. https://t.co/6wyc1ki6ix" / X
 -->
 
 Table of Contents
