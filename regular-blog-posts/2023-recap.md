@@ -4,7 +4,7 @@ A short recap of my year
 
 ## Daily Work
 
-I led/co-led the completion of several substantial code features. I had the opportunity to lead team meetings such as Sprint Retro and Sprint Review and Demo. I gave code deep dives and demos to team members and managers. 
+Throughout the year, I led/co-led the completion of a variety of substantial code features. I had the opportunity to lead team meetings such as Sprint Retro and Sprint Review and Demo. I gave code deep dives and demos to team members and managers. 
 
 I was an onsite liaison to Gaia Gemfire Team. 
 
