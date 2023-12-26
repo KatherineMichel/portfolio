@@ -24,9 +24,9 @@ In November, a co-worker and I co-presented about Advent of Code and increased t
 
 Continuous learning is important to me. This year, I earned three new certifications. 
 
-In May, I obtained an [AWS Cloud Practitioner certification](https://aws.amazon.com/certification/certified-cloud-practitioner/). This certification has enabled me to better "speak" the common language of AWS. 
+In May, I obtained an [AWS Cloud Practitioner Certification](https://aws.amazon.com/certification/certified-cloud-practitioner/). This certification has enabled me to better "speak" the common language of AWS. 
 
-In July, I obtained CockroachDB pIntroduction to Distributed SQL and CockroachDB](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-distributed-sql-and-cockroachdb+self-paced/about) and [Practical First Steps with CockroachDB](https://university.cockroachlabs.com/courses/course-v1:crl+practical-first-steps-with-crdb+self-paced/about) certifications. I really enjoyed [CockroachDB University](https://university.cockroachlabs.com/). The lessons were succint, yet very well communicated how CockroachDB works and what sets it apart from Postgres. 
+In July, I obtained CockroachDB [Introduction to Distributed SQL and CockroachDB](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-distributed-sql-and-cockroachdb+self-paced/about) and [Practical First Steps with CockroachDB](https://university.cockroachlabs.com/courses/course-v1:crl+practical-first-steps-with-crdb+self-paced/about) certifications. I really enjoyed [CockroachDB University](https://university.cockroachlabs.com/). The lessons were succint, yet very well communicated how CockroachDB works and what sets it apart from Postgres. 
 
 ## Tangential Learning
 
