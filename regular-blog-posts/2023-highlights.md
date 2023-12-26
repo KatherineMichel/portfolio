@@ -10,7 +10,7 @@ I was an onsite liaison to Gaia Gemfire Team.
 
 I went further in my understanding of multitenancy and orchestration. 
 
-This knowledge and experience led to some wonderful, impromptu conversations with former Canonical employee, now new Django Fellow Natalia Bidart and a group of Red Hat employees I had the good fortune to sit with at lunch. 
+This knowledge and experience led to some wonderful, impromptu conversations at DjangoCon US with former Canonical employee, now new Django Fellow Natalia Bidart and a group of Red Hat employees I had the good fortune to sit with at lunch. 
 
 
 
