@@ -2,6 +2,31 @@
 
 Rather than write a full blog post, this year, I decided to give some highlights of my year.
 
+
+## Heavy Lifting
+
+I led/co-led the completion of several substantial code features. I had the opportunity to lead team meetings such as Sprint Retro and Sprint Review and Demo. I gave code deep dives and demos to team members and managers. I mentored an apprentice. 
+
+I was an onsite liason. 
+
+Multi-tenancy and orchestration
+
+This led to some unexpectedly wonderful conversations with former Canonical employee Natalia Bidart and a group of Red Hat employees I had the good fortune to sit with at lunch. 
+
+## Quality and Standards
+
+I did research into Python/Django standards and code quality tools. 
+
+A co-worker and I co-presented about Advent of Code. 
+
+
+I shared my open source experience. 
+
+Best in class open source and inner source governance resources. 
+
+
+
+
 ## New Certifications
 
 Continuous learning is important to me. This year, I earned three new certifications. 
@@ -73,37 +98,14 @@ In December, I took the Los Angeles trip that I've been dreaming of taking for y
 
 ## Looking Ahead
 
-A co-worker has invited me to teach beginner/intermediate Django to our colleagues at JPMorgan Chase. I hope to finish the curriculum in early 2024 and teach multiple sessions throughout the year. 
-
-I plan to attend PyTexas in Austin in April. It's a stone's throw from Plano and a conference I have wanted to attend for quite a few years. I have yet to determine which other conference(s) I will attend, if any. Other conferences on my radar: PyCon US, DjangoCon US, DjangoCon Europe, PyCon Africa, PyGotham. 
-
 I look forward to taking on increasingly more leadership on my team. 
 
-I look forward to empowering engineers to produce higher quality code, be more productive, and engage with the wider community. 
+I look forward to empowering engineers, including me, to produce higher quality code, be more productive, and engage with the wider community. 
+
+A co-worker has invited me to teach beginner/intermediate Django to our colleagues at JPMorgan Chase. I hope to finish the curriculum in early 2024 and teach multiple sessions throughout the year. This is in addition to an offer to teach Python. 
 
 I want to go further in my understanding of our DEFNA location/venue considerations, budget, and contract negotiations. 
 
+I plan to attend PyTexas in Austin in April. It's a stone's throw from Plano and a conference I have wanted to attend for quite a few years. I have yet to determine which other conference(s) I will attend, if any. Other conferences on my radar: PyCon US, DjangoCon US, DjangoCon Europe, PyCon Africa, PyGotham. 
 
-
-
-## Heavy Lifting
-
-I led/co-led the completion of several substantial code features. I had the opportunity to lead team meetings such as Sprint Retro and Sprint Review and Demo. I gave code deep dives and demos to team members and managers. I mentored an apprentice. 
-
-I was an onsite liason. 
-
-Multi-tenancy and orchestration
-
-
-
-## Quality and Standards
-
-I did research into Python/Django standards and code quality tools. 
-
-A co-worker and I co-presented about Advent of Code. 
-
-
-I shared my open source experience. 
-
-Best in class open source and inner source governance resources. 
-
+I hope to visit Europe. It's next on my bucket list. :) 
