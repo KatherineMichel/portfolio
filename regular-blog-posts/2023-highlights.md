@@ -4,7 +4,7 @@ Rather than write a full blog post, this year, I decided to give some highlights
 
 ## Daily Work
 
-I led/co-led the completion of several substantial code features. I had the opportunity to lead team meetings such as Sprint Retro and Sprint Review and Demo. I gave code deep dives and demos to team members and managers. I mentored an apprentice. 
+I led/co-led the completion of several substantial code features. I had the opportunity to lead team meetings such as Sprint Retro and Sprint Review and Demo. I gave code deep dives and demos to team members and managers. 
 
 I was an onsite liaison to Gaia Gemfire Team. 
 
@@ -12,21 +12,15 @@ I went further in my understanding of multitenancy and orchestration.
 
 This knowledge and experience led to some wonderful, impromptu conversations at DjangoCon US with former Canonical employee, now new Django Fellow Natalia Bidart and a group of Red Hat employees I had the good fortune to sit with at lunch. 
 
-
-
 ## Quality and Standards
 
-I did research into Python/Django standards and code quality tools. 
+I documented Python/Django standards and code quality tools. 
 
-A co-worker and I co-presented about Advent of Code. 
+I shared my open source experience. I documented best-in-class open source and inner source governance resources and methods. 
 
+I mentored an apprentice in doing so. 
 
-I shared my open source experience. 
-
-Best in class open source and inner source governance resources. 
-
-
-
+A co-worker and I co-presented about Advent of Code and increased the number of participants within our department. 
 
 ## New Certifications
 
