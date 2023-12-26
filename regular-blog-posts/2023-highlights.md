@@ -14,13 +14,13 @@ This knowledge and experience led to some wonderful, impromptu conversations at 
 
 ## Quality and Standards
 
-I documented Python/Django standards and code quality tools. 
+Throughout the year, I documented Python/Django standards and code quality tools. 
 
 I shared my open source experience. I documented best-in-class open source and inner source governance resources and methods. 
 
 I mentored an apprentice in doing so. 
 
-A co-worker and I co-presented about Advent of Code and increased the number of participants within our department. 
+In November, a co-worker and I co-presented about Advent of Code and increased the number of participants within our department. 
 
 ## New Certifications
 
