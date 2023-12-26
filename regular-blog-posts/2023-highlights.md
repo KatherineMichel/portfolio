@@ -6,7 +6,7 @@ Rather than write a full blog post, this year, I decided to give some highlights
 
 Continuous learning is important to me. This year, I earned three new certifications. 
 
-In May, I obtained an AWS Cloud Practitioner certification. This certification has enabled me to better understand the common language of AWS. 
+In May, I obtained an AWS Cloud Practitioner certification. This certification has enabled me to better "speak" the common language of AWS. 
 
 In July, I obtained CockroachDB Introduction to Distributed SQL and CockroachDB and Practical First Steps with CockroachDB certifications. I really enjoyed CockroachDB University. The lessons were succint, yet very well communicated how CockroachDB works and what sets it apart from Postgres. 
 
@@ -24,11 +24,15 @@ Throughout the year, I had the opportunity to attend a number of powerful, inter
 
 In June, I took part in the JPMorgan Chase Innovation Week Global Hackathon with a project in the DE&I category. We participated in the finals. Although we did not win, it was a great experience, and I made some new friends. 
 
+## Django News Newsletter
+
+Django News Newsletter is a fabulous newsletter published every Friday and filled with all of the most important Django news. I was honored to be included twice this year: for my DjangoCon US [Talk Topics Inspiration List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and [DjangoCon US Recap](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md). 
+
 ## Stanford Code in Place Article
 
 In April, Stanford Engineering featured me an article "[Stanford Engineering offers free online introductory programming course](https://engineering.stanford.edu/magazine/stanford-engineering-offers-free-online-introductory-programming-course)". I talked about my experience learning and teaching Python programming language as a Stanford Code in Place student in 2020 and section leader in 2021. It was an honor to be profiled. 
 
-For more about my experience, check out my recap "[Reflections on Stanford Code in Place](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/reflections-on-stanford-code-in-place.md)" or my section leader [recap slides](https://github.com/KatherineMichel/stanford-code-in-place-section-leader). 
+For more about my experience, check out my student recap "[Reflections on Stanford Code in Place](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/reflections-on-stanford-code-in-place.md)" or my section leader [recap slides](https://github.com/KatherineMichel/stanford-code-in-place-section-leader). 
 
 ## Travel, Food, and Fun
 
@@ -66,7 +70,6 @@ I attended DjangoCon US and made the most of the experience. Read my recap.
 In addition to being there as a DEFNA Board member, as an attendee, I made many new comments (including PSF Executive Director, Django Fellow), promoted diversity, and acquired new knowledge. 
 
 
-## Django News Newsletter
 
 ## Quality and Standards
 
@@ -79,6 +82,8 @@ I shared my open source experience.
 
 Best in class open source and inner source governance resources. 
 
+
+## Tangential Learning
 
 I attended multiple product meetups through Product Ignite and Women in Product. 
 
