@@ -10,6 +10,17 @@ In May, I obtained an AWS Cloud Practitioner certification. This certification h
 
 In July, I obtained CockroachDB Introduction to Distributed SQL and CockroachDB and Practical First Steps with CockroachDB certifications. I really enjoyed CockroachDB University. The lessons were succint, yet very well communicated how CockroachDB works and what sets it apart from Postgres. 
 
+## Tangential Learning
+
+I learned the term "tangential learning" from my colleague and friend Neetu Jain who also happens to be the Women in Product Chapter Lead/Chair. 
+
+I attended multiple product events through JPMorgan Chase Product Ignite and DFW Women in Product. The events were outstanding, and I thoroughly enjoyed the perspective. 
+
+
+
+I took part in a five-part security challenge and finished around the top 10%. 
+
+
 ## PS Connect
 
 My experience as a DEFNA Board Member and DjangoCon US Organizer came in handy when I obtained sponsorship from a JPMorgan Chase Managing Director to start a monthly departmental meetup in Plano that became known as PS Connect. I have had the opportunity to work with tech leads across teams to execute a highly successful launch and continue to grow it into a fun, sustainable, and value adding event. 
@@ -26,7 +37,7 @@ In June, I took part in the JPMorgan Chase Innovation Week Global Hackathon with
 
 ## Django News Newsletter
 
-Django News Newsletter is a fabulous newsletter published every Friday and filled with all of the most important Django news. I was honored to be included twice this year: for my  [DjangoCon US Talk Topics Inspiration List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and [DjangoCon US Recap](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md). 
+Django News Newsletter is a fabulous newsletter published every Friday and filled with all of the most important Django news. I was honored to be included twice this year, first in May for my [DjangoCon US Talk Topics Inspiration List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and second in November for my [DjangoCon US Recap](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md). 
 
 ## Stanford Code in Place Article
 
@@ -53,19 +64,28 @@ Multi-tenancy and orchestration
 
 ## DEFNA
 
-I served another year as a DEFNA Board Member. I challenged myself to do more "heavy lifting." I provided website CfP and design process oversight. I influenced the talk program, including an emphasis on DE&I. I recruited an outstanding new board member. 
+I served another year as a DEFNA Board Member. I challenged myself to do more "heavy lifting." 
+
+
+I provided website CfP and design process oversight. 
+
+
+I influenced the talk program, including an emphasis on DE&I.  
 
 I helped oversee the DjangoCon US website design by publishing our CfP, working to secure a web design contractor, and taking part in website design meetings. 
 
-I created a talk topic inspiration list that was widely shared among leaders in the Django community, including in the Django News Newsletter, and undoubtedly contributed to the number of DjangoCon US proposals increasing from 158 the year before to 185. 
+
+I created a talk topic inspiration list that was widely shared among leaders in the Django community and undoubtedly contributed to the number of DjangoCon US proposals increasing from 158 the year before to 185. 
 
 The list kickstarted a conversation that led to this talk by new Django Fellow Natalia Bidart: "Inside Out: My Journey of Understanding Inclusion." 
 
 I went further in my understanding of our board level location/venue considerations, budget, and contract negotiations. 
 
+I also identified an outstanding board candidate who later joined.
+
 ## DjangoCon US
 
-I attended DjangoCon US and made the most of the experience. Read my recap. 
+I attended DjangoCon US and made the most of the experience. 
 
 In addition to being there as a DEFNA Board member, as an attendee, I made many new comments (including PSF Executive Director, Django Fellow), promoted diversity, and acquired new knowledge. 
 
@@ -83,11 +103,6 @@ I shared my open source experience.
 Best in class open source and inner source governance resources. 
 
 
-## Tangential Learning
-
-I attended multiple product meetups through Product Ignite and Women in Product. 
-
-I took part in a five-part security challenge and finished around the top 10%. 
 
 ## Looking Ahead
 
