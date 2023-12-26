@@ -78,7 +78,7 @@ I also identified an outstanding board candidate who later joined.
 
 In October, I attended DjangoCon US and made the most of the experience. 
 
-In addition to being there as a DEFNA Board member, as an attendee, I made many new connections (including [Python Software Foundation (PSF) Executive Director Deb Nicholson](https://www.python.org/psf/records/staff/) and [Django Fellow Natalia Bidart[(https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/)), acquired new knowledge, and supported diversity and inclusion. 
+In addition to being there as a DEFNA Board member, as an attendee, I made many new connections (including [Python Software Foundation (PSF) Executive Director Deb Nicholson](https://www.python.org/psf/records/staff/) and [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/)), acquired new knowledge, and supported diversity and inclusion. 
 
 ## Django News Newsletter
 
