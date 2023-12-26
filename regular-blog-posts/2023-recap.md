@@ -38,7 +38,7 @@ During the second quarter, I took part in a five-part security competition and f
 
 ## PS Connect
 
-In Jul obtained sponsorship from a JPMorgan Chase Managing Director to start a monthly departmental meetup in Plano that became known as PS Connect. I have had the opportunity to work with tech leads across teams to execute a highly successful launch and continue to grow it into a fun, sustainable, and value adding event. 
+In July, I obtained sponsorship from a JPMorgan Chase Managing Director to start a monthly departmental meetup in Plano that became known as PS Connect. I have had the opportunity to work with tech leads across teams to execute a highly successful launch and continue to grow it into a fun, sustainable, and value adding event. 
 
 I was invited to give a DjangoCon US Recap presentation at our PS Connect Christmas Party December 6. It was a great opportunity to do some public speaking and get to know my department colleagues better.
 
