@@ -1,6 +1,6 @@
-# 2023 Highlights
+# 2023 Recap
 
-Rather than write a full blog post, this year, I decided to give some highlights of my year.
+A short recap of my year
 
 ## Daily Work
 
