@@ -1,10 +1,8 @@
 # 2023 Recap
 
-A short recap of my year
-
 ## Daily Work
 
-Throughout the year, I led/co-led the completion of a variety of substantial code features. I had the opportunity to lead team meetings such as Sprint Retro and Sprint Review and Demo. I gave code deep dives and demos to team members and managers. 
+Throughout the year, I led/co-led the completion of a variety of substantial code features at JPMorgan Chase. I had the opportunity to lead team meetings such as Sprint Retro and Sprint Review and Demo. I gave code deep dives and demos to team members and managers. 
 
 I was an onsite liaison to Gaia Gemfire Team. 
 
@@ -26,9 +24,9 @@ In November, a co-worker and I co-presented about Advent of Code and increased t
 
 Continuous learning is important to me. This year, I earned three new certifications. 
 
-In May, I obtained an AWS Cloud Practitioner certification. This certification has enabled me to better "speak" the common language of AWS. 
+In May, I obtained an [AWS Cloud Practitioner certification](https://aws.amazon.com/certification/certified-cloud-practitioner/). This certification has enabled me to better "speak" the common language of AWS. 
 
-In July, I obtained CockroachDB Introduction to Distributed SQL and CockroachDB and Practical First Steps with CockroachDB certifications. I really enjoyed CockroachDB University. The lessons were succint, yet very well communicated how CockroachDB works and what sets it apart from Postgres. 
+In July, I obtained CockroachDB pIntroduction to Distributed SQL and CockroachDB](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-distributed-sql-and-cockroachdb+self-paced/about) and [Practical First Steps with CockroachDB](https://university.cockroachlabs.com/courses/course-v1:crl+practical-first-steps-with-crdb+self-paced/about) certifications. I really enjoyed [CockroachDB University](https://university.cockroachlabs.com/). The lessons were succint, yet very well communicated how CockroachDB works and what sets it apart from Postgres. 
 
 ## Tangential Learning
 
@@ -56,11 +54,11 @@ In June, I took part in the JPMorgan Chase Innovation Week Global Hackathon with
 
 ## DEFNA
 
-I served another year as a DEFNA Board Member. I challenged myself to do more "heavy lifting." 
+I served another year as a [DEFNA](https://www.defna.org/) Board Member. I challenged myself to do more "heavy lifting." 
 
-During the first quarter, I helped oversee the DjangoCon US website design by publishing our CfP, working to secure a web design contractor, and taking part in website design meetings. 
+During the first quarter, I helped oversee the [DjangoCon US](https://2023.djangocon.us/) website design by publishing our CfP, working to secure a web design contractor, and taking part in website design meetings. 
 
-In May, I created a talk topic inspiration list that was widely shared among leaders in the Django community and undoubtedly contributed to the number of DjangoCon US talk proposals increasing from 158 the year before to 185. 
+In May, I created a [DjangoCon US Talk Topics Inspiration List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) that was widely shared among leaders in the Django community and undoubtedly contributed to the number of DjangoCon US talk proposals increasing from 158 the year before to 185. 
 
 The list kickstarted a conversation that led to a talk by new Django Fellow Natalia Bidart: "[Inside Out: My Journey of Understanding Inclusion](https://www.youtube.com/watch?v=jYAeO37-420)." 
 
@@ -74,13 +72,15 @@ In October, I attended DjangoCon US and made the most of the experience.
 
 In addition to being there as a DEFNA Board member, as an attendee, I made many new connections (including [Python Software Foundation (PSF) Executive Director Deb Nicholson](https://www.python.org/psf/records/staff/) and [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/)), acquired new knowledge, and supported diversity and inclusion. 
 
+See my [DjangoCon US Recap](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md) for more info. 
+
 ## Django News Newsletter
 
 Django News Newsletter is a fabulous newsletter published every Friday and filled with all of the most important Django news. I was honored to be included twice this year, first in May for my [DjangoCon US Talk Topics Inspiration List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and second in November for my [DjangoCon US Recap](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md). 
 
 ## Stanford Code in Place Article
 
-In April, Stanford Engineering featured me an article "[Stanford Engineering offers free online introductory programming course](https://engineering.stanford.edu/magazine/stanford-engineering-offers-free-online-introductory-programming-course)". I talked about my experience learning and teaching Python programming language as a Stanford Code in Place student in 2020 and section leader in 2021. It was an honor to be selected from thousands of participants to be profiled. 
+In April, Stanford Engineering featured me an article "[Stanford Engineering offers free online introductory programming course](https://engineering.stanford.edu/magazine/stanford-engineering-offers-free-online-introductory-programming-course)". I talked about my experience learning and teaching Python programming language as a Stanford Code in Place student in 2020 and section leader in 2021. It was an honor to be selected to take part from among thousands of participants. 
 
 For more about my experience, check out my student recap "[Reflections on Stanford Code in Place](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/reflections-on-stanford-code-in-place.md)" or my section leader [recap slides](https://github.com/KatherineMichel/stanford-code-in-place-section-leader). 
 
