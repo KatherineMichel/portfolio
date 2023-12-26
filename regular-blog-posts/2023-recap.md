@@ -34,7 +34,7 @@ I learned the term "tangential learning" from my colleague and friend Neetu Jain
 
 Throughout the year, I attended product events through JPMorgan Chase Product Ignite and DFW Women in Product. The events were outstanding, and I thoroughly enjoyed the focus on user. 
 
-During the second quarter, I took part in a five-part security competition and finished around the top 10%. 
+During the second quarter, I took part in a five-part security competition and finished close to the top 10%. 
 
 ## PS Connect
 
