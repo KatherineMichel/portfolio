@@ -26,7 +26,7 @@ In June, I took part in the JPMorgan Chase Innovation Week Global Hackathon with
 
 ## Django News Newsletter
 
-Django News Newsletter is a fabulous newsletter published every Friday and filled with all of the most important Django news. I was honored to be included twice this year: for my DjangoCon US [Talk Topics Inspiration List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and [DjangoCon US Recap](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md). 
+Django News Newsletter is a fabulous newsletter published every Friday and filled with all of the most important Django news. I was honored to be included twice this year: for my  [DjangoCon US Talk Topics Inspiration List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and [DjangoCon US Recap](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md). 
 
 ## Stanford Code in Place Article
 
