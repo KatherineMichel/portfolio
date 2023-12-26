@@ -32,7 +32,7 @@ In July, I obtained CockroachDB Introduction to Distributed SQL and CockroachDB 
 
 ## Tangential Learning
 
-I learned the term "tangential learning" from my colleague and friend Neetu Jain who also happens to be the Women in Product Chapter Lead/Chair. 
+I learned the term "tangential learning" from my colleague and friend Neetu Jain who also happens to be the Women in DFW Product Chapter Lead/Chair. 
 
 Throughout the year, I attended product events through JPMorgan Chase Product Ignite and DFW Women in Product. The events were outstanding, and I thoroughly enjoyed the focus on user. 
 
