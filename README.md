@@ -3,6 +3,8 @@
 <!--
 To add
 
+https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/2023-recap.md
+
 https://twitter.com/KatiMichel/status/1340081546859048960
 
 AWS Cloud Practitioner Certification
