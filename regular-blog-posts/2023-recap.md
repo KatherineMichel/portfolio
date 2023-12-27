@@ -137,3 +137,50 @@ I hope to visit Europe. It's next on my bucket list. :)
 
 ## Plano Fun
 
+![](2023-recap/brasao-1.jpg)
+Brasão Brazilian Steakhouse
+
+![](2023-recap/brasao-2.jpg)
+Brasão Brazilian Steakhouse
+
+![](2023-recap/brasao-3.jpg)
+Brasão Brazilian Steakhouse
+
+![](2023-recap/brasao-4.jpg)
+Brasão Brazilian Steakhouse
+
+![](2023-recap/rodeo-goat-1.jpg)
+Rodeo Goat
+
+![](2023-recap/rodeo-goat-2.jpg)
+Rodeo Goat
+
+![](2023-recap/rodeo-goat-3.jpg)
+Rodeo Goat
+
+![](2023-recap/mexican-sugar-1.jpg)
+Mexican Sugar
+
+![](2023-recap/mexican-sugar-2.jpg)
+Mexican Sugar
+
+![](2023-recap/dock-local-1.jpg)
+Dock Local
+
+![](2023-recap/dock-local-2.jpg)
+Dock Local
+
+![](2023-recap/main-street-bakery-1.jpg)
+Main Street Bakery
+
+![](2023-recap/main-street-bakery-2.jpg)
+Main Street Bakery
+
+![](2023-recap/bamboo-house-1.jpg)
+Bamboo House
+
+![](2023-recap/bamboo-house-2.jpg)
+Bamboo House
+
+![](2023-recap/fowling.jpg)
+Fowling
