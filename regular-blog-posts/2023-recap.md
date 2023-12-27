@@ -157,8 +157,10 @@ Rodeo Goat
 ![](2023-recap/rodeo-goat-2.jpg)
 Rodeo Goat
 
+<!--
 ![](2023-recap/rodeo-goat-3.jpg)
 Rodeo Goat
+-->
 
 ![](2023-recap/mexican-sugar-1.jpg)
 Mexican Sugar
