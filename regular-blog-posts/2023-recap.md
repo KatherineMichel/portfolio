@@ -51,9 +51,11 @@ I was invited to give a DjangoCon US Recap presentation at our PS Connect Christ
 I am looking forward to seeing the new connections yet to come. 
 
 ![](2023-recap/christmas-party-presentation-1.jpg)
+
 Christmas Party presentation
 
 ![](2023-recap/christmas-party-presentation-2.jpg)
+
 Christmas Party presentation
 
 ## Diversity and Inclusion
