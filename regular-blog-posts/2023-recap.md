@@ -36,6 +36,9 @@ Throughout the year, I attended product events through JPMorgan Chase Product Ig
 
 During the second quarter, I took part in a five-part security competition and finished close to the top 10%. 
 
+![](2023-recap/secure-code-swag.jpg)
+Secure Code swag
+
 ## PS Connect
 
 In July, I obtained sponsorship from a JPMorgan Chase Managing Director to start a monthly departmental meetup in Plano that became known as PS Connect. I have had the opportunity to work with tech leads across teams to execute a highly successful launch and continue to grow it into a fun, sustainable, and value adding event. 
@@ -44,6 +47,12 @@ I was invited to give a DjangoCon US Recap presentation at our PS Connect Christ
 
 I am looking forward to seeing the new connections yet to come. 
 
+![](2023-recap/christmas-presentation-1.jpg)
+Christmas Party presentation
+
+![](2023-recap/christmas-party-presentation-2.jpg)
+Christmas Party presentation
+
 ## Diversity and Inclusion
 
 During the second quarter, I completed a JPMorgan Chase [Women on the Move](https://www.jpmorganchase.com/impact/people/women-on-the-move) (WoTM) Career Development Program. This outstanding program featured high impact modules on subjects such as fixed versus growth mindset, skill inventory, and negotiation. 
@@ -51,6 +60,12 @@ During the second quarter, I completed a JPMorgan Chase [Women on the Move](http
 Throughout the year, I had the opportunity to attend a number of powerful, internal WoTM and Take It Forward (TIF) events. 
 
 In June, I took part in the JPMorgan Chase Innovation Week Global Hackathon with a project in the DE&I category. My teammates' backgrounds ranged from product to user experience and design. We participated in the finals. Although we did not win, it was a great experience, and I made some new friends. 
+
+![](2023-recap/hackathon-team.jpg)
+My Hackathon Team
+
+![](2023-recap/tif-cup.jpg)
+TIF Cup
 
 ## DEFNA
 
@@ -84,6 +99,11 @@ In April, Stanford Engineering featured me an article "[Stanford Engineering off
 
 For more about my experience, check out my student recap "[Reflections on Stanford Code in Place](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/reflections-on-stanford-code-in-place.md)" or my section leader [recap slides](https://github.com/KatherineMichel/stanford-code-in-place-section-leader). 
 
+## Harvest Moon
+
+![](2023-recap/harvest-moon.jpg)
+Harvest Moon
+
 ## Travel, Food, and Fun
 
 Throughout the year, I enjoyed what Plano had to offer. Thank you to my Plano friends for some great times!
@@ -103,3 +123,6 @@ I plan to attend [PyTexas](https://www.pytexas.org/) in Austin in April. It's a 
 I have yet to determine which other conference(s) I will attend, if any. Other conferences on my radar: PyCon US, DjangoCon US, DjangoCon Europe, PyCon Africa, PyGotham. 
 
 I hope to visit Europe. It's next on my bucket list. :) 
+
+![](2023-recap/friends-set.jpg)
+Me on the Friends set during Warner Brothers Studio Tour
