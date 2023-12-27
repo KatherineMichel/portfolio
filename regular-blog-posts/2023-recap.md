@@ -20,6 +20,9 @@ I mentored an apprentice in doing so.
 
 In November, a co-worker and I co-presented about Advent of Code and increased the number of participants within our department. 
 
+![](2023-recap/aoc-presentation.jpg)
+Advent of Code Presentation
+
 ## New Certifications
 
 Continuous learning is important to me. This year, I earned three new certifications. 
@@ -47,7 +50,7 @@ I was invited to give a DjangoCon US Recap presentation at our PS Connect Christ
 
 I am looking forward to seeing the new connections yet to come. 
 
-![](2023-recap/christmas-presentation-1.jpg)
+![](2023-recap/christmas-party-presentation-1.jpg)
 Christmas Party presentation
 
 ![](2023-recap/christmas-party-presentation-2.jpg)
@@ -101,6 +104,8 @@ For more about my experience, check out my student recap "[Reflections on Stanfo
 
 ## Harvest Moon
 
+On September 29 at 7:14 am, I happened to be walking down the campus main street, looked up, and saw the harvest moon. I snapped this stunning photo. 
+
 ![](2023-recap/harvest-moon.jpg)
 Harvest Moon
 
@@ -109,6 +114,9 @@ Harvest Moon
 Throughout the year, I enjoyed what Plano had to offer. Thank you to my Plano friends for some great times!
 
 In December, I took the Los Angeles trip that I've been dreaming of taking for years. I'd had this trip planned twice before and cancelled, once due to wild fires, and once due to the pandemic. It was the last major US city on my bucket list. See a few pics at the end of this post. 
+
+![](2023-recap/friends-set.jpg)
+Me on the Friends set during Warner Brothers Studio Tour
 
 ## Looking Ahead
 
@@ -123,6 +131,3 @@ I plan to attend [PyTexas](https://www.pytexas.org/) in Austin in April. It's a 
 I have yet to determine which other conference(s) I will attend, if any. Other conferences on my radar: PyCon US, DjangoCon US, DjangoCon Europe, PyCon Africa, PyGotham. 
 
 I hope to visit Europe. It's next on my bucket list. :) 
-
-![](2023-recap/friends-set.jpg)
-Me on the Friends set during Warner Brothers Studio Tour
