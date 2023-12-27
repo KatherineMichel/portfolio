@@ -53,9 +53,6 @@ I am looking forward to seeing the new connections yet to come.
 ![](2023-recap/christmas-party-presentation-1.jpg)
 Christmas Party presentation
 
-![](2023-recap/christmas-party-presentation-2.jpg)
-Christmas Party presentation
-
 ## Diversity and Inclusion
 
 During the second quarter, I completed a JPMorgan Chase [Women on the Move](https://www.jpmorganchase.com/impact/people/women-on-the-move) (WoTM) Career Development Program. This outstanding program featured high impact modules on subjects such as fixed versus growth mindset, skill inventory, and negotiation. 
