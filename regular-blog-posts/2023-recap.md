@@ -10,7 +10,7 @@ I went further in my understanding of multitenancy and orchestration.
 
 This knowledge and experience led to some wonderful, impromptu conversations at DjangoCon US with former Canonical employee, now new Django Fellow Natalia Bidart and a group of Red Hat employees I had the good fortune to sit with at lunch. 
 
-## Quality and Standards
+## Quality, Standards, Inner source
 
 Throughout the year, I documented Python/Django standards and code quality tools. 
 
@@ -35,7 +35,7 @@ In July, I obtained CockroachDB [Introduction to Distributed SQL and CockroachDB
 
 I learned the term "tangential learning" from my colleague and friend Neetu Jain who also happens to be the DFW Women in Product Chapter Lead/Chair. 
 
-Throughout the year, I attended product events through JPMorgan Chase Product Ignite and DFW Women in Product. The events were outstanding, and I thoroughly enjoyed the focus on user. 
+Throughout the year, I attended JPMorgan Chase Product Ignite and DFW Women in Product events. The content was outstanding, and I thoroughly enjoyed the focus on user. 
 
 During the second quarter, I took part in a five-part security competition and finished close to the top 10%. 
 
@@ -48,27 +48,27 @@ In July, I obtained sponsorship from a JPMorgan Chase Managing Director to start
 
 I was invited to give a DjangoCon US Recap presentation at our PS Connect Christmas Party December 6. It was a great opportunity to do some public speaking and get to know my department colleagues better.
 
-I am looking forward to seeing the new connections yet to come. 
-
 ![](2023-recap/christmas-party-presentation-1.jpg) <br/>
 Christmas Party presentation
 
 ![](2023-recap/christmas-party-presentation-2.jpg) <br/>
 Christmas Party presentation
 
+I am looking forward to seeing the new connections yet to come. 
+
 ## Diversity and Inclusion
 
-During the second quarter, I completed a JPMorgan Chase [Women on the Move](https://www.jpmorganchase.com/impact/people/women-on-the-move) (WoTM) Career Development Program. This outstanding program featured high impact modules on subjects such as fixed versus growth mindset, skill inventory, and negotiation. 
+During the second quarter, I completed a JPMorgan Chase [Women on the Move](https://www.jpmorganchase.com/impact/people/women-on-the-move) (WoTM) Career Development Program. This outstanding program featured high impact modules on subjects such as fixed versus growth mindset, skill inventory, and an outstanding negotiation workshop led by Kathryn Valentine of [Worthmore Strategies](https://worthmorestrategies.com/). 
 
 Throughout the year, I had the opportunity to attend a number of powerful, internal WoTM and Take It Forward (TIF) events. 
 
 In June, I took part in the JPMorgan Chase Innovation Week Global Hackathon with a project in the DE&I category. My teammates' backgrounds ranged from product to user experience and design. We participated in the finals. Although we did not win, it was a great experience, and I made some new friends. 
 
 ![](2023-recap/hackathon-team.jpg)
-My Hackathon Team
+My wonderful hackathon Team... so passionate!
 
 ![](2023-recap/tif-cup.jpg)
-TIF Cup
+Beautiful Take It Forward (TIF) Cup
 
 ## DEFNA
 
@@ -111,9 +111,9 @@ Harvest Moon
 
 ## Travel, Food, and Fun
 
-Throughout the year, I enjoyed what Plano had to offer. Thank you to my Plano friends for some great times!
+Throughout the year, I enjoyed what Plano had to offer. Thank you to my Plano friends for some great times! See a few pics at the end of this post. 
 
-In December, I took the Los Angeles trip that I've been dreaming of taking for years. I'd had this trip planned twice before and cancelled, once due to wild fires, and once due to the pandemic. It was the last major US city on my bucket list. See a few pics at the end of this post. 
+In December, I took the Los Angeles trip that I've been dreaming of taking for years. I'd had this trip planned twice before and cancelled, once due to wild fires, and once due to the pandemic. It was the last major US city on my bucket list. I plan to do a separate write-up of the trip soon. Stay tuned! 
 
 ![](2023-recap/friends-set.jpg)
 Me on the Friends set during Warner Brothers Studio Tour
