@@ -3,6 +3,8 @@
 <!--
 To add
 
+https://twitter.com/KatiMichel/status/1340081546859048960
+
 AWS Cloud Practitioner Certification
 CockroachDB University certifications
 
