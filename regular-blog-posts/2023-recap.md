@@ -92,6 +92,9 @@ In addition to being there as a DEFNA Board member, as an attendee, I made many 
 
 See my [DjangoCon US Recap](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md) for more info. 
 
+![](2023-recap/djangocon-us-organizers.jpg)
+DjangoCon US Organizers... a truly incredible group of people!
+
 ## Django News Newsletter
 
 Django News Newsletter is a fabulous newsletter published every Friday and filled with all of the most important Django news. I was honored to be included twice this year, first in May for my [DjangoCon US Talk Topics Inspiration List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and second in November for my [DjangoCon US Recap](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md). 
