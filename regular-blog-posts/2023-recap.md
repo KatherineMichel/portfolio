@@ -65,7 +65,7 @@ Throughout the year, I had the opportunity to attend a number of powerful, inter
 In June, I took part in the JPMorgan Chase Innovation Week Global Hackathon with a project in the DE&I category. My teammates' backgrounds ranged from product to user experience and design. We participated in the finals. Although we did not win, it was a great experience, and I made some new friends. 
 
 ![](2023-recap/hackathon-team.jpg)
-My wonderful hackathon Team... so passionate!
+My wonderful hackathon Team... so talented and passionate!
 
 ![](2023-recap/tif-cup.jpg)
 Beautiful Take It Forward (TIF) Cup
@@ -134,3 +134,6 @@ I plan to attend [PyTexas](https://www.pytexas.org/) in Austin in April. It's a 
 I have yet to determine which other conference(s) I will attend, if any. Other conferences on my radar: PyCon US, DjangoCon US, DjangoCon Europe, PyCon Africa, PyGotham. 
 
 I hope to visit Europe. It's next on my bucket list. :) 
+
+## Plano Fun
+
