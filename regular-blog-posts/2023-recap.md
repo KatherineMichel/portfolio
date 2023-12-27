@@ -143,19 +143,19 @@ I hope to visit Europe. It's next on my bucket list. :)
 Brasão Brazilian Steakhouse
 
 ![](2023-recap/brasao-2.jpg)
-Brasão Brazilian Steakhouse
+Brasão Brazilian Steakhouse... many tasty meats brought to your table sliced for you
 
 ![](2023-recap/brasao-3.jpg)
-Brasão Brazilian Steakhouse
+Brasão Brazilian Steakhouse... side dishes
 
 ![](2023-recap/brasao-4.jpg)
-Brasão Brazilian Steakhouse
+Brasão Brazilian Steakhouse... forget about the meat, the grilled pineapple is to die for!
 
 ![](2023-recap/rodeo-goat-1.jpg)
-Rodeo Goat
+Rodeo Goat... Burger Battle
 
 ![](2023-recap/rodeo-goat-2.jpg)
-Rodeo Goat
+Rodeo Goat... yummy!
 
 <!--
 ![](2023-recap/rodeo-goat-3.jpg)
@@ -166,7 +166,7 @@ Rodeo Goat
 Mexican Sugar
 
 ![](2023-recap/mexican-sugar-2.jpg)
-Mexican Sugar
+Mexican Sugar... brunch! Yummy pork chop breakfast, including their distinctive tasting chips and salsa and pour over coffee
 
 <!--
 ![](2023-recap/dock-local-1.jpg)
@@ -174,10 +174,10 @@ Dock Local
 -->
 
 ![](2023-recap/dock-local-2.jpg)
-Dock Local
+Dock Local... highly rated seafood counter in Legacy Town Hall
 
 ![](2023-recap/main-street-bakery-1.jpg)
-Main Street Bakery
+Main Street Bakery in Legacy Shops... lots of beautiful and tasty treats!
 
 <!--
 ![](2023-recap/main-street-bakery-2.jpg)
@@ -188,7 +188,7 @@ Main Street Bakery
 Bamboo House
 
 ![](2023-recap/bamboo-house-2.jpg)
-Bamboo House
+Bamboo House Peking Duck
 
 ![](2023-recap/fowling.jpg)
-Fowling
+Fowling (football bowling... more difficult than it looks!)
