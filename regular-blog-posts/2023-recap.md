@@ -166,7 +166,7 @@ Rodeo Goat
 Mexican Sugar
 
 ![](2023-recap/mexican-sugar-2.jpg)
-Mexican Sugar... brunch! Yummy pork chop breakfast, including their distinctive tasting chips and salsa and pour over coffee
+Mexican Sugar... brunch! Yummy pork chop breakfast, including chips and their distinctive tasting salsa and pour over coffee
 
 <!--
 ![](2023-recap/dock-local-1.jpg)
@@ -174,7 +174,7 @@ Dock Local
 -->
 
 ![](2023-recap/dock-local-2.jpg)
-Dock Local... highly rated seafood counter in Legacy Town Hall
+Dock Local fish and chips... highly rated seafood counter in Legacy Town Hall
 
 ![](2023-recap/main-street-bakery-1.jpg)
 Main Street Bakery in Legacy Shops... lots of beautiful and tasty treats!
