@@ -50,19 +50,10 @@ I was invited to give a DjangoCon US Recap presentation at our PS Connect Christ
 
 I am looking forward to seeing the new connections yet to come. 
 
-<p float="left">
-  <img src="2023-recap/christmas-party-presentation-1.jpg" width="100" />
-  <img src="2023-recap/christmas-party-presentation-2.jpg" width="100" /> 
-</p>
+![](2023-recap/christmas-party-presentation-1.jpg) <br/>
+Christmas Party presentation
 
-Photo 1                    |  Photo 2
-:-------------------------:|:-------------------------:
-![](2023-recap/christmas-party-presentation-1.jpg)   |  ![](2023-recap/christmas-party-presentation-2.jpg)
-
-
-![](2023-recap/christmas-party-presentation-1.jpg) 
-
-![](2023-recap/christmas-party-presentation-2.jpg)
+![](2023-recap/christmas-party-presentation-2.jpg) <br/>
 Christmas Party presentation
 
 ## Diversity and Inclusion
