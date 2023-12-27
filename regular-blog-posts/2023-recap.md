@@ -107,7 +107,7 @@ For more about my experience, check out my student recap "[Reflections on Stanfo
 
 ## Harvest Moon
 
-On September 29 at 7:14 am, I happened to be walking down the campus main street, looked up, and saw the harvest moon. I snapped this stunning photo. 
+On September 29 at 7:14 am, I happened to be walking down the campus main street, which I don't normally do. I looked up and saw the harvest moon. I snapped this stunning photo. 
 
 ![](2023-recap/harvest-moon.jpg)
 Harvest Moon
