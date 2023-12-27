@@ -118,7 +118,7 @@ Harvest Moon
 
 Throughout the year, I enjoyed what Plano had to offer. Thank you to my Plano friends for some great times! See a few pics at the end of this post. 
 
-In December, I took the Los Angeles trip that I've been dreaming of taking for years. I'd had this trip planned twice before and cancelled, once due to wild fires, and once due to the pandemic. It was the last major US city on my bucket list. I plan to do a separate write-up of the trip soon. Stay tuned! 
+In December, I took the Los Angeles trip that I've been dreaming of taking for years. I'd had this trip planned twice before and cancelled, once due to wild fires, and once due to the pandemic. It was the last major US city on my bucket list. With Santa Monica as my "home base," I spent 9 days seeing the city. I plan to do a separate write-up of the trip soon. Stay tuned! 
 
 ![](2023-recap/friends-set.jpg)
 Me on the Friends set during Warner Brothers Studio Tour
