@@ -143,10 +143,10 @@ I hope to visit Europe. It's next on my bucket list. :)
 Brasão Brazilian Steakhouse
 
 ![](2023-recap/brasao-2.jpg)
-Brasão Brazilian Steakhouse... many tasty meats brought to your table sliced for you
+Brasão Brazilian Steakhouse... many tasty meats brought to your table and sliced for you
 
 ![](2023-recap/brasao-3.jpg)
-Brasão Brazilian Steakhouse... side dishes
+Brasão Brazilian Steakhouse... authentic Brazilian side dishes
 
 ![](2023-recap/brasao-4.jpg)
 Brasão Brazilian Steakhouse... forget about the meat, the grilled pineapple is to die for!
@@ -188,7 +188,7 @@ Main Street Bakery
 Bamboo House
 
 ![](2023-recap/bamboo-house-2.jpg)
-Bamboo House Peking Duck
+Bamboo House Peking Duck... not my favorite food, but an interesting experience
 
 ![](2023-recap/fowling.jpg)
 Fowling (football bowling... more difficult than it looks!)
