@@ -92,8 +92,10 @@ In addition to being there as a DEFNA Board member, as an attendee, I made many 
 
 See my [DjangoCon US Recap](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md) for more info. 
 
+<!--
 ![](2023-recap/djangocon-us-organizers.jpg)
 DjangoCon US Organizers... a truly incredible group of people!
+-->
 
 ## Django News Newsletter
 
@@ -164,8 +166,10 @@ Mexican Sugar
 ![](2023-recap/mexican-sugar-2.jpg)
 Mexican Sugar
 
+<!--
 ![](2023-recap/dock-local-1.jpg)
 Dock Local
+-->
 
 ![](2023-recap/dock-local-2.jpg)
 Dock Local
@@ -173,8 +177,10 @@ Dock Local
 ![](2023-recap/main-street-bakery-1.jpg)
 Main Street Bakery
 
+<!--
 ![](2023-recap/main-street-bakery-2.jpg)
 Main Street Bakery
+-->
 
 ![](2023-recap/bamboo-house-1.jpg)
 Bamboo House
