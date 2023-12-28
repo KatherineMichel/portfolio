@@ -34,11 +34,9 @@ Table of Contents
 -----------------
 
 - [Testimonials](#testimonials)
-<!--
 - [A Few Favorite Accomplishments](#a-few-favorite-accomplishments)
 - [A Little Bit About Me](#a-little-bit-about-me)
 - [Resume and Contact Info](#resume-and-contact-info)
--->
 - [Employment and Consulting](#employment-and-consulting)
     - [Wharton School of Business](#wharton-school-of-business)
     - [Eldarion](#eldarion)
