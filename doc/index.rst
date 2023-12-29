@@ -8,8 +8,17 @@ Welcome to Example's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   some-feature.md
-   another-feature.md
+   :caption: Annual Review:
    2023-recap.md
+   year-in-review.md
+
+   :caption: Conference Blog Posts:
+   recap-of-djangocon-us-2023.md
+   topic-ideas-djangocon-us-2023.md
+   recap-of-pygotham-2019.md
+   recap-of-djangocon-us-2019.md
+   recap-of-pycon-us-2019.md
+
+   :caption: Stanford Code in Place:
+   reflections-on-stanford-code-in-place.md
