@@ -14,6 +14,7 @@ Python Features and Release
 * [What's New](https://docs.python.org/dev/whatsnew/)
 * [Python Discuss](https://discuss.python.org)
 * [PEP Index](https://www.python.org/dev/peps)
+* [Pablo Galindo Salgado's Release Streams](https://www.youtube.com/@PythonDiscord)
 
 Django Features and Release
 * [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
@@ -24,8 +25,10 @@ Django Features and Release
 Python and Django Authorities
 * [Simon Willison](https://simonwillison.net/)
 * [Carlton Gibson](https://noumenal.es/)
+* [Natalia Bidart and Mariusz Felisiak](https://www.djangoproject.com/weblog/)
 * [Łukasz Langa](https://lukasz.langa.pl/python/developer-in-residence/)
 * [Seth M Larson](https://sethmlarson.dev/)
+* [core.py Podcast](https://podcasters.spotify.com/pod/show/corepy/)
 * [Brett Cannon](https://snarky.ca/)
 * [Hynek Schlawack](https://hynek.me/)
 * [Adam Johnson](https://adamj.eu/)
@@ -82,13 +85,15 @@ Refactoring, Patterns, Clean Code
 * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 * [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
 * [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 General Engineering Resources
-* [Architecture Notes](https://architecturenotes.co/)
-* [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
-* [High Performance Web Sites Blog](http://stevesouders.com/)
 * [Julia Evans](https://jvns.ca/)
 * [Wizard Zines](https://wizardzines.com/)
+* [Architecture Notes](https://architecturenotes.co/)
+* [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+* [The Developing Dev](https://www.developing.dev/)
+* [High Performance Web Sites Blog](http://stevesouders.com/)
 
 How Companies Do Things
 * [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
@@ -135,6 +140,7 @@ Product
 
 Podcasts
 * [Lex Fridman](https://www.youtube.com/c/lexfridman)
+* [The 20 Minute VC](https://www.thetwentyminutevc.com/podcast/)
 
 Certifications
 * [AWS Certifications](https://aws.amazon.com/certification/)
@@ -142,23 +148,7 @@ Certifications
 
 
 <!--
-Natalia
-Mariusz
-
-https://www.developing.dev/p/5-skills-all-10x-engineers-have
-https://twitter.com/ryanlpeterman/
-
-
-https://podcasters.spotify.com/pod/show/corepy/episodes/
-
-https://www.youtube.com/watch?v=PGZPSWZSkJI | Python 3.11 Release - YouTube
-https://www.youtube.com/watch?v=AHT2l3hcIJg | (8) Python 3.10 Release Stream — with Pablo Galindo - YouTube
-
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-
 PyVideo
-
-
 
 JPMC
 
@@ -182,6 +172,9 @@ Memory
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
 https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
+
+https://www.developing.dev/p/5-skills-all-10x-engineers-have
+https://twitter.com/ryanlpeterman/
 
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 
