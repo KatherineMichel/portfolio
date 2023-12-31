@@ -8,18 +8,23 @@ Welcome to Kati's Portfolio!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Table of Contents:
+   :caption: Annual Reviews
 
    2023-recap.md
-   djangocon-us-2023-recap.md
-   djangocon-us-2023-topics-inspiration-list.md
    2020-year-in-review.md
-   reflections-on-stanford-code-in-place.md
-   pygotham-2019-recap.md
-   djangocon-us-2019-recap.md
 
 .. toctree::
    :maxdepth: 2
-   :caption: Conferences Blog Posts
+   :caption: Fun Stuff:
+ 
+   djangocon-us-2023-topics-inspiration-list.md
+   reflections-on-stanford-code-in-place.md
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Conferences Recaps:
+
+   djangocon-us-2023-recap.md
+   pygotham-2019-recap.md
+   djangocon-us-2019-recap.md
    pycon-us-2019-recap.md
