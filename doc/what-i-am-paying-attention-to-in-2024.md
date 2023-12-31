@@ -10,6 +10,32 @@ GitHub
 * [GitHub Blog](https://github.blog)  
 * [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
 
+Python Features and Release
+* [What's New](https://docs.python.org/dev/whatsnew/)
+* [Python Discuss](https://discuss.python.org)
+* [PEP Index](https://www.python.org/dev/peps)
+
+Django Features and Release
+* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
+* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
+* [Django Blog](https://www.djangoproject.com/weblog/)
+* [Django Roadmaps](https://code.djangoproject.com/wiki)
+
+Python and Django Authorities
+* [Simon Willison](https://simonwillison.net/)
+* [Łukasz Langa](https://lukasz.langa.pl/python/developer-in-residence/)
+* [Seth M Larson](https://sethmlarson.dev/)
+* [Brett Cannon](https://snarky.ca/)
+* [Hynek Schlawack](https://hynek.me/)
+* [Adam Johnson](https://adamj.eu/)
+* [William Vincent](https://learndjango.com/)
+* [Anthony Sottile](https://www.youtube.com/anthonywritescode)
+* [Matt Layman](https://www.mattlayman.com/)
+
+Carlton
+
+Eric Matthes
+
 Python Books
 * [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920)
 * [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
@@ -22,40 +48,15 @@ Python Tutorials and Teachers
 * [Python Morsels](https://www.pythonmorsels.com/articles/)
 * [Trey Hunner](https://treyhunner.com/)
 
-Python and Django Authorities
-* [Simon Willison](https://simonwillison.net/)
-* [Łukasz Langa](https://lukasz.langa.pl/python/developer-in-residence/)
-* [Seth M Larson](https://sethmlarson.dev/)
-* [Brett Cannon](https://snarky.ca/)
-* [Hynek Schlawack](https://hynek.me/)
-* [Adam Johnson](https://adamj.eu/)
-* [William Vincent](https://learndjango.com/)
-* [Anthony Sottile](https://www.youtube.com/anthonywritescode)
-* [Matt Layman](https://www.mattlayman.com/)
-* [Bite Code](https://www.bitecode.dev/)
-* [Django News](https://django-news.com/)
-
-General Engineering Resources
-* [Architecture Notes](https://architecturenotes.co/)
-* [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
-
 General Python and Django Learning Resources
+* [Diátaxis](https://diataxis.fr/)
 * [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 * [Python Patterns](https://python-patterns.guide/)
 * [Google's PyGuide](https://google.github.io/styleguide/pyguide.html)
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 * [Two Scoops of Django 3.x](https://www.feldroy.com/books/two-scoops-of-django-3-x)
-
-Python Features and Release
-* [What's New](https://docs.python.org/dev/whatsnew/)
-* [Python Discuss](https://discuss.python.org)
-* [PEP Index](https://www.python.org/dev/peps)
-
-Django Features and Release
-* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
-* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
-* [Django Blog](https://www.djangoproject.com/weblog/)
-* [Django Roadmaps](https://code.djangoproject.com/wiki)
+* [Bite Code](https://www.bitecode.dev/)
+* [Django News](https://django-news.com/)
   
 Data Structures and Algorithms
 * [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/)
@@ -75,12 +76,6 @@ Testing
 * [Test Automation University](https://testautomationu.applitools.com/)
 * [Speed Up Your Django Tests](https://adamchainz.gumroad.com/l/suydt)
 
-How CPython Works
-* [C for Python Programmers](https://realpython.com/c-for-python-programmers/)
-* [CPython Source Code Guide](https://realpython.com/cpython-source-code-guide/ )
-* [CPython Internals Book](https://realpython.com/products/cpython-internals-book/)
-* [Building a Python C Extension Module](https://realpython.com/build-python-c-extension-module/)
-
 Refactoring, Patterns, Clean Code
 * [Martin Fowler](https://martinfowler.com)
 * [Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
@@ -89,6 +84,13 @@ Refactoring, Patterns, Clean Code
 * [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
 * [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
+General Engineering Resources
+* [Architecture Notes](https://architecturenotes.co/)
+* [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+* [High Performance Web Sites Blog](http://stevesouders.com/)
+* [Julia Evans](https://jvns.ca/)
+* [Wizard Zines](https://wizardzines.com/)
+
 How Companies Do Things
 * [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [How They Test](https://github.com/abhivaikar/howtheytest)
@@ -96,9 +98,11 @@ How Companies Do Things
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * [High Scalability](http://highscalability.com/)
 
-More Great Learning Resources
-* [Julia Evans](https://jvns.ca/)
-* [Wizard Zines](https://wizardzines.com/)
+How CPython Works
+* [C for Python Programmers](https://realpython.com/c-for-python-programmers/)
+* [CPython Source Code Guide](https://realpython.com/cpython-source-code-guide/ )
+* [CPython Internals Book](https://realpython.com/products/cpython-internals-book/)
+* [Building a Python C Extension Module](https://realpython.com/build-python-c-extension-module/)
 
 Engineering and Management
 * [High Output Management](https://www.amazon.com/dp/B015VACHOK)
@@ -135,11 +139,7 @@ Certifications
 
 
 <!--
-Carlton
-
-Eric Matthes
-
-Diátaxis
+Lex Friedman
 
 https://www.developing.dev/p/5-skills-all-10x-engineers-have
 https://twitter.com/ryanlpeterman/
@@ -157,28 +157,11 @@ https://www.youtube.com/watch?v=AHT2l3hcIJg | (8) Python 3.10 Release Stream —
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 https://nostarch.com/seriouspython | Serious Python | No Starch Press
 
-https://martinfowler.com/architecture/ | Software Architecture Guide
-
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-
-* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
 
 PyVideo
 
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-Bash docs
-https://grymoire.com/Unix/Awk.html
-https://grymoire.com/Unix/Grep.html
-https://www.grymoire.com/Unix/Sed.html
-
-https://git-scm.com/ | Git
-https://git-scm.com/docs | Git - Reference
-
-Bitbucket
-
-Git Book
-Boost your DX
 
 
 JPMC
@@ -210,4 +193,21 @@ http://highscalability.com/all-time-favorites/ | All Time Favorites -
 https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
 
 https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+
+Bash docs
+https://grymoire.com/Unix/Awk.html
+https://grymoire.com/Unix/Grep.html
+https://www.grymoire.com/Unix/Sed.html
+
+https://git-scm.com/ | Git
+https://git-scm.com/docs | Git - Reference
+
+Bitbucket
+
+Git Book
+Boost your DX
 -->
