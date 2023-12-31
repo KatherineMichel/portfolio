@@ -8,6 +8,10 @@ Welcome to Kati's Portfolio!
 
 .. toctree::
    :maxdepth: 2
+   :caption: About:
+      
+.. toctree::
+   :maxdepth: 2
    :caption: Annual Reviews:
 
    2023-recap.md
@@ -28,3 +32,7 @@ Welcome to Kati's Portfolio!
    pygotham-2019-recap.md
    djangocon-us-2019-recap.md
    pycon-us-2019-recap.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Travel:
