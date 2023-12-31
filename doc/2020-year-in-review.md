@@ -1,4 +1,4 @@
-# Year in Review
+# 2020 Year in Review
 
 Thank you to [Dawn Wages](https://twitter.com/DawnWagesSays/status/1337212013014110209) for inspiring me to do a Year in Review blog post! 
 
@@ -21,7 +21,7 @@ In early February, I attended [PyCascades 2020](https://2020.pycascades.com/) fo
 
 The atmosphere at PyCascades 2020 was amazing. It was held at [Revolution Hall](https://www.revolutionhall.com/), a former high school on the east side of Portland that was renovated into an event space.
 
-![](year-in-review-images/revolution-hall.jpg)
+![](2020-year-in-review-images/revolution-hall.jpg)
 The entrance to Revolution Hall
 
 The talks were as great as you'd expect and I enjoyed the "hallway track" too. I saw many "old" friends there and made plenty of new ones. Notably, I met a number of "famous" Python folks, too. :) 
@@ -35,32 +35,32 @@ A few memorable moments:
 
 One of the highlights of the conference was eating dinner with [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum), the original author of Python, and friends at [Grassa](https://www.grassapdx.com/), a "handcrafted pasta" restaurant. Guido told us some stories from the early days of Python. It was quite an evening. 
 
-![](year-in-review-images/dinner-with-guido.jpg)
+![](2020-year-in-review-images/dinner-with-guido.jpg)
 Dinner with Guido (he's the one waving!)... what fun; photo credit: Jonan Scheffler, used with permission
 
 While I was in Portland, I also enjoyed Cuban food at [Cubo](https://www.cuboportland.com/), Lebanese and Mediterranean food at [Nicholas Restaurant](http://nicholasrestaurant.com/), and Mexican food at [La Morenita](https://www.facebook.com/La-morenita-mexican-food-687319458053736/) food truck. All of the food was super delicious and I'd love to go back and eat it again! :) 
 
-![](year-in-review-images/cubo.jpg)
+![](2020-year-in-review-images/cubo.jpg)
 Ropita at Cubo: shredded beef brisket stewed with tomato, vegetables and traditional Cuban spices, served with white rice, black beans, mango, avocado, maduros and tostone
 
-![](year-in-review-images/nicholas-restuarant.jpg)
+![](2020-year-in-review-images/nicholas-restuarant.jpg)
 Chicken Kabob Lunch Bowl at Nicholas Restaurant: chicken breast marinated in olive oil, garlic, yogurt, paprika, and lemon, served with tzatziki and toum, saffron jasmine rice, and cabbage garbanzo salad; not pictured: yummy hummus and warm pita bread
 
-![](year-in-review-images/la-morenita-food-truck.jpg)
+![](2020-year-in-review-images/la-morenita-food-truck.jpg)
 Morenita Burrito at La Morenita Food Truck: steak, chile relleno, beans, cheese, lettuce, pico de gallo, and guacamole in a flour tortilla
 
 I enjoyed a birdseye view of Portland while riding the [Portland Aerial Tram](https://www.ohsu.edu/visit/tram) and visited the picturesque [Portland Japanese Garden](https://japanesegarden.org/).
 
-![](year-in-review-images/portland-aerial-tram.jpg)
+![](2020-year-in-review-images/portland-aerial-tram.jpg)
 The view from the Portland Aerial Tram upper platform
 
-![](year-in-review-images/me-at-the-portland-japanese-garden.jpg)
+![](2020-year-in-review-images/me-at-the-portland-japanese-garden.jpg)
 Me at the Portland Japanese Garden... a kind stranger saw me taking photos and offered to take mine
 
-![](year-in-review-images/portland-japanese-garden-bridge.jpg)
+![](2020-year-in-review-images/portland-japanese-garden-bridge.jpg)
 The iconic Moon Bridge at the Portland Japanese Garden... breathtaking
 
-![](year-in-review-images/portland-japanese-garden-waterfall.jpg)
+![](2020-year-in-review-images/portland-japanese-garden-waterfall.jpg)
 The iconic Heavenly Falls at the Portland Japanese Garden... wow!
 
 From the moment I arrived in Portland, it came across as a relaxed city full of very nice people. For instance, I was pleasantly taken aback one morning, while walking down the sidewalk, when a stranger kindly said "good morning" to me. That's something I might expect in small town Kansas, not in a city as big as Portland. I loved the food truck culture. And the city itself was quirky and beautiful. It's a potentially triggering subject, but I feel it would be remiss to not acknowledge that a KKK rally took place in the downtown during one of the conference days. During the trip, as I learned more about Oregon's history of racism, I found it to be very disturbing and a reminder of the complexities in our past and, unfortunately, present.
@@ -125,7 +125,7 @@ Community:
 
 In 2017, I became an open source maintainer for the first time, then created a talk about what I'd learned about using Git and GitHub for collaboration and code review. I gave the talk at DjangoCon US 2017 (my first ever conference and talk!), PyLadies Remote, and at a DevICT Hacktoberfest meetup. 
 
-![](year-in-review-images/djangocon-us-2017-talk.jpg)
+![](2020-year-in-review-images/djangocon-us-2017-talk.jpg)
 Me on stage giving my talk at DjangoCon US 2017, my first ever conference and talk
 
 In September, a PyLadies Southwest Florida organizer came across the talk and asked me to give the talk virtually to an audience that would consist of members of PyLadies Southwest Florida, PyLadies Miami, SWFL Coders, SWFL Data, and FGCU SEC Meetup.

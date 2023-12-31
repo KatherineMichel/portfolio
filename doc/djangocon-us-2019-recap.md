@@ -1,4 +1,4 @@
-# Recap of Django US 2019
+# DjangoCon US 2019 Recap
 
 Published October 28, 2019
 
@@ -8,7 +8,7 @@ DjangoCon US 2019 took place at Mission Valley Marriott in sunny San Diego from 
 
 ### Blog Post
 
-![](recap-of-djangocon-us-2019-images/conference-attendees.jpg)
+![](djangocon-us-2019-recap-images/conference-attendees.jpg)
 
 Conference attendees out by the pool; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -22,7 +22,7 @@ Also, like DjangoCon US 2018, DjangoCon US 2019 was visibly diverse, I believe t
 
 ### Monday
 
-![](recap-of-djangocon-us-2019-images/kojo-idrissa.jpg)
+![](djangocon-us-2019-recap-images/kojo-idrissa.jpg)
 
 Kojo Idrissa kicking off DjangoCon with Orientation; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -30,7 +30,7 @@ Monday kicked off with an [Orientation and Welcome](https://2019.djangocon.us/ta
 
 [Matt Mitchell](https://twitter.com/geminiimatt), a security expert who specializes in working with marginalized groups around the world, gave the opening keynote, "[Building Community and Supporting Others](https://2019.djangocon.us/talk/keynote-matt-mitchelln/)." Matt compared community to the Model/Template/View paradigm (MTV), gave some examples of people and groups who dig deep to find inner strength, including Sheroes, Knowledge House, Torchbox, and Laura Tich of SheHacks, and challenged the audience to see the beauty in the community and be kind to each other.
 
-![](recap-of-djangocon-us-2019-images/matt-mitchell.jpg)
+![](djangocon-us-2019-recap-images/matt-mitchell.jpg)
 
 Matt Mitchell; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -46,7 +46,7 @@ After a very popular DjangoCon US 2018 talk about [uncovering gender bias in Har
 
 Monday ended with an [Opening Reception](https://2019.djangocon.us/social-event/opening-reception/) that evening on the Marriott Lawn. Guests enjoyed drinks and food from buffet-style food stations... the mac and cheese bar was a huge hit!
 
-![](recap-of-djangocon-us-2019-images/opening-reception.jpg)
+![](djangocon-us-2019-recap-images/opening-reception.jpg)
 
 Opening Reception; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -58,7 +58,7 @@ As a side note, after DjangoCon US 2018, a [draft DEP dissolving Django Core](ht
 
 This year, Carlton gave a "[Framework Update](https://2019.djangocon.us/talk/framework-update-carlton-gibson/)." Progress is happening in Django core: the 1328 accepted tickets that existed last year were reduced to 1262 this year, with over 1000 new tickets opened; more than 1200 commits to master branch were made from 290 separate contributors, including new contributors and more contributors overall. Carlton gave examples of areas where individuals or self-organized groups could make improvements to Django core and its docs that could have a massive positive impact. Carlton again extended the invitation, "You're web framework still needs you! Come and join us."
 
-![](recap-of-djangocon-us-2019-images/carlton-gibson.jpg)
+![](djangocon-us-2019-recap-images/carlton-gibson.jpg)
 
 Carlton Gibson; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -66,7 +66,7 @@ Carlton Gibson; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 [Jessica Rose](https://twitter.com/jesslynnrose) kicked off Tuesday with a keynote about a very important topic: "[Burnout and Balance](https://2019.djangocon.us/talk/keynote-jessica-rose/)." Using cognitive psychology and humor, she explained what occupational burnout is, the warning signs (based on the Mayo Clinic diagnostic survey for burnout), and strategies for preventing it or reducing the negative impact of it. I found these strategies very practical and plan to apply them in life. A few strategies in particular: take care of yourself first ("put on your own airmask before helping other people"), invest your energy selectively, and learn to say no.
 
-![](recap-of-djangocon-us-2019-images/jessica-rose.jpg)
+![](djangocon-us-2019-recap-images/jessica-rose.jpg)
 
 Jessica Rose giving a burnout demonstration; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -80,7 +80,7 @@ As a maintainer of [Pinax](https://github.com/pinax/), I'm always on the lookout
 
 As a [DEFNA Board Member](https://www.defna.org/) and [DjangoCon US Website Chair](https://2019.djangocon.us/), I was treated to dinner on Tuesday evening at the nearby Yard House restaurant, along with speakers, emcees, patrons, and other organizers. It was a pleasure to attend. The atmosphere was warm and relaxed, filled with good conversation and laughs. I got to know my fellow-attendees better. 
 
-![](recap-of-djangocon-us-2019-images/thank-you-dinner.jpg)
+![](djangocon-us-2019-recap-images/thank-you-dinner.jpg)
 
 Special "thank you" dinner; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -88,13 +88,13 @@ Plates of appetizers were passed around the tables to share, filled with Wiscons
 
 After dinner, a cake was brought out for a special recognition of the longtime service of DjangoCon US volunteer [Ken Whitesell](https://twitter.com/KenWhitesell). Thank you, Ken!
 
-![](recap-of-djangocon-us-2019-images/ken-being-honored.jpg)
+![](djangocon-us-2019-recap-images/ken-being-honored.jpg)
 
 Ken being honored; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ### Deep-Dive Day
 
-![](recap-of-djangocon-us-2019-images/deep-dive-day.jpg)
+![](djangocon-us-2019-recap-images/deep-dive-day.jpg)
 
 Deep-dive day; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -117,7 +117,7 @@ What could be more timely than several deep-dive day talks grappling with these 
 
 I was thrilled that morning when I met Amber at breakfast. 
 
-![](recap-of-djangocon-us-2019-images/amber-brown.jpg)
+![](djangocon-us-2019-recap-images/amber-brown.jpg)
 
 Amber Brown; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -137,7 +137,7 @@ Andrew's deep-dive day talk "[Just Add Await: Retrofitting Async Into Django](ht
 
 Andrew has done extensive research about how to add async support into Django in a safe, backwards compatible way that maintains the familiarity of the Django API. His approach is detailed in [DEP 0009 (Async in Django)](https://github.com/django/deps/blob/master/accepted/0009-async.rst), which he authored.
 
-![](recap-of-djangocon-us-2019-images/django-async.jpg)
+![](djangocon-us-2019-recap-images/django-async.jpg)
 
 Talk slide, current Django high-level architecture plus async
 
@@ -185,7 +185,7 @@ Deep-dive day ended with [Frank Wiles](https://twitter.com/fwiles) making a call
 
 Conference Chair [Jessica Deatz](https://twitter.com/__deatz__) and Co-Chair [Sara Gore](https://twitter.com/saradgore) then gave the conference closing comments and were presented with special framed photos in appreciation for their hard work.
 
-![](recap-of-djangocon-us-2019-images/jessica-and-sara.jpg)
+![](djangocon-us-2019-recap-images/jessica-and-sara.jpg)
 
 Jessica and Sara closing out yet another wonderful conference; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -195,7 +195,7 @@ Sprints took place on Thursday and Friday
 
 On the first day of sprints, Carlton Gibson led a workshop "[How to Contribute to Django](https://2019.djangocon.us/how-to-contribute-django/)." More people than expected showed up and we had to move to a larger area. 
 
-![](recap-of-djangocon-us-2019-images/carlton-gibson-and-sprinters.jpg)
+![](djangocon-us-2019-recap-images/carlton-gibson-and-sprinters.jpg)
 
 Carlton Gibson helping at a table of sprinters; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -221,13 +221,13 @@ Here are some highlights:
 
 The night of my arrival, I enjoyed a simple, but magical evening in downtown San Diego's [Little Italy district](https://www.littleitalysd.com/). After eating delicious alfredo and zucchini pasta for supper at [Landini's Pizzeria](https://www.landinispizzeria.com/menu/), I wandered through the large, open-air [piazza](https://www.littleitalysd.com/explore/piazza-della-famiglia). People relaxed at tables, eating ice cream and Italian food, under the colorful lights strung overhead, amid the sound of accoustic guitar music and water flowing in a nearby fountain. 
 
-![](recap-of-djangocon-us-2019-images/little-italy-piazza.jpg)
+![](djangocon-us-2019-recap-images/little-italy-piazza.jpg)
 
 Little Italy piazza; photo credit: Katherine Michel
 
 I happened to look down the street at the marina in the distance. For several breathtaking minutes, I gazed at the boats and water dramatically illuminated by a pastel sunset. Wow!
 
-![](recap-of-djangocon-us-2019-images/sunset-illuminating-the-marina.jpg)
+![](djangocon-us-2019-recap-images/sunset-illuminating-the-marina.jpg)
 
 Looking down the street at the sunset illuminating the marina; photo credit: Katherine Michel
 
@@ -237,53 +237,53 @@ This year, I wanted to see some other San Diego beaches, so I traveled to [Missi
 
 Walking along Mission Beach boardwalk, for the first time, I experienced the quintessential California culture I had read about and seen on TV. On the strip, there were brightly painted taco, ice cream, and surf shops. The boardwalk was lined with cottages and palm trees. In the distance, beachgoers sunbathed, swam, made sand castles, ran along the water and played beach volleyball. Surfers in body suits carried their surfboards to and from the ocean. Rollerbladers deftly maneuvered through the crowds.
 
-![](recap-of-djangocon-us-2019-images/mission-beach.jpg)
+![](djangocon-us-2019-recap-images/mission-beach.jpg)
 
 Mission Beach; photo credit: Katherine Michel
 
 At Ocean Beach, I walked to the end of the pier, the longest concrete pier on the west coast at 1,971 feet, for a panoramic view of the ocean and beach.
 
-![](recap-of-djangocon-us-2019-images/ocean-beach-pier.jpg)
+![](djangocon-us-2019-recap-images/ocean-beach-pier.jpg)
 
 Walking to the end of Ocean Beach Pier; photo credit: Katherine Michel
 
-![](recap-of-djangocon-us-2019-images/ocean-beach-from-pier.jpg)
+![](djangocon-us-2019-recap-images/ocean-beach-from-pier.jpg)
 
 Looking out at Ocean Beach from the pier; photo credit: Katherine Michel
 
 Afterward, I returned to San Diego proper and embarked on a tour of [Tijuana](https://en.wikipedia.org/wiki/Tijuana). For me, an important part of having the opportunity to travel is to learn about and enjoy the local culture and this was the perfect opportunity to do that. I was amazed to find out that the border between the US and Mexico can be reached from downtown San Diego in about 45 minutes by Trolley. Led by a tour guide who grew up Tijuana, we were issued one-day visas, then walked into Mexico. We went to the Tijuana Wax Museum, walked the downtown, ate tacos, and went to a club.
 
-![](recap-of-djangocon-us-2019-images/street-market-in-tijuana.jpg)
+![](djangocon-us-2019-recap-images/street-market-in-tijuana.jpg)
 
 Walking through a street market in Tijuana; photo credit: Katherine Michel
 
 Later in the week, I walked the [embarcadero](https://www.portofsandiego.org/where-to-go/embarcadero), went to the [Midway](https://www.midway.org/) museum, and took a cruise of the harbor. With a clear blue sky and water the gorgeous pictures practically take themselves at the embarcadero. The Midway museum was incredible. I particularly enjoying standing at the end of the deck on a walkway suspended above the ocean, then taking the Bridge Tour, which included the Flight Control, Chart Room, Navigation Bridge, and Admiral and Captain's Quarters. And the harbor cruise was a great way to relax at the end. The ship circled the bay with the Captain pointing out the notable sights. The California sea lions were a highlight for me, as well as the stunning San Diego skyline.
 
-![](recap-of-djangocon-us-2019-images/embarcadero.jpg)
+![](djangocon-us-2019-recap-images/embarcadero.jpg)
 
 Beautiful view along the embarcadero; photo credit: Katherine Michel
 
-![](recap-of-djangocon-us-2019-images/midway-bridge-and-plane.jpg)
+![](djangocon-us-2019-recap-images/midway-bridge-and-plane.jpg)
 
 Midway Bridge and plane; photo credit: Katherine Michel
 
-![](recap-of-djangocon-us-2019-images/midway-hangar-deck.jpg)
+![](djangocon-us-2019-recap-images/midway-hangar-deck.jpg)
 
 View of the Midway Hangar Deck from the Navigation Bridge; photo credit: Katherine Michel
 
-![](recap-of-djangocon-us-2019-images/harbor-cruise.jpg)
+![](djangocon-us-2019-recap-images/harbor-cruise.jpg)
 
 View of the San Diego skyline from harbor cruise; photo credit: Katherine Michel
 
 That night, I went to the [Taco Stand](http://downtown.letstaco.com/) where I enjoyed a Carne Asada Taco and Grilled Pescado Taco (Mahi Mahi). I had never had a fish taco before. The combination of grilled fish, cabbage, and chipotle sauce was delicious in a way I hadn't anticipated. Thank you to [Trey Hunner](https://twitter.com/treyhunner) for one of many great recommendations.
 
-![](recap-of-djangocon-us-2019-images/taco-stand.jpg)
+![](djangocon-us-2019-recap-images/taco-stand.jpg)
 
 Yummy tacos at Taco Stand; photo credit: Katherine Michel
 
 Afterward, for dessert, I visited [Salt and Straw](https://saltandstraw.com/flavors/#sd) ice cream shop in Little Italy. Their ice cream cups are a familar sight in Little Italy. I am still dreaming of the Sea Salt with Caramel Ribbons ice cream I had there that night. Can't wait to go back sometime.
 
-![](recap-of-djangocon-us-2019-images/salt-and-straw-ice-cream.jpg)
+![](djangocon-us-2019-recap-images/salt-and-straw-ice-cream.jpg)
 
 Delicious Salt and Straw ice cream; photo credit: Katherine Michel
 
@@ -295,6 +295,6 @@ My DjangoCon experience couldn't have been better. I learned a ton, networked wi
 
 Join us next year... ?
 
-![](recap-of-djangocon-us-2019-images/organizers.jpg)
+![](djangocon-us-2019-recap-images/organizers.jpg)
 
 Organizers, including me; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)

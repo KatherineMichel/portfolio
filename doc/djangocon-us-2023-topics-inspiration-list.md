@@ -1,4 +1,4 @@
-# Topic Ideas- DjangoCon US 2023
+# DjangoCon US 2023 Topics Inspiration List
 
 Published May 6, 2023
 

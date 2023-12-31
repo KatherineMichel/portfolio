@@ -1,4 +1,4 @@
-# Recap of PyCon US 2019
+# PyCon US 2019 Recap
 
 Published June 1, 2019
 
@@ -8,7 +8,7 @@ PyCon US 2019 took place at Huntington Convention Center in downtown Cleveland, 
 
 ### Blog Post
 
-![](recap-of-pycon-us-2019-images/cleveland-sign.jpg)
+![](pycon-us-2019-recap-images/cleveland-sign.jpg)
 
 Cleveland script sign at Edgewater Park, with a lovely view of downtown Cleveland as a backdrop; photo credit: Katherine Michel
 
@@ -30,7 +30,7 @@ Even though I didn’t know what to expect at PyCon, I knew there would be more 
 
 As people began to tweet that they were on their way to Cleveland, the anticipation began to build. Kushal Das [tweeted](https://twitter.com/KatiMichel/status/1123277599348707328) that SFO was filling up for PyCon, including the BDFL [Guido van Rossum](https://twitter.com/gvanrossum)! I replied, “I’m getting so excited!” I was gobsmacked when Guido then followed me on Twitter. I immediately felt quite welcome and certain that I would have a great PyCon!
 
-![](recap-of-pycon-us-2019-images/guido-tweet.png)
+![](pycon-us-2019-recap-images/guido-tweet.png)
 
 My tweet after being followed on Twitter by Guido
 
@@ -48,11 +48,11 @@ The main conference kicked off on Friday, with an [impressive keynote](https://w
 
 That morning, I began fulfilling one of my goals as a [DEFNA](https://www.defna.org/) Board Member. DEFNA is the Django Events Foundation North America. We oversee DjangoCon US and facilitate outreach and local events across all of North America, including Canada, the U.S., Mexico, and a number of other countries and territories. I represented DEFNA at the [PyCon Charlas](https://us.pycon.org/2019/hatchery/charlas/). I’m thrilled that throughout the week I got to know many members of the Mexican and Latin American communities who can benefit from DEFNA’s services.
 
-![](recap-of-pycon-us-2019-images/defna-and-pycon-charlas.png)
+![](pycon-us-2019-recap-images/defna-and-pycon-charlas.png)
 
 Tweets in Español and English for DEFNA representation at PyCon Charlas
 
-![](recap-of-pycon-us-2019-images/pylatam.jpg)
+![](pycon-us-2019-recap-images/pylatam.jpg)
 
 Me and Joel Rivera with the PyLatam Logo
 
@@ -70,7 +70,7 @@ Later that morning, I spent as much time as I could at the [Maintainer’s Summi
 
 On Saturday afternoon, even though I hadn’t had time to check out the [Open Spaces](https://us.pycon.org/2019/events/open-spaces/) board, I’m quite pleased to say I ended up at an open space for chocolate! A friend alerted me to the open space as it was going on and of course, as a chocolate lover, I couldn’t resist immediately heading there to sample some.
 
-![](recap-of-pycon-us-2019-images/chocolate-open-space.jpg)
+![](pycon-us-2019-recap-images/chocolate-open-space.jpg)
 
 A selection of chocolate on the table at the Chocolate Open Space; photo credit: Katherine Michel
 
@@ -82,7 +82,7 @@ After I was finished at the booth, I attended the PyLadies Auction. The auction 
 
 Another highlight of PyCon for me was meeting [Dr. Naomi Ceder](https://twitter.com/NaomiCeder), [Lorena Mesa](https://twitter.com/loooorenanicole), [Jackie Kazil](https://twitter.com/JackieKazil), [Katie Cunningham](https://twitter.com/kcunning), and [Lynn Root](https://twitter.com/roguelynn), all of whom play an important role in the PyLadies Auction and in promoting diversity in the Python community.
 
-![](recap-of-pycon-us-2019-images/pyladies-auction.jpg)
+![](pycon-us-2019-recap-images/pyladies-auction.jpg)
 
 The portrait of Guido being carried around by PyLadies; photo credit: Katherine Michel
 
@@ -92,7 +92,7 @@ On Sunday, I attended the [PyLadies Lunch](https://us.pycon.org/2019/events/pyla
 
 After the PyLadies Lunch, I walked from the convention center a few blocks to take a [30 minute self-guided tour of the Terminal Tower Observation Deck](https://www.eventbrite.com/e/terminal-tower-observation-deck-self-guided-tour-tickets-33127241471). When I was researching the sights around Cleveland, I’d had a hunch that I would enjoy seeing the Cleveland skyline from the top of this famous landmark and I did!
 
-![](recap-of-pycon-us-2019-images/terminal-tower.jpg)
+![](pycon-us-2019-recap-images/terminal-tower.jpg)
 
 Cleveland skyline as seen from the Terminal Tower Observation Deck; photo credit: Katherine Michel
 
@@ -102,13 +102,13 @@ The main conference ended on Sunday and the [Development Sprints](https://us.pyc
 
 After several overcast days, the sun finally came out on Monday morning. Even though I would miss a bit of sprinting, I decided to take advantage of the nice weather and visit one of the sight seeing spots I had chosen, [Edgewater Park](https://www.clevelandmetroparks.com/parks/visit/parks/lakefront-reservation/edgewater-park) along [Lake Erie](https://en.wikipedia.org/wiki/Lake_Erie). Having lived in Kansas most of my life, it’s always a pleasure to enjoy a beach and something I make a priority.
 
-![](recap-of-pycon-us-2019-images/edgewater-park.jpg)
+![](pycon-us-2019-recap-images/edgewater-park.jpg)
 
 A peaceful scene at Edgewater Park; photo credit: Katherine Michel
 
 Back at the sprints, I spent time in the CPython Sprint. I remember back to the 2016 [PyLadies tweet](https://twitter.com/mariatta/status/737689052736978945) that led [Mariatta](https://twitter.com/mariatta) to become a CPython Core Developer. She's one of my heroes and I love having the chance to see her in person!
 
-![](recap-of-pycon-us-2019-images/me-and-mariatta.jpg)
+![](pycon-us-2019-recap-images/me-and-mariatta.jpg)
 
 Mariatta and I taking a selfie for her self-care Selfie Sprint!
 
@@ -116,7 +116,7 @@ Throughout the week, I had the chance to meet a number of CPython and Django Cor
 
 On my last full day of PyCon, I left the sprints to spend a large part of the day at the [Rock and Roll Hall of Fame Museum](https://www.rockhall.com/). The museum has an incredible collection of rock and roll memorabilia and I highly recommend going, if you get the chance. A few of my favorite items were John Lennon and Paul McCartney’s In My Life handwritten lyrics and Hey Jude descriptive score, Elvis Presley’s gold lamé suit, and Michael Jackson’s Dangerous Tour “Billie Jean” glove.
 
-![](recap-of-pycon-us-2019-images/rock-and-roll-hall-of-fame.jpg)
+![](pycon-us-2019-recap-images/rock-and-roll-hall-of-fame.jpg)
 
 The Beatles Exhibit at the Rock and Roll Hall of Fame Museum; photo credit; Katherine Michel
 

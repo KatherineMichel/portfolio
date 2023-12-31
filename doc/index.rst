@@ -11,10 +11,10 @@ Welcome to Kati's Portfolio!
    :caption: Table of Contents:
 
    2023-recap.md
-   recap-of-djangocon-us-2023.md
-   topic-ideas-djangocon-us-2023.md
-   year-in-review.md
+   djangocon-us-2023-recap.md
+   djangocon-us-2023-topics-inspiration-list.md
+   2020-year-in-review.md
    reflections-on-stanford-code-in-place.md
-   recap-of-pygotham-2019.md
-   recap-of-djangocon-us-2019.md
-   recap-of-pycon-us-2019.md
+   pygotham-2019-recap.md
+   djangocon-us-2019-recap.md
+   pycon-us-2019-recap.md
