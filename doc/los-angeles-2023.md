@@ -30,7 +30,7 @@
 
 ### Academy Museum of Motion Pictures
 
-### Pederson Automotive Museum
+### Petersen Automotive Museum
 
 ## Sunday
 
