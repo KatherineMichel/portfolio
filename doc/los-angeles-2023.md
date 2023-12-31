@@ -50,7 +50,7 @@
 
 ### Los Angeles City Hall Observation Deck
 
-### Bruno's Restorante Italiano
+### Bruno's Ristorante Italiano
 
 ## Tuesday
 
@@ -70,7 +70,7 @@
 
 ### Via Alloro
 
-### Bruno's Restorante Italiano
+### Bruno's Ristorante Italiano
 
 ## Thursday
 
