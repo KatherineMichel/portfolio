@@ -17,4 +17,9 @@ Welcome to Kati's Portfolio!
    reflections-on-stanford-code-in-place.md
    pygotham-2019-recap.md
    djangocon-us-2019-recap.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Conferences Blog Posts
+
    pycon-us-2019-recap.md
