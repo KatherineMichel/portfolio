@@ -23,23 +23,22 @@ Django Features and Release
 
 Python and Django Authorities
 * [Simon Willison](https://simonwillison.net/)
+* [Carlton Gibson](https://noumenal.es/)
 * [Łukasz Langa](https://lukasz.langa.pl/python/developer-in-residence/)
 * [Seth M Larson](https://sethmlarson.dev/)
 * [Brett Cannon](https://snarky.ca/)
 * [Hynek Schlawack](https://hynek.me/)
 * [Adam Johnson](https://adamj.eu/)
 * [William Vincent](https://learndjango.com/)
+* [Eric Matthes](https://ehmatthes.com/)
 * [Anthony Sottile](https://www.youtube.com/anthonywritescode)
 * [Matt Layman](https://www.mattlayman.com/)
-
-Carlton
-
-Eric Matthes
 
 Python Books
 * [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920)
 * [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
 * [Beyond the Basic Stuff with Python](https://nostarch.com/beyond-basic-stuff-python)
+* [Serious Python](https://nostarch.com/seriouspython)
 
 Python Tutorials and Teachers
 * [Real Python](https://realpython.com/)
@@ -103,6 +102,7 @@ How CPython Works
 * [CPython Source Code Guide](https://realpython.com/cpython-source-code-guide/ )
 * [CPython Internals Book](https://realpython.com/products/cpython-internals-book/)
 * [Building a Python C Extension Module](https://realpython.com/build-python-c-extension-module/)
+* [Compilers: Principles, Techniques, Tools (a.k.a. "The Dragon Book")](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
 
 Engineering and Management
 * [High Output Management](https://www.amazon.com/dp/B015VACHOK)
@@ -133,34 +133,30 @@ Product
 * [Open Product Management](https://github.com/ProductHired/open-product-management)
 * [Top 100 Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers)
 
+Podcasts
+* [Lex Fridman](https://www.youtube.com/c/lexfridman)
+
 Certifications
 * [AWS Certifications](https://aws.amazon.com/certification/)
 * [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
 
 <!--
-Lex Friedman
+Natalia
+Mariusz
 
 https://www.developing.dev/p/5-skills-all-10x-engineers-have
 https://twitter.com/ryanlpeterman/
 
-
-Dragon Book
-https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811
 
 https://podcasters.spotify.com/pod/show/corepy/episodes/
 
 https://www.youtube.com/watch?v=PGZPSWZSkJI | Python 3.11 Release - YouTube
 https://www.youtube.com/watch?v=AHT2l3hcIJg | (8) Python 3.10 Release Stream — with Pablo Galindo - YouTube
 
-
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-https://nostarch.com/seriouspython | Serious Python | No Starch Press
-
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 PyVideo
-
 
 
 
@@ -186,6 +182,8 @@ Memory
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
 https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 
 http://highscalability.com/start-here/ | Start Here - High Scalability -
 http://highscalability.com/all-time-favorites/ | All Time Favorites -
