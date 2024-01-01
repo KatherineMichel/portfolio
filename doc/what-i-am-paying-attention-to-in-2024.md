@@ -28,18 +28,37 @@ Django Features and Release
 
 ## Python and Django Authorities
 
+Django co-founder and prolific tinkerer and public speaker. Check out his work with Datasette and LLMs. 
 * [Simon Willison](https://simonwillison.net/)
+
+Current and former Django Fellows. 
 * [Carlton Gibson](https://noumenal.es/)
 * [Natalia Bidart and Mariusz Felisiak](https://www.djangoproject.com/weblog/)
+
+Current CPython Developer-in-Residence. 
 * [Łukasz Langa](https://lukasz.langa.pl/python/developer-in-residence/)
+
+PSF Security Developer-in-Residence. 
 * [Seth M Larson](https://sethmlarson.dev/)
+
+Podcst by CPython Release Manager Pablo Galindo and CPython Developer-in-Residence Łukasz Langa
 * [core.py Podcast](https://podcasters.spotify.com/pod/show/corepy/)
+
+CPython Core Dev and Microsoft faster CPython team member. 
 * [Brett Cannon](https://snarky.ca/)
-* [Hynek Schlawack](https://hynek.me/)
-* [Adam Johnson](https://adamj.eu/)
+
+Author of a group of outstanding Django books and co-creator of Django News Newsletter. 
 * [William Vincent](https://learndjango.com/)
+
+Author of my favorite Python book "Python Crash Course." 
 * [Eric Matthes](https://ehmatthes.com/)
+
+Highly-skilled, opinionated developers and release managers who maintain a number of packages important to the Python/Django community
+* [Adam Johnson](https://adamj.eu/)
+* [Hynek Schlawack](https://hynek.me/)
 * [Anthony Sottile](https://www.youtube.com/anthonywritescode)
+
+Author of a great Django blog. 
 * [Matt Layman](https://www.mattlayman.com/)
 
 ## Python Books
@@ -51,33 +70,57 @@ Django Features and Release
 
 ## Python Tutorials and Teachers
 
+Outstanding Python tutorials. 
 * [Real Python](https://realpython.com/)
+
+Outstanding Python tutorials, with an emphasis on testing. 
 * [Test Driven](https://testdriven.io/blog/)
+
+Curated Python content. 
 * [Full Stack Python](https://www.fullstackpython.com)
+
+Coding problems and tutorials by my friend Trey. He is an amazing teacher. 
 * [Python Morsels](https://www.pythonmorsels.com/articles/)
 * [Trey Hunner](https://treyhunner.com/)
 
 ## General Python and Django Learning Resources
 
+Popular documentation framework. 
 * [Diátaxis](https://diataxis.fr/)
+
+General Python resources
 * [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 * [Python Patterns](https://python-patterns.guide/)
 * [Google's PyGuide](https://google.github.io/styleguide/pyguide.html)
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
+
+The go-to intermediate to expert Django book. 
 * [Two Scoops of Django 3.x](https://www.feldroy.com/books/two-scoops-of-django-3-x)
+
+Great, new-ish Python newsletter. 
 * [Bite Code](https://www.bitecode.dev/)
+
+A fabulous Django newsletter published every Friday, with all the most important Django news. 
 * [Django News](https://django-news.com/)
   
 ## Data Structures and Algorithms
 
+The must-read (once) algorithms book. 
 * [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/)
+
+Coding challenges. 
 * [Advent of Code](https://adventofcode.com/)
 * [NeetCode](https://neetcode.io/)
+
+Course by the high profile Primeagen of Netflix. Does it live up to its name? 
 * [The Last Algorithms Course You'll Need](https://theprimeagen.github.io/fem-algos/)
 
 ## APIs and Databases
 
+A tool I use and want to read up on. 
 * [Django REST Framework](https://www.django-rest-framework.org/)
+
+I work in a database department and as such would like to better understand database capabilities. See also Simon Willison for SQLite experimentation. 
 * [Cockroach Labs](https://www.cockroachlabs.com/)
 * [Cockroach University](https://university.cockroachlabs.com/courses/)
 * [PostgreSQL Docs](https://www.postgresql.org/docs/)
@@ -85,27 +128,44 @@ Django Features and Release
 
 ## Testing
 
+Brian Okken's must-read pytest book.  
 * [Python Testing with pytest](https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition/)
+
+Outstanding, free testing lessons, at one time overseen by my friend Andy Pandy, testing expert. 
 * [Test Automation University](https://testautomationu.applitools.com/)
+
+Django test performance by the excellent Adam Johnson. 
 * [Speed Up Your Django Tests](https://adamchainz.gumroad.com/l/suydt)
 
 ## Refactoring, Patterns, Clean Code
 
+Martin Fowler is the patterns GOAT. I'd like to spend more time reading more of his work and applying it in real life. Refactoring 2nd Edition was updated in JavaScript. Patterns of Enterprise Application Architecture is said to be dated.  
 * [Martin Fowler](https://martinfowler.com)
 * [Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 * [Refactoring Catalog](https://refactoring.com/catalog/)
 * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+
+Uncle Bob's controversial Clean Code. Not everyone likes him or his work, but it has clearly been influential. 
 * [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
+
+Detailed list of coding considerations. 
 * [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+
+Exactly what the title says. 
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## General Engineering Resources
 
+Julie is an outstanding teacher. Check out her blog posts and 'zines.  
 * [Julia Evans](https://jvns.ca/)
 * [Wizard Zines](https://wizardzines.com/)
+
+Several new-ish (or new-to-me) blogs that stand out. 
 * [Architecture Notes](https://architecturenotes.co/)
 * [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 * [The Developing Dev](https://www.developing.dev/)
+
+Perhaps this is dated, but I'd like to know more. 
 * [High Performance Web Sites Blog](http://stevesouders.com/)
 
 ## How Companies Do Things
@@ -120,7 +180,7 @@ Information about how companies do testing and SRE.
 The go-to system design learning resources. 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
-
+A classic blog about system architecture. Also happens to be "for sale." See the December 11 post and respond if you are serious. 
 * [High Scalability](http://highscalability.com/)
 
 ## How CPython Works
