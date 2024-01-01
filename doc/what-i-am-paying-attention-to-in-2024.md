@@ -110,14 +110,22 @@ Django Features and Release
 
 ## How Companies Do Things
 
+A curated list of engineering blogs including most, if not all, of the leading tech companies, and many others too. 
 * [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+
+Information about how companies do testing and SRE. 
 * [How They Test](https://github.com/abhivaikar/howtheytest)
 * [How They SRE](https://github.com/upgundecha/howtheysre)
+
+The go-to system design learning resources. 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
+
+
 * [High Scalability](http://highscalability.com/)
 
 ## How CPython Works
 
+Although I do not intend to divide my time between Python and C programming languages, I'd like to better understand how CPython works. 
 * [C for Python Programmers](https://realpython.com/c-for-python-programmers/)
 * [CPython Source Code Guide](https://realpython.com/cpython-source-code-guide/ )
 * [CPython Internals Book](https://realpython.com/products/cpython-internals-book/)
@@ -126,20 +134,34 @@ Django Features and Release
 
 ## Engineering and Management
 
+A legendary book by a business GOAT Andrew Grove. 
 * [High Output Management](https://www.amazon.com/dp/B015VACHOK)
+
+An instance classic by Camille Fournier, also employed by JPMorgan Chase. 
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+
+I had the pleasure of eating lunch with Sarah Drasner at GitHub Universe 2019, then got to know her on Twitter over the years. She produces outstanding work, and I know this book will be no exception. 
 * [Engineering Management for the Rest of Us](https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner-ebook/dp/B0BGYVDX35)
+
+An intriguing subject from Tania Reilly, the creator of the famous "Being Glue" talk. 
 * [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
+
+Although the Pragmatic Engineer Newsletter has not been around long, it has attracted a large following. The newsletter author wrote this book. I am intrigued. 
 * [The Software Engineer's Guidebook](https://www.engguidebook.com/)
 
 ## More Great Books
 
-* [Atomic Habits](https://jamesclear.com/atomic-habits)
+Highly recommended by many people I admire. 
 * [The Courage to Be Disliked](https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1501197274)
-* [Do Hard Things](https://www.amazon.com/Hard-Things-Resilience-Surprising-Toughness/dp/006309861X)
+
+A group of highly recommended books related to cumulative achievement and productivity. 
+* [Atomic Habits](https://jamesclear.com/atomic-habits)
 * [Tiny Habits](https://www.amazon.com/Tiny-Habits-Changes-Change-Everything/dp/0358003326)
 * [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 * [Hooked and Indistractible](https://www.nirandfar.com)
+* [Do Hard Things](https://www.amazon.com/Hard-Things-Resilience-Surprising-Toughness/dp/006309861X)
+
+An instant classic by the excellent Morgan Housel. 
 * [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681)
 
 ## Transformational Leadership
@@ -155,11 +177,12 @@ If you work in an agile/scrum environment, it's a good idea to revisit these eve
 
 ## Product
 
+One of the most important voices in product management. 
 * [Marty Cagan](https://www.linkedin.com/in/cagan)
 
-Prolific 
+Prolific author of a widely-read, product-focused blog. Recently published the excellent The Ultimate Guide to Developer Productivity. 
 * [John Cutler](https://cutlefish.substack.com/)
-* [The Ultimate Guide to Developer p](https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer)
+* [The Ultimate Guide to Developer Productivity](https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer)
 
 A couple of resources that I've had bookmarked for a while to spend some time looking through. 
 * [Open Product Management](https://github.com/ProductHired/open-product-management)
@@ -167,10 +190,10 @@ A couple of resources that I've had bookmarked for a while to spend some time lo
 
 ## Podcasts
 
-Lex Fridman talks to many of the movers and shakers of our time. 
+Interviews many of the movers and shakers of our time. 
 * [Lex Fridman](https://www.youtube.com/c/lexfridman)
 
-Harry Stebbings is an incredible example of hustle. His podcast put him on the map and helped him launch a career in VC, no small feat. Outstanding guests. 
+An incredible example of hustle. His podcast put him on the map and helped him launch a career in VC, no small feat. Outstanding guests. 
 * [The 20 Minute VC](https://www.thetwentyminutevc.com/podcast/)
 
 ## Certifications
