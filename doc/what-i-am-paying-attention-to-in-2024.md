@@ -14,13 +14,13 @@ GitHub
 
 ## Python and Django Features and Release
 
-Python Features and Release
+Python release notes, discussion forum, enhancements proposals, release livestreams (recorded)
 * [What's New](https://docs.python.org/dev/whatsnew/)
 * [Python Discuss](https://discuss.python.org)
 * [PEP Index](https://www.python.org/dev/peps)
 * [Pablo Galindo Salgado's Release Streams](https://www.youtube.com/@PythonDiscord)
 
-Django Features and Release
+Django release notes, enhancements proposals, blog, roadmap. 
 * [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
 * [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 * [Django Blog](https://www.djangoproject.com/weblog/)
@@ -63,9 +63,16 @@ Author of a great Django blog.
 
 ## Python Books
 
-* [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920)
+Classic, advanced, comprehensive Python manual. 
 * [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
+
+Idiomatic Python deep dive to level up to professional, production quality Python quickly. 
+* [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920)
+
+Some gems in this more advanced book by the excellent Al Sweigart, author of the popular Automate the Boring Stuff with Python. 
 * [Beyond the Basic Stuff with Python](https://nostarch.com/beyond-basic-stuff-python)
+
+More "battle-tested" advice from an experienced developer. 
 * [Serious Python](https://nostarch.com/seriouspython)
 
 ## Python Tutorials and Teachers
