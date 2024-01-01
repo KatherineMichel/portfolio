@@ -2,13 +2,15 @@
 
 ## Developer News
 
-News
+Projects and developers trending on GitHub. Can be filtered by Python.
 * [GitHub Trending](https://github.com/trending)
 * [GitHub Trending Python](https://github.com/trending/python)
 * [GitHub Trending Python Developers](https://github.com/trending/developers/python?since=daily)
+
+The latest tech news that makes it through the Hacker News upvote process. 
 * [Hacker News Newest](https://news.ycombinator.com/newest)
 
-GitHub
+GitHub news and changelog
 * [GitHub Blog](https://github.blog)  
 * [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
 
@@ -41,7 +43,7 @@ Current CPython Developer-in-Residence.
 PSF Security Developer-in-Residence. 
 * [Seth M Larson](https://sethmlarson.dev/)
 
-Podcst by CPython Release Manager Pablo Galindo and CPython Developer-in-Residence Łukasz Langa
+Podcast by CPython Release Manager Pablo Galindo and CPython Developer-in-Residence Łukasz Langa
 * [core.py Podcast](https://podcasters.spotify.com/pod/show/corepy/)
 
 CPython Core Dev and Microsoft faster CPython team member. 
