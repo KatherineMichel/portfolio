@@ -19,10 +19,10 @@ GitHub news and changelog
 Python release notes, discussion forum, enhancements proposals, release livestreams (recorded)
 * [What's New](https://docs.python.org/dev/whatsnew/)
 * [Python Discuss](https://discuss.python.org)
-* [PEP Index](https://www.python.org/dev/peps)
+* [PEP (Python Enhancement Proposals) Index](https://www.python.org/dev/peps)
 * [Pablo Galindo Salgado's Release Streams](https://www.youtube.com/@PythonDiscord)
 
-Django release notes, enhancements proposals, blog, roadmap. 
+Django release notes, enhancements proposals, blog, roadmap
 * [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
 * [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 * [Django Blog](https://www.djangoproject.com/weblog/)
@@ -33,26 +33,26 @@ Django release notes, enhancements proposals, blog, roadmap.
 Django co-founder and prolific tinkerer and public speaker. Check out his work with Datasette and LLMs. 
 * [Simon Willison](https://simonwillison.net/)
 
-Current and former Django Fellows. 
+Current and former Django Fellows
 * [Carlton Gibson](https://noumenal.es/)
 * [Natalia Bidart and Mariusz Felisiak](https://www.djangoproject.com/weblog/)
 
-Current CPython Developer-in-Residence. 
+Current CPython Developer-in-Residence
 * [Łukasz Langa](https://lukasz.langa.pl/python/developer-in-residence/)
 
-PSF Security Developer-in-Residence. 
+PSF Security Developer-in-Residence
 * [Seth M Larson](https://sethmlarson.dev/)
 
 Podcast by CPython Release Manager Pablo Galindo and CPython Developer-in-Residence Łukasz Langa
 * [core.py Podcast](https://podcasters.spotify.com/pod/show/corepy/)
 
-CPython Core Dev and Microsoft faster CPython team member. 
+CPython Core Dev and Microsoft faster CPython team member
 * [Brett Cannon](https://snarky.ca/)
 
-Author of a group of outstanding Django books and co-creator of Django News Newsletter. 
+Author of a group of outstanding Django books and co-creator of Django News Newsletter
 * [William Vincent](https://learndjango.com/)
 
-Author of my favorite Python book "Python Crash Course." 
+Author of my favorite Python book "Python Crash Course" 
 * [Eric Matthes](https://ehmatthes.com/)
 
 Highly-skilled, opinionated developers and release managers who maintain a number of packages important to the Python/Django community
@@ -60,32 +60,32 @@ Highly-skilled, opinionated developers and release managers who maintain a numbe
 * [Hynek Schlawack](https://hynek.me/)
 * [Anthony Sottile](https://www.youtube.com/anthonywritescode)
 
-Author of a great Django blog. 
+Author of a great Django blog
 * [Matt Layman](https://www.mattlayman.com/)
 
 ## Python Books
 
-Classic, advanced, comprehensive Python manual. 
+Classic, advanced, comprehensive Python manual 
 * [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
 
-Idiomatic Python deep dive to level up to professional, production quality Python quickly. 
+Idiomatic Python deep dive to level up to professional, production quality Python quickly 
 * [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920)
 
-Some gems in this more advanced book by the excellent Al Sweigart, author of the popular Automate the Boring Stuff with Python. 
+Some gems in this more advanced book by the excellent Al Sweigart, author of the popular Automate the Boring Stuff with Python 
 * [Beyond the Basic Stuff with Python](https://nostarch.com/beyond-basic-stuff-python)
 
-More "battle-tested" advice from an experienced developer. 
+More "battle-tested" advice from an experienced developer
 * [Serious Python](https://nostarch.com/seriouspython)
 
 ## Python Tutorials and Teachers
 
-Outstanding Python tutorials. 
+Outstanding Python tutorials 
 * [Real Python](https://realpython.com/)
 
-Outstanding Python tutorials, with an emphasis on testing. 
+Outstanding Python tutorials, with an emphasis on testing 
 * [Test Driven](https://testdriven.io/blog/)
 
-Curated Python content. 
+Curated Python content
 * [Full Stack Python](https://www.fullstackpython.com)
 
 Coding problems and tutorials by my friend Trey. He is an amazing teacher. 
@@ -94,7 +94,7 @@ Coding problems and tutorials by my friend Trey. He is an amazing teacher.
 
 ## General Python and Django Learning Resources
 
-Popular documentation framework. 
+Popular documentation framework 
 * [Diátaxis](https://diataxis.fr/)
 
 General Python resources
@@ -103,21 +103,21 @@ General Python resources
 * [Google's PyGuide](https://google.github.io/styleguide/pyguide.html)
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
-The go-to intermediate to expert Django book. 
+The go-to intermediate to expert Django book
 * [Two Scoops of Django 3.x](https://www.feldroy.com/books/two-scoops-of-django-3-x)
 
-Great, new-ish Python newsletter. 
+Great, new-ish Python newsletter
 * [Bite Code](https://www.bitecode.dev/)
 
-A fabulous Django newsletter published every Friday, with all the most important Django news. 
+A fabulous Django newsletter published every Friday, with all the most important Django news 
 * [Django News](https://django-news.com/)
   
 ## Data Structures and Algorithms
 
-The must-read (once) algorithms book. 
+The must-read algorithms book
 * [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/)
 
-Coding challenges. 
+Coding challenges
 * [Advent of Code](https://adventofcode.com/)
 * [NeetCode](https://neetcode.io/)
 
@@ -126,7 +126,7 @@ Course by the high profile Primeagen of Netflix. Does it live up to its name?
 
 ## APIs and Databases
 
-A tool I use and want to read up on. 
+A tool I use and want to read up on 
 * [Django REST Framework](https://www.django-rest-framework.org/)
 
 I work in a database department and as such would like to better understand database capabilities. See also Simon Willison for SQLite experimentation. 
@@ -137,13 +137,13 @@ I work in a database department and as such would like to better understand data
 
 ## Testing
 
-Brian Okken's must-read pytest book.  
+Brian Okken's must-read pytest book  
 * [Python Testing with pytest](https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition/)
 
-Outstanding, free testing lessons, at one time overseen by my friend Andy Pandy, testing expert. 
+Outstanding, free testing lessons, at one time overseen by my friend Andy "Automation Panda" Knight, testing expert. 
 * [Test Automation University](https://testautomationu.applitools.com/)
 
-Django test performance by the excellent Adam Johnson. 
+Django test performance by the excellent Adam Johnson 
 * [Speed Up Your Django Tests](https://adamchainz.gumroad.com/l/suydt)
 
 ## Refactoring, Patterns, Clean Code
@@ -157,10 +157,10 @@ Martin Fowler is the patterns GOAT. I'd like to spend more time reading more of 
 Uncle Bob's controversial Clean Code. Not everyone likes him or his work, but it has clearly been influential. 
 * [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
 
-Detailed list of coding considerations. 
+Detailed list of coding considerations
 * [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
-Exactly what the title says. 
+Exactly what the title says
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## General Engineering Resources
@@ -169,24 +169,24 @@ Julie is an outstanding teacher. Check out her blog posts and 'zines.
 * [Julia Evans](https://jvns.ca/)
 * [Wizard Zines](https://wizardzines.com/)
 
-Several new-ish (or new-to-me) blogs that stand out. 
+Several new-ish (or new-to-me) blogs that stand out 
 * [Architecture Notes](https://architecturenotes.co/)
 * [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 * [The Developing Dev](https://www.developing.dev/)
 
-Perhaps this is dated, but I'd like to know more. 
+Perhaps this is dated, but I'd like to know more
 * [High Performance Web Sites Blog](http://stevesouders.com/)
 
 ## How Companies Do Things
 
-A curated list of engineering blogs including most, if not all, of the leading tech companies, and many others too. 
+A curated list of engineering blogs including most, if not all, of the leading tech companies, and many others too 
 * [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
-Information about how companies do testing and SRE. 
+Information about how companies do testing and SRE 
 * [How They Test](https://github.com/abhivaikar/howtheytest)
 * [How They SRE](https://github.com/upgundecha/howtheysre)
 
-The go-to system design learning resources. 
+The go-to system design learning resource 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 A classic blog about system architecture. Also happens to be "for sale." See the December 11 post and respond if you are serious. 
@@ -203,10 +203,10 @@ Although I do not intend to divide my time between Python and C programming lang
 
 ## Engineering and Management
 
-A legendary book by a business GOAT Andrew Grove. 
+A legendary book by a business GOAT Andrew Grove 
 * [High Output Management](https://www.amazon.com/dp/B015VACHOK)
 
-An instance classic by Camille Fournier, also employed by JPMorgan Chase. 
+An instant classic by Camille Fournier, also employed by JPMorgan Chase 
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 
 I had the pleasure of eating lunch with Sarah Drasner at GitHub Universe 2019, then got to know her on Twitter over the years. She produces outstanding work, and I know this book will be no exception. 
@@ -220,17 +220,17 @@ Although the Pragmatic Engineer Newsletter has not been around long, it has attr
 
 ## More Great Books
 
-Highly recommended by many people I admire. 
+Highly recommended by many people I admire
 * [The Courage to Be Disliked](https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1501197274)
 
-A group of highly recommended books related to cumulative achievement and productivity. 
+A group of highly recommended books related to cumulative achievement and productivity 
 * [Atomic Habits](https://jamesclear.com/atomic-habits)
 * [Tiny Habits](https://www.amazon.com/Tiny-Habits-Changes-Change-Everything/dp/0358003326)
 * [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692)
 * [Hooked and Indistractible](https://www.nirandfar.com)
 * [Do Hard Things](https://www.amazon.com/Hard-Things-Resilience-Surprising-Toughness/dp/006309861X)
 
-An instant classic by the excellent Morgan Housel. 
+An instant classic by the excellent Morgan Housel
 * [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681)
 
 ## Transformational Leadership
@@ -246,7 +246,7 @@ If you work in an agile/scrum environment, it's a good idea to revisit these eve
 
 ## Product
 
-One of the most important voices in product management. 
+One of the most important voices in product management 
 * [Marty Cagan](https://www.linkedin.com/in/cagan)
 
 Prolific author of a widely-read, product-focused blog. Recently published the excellent The Ultimate Guide to Developer Productivity. 
@@ -259,7 +259,7 @@ A couple of resources that I've had bookmarked for a while to spend some time lo
 
 ## Podcasts
 
-Interviews many of the movers and shakers of our time. 
+Interviews many of the movers and shakers of our time 
 * [Lex Fridman](https://www.youtube.com/c/lexfridman)
 
 An incredible example of hustle. His podcast put him on the map and helped him launch a career in VC, no small feat. Outstanding guests. 
