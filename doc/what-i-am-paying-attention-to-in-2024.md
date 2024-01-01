@@ -12,7 +12,7 @@ The latest tech news that makes it through the Hacker News upvote process.
 
 GitHub news and changelog
 * [GitHub Blog](https://github.blog)  
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+* [GitHub Changelog](https://github.blog/changelog/)
 
 ## Python and Django Features and Release
 
