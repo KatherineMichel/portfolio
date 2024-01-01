@@ -19,8 +19,9 @@ Welcome to Kati's Portfolio!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Fun Stuff:
- 
+   :caption: My Craft:
+
+   what-i-am-paying-attention-to-in-2024.md
    djangocon-us-2023-topics-inspiration-list.md
    reflections-on-stanford-code-in-place.md
 
