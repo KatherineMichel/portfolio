@@ -144,26 +144,37 @@ Django Features and Release
 
 ## Transformational Leadership
 
+A colleague made me aware of the concept of [Transformational Leadership](https://en.wikipedia.org/wiki/Transformational_leadership). I love this graphic that categorizes leadership versus management. I hope to incorporate more leadership into my work to empower my colleagues. 
 * [Leadership versus Management](https://www.linkedin.com/posts/marcus-koehnlein_leadership-management-organization-activity-7070036302271762432-Hhly/?)
 
 ## Agile and Scrum
 
+If you work in an agile/scrum environment, it's a good idea to revisit these evergreen resources from time-to-time. 
 * [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
 * [Scrum Guides](http://www.scrumguides.org/scrum-guide.html)
 
 ## Product
 
 * [Marty Cagan](https://www.linkedin.com/in/cagan)
+
+Prolific 
 * [John Cutler](https://cutlefish.substack.com/)
+* [The Ultimate Guide to Developer p](https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer)
+
+A couple of resources that I've had bookmarked for a while to spend some time looking through. 
 * [Open Product Management](https://github.com/ProductHired/open-product-management)
 * [Top 100 Resources for Product Managers](https://www.sachinrekhi.com/top-resources-for-product-managers)
 
 ## Podcasts
 
+Lex Fridman talks to many of the movers and shakers of our time. 
 * [Lex Fridman](https://www.youtube.com/c/lexfridman)
+
+Harry Stebbings is an incredible example of hustle. His podcast put him on the map and helped him launch a career in VC, no small feat. Outstanding guests. 
 * [The 20 Minute VC](https://www.thetwentyminutevc.com/podcast/)
 
 ## Certifications
 
+I will consider obtaining new certifications in 2024. AWS and CKAD are on my radar at the moment.  
 * [AWS Certifications](https://aws.amazon.com/certification/)
 * [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
