@@ -33,21 +33,35 @@ The best part of the meal was a delicious Turkish Latte ("creamy and a touch of 
 
 ## Friday
 
-### Warner Brothers Studio Tour
+### Warner Brothers Studio Tour versus Universal Studios Tour
 
-After some quick research, I settled on Warner Brothers Studio Tour as a top priority. It was an incredible experience. 
+The Warner Brothers tour guides immediately established their tour as "better" than Universal's. Although it was lighthearted banter, I did detect a hint of competition. 
 
-The Warner Brothers tour guides immediately established their tour as "better" than Universal's. For one thing, it was a personalized, small group experience. At the start of the tour, the tour guide asked us which Warner Brothers shows or movies we were fans of so that the tour could be tailored to our interests. During the guided part of the tour, we were all on one cart in close proximity to the tour guide and could ask questions as we went. 
+#### What Warner Brothers Had Going For It
 
-In contrast, the Univeral Studios tour consisted of one large group riding on a group of connected carts with a pre-recorded commentary by Jimmy Fallon. Although tour guides had the freedom to provide their own commentary, group members did not have the opportunity to ask questions or see things unique to their own interests. 
+The Warner Brothers tour was a personalized, small group experience. At the start of the tour, the tour guide asked us which Warner Brothers shows or movies we were fans of so that the tour could be tailored to our interests. During the guided part of the tour, we were all on one cart in close proximity to the tour guide and could ask questions as we went. We get off several times to tour city lots, a sound stage, and house. 
+
+There were multiple photo ops, including the Friends set, Big Bang Theory set, and Friends fountain. 
+
+Before and after the guided part of the tour, we had the opportunity to walk through exhibits packed with costumes, props, special effects, and info. 
+
+I spent 3 hours on the Warner Brothers tour. 
+
+#### What Universal Studios Tour Had Going For It
+
+In contrast, the Universal Studios tour consisted of one large group riding on a group of connected carts with a pre-recorded commentary by Jimmy Fallon. Although tour guides had the freedom to provide their own commentary, group members did not have the opportunity to ask questions or get off the cart to take a closer look. 
 
 However, the Universal Studios tour did include some iconic backlots, and nothing at Warner Brothers compared to Universal's interactive, 3-D experiences. 
 
-I spent 3 hours on the Warner Brothers tour, compared to around 45 minutes on the Universal Studio Tour.  
+I spent approximately 45 minutes on the Universal Studio Tour.  
 
-I hadn't read up on the details of the Warner Brothers tour ahead of time. 
+### Warner Brothers Studio Tour
 
-The chance to take a photo on the real Friends set was an unexpectedly fun surprise. 
+After some quick research, I settled on Warner Brothers Studio Tour as a top priority. It was an incredible, in-depth experience. 
+
+Because I hadn't read up on the details of the Warner Brothers tour ahead of time, I didn't know about the focus on Friends. 
+
+The chance to take a photo on the real Friends set was a super fun surprise. 
 
 ![](los-angeles-2023-images/warner-brothers-friends-set.jpg)
 Me on the real Friends set
@@ -58,13 +72,15 @@ Me sitting in front of the real Friends fountain
 ![](los-angeles-2023-images/warner-brothers-awards.jpg)
 Warner Brothers Studio awards
 
+What a great way to kick of off my sightseeing. 
+
 ### Hollywood Walk of Fame, TCL Theatre, Hollywood Sign
 
 ### Dolby Theater Tour
 
 After the Warner Brothers Studio Tour, I traveled over to Hollywood for the Dolby Theater Tour. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
 
-With an Academy Awards Ceremony staff member as your tour guide, you walk in the steps of the A-List stars into the theater, backstage, onto the stage where the presenter stands with a view of the audience, stage left, and down the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. 
+My tour guide was a long-time Academy Awards ceremony crew member. We walked in the steps of the A-List stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
 
 ![](los-angeles-2023-images/dolby-theater-walkway-1.jpg)
 On Oscar night, Hollywood Boulevard becomes a walkway for the stars. Normally the entrance to the Ovation Shopping Center, attendees will walk down this grand hall.  
@@ -172,7 +188,7 @@ Placeholder
 ### Bruno's Ristorante Italiano
 
 ![](los-angeles-2023-images/brunos-night-1.jpg)
-Placeholder
+The best chicken alfredo that I've ever had. So good!
 
 ## Tuesday
 
@@ -242,16 +258,20 @@ Placeholder
 
 ### The Ice 
 
+As if I hadn't done enough already, I decided to go ice skating for the first time. 
+
 ![](los-angeles-2023-images/ice-skating.jpg)
-Placeholder
+Santa Monica's The Ice skating rink
 
 ### Mel's Drive-In
 
+I saw a Mel's Drive-in at Universal Studios Theme Park and another one just off Hollywood Boulevard. Because I kept hearing about it so much, I decided to eat at one in Santa Monica. I later realized that I had Mel's Drive-in mixed up with Mel's Diner. Mel's Drive-in was made famous by the movie American Graffiti. Mel's Drive-in was a television show. Haha. Nevertheless, the chocolate milkshake was the best that I've ever had. 
+
 ![](los-angeles-2023-images/mels-drive-in-counter.jpg)
-Placeholder
+Mel's Drive-in Counter
 
 ![](los-angeles-2023-images/mels-drive-in-milkshake.jpg)
-Placeholder
+The best chocolate milkshake that I've ever had. 
 
 ### Santa Monica Beach
 
@@ -264,13 +284,13 @@ Placeholder
 ### Back to Kansas for Christmas
 
 ![](los-angeles-2023-images/universal-niece-gift.jpg)
-Placeholder
+Gift for a niece
 
 ![](los-angeles-2023-images/surf-n-sand-niece-gift-1.jpg)
-Placeholder
+Gift for a niece
 
 ![](los-angeles-2023-images/surf-n-sand-niece-gift-2.jpg)
-Placeholder
+Gift for a niece
 
 ## What I Learned
 
