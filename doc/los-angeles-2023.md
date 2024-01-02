@@ -6,7 +6,7 @@ I finished my work year with a successful presentation to my department, then a 
 
 ### Santa Monica Pier at Night
 
-Perhaps because I have spent most of my life in a landlocked state, when I arrive in a city on the coast, I am dying to get to the ocean. 
+Perhaps because I have spent most of my life in a landlocked state, when I arrive in a city on the coast, I can't wait to get to the ocean. 
 
 ### North Italia
 
