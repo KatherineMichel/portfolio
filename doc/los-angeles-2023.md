@@ -67,19 +67,19 @@ After the Warner Brothers Studio Tour, I traveled over to Hollywood for the Dolb
 With an Academy Awards Ceremony staff member as your tour guide, you walk in the steps of the A-List stars into the theater, backstage, onto the stage where the presenter stands with a view of the audience, stage left, and down the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. 
 
 ![](los-angeles-2023-images/dolby-theater-walkway-1.jpg)
-Placeholder
+On Oscar night, Hollywood Boulevard becomes a walkway for the stars. Normally the entrance to the Ovation Shopping Center, attendees will walk down this grand hall.  
 
 ![](los-angeles-2023-images/dolby-theater-walkway-2.jpg)
-Placeholder
+The steps to the Dolby Theater
 
 ![](los-angeles-2023-images/dolby-theater-stage.jpg)
-Placeholder
+Me standing where the presenter stands with a view of the audience behind me
 
 ![](los-angeles-2023-images/dolby-theater-winners-walk.jpg)
-Placeholder
+Having exited stage left just like the Academy Award winners do, we are walking in their footsteps down the "Winner's Walk." 
 
 ![](los-angeles-2023-images/dolby-theater-winners-walk-2.jpg)
-Placeholder
+This red carpet leads the winners to their interview. 
 
 ### Santa Monica Beach at Sunset and Pier Burger
 
