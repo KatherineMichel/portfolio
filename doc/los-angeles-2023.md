@@ -22,10 +22,16 @@ Placeholder
 ![](los-angeles-2023-images/december-12.png)
 Placeholder
 
+![](los-angeles-2023-images/december-13.png)
+Placeholder
+
 ![](los-angeles-2023-images/december-14.png)
 Placeholder
 
 ![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
+Placeholder
+
+![](los-angeles-2023-images/los-angles-is-wild.png)
 Placeholder
 -->
 
@@ -234,6 +240,9 @@ The homelessness in Los Angeles was a sad reality. A local told me it increased 
 
 ![](los-angeles-2023-images/brunos-night-1.jpg)
 The best chicken alfredo that I've ever had. So good!
+
+![](los-angeles-2023-images/brunos-google-review.png)
+Placeholder
 
 ## Tuesday
 
