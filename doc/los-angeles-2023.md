@@ -7,26 +7,6 @@ Placeholder
 ![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
 Placeholder
 
-![](los-angeles-2023-images/december-7.png)
-Placeholder
-
-![](los-angeles-2023-images/december-8.png)
-Placeholder
-
-![](los-angeles-2023-images/december-9.png)
-Placeholder
-
-![](los-angeles-2023-images/december-11.png)
-Placeholder
-
-![](los-angeles-2023-images/december-12.png)
-Placeholder
-
-![](los-angeles-2023-images/december-13.png)
-Placeholder
-
-![](los-angeles-2023-images/december-14.png)
-Placeholder
 
 ![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
 Placeholder
@@ -52,6 +32,9 @@ North Italia Crushed Meatball Ragu: beef meatball, porchetta, blistered onion, w
 
 ## Thursday
 
+![](los-angeles-2023-images/december-7.png)
+Placeholder
+
 ### Blue Daisy
 
 On Thursday, I ate breakfast at [Blue Daisy](https://www.bluedaisycafe.com/brunch-santa-monica/). I picked it on the spur of the moment, because it was nearby and the reviews I read were positive. The staff were wonderful, but the food was underwhelming.
@@ -73,9 +56,12 @@ Placeholder
 
 ## Friday
 
+![](los-angeles-2023-images/december-8.png)
+Placeholder
+
 ### Warner Brothers Studio Tour versus Universal Studios Tour
 
-The Warner Brothers tour guides immediately established their tour as "better" than Universal's. Although it was lighthearted banter, I did detect a real hint of insecurity. 
+The Warner Brothers tour guides immediately established their tour as "better" than Universal's. Although it was lighthearted banter, I did detect a real hint of competition. 
 
 #### What Warner Brothers Had Going For It
 
@@ -139,6 +125,9 @@ This red carpet leads the winners to their interview.
 
 ## Saturday
 
+![](los-angeles-2023-images/december-9.png)
+Placeholder
+
 ### République
 
 ![](los-angeles-2023-images/republique-bakery.jpg)
@@ -201,6 +190,9 @@ Central Garden: a garden with an incredible view. I almost overlooked it. Fortun
 
 ## Monday
 
+![](los-angeles-2023-images/december-11.png)
+Placeholder
+
 ### République
 
 ![](los-angeles-2023-images/republique-breakfast-2.jpg)
@@ -229,6 +221,10 @@ The infamous water tanks where Elisa Lam drowned... it was speculated that she m
 
 ### Downtown Los Angeles
 
+<!--
+https://en.wikipedia.org/wiki/Skid_Row,_Los_Angeles
+-->
+
 While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I walked a few blocks into Skid Row. Having heard of Skid Row for years, I wanted to see it for myself. Strangely, it's next to the Toy and Fashion Districts. I can't get over the extreme opulence and poverty existing side by side across Los Angeles. 
 
 ![](los-angeles-2023-images/downtown-la-skid-row.jpg)
@@ -238,15 +234,27 @@ The homelessness in Los Angeles was a sad reality. A local told me it increased 
 
 ### Bruno's Ristorante Italiano
 
+<!--
+https://brunossantamonica.com/
+-->
+
 ![](los-angeles-2023-images/brunos-night-1.jpg)
-The best chicken alfredo that I've ever had. So good!
+Fettuccine Alfredo with chicken... the best that I've ever had. So good!
 
 ![](los-angeles-2023-images/brunos-google-review.png)
 Placeholder
 
 ## Tuesday
 
+![](los-angeles-2023-images/december-12.png)
+Placeholder
+
 ### Universal Theme Park
+
+<!--
+https://www.universalstudioshollywood.com/web/en/us
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour
+-->
 
 Although I wanted to take the Universal Studio Tour, I was irked that I would have to buy an entire Universal Theme Park ticket to take it. A Lyft driver eventually convinced me to do it. She said, it's the best, because you are "in the movies." I know what she means now that I've been through the immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
 
@@ -268,12 +276,15 @@ Mother's house from Pyscho
 
 ### Comedy in English
 
-That night, I attended a comedy show for the first time. There were excruciating silences and big laughs. What a raw exercise!
+That night, I attended a comedy show for the first time. There were excruciating silences, awkward jokes, and big laughs. What a raw exercise!
 
 ![](los-angeles-2023-images/comedy-show.jpg)
 The comedian before him was scream-y... this one was quiet and thoughtful. I thought he'd bomb, but he didn't! 
 
 ## Wednesday
+
+![](los-angeles-2023-images/december-13.png)
+Placeholder
 
 ### Hollywood Walk of Fame
 
@@ -296,15 +307,15 @@ Placeholder
 Love this. Pretty Woman balcony. Las Palmas Hotel, 1738 N Las Palmas Ave, Los Angeles, CA 90028
 
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-jack-nicholson-home.jpg)
-Placeholder
+Jack Nicholson's House... that's a tennis courts on stilts! 
 
 ![](los-angeles-2023-images/celebrity-home-bus-tour-leonardo-dicaprio.jpg)
-Placeholder
+Leonardo DiCaprio's house
 
 ### Rodeo Drive
 
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-dior.jpg)
-Placeholder
+Dior
 
 ### Via Alloro
 
@@ -320,9 +331,12 @@ I had the Fettuccini Boscaiola: homemade fettuccini pasta with meat sauce, cream
 ### Bruno's Ristorante Italiano
 
 ![](los-angeles-2023-images/brunos-night-2.jpg)
-Placeholder
+Spaghetti with meat sauce
 
 ## Thursday
+
+![](los-angeles-2023-images/december-14.png)
+Placeholder
 
 ### The Ice 
 
