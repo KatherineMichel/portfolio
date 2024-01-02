@@ -10,7 +10,7 @@ Perhaps because I have spent most of my life in a landlocked state, when I arriv
 
 ### North Italia
 
-I was looking for a convenient, but decent place to eat dinner. I stumbled upon North Italia while walking down the street. The food is handmade with the best ingredients, and it was good, but a bit high falutin' for me. Later in the week, I discovered another Italian restaurant nearby called Bruno's Ristorante Italiano. North Italia did not compare to the simple, delicious authenticity of Bruno's. Bruno's perfectly hit the spot for me. Sorry, North Italia. 
+I was looking for a convenient, but decent place to eat dinner. I stumbled upon North Italia while walking down the street. The food is handmade with the best ingredients, and it was good, but a bit high falutin' Italian for my taste. Later in the week, I discovered another Italian restaurant nearby called Bruno's Ristorante Italiano. North Italia did not compare to the simple, delicious authenticity of Bruno's. Bruno's perfectly hit the spot for me. Sorry, North Italia. 
 
 ![](los-angeles-2023-images/north-italia.jpg)
 North Italia Crushed Meatball Ragu: beef meatball, porchetta, blistered onion, wild oregano, bucatini, pecorino
@@ -43,15 +43,15 @@ The Warner Brothers tour was a personalized, small group experience. At the star
 
 There were multiple photo ops, including the Friends set, Big Bang Theory set, and Friends fountain. 
 
-Before and after the guided part of the tour, we had the opportunity to walk through exhibits packed with costumes, props, special effects, and info. 
+Before and after the guided part of the tour, we had the opportunity to walk at our own pace through exhibits packed with costumes, props, special effects, and info. 
 
 I spent 3 hours on the Warner Brothers tour. 
 
 #### What Universal Studios Tour Had Going For It
 
-In contrast, the Universal Studios tour consisted of one large group riding on a group of connected carts with a pre-recorded commentary by Jimmy Fallon. Although tour guides had the freedom to provide their own commentary, group members did not have the opportunity to ask questions or get off the cart to take a closer look. 
+In contrast, the Universal Studios tour consisted of one large group riding on a group of connected carts with a pre-recorded commentary by Jimmy Fallon. Although tour guides had the freedom to provide their own additional commentary, group members did not have the opportunity to ask questions or get off the cart to take a closer look. 
 
-However, the Universal Studios tour did include some iconic backlots, and nothing at Warner Brothers compared to Universal's interactive, 3-D experiences. 
+However, the Universal Studios tour did include some very iconic backlots, and nothing at Warner Brothers compared to Universal's interactive, 3-D experiences. 
 
 I spent approximately 45 minutes on the Universal Studio Tour.  
 
@@ -61,10 +61,10 @@ After some quick research, I settled on Warner Brothers Studio Tour as a top pri
 
 Because I hadn't read up on the details of the Warner Brothers tour ahead of time, I didn't know about the focus on Friends. 
 
-The chance to take a photo on the real Friends set was a super fun surprise. 
+The chance to take a photo on the real Friends set was a super fun surprise and gave me a feeling of child-like delight. What a great way to kick of off my sightseeing. 
 
 ![](los-angeles-2023-images/warner-brothers-friends-set.jpg)
-Me on the real Friends set
+Me on the real Friends set... I don't usually buy these, but couldn't resist this time!
 
 ![](los-angeles-2023-images/warner-brothers-friends-couch.jpg)
 Me sitting in front of the real Friends fountain
@@ -72,15 +72,13 @@ Me sitting in front of the real Friends fountain
 ![](los-angeles-2023-images/warner-brothers-awards.jpg)
 Warner Brothers Studio awards
 
-What a great way to kick of off my sightseeing. 
-
 ### Hollywood Walk of Fame, TCL Theatre, Hollywood Sign
 
 ### Dolby Theater Tour
 
 After the Warner Brothers Studio Tour, I traveled over to Hollywood for the Dolby Theater Tour. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
 
-My tour guide was a long-time Academy Awards ceremony crew member. We walked in the steps of the A-List stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
+My tour guide was a long-time Academy Awards ceremony crew member. We walked in the footsteps of the A-List stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
 
 ![](los-angeles-2023-images/dolby-theater-walkway-1.jpg)
 On Oscar night, Hollywood Boulevard becomes a walkway for the stars. Normally the entrance to the Ovation Shopping Center, attendees will walk down this grand hall.  
@@ -246,8 +244,10 @@ Placeholder
 
 ### Via Alloro
 
+While I was on the celebrity home bus tour, we drove around Beverly Hills. As we drove past this restaurant off of Rodeo Drive, the bus driver said it's a major celebrity hotspot and that he'd seen Steven Spielberg here, among others. Someone on the bus asked if you had to be dressed up to go in. The bus driver said no, and that he'd had bus riders literally call while on the bus and make a reservation. After the tour ended, I went back to Rodeo Drive for pics and decided to stop to eat there. The prices were surprisingly reasonable and the food was delicious. It felt like a surprisingly normal experience. The waiter told me that they do have "too many" celebs around. Sometimes, everywhere you look. A quick google search does reveal some of the many celebs. https://www.viaalloro.com/
+
 ![](los-angeles-2023-images/via-alloro.jpg)
-Placeholder
+Rubbing shoulders with the stars
 
 ### Bruno's Ristorante Italiano
 
@@ -258,7 +258,9 @@ Placeholder
 
 ### The Ice 
 
-As if I hadn't done enough already, I decided to go ice skating for the first time. 
+If I hadn't already done enough... I went ice skating for the first time! 
+
+It was fun, and I skated for a good 30 minutes, but when another skater wiped out badly, I decided that I'd pushed my luck long enough and stopped. The rink workers said the skates weren't great anyway, because they provided very little support. Nevertheless, I'm glad I tried it, and perhaps I'll try again sometime.
 
 ![](los-angeles-2023-images/ice-skating.jpg)
 Santa Monica's The Ice skating rink
