@@ -1,13 +1,17 @@
 # Los Angeles 2023
 
+Having just finished a great year at work and landed at LAX. 
+
 ## Wednesday
 
 ### Santa Monica Pier at Night
 
 ### North Italia
 
+Having arrived in Los Angeles with little planning, I was looking for a convenient, but decent place to eat dinner. I stumbled upon this restaurant while walking down the street. The food is handmade with the best ingredients, and it was good, but a bit high falutin' for me. Later in the week, I discovered another Italian restaurant nearby called Bruno's Ristorante Italiano. North Italia did not compare to the simple, delicious authenticity of Bruno's. Bruno's perfectly hit the spot for me. 
+
 ![](los-angeles-2023-images/north-italia.jpg)
-Placeholder
+Crushed Meatball Ragu: beef meatball, porchetta, blistered onion, wild oregano, bucatini, pecorino
 
 ## Thursday
 
@@ -43,10 +47,10 @@ Placeholder
 ![](los-angeles-2023-images/dolby-theater-stage.jpg)
 Placeholder
 
-![](los-angeles-2023-images/dolby-theater-winners-walk-2.jpg)
+![](los-angeles-2023-images/dolby-theater-winners-walk.jpg)
 Placeholder
 
-![](los-angeles-2023-images/dolby-theater-winners-walk.jpg)
+![](los-angeles-2023-images/dolby-theater-winners-walk-2.jpg)
 Placeholder
 
 ### Santa Monica Beach at Sunset and Pier Burger
