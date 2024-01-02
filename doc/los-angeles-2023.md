@@ -1,5 +1,28 @@
 # Los Angeles 2023
 
+<!--
+![](los-angeles-2023-images/been-to-the-getty-center.png)
+Placeholder
+
+![](los-angeles-2023-images/december-14.png)
+Placeholder
+
+![](los-angeles-2023-images/december-8.png)
+Placeholder
+
+![](los-angeles-2023-images/december-9.png)
+Placeholder
+
+![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
+Placeholder
+
+![](los-angeles-2023-images/i-hope-you-got-pics.png)
+Placeholder
+
+![](los-angeles-2023-images/ive-forgotten-how-good-my-iphone-camera-is.png)
+Placeholder
+-->
+
 ## Wednesday
 
 I finished my work year with a successful presentation to my department, then a few hours later, arrived at LAX for a nine day vacation. It was the first non-business trip that I'd taken in years. I had a general idea of the things I wanted to do, but hadn't done much planning. I played it by ear, and it worked. 
@@ -312,9 +335,8 @@ The best chocolate milkshake that I've ever had.
 
 ### Back to Kansas for Christmas
 
-<!--
+![](los-angeles-2023-images/bye-la.jpg)
 Bye bye, LA… Santa Monica, Venice, and Playa Del Rey Beaches, I believe
--->
 
 ![](los-angeles-2023-images/universal-niece-gift.jpg)
 Gift for a niece
@@ -327,10 +349,17 @@ Gift for a niece
 
 ## What I Learned
 
-I love San Diego's Little Italy. 
+![](los-angeles-2023-images/my-feeling-about-la.png)
+My feeling about Los Angeles...
 
-I was surprised by the impersonal, distributed nature of Los Angeles. 
+I love San Diego's Little Italy. It's a thriving area of the city centered around a Plaza with a fountain, music, open air dining, and great restaurants surrounding it. I thought Santa Monica would be like this, but it wasn't. I was surprised by the isolated, distributed nature of Los Angeles. 
 
-Although I considered taking the Paramount Studio Tour, it was one too many studio tours for this trip. 
+My takeaway from the entertainment indusry was that it's more ordinary than I expected. Just like the desire among many Los Angeles to appear to be living among their means...
+
+Things to do next time:
+* Although I considered taking the Paramount Studio Tour, it was one too many studio tours for this trip. 
 
 I wore a different outfit everyday, but because I took a handful of sweatshirts and wore them over t-shirts to stay warm, I look like I had on the same outfit everyday. 🤷‍♀️
+
+![](los-angeles-2023-images/last-momento.png)
+One last momento...
