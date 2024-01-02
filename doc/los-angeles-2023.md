@@ -4,7 +4,10 @@
 ![](los-angeles-2023-images/been-to-the-getty-center.png)
 Placeholder
 
-![](los-angeles-2023-images/december-14.png)
+![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
+Placeholder
+
+![](los-angeles-2023-images/december-7.png)
 Placeholder
 
 ![](los-angeles-2023-images/december-8.png)
@@ -13,13 +16,16 @@ Placeholder
 ![](los-angeles-2023-images/december-9.png)
 Placeholder
 
+![](los-angeles-2023-images/december-11.png)
+Placeholder
+
+![](los-angeles-2023-images/december-12.png)
+Placeholder
+
+![](los-angeles-2023-images/december-14.png)
+Placeholder
+
 ![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
-Placeholder
-
-![](los-angeles-2023-images/i-hope-you-got-pics.png)
-Placeholder
-
-![](los-angeles-2023-images/ive-forgotten-how-good-my-iphone-camera-is.png)
 Placeholder
 -->
 
@@ -51,6 +57,9 @@ I asked the waiter if the zucchini hash came from another culture. He laughed an
 The best part of the meal was a delicious Turkish Latte ("creamy and a touch of sweetness"). 
 
 ### Santa Monica and Venice Beaches
+
+![](los-angeles-2023-images/i-am-one-block-away.png)
+Placeholder
 
 <!--
 ### Trader Joe's
@@ -363,3 +372,12 @@ I wore a different outfit everyday, but because I took a handful of sweatshirts 
 
 ![](los-angeles-2023-images/last-momento.png)
 One last momento...
+
+![](los-angeles-2023-images/i-hope-you-got-pics.png)
+Placeholder
+
+![](los-angeles-2023-images/ive-forgotten-how-good-my-iphone-camera-is.png)
+Placeholder
+
+![](los-angeles-2023-images/southwest-timezone.png)
+Placeholder
