@@ -10,7 +10,7 @@ Perhaps because I have spent most of my life in a landlocked state, when I arriv
 
 ### North Italia
 
-I was looking for a convenient, but decent place to eat dinner. I stumbled upon North Italia while walking down the street. The food is handmade with the best ingredients, and it was good, but a bit high falutin' for me. Later in the week, I discovered another Italian restaurant nearby called Bruno's Ristorante Italiano. North Italia did not compare to the simple, delicious authenticity of Bruno's. Bruno's perfectly hit the spot for me. 
+I was looking for a convenient, but decent place to eat dinner. I stumbled upon North Italia while walking down the street. The food is handmade with the best ingredients, and it was good, but a bit high falutin' for me. Later in the week, I discovered another Italian restaurant nearby called Bruno's Ristorante Italiano. North Italia did not compare to the simple, delicious authenticity of Bruno's. Bruno's perfectly hit the spot for me. Sorry, North Italia. 
 
 ![](los-angeles-2023-images/north-italia.jpg)
 North Italia Crushed Meatball Ragu: beef meatball, porchetta, blistered onion, wild oregano, bucatini, pecorino
@@ -23,9 +23,9 @@ On Thursday, I ate breakfast at [Blue Daisy](https://www.bluedaisycafe.com/brunc
 
 I had 3 eggs scrambled with mushroom, which came with zucchini hash and a plain crepe with jam. 
 
-I asked the waiter if the zucchini hash came from another culture. He laughed and said it's something the chef invented to make breakfast healthier. I don't know if I want my breakfast to be that healthy. 
+I asked the waiter if the zucchini hash came from another culture. He laughed and said it's something the chef invented to make breakfast healthier. Sounds like an LA thing. I don't know if I want my breakfast to be that healthy. 
 
-The bright spot of the meal was a delicious Turkish Latte ("creamy and a touch of sweetness"). 
+The best part of the meal was a delicious Turkish Latte ("creamy and a touch of sweetness"). 
 
 ### Santa Monica and Venice Beaches
 
@@ -35,14 +35,24 @@ The bright spot of the meal was a delicious Turkish Latte ("creamy and a touch o
 
 ### Warner Brothers Studio Tour
 
+After some quick research, I settled on Warner Brothers Studio Tour as a top priority. It was an incredible experience. 
+
+The Warner Brothers tour guides immediately established their tour as "better" than Universal's. For one thing, it was a personalized, small group experience. At the start of the tour, the tour guide asked us which Warner Brothers shows or movies we were fans of so that the tour could be tailored to our interests. During the guided part of the tour, we were all on one cart in close proximity to the tour guide and could ask questions as we went. 
+
+In contrast, the Univeral Studios tour consisted of one large group riding on a group of connected carts with a pre-recorded commentary by Jimmy Fallon. Although tour guides had the freedom to provide their own commentary, group members did not have the opportunity to ask questions or see things unique to their own interests. 
+
+I spent 3 hours on the Warner Brothers tour, compared to around 45 minutes on the Universal Studio Tour.  
+
+Because I hadn't read up on the details of the Warner Brothers tour, the chance to take a photo on the real Friends set was an unexpectedly fun surprise. 
+
 ![](los-angeles-2023-images/warner-brothers-friends-set.jpg)
-Placeholder
+Me on the real Friends set
 
 ![](los-angeles-2023-images/warner-brothers-friends-couch.jpg)
-Placeholder
+Me sitting in front of the real Friends fountain
 
 ![](los-angeles-2023-images/warner-brothers-awards.jpg)
-Placeholder
+Warner Brothers Studio awards
 
 ### Hollywood Walk of Fame, TCL Theatre, Hollywood Sign
 
@@ -160,6 +170,8 @@ Placeholder
 
 ### Universal Theme Park
 
+Although I wanted to take the Universal Studio Tour, I was irked that I would have to buy an entire Universal Theme Park ticket to take it. Later in the trip, a Lyft driver convinced me to do it. She said, it's the best, because you are "in the movies." 
+
 ![](los-angeles-2023-images/universal-citywalk.jpg)
 Placeholder
 
@@ -251,3 +263,7 @@ Placeholder
 
 ![](los-angeles-2023-images/surf-n-sand-niece-gift-2.jpg)
 Placeholder
+
+## What I Learned
+
+Although I considered taking the Paramount Studio Tour, it was one too many studio tours for this trip. 
