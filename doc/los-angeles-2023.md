@@ -41,9 +41,13 @@ The Warner Brothers tour guides immediately established their tour as "better" t
 
 In contrast, the Univeral Studios tour consisted of one large group riding on a group of connected carts with a pre-recorded commentary by Jimmy Fallon. Although tour guides had the freedom to provide their own commentary, group members did not have the opportunity to ask questions or see things unique to their own interests. 
 
+However, the Universal Studios tour did include some iconic backlots, and nothing at Warner Brothers compared to Universal's interactive, 3-D experiences. 
+
 I spent 3 hours on the Warner Brothers tour, compared to around 45 minutes on the Universal Studio Tour.  
 
-Because I hadn't read up on the details of the Warner Brothers tour, the chance to take a photo on the real Friends set was an unexpectedly fun surprise. 
+I hadn't read up on the details of the Warner Brothers tour ahead of time. 
+
+The chance to take a photo on the real Friends set was an unexpectedly fun surprise. 
 
 ![](los-angeles-2023-images/warner-brothers-friends-set.jpg)
 Me on the real Friends set
@@ -57,6 +61,10 @@ Warner Brothers Studio awards
 ### Hollywood Walk of Fame, TCL Theatre, Hollywood Sign
 
 ### Dolby Theater Tour
+
+After the Warner Brothers Studio Tour, I traveled over to Hollywood for the Dolby Theater Tour. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
+
+With an Academy Awards Ceremony staff member as your tour guide, you walk in the steps of the A-List stars into the theater, backstage, onto the stage where the presenter stands with a view of the audience, stage left, and down the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. 
 
 ![](los-angeles-2023-images/dolby-theater-walkway-1.jpg)
 Placeholder
