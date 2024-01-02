@@ -23,23 +23,25 @@ On Thursday, I ate breakfast at [Blue Daisy](https://www.bluedaisycafe.com/brunc
 
 I had 3 eggs scrambled with mushroom, which came with zucchini hash and a plain crepe with jam. 
 
-I asked the waiter if the zucchini hash came from another culture. He laughed and said it's something the chef invented to make breakfast healthier. Sounds like an LA thing. I don't know if I want my breakfast to be that healthy. 
+I asked the waiter if the zucchini hash came from another culture. He laughed and said it's something the chef invented to make breakfast healthier. Sounds like an Los Angeles thing. I don't know if I want my breakfast to be that healthy. 
 
 The best part of the meal was a delicious Turkish Latte ("creamy and a touch of sweetness"). 
 
 ### Santa Monica and Venice Beaches
 
+<!--
 ### Trader Joe's
+-->
 
 ## Friday
 
 ### Warner Brothers Studio Tour versus Universal Studios Tour
 
-The Warner Brothers tour guides immediately established their tour as "better" than Universal's. Although it was lighthearted banter, I did detect a hint of competition. 
+The Warner Brothers tour guides immediately established their tour as "better" than Universal's. Although it was lighthearted banter, I did detect a real hint of insecurity. 
 
 #### What Warner Brothers Had Going For It
 
-The Warner Brothers tour was a personalized, small group experience. At the start of the tour, the tour guide asked us which Warner Brothers shows or movies we were fans of so that the tour could be tailored to our interests. During the guided part of the tour, we were all on one cart in close proximity to the tour guide and could ask questions as we went. We get off several times to tour city lots, a sound stage, and house. 
+The Warner Brothers tour was a personalized, small group experience. At the start of the tour, the tour guide asked us which Warner Brothers shows or movies we were fans of so that the tour could be tailored to our interests. During the guided part of the tour, we were all on one cart in close proximity to the tour guide and could ask questions as we went. We get off several times to tour city lots, a sound stage, residential street, and house. 
 
 There were multiple photo ops, including the Friends set, Big Bang Theory set, and Friends fountain. 
 
@@ -59,7 +61,7 @@ I spent approximately 45 minutes on the Universal Studio Tour.
 
 After some quick research, I settled on Warner Brothers Studio Tour as a top priority. It was an incredible, in-depth experience. 
 
-Because I hadn't read up on the details of the Warner Brothers tour ahead of time, I didn't know about the focus on Friends. 
+Because I hadn't read up on the details of the Warner Brothers tour ahead of time, I had no idea what I would see. 
 
 The chance to take a photo on the real Friends set was a super fun surprise and gave me a feeling of child-like delight. What a great way to kick of off my sightseeing. 
 
@@ -116,34 +118,34 @@ Placeholder
 ### Academy Museum of Motion Pictures
 
 ![](los-angeles-2023-images/academy-museum-statue-room.jpg)
-Placeholder
+Academy Award statue room
 
 ![](los-angeles-2023-images/academy-museum-godfather-office-1.jpg)
-Placeholder
+The Godfather office
 
 ![](los-angeles-2023-images/academy-museum-godfather-office-2.jpg)
-Placeholder
+The Godfather office
 
 ![](los-angeles-2023-images/academy-museum-godfather-office-3.jpg)
-Placeholder
+The Godfather office
 
 ![](los-angeles-2023-images/academy-museum-horse-head-1.jpg)
-Placeholder
+The Godfather rehearsal horse head
 
 ![](los-angeles-2023-images/academy-museum-horse-head-2.jpg)
-Placeholder
+The Godfather rehearsal horse head
 
 ![](los-angeles-2023-images/academy-museum-alien-1.jpg)
-Placeholder
+Alien xenomorph
 
 ![](los-angeles-2023-images/academy-museum-alien-2.jpg)
-Placeholder
+Alien xenomorph
 
 ![](los-angeles-2023-images/academy-museum-the-dark-crystal-skeksis.jpg)
-Placeholder
+The Dark Crystal's Skeksis
 
 ![](los-angeles-2023-images/academy-museum-terminator.jpg)
-Placeholder
+Terminator 2: Judgement Day animatronic
 
 ### Petersen Automotive Museum
 
@@ -292,7 +294,7 @@ Santa Monica's The Ice skating rink
 
 ### Mel's Drive-In
 
-I saw a Mel's Drive-in at Universal Studios Theme Park and another one just off Hollywood Boulevard. Because I kept hearing about it so much, I decided to eat at one in Santa Monica. I later realized that I had Mel's Drive-in mixed up with Mel's Diner. Mel's Drive-in was made famous by the movie American Graffiti. Mel's Drive-in was a television show. Haha. Nevertheless, the chocolate milkshake was the best that I've ever had. 
+I saw a Mel's Drive-in at Universal Studios Theme Park and another one just off Hollywood Boulevard. Because I kept hearing about it so much, I decided to eat at one in Santa Monica. I later realized that I had Mel's Drive-in mixed up with Mel's Diner. Mel's Drive-in was made famous by the movie American Graffiti. Mel's Diner was a television show. Haha. Nevertheless, the chocolate milkshake was the best that I've ever had. 
 
 ![](los-angeles-2023-images/mels-drive-in-counter.jpg)
 Mel's Drive-in Counter
