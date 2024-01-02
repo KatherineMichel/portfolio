@@ -67,7 +67,7 @@ The chance to take a photo on the real Friends set was a super fun surprise and 
 Me on the real Friends set... I don't usually buy these, but couldn't resist this time!
 
 ![](los-angeles-2023-images/warner-brothers-friends-couch.jpg)
-Me sitting in front of the real Friends fountain
+Me sitting in front of the real Friends fountain... the sofa looks soft, but was actually hard as a rock. The fountain was also used in Wonder Woman (Lynda Carter leapt over it) and the Bewitched pilot.
 
 ![](los-angeles-2023-images/warner-brothers-awards.jpg)
 Warner Brothers Studio awards
@@ -78,7 +78,7 @@ Warner Brothers Studio awards
 
 After the Warner Brothers Studio Tour, I traveled over to Hollywood for the Dolby Theater Tour. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
 
-My tour guide was a long-time Academy Awards ceremony crew member. We walked in the footsteps of the A-List stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
+My tour guide was a long-time Academy Awards ceremony crew member. We walked in the footsteps of the A-list stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
 
 ![](los-angeles-2023-images/dolby-theater-walkway-1.jpg)
 On Oscar night, Hollywood Boulevard becomes a walkway for the stars. Normally the entrance to the Ovation Shopping Center, attendees will walk down this grand hall.  
@@ -87,7 +87,7 @@ On Oscar night, Hollywood Boulevard becomes a walkway for the stars. Normally th
 The steps to the Dolby Theater
 
 ![](los-angeles-2023-images/dolby-theater-stage.jpg)
-Me standing where the presenter stands with a view of the audience behind me
+Me standing where the presenter stands with a view of the audience behind me... the photos on chairs represent the A-list guests who sat there.
 
 ![](los-angeles-2023-images/dolby-theater-winners-walk.jpg)
 Having exited stage left just like the Academy Award winners do, we are walking in their footsteps down the "Winner's Walk." 
@@ -170,11 +170,17 @@ Placeholder
 
 ### The Cecil Hotel
 
+I have been fascinated by true crime going back to childhood, when I started watching 48 Hours, my all-time favorite show. 
+
+While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I stopped at Hotel Cecil along the way. 
+
+Hotel Cecil (a.k.a "Hotel Death") was the subject of a Netflix documentary called Crime Scene: The Vanishing at the Cecil Hotel. The documentary focused on the case of Elisa Lam, a Canadian student suffering from bi-polar disease who drowned in a water tank on the roof. Members of the public crowd-sourced an investigation into what happened to Elisa. The hotel has a long history of murder, suicide, and unexplained deaths. In a strange twist, Richard Ramirez, a serial killer profiled in another Netflix documentary Night Stalker, stayed at Hotel Cecil. https://allthatsinteresting.com/cecil-hotel-los-angeles
+
 ![](los-angeles-2023-images/hotel-cecil-1.jpg)
-Placeholder
+Hotel Cecil
 
 ![](los-angeles-2023-images/hotel-cecil-2.jpg)
-Placeholder
+The infamous water tanks where Elisa Lam died... it was speculated that Elisa Lam might have taken the stairs on the front of the hotel to the roof where she drowned in a water tank.
 
 ### Downtown Los Angeles
 
@@ -192,13 +198,13 @@ The best chicken alfredo that I've ever had. So good!
 
 ### Universal Theme Park
 
-Although I wanted to take the Universal Studio Tour, I was irked that I would have to buy an entire Universal Theme Park ticket to take it. Later in the trip, a Lyft driver convinced me to do it. She said, it's the best, because you are "in the movies." 
+Although I wanted to take the Universal Studio Tour, I was irked that I would have to buy an entire Universal Theme Park ticket to take it. A Lyft driver eventually convinced me to do it. She said, it's the best, because you are "in the movies." I know what she means now that I've been through the interactive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
 
 ![](los-angeles-2023-images/universal-citywalk.jpg)
-Placeholder
+Universal CityWalk
 
 ![](los-angeles-2023-images/universal-me-and-max.jpg)
-Placeholder
+Finally spotted a celebrity and even got a pic. Here I am with "Max" from The Grinch.
 
 ![](los-angeles-2023-images/universal-psycho-bates-motel.jpg)
 Placeholder
@@ -229,7 +235,7 @@ Placeholder
 ### Celebrity Homes Bus Tour
 
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-pretty-woman-balcony.jpg)
-Placeholder
+Love this. Pretty Woman balcony. Las Palmas Hotel, 1738 N Las Palmas Ave, Los Angeles, CA 90028
 
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-jack-nicholson-home.jpg)
 Placeholder
@@ -297,3 +303,5 @@ Gift for a niece
 ## What I Learned
 
 Although I considered taking the Paramount Studio Tour, it was one too many studio tours for this trip. 
+
+I wore a different outfit everyday, but because I took a handful of sweatshirts and wore them over t-shirts to stay warm, I look like I had on the same outfit everyday. 🤷‍♀️
