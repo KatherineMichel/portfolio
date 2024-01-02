@@ -13,13 +13,13 @@ Perhaps because I have spent most of my life in a landlocked state, when I arriv
 I was looking for a convenient, but decent place to eat dinner. I stumbled upon North Italia while walking down the street. The food is handmade with the best ingredients, and it was good, but a bit high falutin' for me. Later in the week, I discovered another Italian restaurant nearby called Bruno's Ristorante Italiano. North Italia did not compare to the simple, delicious authenticity of Bruno's. Bruno's perfectly hit the spot for me. 
 
 ![](los-angeles-2023-images/north-italia.jpg)
-Crushed Meatball Ragu: beef meatball, porchetta, blistered onion, wild oregano, bucatini, pecorino
+North Italia Crushed Meatball Ragu: beef meatball, porchetta, blistered onion, wild oregano, bucatini, pecorino
 
 ## Thursday
 
 ### Blue Daisy
 
-On Thursday, I ate breakfast at [Blue Daisy](https://www.bluedaisycafe.com/brunch-santa-monica/). I picked it, because the reviews I read were positive. The staff were wonderful, but the food was underwhelming.
+On Thursday, I ate breakfast at [Blue Daisy](https://www.bluedaisycafe.com/brunch-santa-monica/). I picked it on the spur of the moment, because it was nearby and the reviews I read were positive. The staff were wonderful, but the food was underwhelming.
 
 I had 3 eggs scrambled with mushroom, which came with zucchini hash and a plain crepe with jam. 
 
