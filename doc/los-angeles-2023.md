@@ -155,7 +155,7 @@ Placeholder
 One of the highlights of the collection: Vincent Van Gogh's Irises
 
 ![](los-angeles-2023-images/the-getty-central-garden.jpg)
-A garden with an incredible view. I almost overlooked it. Fortunately, I came back a second time and looked again.
+Central Garden: a garden with an incredible view. I almost overlooked it. Fortunately, I came back a second time and looked again.
 
 ### Tacos 1986 and Santa Monica Beach at Sunset
 
@@ -189,10 +189,10 @@ The infamous water tanks where Elisa Lam drowned... it was speculated that she m
 
 ### Downtown Los Angeles
 
-While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I walked a few blocks into Skid Row. Strangely, it's next to the Toy and Fashion Districts. Having heard of Skid Row for years, I wanted to see it for myself. The homelessness across Los Angeles was a sad reality. 
+While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I walked a few blocks into Skid Row. Having heard of Skid Row for years, I wanted to see it for myself. Strangely, it's next to the Toy and Fashion Districts. I can't get over the extreme opulence and poverty existing side by side across Los Angeles. 
 
 ![](los-angeles-2023-images/downtown-la-skid-row.jpg)
-A local told me the homelessness increased greatly due to the pandemic.
+The homelessness in Los Angeles was a sad reality. A local told me it increased greatly due to the pandemic.
 
 ### Los Angeles City Hall Observation Deck
 
@@ -225,8 +225,10 @@ Mother's house from Pyscho
 
 ### Comedy in English
 
+That night, I attended a comedy show for the first time. There were excruciating silences and big laughs. What a raw exercise!
+
 ![](los-angeles-2023-images/comedy-show.jpg)
-Placeholder
+The comedian before him was scream-y... this one was quiet and thoughtful. I thought he'd bomb, but he didn't! 
 
 ## Wednesday
 
@@ -308,6 +310,10 @@ The best chocolate milkshake that I've ever had.
 
 ### Back to Kansas for Christmas
 
+<!--
+Bye bye, LA… Santa Monica, Venice, and Playa Del Rey Beaches, I believe
+-->
+
 ![](los-angeles-2023-images/universal-niece-gift.jpg)
 Gift for a niece
 
@@ -319,7 +325,9 @@ Gift for a niece
 
 ## What I Learned
 
-I love San Diego's Little Italy. I was surprised by the impersonal, distributed nature of Los Angeles. 
+I love San Diego's Little Italy. 
+
+I was surprised by the impersonal, distributed nature of Los Angeles. 
 
 Although I considered taking the Paramount Studio Tour, it was one too many studio tours for this trip. 
 
