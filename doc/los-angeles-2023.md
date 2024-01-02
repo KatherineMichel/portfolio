@@ -68,7 +68,7 @@ The Warner Brothers tour was a personalized, small group experience. At the star
 
 There were multiple photo ops, including the Friends set, Big Bang Theory set, and Friends fountain. 
 
-Before and after the guided part of the tour, we had the opportunity to walk at our own pace through exhibits packed with incredible costumes, props, and interactive experiences. 
+Before and after the guided part of the tour, we had the opportunity to walk at our own pace through exhibits packed with incredible costumes, props, and immersive experiences. 
 
 I spent 3 hours on the Warner Brothers tour. 
 
@@ -76,7 +76,7 @@ I spent 3 hours on the Warner Brothers tour.
 
 In contrast, the Universal Studios tour consisted of one large group riding on a group of connected carts with a pre-recorded commentary by Jimmy Fallon. Although tour guides had the freedom to provide their own additional commentary, group members did not have the opportunity to ask questions or get off the cart to take a closer look. 
 
-However, the Universal Studios tour did include some very iconic backlots, and nothing at Warner Brothers compared to Universal's interactive, 3-D experiences. 
+However, the Universal Studios tour did include some very iconic backlots, and nothing at Warner Brothers compared to Universal's immersive, 3-D experiences. 
 
 I spent approximately 45 minutes on the Universal Studio Tour.  
 
@@ -230,7 +230,7 @@ The best chicken alfredo that I've ever had. So good!
 
 ### Universal Theme Park
 
-Although I wanted to take the Universal Studio Tour, I was irked that I would have to buy an entire Universal Theme Park ticket to take it. A Lyft driver eventually convinced me to do it. She said, it's the best, because you are "in the movies." I know what she means now that I've been through the interactive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
+Although I wanted to take the Universal Studio Tour, I was irked that I would have to buy an entire Universal Theme Park ticket to take it. A Lyft driver eventually convinced me to do it. She said, it's the best, because you are "in the movies." I know what she means now that I've been through the immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
 
 Having been an Alfred Hitchcock fan since I was a kid (I had probably read every Alfred Hitchcock Presents book at the Fredonia Public Library while I was still in grade school), I really enjoyed seeing the Bates Motel and mother's house from Pyscho.
 
