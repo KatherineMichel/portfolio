@@ -43,7 +43,7 @@ The Warner Brothers tour was a personalized, small group experience. At the star
 
 There were multiple photo ops, including the Friends set, Big Bang Theory set, and Friends fountain. 
 
-Before and after the guided part of the tour, we had the opportunity to walk at our own pace through exhibits packed with costumes, props, special effects, and info. 
+Before and after the guided part of the tour, we had the opportunity to walk at our own pace through exhibits packed with incredible costumes, props, and interactive experiences. 
 
 I spent 3 hours on the Warner Brothers tour. 
 
@@ -152,10 +152,10 @@ Placeholder
 ### The Getty Center
 
 ![](los-angeles-2023-images/the-getty-irises.jpg)
-Placeholder
+One of the highlights of the collection: Vincent Van Gogh's Irises
 
 ![](los-angeles-2023-images/the-getty-central-garden.jpg)
-Placeholder
+A garden with an incredible view. I almost overlooked it. Fortunately, I came back a second time and looked again.
 
 ### Tacos 1986 and Santa Monica Beach at Sunset
 
@@ -174,18 +174,25 @@ I have been fascinated by true crime going back to childhood, when I started wat
 
 While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I stopped at Hotel Cecil along the way. 
 
-Hotel Cecil (a.k.a "Hotel Death") was the subject of a Netflix documentary called Crime Scene: The Vanishing at the Cecil Hotel. The documentary focused on the case of Elisa Lam, a Canadian student suffering from bi-polar disease who drowned in a water tank on the roof. Members of the public crowd-sourced an investigation into what happened to Elisa. The hotel has a long history of murder, suicide, and unexplained deaths. In a strange twist, Richard Ramirez, a serial killer profiled in another Netflix documentary Night Stalker, stayed at Hotel Cecil. https://allthatsinteresting.com/cecil-hotel-los-angeles
+Hotel Cecil (a.k.a "Hotel Death") was the subject of a Netflix documentary called Crime Scene: The Vanishing at the Cecil Hotel. The documentary focused on the case of Elisa Lam, a Canadian student suffering from bi-polar disease who drowned in a water tank on the roof. Members of the public crowd-sourced an investigation into what happened to Elisa. The hotel has a long history of murder, suicide, and unexplained deaths. In a strange twist, Richard Ramirez, a serial killer profiled in another Netflix documentary Night Stalker, stayed at Hotel Cecil. 
+
+<!--
+https://allthatsinteresting.com/cecil-hotel-los-angeles
+https://en.wikipedia.org/wiki/List_of_deaths_and_violence_at_the_Cecil_Hotel?fbclid=IwAR2Z8iSwJ_WCcSYarAzVXYOHDHLc44IwH7fiCsAdBtUvfafFlv2y023SLfI
+-->
 
 ![](los-angeles-2023-images/hotel-cecil-1.jpg)
-Hotel Cecil
+The hotel is shuttered with a "private property" sign on one door. There were a few people nearby. Not sure if they were workers or loitering.
 
 ![](los-angeles-2023-images/hotel-cecil-2.jpg)
-The infamous water tanks where Elisa Lam died... it was speculated that Elisa Lam might have taken the stairs on the front of the hotel to the roof where she drowned in a water tank.
+The infamous water tanks where Elisa Lam drowned... it was speculated that she might have taken the stairs on the front of the hotel to the roof.
 
 ### Downtown Los Angeles
 
+While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I walked a few blocks into Skid Row. Strangely, it's next to the Toy and Fashion Districts. Having heard of Skid Row for years, I wanted to see it for myself. The homelessness across Los Angeles was a sad reality. 
+
 ![](los-angeles-2023-images/downtown-la-skid-row.jpg)
-Placeholder
+A local told me the homelessness increased greatly due to the pandemic.
 
 ### Los Angeles City Hall Observation Deck
 
@@ -200,6 +207,8 @@ The best chicken alfredo that I've ever had. So good!
 
 Although I wanted to take the Universal Studio Tour, I was irked that I would have to buy an entire Universal Theme Park ticket to take it. A Lyft driver eventually convinced me to do it. She said, it's the best, because you are "in the movies." I know what she means now that I've been through the interactive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
 
+Having been an Alfred Hitchcock fan since I was a kid (I had probably read every Alfred Hitchcock Presents book at the Fredonia Public Library while I was still in grade school), I really enjoyed seeing the Bates Motel and mother's house from Pyscho.
+
 ![](los-angeles-2023-images/universal-citywalk.jpg)
 Universal CityWalk
 
@@ -207,10 +216,10 @@ Universal CityWalk
 Finally spotted a celebrity and even got a pic. Here I am with "Max" from The Grinch.
 
 ![](los-angeles-2023-images/universal-psycho-bates-motel.jpg)
-Placeholder
+Bates Motel from Pyscho
 
 ![](los-angeles-2023-images/universal-psycho-house.jpg)
-Placeholder
+Mother's house from Pyscho
 
 ### The Griffith Observatory
 
@@ -222,6 +231,10 @@ Placeholder
 ## Wednesday
 
 ### Hollywood Walk of Fame
+
+<!--
+Atlas Obscura
+-->
 
 ![](los-angeles-2023-images/alfred-hitchcock-star.jpg)
 Placeholder
@@ -250,10 +263,14 @@ Placeholder
 
 ### Via Alloro
 
-While I was on the celebrity home bus tour, we drove around Beverly Hills. As we drove past this restaurant off of Rodeo Drive, the bus driver said it's a major celebrity hotspot and that he'd seen Steven Spielberg here, among others. Someone on the bus asked if you had to be dressed up to go in. The bus driver said no, and that he'd had bus riders literally call while on the bus and make a reservation. After the tour ended, I went back to Rodeo Drive for pics and decided to stop to eat there. The prices were surprisingly reasonable and the food was delicious. It felt like a surprisingly normal experience. The waiter told me that they do have "too many" celebs around. Sometimes, everywhere you look. A quick google search does reveal some of the many celebs. https://www.viaalloro.com/
+While I was on the celebrity home bus tour, we drove around Beverly Hills. As we drove past a restauraunt named [Via Alloro](https://www.viaalloro.com/) just off of Rodeo Drive, the bus driver said it's a major celebrity hotspot and that he'd seen Steven Spielberg here, among others. Someone on the bus asked if you had to be dressed up to go in. The bus driver said no, and that he'd had bus riders literally call while on the bus and make a reservation. After the tour ended, I went back to Rodeo Drive for pics and decided to stop to eat there. The prices were surprisingly reasonable and the food was delicious. It felt like a surprisingly normal experience. The waiter told me that they do have "too many" celebs around. Sometimes, everywhere you look. A quick [google search](https://www.google.com/search?q=via+alloro+daily+mail&sca_esv=595179528&sxsrf=AM9HkKl7xam2HHlNbSzt-XLzlojjw9_Jug:1704229408712&source=lnms&sa=X&ved=2ahUKEwjvmpakzb-DAxWpkmoFHQsSDt0Q0pQJegQIBhAC&biw=1440&bih=699&dpr=2#ip=1) does reveal some of the many celebs. 
+
+<!--
+Rubbing shoulders with the stars... 
+-->
 
 ![](los-angeles-2023-images/via-alloro.jpg)
-Rubbing shoulders with the stars
+I had the Fettuccini Boscaiola: homemade fettuccini pasta with meat sauce, cream, green peas, mushrooms for $26.50
 
 ### Bruno's Ristorante Italiano
 
@@ -301,6 +318,8 @@ Gift for a niece
 Gift for a niece
 
 ## What I Learned
+
+I love San Diego's Little Italy. I was surprised by the impersonal, distributed nature of Los Angeles. 
 
 Although I considered taking the Paramount Studio Tour, it was one too many studio tours for this trip. 
 
