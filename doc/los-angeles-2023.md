@@ -1,14 +1,16 @@
 # Los Angeles 2023
 
-Having just finished a great year at work and landed at LAX. 
-
 ## Wednesday
+
+I finished my work year with a successful presentation to my department, then a few hours later, arrived at LAX for a nine day vacation. It was the first non-business trip that I'd taken in years. I had a general idea of the things I wanted to do, but hadn't done much planning. I played it by ear, and it worked. 
 
 ### Santa Monica Pier at Night
 
+Perhaps because I have spent most of my life in a landlocked state, when I arrive in a city on the coast, I am dying to get to the ocean. 
+
 ### North Italia
 
-Having arrived in Los Angeles with little planning, I was looking for a convenient, but decent place to eat dinner. I stumbled upon this restaurant while walking down the street. The food is handmade with the best ingredients, and it was good, but a bit high falutin' for me. Later in the week, I discovered another Italian restaurant nearby called Bruno's Ristorante Italiano. North Italia did not compare to the simple, delicious authenticity of Bruno's. Bruno's perfectly hit the spot for me. 
+I was looking for a convenient, but decent place to eat dinner. I stumbled upon North Italia while walking down the street. The food is handmade with the best ingredients, and it was good, but a bit high falutin' for me. Later in the week, I discovered another Italian restaurant nearby called Bruno's Ristorante Italiano. North Italia did not compare to the simple, delicious authenticity of Bruno's. Bruno's perfectly hit the spot for me. 
 
 ![](los-angeles-2023-images/north-italia.jpg)
 Crushed Meatball Ragu: beef meatball, porchetta, blistered onion, wild oregano, bucatini, pecorino
@@ -16,6 +18,14 @@ Crushed Meatball Ragu: beef meatball, porchetta, blistered onion, wild oregano, 
 ## Thursday
 
 ### Blue Daisy
+
+On Thursday, I ate breakfast at [Blue Daisy](https://www.bluedaisycafe.com/brunch-santa-monica/). I picked it, because the reviews I read were positive. The staff were wonderful, but the food was underwhelming.
+
+I had 3 eggs scrambled with mushroom, which came with zucchini hash and a plain crepe with jam. 
+
+I asked the waiter if the zucchini hash came from another culture. He laughed and said it's something the chef invented to make breakfast healthier. I don't know if I want my breakfast to be that healthy. 
+
+The bright spot of the meal was a delicious Turkish Latte ("creamy and a touch of sweetness"). 
 
 ### Santa Monica and Venice Beaches
 
