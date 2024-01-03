@@ -9,6 +9,9 @@ Placeholder
 
 ![](los-angeles-2023-images/december-9.png)
 Placeholder
+
+![](los-angeles-2023-images/december-11.png)
+Placeholder
 -->
 
 <!--
@@ -95,7 +98,7 @@ After some quick research, I settled on [Warner Brothers Studio Tour](https://ww
 
 Because I hadn't read up on the details of the Warner Brothers tour ahead of time, I had no idea what I would see. 
 
-The chance to take a photo on the real Friends set was a super fun surprise and gave me a feeling of child-like delight. What a great way to kick of off my sightseeing. 
+The chance to take a photo on the real Friends set was a super fun surprise and gave me a feeling of childlike delight. What a great way to kick of off my Hollywood sightseeing. 
 
 ![](los-angeles-2023-images/warner-brothers-friends-set.jpg)
 Me on the real Friends set... I don't usually buy these, but couldn't resist this time!
@@ -159,7 +162,7 @@ République front
 ### Academy Museum of Motion Pictures
 
 ![](los-angeles-2023-images/academy-museum-statue-room.jpg)
-Academy Award statue room
+Academy Award statues room
 
 ![](los-angeles-2023-images/academy-museum-godfather-office-1.jpg)
 The Godfather office
@@ -198,9 +201,7 @@ Terminator 2: Judgement Day animatronic
 
 ### The Getty Center
 
-Although I enjoyed the view of Los Angeles from the main Getty Center terrace, the conscensus from locals was that it's better at The Griffth Observatory. 
-
-Still, the Getty Center experience was well worth the trip. 
+The Getty Center experience was well worth the trip. 
 
 ![](los-angeles-2023-images/been-to-the-getty-center.png)
 Placeholder
@@ -211,27 +212,23 @@ One of the highlights of the collection: [Vincent Van Gogh's Irises](https://www
 ![](los-angeles-2023-images/the-getty-central-garden.jpg)
 [Central Garden](https://www.getty.edu/visit/center/top-things-to-do/gardens/): a garden with an incredible view. I almost overlooked it. Fortunately, I came back a second time and looked again.
 
+Although I enjoyed the view of Los Angeles from the main Getty Center terrace, the conscensus from locals was that the view from the The Griffth Observatory is much better. 
+
+<!--
+Video
+-->
+
 ### Tacos 1986 and Santa Monica Beach at Sunset
 
 
 ## Monday
 
-<!--
-![](los-angeles-2023-images/december-11.png)
-Placeholder
--->
-
 ### République
 
-<!--
-On my way to the Grammy Museum
-I'd love to go back and try the Shrimp and Grits. 
-SHRIMP & GRITS
-anson mills grits, calabrian chilies, pork belly sausage, hooks cheddar, fried egg, 26
--->
+On my way to the Grammy Museum, I stopped at République again for breakfast. I regretted that I hadn't ordered Shrimp and Grits (anson mills grits, calabrian chilies, pork belly sausage, hooks cheddar, fried egg) on Saturday, then realized that dish is only served at weekend brunch and wasn't available on a Monday. I will have to go back sometime and try it. I did have some absolutely incredible tasting granola. It was beautifully presented, and although some of the fruit was unfamiliar to me, it was bursting with delicious flavor, and definitely in the running for the most delicious breakfast that I have ever eaten. 
 
 ![](los-angeles-2023-images/republique-breakfast-2.jpg)
-Placeholder
+Granola: straus organic yogurt, farmer’s market fruit, wildflower honey
 
 ### The Grammy Museum
 
@@ -272,6 +269,8 @@ After a few failed Google searches for restaurants in the area, I stumbled upon 
 
 ![](los-angeles-2023-images/brunos-night-1.jpg)
 Fettuccine Alfredo with chicken... the best that I've ever had. So good!
+
+I saw on the patio with a view of the pier and the sun going down. 
 
 <!--
 ![](los-angeles-2023-images/brunos-google-review.png)
