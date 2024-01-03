@@ -37,11 +37,17 @@ I had to visit Los Angeles to go to a Trader Joe's for the first time. Bought su
 -->
 
 <!--
-![](los-angeles-2023-images/academy-museum-godfather-office-2.jpg)
+![](los-angeles-2023-images/academy-museum-godfather-office-1.jpg)
 The Godfather office
+
+![](los-angeles-2023-images/academy-museum-godfather-office-3.jpg)
+The Godfather office desk
 
 ![](los-angeles-2023-images/academy-museum-horse-head-2.jpg)
 The Godfather rehearsal horse head
+
+![](los-angeles-2023-images/academy-museum-alien-1.jpg)
+Alien xenomorph
 -->
 
 <!--
@@ -207,17 +213,11 @@ République front
 ![](los-angeles-2023-images/academy-museum-statue-room.jpg)
 Academy Award statues room
 
-![](los-angeles-2023-images/academy-museum-godfather-office-1.jpg)
+![](los-angeles-2023-images/academy-museum-godfather-office-2.jpg)
 The Godfather office
-
-![](los-angeles-2023-images/academy-museum-godfather-office-3.jpg)
-The Godfather office desk
 
 ![](los-angeles-2023-images/academy-museum-horse-head-1.jpg)
 The Godfather rehearsal horse head
-
-![](los-angeles-2023-images/academy-museum-alien-1.jpg)
-Alien xenomorph
 
 ![](los-angeles-2023-images/academy-museum-alien-2.jpg)
 Alien xenomorph
