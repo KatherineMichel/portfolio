@@ -33,6 +33,8 @@ Placeholder
 
 ![](los-angeles-2023-images/rebel-moon-premier-2.jpg)
 Placeholder
+
+![](los-angeles-2023-images/my-feeling-about-la.png)
 -->
 
 <!--
@@ -97,6 +99,32 @@ Placeholder
 Placeholder
 -->
 
+## My Top Picks
+
+TL;DR
+
+Hollywood experience
+* Dolby Theater Tour
+* Warner Brothers Tour
+* Universal Studios Tour
+* Academy Museum of Motion Pictures
+* Celebrity Homes Bus Tour
+* Via Alloro
+
+Great views, artwork, and science
+* The Getty Center
+* The Griffith Observatory
+
+Beach fun
+* Santa Monica and Venice Beaches, Santa Monica Pier (day and night)
+
+Fascinating
+* Petersen Automotive Museum
+
+Good food
+* Bruno's Ristorante Italiano
+* République
+  
 ## Wednesday
 
 I finished my work year with a successful presentation to my department, then a few hours later, arrived at LAX for a nine day vacation. It was the first non-business trip that I'd taken in years. I had a general idea of the things I wanted to do, but hadn't done much planning. I played it by ear, and it worked. 
@@ -225,14 +253,15 @@ République front
 
 ### Academy Museum of Motion Pictures
 
-![](los-angeles-2023-images/academy-museum-statue-room.jpg)
-Academy Award statues room
+The Academy Museum of Motion Pictures had a large exhibit filled with an extensive collection of photos, costumes, props, artifacts, and equipment that explored the various types of craft that went into the creation of The Godfather. 
+
+The museum had a number of The Dark Crystal puppets and props. Having watched that movie as a child, I particularly enjoyed seeing them. I hadn't thought about that movie in years, and they instantly transported me back to childhood. 
 
 ![](los-angeles-2023-images/academy-museum-godfather-office-2.jpg)
 The Godfather office
 
 ![](los-angeles-2023-images/academy-museum-horse-head-1.jpg)
-The Godfather rehearsal horse head
+The Godfather rehearsal horse head... not something you see everyday! 
 
 ![](los-angeles-2023-images/academy-museum-alien-2.jpg)
 Alien xenomorph
@@ -241,9 +270,14 @@ Alien xenomorph
 The Dark Crystal's Skeksis
 
 ![](los-angeles-2023-images/academy-museum-terminator.jpg)
-Terminator 2: Judgement Day animatronic
+Terminator 2: Judgement Day animatronic... the team that created this won an Academy Award for Visual Effects
+
+![](los-angeles-2023-images/academy-museum-statue-room.jpg)
+Academy Award statues room
 
 ### Petersen Automotive Museum
+
+As suggested, I started on floor three and worked my way down. The first floor was almost completely devoted to Tesla. I regret not having added the basement "vault" tour to my ticket. It was more than I could do at the time. Perhaps I'll go back sometime. 
 
 ![](los-angeles-2023-images/petersen-thelma-and-louise-car-description.jpg)
 Thelma and Louise Car
@@ -255,10 +289,10 @@ Thelma and Louise Car
 Thelma and Louise Car
 
 ![](los-angeles-2023-images/petersen-back-to-the-future.jpg)
-Back to the Future
+Back to the Future DeLorean
 
 ![](los-angeles-2023-images/petersen-back-to-the-future-close-up.jpg)
-Back to the Future
+Back to the Future flux capacitor!
  
 ## Sunday
 
@@ -281,7 +315,7 @@ Example of the beautiful architecture
 Although I enjoyed the view of Los Angeles from the main Getty Center terrace, the consensus from locals was that the view from the The Griffith Observatory is much better. 
 
 <!--
-Video
+Main Getty Center terrace video
 -->
 
 ### Tacos 1986 and Santa Monica Beach at Sunset
@@ -337,6 +371,14 @@ Strangely, Skid Row is next to the Toy and Fashion Districts. I can't get over t
 The homelessness in Los Angeles was a sad reality. A local told me it increased greatly due to the pandemic.
 
 ### Los Angeles City Hall Observation Deck
+
+I heard that the Los Angeles City Hall Observation Deck is one of the city's best kept secrets, so I had to go. The building architecture was more fancy-schmancy than I expected. The observation deck did trigger my fear of heights, so I didn't stay long out there, but it was a great view!
+
+![](los-angeles-2023-images/city-hall-building.jpg)
+Placeholder
+
+![](los-angeles-2023-images/city-hall-riding-in-style.jpg)
+Placeholder
 
 ![](los-angeles-2023-images/city-hall-banquet-room.jpg)
 Placeholder
@@ -494,6 +536,7 @@ The best chocolate milkshake that I've ever had.
 
 ### End of Santa Monica Pier at Sunset
 
+
 ## Friday
 
 ### Back to Kansas for Christmas
@@ -503,45 +546,26 @@ Bye bye, LA…
 ![](los-angeles-2023-images/bye-la.jpg)
 Santa Monica, Venice, and Playa Del Rey Beaches, I believe
 
-## What I Learned
-
-![](los-angeles-2023-images/my-feeling-about-la.png)
-My feeling about Los Angeles...
-
-I love San Diego's Little Italy. It's a thriving area of the city centered around a Plaza with a fountain, music, open air dining, and great restaurants surrounding it. I thought Santa Monica would be like this, but it wasn't. I was surprised by the isolated, distributed nature of Los Angeles. 
-
-My takeaway from the entertainment indusry was that it's more ordinary than I expected. Just like the desire among many Los Angeles to appear to be living among their means...
-
-Things to do next time:
-* Although I considered taking the Paramount Studio Tour, it was one too many studio tours for this trip.
-* Go to The Griffith Observatory at night
 
 ![](los-angeles-2023-images/last-momento.png)
 One last momento...
 
-## My Top Picks
+## Travel Serendipity
 
-Hollywood experience
-* Dolby Theater Tour
-* Warner Brothers Tour
-* Universal Studios Tour
-* Academy Museum of Motion Pictures
-* Celebrity Homes Bus Tour
-* Via Alloro
+## Takeaways
 
-Great views, artwork, and science
-* The Getty Center
-* The Griffith Observatory
+I love San Diego's thriving Little Italy. I love the plaza, with its beautiful, flowing fountain, live music, open air dining, and great restaurants surrounding it. I love the sight and sound of people enjoying the good things in life. I thought Santa Monica would be like this, but it wasn't. I was shocked by the isolated, distributed feeling of Los Angeles. I did not feel a real sense of community anywhere. 
 
-Beach fun
-* Santa Monica and Venice Beaches, Santa Monica Pier (day and night)
+Never have I been to a place where there is so much poverty and opulence co-existing. Never have I been to a place where there is so much pretending. People pretending by living above their means. The entertainment industry is pretending too. The things that look magical on screen look more ordinary in real life than I expected. 
 
-Fascinating
-* Petersen Automotive Museum
+I'm not completely sure that I liked Los Angeles... yet, I can't wait to go back. Haha. 
 
-Good food
-* Bruno's Ristorante Italiano
-* République
+For one thing, I'd like to go back for the food. I learned from my friend Wooyong that I should research the food before I arrive. Next time, I want to go to the great restaurants, not just restaurants that I find on the spur of the moment. 
+
+Things to do next time:
+* Plan in advance to go to great restaurants
+* Take the Paramount Studio Tour (it was one too many studio tours for this trip)
+* Go to The Griffith Observatory at night
 
 ## Warner Brothers Studio Tour versus Universal Studios Tour
 
