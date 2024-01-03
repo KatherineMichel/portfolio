@@ -244,6 +244,12 @@ Thelma and Louise Car
 ![](los-angeles-2023-images/petersen-thelma-and-louise-car-2.jpg)
 Thelma and Louise Car
 
+![](los-angeles-2023-images/petersen-back-to-the-future.jpg)
+Back to the Future
+
+![](los-angeles-2023-images/petersen-back-to-the-future-close-up.jpg)
+Back to the Future
+ 
 ## Sunday
 
 ### The Getty Center
@@ -449,7 +455,7 @@ That night, I couldn't resist returning to [Bruno's Ristorante Italiano](https:/
 ![](los-angeles-2023-images/brunos-night-2.jpg)
 Spaghetti with meat sauce
 
-I will be back. 
+I'll be back. 
 
 ## Thursday
 
