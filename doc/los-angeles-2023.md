@@ -367,30 +367,29 @@ The infamous water tanks where Elisa Lam drowned... it was speculated that she m
 
 While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I walked a few blocks into [Skid Row](https://en.wikipedia.org/wiki/Skid_Row,_Los_Angeles). Having heard of Skid Row for years, I wanted to see it for myself. I walked by barbed wire, sidewalk tent encampments, many homeless, and a mission providing social services. 
 
-Strangely, Skid Row is next to the Toy and Fashion Districts. I can't get over the extreme opulence and poverty existing side by side across Los Angeles. 
+Strangely, Skid Row is next to the Toy and Fashion Districts. I can't get over the extreme opulence and poverty co-existing across Los Angeles. 
 
 ![](los-angeles-2023-images/downtown-la-skid-row.jpg)
 The homelessness in Los Angeles was a sad reality. A local told me it increased greatly due to the pandemic.
 
 ### Los Angeles City Hall Observation Deck
 
-I heard that the Los Angeles City Hall Observation Deck is one of the city's best kept secrets, so I had to go. The building architecture was more fancy-schmancy than I expected. The observation deck did trigger my fear of heights, so I didn't stay long out there, but it was a great view!
+I heard that the Los Angeles City Hall Observation Deck is one of the city's best kept secrets, so I had to go. The building architecture was more fancy-schmancy than I expected. The observation deck triggered my fear of heights, so I didn't stay long out there, but it was a great view!
 
 ![](los-angeles-2023-images/city-hall-building.jpg)
-Placeholder
+Fancy Schmancy
 
 ![](los-angeles-2023-images/city-hall-riding-in-style.jpg)
-Placeholder
+Riding in style
 
 ![](los-angeles-2023-images/city-hall-banquet-room.jpg)
-Placeholder
+This banquet room has doors that lead out to the observation deck. 
 
 ![](los-angeles-2023-images/city-hall-observation-deck-view-explainer.jpg)
-Placeholder
+A view from one of the four sides
 
 ![](los-angeles-2023-images/city-hall-observation-deck-view.jpg)
-Placeholder
-
+A view from one of the four sides
 
 ### Bruno's Ristorante Italiano
 
@@ -418,7 +417,7 @@ https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attra
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/fast-furious-supercharged
 -->
 
-Although I wanted to take the [Universal Studio Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. After multiple told me how fun the theme park including a Lyft driver who said it's the best, because you are "in the movies," I decided to go. I know what she means now that I've experienced the incredible, immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
+Although I wanted to take the [Universal Studio Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. After multiple people told me how fun the theme park is including a Lyft driver who said it's the best, because you are "in the movies," I decided to go. I know what she means now that I've experienced the incredible, immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
 
 I guess I got my money's worth for the studio tour alone. I went twice... riding on either side of the cart to get a good look at everything. 
 
