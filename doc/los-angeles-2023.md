@@ -169,6 +169,15 @@ This red carpet leads the winners to their press interview.
 
 I made it back to Santa Monica for sunset at the beach.
 
+![](los-angeles-2023-images/santa-monica-beach-sunset-1.jpg)
+Placeholder
+
+![](los-angeles-2023-images/santa-monica-beach-sunset-2.jpg)
+Placeholder
+
+![](los-angeles-2023-images/santa-monica-beach-sunset-3.jpg)
+Placeholder
+ 
 ![](los-angeles-2023-images/pier-burger.jpg)
 I ate an overpriced hamburger, fries, and strawberry milkshake at Pier Burger. 
 
