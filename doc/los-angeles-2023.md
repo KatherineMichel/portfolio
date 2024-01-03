@@ -1,12 +1,8 @@
 # Los Angeles 2023
 
 <!--
-![](los-angeles-2023-images/been-to-the-getty-center.png)
-Placeholder
-
 ![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
 Placeholder
-
 
 ![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
 Placeholder
@@ -98,22 +94,24 @@ Me sitting in front of the real Friends fountain... the sofa looks soft, but was
 ![](los-angeles-2023-images/warner-brothers-awards.jpg)
 Warner Brothers Studio awards
 
+
 ### Hollywood Walk of Fame, TCL Theatre, Hollywood Sign
+
 
 ### Dolby Theater Tour
 
-After the Warner Brothers Studio Tour, I traveled over to Hollywood for the Dolby Theater Tour. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
+After the Warner Brothers Studio Tour, I traveled over to Hollywood for the [Dolby Theater Tour](https://dolbytheatre.com/tours/tour-information/). I really enjoyed this tour. It was one of the most fun things that I've ever done. 
 
 My tour guide was a long-time Academy Awards ceremony crew member. We walked in the footsteps of the A-list stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
 
 ![](los-angeles-2023-images/dolby-theater-walkway-1.jpg)
-On Oscar night, Hollywood Boulevard becomes a walkway for the stars. Normally the entrance to the Ovation Shopping Center, attendees will walk down this grand hall.  
+On Oscar night, Hollywood Boulevard becomes a walkway for the stars. Normally the entrance to the [Ovation Shopping Center](https://www.ovationhollywood.com/), attendees will walk down this grand, elaborately decorated hall.  
 
 ![](los-angeles-2023-images/dolby-theater-walkway-2.jpg)
 The steps to the Dolby Theater
 
 ![](los-angeles-2023-images/dolby-theater-stage.jpg)
-Me standing where the presenter stands with a view of the audience behind me... the photos on chairs represent the A-list guests who sat there.
+Me standing where the presenter stands with a view of the audience behind me... the photos on chairs represent the A-list guests who sat there recently.
 
 ![](los-angeles-2023-images/dolby-theater-winners-walk.jpg)
 Having exited stage left just like the Academy Award winners do, we are walking in their footsteps down the "Winner's Walk." 
@@ -178,13 +176,16 @@ Terminator 2: Judgement Day animatronic
 
 ## Sunday
 
+![](los-angeles-2023-images/been-to-the-getty-center.png)
+Placeholder
+
 ### The Getty Center
 
 ![](los-angeles-2023-images/the-getty-irises.jpg)
-One of the highlights of the collection: Vincent Van Gogh's Irises
+One of the highlights of the collection: [Vincent Van Gogh's Irises](https://www.getty.edu/art/collection/object/103JNH)
 
 ![](los-angeles-2023-images/the-getty-central-garden.jpg)
-Central Garden: a garden with an incredible view. I almost overlooked it. Fortunately, I came back a second time and looked again.
+[Central Garden](https://www.getty.edu/visit/center/top-things-to-do/gardens/): a garden with an incredible view. I almost overlooked it. Fortunately, I came back a second time and looked again.
 
 ### Tacos 1986 and Santa Monica Beach at Sunset
 
@@ -202,16 +203,15 @@ Placeholder
 
 ### The Cecil Hotel
 
-I have been fascinated by true crime going back to childhood, when I started watching 48 Hours, my all-time favorite show. 
+<!--
+https://allthatsinteresting.com/cecil-hotel-los-angeles
+-->
+
+I have been fascinated by true crime going back to childhood, when I started watching [48 Hours](https://www.cbsnews.com/48-hours/full-episodes/), my all-time favorite show. 
 
 While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I stopped at Hotel Cecil along the way. 
 
-Hotel Cecil (a.k.a "Hotel Death") was the subject of a Netflix documentary called Crime Scene: The Vanishing at the Cecil Hotel. The documentary focused on the case of Elisa Lam, a Canadian student suffering from bi-polar disease who drowned in a water tank on the roof. Members of the public crowd-sourced an investigation into what happened to Elisa. The hotel has a long history of murder, suicide, and unexplained deaths. In a strange twist, Richard Ramirez, a serial killer profiled in another Netflix documentary Night Stalker, stayed at Hotel Cecil. 
-
-<!--
-https://allthatsinteresting.com/cecil-hotel-los-angeles
-https://en.wikipedia.org/wiki/List_of_deaths_and_violence_at_the_Cecil_Hotel?fbclid=IwAR2Z8iSwJ_WCcSYarAzVXYOHDHLc44IwH7fiCsAdBtUvfafFlv2y023SLfI
--->
+Hotel Cecil (a.k.a "Hotel Death") was the subject of a Netflix documentary called [Crime Scene: The Vanishing at the Cecil Hotel](https://www.netflix.com/title/81183727). The documentary focused on the case of [Elisa Lam](https://en.wikipedia.org/wiki/List_of_deaths_and_violence_at_the_Cecil_Hotel), a Canadian student suffering from bi-polar disease who drowned in a water tank on the roof. Members of the public crowd-sourced an investigation into what happened to Elisa. The hotel has a long history of murder, suicide, and unexplained deaths. In a strange twist, Richard Ramirez, a serial killer profiled in another Netflix documentary Night Stalker, stayed at Hotel Cecil. 
 
 ![](los-angeles-2023-images/hotel-cecil-1.jpg)
 The hotel is shuttered with a "private property" sign on one door. There were a few people nearby. Not sure if they were workers or loitering.
@@ -221,28 +221,26 @@ The infamous water tanks where Elisa Lam drowned... it was speculated that she m
 
 ### Downtown Los Angeles
 
-<!--
-https://en.wikipedia.org/wiki/Skid_Row,_Los_Angeles
--->
+While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I walked a few blocks into [Skid Row](https://en.wikipedia.org/wiki/Skid_Row,_Los_Angeles). Having heard of Skid Row for years, I wanted to see it for myself. I walked by barbed wire, sidewalk tent encampments, many homeless, and a mission providing social services. 
 
-While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I walked a few blocks into Skid Row. Having heard of Skid Row for years, I wanted to see it for myself. Strangely, it's next to the Toy and Fashion Districts. I can't get over the extreme opulence and poverty existing side by side across Los Angeles. 
+Strangely, Skid Row is next to the Toy and Fashion Districts. I can't get over the extreme opulence and poverty existing side by side across Los Angeles. 
 
 ![](los-angeles-2023-images/downtown-la-skid-row.jpg)
 The homelessness in Los Angeles was a sad reality. A local told me it increased greatly due to the pandemic.
 
 ### Los Angeles City Hall Observation Deck
 
+
 ### Bruno's Ristorante Italiano
 
-<!--
-https://brunossantamonica.com/
--->
+After a few failed Google searches for restaurants in the area, I stumbled upon the absolute gem [Bruno's Ristorante Italiano](https://brunossantamonica.com/)
 
 ![](los-angeles-2023-images/brunos-night-1.jpg)
 Fettuccine Alfredo with chicken... the best that I've ever had. So good!
 
 ![](los-angeles-2023-images/brunos-google-review.png)
-Placeholder
+I was quick to leave a Google review. 
+
 
 ## Tuesday
 
@@ -252,31 +250,35 @@ Placeholder
 ### Universal Theme Park
 
 <!--
-https://www.universalstudioshollywood.com/web/en/us
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour
 -->
 
-Although I wanted to take the Universal Studio Tour, I was irked that I would have to buy an entire Universal Theme Park ticket to take it. A Lyft driver eventually convinced me to do it. She said, it's the best, because you are "in the movies." I know what she means now that I've been through the immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
+Although I wanted to take the [Universal Studio Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. A Lyft driver eventually convinced me to do it. She said, it's the best, because you are "in the movies." I know what she means now that I've been through the immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
 
-Having been an Alfred Hitchcock fan since I was a kid (I had probably read every Alfred Hitchcock Presents book at the Fredonia Public Library while I was still in grade school), I really enjoyed seeing the Bates Motel and mother's house from Pyscho.
+Having been an [Alfred Hitchcock](https://en.wikipedia.org/wiki/Alfred_Hitchcock) fan since I was a kid (I had probably read every [Alfred Hitchcock Presents](https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents) book at the Fredonia Public Library while I was still in grade school), I really enjoyed seeing the Bates Motel and mother's house from [Psycho](https://en.wikipedia.org/wiki/Psycho_(1960_film)).
 
 ![](los-angeles-2023-images/universal-citywalk.jpg)
-Universal CityWalk
+[Universal CityWalk](https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/citywalk)
 
 ![](los-angeles-2023-images/universal-me-and-max.jpg)
 Finally spotted a celebrity and even got a pic. Here I am with "Max" from The Grinch.
 
 ![](los-angeles-2023-images/universal-psycho-bates-motel.jpg)
-Bates Motel from Pyscho
+Bates Motel from Psycho
 
 ![](los-angeles-2023-images/universal-psycho-house.jpg)
-Mother's house from Pyscho
+Mother's house from Psycho
 
 ### The Griffith Observatory
 
+
 ### Comedy in English
 
-That night, I attended a comedy show for the first time. There were excruciating silences, awkward jokes, and big laughs. What a raw exercise!
+<!--
+https://www.facebook.com/Comineng/
+-->
+
+That night, I attended a comedy show for the first time. There were awkward, confrontational jokes, excruciating silences, and big laughs. What a raw exercise!
 
 ![](los-angeles-2023-images/comedy-show.jpg)
 The comedian before him was scream-y... this one was quiet and thoughtful. I thought he'd bomb, but he didn't! 
@@ -319,43 +321,54 @@ Dior
 
 ### Via Alloro
 
-While I was on the celebrity home bus tour, we drove around Beverly Hills. As we drove past a restauraunt named [Via Alloro](https://www.viaalloro.com/) just off of Rodeo Drive, the bus driver said it's a major celebrity hotspot and that he'd seen Steven Spielberg here, among others. Someone on the bus asked if you had to be dressed up to go in. The bus driver said no, and that he'd had bus riders literally call while on the bus and make a reservation. After the tour ended, I went back to Rodeo Drive for pics and decided to stop to eat there. The prices were surprisingly reasonable and the food was delicious. It felt like a surprisingly normal experience. The waiter told me that they do have "too many" celebs around. Sometimes, everywhere you look. A quick [google search](https://www.google.com/search?q=via+alloro+daily+mail&sca_esv=595179528&sxsrf=AM9HkKl7xam2HHlNbSzt-XLzlojjw9_Jug:1704229408712&source=lnms&sa=X&ved=2ahUKEwjvmpakzb-DAxWpkmoFHQsSDt0Q0pQJegQIBhAC&biw=1440&bih=699&dpr=2#ip=1) does reveal some of the many celebs. 
+While I was on the celebrity home bus tour, we drove around Beverly Hills. As we drove past a restauraunt named [Via Alloro](https://www.viaalloro.com/) just off of Rodeo Drive, the bus driver said it's a major celebrity hotspot and that he'd seen Steven Spielberg here, among others. Someone on the bus asked if you had to be dressed up to go in. The bus driver said no, and that he'd had bus riders literally call while on the bus and make a reservation. 
+
+After the tour ended, I went back to Rodeo Drive for pics and decided to stop to eat there. The prices were surprisingly reasonable and the food was delicious. It felt like a surprisingly normal experience. The waiter told me that they do have "too many" celebs around. Sometimes, everywhere you look. A quick [google search](https://www.google.com/search?q=via+alloro+daily+mail&sca_esv=595179528&sxsrf=AM9HkKl7xam2HHlNbSzt-XLzlojjw9_Jug:1704229408712&source=lnms&sa=X&ved=2ahUKEwjvmpakzb-DAxWpkmoFHQsSDt0Q0pQJegQIBhAC&biw=1440&bih=699&dpr=2#ip=1) reveals some of the many celebs. 
 
 <!--
 Rubbing shoulders with the stars... 
 -->
 
+I had the Fettuccini Boscaiola. Having never heard of this dish, I wasn't quite sure what it would be like, but I thought it sounded good. It was delicious! 
+
 ![](los-angeles-2023-images/via-alloro.jpg)
-I had the Fettuccini Boscaiola: homemade fettuccini pasta with meat sauce, cream, green peas, mushrooms for $26.50
+Fettuccini Boscaiola: homemade fettuccini pasta with meat sauce, cream, green peas, mushrooms for $26.50
 
 ### Bruno's Ristorante Italiano
 
+That night, I couldn't resist returning to [Bruno's Ristorante Italiano](https://brunossantamonica.com/) for another meal. It was another hit. 
+
 ![](los-angeles-2023-images/brunos-night-2.jpg)
 Spaghetti with meat sauce
+
+I will be back. 
 
 ## Thursday
 
 ![](los-angeles-2023-images/december-14.png)
 Placeholder
 
-### The Ice 
+### Ice at Santa Monica 
 
 If I hadn't already done enough... I went ice skating for the first time! 
+
+I went to [Ice at Santa Monica](https://iceatsantamonica.com/). 
 
 It was fun, and I skated for a good 30 minutes, but when another skater wiped out badly, I decided that I'd pushed my luck long enough and stopped. The rink workers said the skates weren't great anyway, because they provided very little support. Nevertheless, I'm glad I tried it, and perhaps I'll try again sometime.
 
 ![](los-angeles-2023-images/ice-skating.jpg)
-Santa Monica's The Ice skating rink
+Santa Monica's Ice skating rink
 
 ### Mel's Drive-In
 
-I saw a Mel's Drive-in at Universal Studios Theme Park and another one just off Hollywood Boulevard. Because I kept hearing about it so much, I decided to eat at one in Santa Monica. I later realized that I had Mel's Drive-in mixed up with Mel's Diner. Mel's Drive-in was made famous by the movie American Graffiti. Mel's Diner was a television show. Haha. Nevertheless, the chocolate milkshake was the best that I've ever had. 
+I saw a [Mel's Drive-in](https://melsdrive-in.com/) at Universal Studios Theme Park and another one just off Hollywood Boulevard. Because I kept hearing about it so much, I decided to eat at one in Santa Monica. I later realized that I had Mel's Drive-in mixed up with Mel's Diner. Mel's Drive-in was made famous by the movie [American Graffiti](https://melsdrive-in.com/about/#story). [Mel's Diner](https://www.alicehyatt.com/) was a television show. Haha. Nevertheless, the chocolate milkshake was the best that I've ever had. 
 
 ![](los-angeles-2023-images/mels-drive-in-counter.jpg)
 Mel's Drive-in Counter
 
 ![](los-angeles-2023-images/mels-drive-in-milkshake.jpg)
 The best chocolate milkshake that I've ever had. 
+
 
 ### Santa Monica Beach
 
@@ -367,8 +380,10 @@ The best chocolate milkshake that I've ever had.
 
 ### Back to Kansas for Christmas
 
+Bye bye, LA… 
+
 ![](los-angeles-2023-images/bye-la.jpg)
-Bye bye, LA… Santa Monica, Venice, and Playa Del Rey Beaches, I believe
+Santa Monica, Venice, and Playa Del Rey Beaches, I believe
 
 ![](los-angeles-2023-images/universal-niece-gift.jpg)
 Gift for a niece
