@@ -1,8 +1,6 @@
 # Los Angeles 2023
 
 <!--
-Captions?
-
 ![](los-angeles-2023-images/december-7.png)
 Placeholder
 
@@ -79,7 +77,12 @@ Placeholder
 Atlas Obscura
 -->
 
+
 <!--
+Captions?
+
+![](los-angeles-2023-images/i-am-one-block-away.png)
+
 ![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
 Placeholder
 
@@ -114,7 +117,6 @@ The best part of the meal was a delicious Turkish Latte ("creamy and a touch of 
 
 ### Santa Monica and Venice Beaches
 
-![](los-angeles-2023-images/i-am-one-block-away.png)
 Perhaps because I have spent most of my life in a landlocked state, when I arrive in a city on the coast, I can't wait to get to the ocean. 
 
 On my first full day in Los Angeles, I walked from Santa Monica Pier to Venice Beach Pier via the boardwalk, then back to Santa Monica Pier via the ocean. 
