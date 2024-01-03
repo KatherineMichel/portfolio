@@ -99,6 +99,12 @@ I finished my work year with a successful presentation to my department, then a 
 
 ### Santa Monica Pier at Night
 
+![](los-angeles-2023-images/santa-monica-pier-at-night-1.jpg)
+Placeholder
+
+![](los-angeles-2023-images/santa-monica-pier-at-night-2.jpg)
+Placeholder
+
 ### North Italia
 
 I was looking for a convenient, but decent place to eat dinner. I stumbled upon North Italia while walking down the street. The food is handmade with the best ingredients, and it was good, but a bit high falutin' Italian for my taste. Later in the week, I discovered another Italian restaurant nearby called Bruno's Ristorante Italiano. North Italia did not compare to the simple, delicious authenticity of Bruno's. Bruno's perfectly hit the spot for me. Sorry, North Italia. 
