@@ -1,9 +1,6 @@
 # Los Angeles 2023
 
 <!--
-![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
-Placeholder
-
 ![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
 Placeholder
 
@@ -84,10 +81,10 @@ I spent approximately 45 minutes on the Universal Studio Tour.
 ### Warner Brothers Studio Tour
 
 <!--
-https://www.wbstudiotour.com/tour/studio/
+Highlights
 -->
 
-After some quick research, I settled on Warner Brothers Studio Tour as a top priority. It was an incredible, in-depth experience. 
+After some quick research, I settled on [Warner Brothers Studio Tour](https://www.wbstudiotour.com/tour/studio/) as a top priority. It was an incredible, in-depth experience. 
 
 Because I hadn't read up on the details of the Warner Brothers tour ahead of time, I had no idea what I would see. 
 
@@ -192,6 +189,11 @@ Terminator 2: Judgement Day animatronic
 ![](los-angeles-2023-images/been-to-the-getty-center.png)
 Placeholder
 
+<!--
+![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
+Placeholder
+-->
+
 ![](los-angeles-2023-images/the-getty-irises.jpg)
 One of the highlights of the collection: [Vincent Van Gogh's Irises](https://www.getty.edu/art/collection/object/103JNH)
 
@@ -199,6 +201,7 @@ One of the highlights of the collection: [Vincent Van Gogh's Irises](https://www
 [Central Garden](https://www.getty.edu/visit/center/top-things-to-do/gardens/): a garden with an incredible view. I almost overlooked it. Fortunately, I came back a second time and looked again.
 
 ### Tacos 1986 and Santa Monica Beach at Sunset
+
 
 ## Monday
 
@@ -213,6 +216,7 @@ Placeholder
 Placeholder
 
 ### The Grammy Museum
+
 
 ### The Cecil Hotel
 
@@ -251,9 +255,10 @@ After a few failed Google searches for restaurants in the area, I stumbled upon 
 ![](los-angeles-2023-images/brunos-night-1.jpg)
 Fettuccine Alfredo with chicken... the best that I've ever had. So good!
 
+<!--
 ![](los-angeles-2023-images/brunos-google-review.png)
 I was quick to leave a Google review. 
-
+-->
 
 ## Tuesday
 
@@ -410,6 +415,23 @@ Bye bye, LA…
 ![](los-angeles-2023-images/bye-la.jpg)
 Santa Monica, Venice, and Playa Del Rey Beaches, I believe
 
+## What I Learned
+
+![](los-angeles-2023-images/my-feeling-about-la.png)
+My feeling about Los Angeles...
+
+I love San Diego's Little Italy. It's a thriving area of the city centered around a Plaza with a fountain, music, open air dining, and great restaurants surrounding it. I thought Santa Monica would be like this, but it wasn't. I was surprised by the isolated, distributed nature of Los Angeles. 
+
+My takeaway from the entertainment indusry was that it's more ordinary than I expected. Just like the desire among many Los Angeles to appear to be living among their means...
+
+Things to do next time:
+* Although I considered taking the Paramount Studio Tour, it was one too many studio tours for this trip.
+* Go to The Griffith Observatory at night
+
+![](los-angeles-2023-images/last-momento.png)
+One last momento...
+
+
 <!--
 ![](los-angeles-2023-images/universal-niece-gift.jpg)
 Gift for a niece
@@ -421,24 +443,9 @@ Gift for a niece
 Gift for a niece
 -->
 
-## What I Learned
-
-![](los-angeles-2023-images/my-feeling-about-la.png)
-My feeling about Los Angeles...
-
-I love San Diego's Little Italy. It's a thriving area of the city centered around a Plaza with a fountain, music, open air dining, and great restaurants surrounding it. I thought Santa Monica would be like this, but it wasn't. I was surprised by the isolated, distributed nature of Los Angeles. 
-
-My takeaway from the entertainment indusry was that it's more ordinary than I expected. Just like the desire among many Los Angeles to appear to be living among their means...
-
-Things to do next time:
-* Although I considered taking the Paramount Studio Tour, it was one too many studio tours for this trip. 
-
+<!--
 I wore a different outfit everyday, but because I took a handful of sweatshirts and wore them over t-shirts to stay warm, I look like I had on the same outfit everyday. 🤷‍♀️
 
-![](los-angeles-2023-images/last-momento.png)
-One last momento...
-
-<!--
 ![](los-angeles-2023-images/i-hope-you-got-pics.png)
 Placeholder
 
