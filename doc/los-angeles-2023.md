@@ -12,6 +12,12 @@ Placeholder
 
 ![](los-angeles-2023-images/december-11.png)
 Placeholder
+
+![](los-angeles-2023-images/december-12.png)
+Placeholder
+
+![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
+Placeholder
 -->
 
 <!--
@@ -27,6 +33,31 @@ The Godfather office
 ![](los-angeles-2023-images/academy-museum-horse-head-2.jpg)
 The Godfather rehearsal horse head
 -->
+
+<!--
+![](los-angeles-2023-images/universal-niece-gift.jpg)
+Gift for a niece
+
+![](los-angeles-2023-images/surf-n-sand-niece-gift-1.jpg)
+Gift for a niece
+
+![](los-angeles-2023-images/surf-n-sand-niece-gift-2.jpg)
+Gift for a niece
+-->
+
+<!--
+I wore a different outfit everyday, but because I took a handful of sweatshirts and wore them over t-shirts to stay warm, I look like I had on the same outfit everyday. 🤷‍♀️
+
+![](los-angeles-2023-images/i-hope-you-got-pics.png)
+Placeholder
+
+![](los-angeles-2023-images/ive-forgotten-how-good-my-iphone-camera-is.png)
+Placeholder
+
+![](los-angeles-2023-images/southwest-timezone.png)
+Placeholder
+-->
+
 
 <!--
 ![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
@@ -63,10 +94,8 @@ The best part of the meal was a delicious Turkish Latte ("creamy and a touch of 
 
 ### Santa Monica and Venice Beaches
 
-Perhaps because I have spent most of my life in a landlocked state, when I arrive in a city on the coast, I can't wait to get to the ocean. 
-
 ![](los-angeles-2023-images/i-am-one-block-away.png)
-Placeholder
+Perhaps because I have spent most of my life in a landlocked state, when I arrive in a city on the coast, I can't wait to get to the ocean. 
 
 On my first full day in Los Angeles, I walked from Santa Monica Pier to Venice Beach Pier via the boardwalk, then back to Santa Monica Pier via the ocean. 
 
@@ -199,10 +228,12 @@ Terminator 2: Judgement Day animatronic
 
 ### The Getty Center
 
-The Getty Center experience was well worth the trip. 
+<!--
+Captions?
+-->
 
 ![](los-angeles-2023-images/been-to-the-getty-center.png)
-Placeholder
+The Getty Center experience was well worth the trip. 
 
 ![](los-angeles-2023-images/the-getty-irises.jpg)
 One of the highlights of the collection: [Vincent Van Gogh's Irises](https://www.getty.edu/art/collection/object/103JNH)
@@ -277,14 +308,11 @@ I was quick to leave a Google review.
 
 ## Tuesday
 
-<!--
-![](los-angeles-2023-images/december-12.png)
-Placeholder
--->
-
 ### Universal Theme Park
 
 <!--
+I wanted to take the Universal Studios Tour, but you have to buy the full theme park ticket to do it. After multiple people told me how fun the theme park is, I finally went. The studio tour was pretty fun. I guess I got my money's worth, because I went twice... riding on either side of the tram to get a good look at everything. The tour included some iconic sets, and pretty incredible, interactive 3-D experiences, but was not nearly as in-depth as Warner Brothers in terms of touring a sound stage, insider stories, being on famous sets, and artifacts. I walked most of the park. It was fun, but geared more toward kids. 
+
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
 
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour
@@ -311,10 +339,10 @@ Mother's house from Psycho
 ### The Griffith Observatory
 
 <!--
-![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
-Placeholder
--->
+I then went to the Griffith Observatory. I was beautiful and had an amazing view. Multiple people have told me it is "spectacular" after dark, but frankly, I was too tired to stay that long. I will go back sometime. 
 
+A Lyft driver gave me a tip to be there at sunset, though I don't know if I'd make it that late in the day. 
+-->
 
 ### Comedy in English
 
@@ -450,28 +478,3 @@ Things to do next time:
 
 ![](los-angeles-2023-images/last-momento.png)
 One last momento...
-
-
-<!--
-![](los-angeles-2023-images/universal-niece-gift.jpg)
-Gift for a niece
-
-![](los-angeles-2023-images/surf-n-sand-niece-gift-1.jpg)
-Gift for a niece
-
-![](los-angeles-2023-images/surf-n-sand-niece-gift-2.jpg)
-Gift for a niece
--->
-
-<!--
-I wore a different outfit everyday, but because I took a handful of sweatshirts and wore them over t-shirts to stay warm, I look like I had on the same outfit everyday. 🤷‍♀️
-
-![](los-angeles-2023-images/i-hope-you-got-pics.png)
-Placeholder
-
-![](los-angeles-2023-images/ive-forgotten-how-good-my-iphone-camera-is.png)
-Placeholder
-
-![](los-angeles-2023-images/southwest-timezone.png)
-Placeholder
--->
