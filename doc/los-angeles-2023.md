@@ -484,9 +484,9 @@ Dior
 
 ### Via Alloro
 
-While I was on the celebrity home bus tour, we drove around Beverly Hills. As we drove past a restauraunt named [Via Alloro](https://www.viaalloro.com/) just off of Rodeo Drive, the bus driver said it's a major celebrity hotspot and that he'd seen Steven Spielberg there, among others. Someone on the bus asked if you had to be dressed up to go in. The bus driver said no, and that he'd had bus riders literally call while on the bus and make a reservation. 
+While I was on the celebrity home bus tour, we drove around Beverly Hills. As we drove past a restauraunt named [Via Alloro](https://www.viaalloro.com/) just off of Rodeo Drive, the tour guide said it's a major celebrity hotspot and that he'd seen Steven Spielberg there, among others. Someone on the bus asked if you had to be dressed up to go in. The tour guide said no, and that he'd had passengers literally call while on the bus and make a reservation. 
 
-After the tour ended, I went back to Rodeo Drive and walked down the entire street taking pics. Afteward, I decided to eat at Via Alloro. I knew if I didn't, I'd regret that I hadn't taken the opportunity to rub shoulders with the stars. 
+After the tour ended, I went back to Rodeo Drive and walked down the entire street taking pics. Afteward, I decided to eat at Via Alloro. I knew if I didn't, I'd regret that I hadn't taken the opportunity to "rub shoulders" with the stars. 
 
 The prices were surprisingly reasonable and the food was delicious. It felt like a surprisingly normal experience. The waiter told me that they do have "too many" celebs around. Sometimes, everywhere you look. A quick [google search](https://www.google.com/search?q=via+alloro+daily+mail&sca_esv=595179528&sxsrf=AM9HkKl7xam2HHlNbSzt-XLzlojjw9_Jug:1704229408712&source=lnms&sa=X&ved=2ahUKEwjvmpakzb-DAxWpkmoFHQsSDt0Q0pQJegQIBhAC&biw=1440&bih=699&dpr=2#ip=1) reveals some of the many celebs. 
 
