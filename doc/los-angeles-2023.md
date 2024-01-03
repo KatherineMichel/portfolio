@@ -1,6 +1,17 @@
 # Los Angeles 2023
 
 <!--
+![](los-angeles-2023-images/december-7.png)
+Placeholder
+
+![](los-angeles-2023-images/december-8.png)
+Placeholder
+
+![](los-angeles-2023-images/december-9.png)
+Placeholder
+-->
+
+<!--
 ![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
 Placeholder
 
@@ -14,8 +25,6 @@ I finished my work year with a successful presentation to my department, then a 
 
 ### Santa Monica Pier at Night
 
-Perhaps because I have spent most of my life in a landlocked state, when I arrive in a city on the coast, I can't wait to get to the ocean. 
-
 ### North Italia
 
 I was looking for a convenient, but decent place to eat dinner. I stumbled upon North Italia while walking down the street. The food is handmade with the best ingredients, and it was good, but a bit high falutin' Italian for my taste. Later in the week, I discovered another Italian restaurant nearby called Bruno's Ristorante Italiano. North Italia did not compare to the simple, delicious authenticity of Bruno's. Bruno's perfectly hit the spot for me. Sorry, North Italia. 
@@ -24,11 +33,6 @@ I was looking for a convenient, but decent place to eat dinner. I stumbled upon 
 North Italia Crushed Meatball Ragu: beef meatball, porchetta, blistered onion, wild oregano, bucatini, pecorino
 
 ## Thursday
-
-<!--
-![](los-angeles-2023-images/december-7.png)
-Placeholder
--->
 
 ### Blue Daisy
 
@@ -42,19 +46,22 @@ The best part of the meal was a delicious Turkish Latte ("creamy and a touch of 
 
 ### Santa Monica and Venice Beaches
 
+Perhaps because I have spent most of my life in a landlocked state, when I arrive in a city on the coast, I can't wait to get to the ocean. 
+
 ![](los-angeles-2023-images/i-am-one-block-away.png)
 Placeholder
 
+On my first full day in Los Angeles, I walked from Santa Monica Pier to Venice Beach Pier via the boardwalk, then back to Santa Monica Pier via the ocean. 
+
+The San Diego beaches that I've been to have been more breathtaking (south of La Jolla Cove) and more Califiornia-y (Pacific and Ocean Beaches Boardwalks), but it was great to be near the ocean again. 
+
 <!--
 ### Trader Joe's
+
+I had to visit Los Angeles to go to a Trader Joe's for the first time. Bought supper and snacks there. 
 -->
 
 ## Friday
-
-<!--
-![](los-angeles-2023-images/december-8.png)
-Placeholder
--->
 
 ### Warner Brothers Studio Tour versus Universal Studios Tour
 
@@ -105,9 +112,9 @@ Warner Brothers Studio awards
 
 ### Dolby Theater Tour
 
-After the Warner Brothers Studio Tour, I traveled over to Hollywood for the [Dolby Theater Tour](https://dolbytheatre.com/tours/tour-information/). I really enjoyed this tour. It was one of the most fun things that I've ever done. 
+After the Warner Brothers Studio Tour, I traveled over to Hollywood for the [Dolby Theater Tour](https://dolbytheatre.com/tours/tour-information/). The Dolby Theater is the location of the Academy Awards Ceremony. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
 
-My tour guide was a long-time Academy Awards ceremony crew member. We walked in the footsteps of the A-list stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
+My tour guide was a long-time Academy Awards Ceremony crew member. We walked in the footsteps of the A-list stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
 
 ![](los-angeles-2023-images/dolby-theater-walkway-1.jpg)
 On Oscar night, Hollywood Boulevard becomes a walkway for the stars. Normally the entrance to the [Ovation Shopping Center](https://www.ovationhollywood.com/), attendees will walk down this grand, elaborately decorated hall.  
@@ -126,15 +133,14 @@ This red carpet leads the winners to their press interview.
 
 ### Santa Monica Beach at Sunset and Pier Burger
 
+I made it back to Santa Monica for sunset at the beach, then ate an overpriced hamburger, fries, and strawberry milkshake at Pier Burger. 
+
 
 ## Saturday
 
-<!--
-![](los-angeles-2023-images/december-9.png)
-Placeholder
--->
-
 ### République
+
+I started Saturday by eating breakfast at a bakery/cafe 
 
 ![](los-angeles-2023-images/republique-bakery.jpg)
 Placeholder
@@ -186,13 +192,12 @@ Terminator 2: Judgement Day animatronic
 
 ### The Getty Center
 
+Although I enjoyed the view of Los Angeles from the main Getty Center terrace, the conscensus from locals was that it's better at The Griffth Observatory. 
+
+Still, the Getty Center experience was well worth the trip. 
+
 ![](los-angeles-2023-images/been-to-the-getty-center.png)
 Placeholder
-
-<!--
-![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
-Placeholder
--->
 
 ![](los-angeles-2023-images/the-getty-irises.jpg)
 One of the highlights of the collection: [Vincent Van Gogh's Irises](https://www.getty.edu/art/collection/object/103JNH)
@@ -294,6 +299,11 @@ Bates Motel from Psycho
 Mother's house from Psycho
 
 ### The Griffith Observatory
+
+<!--
+![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
+Placeholder
+-->
 
 
 ### Comedy in English
