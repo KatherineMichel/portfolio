@@ -314,8 +314,6 @@ I was quick to leave a Google review.
 ### Universal Theme Park
 
 <!--
-I wanted to take the Universal Studios Tour, but you have to buy the full theme park ticket to do it. After multiple people told me how fun the theme park is, I finally went. The studio tour was pretty fun. I guess I got my money's worth, because I went twice... riding on either side of the tram to get a good look at everything. The tour included some iconic sets, and pretty incredible, interactive 3-D experiences, but was not nearly as in-depth as Warner Brothers in terms of touring a sound stage, insider stories, being on famous sets, and artifacts. I walked most of the park. It was fun, but geared more toward kids. 
-
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
 
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour
@@ -323,9 +321,13 @@ https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attra
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/fast-furious-supercharged
 -->
 
-Although I wanted to take the [Universal Studio Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. A Lyft driver eventually convinced me to do it. She said, it's the best, because you are "in the movies." I know what she means now that I've been through the immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
+Although I wanted to take the [Universal Studio Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. After multiple told me how fun the theme park including a Lyft driver who said it's the best, because you are "in the movies," I decided to go. I know what she means now that I've experienced the incredible, immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
+
+I guess I got my money's worth for the studio tour alone. I went twice... riding on either side of the cart to get a good look at everything. 
 
 Having been an [Alfred Hitchcock](https://en.wikipedia.org/wiki/Alfred_Hitchcock) fan since I was a kid (I had probably read every [Alfred Hitchcock Presents](https://en.wikipedia.org/wiki/Alfred_Hitchcock_Presents) book at the Fredonia Public Library while I was still in grade school), I really enjoyed seeing the Bates Motel and mother's house from [Psycho](https://en.wikipedia.org/wiki/Psycho_(1960_film)).
+
+I walked most of the park. It was fun, but geared more toward kids. 
 
 ![](los-angeles-2023-images/universal-citywalk.jpg)
 [Universal CityWalk](https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/citywalk)
@@ -385,7 +387,7 @@ Placeholder
 ### Celebrity Homes Bus Tour
 
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-pretty-woman-balcony.jpg)
-Love this. Pretty Woman balcony. Las Palmas Hotel, 1738 N Las Palmas Ave, Los Angeles, CA 90028
+Pretty Woman balcony. Las Palmas Hotel, 1738 N Las Palmas Ave, Los Angeles, CA 90028
 
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-jack-nicholson-home.jpg)
 Jack Nicholson's house... that's a tennis court on stilts! 
