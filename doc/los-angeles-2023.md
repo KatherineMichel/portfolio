@@ -1,5 +1,7 @@
 # Los Angeles 2023
 
+I finished my work year with a successful presentation to my department (see my 2023 Recap for a review of my year!). A few hours later, I arrived at LAX. With Santa Monica as my "home base," I spent 9 days seeing the city. It was the first non-business trip that I'd taken in years. I had a general idea of the things I wanted to do, but hadn't done much planning. I played it by ear, and it worked. 
+
 <!--
 ![](los-angeles-2023-images/december-7.png)
 Placeholder
@@ -127,9 +129,9 @@ Good food
   
 ## Wednesday
 
-I finished my work year with a successful presentation to my department, then a few hours later, arrived at LAX for a nine day vacation. It was the first non-business trip that I'd taken in years. I had a general idea of the things I wanted to do, but hadn't done much planning. I played it by ear, and it worked. 
-
 ### Santa Monica Pier at Night
+
+I arrived in Santa Monica after dark. I was staying about a block from the pier, so I walked there to get a good look at it at night.  
 
 ![](los-angeles-2023-images/santa-monica-pier-at-night-1.jpg)
 Placeholder
