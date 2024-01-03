@@ -28,8 +28,10 @@ North Italia Crushed Meatball Ragu: beef meatball, porchetta, blistered onion, w
 
 ## Thursday
 
+<!--
 ![](los-angeles-2023-images/december-7.png)
 Placeholder
+-->
 
 ### Blue Daisy
 
@@ -52,8 +54,10 @@ Placeholder
 
 ## Friday
 
+<!--
 ![](los-angeles-2023-images/december-8.png)
 Placeholder
+-->
 
 ### Warner Brothers Studio Tour versus Universal Studios Tour
 
@@ -78,6 +82,10 @@ However, the Universal Studios tour did include some very iconic backlots, and n
 I spent approximately 45 minutes on the Universal Studio Tour.  
 
 ### Warner Brothers Studio Tour
+
+<!--
+https://www.wbstudiotour.com/tour/studio/
+-->
 
 After some quick research, I settled on Warner Brothers Studio Tour as a top priority. It was an incredible, in-depth experience. 
 
@@ -121,10 +129,13 @@ This red carpet leads the winners to their interview.
 
 ### Santa Monica Beach at Sunset and Pier Burger
 
+
 ## Saturday
 
+<!--
 ![](los-angeles-2023-images/december-9.png)
 Placeholder
+-->
 
 ### République
 
@@ -176,10 +187,10 @@ Terminator 2: Judgement Day animatronic
 
 ## Sunday
 
+### The Getty Center
+
 ![](los-angeles-2023-images/been-to-the-getty-center.png)
 Placeholder
-
-### The Getty Center
 
 ![](los-angeles-2023-images/the-getty-irises.jpg)
 One of the highlights of the collection: [Vincent Van Gogh's Irises](https://www.getty.edu/art/collection/object/103JNH)
@@ -191,8 +202,10 @@ One of the highlights of the collection: [Vincent Van Gogh's Irises](https://www
 
 ## Monday
 
+<!--
 ![](los-angeles-2023-images/december-11.png)
 Placeholder
+-->
 
 ### République
 
@@ -244,13 +257,19 @@ I was quick to leave a Google review.
 
 ## Tuesday
 
+<!--
 ![](los-angeles-2023-images/december-12.png)
 Placeholder
+-->
 
 ### Universal Theme Park
 
 <!--
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
+
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/king-kong-360-3-d
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/fast-furious-supercharged
 -->
 
 Although I wanted to take the [Universal Studio Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. A Lyft driver eventually convinced me to do it. She said, it's the best, because you are "in the movies." I know what she means now that I've been through the immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
@@ -274,19 +293,23 @@ Mother's house from Psycho
 
 ### Comedy in English
 
+That night, I attended a comedy show for the first time. It was called [Comedy in English](https://www.facebook.com/Comineng/). 
+
 <!--
-https://www.facebook.com/Comineng/
+Features comics from...
 -->
 
-That night, I attended a comedy show for the first time. There were awkward, confrontational jokes, excruciating silences, and big laughs. What a raw exercise!
+There were awkward, confrontational jokes, excruciating silences, and big laughs. What a raw exercise!
 
 ![](los-angeles-2023-images/comedy-show.jpg)
 The comedian before him was scream-y... this one was quiet and thoughtful. I thought he'd bomb, but he didn't! 
 
 ## Wednesday
 
+<!--
 ![](los-angeles-2023-images/december-13.png)
 Placeholder
+-->
 
 ### Hollywood Walk of Fame
 
@@ -321,7 +344,7 @@ Dior
 
 ### Via Alloro
 
-While I was on the celebrity home bus tour, we drove around Beverly Hills. As we drove past a restauraunt named [Via Alloro](https://www.viaalloro.com/) just off of Rodeo Drive, the bus driver said it's a major celebrity hotspot and that he'd seen Steven Spielberg here, among others. Someone on the bus asked if you had to be dressed up to go in. The bus driver said no, and that he'd had bus riders literally call while on the bus and make a reservation. 
+While I was on the celebrity home bus tour, we drove around Beverly Hills. As we drove past a restauraunt named [Via Alloro](https://www.viaalloro.com/) just off of Rodeo Drive, the bus driver said it's a major celebrity hotspot and that he'd seen Steven Spielberg there, among others. Someone on the bus asked if you had to be dressed up to go in. The bus driver said no, and that he'd had bus riders literally call while on the bus and make a reservation. 
 
 After the tour ended, I went back to Rodeo Drive for pics and decided to stop to eat there. The prices were surprisingly reasonable and the food was delicious. It felt like a surprisingly normal experience. The waiter told me that they do have "too many" celebs around. Sometimes, everywhere you look. A quick [google search](https://www.google.com/search?q=via+alloro+daily+mail&sca_esv=595179528&sxsrf=AM9HkKl7xam2HHlNbSzt-XLzlojjw9_Jug:1704229408712&source=lnms&sa=X&ved=2ahUKEwjvmpakzb-DAxWpkmoFHQsSDt0Q0pQJegQIBhAC&biw=1440&bih=699&dpr=2#ip=1) reveals some of the many celebs. 
 
@@ -345,8 +368,10 @@ I will be back.
 
 ## Thursday
 
+<!--
 ![](los-angeles-2023-images/december-14.png)
 Placeholder
+-->
 
 ### Ice at Santa Monica 
 
@@ -385,6 +410,7 @@ Bye bye, LA…
 ![](los-angeles-2023-images/bye-la.jpg)
 Santa Monica, Venice, and Playa Del Rey Beaches, I believe
 
+<!--
 ![](los-angeles-2023-images/universal-niece-gift.jpg)
 Gift for a niece
 
@@ -393,6 +419,7 @@ Gift for a niece
 
 ![](los-angeles-2023-images/surf-n-sand-niece-gift-2.jpg)
 Gift for a niece
+-->
 
 ## What I Learned
 
@@ -411,6 +438,7 @@ I wore a different outfit everyday, but because I took a handful of sweatshirts 
 ![](los-angeles-2023-images/last-momento.png)
 One last momento...
 
+<!--
 ![](los-angeles-2023-images/i-hope-you-got-pics.png)
 Placeholder
 
@@ -419,3 +447,4 @@ Placeholder
 
 ![](los-angeles-2023-images/southwest-timezone.png)
 Placeholder
+-->
