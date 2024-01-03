@@ -185,6 +185,9 @@ This red carpet leads the winners to their press interview.
 
 I made it back to Santa Monica for sunset at the beach, then ate an overpriced hamburger, fries, and strawberry milkshake at Pier Burger. 
 
+![](los-angeles-2023-images/pier-burger.jpg)
+Placeholder
+
 
 ## Saturday
 
@@ -245,6 +248,9 @@ Captions?
 ![](los-angeles-2023-images/been-to-the-getty-center.png)
 The Getty Center experience was well worth the trip. 
 
+![](los-angeles-2023-images/the-getty-center-entrance-hall.jpg)
+Placeholder
+
 ![](los-angeles-2023-images/the-getty-irises.jpg)
 One of the highlights of the collection: [Vincent Van Gogh's Irises](https://www.getty.edu/art/collection/object/103JNH)
 
@@ -271,6 +277,19 @@ Granola: straus organic yogurt, farmer’s market fruit, wildflower honey
 
 ### The Grammy Museum
 
+The Grammy Museum was surpsingly small for an awards ceremony as important as it is, but it did have an impressive collection of Michael Jackson artifacts, including the Thriller Jacket. Two whole floors, plus a portion of another had temporary exhibits that weren't really of interest to me personally. 
+
+![](los-angeles-2023-images/grammy-museum-michael-jackson-collection.jpg)
+Placeholder
+
+![](los-angeles-2023-images/grammy-museum-michael-jackson-nomination.jpg)
+Placeholder
+
+![](los-angeles-2023-images/grammy-museum-michael-jackson-thriller-jacket.jpg)
+Placeholder
+
+![](los-angeles-2023-images/grammy-museum-costumes.jpg)
+Placeholder
 
 ### The Cecil Hotel
 
@@ -300,6 +319,15 @@ Strangely, Skid Row is next to the Toy and Fashion Districts. I can't get over t
 The homelessness in Los Angeles was a sad reality. A local told me it increased greatly due to the pandemic.
 
 ### Los Angeles City Hall Observation Deck
+
+![](los-angeles-2023-images/city-hall-banquet-room.jpg)
+Placeholder
+
+![](los-angeles-2023-images/city-hall-observation-deck-view-explainer.jpg)
+Placeholder
+
+![](los-angeles-2023-images/city-hall-observation-deck-view.jpg)
+Placeholder
 
 
 ### Bruno's Ristorante Italiano
