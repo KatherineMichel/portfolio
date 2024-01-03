@@ -71,6 +71,8 @@ Gift for a niece
 -->
 
 <!--
+https://allthatsinteresting.com/cecil-hotel-los-angeles
+
 I wore a different outfit everyday, but because I took a handful of sweatshirts and wore them over t-shirts to stay warm, I look like I had on the same outfit everyday. 🤷‍♀️
 
 ![](los-angeles-2023-images/i-hope-you-got-pics.png)
@@ -221,17 +223,16 @@ This red carpet leads the winners to their press interview.
 I made it back to Santa Monica for sunset at the beach.
 
 ![](los-angeles-2023-images/santa-monica-beach-sunset-1.jpg)
-Placeholder
+The view from Ocean Avenue
 
 ![](los-angeles-2023-images/santa-monica-beach-sunset-2.jpg)
-Placeholder
+Having walked from the pier down to Santa Monica Beach
 
 ![](los-angeles-2023-images/santa-monica-beach-sunset-3.jpg)
-Placeholder
+Santa Monica Beach sunset
  
 ![](los-angeles-2023-images/pier-burger.jpg)
-I ate an overpriced hamburger, fries, and strawberry milkshake at Pier Burger. 
-
+Tourist be touristing... I gave in and ate an overpriced hamburger, fries, and strawberry milkshake at Pier Burger. 
 
 ## Saturday
 
@@ -346,10 +347,6 @@ Thriller Album of the Year nomination
 Grammy outfits
 
 ### The Cecil Hotel
-
-<!--
-https://allthatsinteresting.com/cecil-hotel-los-angeles
--->
 
 I have been fascinated by true crime going back to childhood, when I started watching [48 Hours](https://www.cbsnews.com/48-hours/full-episodes/), my all-time favorite show. 
 
