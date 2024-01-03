@@ -122,7 +122,7 @@ Me standing where the presenters stand with a view of the audience behind me... 
 Having exited stage left just like the Academy Award winners do, we are walking in their footsteps down the "Winner's Walk." 
 
 ![](los-angeles-2023-images/dolby-theater-winners-walk-2.jpg)
-This red carpet leads the winners to their interview. 
+This red carpet leads the winners to their press interview. 
 
 ### Santa Monica Beach at Sunset and Pier Burger
 
