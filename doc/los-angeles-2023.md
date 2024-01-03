@@ -22,6 +22,10 @@ Placeholder
 ![](los-angeles-2023-images/december-14.png)
 Placeholder
 
+
+![](los-angeles-2023-images/grammy-museum-michael-jackson-thriller-jacket.jpg)
+Michael Jackson autograph on the Thiller jacket
+
 ![](los-angeles-2023-images/been-to-the-getty-center.png)
 
 ![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
@@ -297,13 +301,10 @@ Granola: straus organic yogurt, farmer’s market fruit, wildflower honey
 The Grammy Museum was surpringly small for an awards ceremony as important as it is, but it did have an impressive collection of Michael Jackson memorabilia, including the Thriller Jacket. Two whole floors, plus a portion of another had temporary exhibits that weren't particularly of interest to me (Shakira, The Roxy, and Hip-Hop America). There was not much to see beyond that.  
 
 ![](los-angeles-2023-images/grammy-museum-michael-jackson-collection.jpg)
-A portion of the Michael Jackson collection, including the Thriller jacket
+A portion of the Michael Jackson collection, including autographed Thriller jacket
 
 ![](los-angeles-2023-images/grammy-museum-michael-jackson-nomination.jpg)
 Thriller Album of the Year nomination
-
-![](los-angeles-2023-images/grammy-museum-michael-jackson-thriller-jacket.jpg)
-Michael Jackson autograph on the Thiller jacket
 
 ![](los-angeles-2023-images/grammy-museum-costumes.jpg)
 Grammy outfits
