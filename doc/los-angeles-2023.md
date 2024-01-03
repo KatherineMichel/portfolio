@@ -116,7 +116,7 @@ On Oscar night, Hollywood Boulevard becomes a walkway for the stars. Normally th
 The steps to the Dolby Theater
 
 ![](los-angeles-2023-images/dolby-theater-stage.jpg)
-Me standing where the presenter stands with a view of the audience behind me... the photos on chairs represent the A-list guests who sat there recently.
+Me standing where the presenters stand with a view of the audience behind me... the photos on chairs represent the A-list guests who sat there recently.
 
 ![](los-angeles-2023-images/dolby-theater-winners-walk.jpg)
 Having exited stage left just like the Academy Award winners do, we are walking in their footsteps down the "Winner's Walk." 
