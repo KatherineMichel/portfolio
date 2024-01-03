@@ -26,6 +26,9 @@ Placeholder
 
 ![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
 Placeholder
+
+![](los-angeles-2023-images/rebel-moon-premier-2.jpg)
+Placeholder
 -->
 
 <!--
@@ -403,9 +406,6 @@ The comedian before him was scream-y... this one was quiet and thoughtful. I tho
 Placeholder
 
 ![](los-angeles-2023-images/rebel-moon-premier-1.jpg)
-Placeholder
-
-![](los-angeles-2023-images/rebel-moon-premier-2.jpg)
 Placeholder
 
 ### Celebrity Homes Bus Tour
