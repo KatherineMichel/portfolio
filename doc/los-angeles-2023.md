@@ -21,6 +21,14 @@ I had to visit Los Angeles to go to a Trader Joe's for the first time. Bought su
 -->
 
 <!--
+![](los-angeles-2023-images/academy-museum-godfather-office-2.jpg)
+The Godfather office
+
+![](los-angeles-2023-images/academy-museum-horse-head-2.jpg)
+The Godfather rehearsal horse head
+-->
+
+<!--
 ![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
 Placeholder
 
@@ -167,21 +175,11 @@ Academy Award statues room
 ![](los-angeles-2023-images/academy-museum-godfather-office-1.jpg)
 The Godfather office
 
-<!--
-![](los-angeles-2023-images/academy-museum-godfather-office-2.jpg)
-The Godfather office
--->
-
 ![](los-angeles-2023-images/academy-museum-godfather-office-3.jpg)
-The Godfather office
+The Godfather office desk
 
 ![](los-angeles-2023-images/academy-museum-horse-head-1.jpg)
 The Godfather rehearsal horse head
-
-<!--
-![](los-angeles-2023-images/academy-museum-horse-head-2.jpg)
-The Godfather rehearsal horse head
--->
 
 ![](los-angeles-2023-images/academy-museum-alien-1.jpg)
 Alien xenomorph
@@ -359,7 +357,7 @@ Placeholder
 Love this. Pretty Woman balcony. Las Palmas Hotel, 1738 N Las Palmas Ave, Los Angeles, CA 90028
 
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-jack-nicholson-home.jpg)
-Jack Nicholson's House... that's a tennis courts on stilts! 
+Jack Nicholson's house... that's a tennis courts on stilts! 
 
 ![](los-angeles-2023-images/celebrity-home-bus-tour-leonardo-dicaprio.jpg)
 Leonardo DiCaprio's house
