@@ -145,7 +145,7 @@ I made it back to Santa Monica for sunset at the beach, then ate an overpriced h
 
 I started Saturday by eating breakfast at a bakery/café called République in a building that Charlie Chaplin had built. République is owned by two chefs awarded a Michelin Star and a James Beards award and one of whom worked with Alain Ducasse of the Dorchester Collection, my old stomping grounds. A foodie colleague and friend Wooyong Ee recommended it. It was excellent. 
 
-Much of the building's original architecture is intact, as seen in these [photos](https://martinturnbull.com/2020/06/02/charlie-chaplins-italian-villa-inspired-building-at-624-s-la-brea-ave-los-angeles-circa-late-1920s/). The restaurant floor appears to be in what was an open courtyard. The arches still exist, as seen in one of my photos. Imagine walking the same grounds as Charlie Chaplin. Mind blowing.
+Much of the building's original architecture is intact, as seen in these [photos](https://martinturnbull.com/2020/06/02/charlie-chaplins-italian-villa-inspired-building-at-624-s-la-brea-ave-los-angeles-circa-late-1920s/). The restaurant floor appears to be in what was an open courtyard, with the arches still in existence. Imagine walking the same grounds as Charlie Chaplin. Mind blowing.
 
 ![](los-angeles-2023-images/republique-bakery.jpg)
 Brownie, pumpkin spice danish, pain au chocolat, ham croissant
