@@ -232,6 +232,15 @@ Terminator 2: Judgement Day animatronic
 
 ### Petersen Automotive Museum
 
+![](los-angeles-2023-images/petersen-thelma-and-louise-car-description.jpg)
+Thelma and Louise Car
+
+![](los-angeles-2023-images/petersen-thelma-and-louise-car-1.jpg)
+Thelma and Louise Car
+
+![](los-angeles-2023-images/petersen-thelma-and-louise-car-2.jpg)
+Thelma and Louise Car
+
 ## Sunday
 
 ### The Getty Center
