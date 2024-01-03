@@ -442,7 +442,7 @@ Santa Monica's Ice skating rink
 I saw a [Mel's Drive-in](https://melsdrive-in.com/) at Universal Studios Theme Park and another one just off Hollywood Boulevard. Because I kept hearing about it so much, I decided to eat at one in Santa Monica. I later realized that I had Mel's Drive-in mixed up with Mel's Diner. Mel's Drive-in was made famous by the movie [American Graffiti](https://melsdrive-in.com/about/#story). [Mel's Diner](https://www.alicehyatt.com/) was a television show. Haha. Nevertheless, the chocolate milkshake was the best that I've ever had. 
 
 ![](los-angeles-2023-images/mels-drive-in-counter.jpg)
-Mel's Drive-in Counter
+Mel's Drive-in counter
 
 ![](los-angeles-2023-images/mels-drive-in-milkshake.jpg)
 The best chocolate milkshake that I've ever had. 
