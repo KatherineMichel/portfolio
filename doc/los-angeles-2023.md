@@ -201,7 +201,7 @@ Brownie, pumpkin spice danish, pain au chocolat, ham croissant
 Regular breakfast: bacon steak, fingerling potatoes, baguette, french butter, jam, eggs over hard
 
 ![](los-angeles-2023-images/republique-courtyard.jpg)
-République courtyard
+République courtyard... a good view of the front of the original Charlie Chaplin building
 
 ![](los-angeles-2023-images/republique-front.jpg)
 République front
@@ -348,13 +348,16 @@ Bates Motel from Psycho
 ![](los-angeles-2023-images/universal-psycho-house.jpg)
 Mother's house from Psycho
 
+<!--
+Jaws video
+King Kong video, designed by Peter Jackson and team, immersive experience, including water throw on you
+-->
+
 ### The Griffith Observatory
 
-<!--
-I then went to the Griffith Observatory. I was beautiful and had an amazing view. Multiple people have told me it is "spectacular" after dark, but frankly, I was too tired to stay that long. I will go back sometime. 
+Although The Griffith Observatory museum was much smaller than I expected, the building was beautiful and had an amazing view. 
 
-A Lyft driver gave me a tip to be there at sunset, though I don't know if I'd make it that late in the day. 
--->
+Multiple Lyft drivers told me the view is "spectacular" after dark, but frankly, I was too tired to stay that long. I will go back sometime. 
 
 ### Comedy in English
 
@@ -473,3 +476,18 @@ Things to do next time:
 
 ![](los-angeles-2023-images/last-momento.png)
 One last momento...
+
+## My Top Picks
+
+* Dolby Theater Tour
+* Universal Studios Tour
+* Warner Brothers Tour
+  The Getty Center
+* The Griffith Observatory
+* Academy Museum of Motion Pictures
+* Petersen Automotive Museum
+* Celebrity Homes Bus Tour
+* République
+* Bruno's Ristorante Italiano
+* Via Alloro
+* Santa Monica and Venice Beaches, Santa Monica Pier (day and night)
