@@ -385,7 +385,7 @@ Placeholder
 Love this. Pretty Woman balcony. Las Palmas Hotel, 1738 N Las Palmas Ave, Los Angeles, CA 90028
 
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-jack-nicholson-home.jpg)
-Jack Nicholson's house... that's a tennis courts on stilts! 
+Jack Nicholson's house... that's a tennis court on stilts! 
 
 ![](los-angeles-2023-images/celebrity-home-bus-tour-leonardo-dicaprio.jpg)
 Leonardo DiCaprio's house
