@@ -66,6 +66,10 @@ Placeholder
 
 
 <!--
+Atlas Obscura
+-->
+
+<!--
 ![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
 Placeholder
 
@@ -365,10 +369,6 @@ The comedian before him was scream-y... this one was quiet and thoughtful. I tho
 
 ### Hollywood Walk of Fame
 
-<!--
-Atlas Obscura
--->
-
 ![](los-angeles-2023-images/alfred-hitchcock-star.jpg)
 Placeholder
 
@@ -380,11 +380,7 @@ Placeholder
 
 ### Celebrity Homes Bus Tour
 
-I went on a celebrity homes bus tour, and it was an absolute blast. We drove all around the Hollywood Hills and Bel Air looking at celebrity homes, through Beverly Hills, Rodeo Drive, West Hollywood, Sunset Strip, Hollywood. 
-
-<!--
-Couldn't verify the authenticity of every home
--->
+I went on a celebrity homes bus tour, and it was an absolute blast. I’ve never taken a bus tour like it before. I loved every minute. The tour guide Mark was so fun and knew all of the famous spots. We drove all around the Hollywood Hills and Bel Air looking at celebrity homes, through Beverly Hills, Rodeo Drive, West Hollywood, Sunset Strip, and Hollywood. Although I couldn't verify the authenticity of every home afterward, I believe that Mark knew his stuff. 
 
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-pretty-woman-balcony.jpg)
 Pretty Woman balcony. Las Palmas Hotel, 1738 N Las Palmas Ave, Los Angeles, CA 90028
