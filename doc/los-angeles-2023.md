@@ -16,6 +16,9 @@ Placeholder
 ![](los-angeles-2023-images/december-12.png)
 Placeholder
 
+![](los-angeles-2023-images/december-14.png)
+Placeholder
+
 ![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
 Placeholder
 -->
@@ -421,11 +424,6 @@ I will be back.
 
 ## Thursday
 
-<!--
-![](los-angeles-2023-images/december-14.png)
-Placeholder
--->
-
 ### Ice at Santa Monica 
 
 If I hadn't already done enough... I went ice skating for the first time! 
@@ -453,6 +451,7 @@ The best chocolate milkshake that I've ever had.
 ### Santa Monica Pier Carousel
 
 ### End of Santa Monica Pier at Sunset
+
 
 ## Friday
 
