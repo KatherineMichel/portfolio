@@ -1,6 +1,8 @@
 # Los Angeles 2023
 
 <!--
+Captions?
+
 ![](los-angeles-2023-images/december-7.png)
 Placeholder
 
@@ -21,6 +23,8 @@ Placeholder
 
 ![](los-angeles-2023-images/december-14.png)
 Placeholder
+
+![](los-angeles-2023-images/been-to-the-getty-center.png)
 
 ![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
 Placeholder
@@ -113,31 +117,11 @@ The San Diego beaches that I've been to have been more breathtaking (south of La
 
 ## Friday
 
-### Warner Brothers Studio Tour versus Universal Studios Tour
-
-The Warner Brothers tour guides immediately established their tour as "better" than Universal's. Although it was lighthearted banter, I did detect a real hint of competition. 
-
-#### What Warner Brothers Had Going For It
-
-The Warner Brothers tour was a personalized, small group experience. At the start of the tour, the tour guide asked us which Warner Brothers shows or movies we were fans of so that the tour could be tailored to our interests. During the guided part of the tour, we were all on one cart in close proximity to the tour guide and could ask questions as we went. We get off several times to tour city lots, a sound stage, residential street, and house. 
-
-There were multiple photo ops, including the Friends set, Big Bang Theory set, and Friends fountain. 
-
-Before and after the guided part of the tour, we had the opportunity to walk at our own pace through exhibits packed with incredible costumes, props, and immersive experiences. 
-
-I spent 3 hours on the Warner Brothers tour. 
-
-#### What Universal Studios Tour Had Going For It
-
-In contrast, the Universal Studios tour consisted of one large group riding on a group of connected carts with a pre-recorded commentary by Jimmy Fallon. Although tour guides had the freedom to provide their own additional commentary, group members did not have the opportunity to ask questions or get off the cart to take a closer look. 
-
-However, the Universal Studios tour did include some very iconic backlots, and nothing at Warner Brothers compared to Universal's immersive, 3-D experiences. 
-
-I spent approximately 45 minutes on the Universal Studio Tour.  
-
 ### Warner Brothers Studio Tour
 
 <!--
+See my note at the end for a comparison between Warner Brothers Studio Tour and Universal Studio Tour
+
 Highlights
 -->
 
@@ -183,10 +167,10 @@ This red carpet leads the winners to their press interview.
 
 ### Santa Monica Beach at Sunset and Pier Burger
 
-I made it back to Santa Monica for sunset at the beach, then ate an overpriced hamburger, fries, and strawberry milkshake at Pier Burger. 
+I made it back to Santa Monica for sunset at the beach.
 
 ![](los-angeles-2023-images/pier-burger.jpg)
-Placeholder
+I ate an overpriced hamburger, fries, and strawberry milkshake at Pier Burger. 
 
 
 ## Saturday
@@ -241,15 +225,10 @@ Terminator 2: Judgement Day animatronic
 
 ### The Getty Center
 
-<!--
-Captions?
--->
-
-![](los-angeles-2023-images/been-to-the-getty-center.png)
-The Getty Center experience was well worth the trip. 
+The Getty Center experience was well worth the trip. The architecture, art, and views were all simply jaw dropping.
 
 ![](los-angeles-2023-images/the-getty-center-entrance-hall.jpg)
-Placeholder
+The entrance hall
 
 ![](los-angeles-2023-images/the-getty-irises.jpg)
 One of the highlights of the collection: [Vincent Van Gogh's Irises](https://www.getty.edu/art/collection/object/103JNH)
@@ -277,19 +256,19 @@ Granola: straus organic yogurt, farmer’s market fruit, wildflower honey
 
 ### The Grammy Museum
 
-The Grammy Museum was surpsingly small for an awards ceremony as important as it is, but it did have an impressive collection of Michael Jackson artifacts, including the Thriller Jacket. Two whole floors, plus a portion of another had temporary exhibits that weren't really of interest to me personally. 
+The Grammy Museum was surpringly small for an awards ceremony as important as it is, but it did have an impressive collection of Michael Jackson memorabilia, including the Thriller Jacket. Two whole floors, plus a portion of another had temporary exhibits that weren't particularly of interest to me (Shakira, The Roxy, and Hip-Hop America). There was not much to see beyond that.  
 
 ![](los-angeles-2023-images/grammy-museum-michael-jackson-collection.jpg)
-Placeholder
+A portion of the Michael Jackson collection, including the Thriller jacket
 
 ![](los-angeles-2023-images/grammy-museum-michael-jackson-nomination.jpg)
-Placeholder
+Thriller Album of the Year nomination
 
 ![](los-angeles-2023-images/grammy-museum-michael-jackson-thriller-jacket.jpg)
-Placeholder
+Michael Jackson autograph on the Thiller jacket
 
 ![](los-angeles-2023-images/grammy-museum-costumes.jpg)
-Placeholder
+Grammy outfits
 
 ### The Cecil Hotel
 
@@ -479,7 +458,6 @@ The best chocolate milkshake that I've ever had.
 
 ### End of Santa Monica Pier at Sunset
 
-
 ## Friday
 
 ### Back to Kansas for Christmas
@@ -507,15 +485,46 @@ One last momento...
 
 ## My Top Picks
 
+Hollywood experience
 * Dolby Theater Tour
-* Universal Studios Tour
 * Warner Brothers Tour
-  The Getty Center
-* The Griffith Observatory
+* Universal Studios Tour
 * Academy Museum of Motion Pictures
-* Petersen Automotive Museum
 * Celebrity Homes Bus Tour
-* République
-* Bruno's Ristorante Italiano
 * Via Alloro
+
+Great views, artwork, and science
+* The Getty Center
+* The Griffith Observatory
+
+Beach fun
 * Santa Monica and Venice Beaches, Santa Monica Pier (day and night)
+
+Fascinating
+* Petersen Automotive Museum
+
+Good food
+* Bruno's Ristorante Italiano
+* République
+
+## Warner Brothers Studio Tour versus Universal Studios Tour
+
+The Warner Brothers tour guides immediately established their tour as "better" than Universal's. Although it was lighthearted banter, I did detect a real hint of competition. 
+
+### What Warner Brothers Had Going For It
+
+The Warner Brothers tour was a personalized, small group experience. At the start of the tour, the tour guide asked us which Warner Brothers shows or movies we were fans of so that the tour could be tailored to our interests. During the guided part of the tour, we were all on one cart in close proximity to the tour guide and could ask questions as we went. We get off several times to tour city lots, a sound stage, residential street, and house. 
+
+There were multiple photo ops, including the Friends set, Big Bang Theory set, and Friends fountain. 
+
+Before and after the guided part of the tour, we had the opportunity to walk at our own pace through exhibits packed with incredible costumes, props, and immersive experiences. 
+
+I spent 3 hours on the Warner Brothers tour. 
+
+### What Universal Studios Tour Had Going For It
+
+In contrast, the Universal Studios tour consisted of one large group riding on a group of connected carts with a pre-recorded commentary by Jimmy Fallon. Although tour guides had the freedom to provide their own additional commentary, group members did not have the opportunity to ask questions or get off the cart to take a closer look. 
+
+However, the Universal Studios tour did include some very iconic backlots, and nothing at Warner Brothers compared to Universal's immersive, 3-D experiences. 
+
+I spent approximately 45 minutes on the Universal Studio Tour.  
