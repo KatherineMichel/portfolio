@@ -16,6 +16,9 @@ Placeholder
 ![](los-angeles-2023-images/december-12.png)
 Placeholder
 
+![](los-angeles-2023-images/december-13.png)
+Placeholder
+
 ![](los-angeles-2023-images/december-14.png)
 Placeholder
 
@@ -351,11 +354,7 @@ A Lyft driver gave me a tip to be there at sunset, though I don't know if I'd ma
 
 ### Comedy in English
 
-That night, I attended a comedy show for the first time. It was called [Comedy in English](https://www.facebook.com/Comineng/). 
-
-<!--
-Features comics from...
--->
+That night, I attended a comedy show for the first time. It was called [Comedy in English](https://www.facebook.com/Comineng/) and features comedians who have appeared on The Tonight Show, Conan, Comedy Central, and Netflix. 
 
 There were awkward, confrontational jokes, excruciating silences, and big laughs. What a raw exercise!
 
@@ -363,11 +362,6 @@ There were awkward, confrontational jokes, excruciating silences, and big laughs
 The comedian before him was scream-y... this one was quiet and thoughtful. I thought he'd bomb, but he didn't! 
 
 ## Wednesday
-
-<!--
-![](los-angeles-2023-images/december-13.png)
-Placeholder
--->
 
 ### Hollywood Walk of Fame
 
@@ -385,6 +379,12 @@ Placeholder
 Placeholder
 
 ### Celebrity Homes Bus Tour
+
+I went on a celebrity homes bus tour, and it was an absolute blast. We drove all around the Hollywood Hills and Bel Air looking at celebrity homes, through Beverly Hills, Rodeo Drive, West Hollywood, Sunset Strip, Hollywood. 
+
+<!--
+Couldn't verify the authenticity of every home
+-->
 
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-pretty-woman-balcony.jpg)
 Pretty Woman balcony. Las Palmas Hotel, 1738 N Las Palmas Ave, Los Angeles, CA 90028
@@ -404,11 +404,9 @@ Dior
 
 While I was on the celebrity home bus tour, we drove around Beverly Hills. As we drove past a restauraunt named [Via Alloro](https://www.viaalloro.com/) just off of Rodeo Drive, the bus driver said it's a major celebrity hotspot and that he'd seen Steven Spielberg there, among others. Someone on the bus asked if you had to be dressed up to go in. The bus driver said no, and that he'd had bus riders literally call while on the bus and make a reservation. 
 
-After the tour ended, I went back to Rodeo Drive for pics and decided to stop to eat there. The prices were surprisingly reasonable and the food was delicious. It felt like a surprisingly normal experience. The waiter told me that they do have "too many" celebs around. Sometimes, everywhere you look. A quick [google search](https://www.google.com/search?q=via+alloro+daily+mail&sca_esv=595179528&sxsrf=AM9HkKl7xam2HHlNbSzt-XLzlojjw9_Jug:1704229408712&source=lnms&sa=X&ved=2ahUKEwjvmpakzb-DAxWpkmoFHQsSDt0Q0pQJegQIBhAC&biw=1440&bih=699&dpr=2#ip=1) reveals some of the many celebs. 
+After the tour ended, I went back to Rodeo Drive and walked down the entire street taking pics. Afteward, I decided to eat at Via Alloro. I knew if I didn't, I'd regret that I hadn't taken the opportunity to rub shoulders with the stars. 
 
-<!--
-Rubbing shoulders with the stars... 
--->
+The prices were surprisingly reasonable and the food was delicious. It felt like a surprisingly normal experience. The waiter told me that they do have "too many" celebs around. Sometimes, everywhere you look. A quick [google search](https://www.google.com/search?q=via+alloro+daily+mail&sca_esv=595179528&sxsrf=AM9HkKl7xam2HHlNbSzt-XLzlojjw9_Jug:1704229408712&source=lnms&sa=X&ved=2ahUKEwjvmpakzb-DAxWpkmoFHQsSDt0Q0pQJegQIBhAC&biw=1440&bih=699&dpr=2#ip=1) reveals some of the many celebs. 
 
 I had the Fettuccini Boscaiola. Having never heard of this dish, I wasn't quite sure what it would be like, but I thought it sounded good. It was delicious! 
 
