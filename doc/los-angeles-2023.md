@@ -12,6 +12,12 @@ Placeholder
 -->
 
 <!--
+### Trader Joe's
+
+I had to visit Los Angeles to go to a Trader Joe's for the first time. Bought supper and snacks there. 
+-->
+
+<!--
 ![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
 Placeholder
 
@@ -54,12 +60,6 @@ Placeholder
 On my first full day in Los Angeles, I walked from Santa Monica Pier to Venice Beach Pier via the boardwalk, then back to Santa Monica Pier via the ocean. 
 
 The San Diego beaches that I've been to have been more breathtaking (south of La Jolla Cove) and more Califiornia-y (Pacific and Ocean Beaches Boardwalks), but it was great to be near the ocean again. 
-
-<!--
-### Trader Joe's
-
-I had to visit Los Angeles to go to a Trader Joe's for the first time. Bought supper and snacks there. 
--->
 
 ## Friday
 
@@ -140,19 +140,21 @@ I made it back to Santa Monica for sunset at the beach, then ate an overpriced h
 
 ### République
 
-I started Saturday by eating breakfast at a bakery/cafe 
+I started Saturday by eating breakfast at a bakery/café called République in a building that Charlie Chaplin had built. République is owned by two chefs awarded a Michelin Star and a James Beards award and one of whom worked with Alain Ducasse of the Dorchester Collection, my old stomping grounds. A foodie colleague and friend Wooyong Ee recommended it. It was excellent. 
+
+Much of the building's original architecture is intact, as seen in these [photos](https://martinturnbull.com/2020/06/02/charlie-chaplins-italian-villa-inspired-building-at-624-s-la-brea-ave-los-angeles-circa-late-1920s/). The restaurant floor appears to be in what was an open courtyard. The arches still exist, as seen in one of my photos. Imagine walking the same grounds as Charlie Chaplin. Mind blowing.
 
 ![](los-angeles-2023-images/republique-bakery.jpg)
-Placeholder
+Brownie, pumpkin spice danish, pain au chocolat, ham croissant
 
 ![](los-angeles-2023-images/republique-breakfast-1.jpg)
-Placeholder
+Regular breakfast: bacon steak, fingerling potatoes, baguette, french butter, jam, eggs over hard
 
 ![](los-angeles-2023-images/republique-courtyard.jpg)
-Placeholder
+République courtyard
 
 ![](los-angeles-2023-images/republique-front.jpg)
-Placeholder
+République front
 
 ### Academy Museum of Motion Pictures
 
@@ -162,8 +164,10 @@ Academy Award statue room
 ![](los-angeles-2023-images/academy-museum-godfather-office-1.jpg)
 The Godfather office
 
+<!--
 ![](los-angeles-2023-images/academy-museum-godfather-office-2.jpg)
 The Godfather office
+-->
 
 ![](los-angeles-2023-images/academy-museum-godfather-office-3.jpg)
 The Godfather office
@@ -171,8 +175,10 @@ The Godfather office
 ![](los-angeles-2023-images/academy-museum-horse-head-1.jpg)
 The Godfather rehearsal horse head
 
+<!--
 ![](los-angeles-2023-images/academy-museum-horse-head-2.jpg)
 The Godfather rehearsal horse head
+-->
 
 ![](los-angeles-2023-images/academy-museum-alien-1.jpg)
 Alien xenomorph
@@ -216,6 +222,13 @@ Placeholder
 -->
 
 ### République
+
+<!--
+On my way to the Grammy Museum
+I'd love to go back and try the Shrimp and Grits. 
+SHRIMP & GRITS
+anson mills grits, calabrian chilies, pork belly sausage, hooks cheddar, fried egg, 26
+-->
 
 ![](los-angeles-2023-images/republique-breakfast-2.jpg)
 Placeholder
