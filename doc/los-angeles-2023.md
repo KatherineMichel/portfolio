@@ -259,6 +259,9 @@ One of the highlights of the collection: [Vincent Van Gogh's Irises](https://www
 ![](los-angeles-2023-images/the-getty-central-garden.jpg)
 [Central Garden](https://www.getty.edu/visit/center/top-things-to-do/gardens/): a garden with an incredible view. I almost overlooked it. Fortunately, I came back a second time and ventured to the other side of the garden.
 
+![](los-angeles-2023-images/the-getty-center-fountain.jpg)
+Example of the beautiful architecture... beautiful fountain!
+
 Although I enjoyed the view of Los Angeles from the main Getty Center terrace, the consensus from locals was that the view from the The Griffith Observatory is much better. 
 
 <!--
