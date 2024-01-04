@@ -258,7 +258,7 @@ République front
 
 The Academy Museum of Motion Pictures had a large exhibit filled with an extensive collection of photos, costumes, props, artifacts, and equipment that explored the various types of craft that went into the creation of The Godfather. 
 
-The museum had a number of The Dark Crystal puppets and props. Having watched that movie as a child, I particularly enjoyed seeing them. I hadn't thought about that movie in years, and they instantly transported me back to childhood. 
+The museum had a number of The Dark Crystal puppets and props that I particularly enjoyed. I hadn't thought about that movie since I watched it as a child and was instantly transported back to childhood. 
 
 ![](los-angeles-2023-images/academy-museum-godfather-office-2.jpg)
 The Godfather office
