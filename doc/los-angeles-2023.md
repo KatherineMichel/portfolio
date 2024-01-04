@@ -166,7 +166,7 @@ Perhaps because I have spent most of my life in a landlocked state, when I arriv
 
 On my first full day in Los Angeles, I walked from Santa Monica Pier to Venice Beach Pier via the boardwalk, then back to Santa Monica Pier via the ocean. 
 
-The San Diego beaches that I've been to have been more breathtaking (south of La Jolla Cove) and more Califiornia-y (Pacific and Ocean Beaches Boardwalks), but it was great to be near the ocean again. 
+The San Diego beaches that I've been to have been more breathtaking (south of La Jolla Cove) and more California-y (Pacific and Ocean Beaches Boardwalks), but it was great to be near the ocean again. 
 
 ## Friday
 
