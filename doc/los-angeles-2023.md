@@ -191,7 +191,7 @@ After some quick research, I settled on [Warner Brothers Studio Tour](https://ww
 
 Because I hadn't read up on the details of the tour ahead of time, I had no idea what I would see. 
 
-The chance to take a photo on the real Friends set was a super fun surprise and gave me a feeling of childlike delight. What a great way to kick of off my Hollywood sightseeing. 
+Having my photo taken on the real Friends was a really fun surprise and gave me a feeling of childlike delight. What a great way to kick of off my Hollywood sightseeing. 
 
 ![](los-angeles-2023-images/warner-brothers-friends-set.jpg)
 Me on the real Friends set... I don't usually buy these, but couldn't resist this time!
