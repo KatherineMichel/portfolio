@@ -222,19 +222,19 @@ Hollywood Boulevard
 Michael Jackson's handprints, glove prints, and footprints
 
 ![](los-angeles-2023-images/hollywood-boulevard-hollywood-sign.jpg)
-Hollywood Sign
+Hollywood Sign as seen from the upper floor of [Ovation Shopping Center](https://www.ovationhollywood.com/). 
 
 ![](los-angeles-2023-images/dolby-theater-walkway-1.jpg)
-On Oscar night, Hollywood Boulevard becomes a walkway for the stars. Normally the entrance to the [Ovation Shopping Center](https://www.ovationhollywood.com/), attendees will walk down this grand, elaborately decorated hall.  
+On Oscar night, Hollywood Boulevard becomes a red carpet walkway for the stars. What is normally the entrance to the Ovation Shopping Center will become a grand, elaborately decorated hall that the Academy Awards Ceremony attendees will walk down. 
 
 ![](los-angeles-2023-images/dolby-theater-walkway-2.jpg)
-The steps to the [Dolby Theater Tour](https://dolbytheatre.com/), where the Academy Awards Ceremony takes place
+The steps leading up to the [Dolby Theater Tour](https://dolbytheatre.com/), where the Academy Awards Ceremony takes place
 
 ### Dolby Theater Tour
 
-Afterward, I took the [Dolby Theater Tour](https://dolbytheatre.com/tours/tour-information/). The Dolby Theater is where the Academy Awards Ceremony takes place. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
+Afterward, I took the [Dolby Theater Tour](https://dolbytheatre.com/tours/tour-information/). I really enjoyed it. It was one of the most fun things that I've ever done. 
 
-My tour guide was a long-time Academy Awards Ceremony crew member. We walked in the footsteps of the A-list stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
+My tour guide was a long-time Academy Awards Ceremony crew member. We walked in the footsteps of the A-list stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet "Winner's Walk" that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
 
 ![](los-angeles-2023-images/dolby-theater-stage.jpg)
 Me standing where the presenters stand with a view of the audience behind me... the photos on chairs represent the A-list guests who sat there recently.
@@ -253,7 +253,7 @@ I made it back to Santa Monica for sunset at the beach.
 The view from Ocean Avenue
 
 ![](los-angeles-2023-images/santa-monica-beach-sunset-2.jpg)
-Having walked from the pier down to Santa Monica Beach
+Walking from the pier down to Santa Monica Beach
 
 ![](los-angeles-2023-images/santa-monica-beach-sunset-3.jpg)
 Santa Monica Beach sunset
@@ -285,7 +285,7 @@ République front
 
 [The Academy Museum of Motion Pictures](https://www.academymuseum.org/en) had a large exhibit filled with an extensive collection of photos, costumes, props, artifacts, and equipment that explored the various types of craft that went into the creation of The Godfather. 
 
-The museum had a number of The Dark Crystal puppets and props that I particularly enjoyed. I hadn't thought about that movie since I watched it as a child and was instantly transported back to childhood. 
+The museum also had a number of The Dark Crystal puppets and props that I particularly enjoyed. I hadn't thought about that movie since I watched it as a child and was instantly transported back to childhood. 
 
 ![](los-angeles-2023-images/academy-museum-godfather-office-2.jpg)
 The Godfather office
@@ -312,7 +312,11 @@ Academy Award statues room
 
 ### Petersen Automotive Museum
 
-As suggested, I started on floor three and worked my way down. The first floor was almost completely devoted to Tesla. I regret not having added the basement "vault" tour to my ticket. It was more than I could do at the time. Perhaps I'll go back sometime. 
+Even though I am far from an expert in cars, with the Petersen Automotive Museum being just across the street from the Academy Museum of Motion pictures, I decided to give it a try. A Lyft driver later pointed out to me that Notorious B.I.G. was shot at that intersection. It's incredible how many famous landmarks are "hiding in plain sight" in Los Angeles. 
+
+As suggested, I started on the third floor of the museum and worked my way down. The first floor was almost completely devoted to Tesla. I regret not having added the basement "vault" tour to my ticket. It was more than I could do at the time. Perhaps I'll go back sometime. 
+
+While I am sure there were more technically impressive classic cars there, the many Hollywood cars in the collection caught my eye. 
 
 ![](los-angeles-2023-images/petersen-thelma-and-louise-car-description.jpg)
 Thelma and Louise Car
@@ -360,14 +364,14 @@ Main Getty Center terrace video
 
 ### République
 
-On my way to the Grammy Museum, I stopped at [République](https://republiquela.com/) again for breakfast. I regretted that I hadn't ordered Shrimp and Grits (anson mills grits, calabrian chilies, pork belly sausage, hooks cheddar, fried egg) on Saturday, then realized that dish is only served at weekend brunch and wasn't available on a Monday. I will have to go back sometime and try it. I did have some absolutely incredible tasting granola. It was beautifully presented, and although some of the fruit was unfamiliar to me, it was bursting with delicious flavor, and definitely in the running for the most delicious breakfast that I have ever eaten. 
+On my way to the Grammy Museum, I stopped at [République](https://republiquela.com/) again for breakfast. I regretted that I hadn't ordered Shrimp and Grits (anson mills grits, calabrian chilies, pork belly sausage, hooks cheddar, fried egg) on Saturday, then realized that dish is only served at weekend brunch and wasn't available on a Monday. I will have to go back sometime and try it. I did have some absolutely incredible tasting granola. It was beautifully presented, and although some of the fruit was unfamiliar to me, it was bursting with flavor, and definitely in the running for the most delicious breakfast that I have ever eaten. 
 
 ![](los-angeles-2023-images/republique-breakfast-2.jpg)
 Granola: straus organic yogurt, farmer’s market fruit, wildflower honey
 
 ### The Grammy Museum
 
-[The Grammy Museum](https://grammymuseum.org/) was surpringly small for an awards ceremony as important as it is, but it did have an impressive collection of Michael Jackson memorabilia, including the Thriller Jacket. Two whole floors, plus a portion of another had temporary exhibits that weren't particularly of interest to me (Shakira, The Roxy, and Hip-Hop America). There was not much to see beyond that.  
+[The Grammy Museum](https://grammymuseum.org/) was surpringly small for an awards ceremony as important as it is, but it did have an impressive collection of Michael Jackson memorabilia, including the Thriller Jacket. Two whole floors, plus a portion of another had temporary exhibits that weren't particularly of interest to me (Shakira, The Roxy, and Hip-Hop America). There was not much else to see.  
 
 ![](los-angeles-2023-images/grammy-museum-michael-jackson-collection.jpg)
 A portion of the Michael Jackson collection, including autographed Thriller jacket
@@ -406,7 +410,7 @@ The homelessness in Los Angeles was a sad reality. A local told me it increased 
 I heard that the Los Angeles City Hall Observation Deck is one of the city's best kept secrets, so I had to go. The building architecture was more fancy-schmancy than I expected. The observation deck triggered my fear of heights, so I didn't stay long out there, but it was a great view!
 
 ![](los-angeles-2023-images/city-hall-building.jpg)
-Fancy Schmancy
+Fancy schmancy
 
 ![](los-angeles-2023-images/city-hall-riding-in-style.jpg)
 Riding in style
@@ -497,13 +501,13 @@ The comedian before him was scream-y... this one was quiet and thoughtful. I tho
 
 ### Hollywood Walk of Fame
 
-Before the celebrity homes bus tour, I walked around Hollywood Boulevard again. I attempted to go to the [Chaplin-Keaton-Lloyd Alley](https://www.atlasobscura.com/places/chaplin-keaton-lloyd-alley), but it was closed off. 
+Before the celebrity homes bus tour, I walked around Hollywood Boulevard again. I attempted to go to the [Chaplin-Keaton-Lloyd Alley](https://www.atlasobscura.com/places/chaplin-keaton-lloyd-alley) which I read about on the wonderful Atlas Obscura website, but it was closed off. 
 
 ![](los-angeles-2023-images/alfred-hitchcock-star.jpg)
 Alfred Hitchcock's star
 
 ![](los-angeles-2023-images/rebel-moon-premier-1.jpg)
-Hollywood Boulevard was closed due to the [Rebel Moon](https://en.wikipedia.org/wiki/Rebel_Moon) Premier
+Hollywood Boulevard was closed to cars due to the [Rebel Moon](https://en.wikipedia.org/wiki/Rebel_Moon) Premier
 
 ### Celebrity Homes Bus Tour
 
