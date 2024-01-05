@@ -377,7 +377,7 @@ Granola: straus organic yogurt, farmer’s market fruit, wildflower honey
 
 ### The Grammy Museum
 
-[The Grammy Museum](https://grammymuseum.org/) was surpringly small for an awards ceremony as important as it is, but it did have an impressive collection of Michael Jackson memorabilia, including the Thriller Jacket. Two whole floors, plus a portion of another had temporary exhibits that weren't particularly of interest to me (Shakira, The Roxy, and Hip-Hop America). There was not much else to see.  
+[The Grammy Museum](https://grammymuseum.org/) was surpringly small for an awards ceremony as important as it is, but it did have an impressive collection of Michael Jackson memorabilia, including an autographed Thriller Jacket. Two whole floors, plus a portion of another had temporary exhibits that weren't particularly of interest to me (Shakira, The Roxy, and Hip-Hop America). There was not much else to see.  
 
 ![](los-angeles-2023-images/grammy-museum-michael-jackson-collection.jpg)
 A portion of the Michael Jackson collection, including autographed Thriller jacket
