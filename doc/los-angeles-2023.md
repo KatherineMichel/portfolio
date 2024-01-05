@@ -133,7 +133,7 @@ Good food
 
 ### Santa Monica Pier at Night
 
-I arrived in Santa Monica after dark. I was staying about a block from the pier, so I walked there to get a good look at it at night.  
+I arrived in Santa Monica after dark. I was staying about a block from the pier, so I walked there to get a good look at it at night. It was magical!
 
 ![](los-angeles-2023-images/santa-monica-pier-at-night.jpg)
 Santa Monica Pier at night
