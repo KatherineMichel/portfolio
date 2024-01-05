@@ -471,7 +471,20 @@ King Kong video, designed by Peter Jackson and team, immersive experience, inclu
 
 ### The Griffith Observatory
 
+<!--
+https://griffithobservatory.org/exhibits/w-m-keck-foundation-central-rotunda/foucault-pendulum/
+-->
+
 Although The Griffith Observatory museum was much smaller than I expected, the building was beautiful and had an amazing view. 
+
+![](los-angeles-2023-images/the-griffith-observatory-entrance-hall.jpg)
+Entrance hall which includes a Foucault Pendulum
+
+![](los-angeles-2023-images/the-griffith-observatory-view.jpg)
+What a view...
+
+![](los-angeles-2023-images/the-griffith-observatory-architecture.jpg)
+Beautiful architecture...
 
 Multiple Lyft drivers told me the view is "spectacular" after dark, but frankly, I was too tired to stay that long. I will go back sometime. 
 
@@ -488,11 +501,13 @@ The comedian before him was scream-y... this one was quiet and thoughtful. I tho
 
 ### Hollywood Walk of Fame
 
+Before the celebrity homes bus tour, I walked around Hollywood Boulevard again. I attempted to go to the [Chaplin-Keaton-Lloyd Alley](https://www.atlasobscura.com/places/chaplin-keaton-lloyd-alley), but it was closed off. 
+
 ![](los-angeles-2023-images/alfred-hitchcock-star.jpg)
-Placeholder
+Alfred Hitchcock's star
 
 ![](los-angeles-2023-images/rebel-moon-premier-1.jpg)
-Placeholder
+Hollywood Boulevard was closed due to the Rebel Moon Premier
 
 ### Celebrity Homes Bus Tour
 
