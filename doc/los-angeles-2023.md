@@ -137,11 +137,11 @@ I arrived in Santa Monica after dark. I was staying about a block from the pier,
 
 ![](los-angeles-2023-images/santa-monica-pier-at-night.jpg)
 Santa Monica Pier at night
-
-![](los-angeles-2023-images/santa-monica-pier-at-night-1.jpg)
+ 
+![](los-angeles-2023-images/santa-monica-pier-at-night-pacific-park.jpg)
 Pacific Park Amusement Park
 
-![](los-angeles-2023-images/santa-monica-pier-at-night-2.jpg)
+![](los-angeles-2023-images/santa-monica-pier-at-night-pacific-park-ferris-wheel.jpg)
 Pacific Park ferris wheel overlooking the ocean waves...
 
 ### North Italia
