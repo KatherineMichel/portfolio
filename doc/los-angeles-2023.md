@@ -214,7 +214,7 @@ Hollywood Boulevard
 TCL Chinese Theater
 
 ![](los-angeles-2023-images/hollywood-boulevard-michael-jackson-handprints.jpg)
-Michael Jackson's handprints
+Michael Jackson's handprints, glove prints, and footprints
 
 ![](los-angeles-2023-images/hollywood-boulevard-hollywood-sign.jpg)
 Hollywood Sign
