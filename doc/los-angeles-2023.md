@@ -199,6 +199,9 @@ Me on the real Friends set... I don't usually buy these, but couldn't resist thi
 ![](los-angeles-2023-images/warner-brothers-friends-couch.jpg)
 Me sitting in front of the real Friends fountain... the sofa looks soft, but was actually hard as a rock. The fountain was also used in Wonder Woman (Lynda Carter leapt over it) and the Bewitched pilot.
 
+![](los-angeles-2023-images/warner-brothers-harry-potter-spells.jpg)
+Harry Potter spells
+
 <!--
 ![](los-angeles-2023-images/warner-brothers-friends-soundstage.jpg)
 Friends soundstage
