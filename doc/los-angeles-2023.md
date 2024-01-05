@@ -312,7 +312,7 @@ Academy Award statues room
 
 ### Petersen Automotive Museum
 
-Even though I am far from an expert in cars, with the Petersen Automotive Museum being just across the street from the Academy Museum of Motion pictures, I decided to give it a try. A Lyft driver later pointed out to me that Notorious B.I.G. was shot at that intersection. It's incredible how many famous landmarks are "hiding in plain sight" in Los Angeles. 
+Even though I am far from an expert in cars, with the [Petersen Automotive Museum](https://www.petersen.org/) being just across the street from the Academy Museum of Motion pictures, I decided to give it a try. A Lyft driver later pointed out to me that Notorious B.I.G. was shot at that intersection. It's incredible how many famous landmarks are "hiding in plain sight" in Los Angeles. 
 
 As suggested, I started on the third floor of the museum and worked my way down. The first floor was almost completely devoted to Tesla. I regret not having added the basement "vault" tour to my ticket. It was more than I could do at the time. Perhaps I'll go back sometime. 
 
