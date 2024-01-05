@@ -189,7 +189,7 @@ Highlights
 
 After some quick research, I settled on [Warner Brothers Studio Tour](https://www.wbstudiotour.com/tour/studio/) as a top priority. It was an incredible, in-depth experience. 
 
-Because I hadn't read up on the details of the Warner Brothers tour ahead of time, I had no idea what I would see. 
+Because I hadn't read up on the details of the tour ahead of time, I had no idea what I would see. 
 
 The chance to take a photo on the real Friends set was a super fun surprise and gave me a feeling of childlike delight. What a great way to kick of off my Hollywood sightseeing. 
 
