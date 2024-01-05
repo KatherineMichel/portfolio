@@ -286,9 +286,11 @@ République front
 
 ### Academy Museum of Motion Pictures
 
-[The Academy Museum of Motion Pictures](https://www.academymuseum.org/en) had a large exhibit filled with an extensive collection of photos, costumes, props, artifacts, and equipment that explored the various types of craft that went into the creation of The Godfather. 
+[The Academy Museum of Motion Pictures](https://www.academymuseum.org/en) had an extensive collection of photos, costumes, props, artifacts, and equipment that explored the various types of craft that go into movie making. 
 
-The museum also had a number of The Dark Crystal puppets and props that I particularly enjoyed. I hadn't thought about that movie since I watched it as a child and was instantly transported back to childhood. 
+One large exhibit was devoted to the creation of The Godfather. 
+
+The museum also had a number of famous movie costumes and puppets. I particularly enjoyed the The Dark Crystal puppets. I hadn't thought about that movie since I watched it as a child and was instantly transported back to childhood. 
 
 ![](los-angeles-2023-images/academy-museum-godfather-office-2.jpg)
 The Godfather office
