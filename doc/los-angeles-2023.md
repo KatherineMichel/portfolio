@@ -108,26 +108,26 @@ Placeholder
 TL;DR
 
 Hollywood experience
-* Dolby Theater Tour
-* Warner Brothers Tour
-* Universal Studios Tour
-* Academy Museum of Motion Pictures
+* [Dolby Theater Tour](https://dolbytheatre.com/tours/tour-information/)
+* [Warner Brothers Studio Tour](https://www.wbstudiotour.com/tickets/)
+* [Universal Studios Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour)
+* [Academy Museum of Motion Pictures](https://www.academymuseum.org/en)
 * Celebrity Homes Bus Tour
-* Via Alloro
+* [Via Alloro](https://www.viaalloro.com/)
 
 Great views, artwork, and science
-* The Getty Center
-* The Griffith Observatory
+* [The Getty Center](https://www.getty.edu/visit/center/)
+* [The Griffith Observatory](https://griffithobservatory.org/)
 
 Beach fun
 * Santa Monica and Venice Beaches, Santa Monica Pier (day and night)
 
 Fascinating
-* Petersen Automotive Museum
+* [Petersen Automotive Museum](petersen.org)
 
 Good food
-* Bruno's Ristorante Italiano
-* République
+* [Bruno's Ristorante Italiano](https://brunossantamonica.com/)
+* [République](https://republiquela.com/)
   
 ## Wednesday
 
@@ -146,7 +146,7 @@ Pacific Park ferris wheel overlooking the ocean waves...
 
 ### North Italia
 
-I was looking for a convenient, but decent place to eat dinner. I stumbled upon North Italia while walking down the street. The food is handmade with the best ingredients, and it was good, but a bit high falutin' Italian for my taste. Later in the week, I discovered another Italian restaurant nearby called Bruno's Ristorante Italiano. North Italia did not compare to the simple, delicious authenticity of Bruno's. Bruno's perfectly hit the spot for me. Sorry, North Italia. 
+I was looking for a convenient, but decent place to eat dinner. I stumbled upon [North Italia](https://www.northitalia.com/) while walking down the street. The food is handmade with the best ingredients, and it was good, but a bit high falutin' Italian for my taste. Later in the week, I discovered another Italian restaurant nearby called [Bruno's Ristorante Italiano](https://brunossantamonica.com/). North Italia did not compare to the simple, delicious authenticity of Bruno's. Bruno's perfectly hit the spot for me. Sorry, North Italia. 
 
 ![](los-angeles-2023-images/north-italia.jpg)
 North Italia Crushed Meatball Ragu: beef meatball, porchetta, blistered onion, wild oregano, bucatini, pecorino
@@ -160,7 +160,7 @@ On Thursday, I ate breakfast at [Blue Daisy](https://www.bluedaisycafe.com/brunc
 I had 3 eggs scrambled with mushroom, which came with zucchini hash and a plain crepe with jam. 
 
 ![](los-angeles-2023-images/blue-daisy-breakfast.jpg)
-3 eggs scrambled with mushroom, which came with zucchini hash and a plain crepe with jam
+Breakfast...
 
 I asked the waiter if the zucchini hash came from another culture. He laughed and said it's something the chef invented to make breakfast healthier. Sounds like an Los Angeles thing. I don't know if I want my breakfast to be that healthy. 
 
@@ -199,8 +199,10 @@ Me on the real Friends set... I don't usually buy these, but couldn't resist thi
 ![](los-angeles-2023-images/warner-brothers-friends-couch.jpg)
 Me sitting in front of the real Friends fountain... the sofa looks soft, but was actually hard as a rock. The fountain was also used in Wonder Woman (Lynda Carter leapt over it) and the Bewitched pilot.
 
+<!--
 ![](los-angeles-2023-images/warner-brothers-friends-soundstage.jpg)
 Friends soundstage
+-->
  
 ![](los-angeles-2023-images/warner-brothers-awards.jpg)
 Warner Brothers Studio awards
@@ -214,7 +216,7 @@ After the Warner Brothers Studio Tour, I traveled over to Hollywood Boulevard an
 Hollywood Boulevard
 
 ![](los-angeles-2023-images/hollywood-boulevard-tcl-chinese-theater.jpg)
-TCL Chinese Theater
+[TCL Chinese Theater](https://www.tclchinesetheatres.com/)
 
 ![](los-angeles-2023-images/hollywood-boulevard-michael-jackson-handprints.jpg)
 Michael Jackson's handprints, glove prints, and footprints
@@ -226,7 +228,7 @@ Hollywood Sign
 On Oscar night, Hollywood Boulevard becomes a walkway for the stars. Normally the entrance to the [Ovation Shopping Center](https://www.ovationhollywood.com/), attendees will walk down this grand, elaborately decorated hall.  
 
 ![](los-angeles-2023-images/dolby-theater-walkway-2.jpg)
-The steps to the Dolby Theater
+The steps to the [Dolby Theater Tour](https://dolbytheatre.com/), where the Academy Awards Ceremony takes place
 
 ### Dolby Theater Tour
 
@@ -257,13 +259,13 @@ Having walked from the pier down to Santa Monica Beach
 Santa Monica Beach sunset
  
 ![](los-angeles-2023-images/pier-burger.jpg)
-Tourist be touristing... I gave in and ate an overpriced hamburger, fries, and strawberry milkshake at Pier Burger. 
+Tourist be touristing... I gave in and ate an overpriced hamburger, fries, and strawberry milkshake at [Pier Burger](https://www.pierburger.com/). 
 
 ## Saturday
 
 ### République
 
-I started Saturday by eating breakfast at a bakery/café called République in a building that Charlie Chaplin had built. République is owned by two chefs awarded a Michelin Star and a James Beards award and one of whom worked with Alain Ducasse of the Dorchester Collection, my old stomping grounds. A foodie colleague and friend Wooyong Ee recommended it. It was excellent. 
+I started Saturday by eating breakfast at a bakery/café called [République](https://republiquela.com/) in a building that Charlie Chaplin had built. République is owned by two chefs awarded a Michelin Star and a James Beards award and one of whom worked with Alain Ducasse of the Dorchester Collection, my old stomping grounds. A foodie colleague and friend Wooyong Ee recommended it. It was excellent. 
 
 Much of the building's original architecture is intact, as seen in these [photos](https://martinturnbull.com/2020/06/02/charlie-chaplins-italian-villa-inspired-building-at-624-s-la-brea-ave-los-angeles-circa-late-1920s/). The restaurant floor appears to be in what was an open courtyard, with the arches still in existence. Imagine walking the same grounds as Charlie Chaplin. Mind blowing.
 
@@ -281,7 +283,7 @@ République front
 
 ### Academy Museum of Motion Pictures
 
-The Academy Museum of Motion Pictures had a large exhibit filled with an extensive collection of photos, costumes, props, artifacts, and equipment that explored the various types of craft that went into the creation of The Godfather. 
+[The Academy Museum of Motion Pictures](https://www.academymuseum.org/en) had a large exhibit filled with an extensive collection of photos, costumes, props, artifacts, and equipment that explored the various types of craft that went into the creation of The Godfather. 
 
 The museum had a number of The Dark Crystal puppets and props that I particularly enjoyed. I hadn't thought about that movie since I watched it as a child and was instantly transported back to childhood. 
 
@@ -331,7 +333,7 @@ Back to the Future flux capacitor!
 
 ### The Getty Center
 
-The Getty Center experience was well worth the trip. The architecture, art, and views were all simply jaw dropping.
+[The Getty Center](https://www.getty.edu/visit/center/) experience was well worth the trip. The architecture, art, and views were all simply jaw dropping.
 
 ![](los-angeles-2023-images/the-getty-center-entrance-hall.jpg)
 The entrance hall
@@ -358,14 +360,14 @@ Main Getty Center terrace video
 
 ### République
 
-On my way to the Grammy Museum, I stopped at République again for breakfast. I regretted that I hadn't ordered Shrimp and Grits (anson mills grits, calabrian chilies, pork belly sausage, hooks cheddar, fried egg) on Saturday, then realized that dish is only served at weekend brunch and wasn't available on a Monday. I will have to go back sometime and try it. I did have some absolutely incredible tasting granola. It was beautifully presented, and although some of the fruit was unfamiliar to me, it was bursting with delicious flavor, and definitely in the running for the most delicious breakfast that I have ever eaten. 
+On my way to the Grammy Museum, I stopped at [République](https://republiquela.com/) again for breakfast. I regretted that I hadn't ordered Shrimp and Grits (anson mills grits, calabrian chilies, pork belly sausage, hooks cheddar, fried egg) on Saturday, then realized that dish is only served at weekend brunch and wasn't available on a Monday. I will have to go back sometime and try it. I did have some absolutely incredible tasting granola. It was beautifully presented, and although some of the fruit was unfamiliar to me, it was bursting with delicious flavor, and definitely in the running for the most delicious breakfast that I have ever eaten. 
 
 ![](los-angeles-2023-images/republique-breakfast-2.jpg)
 Granola: straus organic yogurt, farmer’s market fruit, wildflower honey
 
 ### The Grammy Museum
 
-The Grammy Museum was surpringly small for an awards ceremony as important as it is, but it did have an impressive collection of Michael Jackson memorabilia, including the Thriller Jacket. Two whole floors, plus a portion of another had temporary exhibits that weren't particularly of interest to me (Shakira, The Roxy, and Hip-Hop America). There was not much to see beyond that.  
+[The Grammy Museum](https://grammymuseum.org/) was surpringly small for an awards ceremony as important as it is, but it did have an impressive collection of Michael Jackson memorabilia, including the Thriller Jacket. Two whole floors, plus a portion of another had temporary exhibits that weren't particularly of interest to me (Shakira, The Roxy, and Hip-Hop America). There was not much to see beyond that.  
 
 ![](los-angeles-2023-images/grammy-museum-michael-jackson-collection.jpg)
 A portion of the Michael Jackson collection, including autographed Thriller jacket
@@ -422,10 +424,10 @@ A view from one of the four sides
 
 After a few failed Google searches for restaurants in the area, I stumbled upon the absolute gem [Bruno's Ristorante Italiano](https://brunossantamonica.com/)
 
-![](los-angeles-2023-images/brunos-night-1.jpg)
-Fettuccine Alfredo with chicken... the best that I've ever had. So good!
+Oh boy, I wish I lived nearby so that I could eat there regularly. The fettucchine alfredo was the best that I've ever tasted. It arrived at the table fresh, hot, and authentic, with a generous half loaf of bread. I sat on the patio. The weather was perfect with a view of the pier. The waitstaff was kind and efficient. I returned before the trip was over. 
 
-I saw on the patio with a view of the pier and the sun going down. 
+![](los-angeles-2023-images/brunos-night-1.jpg)
+Fettuccine Alfredo with chicken... so good!
 
 <!--
 ![](los-angeles-2023-images/brunos-google-review.png)
@@ -438,8 +440,6 @@ I was quick to leave a Google review.
 
 <!--
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
-
-https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/king-kong-360-3-d
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/fast-furious-supercharged
 -->
@@ -471,14 +471,10 @@ King Kong video, designed by Peter Jackson and team, immersive experience, inclu
 
 ### The Griffith Observatory
 
-<!--
-https://griffithobservatory.org/exhibits/w-m-keck-foundation-central-rotunda/foucault-pendulum/
--->
-
-Although The Griffith Observatory museum was much smaller than I expected, the building was beautiful and had an amazing view. 
+Although [The Griffith Observatory](https://griffithobservatory.org/) museum was much smaller than I expected, the building was beautiful and had an amazing view. 
 
 ![](los-angeles-2023-images/the-griffith-observatory-entrance-hall.jpg)
-Entrance hall which includes a Foucault Pendulum
+Entrance hall which includes a [Foucault Pendulum](https://griffithobservatory.org/exhibits/w-m-keck-foundation-central-rotunda/foucault-pendulum/)
 
 ![](los-angeles-2023-images/the-griffith-observatory-view.jpg)
 What a view...
@@ -507,7 +503,7 @@ Before the celebrity homes bus tour, I walked around Hollywood Boulevard again. 
 Alfred Hitchcock's star
 
 ![](los-angeles-2023-images/rebel-moon-premier-1.jpg)
-Hollywood Boulevard was closed due to the Rebel Moon Premier
+Hollywood Boulevard was closed due to the [Rebel Moon](https://en.wikipedia.org/wiki/Rebel_Moon) Premier
 
 ### Celebrity Homes Bus Tour
 
