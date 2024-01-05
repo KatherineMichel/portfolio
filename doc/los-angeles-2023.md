@@ -135,11 +135,14 @@ Good food
 
 I arrived in Santa Monica after dark. I was staying about a block from the pier, so I walked there to get a good look at it at night.  
 
+![](los-angeles-2023-images/santa-monica-pier-at-night.jpg)
+Santa Monica Pier at night
+
 ![](los-angeles-2023-images/santa-monica-pier-at-night-1.jpg)
-Placeholder
+Pacific Park Amusement Park
 
 ![](los-angeles-2023-images/santa-monica-pier-at-night-2.jpg)
-Placeholder
+Pacific Park ferris wheel overlooking the ocean waves...
 
 ### North Italia
 
@@ -202,10 +205,23 @@ Warner Brothers Studio awards
 
 ### Hollywood Walk of Fame, TCL Theatre, Hollywood Sign
 
+After the Warner Brothers Studio Tour, I traveled over to Hollywood Boulevard and walked around.
 
+![](los-angeles-2023-images/hollywood-boulevard-sidewalk.jpg)
+Hollywood Boulevard
+
+![](los-angeles-2023-images/hollywood-boulevard-tcl-chinese-theater.jpg)
+TCL Chinese Theater
+
+![](los-angeles-2023-images/hollywood-boulevard-michael-jackson-handprints.jpg)
+Michael Jackson's handprints
+
+![](los-angeles-2023-images/hollywood-boulevard-hollywood-sign.jpg)
+Hollywood Sign
+ 
 ### Dolby Theater Tour
 
-After the Warner Brothers Studio Tour, I traveled over to Hollywood for the [Dolby Theater Tour](https://dolbytheatre.com/tours/tour-information/). The Dolby Theater is where the Academy Awards Ceremony takes place. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
+Afteward, I took the [Dolby Theater Tour](https://dolbytheatre.com/tours/tour-information/). The Dolby Theater is where the Academy Awards Ceremony takes place. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
 
 My tour guide was a long-time Academy Awards Ceremony crew member. We walked in the footsteps of the A-list stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
 
