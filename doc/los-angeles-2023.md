@@ -112,7 +112,7 @@ Hollywood experience
 * [Warner Brothers Studio Tour](https://www.wbstudiotour.com/tickets/)
 * [Universal Studios Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour)
 * [Academy Museum of Motion Pictures](https://www.academymuseum.org/en)
-* Celebrity Homes Bus Tour
+* [Celebrity Homes Bus Tour](http://hollywoodbustours.com/)
 * [Via Alloro](https://www.viaalloro.com/)
 
 Great views, artwork, and science
@@ -120,7 +120,7 @@ Great views, artwork, and science
 * [The Griffith Observatory](https://griffithobservatory.org/)
 
 Beach fun
-* Santa Monica and Venice Beaches, Santa Monica Pier (day and night)
+* [Santa Monica](https://www.santamonica.com/things-to-do/santa-monica-beach/) and [Venice Beaches](https://www.visitveniceca.com/), [Santa Monica Pier](https://www.santamonicapier.org/) (day and night)
 
 Fascinating
 * [Petersen Automotive Museum](petersen.org)
