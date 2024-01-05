@@ -230,7 +230,7 @@ The steps to the Dolby Theater
 
 ### Dolby Theater Tour
 
-Afteward, I took the [Dolby Theater Tour](https://dolbytheatre.com/tours/tour-information/). The Dolby Theater is where the Academy Awards Ceremony takes place. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
+Afterward, I took the [Dolby Theater Tour](https://dolbytheatre.com/tours/tour-information/). The Dolby Theater is where the Academy Awards Ceremony takes place. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
 
 My tour guide was a long-time Academy Awards Ceremony crew member. We walked in the footsteps of the A-list stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
 
