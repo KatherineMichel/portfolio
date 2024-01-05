@@ -218,18 +218,18 @@ Michael Jackson's handprints
 
 ![](los-angeles-2023-images/hollywood-boulevard-hollywood-sign.jpg)
 Hollywood Sign
- 
-### Dolby Theater Tour
-
-Afteward, I took the [Dolby Theater Tour](https://dolbytheatre.com/tours/tour-information/). The Dolby Theater is where the Academy Awards Ceremony takes place. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
-
-My tour guide was a long-time Academy Awards Ceremony crew member. We walked in the footsteps of the A-list stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
 
 ![](los-angeles-2023-images/dolby-theater-walkway-1.jpg)
 On Oscar night, Hollywood Boulevard becomes a walkway for the stars. Normally the entrance to the [Ovation Shopping Center](https://www.ovationhollywood.com/), attendees will walk down this grand, elaborately decorated hall.  
 
 ![](los-angeles-2023-images/dolby-theater-walkway-2.jpg)
 The steps to the Dolby Theater
+
+### Dolby Theater Tour
+
+Afteward, I took the [Dolby Theater Tour](https://dolbytheatre.com/tours/tour-information/). The Dolby Theater is where the Academy Awards Ceremony takes place. I really enjoyed this tour. It was one of the most fun things that I've ever done. 
+
+My tour guide was a long-time Academy Awards Ceremony crew member. We walked in the footsteps of the A-list stars into the theater, then backstage and on stage where we had a view of the audience from where the presenters stand. We exited stage left, then took the red carpet Winner's Walk that only Academy Award winners and tour participants get to take. All the while, our tour guide gave some inside stories from her years of working at the ceremony. 
 
 ![](los-angeles-2023-images/dolby-theater-stage.jpg)
 Me standing where the presenters stand with a view of the audience behind me... the photos on chairs represent the A-list guests who sat there recently.
