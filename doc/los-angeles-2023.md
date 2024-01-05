@@ -522,7 +522,7 @@ Hollywood Boulevard was closed to cars due to the [Rebel Moon](https://en.wikipe
 
 ### Celebrity Homes Bus Tour
 
-I went on a celebrity homes bus tour, and it was an absolute blast. I’ve never taken a bus tour like it before. I loved every minute. The tour guide Mark was so fun and knew all of the famous spots. We drove all around the Hollywood Hills and Bel Air looking at celebrity homes, through Beverly Hills, Rodeo Drive, West Hollywood, Sunset Strip, and Hollywood. Although I couldn't verify the authenticity of every home afterward, I believe that Mark knew his stuff. 
+I went on a [Celebrity Homes Bus Tour](http://hollywoodbustours.com/), and it was an absolute blast. I’ve never taken a bus tour like it before. I loved every minute. The tour guide Mark was so fun and knew all of the famous spots. We drove all around the Hollywood Hills and Bel Air looking at celebrity homes, through Beverly Hills, Rodeo Drive, West Hollywood, Sunset Strip, and Hollywood. Although I couldn't verify the authenticity of every home afterward, I believe that Mark knew his stuff. 
 
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-mark.jpg)
 Our tour guide Mark
