@@ -208,7 +208,7 @@ Friends soundstage
 Warner Brothers Studio awards
 
 
-### Hollywood Walk of Fame, TCL Theatre, Hollywood Sign
+### Hollywood Walk of Fame, TCL Theatre, Hollywood Sign, Dolby Theater
 
 After the Warner Brothers Studio Tour, I traveled over to Hollywood Boulevard and walked around.
 
@@ -623,6 +623,8 @@ Things to do next time:
 * Plan in advance to go to great restaurants
 * Take the Paramount Studio Tour (it was one too many studio tours for this trip)
 * Go to The Griffith Observatory at night
+* Take the scenic Coast Starlight train
+* Visit Santa Barbara
 
 ## Warner Brothers Studio Tour versus Universal Studios Tour
 
