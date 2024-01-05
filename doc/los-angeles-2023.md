@@ -368,7 +368,9 @@ Main Getty Center terrace video
 
 ### République
 
-On my way to the Grammy Museum, I stopped at [République](https://republiquela.com/) again for breakfast. I regretted that I hadn't ordered Shrimp and Grits (anson mills grits, calabrian chilies, pork belly sausage, hooks cheddar, fried egg) on Saturday, then realized that dish is only served at weekend brunch and wasn't available on a Monday. I will have to go back sometime and try it. I did have some absolutely incredible tasting granola. It was beautifully presented, and although some of the fruit was unfamiliar to me, it was bursting with flavor, and definitely in the running for the most delicious breakfast that I have ever eaten. 
+On my way to the Grammy Museum, I stopped at [République](https://republiquela.com/) again for breakfast. I regretted that I hadn't ordered Shrimp and Grits (anson mills grits, calabrian chilies, pork belly sausage, hooks cheddar, fried egg) on Saturday, then realized that dish is only served at weekend brunch and wasn't available on a Monday. I will have to go back sometime and try it. 
+
+I did have some absolutely incredible tasting granola. It was beautifully presented, and although some of the fruit was unfamiliar to me, it was bursting with flavor, and definitely in the running for the most delicious breakfast that I have ever eaten. 
 
 ![](los-angeles-2023-images/republique-breakfast-2.jpg)
 Granola: straus organic yogurt, farmer’s market fruit, wildflower honey
