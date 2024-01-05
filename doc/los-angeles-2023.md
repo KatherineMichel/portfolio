@@ -316,7 +316,9 @@ Even though I am far from an expert in cars, with the [Petersen Automotive Museu
 
 A Lyft driver later pointed out to me that Notorious B.I.G. was shot at that intersection. It's incredible how many famous landmarks are "hiding in plain sight" in Los Angeles. 
 
-As suggested, I started on the third floor of the museum and worked my way down. The first floor was almost completely devoted to Tesla. I regret not having added the basement "vault" tour to my ticket. It was more than I could do at the time. Perhaps I'll go back sometime. 
+As suggested, I started on the third floor of the museum and worked my way down. The first floor was almost completely devoted to Tesla. 
+
+I regret not having added the basement "vault" tour to my ticket. It was more than I could do at the time. Perhaps I'll go back sometime. 
 
 While I am sure there were more technically impressive classic cars there, the many Hollywood cars in the collection caught my eye. 
 
