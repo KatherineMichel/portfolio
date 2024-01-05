@@ -156,9 +156,15 @@ On Thursday, I ate breakfast at [Blue Daisy](https://www.bluedaisycafe.com/brunc
 
 I had 3 eggs scrambled with mushroom, which came with zucchini hash and a plain crepe with jam. 
 
+![](los-angeles-2023-images/blue-daisy-breakfast.jpg)
+3 eggs scrambled with mushroom, which came with zucchini hash and a plain crepe with jam
+
 I asked the waiter if the zucchini hash came from another culture. He laughed and said it's something the chef invented to make breakfast healthier. Sounds like an Los Angeles thing. I don't know if I want my breakfast to be that healthy. 
 
 The best part of the meal was a delicious Turkish Latte ("creamy and a touch of sweetness"). 
+
+![](los-angeles-2023-images/blue-daisy-latte.jpg)
+Turkish latte... beautiful and yummy!
 
 ### Santa Monica and Venice Beaches
 
@@ -272,7 +278,12 @@ Alien xenomorph
 ![](los-angeles-2023-images/academy-museum-the-dark-crystal-skeksis.jpg)
 The Dark Crystal's Skeksis
 
+<!--
 ![](los-angeles-2023-images/academy-museum-terminator.jpg)
+Terminator 2: Judgement Day animatronic... the team that created this won an Academy Award for Visual Effects
+-->
+
+![](los-angeles-2023-images/academy-museum-terminator-2.jpg)
 Terminator 2: Judgement Day animatronic... the team that created this won an Academy Award for Visual Effects
 
 ![](los-angeles-2023-images/academy-museum-statue-room.jpg)
@@ -479,14 +490,22 @@ Leonardo DiCaprio's house
 
 ### Rodeo Drive
 
+After the tour ended, I went back to Rodeo Drive and walked down the entire street taking pics. 
+
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-dior.jpg)
 Dior
+
+![](los-angeles-2023-images/rodeo-drive-valentino.jpg)
+Valentino
+
+![](los-angeles-2023-images/rodeo-drive-harry-winston.jpg)
+Harry Winston
 
 ### Via Alloro
 
 While I was on the celebrity home bus tour, we drove around Beverly Hills. As we drove past a restauraunt named [Via Alloro](https://www.viaalloro.com/) just off of Rodeo Drive, the tour guide said it's a major celebrity hotspot and that he'd seen Steven Spielberg there, among others. Someone on the bus asked if you had to be dressed up to go in. The tour guide said no, and that he'd had passengers literally call while on the bus and make a reservation. 
 
-After the tour ended, I went back to Rodeo Drive and walked down the entire street taking pics. Afteward, I decided to eat at Via Alloro. I knew if I didn't, I'd regret that I hadn't taken the opportunity to "rub shoulders" with the stars. 
+After taking pics on Rodeo Drive, I decided to eat at Via Alloro. I knew if I didn't, I'd regret that I hadn't taken the opportunity to "rub shoulders" with the stars. 
 
 The prices were surprisingly reasonable and the food was delicious. It felt like a surprisingly normal experience. The waiter told me that they do have "too many" celebs around. Sometimes, everywhere you look. A quick [google search](https://www.google.com/search?q=via+alloro+daily+mail&sca_esv=595179528&sxsrf=AM9HkKl7xam2HHlNbSzt-XLzlojjw9_Jug:1704229408712&source=lnms&sa=X&ved=2ahUKEwjvmpakzb-DAxWpkmoFHQsSDt0Q0pQJegQIBhAC&biw=1440&bih=699&dpr=2#ip=1) reveals some of the many celebs. 
 
