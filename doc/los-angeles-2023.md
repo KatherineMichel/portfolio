@@ -199,6 +199,9 @@ Me on the real Friends set... I don't usually buy these, but couldn't resist thi
 ![](los-angeles-2023-images/warner-brothers-friends-couch.jpg)
 Me sitting in front of the real Friends fountain... the sofa looks soft, but was actually hard as a rock. The fountain was also used in Wonder Woman (Lynda Carter leapt over it) and the Bewitched pilot.
 
+![](los-angeles-2023-images/warner-brothers-friends-soundstage.jpg)
+Warner Brothers Studio awards
+ 
 ![](los-angeles-2023-images/warner-brothers-awards.jpg)
 Warner Brothers Studio awards
 
@@ -495,6 +498,9 @@ Placeholder
 
 I went on a celebrity homes bus tour, and it was an absolute blast. I’ve never taken a bus tour like it before. I loved every minute. The tour guide Mark was so fun and knew all of the famous spots. We drove all around the Hollywood Hills and Bel Air looking at celebrity homes, through Beverly Hills, Rodeo Drive, West Hollywood, Sunset Strip, and Hollywood. Although I couldn't verify the authenticity of every home afterward, I believe that Mark knew his stuff. 
 
+![](los-angeles-2023-images/celebrity-homes-bus-tour-mark.jpg)
+Our tour guide Mark
+ 
 ![](los-angeles-2023-images/celebrity-homes-bus-tour-pretty-woman-balcony.jpg)
 Pretty Woman balcony. Las Palmas Hotel, 1738 N Las Palmas Ave, Los Angeles, CA 90028
 
@@ -503,6 +509,9 @@ Jack Nicholson's house... that's a tennis court on stilts!
 
 ![](los-angeles-2023-images/celebrity-home-bus-tour-leonardo-dicaprio.jpg)
 Leonardo DiCaprio's house
+
+![](los-angeles-2023-images/celebrity-homes-bus-tour-beverly-hills.jpg)
+Beverly Hills
 
 ### Rodeo Drive
 
