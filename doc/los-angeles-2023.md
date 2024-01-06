@@ -284,7 +284,7 @@ Main Getty Center terrace video
 ![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-walking-to-the-pier.jpg)
 Walking to the pier
 
-![](los-angeles-2023-images/santa-monica-pier-sunset-tacos-1986-on-the-beach.jpg)
+![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-on-the-beach.jpg)
 Tacos on the beach
 
 ![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-ocean.jpg)
