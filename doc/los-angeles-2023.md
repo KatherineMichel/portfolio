@@ -553,6 +553,14 @@ Pink cityscape
 ![](los-angeles-2023-images/santa-monica-pier-sunset-people.jpg)
 People watching
 
+### Santa Monica Promenade
+
+![](los-angeles-2023-images/santa-monica-promenade-1.jpg)
+Christmas decorations
+
+![](los-angeles-2023-images/santa-monica-promenade-2.jpg)
+Christmas decorations
+
 ## Friday
 
 ### Back to Kansas for Christmas
