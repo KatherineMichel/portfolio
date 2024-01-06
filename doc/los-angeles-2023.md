@@ -536,18 +536,16 @@ When was this?
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-steps.jpg)
 
-![](los-angeles-2023-images/santa-monica-pier-sunset-end-of-pier.jpg)
-
-
-
-
 ![](los-angeles-2023-images/santa-monica-pier-sunset-end-2.jpg)
 
+<!--
+![](los-angeles-2023-images/santa-monica-pier-sunset-end.jpg)
+-->
+
 ![](los-angeles-2023-images/santa-monica-pier-sunset-end.jpg)
 
+![](los-angeles-2023-images/santa-monica-pier-sunset-end-of-pier.jpg)
 
-![](los-angeles-2023-images/santa-monica-pier-sunset-end.jpg)
- 
 ### Santa Monica Pier Carousel
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-carousel.jpg)
