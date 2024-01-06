@@ -206,7 +206,7 @@ Community backlot with gazebo
 Harry Potter spells
 
 ![](los-angeles-2023-images/warner-brothers-mr-freeze-joker-mr-oz-riddler-costumes.jpg)
-Mr. Freeze, Joker, Mr. Oz, and Riddler costumes in front of the Arkham Asylum gates
+Mr. Freeze, Joker, Oz, and Riddler costumes in front of the Arkham Asylum gates
 
 <!--
 ![](los-angeles-2023-images/warner-brothers-friends-soundstage.jpg)
