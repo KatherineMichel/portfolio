@@ -3,40 +3,8 @@
 I finished my work year with a successful presentation to my department (see my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) for a review of my year!). A few hours later, I arrived at LAX. With Santa Monica as my "home base," I spent 9 days seeing the city. It was the first non-business trip that I'd taken in years. I had a general idea of the things I wanted to do, but hadn't done much planning. I played it by ear, and it worked. 
 
 <!--
-![](los-angeles-2023-images/december-7.png)
-Placeholder
-
-![](los-angeles-2023-images/december-8.png)
-Placeholder
-
-![](los-angeles-2023-images/december-9.png)
-Placeholder
-
-![](los-angeles-2023-images/december-11.png)
-Placeholder
-
-![](los-angeles-2023-images/december-12.png)
-Placeholder
-
-![](los-angeles-2023-images/december-13.png)
-Placeholder
-
-![](los-angeles-2023-images/december-14.png)
-Placeholder
-
-
-![](los-angeles-2023-images/grammy-museum-michael-jackson-thriller-jacket.jpg)
+ ![](los-angeles-2023-images/grammy-museum-michael-jackson-thriller-jacket.jpg)
 Michael Jackson autograph on the Thiller jacket
-
-![](los-angeles-2023-images/been-to-the-getty-center.png)
-
-![](los-angeles-2023-images/view-of-la-from-the-main-getty-center-terrace.png)
-Placeholder
-
-![](los-angeles-2023-images/rebel-moon-premier-2.jpg)
-Placeholder
-
-![](los-angeles-2023-images/my-feeling-about-la.png)
 -->
 
 <!--
@@ -46,61 +14,12 @@ I had to visit Los Angeles to go to a Trader Joe's for the first time. Bought su
 -->
 
 <!--
-![](los-angeles-2023-images/academy-museum-godfather-office-1.jpg)
-The Godfather office
-
 ![](los-angeles-2023-images/academy-museum-godfather-office-3.jpg)
 The Godfather office desk
 
-![](los-angeles-2023-images/academy-museum-horse-head-2.jpg)
-The Godfather rehearsal horse head
-
-![](los-angeles-2023-images/academy-museum-alien-1.jpg)
-Alien xenomorph
--->
-
-<!--
-![](los-angeles-2023-images/universal-niece-gift.jpg)
-Gift for a niece
-
-![](los-angeles-2023-images/surf-n-sand-niece-gift-1.jpg)
-Gift for a niece
-
-![](los-angeles-2023-images/surf-n-sand-niece-gift-2.jpg)
-Gift for a niece
--->
-
-<!--
 https://allthatsinteresting.com/cecil-hotel-los-angeles
 
 I wore a different outfit everyday, but because I took a handful of sweatshirts and wore them over t-shirts to stay warm, I look like I had on the same outfit everyday. 🤷‍♀️
-
-![](los-angeles-2023-images/i-hope-you-got-pics.png)
-Placeholder
-
-![](los-angeles-2023-images/ive-forgotten-how-good-my-iphone-camera-is.png)
-Placeholder
-
-![](los-angeles-2023-images/southwest-timezone.png)
-Placeholder
--->
-
-
-<!--
-Atlas Obscura
--->
-
-
-<!--
-Captions?
-
-![](los-angeles-2023-images/i-am-one-block-away.png)
-
-![](los-angeles-2023-images/famous-landmarks-hidden-in-plain-sight-2.png)
-Placeholder
-
-![](los-angeles-2023-images/los-angles-is-wild.png)
-Placeholder
 -->
 
 ## My Top Picks
@@ -207,11 +126,6 @@ Harry Potter spells
 
 ![](los-angeles-2023-images/warner-brothers-mr-freeze-joker-mr-oz-riddler-costumes.jpg)
 Mr. Freeze, Joker, Oz, and Riddler costumes in front of the Arkham Asylum gates
-
-<!--
-![](los-angeles-2023-images/warner-brothers-friends-soundstage.jpg)
-Friends soundstage
--->
  
 ![](los-angeles-2023-images/warner-brothers-awards.jpg)
 Warner Brothers Studio awards
@@ -309,11 +223,6 @@ Alien xenomorph
 
 ![](los-angeles-2023-images/academy-museum-the-dark-crystal-skeksis.jpg)
 The Dark Crystal's Skeksis
-
-<!--
-![](los-angeles-2023-images/academy-museum-terminator.jpg)
-Terminator 2: Judgement Day animatronic... the team that created this won an Academy Award for Visual Effects
--->
 
 ![](los-angeles-2023-images/academy-museum-terminator-2.jpg)
 Terminator 2: Judgement Day animatronic... the team that created this won an Academy Award for Visual Effects
@@ -458,11 +367,6 @@ Oh boy, I wish I lived nearby so that I could eat there regularly. The fettucchi
 
 ![](los-angeles-2023-images/brunos-night-1.jpg)
 Fettuccine Alfredo with chicken... so good!
-
-<!--
-![](los-angeles-2023-images/brunos-google-review.png)
-I was quick to leave a Google review. 
--->
 
 ## Tuesday
 
@@ -630,11 +534,6 @@ Bye bye, LA…
 Santa Monica, Venice, and Playa Del Rey Beaches, I believe
 
 I made it home from Los Angeles with one last momento: bronchitis. I believe it was caused by the smog. Walking for miles over nine days and riding around in an open air bus for two hours couldn't have helped. 
-
-<!--
-![](los-angeles-2023-images/last-momento.png)
-One last momento...
--->
 
 ## Travel Serendipity
 
