@@ -455,9 +455,6 @@ Jack Nicholson's house... that's a tennis court on stilts!
 ![](los-angeles-2023-images/celebrity-home-bus-tour-leonardo-dicaprio.jpg)
 Leonardo DiCaprio's house
 
-![](los-angeles-2023-images/celebrity-homes-bus-tour-beverly-hills.jpg)
-Beverly Hills
-
 ### Rodeo Drive
 
 After the tour ended, I went back to Rodeo Drive and walked down the entire street taking pics. 
