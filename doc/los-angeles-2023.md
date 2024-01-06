@@ -538,7 +538,7 @@ Venturing to the end of the pier for sunset...
 The rippling waves were like abstract art...
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-end-of-pier.jpg)
-Wow!
+The end of the pier... wow!
 
 ### Santa Monica Pier Carousel
 
