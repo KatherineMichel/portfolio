@@ -540,9 +540,9 @@ When was this?
 
 <!--
 ![](los-angeles-2023-images/santa-monica-pier-sunset-end.jpg)
--->
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-end.jpg)
+-->
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-end-of-pier.jpg)
 
