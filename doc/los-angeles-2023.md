@@ -536,13 +536,9 @@ When was this?
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-steps.jpg)
 
+![](los-angeles-2023-images/santa-monica-pier-sunset-end.jpg)
+
 ![](los-angeles-2023-images/santa-monica-pier-sunset-end-2.jpg)
-
-<!--
-![](los-angeles-2023-images/santa-monica-pier-sunset-end.jpg)
-
-![](los-angeles-2023-images/santa-monica-pier-sunset-end.jpg)
--->
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-end-of-pier.jpg)
 
@@ -553,16 +549,11 @@ Santa Monica Pier Carousel... Paul Newman worked there in the Sting. I rode it!
 
 ### End of Santa Monica Pier at Sunset
 
-<!--
 ![](los-angeles-2023-images/santa-monica-pier-cityscape-pink.jpg)
 Pink cityscape
--->
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-people.jpg)
 People
-
-![](los-angeles-2023-images/santa-monica-pier-sunset-playland.jpg)
-Playland
 
 ## Friday
 
