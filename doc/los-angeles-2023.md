@@ -280,6 +280,7 @@ Main Getty Center terrace video
 
 ### Tacos 1986 and Santa Monica Beach at Sunset
 
+I grabbed some tacos and hurried to the Santa Monica Beach for sunset. The tacos were a disappointment, but the sunset wasn't.
 
 ![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-walking-to-the-pier.jpg)
 Walking to the pier
