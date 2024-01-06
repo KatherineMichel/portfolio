@@ -97,17 +97,15 @@ The San Diego beaches that I've been to have been more breathtaking (south of La
 
 ### Warner Brothers Studio Tour
 
-<!--
-See my note at the end for a comparison between Warner Brothers Studio Tour and Universal Studio Tour
-
-Highlights
--->
+See the end of this blog post for a comparison between Warner Brothers Studio Tour and Universal Studio Tour. 
 
 After some quick research, I settled on [Warner Brothers Studio Tour](https://www.wbstudiotour.com/tour/studio/) as a top priority. It was an incredible, in-depth experience. 
 
 Because I hadn't read up on the details of the tour ahead of time, I had no idea what I would see. 
 
 Having my photo taken on the real Friends was a really fun surprise and gave me a feeling of childlike delight. What a great way to kick of off my Hollywood sightseeing. 
+
+In addition to a tour of city and town backlots, the Friends soundstage, and a photo in front of the Friends fountain, there were multiple large exhibits packed full of costumes, props, vehicles, and interactive experiences from Superman, Wonder Woman, Justice League, Batman, Game of Thrones, Harry Potter, Gilmore Girls, Big Bang Theory, My Fair Lady, Casablanca, and many others. 
 
 ![](los-angeles-2023-images/warner-brothers-friends-set.jpg)
 Me on the real Friends set... I don't usually buy these, but couldn't resist this time!
@@ -116,7 +114,7 @@ Me on the real Friends set... I don't usually buy these, but couldn't resist thi
 Me sitting in front of the real Friends fountain... the sofa looks soft, but was actually hard as a rock. The fountain was also used in Wonder Woman (Lynda Carter leapt over it) and the Bewitched pilot.
 
 ![](los-angeles-2023-images/warner-brothers-community-backlot.jpg)
-Community backlot with gazebo
+Town backlot with gazebo
 
 ![](los-angeles-2023-images/warner-brothers-harry-potter-spells.jpg)
 Harry Potter spells
@@ -126,7 +124,6 @@ Mr. Freeze, Joker, Oz, and Riddler costumes in front of the Arkham Asylum gates
  
 ![](los-angeles-2023-images/warner-brothers-awards.jpg)
 Warner Brothers Studio awards
-
 
 ### Hollywood Walk of Fame, TCL Theatre, Hollywood Sign, Dolby Theater
 
