@@ -121,7 +121,7 @@ Community backlot with gazebo
 ![](los-angeles-2023-images/warner-brothers-harry-potter-spells.jpg)
 Harry Potter spells
 
-![](los-angeles-2023-images/warner-brothers-mr-freeze-joker-oz-riddler-costumes.jpg)
+![](los-angeles-2023-images/warner-brothers-mr-freeze-joker-mr-oz-riddler-costumes.jpg)
 Mr. Freeze, Joker, Oz, and Riddler costumes in front of the Arkham Asylum gates
  
 ![](los-angeles-2023-images/warner-brothers-awards.jpg)
@@ -280,7 +280,6 @@ Main Getty Center terrace video
 
 ### Tacos 1986 and Santa Monica Beach at Sunset
 
-I grabbed some tacos and hurried to the Santa Monica Beach for sunset. The tacos were a disappointment, but the sunset wasn't. 
 
 ![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-walking-to-the-pier.jpg)
 Walking to the pier
@@ -324,7 +323,7 @@ I have been fascinated by true crime going back to childhood, when I started wat
 
 While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I stopped at Hotel Cecil along the way. 
 
-Hotel Cecil (a.k.a "Hotel Death") was the subject of a Netflix documentary called [Crime Scene: The Vanishing at the Cecil Hotel](https://www.netflix.com/title/81183727). The documentary focused on the case of [Elisa Lam](https://en.wikipedia.org/wiki/List_of_deaths_and_violence_at_the_Cecil_Hotel), a Canadian student suffering from bi-polar disease who drowned in a water tank on the roof. Members of the public crowd-sourced an investigation into what happened to Elisa. The hotel has a long history of murder, suicide, and unexplained deaths. In a strange twist, Richard Ramirez, a serial killer profiled in another Netflix documentary Night Stalker, stayed at Hotel Cecil. 
+Hotel Cecil (a.k.a "Hotel Death") was the subject of a Netflix documentary called [Crime Scene: The Vanishing at the Cecil Hotel](https://www.netflix.com/title/81183727). The documentary focused on the case of [Elisa Lam](https://en.wikipedia.org/wiki/List_of_deaths_and_violence_at_the_Cecil_Hotel), a Canadian student suffering from bi-polar disease who drowned in a water tank on the roof. Members of the public crowd-sourced an investigation into what happened to Elisa. The hotel has a long history of murder, suicide, and unexplained deaths. In a strange twist, Richard Ramirez, a serial killer profiled in another Netflix documentary [Night Stalker](https://www.netflix.com/title/81025701), stayed at Hotel Cecil. 
 
 ![](los-angeles-2023-images/hotel-cecil-1.jpg)
 The hotel is shuttered with a "private property" sign on one door. There were a few people nearby. Not sure if they were workers or loitering.
@@ -373,6 +372,12 @@ Fettuccine Alfredo with chicken... so good!
 
 ### Universal Theme Park
 
+<!--
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/king-kong-360-3-d
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/fast-furious-supercharged
+-->
+
 Although I wanted to take the [Universal Studio Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. After multiple people told me how fun the theme park is including a Lyft driver who said it's the best, because you are "in the movies," I decided to go. I know what she means now that I've experienced the incredible, immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
 
 I guess I got my money's worth for the studio tour alone. I went twice... riding on either side of the cart to get a good look at everything. 
@@ -394,13 +399,8 @@ Bates Motel from Psycho
 Mother's house from Psycho
 
 <!--
-https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
-
 Jaws video
 King Kong video, designed by Peter Jackson and team, immersive experience, including water throw on you
-
-https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/king-kong-360-3-d
-https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/fast-furious-supercharged
 -->
 
 ### The Griffith Observatory
@@ -454,6 +454,9 @@ Jack Nicholson's house... that's a tennis court on stilts!
 
 ![](los-angeles-2023-images/celebrity-home-bus-tour-leonardo-dicaprio.jpg)
 Leonardo DiCaprio's house
+
+![](los-angeles-2023-images/celebrity-homes-bus-tour-beverly-hills.jpg)
+Beverly Hills
 
 ### Rodeo Drive
 
