@@ -581,7 +581,7 @@ Things to do next time:
 * Take the Paramount Studio Tour (it was one too many studio tours for this trip)
 * Go to The Griffith Observatory at night
 * Take the scenic Coast Starlight train
-* Visit Santa Barbara
+* Visit Redondo Beach and Santa Barbara
 
 ## Warner Brothers Studio Tour versus Universal Studios Tour
 
