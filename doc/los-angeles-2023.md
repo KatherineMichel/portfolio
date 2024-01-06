@@ -199,8 +199,14 @@ Me on the real Friends set... I don't usually buy these, but couldn't resist thi
 ![](los-angeles-2023-images/warner-brothers-friends-couch.jpg)
 Me sitting in front of the real Friends fountain... the sofa looks soft, but was actually hard as a rock. The fountain was also used in Wonder Woman (Lynda Carter leapt over it) and the Bewitched pilot.
 
+![](los-angeles-2023-images/warner-brothers-community-backlot.jpg)
+Community backlot with gazebo
+
 ![](los-angeles-2023-images/warner-brothers-harry-potter-spells.jpg)
 Harry Potter spells
+
+![](los-angeles-2023-images/warner-brothers-mr-freeze-joker-mr-oz-riddler-costumes.jpg)
+Mr. Freeze, Joker, Mr. Oz, and Riddler costumes in front of the Arkham Asylum gates
 
 <!--
 ![](los-angeles-2023-images/warner-brothers-friends-soundstage.jpg)
@@ -261,7 +267,7 @@ Walking from the pier down to Santa Monica Beach
 ![](los-angeles-2023-images/santa-monica-beach-sunset-3.jpg)
 Santa Monica Beach sunset
  
-![](los-angeles-2023-images/pier-burger.jpg)
+![](los-angeles-2023-images/santa-monica-pier-pier-burger.jpg)
 Tourist be touristing... I gave in and ate an overpriced hamburger, fries, and strawberry milkshake at [Pier Burger](https://www.pierburger.com/). 
 
 ## Saturday
@@ -368,6 +374,15 @@ Main Getty Center terrace video
 
 ### Tacos 1986 and Santa Monica Beach at Sunset
 
+
+![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-walking-to-the-pier.jpg)
+Walking to the pier
+
+![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-ocean.jpg)
+Sunset across the ocea
+
+![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-pier.jpg)
+The pier
 
 ## Monday
 
