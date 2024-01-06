@@ -528,8 +528,10 @@ Love the strange vintage look of this beach landscape. It was facing the sunset.
 ![](los-angeles-2023-images/santa-monica-pier-sunset-pier.jpg)
 The sun setting beyond the end of the pier
 
+<!--
 ![](los-angeles-2023-images/santa-monica-pier-sunset-right.jpg)
 Gorgeous...
+-->
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-steps.jpg)
 Venturing to the end of the pier for sunset...
