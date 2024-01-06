@@ -522,10 +522,8 @@ I made it back to Santa Monica Beach for one last sunset. It was a doozy.
 ![](los-angeles-2023-images/santa-monica-pier-sunset-view-to-the-right.jpg)
 Ocean Avenue
 
-![](los-angeles-2023-images/santa-monica-pier-sunset-view-to-the-left.jpg)
-Ocean Avenue
-
 ![](los-angeles-2023-images/santa-monica-pier-sunset-cityscape.jpg)
+Love the strange vintage look of this beach landscape. It was facing the sunset.
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-pier.jpg)
 The sun setting beyond the end of the pier
