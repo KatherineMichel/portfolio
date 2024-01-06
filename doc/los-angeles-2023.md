@@ -629,9 +629,12 @@ Bye bye, LA…
 ![](los-angeles-2023-images/bye-la.jpg)
 Santa Monica, Venice, and Playa Del Rey Beaches, I believe
 
+I made it home from Los Angeles with one last momento: bronchitis. I believe it was caused by the smog. Walking for miles over nine days and riding around in an open air bus for two hours couldn't have helped. 
 
+<!--
 ![](los-angeles-2023-images/last-momento.png)
 One last momento...
+-->
 
 ## Travel Serendipity
 
