@@ -517,30 +517,30 @@ The best chocolate milkshake that I've ever had.
 
 ### Santa Monica Beach
 
-<!--
-When was this?
+I made it back to Santa Monica Beach for one last sunset. It was a doozy. 
+
 ![](los-angeles-2023-images/santa-monica-pier-sunset-view-to-the-right.jpg)
+Ocean Avenue
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-view-to-the-left.jpg)
--->
+Ocean Avenue
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-cityscape.jpg)
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-pier.jpg)
+The sun setting beyond the end of the pier
 
-<!--
 ![](los-angeles-2023-images/santa-monica-pier-sunset-right.jpg)
--->
+Gorgeous...
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-steps.jpg)
+Ventured to the end of the pier for sunset...
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-end.jpg)
-
-<!--
-![](los-angeles-2023-images/santa-monica-pier-sunset-end-2.jpg)
--->
+The waves were like abstract art...
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-end-of-pier.jpg)
+Wow!
 
 ### Santa Monica Pier Carousel
 
@@ -553,7 +553,7 @@ Santa Monica Pier Carousel... Paul Newman worked there in the Sting. I rode it!
 Pink cityscape
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-people.jpg)
-People
+People watching
 
 ## Friday
 
