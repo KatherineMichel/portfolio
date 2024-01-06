@@ -280,6 +280,7 @@ Main Getty Center terrace video
 
 ### Tacos 1986 and Santa Monica Beach at Sunset
 
+I grabbed some tacos and hurried to the Santa Monica Beach for sunset. The tacos were a disappointment, but the sunset wasn't. 
 
 ![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-walking-to-the-pier.jpg)
 Walking to the pier
@@ -372,12 +373,6 @@ Fettuccine Alfredo with chicken... so good!
 
 ### Universal Theme Park
 
-<!--
-https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
-https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/king-kong-360-3-d
-https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/fast-furious-supercharged
--->
-
 Although I wanted to take the [Universal Studio Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. After multiple people told me how fun the theme park is including a Lyft driver who said it's the best, because you are "in the movies," I decided to go. I know what she means now that I've experienced the incredible, immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
 
 I guess I got my money's worth for the studio tour alone. I went twice... riding on either side of the cart to get a good look at everything. 
@@ -399,8 +394,13 @@ Bates Motel from Psycho
 Mother's house from Psycho
 
 <!--
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
+
 Jaws video
 King Kong video, designed by Peter Jackson and team, immersive experience, including water throw on you
+
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/king-kong-360-3-d
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/fast-furious-supercharged
 -->
 
 ### The Griffith Observatory
@@ -454,9 +454,6 @@ Jack Nicholson's house... that's a tennis court on stilts!
 
 ![](los-angeles-2023-images/celebrity-home-bus-tour-leonardo-dicaprio.jpg)
 Leonardo DiCaprio's house
-
-![](los-angeles-2023-images/celebrity-homes-bus-tour-beverly-hills.jpg)
-Beverly Hills
 
 ### Rodeo Drive
 
