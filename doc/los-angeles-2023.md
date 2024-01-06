@@ -14,9 +14,6 @@ I had to visit Los Angeles to go to a Trader Joe's for the first time. Bought su
 -->
 
 <!--
-![](los-angeles-2023-images/academy-museum-godfather-office-3.jpg)
-The Godfather office desk
-
 https://allthatsinteresting.com/cecil-hotel-los-angeles
 
 I wore a different outfit everyday, but because I took a handful of sweatshirts and wore them over t-shirts to stay warm, I look like I had on the same outfit everyday. 🤷‍♀️
@@ -212,19 +209,19 @@ One large exhibit was devoted to the creation of The Godfather.
 
 The museum also had a number of famous movie costumes and puppets. I particularly enjoyed the The Dark Crystal puppets. I hadn't thought about that movie since I watched it as a child and was instantly transported back to childhood. 
 
-![](los-angeles-2023-images/academy-museum-godfather-office-2.jpg)
+![](los-angeles-2023-images/academy-museum-godfather-office.jpg)
 The Godfather office
 
-![](los-angeles-2023-images/academy-museum-horse-head-1.jpg)
+![](los-angeles-2023-images/academy-museum-horse-head.jpg)
 The Godfather rehearsal horse head... not something you see everyday! 
 
-![](los-angeles-2023-images/academy-museum-alien-2.jpg)
+![](los-angeles-2023-images/academy-museum-alien.jpg)
 Alien xenomorph
 
 ![](los-angeles-2023-images/academy-museum-the-dark-crystal-skeksis.jpg)
 The Dark Crystal's Skeksis
 
-![](los-angeles-2023-images/academy-museum-terminator-2.jpg)
+![](los-angeles-2023-images/academy-museum-terminator.jpg)
 Terminator 2: Judgement Day animatronic... the team that created this won an Academy Award for Visual Effects
 
 ![](los-angeles-2023-images/academy-museum-statue-room.jpg)
@@ -287,8 +284,11 @@ Main Getty Center terrace video
 ![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-walking-to-the-pier.jpg)
 Walking to the pier
 
+![](los-angeles-2023-images/santa-monica-pier-sunset-tacos-1986-on-the-beach.jpg)
+Tacos on the beach
+
 ![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-ocean.jpg)
-Sunset across the ocea
+Sunset across the ocean
 
 ![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-pier.jpg)
 The pier
@@ -436,7 +436,7 @@ Before the celebrity homes bus tour, I walked around Hollywood Boulevard again. 
 ![](los-angeles-2023-images/alfred-hitchcock-star.jpg)
 Alfred Hitchcock's star
 
-![](los-angeles-2023-images/rebel-moon-premier-1.jpg)
+![](los-angeles-2023-images/rebel-moon-premier.jpg)
 Hollywood Boulevard was closed to cars due to the [Rebel Moon](https://en.wikipedia.org/wiki/Rebel_Moon) Premier
 
 ### Celebrity Homes Bus Tour
@@ -519,10 +519,41 @@ The best chocolate milkshake that I've ever had.
 
 ### Santa Monica Beach
 
+![](los-angeles-2023-images/santa-monica-pier-sunset-view-to-the-right.jpg)
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-view-to-the-left.jpg)
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-cityscape.jpg)
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-end-2.jpg)
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-end-of-pier.jpg)
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-end.jpg)
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-right.jpg)
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-end.jpg)
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-pier.jpg)
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-steps.jpg)
+ 
 ### Santa Monica Pier Carousel
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-carousel.jpg)
+Santa Monica Pier Carousel... Paul Newman worked there in the Sting. I rode it!
 
 ### End of Santa Monica Pier at Sunset
 
+![](los-angeles-2023-images/santa-monica-pier-cityscape-pink.jpg)
+Pink cityscape
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-people.jpg)
+People
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-playland.jpg)
+Playland
 
 ## Friday
 
