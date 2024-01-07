@@ -35,7 +35,7 @@ Table of Contents
     - [Dolby Theater Tour](#dolby-theater-tour)
     - [Santa Monica Beach at Sunset and Pier Burger](#santa-monica-beach-at-sunset-and-pier-burger)
 - [Saturday](#saturday)
-    - [République](#république)
+    - [République](#republique)
     - [Academy Museum of Motion Pictures](#academy-museum-of-motion-pictures)
     - [Petersen Automotive Museum](#petersen-automotive-museum)      
 - [Sunday](#sunday)
