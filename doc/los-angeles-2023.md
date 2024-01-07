@@ -277,7 +277,7 @@ Main Getty Center terrace video
 
 ### Tacos 1986 and Santa Monica Beach at Sunset
 
-I grabbed some tacos and hurried to the Santa Monica Beach for sunset. The tacos were a disappointment, but the sunset wasn't.
+I grabbed some tacos and hurried to the Santa Monica Beach for some incredible sunset. 
 
 ![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-walking-to-the-pier.jpg)
 Walking to the pier
@@ -304,7 +304,13 @@ Granola: straus organic yogurt, farmer’s market fruit, wildflower honey
 
 ### The Grammy Museum
 
-[The Grammy Museum](https://grammymuseum.org/) was surpringly small for an awards ceremony as important as it is, but it did have an impressive collection of Michael Jackson memorabilia, including an autographed Thriller Jacket. Two whole floors, plus a portion of another had temporary exhibits that weren't particularly of interest to me (Shakira, The Roxy, and Hip-Hop America). There was not much else to see.  
+[The Grammy Museum](https://grammymuseum.org/) was small, but fun. 
+
+As suggested, I started on the third floor with the temporary Hip-Hop America exhibit. The exhibit was packed with memorabilia from Tupak Shakur, Flava Flav, Shock G., LL Cool J, Run-DMC, Grandmaster Flash, Wyclef Jean, Eminem, MCLite, Ceelo Green, Chuck D, and among many others.
+
+My favorite part of the museum was the impressive collection of Michael Jackson memorabilia on the second floor, including an autographed Thriller jacket. 
+
+The museum also had temporary Shakira and The Roxy exhibits. 
 
 ![](los-angeles-2023-images/grammy-museum-michael-jackson-collection.jpg)
 A portion of the Michael Jackson collection, including autographed Thriller jacket
@@ -313,7 +319,7 @@ A portion of the Michael Jackson collection, including autographed Thriller jack
 Thriller Album of the Year nomination
 
 ![](los-angeles-2023-images/grammy-museum-costumes.jpg)
-Grammy outfits
+Grammy outfits worn by Taylor Swift, Harry Styles, Shania Twain, Lizzo, Olivia Rodrigo, and Samara Joy
 
 ### The Cecil Hotel
 
@@ -370,12 +376,6 @@ Fettuccine Alfredo with chicken... so good!
 
 ### Universal Theme Park
 
-<!--
-https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
-https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/king-kong-360-3-d
-https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/fast-furious-supercharged
--->
-
 Although I wanted to take the [Universal Studio Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. After multiple people told me how fun the theme park is including a Lyft driver who said it's the best, because you are "in the movies," I decided to go. I know what she means now that I've experienced the incredible, immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
 
 I guess I got my money's worth for the studio tour alone. I went twice... riding on either side of the cart to get a good look at everything. 
@@ -399,6 +399,12 @@ Mother's house from Psycho
 <!--
 Jaws video
 King Kong video, designed by Peter Jackson and team, immersive experience, including water throw on you
+-->
+
+<!--
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/king-kong-360-3-d
+https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/fast-furious-supercharged
 -->
 
 ### The Griffith Observatory
@@ -572,6 +578,12 @@ Santa Monica, Venice, and Playa Del Rey Beaches, I believe
 I made it home from Los Angeles with one last momento: bronchitis. I believe it was caused by the smog. Walking for miles over nine days and riding around in an open air bus for two hours couldn't have helped. 
 
 ## Travel Serendipity
+
+I've had a lot of what I call travel serendipity. Serendipity struck again in Los Angeles! 
+
+I had the good fortune to randomly meet award show producer Charnise Love Jones! She has worked on the Daytime Emmys, Children and Family Emmys, Grammys, BET Awards, Soultrain Awards, Stellar Awards, NAACP Image Awards, American Music Awards, and many other productions.
+
+We've connected on LinkedIn, and I can't wait to follow her adventures! Check out her [Instagram](https://www.instagram.com/lovejonesproduction/) and [YouTube](https://www.youtube.com/@Lovejonesproductions/videos) channel. 
 
 ## Takeaways
 
