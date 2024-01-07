@@ -59,13 +59,24 @@ Table of Contents
     - [Via Alloro](#via-alloro)
     - [Bruno's Ristorante Italiano](#brunos-ristorante-italiano-1)
 - [Thursday](#id4)
-    - [Hollywood Walk of Fame](#hollywood-walk-of-fame)
-    - [Celebrity Homes Bus Tour](#celebrity-homes-bus-tour)
-    - [Rodeo Drive](#rodeo-drive)
-    - [Via Alloro](#via-alloro)
-    - [Bruno's Ristorante Italiano](#brunos-ristorante-italiano-1)
+    - [Ice at Santa Monica](#ice-at-santa-monica)
+    - [Mel's Drive-In](#mels-drive-in)
+    - [Santa Monica Beach](#santa-monica-beach)
+    - [Santa Monica Pier Carousel](#santa-monica-pier-carousel)
+    - [End of Santa Monica Pier at Sunset](#end-of-santa-monica-pier-at-sunset)
+    - [Santa Monica Promenade](#santa-monica-promenade)
 - [Friday](#id5)
-
+    - [Back to Kansas for Christmas](#back-to-kansas-for-christmas)
+    - [Mel's Drive-In](#mels-drive-in)
+    - [Santa Monica Beach](#santa-monica-beach)
+    - [Santa Monica Pier Carousel](#santa-monica-pier-carousel)
+    - [End of Santa Monica Pier at Sunset](#end-of-santa-monica-pier-at-sunset)
+    - [Santa Monica Promenade](#santa-monica-promenade)
+- [Takeaways](#takeaways)
+- [Warner Brothers Studio Tour versus Universal Studios Tour](#warner-brothers-studio-tour-versus-universal-studios-tour)
+    - [What Warner Brothers Had Going For It](#what-warner-brothers-had-going-for-it)
+    - [What Universal Studios Tour Had Going For It](#what-universal-studios-tour-had-going-for-it)
+      
 ## Intro
 
 I finished my work year with a successful presentation to my department (see my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) for a review of my year!). A few hours later, I arrived at LAX. With Santa Monica as my "home base," I spent 9 days seeing the city. It was the first non-business trip that I'd taken in years. I had a general idea of the things I wanted to do, but hadn't done much planning. I played it by ear, and it worked. 
