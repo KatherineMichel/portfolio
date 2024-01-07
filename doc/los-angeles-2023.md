@@ -279,9 +279,9 @@ Example of the beautiful architecture
 
 Although I enjoyed the view of Los Angeles from the main Getty Center terrace, the consensus from locals was that the view from the The Griffith Observatory is much better. 
 
-<!--
-Main Getty Center terrace video
--->
+[Video](https://youtu.be/vngC0TWpU0Q?si=nnghFglziVyW2WwK) of The Getty Center main terrace.
+
+[Video](https://youtu.be/TwIPtk2IA9A?si=ub_cBZedXZhjluZQ) of the ride down from The Getty Center. 
 
 ### Tacos 1986 and Santa Monica Beach at Sunset
 
@@ -343,6 +343,8 @@ The hotel is shuttered with a "private property" sign on one door. There were a 
 ![](los-angeles-2023-images/hotel-cecil-2.jpg)
 The infamous water tanks where Elisa Lam drowned... it was speculated that she might have taken the stairs on the front of the hotel to the roof.
 
+[Video](https://youtu.be/4Jyj94ut0Mk?si=Gd6toD3jRr4On6tR) of the Hotel Cecil. 
+
 ### Downtown Los Angeles
 
 While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I walked to the edge of [Skid Row](https://en.wikipedia.org/wiki/Skid_Row,_Los_Angeles). Having heard of Skid Row for years, I wanted to see it for myself. I walked by barbed wire, sidewalk tent encampments, homeless, and a mission providing social services. 
@@ -371,6 +373,8 @@ A view from one of the four sides
 ![](los-angeles-2023-images/city-hall-observation-deck-view.jpg)
 A view from one of the four sides
 
+[Video]([https://youtu.be/mGme3_W_BQc?si=xZ_PfOAzYDDktxUF) of the view from the City Hall Observation Deck. 
+
 ### Bruno's Ristorante Italiano
 
 After a few failed Google searches for restaurants in the area, I stumbled upon the absolute gem [Bruno's Ristorante Italiano](https://brunossantamonica.com/)
@@ -384,7 +388,7 @@ Fettuccine Alfredo with chicken... so good!
 
 ### Universal Theme Park
 
-Although I wanted to take the [Universal Studio Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. After multiple people told me how fun the theme park is including a Lyft driver who said it's the best, because you are "in the movies," I decided to go. I know what she means now that I've experienced the incredible, immersive, 3-D experiences. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
+Although I wanted to take the [Universal Studio Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. After multiple people told me how fun the theme park is including a Lyft driver who said it's the best, because you are "in the movies," I decided to go. I know what she means now that I've experienced the incredible, immersive, 3-D experiences that included having water splashed on you. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
 
 I guess I got my money's worth for the studio tour alone. I went twice... riding on either side of the cart to get a good look at everything. 
 
@@ -404,10 +408,9 @@ Bates Motel from Psycho
 ![](los-angeles-2023-images/universal-psycho-house.jpg)
 Mother's house from Psycho
 
-<!--
-Jaws video
-King Kong video, designed by Peter Jackson and team, immersive experience, including water throw on you
--->
+[Video](https://youtu.be/d3wERBCZHEM?si=YHK-vpGaG7TKclwF) of 3-D King King experience, designed by Peter Jackson and team!
+
+[Video](https://youtu.be/evZHAcfSnqw?si=B279b284H-g0lZDn) of the Jaws experience!
 
 <!--
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
@@ -467,6 +470,10 @@ Jack Nicholson's house... that's a tennis court on stilts!
 ![](los-angeles-2023-images/celebrity-home-bus-tour-leonardo-dicaprio.jpg)
 Leonardo DiCaprio's house
 
+[Video](https://youtu.be/idbC9zhvkxk?si=yWPyfS_X_hJY86N6) of Rodeo Drive, part 1. 
+
+[Video](https://youtu.be/m5H2epDZf4Y?si=e9AJ9xj-U9jtIRVL) of Rodeo Drive, part 2. 
+
 ### Rodeo Drive
 
 After the tour ended, I went back to Rodeo Drive and walked down the entire street taking pics. 
@@ -479,6 +486,8 @@ Valentino
 
 ![](los-angeles-2023-images/rodeo-drive-harry-winston.jpg)
 Harry Winston
+
+[Video](https://youtu.be/aPwa4OlnCP0?si=P2X4uJ25YaVcFLYy) of Rodeo Drive Giorgio Armani storefront. 
 
 ### Via Alloro
 
@@ -524,7 +533,6 @@ Mel's Drive-in counter
 
 ![](los-angeles-2023-images/mels-drive-in-milkshake.jpg)
 The best chocolate milkshake that I've ever had. 
-
 
 ### Santa Monica Beach
 
