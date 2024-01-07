@@ -42,7 +42,7 @@ Table of Contents
     - [The Getty Center](#the-getty-center)
     - [Tacos 1986 and Santa Monica Beach at Sunset](#tacos-1986-and-santa-monica-beach-at-sunset)      
 - [Monday](#monday)
-    - [Republique](#republique-1)
+    - [Republique](#id1)
     - [The Grammy Museum](#the-grammy-museum)
     - [The Cecil Hotel](#the-cecil-hotel)
     - [Downtown Los Angeles](#downtown-los-angeles)
