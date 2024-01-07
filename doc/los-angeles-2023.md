@@ -35,14 +35,14 @@ Table of Contents
     - [Dolby Theater Tour](#dolby-theater-tour)
     - [Santa Monica Beach at Sunset and Pier Burger](#santa-monica-beach-at-sunset-and-pier-burger)
 - [Saturday](#saturday)
-    - [République](#république)
+    - [Republique](#republique)
     - [Academy Museum of Motion Pictures](#academy-museum-of-motion-pictures)
     - [Petersen Automotive Museum](#petersen-automotive-museum)      
 - [Sunday](#sunday)
     - [The Getty Center](#the-getty-center)
     - [Tacos 1986 and Santa Monica Beach at Sunset](#tacos-1986-and-santa-monica-beach-at-sunset)      
 - [Monday](#monday)
-    - [République](#république-1)
+    - [Republique](#republique-1)
     - [The Grammy Museum](#the-grammy-museum)
     - [The Cecil Hotel](#the-cecil-hotel)
     - [Downtown Los Angeles](#downtown-los-angeles)
@@ -289,7 +289,7 @@ Tourist be touristing... I gave in and ate an overpriced hamburger, fries, and s
 
 ## Saturday
 
-### République
+### Republique
 
 I started Saturday by eating breakfast at a bakery/café called [République](https://republiquela.com/) in a building that Charlie Chaplin had built. République is owned by two chefs awarded a Michelin Star and a James Beards award and one of whom worked with Alain Ducasse of the Dorchester Collection, my old stomping grounds. A foodie colleague and friend Wooyong Ee recommended it. It was excellent. 
 
@@ -412,7 +412,7 @@ The pier
 
 ## Monday
 
-### République
+### Republique
 
 On my way to the Grammy Museum, I stopped at [République](https://republiquela.com/) again for breakfast. I regretted that I hadn't ordered Shrimp and Grits (anson mills grits, calabrian chilies, pork belly sausage, hooks cheddar, fried egg) on Saturday, then realized that dish is only served at weekend brunch and wasn't available on a Monday. I will have to go back sometime and try it. 
 
