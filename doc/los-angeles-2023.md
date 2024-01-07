@@ -47,6 +47,14 @@ Good food
   
 ## Wednesday
 
+## Travel Serendipity
+
+I've had a lot of what I call travel serendipity. My trip kicked off with some incredible entertainment business serendipity! 
+
+Immediately upon arriving in Los Angeles, I had the food fortune to randomly meet award show producer Charnise Love Jones! She has worked on the Daytime Emmys, Children and Family Emmys, Grammys, BET Awards, Soultrain Awards, Stellar Awards, NAACP Image Awards, American Music Awards, and many other fun productions. Wow!
+
+We've connected on LinkedIn, and I can't wait to get to know her work better and follow her adventures! Check out her [Instagram](https://www.instagram.com/lovejonesproduction/) and [YouTube](https://www.youtube.com/@Lovejonesproductions/videos) channel. 
+
 ### Santa Monica Pier at Night
 
 I arrived in Santa Monica after dark. I was staying about a block from the pier, so I walked there to get a good look at it at night. It was magical!
@@ -576,14 +584,6 @@ Bye bye, LA…
 Santa Monica, Venice, and Playa Del Rey Beaches, I believe
 
 I made it home from Los Angeles with one last momento: bronchitis. I believe it was caused by the smog. Walking for miles over nine days and riding around in an open air bus for two hours couldn't have helped. 
-
-## Travel Serendipity
-
-I've had a lot of what I call travel serendipity. Serendipity struck again in Los Angeles! 
-
-I had the good fortune to randomly meet award show producer Charnise Love Jones! She has worked on the Daytime Emmys, Children and Family Emmys, Grammys, BET Awards, Soultrain Awards, Stellar Awards, NAACP Image Awards, American Music Awards, and many other productions. Wow!
-
-We've connected on LinkedIn, and I can't wait to get to know her work better and follow her adventures! Check out her [Instagram](https://www.instagram.com/lovejonesproduction/) and [YouTube](https://www.youtube.com/@Lovejonesproductions/videos) channel. 
 
 ## Takeaways
 
