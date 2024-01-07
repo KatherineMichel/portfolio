@@ -44,7 +44,9 @@ Fascinating
 Good food
 * [Bruno's Ristorante Italiano](https://brunossantamonica.com/)
 * [République](https://republiquela.com/)
-  
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ## Wednesday
 
 ## Travel Serendipity
