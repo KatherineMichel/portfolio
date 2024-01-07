@@ -1,10 +1,5 @@
 # Los Angeles 2023
 
-Table of Contents
------------------
-
-I finished my work year with a successful presentation to my department (see my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) for a review of my year!). A few hours later, I arrived at LAX. With Santa Monica as my "home base," I spent 9 days seeing the city. It was the first non-business trip that I'd taken in years. I had a general idea of the things I wanted to do, but hadn't done much planning. I played it by ear, and it worked. 
-
 <!--
  ![](los-angeles-2023-images/grammy-museum-michael-jackson-thriller-jacket.jpg)
 Michael Jackson autograph on the Thiller jacket
@@ -21,6 +16,59 @@ https://allthatsinteresting.com/cecil-hotel-los-angeles
 
 I wore a different outfit everyday, but because I took a handful of sweatshirts and wore them over t-shirts to stay warm, I look like I had on the same outfit everyday. 🤷‍♀️
 -->
+
+Table of Contents
+-----------------
+
+- [Intro](#intro)
+- [My Top Picks](#my-top-picks)
+- [Wednesday](#wednesday)
+    - [Travel Serendipity](#travel-serendipity)
+    - [Santa Monica Pier at Night](#santa-monica-pier-at-night)
+    - [North Italia](#north-italia)
+- [Thursday](#thursday)
+    - [Blue Daisy](#blue-daisy)
+    - [Santa Monica and Venice Beaches](#santa-monica-and-venice-beaches)
+- [Friday](#friday)
+    - [Warner Brothers Studio Tour](#warner-brothers-studio-tour)
+    - [Hollywood Walk of Fame, TCL Theatre, Hollywood Sign, Dolby Theater](#hollywood-walk-of-fame-tcl-theatre-hollywood-sign-dolby-theater)
+    - [Dolby Theater Tour](#dolby-theater-tour)
+    - [Santa Monica Beach at Sunset and Pier Burger](#santa-monica-beach-at-sunset-and-pier-burger)
+- [Saturday](#saturday)
+    - [République](#république)
+    - [Academy Museum of Motion Pictures](#academy-museum-of-motion-pictures)
+    - [Petersen Automotive Museum](#petersen-automotive-museum)      
+- [Sunday](#sunday)
+    - [The Getty Center](#the-getty-center)
+    - [Tacos 1986 and Santa Monica Beach at Sunset](#tacos-1986-and-santa-monica-beach-at-sunset)      
+- [Monday](#monday)
+    - [République](#république-1)
+    - [The Grammy Museum](#the-grammy-museum)
+    - [The Cecil Hotel](#the-cecil-hotel)
+    - [Downtown Los Angeles](#downtown-los-angeles)
+    - [Los Angeles City Hall Observation Deck](#los-angeles-city-hall-observation-deck)
+    - [Bruno's Ristorante Italiano](#brunos-ristorante-italiano)
+- [Tuesday](#tuesday)
+    - [Universal Theme Park](#universal-theme-park)
+    - [The Griffith Observatory](#the-griffith-observatory)
+    - [Comedy in English](#comedy-in-english)
+- [Wednesday](#id2)
+    - [Hollywood Walk of Fame](#hollywood-walk-of-fame)
+    - [Celebrity Homes Bus Tour](#celebrity-homes-bus-tour)
+    - [Rodeo Drive](#rodeo-drive)
+    - [Via Alloro](#via-alloro)
+    - [Bruno's Ristorante Italiano](#brunos-ristorante-italiano-1)
+- [Thursday](#id4)
+    - [Hollywood Walk of Fame](#hollywood-walk-of-fame)
+    - [Celebrity Homes Bus Tour](#celebrity-homes-bus-tour)
+    - [Rodeo Drive](#rodeo-drive)
+    - [Via Alloro](#via-alloro)
+    - [Bruno's Ristorante Italiano](#brunos-ristorante-italiano-1)
+- [Friday](#id5)
+
+## Intro
+
+I finished my work year with a successful presentation to my department (see my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) for a review of my year!). A few hours later, I arrived at LAX. With Santa Monica as my "home base," I spent 9 days seeing the city. It was the first non-business trip that I'd taken in years. I had a general idea of the things I wanted to do, but hadn't done much planning. I played it by ear, and it worked. 
 
 ## My Top Picks
 
@@ -52,7 +100,7 @@ Good food
 
 ## Wednesday
 
-## Travel Serendipity
+### Travel Serendipity
 
 I've had a lot of what I call travel serendipity. My trip kicked off with some incredible entertainment business serendipity! 
 
