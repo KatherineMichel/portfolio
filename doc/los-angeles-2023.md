@@ -180,7 +180,7 @@ At the Venice Beach Pier... same, buddy
 -->
 
 ![](los-angeles-2023-images/venice-beach-pier.jpg)
-Venice Beach Pier
+Venice Beach Pier... love the sight of a sailboat!
 
 ![](los-angeles-2023-images/venice-beach-waves-crashing-1.jpg)
 Venice Beach waves crashing
