@@ -1,5 +1,8 @@
 # Los Angeles 2023
 
+Table of Contents
+-----------------
+
 I finished my work year with a successful presentation to my department (see my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) for a review of my year!). A few hours later, I arrived at LAX. With Santa Monica as my "home base," I spent 9 days seeing the city. It was the first non-business trip that I'd taken in years. I had a general idea of the things I wanted to do, but hadn't done much planning. I played it by ear, and it worked. 
 
 <!--
