@@ -174,8 +174,10 @@ Venice Beach Boardwalk
 ![](los-angeles-2023-images/venice-beach-skateboarding-park.jpg)
 Venice Beach Skateboard Park, near the Muscle Gym
 
+<!--
 ![](los-angeles-2023-images/venice-beach-same-buddy.jpg)
 At the Venice Beach Pier... same, buddy
+-->
 
 ![](los-angeles-2023-images/venice-beach-pier.jpg)
 Venice Beach Pier
