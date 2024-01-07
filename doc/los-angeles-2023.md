@@ -331,7 +331,7 @@ The infamous water tanks where Elisa Lam drowned... it was speculated that she m
 
 ### Downtown Los Angeles
 
-While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I walked a few blocks into [Skid Row](https://en.wikipedia.org/wiki/Skid_Row,_Los_Angeles). Having heard of Skid Row for years, I wanted to see it for myself. I walked by barbed wire, sidewalk tent encampments, many homeless, and a mission providing social services. 
+While I was walking from the Grammy Museum to the to City Hall Observatory Deck, I walked to the edge of [Skid Row](https://en.wikipedia.org/wiki/Skid_Row,_Los_Angeles). Having heard of Skid Row for years, I wanted to see it for myself. I walked by barbed wire, sidewalk tent encampments, homeless, and a mission providing social services. 
 
 Strangely, Skid Row is next to the Toy and Fashion Districts. I can't get over the extreme opulence and poverty co-existing across Los Angeles. 
 
