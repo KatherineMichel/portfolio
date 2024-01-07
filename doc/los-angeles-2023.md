@@ -102,28 +102,28 @@ On my first full day in Los Angeles, I walked from Santa Monica Pier to Venice B
 The San Diego beaches that I've been to have been more breathtaking (south of La Jolla Cove) and more California-y (Pacific and Ocean Beaches Boardwalks), but it was great to be near the ocean again. 
 
 ![](los-angeles-2023-images/venice-beach-boardwalk.jpg)
-Placeholder
+Venice Beach Boardwalk
 
 ![](los-angeles-2023-images/venice-beach-skateboarding-park.jpg)
-Placeholder
+Venice Beach Skateboard Park, near the Muscle Gym
 
 ![](los-angeles-2023-images/venice-beach-same-buddy.jpg)
-Placeholder
+At the Venice Beach Pier... same, buddy
 
 ![](los-angeles-2023-images/venice-beach-pier.jpg)
-Placeholder
+Venice Beach Pier
 
 ![](los-angeles-2023-images/venice-beach-waves-crashing-1.jpg)
-Placeholder
+Venice Beach waves crashing
 
 ![](los-angeles-2023-images/venice-beach-waves-crashing-2.jpg)
-Placeholder
+Venice Beach waves crashing
 
 ![](los-angeles-2023-images/venice-beach-santa-monica-pier.jpg)
-Placeholder
+Santa Monica Beach looked toward the pier
 
 ![](los-angeles-2023-images/venice-beach-santa-monica-pier-sun.jpg)
-Placeholder
+Santa Monica Pier... the sun is going down. 
 
 ## Friday
 
