@@ -194,6 +194,12 @@ Santa Monica Beach looked toward the pier
 ![](los-angeles-2023-images/venice-beach-santa-monica-pier-sun.jpg)
 Santa Monica Pier... the sun is going down. 
 
+[Video](https://youtu.be/svqLyz8D2uM?si=_0ziKygwuCW4jcWS) of Venice Beach Boardwalk
+
+[Video](https://youtu.be/MAdhUKSJbbg?si=E43wzKHu5W-n3QDG) of Venice Beach from the pier
+
+[Video](https://youtu.be/Fzv0tZ1zzQU?si=AmMmtc6kuHH13b7N) of Santa Monica Pier at sunset
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Friday
@@ -228,6 +234,10 @@ Mr. Freeze, Joker, Oz, and Riddler costumes in front of the Arkham Asylum gates
 ![](los-angeles-2023-images/warner-brothers-awards.jpg)
 Warner Brothers Studio awards
 
+[Video](https://youtu.be/4aTxOa3chcs?si=r4nBfIcyBcqmhqzs) of Friends set
+
+[Video](https://youtu.be/iL-cWXCyAsE?si=vg80ZuUTMV5A59Vg) of casting spells in Wizarding World
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Hollywood Walk of Fame, TCL Theatre, Hollywood Sign, Dolby Theater
@@ -251,6 +261,10 @@ On Oscar night, Hollywood Boulevard becomes a red carpet walkway for the stars. 
 
 ![](los-angeles-2023-images/dolby-theater-walkway-2.jpg)
 The steps leading up to the [Dolby Theater Tour](https://dolbytheatre.com/), where the Academy Awards Ceremony takes place
+
+[Video](https://youtu.be/r-C5N_mtsb8?si=DD_4C_2tPkIu2ko8) walking into Ovation Shopping Center up to Dolby Theater
+
+[Video](https://youtu.be/ihaYNCC3sU4?si=9IS5N8DZwYQ2lXkD) walking around Hollywood Boulevard
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -286,6 +300,8 @@ Santa Monica Beach sunset
  
 ![](los-angeles-2023-images/santa-monica-pier-pier-burger.jpg)
 Tourist be touristing... I gave in and ate an overpriced hamburger, fries, and strawberry milkshake at [Pier Burger](https://www.pierburger.com/). 
+
+[Video](https://youtu.be/y_R55NwD5PA?si=FTA12rl3sTd4p1s6) of Santa Monica Beach at sunset
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -336,6 +352,8 @@ Terminator 2: Judgement Day animatronic... the team that created this won an Aca
 
 ![](los-angeles-2023-images/academy-museum-statue-room.jpg)
 Academy Award statues room
+
+[Video](https://youtu.be/BM8AMYP3mL0?si=Jpd-JnuRdGW-eT4u) of the Academy Award statues room
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -388,9 +406,11 @@ Example of the beautiful architecture
 
 Although I enjoyed the view of Los Angeles from the main Getty Center terrace, the consensus from locals was that the view from the The Griffith Observatory is much better. 
 
-[Video](https://youtu.be/vngC0TWpU0Q?si=nnghFglziVyW2WwK) of The Getty Center main terrace.
+[Video](https://youtu.be/vngC0TWpU0Q?si=nnghFglziVyW2WwK) of The Getty Center main terrace
 
-[Video](https://youtu.be/TwIPtk2IA9A?si=ub_cBZedXZhjluZQ) of the ride down from The Getty Center. 
+[Video](https://youtu.be/1-OcUMCII3o?si=luk7utrXz2LnaQff) of the Central Garden
+
+[Video](https://youtu.be/TwIPtk2IA9A?si=ub_cBZedXZhjluZQ) of the ride down from The Getty Center
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -460,7 +480,7 @@ The hotel is shuttered with a "private property" sign on one door. There were a 
 ![](los-angeles-2023-images/hotel-cecil-2.jpg)
 The infamous water tanks where Elisa Lam drowned... it was speculated that she might have taken the stairs on the front of the hotel to the roof.
 
-[Video](https://youtu.be/4Jyj94ut0Mk?si=Gd6toD3jRr4On6tR) of the Hotel Cecil. 
+[Video](https://youtu.be/4Jyj94ut0Mk?si=Gd6toD3jRr4On6tR) of the Hotel Cecil
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -494,7 +514,7 @@ A view from one of the four sides
 ![](los-angeles-2023-images/city-hall-observation-deck-view.jpg)
 A view from one of the four sides
 
-[Video]([https://youtu.be/mGme3_W_BQc?si=xZ_PfOAzYDDktxUF) of the view from the City Hall Observation Deck. 
+[Video]([https://youtu.be/mGme3_W_BQc?si=xZ_PfOAzYDDktxUF) of the view from the City Hall Observation Deck
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -537,6 +557,10 @@ Mother's house from Psycho
 
 [Video](https://youtu.be/evZHAcfSnqw?si=B279b284H-g0lZDn) of the Jaws experience!
 
+[Video](https://youtu.be/VVTMQafABCA?si=Q2x-n0jO9UIFyq1J) or Norman Bates
+
+[Video](https://youtu.be/402GcUXZ01c?si=HJ51z3y9jCnwu-Ti) of "Wisteria Lane"
+
 <!--
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/king-kong-360-3-d
@@ -559,6 +583,12 @@ What a view...
 Beautiful architecture...
 
 Multiple Lyft drivers told me the view is "spectacular" after dark, but frankly, I was too tired to stay that long. I will go back sometime. 
+
+[Video](https://youtu.be/WxTooLaosq4?si=ZJENLG-pFEtw86m8) riding through the Hollywood Hills to The Griffith Observatory
+
+[Video](https://youtu.be/hlTgWcAXSXk?si=075mQ_nmLtIOpH2g) of the view around The Griffith Observatory
+
+[Video](https://youtu.be/_nZQzYq1Pnc?si=U7bHzHmFENE5ZAZP) of the Foucault Pendulum
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -585,6 +615,8 @@ Alfred Hitchcock's star
 ![](los-angeles-2023-images/rebel-moon-premier.jpg)
 Hollywood Boulevard was closed to cars due to the [Rebel Moon](https://en.wikipedia.org/wiki/Rebel_Moon) Premier
 
+[Video](https://youtu.be/owiHq5D2QRU?si=60DeIfk0kEvQhF4b) of the Rebel Moon Premier set up
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Celebrity Homes Bus Tour
@@ -603,9 +635,11 @@ Jack Nicholson's house... that's a tennis court on stilts!
 ![](los-angeles-2023-images/celebrity-home-bus-tour-leonardo-dicaprio.jpg)
 Leonardo DiCaprio's house
 
-[Video](https://youtu.be/idbC9zhvkxk?si=yWPyfS_X_hJY86N6) of Rodeo Drive, part 1. 
+[Video](https://youtu.be/52_T3K6Fc7c?si=DuYZs3tEoSCWRRSa) driving past homes in Beverly Hills
 
-[Video](https://youtu.be/m5H2epDZf4Y?si=e9AJ9xj-U9jtIRVL) of Rodeo Drive, part 2. 
+[Video](https://youtu.be/idbC9zhvkxk?si=yWPyfS_X_hJY86N6) of Rodeo Drive, part 1
+
+[Video](https://youtu.be/m5H2epDZf4Y?si=e9AJ9xj-U9jtIRVL) of Rodeo Drive, part 2 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -622,7 +656,7 @@ Valentino
 ![](los-angeles-2023-images/rodeo-drive-harry-winston.jpg)
 Harry Winston
 
-[Video](https://youtu.be/aPwa4OlnCP0?si=P2X4uJ25YaVcFLYy) of Rodeo Drive Giorgio Armani storefront. 
+[Video](https://youtu.be/aPwa4OlnCP0?si=P2X4uJ25YaVcFLYy) of Rodeo Drive Giorgio Armani storefront
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -665,6 +699,8 @@ It was fun, and I skated for a good 30 minutes, but when another skater wiped ou
 ![](los-angeles-2023-images/ice-skating.jpg)
 Santa Monica's Ice skating rink
 
+[Video](https://youtu.be/udvcou-cgV0?si=NXMn2PaAy2Vt917-) of ice skating
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Mel's Drive-In
@@ -676,6 +712,8 @@ Mel's Drive-in counter
 
 ![](los-angeles-2023-images/mels-drive-in-milkshake.jpg)
 The best chocolate milkshake that I've ever had. 
+
+[Video](https://youtu.be/jTq31Q2034Q?si=NsgiEQ77am7aedDf) at the counter in Mel's Drive-in
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -706,12 +744,18 @@ The rippling waves were like abstract art...
 ![](los-angeles-2023-images/santa-monica-pier-sunset-end-of-pier.jpg)
 The end of the pier... wow!
 
+[Video](https://youtu.be/dPPWp-k3kIE?si=mELmyVOv6elfcVWr) of Santa Monica Pier at sunset
+
+[Video](https://youtu.be/bFZlSN-wjWg?si=KRM_pPzfLflQLAJX) of Santa Monica Beach at sunset
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Santa Monica Pier Carousel
 
 ![](los-angeles-2023-images/santa-monica-pier-sunset-carousel.jpg)
 Santa Monica Pier Carousel... Paul Newman worked there in the Sting. I rode it!
+
+[Video](https://youtu.be/TVL2gUfgNGk?si=CHgmEYUToBc9Eerr) riding Paul Newman's carousel :)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
