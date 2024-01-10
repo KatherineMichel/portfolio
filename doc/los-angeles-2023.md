@@ -129,9 +129,17 @@ Pacific Park Amusement Park
 ![](los-angeles-2023-images/santa-monica-pier-at-night-pacific-park-ferris-wheel.jpg)
 Pacific Park ferris wheel overlooking the ocean waves...
 
-[Video](https://youtu.be/GP4Td4SUH0M?si=XDPxScs8KR0mg2fj) of Santa Monica Pier
+[Video](https://youtu.be/GP4Td4SUH0M?si=XDPxScs8KR0mg2fj) of walking along Santa Monica Pier
 
+[Video](https://youtu.be/_KTMAmlOzqQ?si=6b8YhK7_jpLKBhiN) of Santa Monica Pier looking east
+
+[Video](https://youtu.be/cnWdL9C4ucU?si=_5bCR2RdHMWjLTbO) of ferris wheel and roller coaster
+
+<!--
 [Video](https://youtu.be/08xtEKQ8Yjg?si=oVrTxLtU4tAqe9FC) of north of the Santa Monica Pier
+-->
+
+[Video](https://youtu.be/53oLr76JxuY?si=W2jQtuxPaf7SNMy5) of south of the Santa Monica Pier
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -200,21 +208,29 @@ Santa Monica Pier... the sun is going down.
 
 [Video](https://youtu.be/WtmDbIY2Ieo?si=Ceo0xQmuELsoQAQ) of birds flying around Santa Monica Beach
 
-[Video](https://youtu.be/KwIrQjfX-V4?si=4_Ry7O-1ObcdP_bx) of Santa Monica Pier
+[Video](https://youtu.be/KwIrQjfX-V4?si=4_Ry7O-1ObcdP_bx) of walking along Santa Monica Pier
 
+<!--
 [Video](https://youtu.be/svqLyz8D2uM?si=_0ziKygwuCW4jcWS) of Venice Beach Boardwalk
 
 [Video](https://youtu.be/AUqmrRV7teE?si=ZBpTh3dFF_Y0ivTc) of Venice Beach Skatepark
+-->
 
 [Video](https://youtu.be/TLsb7qy8kyY?si=EOogWOqHwtV2SGFw) of a bird flying above Venice Beach Pier
 
 [Video](https://youtu.be/cJEZFFnFlng?si=rQCBZOJ3st627zSB) of a sailboat at Venice Beach Pier
 
-[Video](https://youtu.be/MAdhUKSJbbg?si=E43wzKHu5W-n3QDG) of Venice Beach from the pier
+[Video](https://youtu.be/MAdhUKSJbbg?si=E43wzKHu5W-n3QDG) of Venice Beach north of the pier
+
+[Video](https://youtu.be/aZfZ09UInL8?si=V_2mktPdKua1GsRd) of Venice Beach south of the pier
 
 [Video](https://youtu.be/qO44Inr0C48?si=DVb-wguV6vt81JGV) of Venice Beach sand pipers
 
+[Video](https://youtu.be/oFwZHgMXFIc?si=4F8TWCy2DFphuYnd) of good waves at Venice/Santa Monica Beaches
+
 [Video](https://youtu.be/kQFnozP3w_I?si=YTc9aYrPt0YRq4ez) of a dog running along Santa Monica Beach
+
+[Video](https://youtu.be/WFSL7NGoi8w?si=oZu2eSMt4OWFLY4D) of Santa Monica Beach with a view of the pier
 
 [Video](https://youtu.be/Fzv0tZ1zzQU?si=AmMmtc6kuHH13b7N) of Santa Monica Pier at sunset
 
@@ -782,9 +798,13 @@ The end of the pier... wow!
 
 [Video](https://youtu.be/dPPWp-k3kIE?si=mELmyVOv6elfcVWr) of Santa Monica Pier at sunset
 
+[Video](https://youtu.be/NK2FCOE9ZGA?si=dJTLWqB0KCtadn7V) of Santa Monica Pier at sunset
+
 [Video](https://youtu.be/KxvcWh8gzg4?si=kVukmFdxZy3GXXXA) of the end of the pier at sunset
 
 [Video](https://youtu.be/bFZlSN-wjWg?si=KRM_pPzfLflQLAJX) of Santa Monica Beach at sunset
+
+[Video](https://youtu.be/xyXs-FP-3n4?si=UgdO0TWjZ5fcvAYR) of ferris wheel with Santa Claus
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
