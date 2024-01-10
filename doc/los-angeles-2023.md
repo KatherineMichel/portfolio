@@ -135,9 +135,7 @@ Pacific Park ferris wheel overlooking the ocean waves...
 
 [Video](https://youtu.be/cnWdL9C4ucU?si=_5bCR2RdHMWjLTbO) of ferris wheel and roller coaster
 
-<!--
 [Video](https://youtu.be/08xtEKQ8Yjg?si=oVrTxLtU4tAqe9FC) of north of the Santa Monica Pier
--->
 
 [Video](https://youtu.be/53oLr76JxuY?si=W2jQtuxPaf7SNMy5) of south of the Santa Monica Pier
 
@@ -210,11 +208,9 @@ Santa Monica Pier... the sun is going down.
 
 [Video](https://youtu.be/KwIrQjfX-V4?si=4_Ry7O-1ObcdP_bx) of walking along Santa Monica Pier
 
-<!--
 [Video](https://youtu.be/svqLyz8D2uM?si=_0ziKygwuCW4jcWS) of Venice Beach Boardwalk
 
 [Video](https://youtu.be/AUqmrRV7teE?si=ZBpTh3dFF_Y0ivTc) of Venice Beach Skatepark
--->
 
 [Video](https://youtu.be/TLsb7qy8kyY?si=EOogWOqHwtV2SGFw) of a bird flying above Venice Beach Pier
 
