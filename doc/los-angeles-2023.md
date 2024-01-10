@@ -235,7 +235,7 @@ Santa Monica Pier... the sun is going down.
 
 ### Warner Brothers Studio Tour
 
-See the end of this blog post for a comparison between Warner Brothers Studio Tour and Universal Studio Tour. 
+See the end of this blog post for a comparison between Warner Brothers Studio Tour and Universal Studios Tour. 
 
 After some quick research, I settled on [Warner Brothers Studio Tour](https://www.wbstudiotour.com/tour/studio/) as a top priority. It was an incredible, in-depth experience. 
 
@@ -574,7 +574,7 @@ Fettuccine Alfredo with chicken... so good!
 
 ### Universal Theme Park
 
-Although I wanted to take the [Universal Studio Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. After multiple people told me how fun the theme park is including a Lyft driver who said it's the best, because you are "in the movies," I decided to go. I know what she means now that I've experienced the incredible, immersive, 3-D experiences that included having water splashed on you. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
+Although I wanted to take the [Universal Studios Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour), I was irked that I would have to buy an entire [Universal Theme Park](https://www.universalstudioshollywood.com/web/en/us) ticket to take it. After multiple people told me how fun the theme park is including a Lyft driver who said it's the best, because you are "in the movies," I decided to go. I know what she means now that I've experienced the incredible, immersive, 3-D experiences that included having water splashed on you. Anyhow, it's not everyday that you have the chance to visit a theme park like that. 
 
 I guess I got my money's worth for the studio tour alone. I went twice... riding on either side of the cart to get a good look at everything. 
 
@@ -882,6 +882,6 @@ In contrast, the Universal Studios tour consisted of one large group riding on a
 
 However, the Universal Studios tour did include some very iconic backlots, and nothing at Warner Brothers compared to Universal's immersive, 3-D experiences. 
 
-I spent approximately 45 minutes on the Universal Studio Tour.  
+I spent approximately 45 minutes on the Universal Studios Tour.  
 
 <sub>[**back to top**](#table-of-contents)</sub>
