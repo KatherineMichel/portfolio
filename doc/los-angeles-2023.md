@@ -129,6 +129,10 @@ Pacific Park Amusement Park
 ![](los-angeles-2023-images/santa-monica-pier-at-night-pacific-park-ferris-wheel.jpg)
 Pacific Park ferris wheel overlooking the ocean waves...
 
+[Video](https://youtu.be/GP4Td4SUH0M?si=XDPxScs8KR0mg2fj) of Santa Monica Pier
+
+[Video](https://youtu.be/08xtEKQ8Yjg?si=oVrTxLtU4tAqe9FC) of north of the Santa Monica Pier
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### North Italia
@@ -194,9 +198,23 @@ Santa Monica Beach looked toward the pier
 ![](los-angeles-2023-images/venice-beach-santa-monica-pier-sun.jpg)
 Santa Monica Pier... the sun is going down. 
 
+[Video](https://youtu.be/WtmDbIY2Ieo?si=Ceo0xQmuELsoQAQ) of birds flying around Santa Monica Beach
+
+[Video](https://youtu.be/KwIrQjfX-V4?si=4_Ry7O-1ObcdP_bx) of Santa Monica Pier
+
 [Video](https://youtu.be/svqLyz8D2uM?si=_0ziKygwuCW4jcWS) of Venice Beach Boardwalk
 
+[Video](https://youtu.be/AUqmrRV7teE?si=ZBpTh3dFF_Y0ivTc) of Venice Beach Skatepark
+
+[Video](https://youtu.be/TLsb7qy8kyY?si=EOogWOqHwtV2SGFw) of a bird flying above Venice Beach Pier
+
+[Video](https://youtu.be/cJEZFFnFlng?si=rQCBZOJ3st627zSB) of a sailboat at Venice Beach Pier
+
 [Video](https://youtu.be/MAdhUKSJbbg?si=E43wzKHu5W-n3QDG) of Venice Beach from the pier
+
+[Video](https://youtu.be/qO44Inr0C48?si=DVb-wguV6vt81JGV) of Venice Beach sand pipers
+
+[Video](https://youtu.be/kQFnozP3w_I?si=YTc9aYrPt0YRq4ez) of a dog running along Santa Monica Beach
 
 [Video](https://youtu.be/Fzv0tZ1zzQU?si=AmMmtc6kuHH13b7N) of Santa Monica Pier at sunset
 
@@ -235,6 +253,8 @@ Mr. Freeze, Joker, Oz, and Riddler costumes in front of the Arkham Asylum gates
 Warner Brothers Studio awards
 
 [Video](https://youtu.be/4aTxOa3chcs?si=r4nBfIcyBcqmhqzs) of Friends set
+
+[Video](https://youtu.be/wNWcuESAZDE?si=_4TjbCbo0CUcXOPE) of the Friends fountain
 
 [Video](https://youtu.be/iL-cWXCyAsE?si=vg80ZuUTMV5A59Vg) of casting spells in Wizarding World
 
@@ -300,6 +320,8 @@ Santa Monica Beach sunset
  
 ![](los-angeles-2023-images/santa-monica-pier-pier-burger.jpg)
 Tourist be touristing... I gave in and ate an overpriced hamburger, fries, and strawberry milkshake at [Pier Burger](https://www.pierburger.com/). 
+
+[Video](https://youtu.be/tYtLZPSjdJQ?si=YTT-1avfxxbQuDxR) of walking to the Santa Monica Pier at sunset
 
 [Video](https://youtu.be/y_R55NwD5PA?si=FTA12rl3sTd4p1s6) of Santa Monica Beach at sunset
 
@@ -410,6 +432,10 @@ Although I enjoyed the view of Los Angeles from the main Getty Center terrace, t
 
 [Video](https://youtu.be/1-OcUMCII3o?si=luk7utrXz2LnaQff) of the Central Garden
 
+[Video](https://youtu.be/x8CULebm0bY?si=fIBpoVIoVCZCmAth) walking through Central Garden
+
+[Video](https://youtu.be/ZzHO8MQLE9U?si=ADCgfmAaY8KrLPvw) of a Getty Center fountain
+
 [Video](https://youtu.be/TwIPtk2IA9A?si=ub_cBZedXZhjluZQ) of the ride down from The Getty Center
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -429,6 +455,10 @@ Sunset across the ocean
 
 ![](los-angeles-2023-images/santa-monica-pier-tacos-1986-and-sunset-pier.jpg)
 The pier
+
+[Video](https://youtu.be/f1WSSYzchX0?si=puikvTz5-5LNqe-N) of walking to Santa Monica Pier at sunset
+
+[Video](https://youtu.be/hgm-Dc5btlA?si=rZATV0HqXm3hNext) of the Santa Monica beach at sunset
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -553,13 +583,17 @@ Bates Motel from Psycho
 ![](los-angeles-2023-images/universal-psycho-house.jpg)
 Mother's house from Psycho
 
+[Video](https://youtu.be/9uv5BZtSHNA?si=R2pd8kGSKy9brRnG) of the Universal sign
+
 [Video](https://youtu.be/d3wERBCZHEM?si=YHK-vpGaG7TKclwF) of 3-D King King experience, designed by Peter Jackson and team!
 
 [Video](https://youtu.be/evZHAcfSnqw?si=B279b284H-g0lZDn) of the Jaws experience!
 
-[Video](https://youtu.be/VVTMQafABCA?si=Q2x-n0jO9UIFyq1J) or Norman Bates
+[Video](https://youtu.be/VVTMQafABCA?si=Q2x-n0jO9UIFyq1J) of Norman Bates
 
 [Video](https://youtu.be/402GcUXZ01c?si=HJ51z3y9jCnwu-Ti) of "Wisteria Lane"
+
+[Video](https://youtu.be/r5AzrhSoNRo?si=NIepFiPXdL0puQB2) of a simulated flood
 
 <!--
 https://www.universalstudioshollywood.com/web/en/us/things-to-do/lands/the-wizarding-world-of-harry-potter
@@ -634,6 +668,8 @@ Jack Nicholson's house... that's a tennis court on stilts!
 
 ![](los-angeles-2023-images/celebrity-home-bus-tour-leonardo-dicaprio.jpg)
 Leonardo DiCaprio's house
+
+[Video](https://youtu.be/CetaKXxeulU?si=-wciRXebAL2qQ9uP) of bus stopping for Hollywood Sign
 
 [Video](https://youtu.be/52_T3K6Fc7c?si=DuYZs3tEoSCWRRSa) driving past homes in Beverly Hills
 
@@ -745,6 +781,8 @@ The rippling waves were like abstract art...
 The end of the pier... wow!
 
 [Video](https://youtu.be/dPPWp-k3kIE?si=mELmyVOv6elfcVWr) of Santa Monica Pier at sunset
+
+[Video](https://youtu.be/KxvcWh8gzg4?si=kVukmFdxZy3GXXXA) of the end of the pier at sunset
 
 [Video](https://youtu.be/bFZlSN-wjWg?si=KRM_pPzfLflQLAJX) of Santa Monica Beach at sunset
 
