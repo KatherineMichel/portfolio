@@ -61,9 +61,8 @@ Table of Contents
 - [Thursday](#id4)
     - [Ice at Santa Monica](#ice-at-santa-monica)
     - [Mel's Drive-In](#mels-drive-in)
-    - [Santa Monica Beach](#santa-monica-beach)
-    - [Santa Monica Pier Carousel](#santa-monica-pier-carousel)
     - [End of Santa Monica Pier at Sunset](#end-of-santa-monica-pier-at-sunset)
+    - [Santa Monica Pier Carousel](#santa-monica-pier-carousel)
     - [Santa Monica Promenade](#santa-monica-promenade)
 - [Friday](#id5)
     - [Back to Kansas for Christmas](#back-to-kansas-for-christmas)
@@ -765,7 +764,7 @@ The best chocolate milkshake that I've ever had.
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Santa Monica Beach
+### End of Santa Monica Pier at Sunset
 
 I made it back to Santa Monica Beach for one last sunset. It was a doozy. 
 
@@ -792,6 +791,12 @@ The rippling waves were like abstract art...
 ![](los-angeles-2023-images/santa-monica-pier-sunset-end-of-pier.jpg)
 The end of the pier... wow!
 
+![](los-angeles-2023-images/santa-monica-pier-cityscape-pink.jpg)
+Pink cityscape
+
+![](los-angeles-2023-images/santa-monica-pier-sunset-people.jpg)
+People watching
+
 [Video](https://youtu.be/dPPWp-k3kIE?si=mELmyVOv6elfcVWr) of Santa Monica Pier at sunset
 
 [Video](https://youtu.be/NK2FCOE9ZGA?si=dJTLWqB0KCtadn7V) of Santa Monica Pier at sunset
@@ -810,16 +815,6 @@ The end of the pier... wow!
 Santa Monica Pier Carousel... Paul Newman worked there in the Sting. I rode it!
 
 [Video](https://youtu.be/TVL2gUfgNGk?si=CHgmEYUToBc9Eerr) riding Paul Newman's carousel :)
-
-<sub>[**back to top**](#table-of-contents)</sub>
-
-### End of Santa Monica Pier at Sunset
-
-![](los-angeles-2023-images/santa-monica-pier-cityscape-pink.jpg)
-Pink cityscape
-
-![](los-angeles-2023-images/santa-monica-pier-sunset-people.jpg)
-People watching
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
