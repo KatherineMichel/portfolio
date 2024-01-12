@@ -241,7 +241,7 @@ After some quick research, I settled on [Warner Brothers Studio Tour](https://ww
 
 Because I hadn't read up on the details of the tour ahead of time, I had no idea what I would see. 
 
-Having my photo taken on the real Friends was a really fun surprise and gave me a feeling of childlike delight. What a great way to kick of off my Hollywood sightseeing. 
+Having my photo taken on the real Friends was a really fun surprise and gave me a feeling of childlike delight. What a great way to kick off my Hollywood sightseeing. 
 
 In addition to a tour of city and town backlots, the Friends soundstage, and a photo in front of the Friends fountain, there were multiple large exhibits packed full of costumes, props, vehicles, and interactive experiences from Superman, Wonder Woman, Justice League, Batman, Game of Thrones, Harry Potter, Gilmore Girls, Big Bang Theory, My Fair Lady, Casablanca, and many others. 
 
