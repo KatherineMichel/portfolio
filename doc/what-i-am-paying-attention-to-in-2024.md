@@ -212,7 +212,7 @@ An instant classic by Camille Fournier, also employed by JPMorgan Chase
 I had the pleasure of eating lunch with Sarah Drasner at GitHub Universe 2019, then got to know her on Twitter over the years. She produces outstanding work, and I know this book will be no exception. 
 * [Engineering Management for the Rest of Us](https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner-ebook/dp/B0BGYVDX35)
 
-An intriguing subject from Tania Reilly, the creator of the famous "Being Glue" talk. 
+An intriguing subject from Tanya Reilly, the creator of the famous "Being Glue" talk. 
 * [The Staff Engineer's Path](https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/)
 
 Although the Pragmatic Engineer Newsletter has not been around long, it has attracted a large following. The newsletter author wrote this book. I am intrigued. 
