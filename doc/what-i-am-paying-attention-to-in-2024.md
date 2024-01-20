@@ -1,5 +1,7 @@
 # What I Am Paying Attention to in 2024
 
+A &#x2713; or (in progress) after an entry indicates status. 
+
 ## Developer News
 
 Projects and developers trending on GitHub. Can be filtered by Python.
@@ -69,7 +71,7 @@ Outstanding new book in a series by Extreme Programming and TDD authority Kent B
 * [Tidy First?](https://www.oreilly.com/library/view/tidy-first/9781098151232/) &#x2713; 
 
 Idiomatic Python deep dive to level up to professional, production quality Python quickly 
-* [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920) In progress
+* [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920) (In progress)
 
 Classic, advanced, comprehensive Python manual 
 * [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
