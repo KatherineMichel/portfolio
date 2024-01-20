@@ -69,7 +69,7 @@ Outstanding new book in a series by Extreme Programming and TDD authority Kent B
 * [Tidy First?](https://www.oreilly.com/library/view/tidy-first/9781098151232/) &#x2713; 
 
 Idiomatic Python deep dive to level up to professional, production quality Python quickly 
-* [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920)
+* [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920) In progress
 
 Classic, advanced, comprehensive Python manual 
 * [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
@@ -100,9 +100,11 @@ Coding problems and tutorials by my friend Trey. He is an amazing teacher.
 Popular documentation framework 
 * [Diátaxis](https://diataxis.fr/)
 
+Python Patterns
+* [Python Patterns](https://python-patterns.guide/)
+
 General Python resources
 * [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
-* [Python Patterns](https://python-patterns.guide/)
 * [Google's PyGuide](https://google.github.io/styleguide/pyguide.html)
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
