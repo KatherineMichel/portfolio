@@ -66,10 +66,10 @@ Author of a great Django blog
 ## Python Books
 
 Outstanding new book in a series by Extreme Programming and TDD authority Kent Beck. Short and sweet. Explores tidyings, cumulative progress, and optionality. 
-- [x] [Tidy First?](https://www.oreilly.com/library/view/tidy-first/9781098151232/) 
+&#x2713; [Tidy First?](https://www.oreilly.com/library/view/tidy-first/9781098151232/) 
 
 Idiomatic Python deep dive to level up to professional, production quality Python quickly 
-- [ ] [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920)
+* [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920)
 
 Classic, advanced, comprehensive Python manual 
 * [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
