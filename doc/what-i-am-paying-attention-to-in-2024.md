@@ -6,6 +6,13 @@
 | &#8987;   | in progress  |
 | &#128736; | daily/weekly |
 
+## Key
+
+| Emoji    | Status      |
+| -------- | ----------- |
+| &#x2713;  | completed   |
+| &#8987; | in progress |
+
 ## Developer News
 
 Projects and developers trending on GitHub. Can be filtered by Python.
