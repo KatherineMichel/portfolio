@@ -1,7 +1,5 @@
 # What I Am Paying Attention to in 2024
 
-## Key
-
 | Emoji    | Status      |
 | -------- | ----------- |
 | &#x2713; | completed   |
