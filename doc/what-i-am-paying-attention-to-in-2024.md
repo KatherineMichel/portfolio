@@ -1,8 +1,11 @@
 # What I Am Paying Attention to in 2024
 
-Key
-* &#x2713; = completed.
-* &#8987; = in progress. 
+## Key
+
+| Emoji    | Status      |
+| -------- | ----------- |
+| &#x2713;  | completed   |
+| &#8987; | in progress |
 
 ## Developer News
 
