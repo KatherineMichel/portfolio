@@ -10,12 +10,12 @@
 ## Developer News
 
 Projects and developers trending on GitHub. Can be filtered by Python.
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending Python](https://github.com/trending/python)
-* [GitHub Trending Python Developers](https://github.com/trending/developers/python?since=daily)
+* [GitHub Trending](https://github.com/trending) &#8987;
+* [GitHub Trending Python](https://github.com/trending/python) &#8987;
+* [GitHub Trending Python Developers](https://github.com/trending/developers/python?since=daily) &#8987;
 
 The latest tech news that makes it through the Hacker News upvote process. 
-* [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Newest](https://news.ycombinator.com/newest) &#8987;
 
 GitHub news and changelog
 * [GitHub Blog](https://github.blog)  
@@ -41,7 +41,7 @@ Django co-founder and prolific tinkerer and public speaker. Check out his work w
 * [Simon Willison](https://simonwillison.net/)
 
 Current and former Django Fellows
-* [Carlton Gibson](https://noumenal.es/)
+* [Carlton Gibson](https://noumenal.es/) &#8987;
 * [Natalia Bidart and Mariusz Felisiak](https://www.djangoproject.com/weblog/)
 
 Current CPython Developer-in-Residence
