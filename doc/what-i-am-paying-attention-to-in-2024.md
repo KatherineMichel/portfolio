@@ -1,17 +1,12 @@
 # What I Am Paying Attention to in 2024
 
+## Key
+
 | Emoji     | Status       |
 | --------  | ------------ |
 | &#x2713;  | completed    |
 | &#8987;   | in progress  |
 | &#128736; | daily/weekly |
-
-## Key
-
-| Emoji    | Status      |
-| -------- | ----------- |
-| &#x2713;  | completed   |
-| &#8987; | in progress |
 
 ## Developer News
 
