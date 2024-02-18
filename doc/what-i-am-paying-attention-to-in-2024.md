@@ -254,7 +254,7 @@ A colleague made me aware of the concept of [Transformational Leadership](https:
 ## Agile and Scrum
 
 If you work in an agile/scrum environment, it's a good idea to revisit these evergreen resources from time-to-time. 
-* [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html)
+* [Principles behind the Agile Manifesto](https://agilemanifesto.org/principles.html) &#x2713;
 * [Scrum Guides](http://www.scrumguides.org/scrum-guide.html)
 
 ## Product
