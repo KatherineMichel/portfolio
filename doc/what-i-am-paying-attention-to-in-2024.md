@@ -1,20 +1,20 @@
 # What I Am Paying Attention to in 2024
 
-| Emoji    | Status      |
-| -------- | ----------- |
-| &#x2713; | completed   |
-| &#8987;  | in progress |
-| &#128736;  | daily |
+| Emoji     | Status       |
+| --------  | ------------ |
+| &#x2713;  | completed    |
+| &#8987;   | in progress  |
+| &#128736; | daily/weekly |
 
 ## Developer News
 
 Projects and developers trending on GitHub. Can be filtered by Python.
-* [GitHub Trending](https://github.com/trending) &#8987;
-* [GitHub Trending Python](https://github.com/trending/python) &#8987;
-* [GitHub Trending Python Developers](https://github.com/trending/developers/python?since=daily) &#8987;
+* [GitHub Trending](https://github.com/trending) &#128736;
+* [GitHub Trending Python](https://github.com/trending/python) &#128736;
+* [GitHub Trending Python Developers](https://github.com/trending/developers/python?since=daily) &#128736;
 
 The latest tech news that makes it through the Hacker News upvote process. 
-* [Hacker News Newest](https://news.ycombinator.com/newest) &#8987;
+* [Hacker News Newest](https://news.ycombinator.com/newest) &#128736;
 
 GitHub news and changelog
 * [GitHub Blog](https://github.blog)  
@@ -98,8 +98,8 @@ Curated Python content
 * [Full Stack Python](https://www.fullstackpython.com)
 
 Coding problems and tutorials by my friend Trey. He is an amazing teacher. 
-* [Python Morsels](https://www.pythonmorsels.com/articles/)
-* [Trey Hunner](https://treyhunner.com/)
+* [Python Morsels](https://www.pythonmorsels.com/articles/) &#128736;
+* [Trey Hunner](https://treyhunner.com/) &#128736;
 
 ## General Python and Django Learning Resources
 
@@ -118,10 +118,10 @@ The go-to intermediate to expert Django book
 * [Two Scoops of Django 3.x](https://www.feldroy.com/books/two-scoops-of-django-3-x)
 
 Great, new-ish Python newsletter
-* [Bite Code](https://www.bitecode.dev/)
+* [Bite Code](https://www.bitecode.dev/) &#128736;
 
 A fabulous Django newsletter published every Friday, with all the most important Django news 
-* [Django News](https://django-news.com/) &#8987;
+* [Django News](https://django-news.com/) &#128736;
   
 ## Data Structures and Algorithms
 
@@ -129,8 +129,8 @@ The must-read algorithms book
 * [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/)
 
 Coding challenges
-* [Advent of Code](https://adventofcode.com/)
-* [NeetCode](https://neetcode.io/)
+* [Advent of Code](https://adventofcode.com/) &#128736;
+* [NeetCode](https://neetcode.io/) &#128736;
 
 Course by the high profile Primeagen of Netflix. Does it live up to its name? 
 * [The Last Algorithms Course You'll Need](https://theprimeagen.github.io/fem-algos/)
