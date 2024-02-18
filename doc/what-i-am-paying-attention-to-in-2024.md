@@ -1,6 +1,8 @@
 # What I Am Paying Attention to in 2024
 
-A &#x2713; or (in progress) after an entry indicates status. 
+Key
+&#x2713; = completed.
+&#8987; = in progress. 
 
 ## Developer News
 
