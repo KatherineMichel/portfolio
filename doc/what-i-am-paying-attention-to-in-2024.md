@@ -48,7 +48,7 @@ Current CPython Developer-in-Residence
 * [Łukasz Langa](https://lukasz.langa.pl/python/developer-in-residence/)
 
 PSF Security Developer-in-Residence
-* [Seth M Larson](https://sethmlarson.dev/) 
+* [Seth M Larson](https://sethmlarson.dev/) &#8987;
 
 Podcast by CPython Release Manager Pablo Galindo and CPython Developer-in-Residence Łukasz Langa
 * [core.py Podcast](https://podcasters.spotify.com/pod/show/corepy/) &#8987;
