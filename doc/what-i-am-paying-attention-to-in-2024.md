@@ -40,17 +40,17 @@ Django co-founder and prolific tinkerer and public speaker. Check out his work w
 * [Simon Willison](https://simonwillison.net/)
 
 Current and former Django Fellows
-* [Carlton Gibson](https://noumenal.es/) &#8987;
+* [Carlton Gibson](https://noumenal.es/) &#128736;
 * [Natalia Bidart and Mariusz Felisiak](https://www.djangoproject.com/weblog/)
 
 Current CPython Developer-in-Residence
 * [Łukasz Langa](https://lukasz.langa.pl/python/developer-in-residence/)
 
 PSF Security Developer-in-Residence
-* [Seth M Larson](https://sethmlarson.dev/) &#8987;
+* [Seth M Larson](https://sethmlarson.dev/) &#128736;
 
 Podcast by CPython Release Manager Pablo Galindo and CPython Developer-in-Residence Łukasz Langa
-* [core.py Podcast](https://podcasters.spotify.com/pod/show/corepy/) &#8987;
+* [core.py Podcast](https://podcasters.spotify.com/pod/show/corepy/) &#128736;
 
 CPython Core Dev and Microsoft faster CPython team member
 * [Brett Cannon](https://snarky.ca/)
@@ -63,7 +63,7 @@ Author of my favorite Python book "Python Crash Course"
 
 Highly-skilled, opinionated developers and release managers who maintain a number of packages important to the Python/Django community
 * [Adam Johnson](https://adamj.eu/)
-* [Hynek Schlawack](https://hynek.me/) &#8987;
+* [Hynek Schlawack](https://hynek.me/) &#128736;
 * [Anthony Sottile](https://www.youtube.com/anthonywritescode)
 
 Author of a great Django blog
