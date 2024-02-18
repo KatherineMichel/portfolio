@@ -43,10 +43,10 @@ Current CPython Developer-in-Residence
 * [Łukasz Langa](https://lukasz.langa.pl/python/developer-in-residence/)
 
 PSF Security Developer-in-Residence
-* [Seth M Larson](https://sethmlarson.dev/)
+* [Seth M Larson](https://sethmlarson.dev/) 
 
 Podcast by CPython Release Manager Pablo Galindo and CPython Developer-in-Residence Łukasz Langa
-* [core.py Podcast](https://podcasters.spotify.com/pod/show/corepy/)
+* [core.py Podcast](https://podcasters.spotify.com/pod/show/corepy/) &#8987;
 
 CPython Core Dev and Microsoft faster CPython team member
 * [Brett Cannon](https://snarky.ca/)
@@ -59,7 +59,7 @@ Author of my favorite Python book "Python Crash Course"
 
 Highly-skilled, opinionated developers and release managers who maintain a number of packages important to the Python/Django community
 * [Adam Johnson](https://adamj.eu/)
-* [Hynek Schlawack](https://hynek.me/)
+* [Hynek Schlawack](https://hynek.me/) &#8987;
 * [Anthony Sottile](https://www.youtube.com/anthonywritescode)
 
 Author of a great Django blog
@@ -71,7 +71,7 @@ Outstanding new book in a series by Extreme Programming and TDD authority Kent B
 * [Tidy First?](https://www.oreilly.com/library/view/tidy-first/9781098151232/) &#x2713; 
 
 Idiomatic Python deep dive to level up to professional, production quality Python quickly 
-* [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920) (In progress)
+* [Dead Simple Python](https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920) &#8987;
 
 Classic, advanced, comprehensive Python manual 
 * [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008)
@@ -117,7 +117,7 @@ Great, new-ish Python newsletter
 * [Bite Code](https://www.bitecode.dev/)
 
 A fabulous Django newsletter published every Friday, with all the most important Django news 
-* [Django News](https://django-news.com/)
+* [Django News](https://django-news.com/) &#8987;
   
 ## Data Structures and Algorithms
 
@@ -137,8 +137,8 @@ A tool I use and want to read up on
 * [Django REST Framework](https://www.django-rest-framework.org/)
 
 I work in a database department and as such would like to better understand database capabilities. See also Simon Willison for SQLite experimentation. 
-* [Cockroach Labs](https://www.cockroachlabs.com/)
-* [Cockroach University](https://university.cockroachlabs.com/courses/)
+* [Cockroach Labs](https://www.cockroachlabs.com/) &#8987;
+* [Cockroach University](https://university.cockroachlabs.com/courses/) &#8987;
 * [PostgreSQL Docs](https://www.postgresql.org/docs/)
 * [SQLite Docs](https://www.sqlite.org/docs.html)
 
@@ -177,7 +177,7 @@ Julie is an outstanding teacher. Check out her blog posts and 'zines.
 * [Wizard Zines](https://wizardzines.com/)
 
 Several new-ish (or new-to-me) blogs that stand out 
-* [Architecture Notes](https://architecturenotes.co/)
+* [Architecture Notes](https://architecturenotes.co/) &#8987;
 * [The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
 * [The Developing Dev](https://www.developing.dev/)
 
