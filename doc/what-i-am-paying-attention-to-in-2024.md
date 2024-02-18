@@ -4,8 +4,8 @@
 
 | Emoji    | Status      |
 | -------- | ----------- |
-| &#x2713;  | completed   |
-| &#8987; | in progress |
+| &#x2713; | completed   |
+| &#8987;  | in progress |
 
 ## Developer News
 
