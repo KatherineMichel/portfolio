@@ -4,6 +4,7 @@
 | -------- | ----------- |
 | &#x2713; | completed   |
 | &#8987;  | in progress |
+| &#128736;  | daily |
 
 ## Developer News
 
