@@ -208,10 +208,10 @@ A classic blog about system architecture. Also happens to be "for sale." See the
 ## How CPython Works
 
 Although I do not intend to divide my time between Python and C programming languages, I'd like to better understand how CPython works. 
-* [C for Python Programmers](https://realpython.com/c-for-python-programmers/)
-* [CPython Source Code Guide](https://realpython.com/cpython-source-code-guide/ )
+* [C for Python Programmers](https://realpython.com/c-for-python-programmers/) &#8987;
+* [CPython Source Code Guide](https://realpython.com/cpython-source-code-guide/)
 * [CPython Internals Book](https://realpython.com/products/cpython-internals-book/)
-* [Building a Python C Extension Module](https://realpython.com/build-python-c-extension-module/)
+* [Building a Python C Extension Module](https://realpython.com/build-python-c-extension-module/) &#8987;
 * [Compilers: Principles, Techniques, Tools (a.k.a. "The Dragon Book")](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
 
 ## Engineering and Management
