@@ -28,7 +28,7 @@ Python release notes, discussion forum, enhancements proposals, release livestre
 * [What's New](https://docs.python.org/dev/whatsnew/)
 * [Python Discuss](https://discuss.python.org)
 * [PEP (Python Enhancement Proposals) Index](https://www.python.org/dev/peps)
-* [Pablo Galindo Salgado's Release Streams](https://www.youtube.com/@PythonDiscord)
+* [Pablo Galindo Salgado's Release Streams](https://www.youtube.com/@PythonDiscord) 
 
 Django release notes, enhancements proposals, blog, roadmap
 * [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
