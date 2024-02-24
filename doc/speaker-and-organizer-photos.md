@@ -1,10 +1,4 @@
 # Speaker and Organizer Photos
-
-Table of Contents
------------------
-
-- [Speaker Photos](#speaker-photos)
-- [Organizer Photos](#organizer-photos)
       
 ## Speaker Photos
 
