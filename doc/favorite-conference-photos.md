@@ -26,7 +26,7 @@ DEFNA Board Dinner at the incredible Parizade... a perfect evening
 ## DjangoCon US 2022
 
 ![](favorite-conference-photos/djangocon-us-2022-me-and-craig-bruce.jpg)
-Fortunately, I stayed late one evening at DjangoCon US 2022 and ate dinner with favorite author Eric Matthes and now DEFNA Board Member Tim Schilling. Former DEFNA Board Member Craig Bruce showed up during dinner. What a wonderful surprise! 
+One night while I was having dinner with favorite author Eric Matthes and now DEFNA Board Member Tim Schilling, former DEFNA Board Member Craig Bruce showed up unexpectedly. What a wonderful surprise! 
 
 ![](favorite-conference-photos/djangocon-us-2022-me-outside.jpg)
 Me captured through the window enjoying the "hallway track"
@@ -37,7 +37,7 @@ Me with wonderful fellow organizer Noah Alorwu
 ## PyCascades 2020
 
 ![](favorite-conference-photos/pycascades-2020-sprints-hanging-out-with-guido.jpg)
-Hanging out with Guido at the PyCascades 2020 Sprints
+Hanging out with Guido at the sprints
 
 ![](favorite-conference-photos/pycascades-2020-dinner-with-guido.jpg)
 I was lucky to be invited to dinner. Guido happened to be in attendance. What a magical evening! 
