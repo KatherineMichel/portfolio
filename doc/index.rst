@@ -14,7 +14,7 @@ Welcome to Kati's Portfolio!
    :maxdepth: 2
    :caption: About:
 
-   speaker-and-organizer-photos.md
+   speaker-board-and-organizer-photos.md
 
 .. toctree::
    :maxdepth: 2
