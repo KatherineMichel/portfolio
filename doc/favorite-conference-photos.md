@@ -6,7 +6,7 @@
 Wonderful people... DjangoCon US Organizers
 
 ![](favorite-conference-photos/djangocon-us-2023-standing-ovation.jpg)
-One of many standing ovations over the years
+Standing ovation for organizers during the final remarks... one of many standing ovations over the years. Always a nice feeling. 
 
 ![](favorite-conference-photos/djangocon-us-2023-me-and-deb.jpg)
 Me and Deb Nicholson, PSF Executive Director
