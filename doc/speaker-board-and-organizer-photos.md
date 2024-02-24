@@ -1,9 +1,10 @@
-# Speaker and Organizer Photos
+# Speaker, Board, and Organizer Photos
 
 Table of Contents
 -----------------
 
 - [Speaker Photos](#speaker-photos)
+- [Board Photos](#board-photos)
 - [Organizer Photos](#organizer-photos)
   
 ## Speaker Photos
@@ -34,12 +35,16 @@ On stage; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
 ![](speaker-and-organizer-photos/djangocon-us-2017-speaker-photo.jpg)
 Speaker photo; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
 
-## Organizer Photos
+## Board Photos
 
 ### DjangoCon US 2023
 
 ![](speaker-and-organizer-photos/djangocon-us-2023-defna-board-outside.jpg)
 DEFNA Board group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
+
+## Organizer Photos
+
+### DjangoCon US 2023
 
 ![](speaker-and-organizer-photos/djangocon-us-2023-organizers-outside.jpg)
 Organizers group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
