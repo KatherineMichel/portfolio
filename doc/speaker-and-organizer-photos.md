@@ -15,7 +15,7 @@ On stage
 Speaking
 
 ![](speaker-and-organizer-photos/djangocon-us-2018-state-of-django-panel-front.jpg)
-Panel
+Panel and crowd
 
 ![](speaker-and-organizer-photos/djangocon-us-2018-state-of-django-panel-crowd.jpg)
 Panel and crowd
@@ -39,7 +39,7 @@ DEFNA Board group photo
 Organizers group photo
 
 ![](speaker-and-organizer-photos/djangocon-us-2023-organizers-stage.jpg)
-Organizers during closing remarks
+Organizers during closing remarks (I am hidden behind Dawn lol)
 
 ### DjangoCon US 2022
 
