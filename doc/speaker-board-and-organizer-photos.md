@@ -11,6 +11,10 @@ Table of Contents
 
 ### JPMorgan Chase 2023- DjangoCon US Recap
 
+![](speaker-and-organizer-photos/jpmorgan-chase-2023-djangocon-us-recap.jpg)
+
+![](speaker-and-organizer-photos/jpmorgan-chase-2023-djangocon-us-recap-2.jpg)
+
 ### DjangoCon US 2021
 
 ### DjangoCon US 2018- State of Django Panel
