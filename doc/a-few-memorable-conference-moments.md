@@ -1,4 +1,4 @@
-# Memorable Conference Moments
+# A Few Memorable Conference Moments
 
 ![](favorite-conference-photos/djangocon-us-2023-organizers-outside.jpg)
 
