@@ -9,6 +9,7 @@ Welcome to Kati's Portfolio!
 .. toctree::
    :maxdepth: 2
    :caption: About:
+
    speaker-and-organizer-photos.md
 
 .. toctree::
