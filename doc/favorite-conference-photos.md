@@ -4,9 +4,9 @@
 
 ![](favorite-conference-photos/djangocon-us-2023-standing-ovation.jpg)
 
-![](favorite-conference-photos/djangocon-us-2023-me-and-abigail.jpg)
-
 ![](favorite-conference-photos/djangocon-us-2023-me-and-deb.jpg)
+
+![](favorite-conference-photos/djangocon-us-2023-me-and-abigail.jpg)
 
 ![](favorite-conference-photos/djangocon-us-2023-me-and-jon.jpg)
 
