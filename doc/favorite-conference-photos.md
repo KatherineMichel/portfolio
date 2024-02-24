@@ -59,6 +59,7 @@ I was lucky to be invited to dinner. Guido happened to be in attendance. What a 
 ## DjangoCon US 2018
 
 ![](favorite-conference-photos/djangocon-us-2018-meeting-jack-at-a-tweet-up.jpg)
+
 In San Franscisco, I heard there was a Twitter Tweet Up. I went there and met Jack and a bunch of other Twitter, Inc executives, investors, and fans. Amazing night! 
 
 ![](favorite-conference-photos/djangocon-us-2018-meeting-betty-junod-at-docker-hq.jpg)
