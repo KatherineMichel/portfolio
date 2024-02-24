@@ -60,7 +60,7 @@ Table of Contents
     - [Bruno's Ristorante Italiano](#brunos-ristorante-italiano-1)
 - [Thursday](#id4)
     - [Ice at Santa Monica](#ice-at-santa-monica)
-    - [Mel's Drive-In](#mels-drive-in)
+    - [Mel's Drive-In](#mel-s-drive-in)
     - [End of Santa Monica Pier at Sunset](#end-of-santa-monica-pier-at-sunset)
     - [Santa Monica Pier Carousel](#santa-monica-pier-carousel)
     - [Santa Monica Promenade](#santa-monica-promenade)
