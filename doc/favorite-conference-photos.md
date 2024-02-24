@@ -26,7 +26,7 @@ DEFNA Board Dinner at the incredible Parizade... a perfect evening
 ## DjangoCon US 2022
 
 ![](favorite-conference-photos/djangocon-us-2022-me-and-craig-bruce.jpg)
-Fortunately, I stayed late one evening at DjangoCon US 2022 and ate dinner with favorite author Eric Matthes and now DEFNA Board Member Tim Schilling. Former DEFNA Board Member Craig Bruce showed up during dinner. What a wonderful surprise!  
+Fortunately, I stayed late one evening at DjangoCon US 2022 and ate dinner with favorite author Eric Matthes and now DEFNA Board Member Tim Schilling. Former DEFNA Board Member Craig Bruce showed up during dinner. What a wonderful surprise! 
 
 ![](favorite-conference-photos/djangocon-us-2022-me-outside.jpg)
 Me captured through the window enjoying the "hallway track"
@@ -44,29 +44,36 @@ I was lucky to be invited to dinner. Guido happened to be in attendance. What a 
 
 ## GitHub Universe 2019
 
+![](favorite-conference-photos/github-universe-2019-twitter-hq-1.jpg)
+At PyGotham 2019, within just a few hours of time, attendes invited me to tour Twitter, GitHub, and Salesforce Tower. During GitHub Universe 2019, I toured Twitter and GitHub. Unfortunately, my friend who worked at Salesforce was ill, so I didn't tour the tower. 
+
 ![](favorite-conference-photos/github-universe-2019-github-hq-tour.JPG)
+Me at GitHub
 
 ![](favorite-conference-photos/github-universe-2019-lunch-with-jigyasa-at-twitter-hq.jpg)
+Me and Jigyasa Grover having tea after lunch at Twitter
 
 ![](favorite-conference-photos/github-universe-2019-twitter-hq-2.jpg)
+Me at Twitter 
 
-![](favorite-conference-photos/github-universe-2019-twitter-hq-1.jpg)
-
-![](favorite-conference-photos/djangocon-us-2019-with-ken-whitesell.jpg)
+## DjangoCon US 2019
 
 ![](favorite-conference-photos/djangocon-us-2019-me.jpg)
+Happy times! 
+
+![](favorite-conference-photos/djangocon-us-2019-with-ken-whitesell.jpg)
+Selfie with our wonderful Ken Whitesell. 
 
 ## DjangoCon US 2018
 
-![](favorite-conference-photos/djangocon-us-2018-meeting-jack-at-a-tweet-up.jpg)
-
-In San Franscisco, I heard there was a Twitter Tweet Up. I went there and met Jack and a bunch of other Twitter, Inc executives, investors, and fans. Amazing night! 
+![](favorite-conference-photos/djangocon-us-2018-me.jpg)
+Happy times! 
 
 ![](favorite-conference-photos/djangocon-us-2018-meeting-betty-junod-at-docker-hq.jpg)
 After the conference, I flew to San Francisco. I visited my friend Betty Junod at Docker Headquarters. Fun! 
 
-![](favorite-conference-photos/djangocon-us-2018-me.jpg)
-Happy times! 
+![](favorite-conference-photos/djangocon-us-2018-meeting-jack-at-a-tweet-up.jpg)
+I heard there was a Twitter Tweet Up. I went there and met Jack and a bunch of other Twitter, Inc executives, investors, and fans. Amazing night! 
 
 ## DjangoCon US 2017
 
