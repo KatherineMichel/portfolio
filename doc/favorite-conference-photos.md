@@ -3,10 +3,10 @@
 ## DjangoCon US 2023
 
 ![](favorite-conference-photos/djangocon-us-2023-organizers-outside.jpg)
-Wonderful people... DjangoCon US Organizers
+Wonderful people... DjangoCon US Organizers; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ![](favorite-conference-photos/djangocon-us-2023-standing-ovation.jpg)
-Standing ovation for organizers during the final remarks... one of many standing ovations over the years. Always a nice feeling. 
+Standing ovation for organizers during the final remarks... one of many standing ovations over the years. Always a nice feeling. Photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ![](favorite-conference-photos/djangocon-us-2023-me-and-deb.jpg)
 Me and Deb Nicholson, PSF Executive Director
@@ -29,10 +29,10 @@ DEFNA Board Dinner at the incredible Parizade... a perfect evening
 One night while I was having dinner with favorite author Eric Matthes and now DEFNA Board Member Tim Schilling, former DEFNA Board Member Craig Bruce showed up unexpectedly. What a wonderful surprise! 
 
 ![](favorite-conference-photos/djangocon-us-2022-me-outside.jpg)
-Me captured through the window enjoying the "hallway track"
+Me captured through the window enjoying the "hallway track"; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ![](favorite-conference-photos/djangocon-us-2022-me-with-noah.jpg)
-Me with wonderful fellow organizer Noah Alorwu
+Me with wonderful fellow organizer Noah Alorwu; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ## PyCascades 2020
 
@@ -59,7 +59,7 @@ Me at Twitter
 ## DjangoCon US 2019
 
 ![](favorite-conference-photos/djangocon-us-2019-me.jpg)
-Happy times! 
+Happy times!; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ![](favorite-conference-photos/djangocon-us-2019-with-ken-whitesell.jpg)
 Selfie with our wonderful Ken Whitesell. 
@@ -67,7 +67,7 @@ Selfie with our wonderful Ken Whitesell.
 ## DjangoCon US 2018
 
 ![](favorite-conference-photos/djangocon-us-2018-me.jpg)
-Happy times! 
+Happy times! Photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ![](favorite-conference-photos/djangocon-us-2018-meeting-betty-junod-at-docker-hq.jpg)
 After the conference, I flew to San Francisco. I visited my friend Betty Junod at Docker Headquarters. Fun! 
