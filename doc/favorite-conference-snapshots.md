@@ -135,6 +135,13 @@ Me with the incredible Lacey Williams Henschel (DjangoCon US 2017 Chair). She wa
 ![](favorite-conference-photos/pygotham-2018-me-lindsey-trey-nic.jpg)
 Me with Lindsey Dragun, Trey Hunner, and Nicole James (DjangoCon US 2018 Co-Chair) during the conference
 
+## PyGotham 2017
+
+October 6-7, New York, New York
+
+![](favorite-conference-photos/pygotham-2017-dinner.jpg)
+My second ever conference, treated to dinner by local attendees who wanted to make new friends and thank us for coming. 
+
 ## DjangoCon US 2017
 
 August 13-18, Spokane, Washington
