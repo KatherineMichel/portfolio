@@ -130,7 +130,7 @@ Me with Lindsey Dragun, Trey Hunner, and Nicole James (DjangoCon US 2018 Co-Chai
 August 13-18, Spokane, Washington
 
 ![](favorite-conference-photos/djangocon-us-2017-on-stage.jpg)
-On stage; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
+Me giving my talk Get a Jumpstart on Collaboration and Code Review in GitHub; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
 
 ![](favorite-conference-photos/djangocon-us-2017-speaker-photo.jpg)
 Speaker photo; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
