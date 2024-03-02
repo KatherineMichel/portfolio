@@ -41,7 +41,7 @@ Hanging out with Guido at the sprints
 
 ![](favorite-conference-photos/pycascades-2020-dinner-with-guido.jpg)
 I was lucky to be invited to dinner. Guido happened to be in attendance. What a magical evening! 
-
+ 
 ## GitHub Universe 2019
 
 ![](favorite-conference-photos/github-universe-2019-twitter-hq-1.jpg)
@@ -64,6 +64,19 @@ Happy times!; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 ![](favorite-conference-photos/djangocon-us-2019-with-ken-whitesell.jpg)
 Selfie with our wonderful Ken Whitesell. 
 
+## Strange Loop 2019
+
+![](favorite-conference-photos/strange-loop-2019-me-with-marcia.JPG)
+My longtime Twitter friend Marcia was volunteering outside the Strange Loop venue. I couldn't pass up an opportunity to take a break from the conference and meet her in person. I told her how fun it had been to meet Jack at a tweet up the year before! I tried to get her to set me up on a date with him, but it didn't happen, lol. 
+
+## PyCon US 2019
+
+![](favorite-conference-photos/pycon-us-2019-me-and-mariatta.jpg)
+Me with one of my Python besties Mariatta :)
+
+![](favorite-conference-photos/pycon-us-2019-pylatam.jpg)
+Proud to have represented DEFNA Board at PyCon Charlas. Here I am with the PyLatam logo! 
+
 ## DjangoCon US 2018
 
 ![](favorite-conference-photos/djangocon-us-2018-me.jpg)
@@ -74,6 +87,14 @@ After the conference, I flew to San Francisco. I visited my friend Betty Junod a
 
 ![](favorite-conference-photos/djangocon-us-2018-meeting-jack-at-a-tweet-up.jpg)
 I heard there was a Twitter Tweet Up. I went there and met Jack and a bunch of other Twitter, Inc executives, investors, and fans. Amazing night! 
+
+## PyGotham 2018
+
+![](favorite-conference-photos/pygotham-2018-me-and-lacey.jpg)
+Me with the incredible Lacey :)
+
+![](favorite-conference-photos/pygotham-2018-lindsey-trey-nic-me.jpg)
+Me with Lindsey, Trey, and Nic
 
 ## DjangoCon US 2017
 
