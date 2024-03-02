@@ -105,7 +105,7 @@ Happy times! Me front row, left. Photo credit: Bartek Pawlik (https://bartpawlik
 After the conference, I flew to San Francisco. I visited my friend Betty Junod at Docker Headquarters. Fun! 
 
 ![](favorite-conference-photos/djangocon-us-2018-meeting-jack-at-a-tweet-up.jpg)
-Before I went to Docker, Jack Dorsey tweeted that there would be a tweet up in San Francisco later in the day. When I left Docker, I went to the tweet up at Tacolicious. I met Jack, Twitter co-founder Biz Stone, and a bunch of other Twitter, Inc principals, including then CFO Ned Segal, Head of Product Kayvon Beykpour, early investor Bijan Sabet, and Recode journalist Kurt Wagner. Amazing night! Jack was shockingly nice. When I walked up to the gaggle around him, he asked me my name. Later, I took a pic with him. 
+Before I went to Docker, Jack Dorsey tweeted that there would be a tweet up in San Francisco later in the day. When I left Docker, I went to the tweet up at Tacolicious. I met Jack, Twitter co-founder Biz Stone, and a bunch of other Twitter, Inc principals, including then CFO Ned Segal, Head of Product Kayvon Beykpour, early investor Bijan Sabet, and Recode journalist Kurt Wagner. Amazing night! When I walked up to the gaggle around Jack, he shockingly nice. Later, I took a pic with him. 
 
 ## PyGotham 2018
 
