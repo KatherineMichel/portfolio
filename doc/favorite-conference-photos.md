@@ -67,7 +67,7 @@ Selfie with our wonderful Ken Whitesell. For years, he has been the face that we
 ## Strange Loop 2019
 
 ![](favorite-conference-photos/strange-loop-2019-me-with-marcia.JPG)
-My longtime Twitter friend Marcia Dorsey was volunteering at an event outside the Strange Loop venue. I couldn't pass up an opportunity to take a break from the conference and meet her in person. I told her how fun it had been to meet Jack at a tweet up the year before! I tried to get her to set me up on a date with him, but it didn't happen, lol. 
+My longtime Twitter friend Marcia Dorsey was volunteering at an event outside the Strange Loop venue. I couldn't pass up an opportunity to take a break from the conference and meet her in person. I told her how fun it had been to meet her son Twitter and Square co-founder Jack Dorsey at a tweet up the year before! I tried to get her to set me up on a date with him, but it didn't happen, lol. 
 
 ## PyCon US 2019
 
