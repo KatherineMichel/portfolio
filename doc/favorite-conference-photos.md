@@ -80,7 +80,7 @@ Proud to have represented DEFNA Board at PyCon Charlas. Here I am with Joel Rive
 ## DjangoCon US 2018
 
 ![](favorite-conference-photos/djangocon-us-2018-me.jpg)
-Happy times! Photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
+Happy times! Me front row, left. Photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ![](favorite-conference-photos/djangocon-us-2018-meeting-betty-junod-at-docker-hq.jpg)
 After the conference, I flew to San Francisco. I visited my friend Betty Junod at Docker Headquarters. Fun! 
