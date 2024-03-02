@@ -58,7 +58,7 @@ November 13-14, San Francisco, California
 After Nat Friedman, then GitHub CEO, tweeted to me that he'd love meet, I had the chance to talk to him briefly. It was super fun to hear from him in person. Love open source! 
 
 ![](favorite-conference-photos/github-universe-2019-github-hq-tour.JPG)
-At PyGotham 2019, within just a few hours of time, attendees invited me to tour Twitter, GitHub, and Salesforce Tower. During GitHub Universe 2019, I toured Twitter and GitHub. Unfortunately, my friend who worked at Salesforce was ill, so I didn't tour the tower. Here I am at GitHub in front of the iconic Octocat statue. 
+At PyGotham 2019, within just a few hours of time, attendee Jigyasa Grover invited me to tour Twitter, Froi Irizarry Rivera invited me to tour GitHub, and Casey Faist invited me to Salesforce Tower. During GitHub Universe 2019, I toured Twitter and GitHub. Unfortunately, Casey was ill, so I didn't tour the tower. Here I am at GitHub in front of the iconic Octocat statue. 
 
 ![](favorite-conference-photos/github-universe-2019-lunch-with-jigyasa-at-twitter-hq.jpg)
 Me and Jigyasa Grover, machine learning engineer, having tea after lunch at Twitter
