@@ -2,6 +2,8 @@
 
 ## DjangoCon US 2023
 
+October 16-20, Durham, North Carolina
+
 ![](favorite-conference-photos/djangocon-us-2023-organizers-outside.jpg)
 Wonderful people... DjangoCon US Organizers; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -25,6 +27,8 @@ DEFNA Board Dinner at the incredible Parizade... a perfect evening
 
 ## DjangoCon US 2022
 
+October 16-21, San Diego, California
+
 ![](favorite-conference-photos/djangocon-us-2022-me-and-craig-bruce.jpg)
 One night while I was having dinner with favorite author Eric Matthes and now DEFNA Board Member Tim Schilling, former DEFNA Board Member Craig Bruce showed up unexpectedly. What a wonderful surprise! During all of the time that we'd been fellow board members, we'd never actually met in person. As usual, I'd been to the beach earlier in the week and gotten a bit too much sun. :) 
 
@@ -36,6 +40,8 @@ Me with wonderful fellow organizer Noah Alorwu; photo credit: Bartek Pawlik (htt
 
 ## PyCascades 2020
 
+February 8-9, Portland, Oregon
+
 ![](favorite-conference-photos/pycascades-2020-dinner-with-guido.jpg)
 At the end of a conference day, I was hanging out in the lobby among other stragglers and was invited to dinner by my friends Vicky and Jonan. Guido happened to be in attendance. What a magical evening! 
 
@@ -43,6 +49,8 @@ At the end of a conference day, I was hanging out in the lobby among other strag
 Hanging out with Guido at the sprints
 
 ## GitHub Universe 2019
+
+November 13-14, San Francisco, California
 
 ![](favorite-conference-photos/github-universe-2019-nat.JPG)
 After Nat tweeted to me that he'd love meet, I had the chance to talk to him briefly. It was super fun to hear from him in person. Love open source! 
@@ -61,6 +69,8 @@ Me at Twitter
 
 ## DjangoCon US 2019
 
+September 22-27, San Diego, California
+
 ![](favorite-conference-photos/djangocon-us-2019-me.jpg)
 Happy times!; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -69,10 +79,14 @@ Selfie with our wonderful Ken Whitesell. For years, he has been the face that we
 
 ## Strange Loop 2019
 
+September 13-14, Saint Louis, Missouri
+
 ![](favorite-conference-photos/strange-loop-2019-me-with-marcia.JPG)
 My longtime Twitter friend Marcia Dorsey was volunteering at an event outside the Strange Loop venue. I couldn't pass up an opportunity to take a break from the conference and meet her in person. I told her how fun it had been to meet her son Twitter and Square co-founder Jack Dorsey at a tweet up the year before! I tried to get her to set me up on a date with him, but it didn't happen, lol. 
 
 ## PyCon US 2019
+
+May 1-9, Cleveland, Ohio
 
 ![](favorite-conference-photos/pycon-us-2019-me-and-mariatta.jpg)
 Me with one of my Python besties Mariatta (PyCon US 2023/2024 Chair and CPython Core Dev) :)
@@ -81,6 +95,8 @@ Me with one of my Python besties Mariatta (PyCon US 2023/2024 Chair and CPython 
 Proud to have represented DEFNA Board at PyCon Charlas. Here I am with Joel Rivera and the PyLatam logo! 
 
 ## DjangoCon US 2018
+
+October 14-19, San Diego, California
 
 ![](favorite-conference-photos/djangocon-us-2018-me.jpg)
 Happy times! Me front row, left. Photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
@@ -92,6 +108,8 @@ After the conference, I flew to San Francisco. I visited my friend Betty Junod a
 Before I went to Docker, Jack Dorsey tweeted that there would be a tweet up in San Francisco later in the day. When I left Docker, I went to the tweet up at Tacolicious. I met Jack, Twitter co-founder Biz Stone, and a bunch of other Twitter, Inc principals, including then CFO Ned Segal, Head of Product Kayvon Beykpour, early investor Bijan Sabet, and Recode journalist Kurt Wagner. Amazing night! Jack was shockingly nice. When I walked up to the gaggle around him, he asked me my name. Later, I took a pic with him. 
 
 ## PyGotham 2018
+
+October 5-6, New York, New York
 
 ![](favorite-conference-photos/pygotham-2018-han-dynasty.jpg)
 Incredibly, the day before the conference started, I was walking around mid-town Manhattan alone and saw my friend Tim! What are the odds? He invited me to dinner at one of his favorite restaurants. Here I am with Trey, Tim, Kenneth (DjangoCon US 2018 Co-Chair), and Lindsey. A treasured memory.   
