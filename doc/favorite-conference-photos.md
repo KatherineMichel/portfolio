@@ -1,5 +1,7 @@
 # Favorite Conference Photos
 
+Although these photos do not include all of the people who are special to me, they give a taste of the fun and serendipity of my conference travels over the years. In the Python community, as they say, the world is your oyster. 
+
 ## DjangoCon US 2023
 
 October 16-20, Durham, North Carolina
