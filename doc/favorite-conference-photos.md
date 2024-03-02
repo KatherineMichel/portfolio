@@ -44,6 +44,9 @@ Hanging out with Guido at the sprints
 
 ## GitHub Universe 2019
 
+![](favorite-conference-photos/github-universe-2019-nat.JPG)
+After Nat tweeted to me that he'd love meet, I had the chance to talk to him briefly. It was super fun to hear from him in person. Love open source! 
+
 ![](favorite-conference-photos/github-universe-2019-github-hq-tour.JPG)
 At PyGotham 2019, within just a few hours of time, attendees invited me to tour Twitter, GitHub, and Salesforce Tower. During GitHub Universe 2019, I toured Twitter and GitHub. Unfortunately, my friend who worked at Salesforce was ill, so I didn't tour the tower. Here I am at GitHub in front of the iconic Octocat statue. 
 
