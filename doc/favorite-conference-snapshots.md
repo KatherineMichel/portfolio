@@ -35,7 +35,7 @@ October 16-21, San Diego, California
 One night while I was having dinner with favorite author Eric Matthes and now DEFNA Board Member Tim Schilling, former DEFNA Board Member Craig Bruce showed up unexpectedly. What a wonderful surprise! During all of the time that we'd been fellow board members, we'd never actually met in person. As usual, I'd been to the beach earlier in the week and gotten a bit too much sun. :) 
 
 ![](favorite-conference-photos/djangocon-us-2022-me-outside.jpg)
-Me captured through the window enjoying the "hallway track"; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
+Me captured through the window enjoying the "hallway track" standing next to Eric Holscher of Read the Docs and Write the Docs; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ![](favorite-conference-photos/djangocon-us-2022-me-with-noah.jpg)
 Me with wonderful fellow organizer Noah Alorwu; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
