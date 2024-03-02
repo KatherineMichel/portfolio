@@ -9,7 +9,7 @@ Wonderful people... DjangoCon US Organizers; photo credit: Bartek Pawlik (https:
 Standing ovation for organizers during the final remarks... one of many standing ovations over the years. Always a nice feeling. Photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ![](favorite-conference-photos/djangocon-us-2023-me-and-deb.jpg)
-Me and Deb Nicholson, PSF Executive Director... I met Deb unexpectedly at the pre-conference Django Social. It was a pleasure to get the chance to hang out with her throughout the week! I hope to do it again soon. 
+Me and Deb Nicholson, new PSF Executive Director... I met Deb unexpectedly at the pre-conference Django Social. It was a pleasure to get the chance to hang out with her throughout the week! I hope to do it again soon. 
 
 ![](favorite-conference-photos/djangocon-us-2023-me-and-abigail.jpg)
 Me and Abigail Mesrenyame Dogbe. She is bringing open source to Ghana in a big way. 
@@ -72,7 +72,7 @@ My longtime Twitter friend Marcia Dorsey was volunteering at an event outside th
 ## PyCon US 2019
 
 ![](favorite-conference-photos/pycon-us-2019-me-and-mariatta.jpg)
-Me with one of my Python besties Mariatta, PyCon US 2023/2024 Chair and CPython Core Dev :)
+Me with one of my Python besties Mariatta (PyCon US 2023/2024 Chair and CPython Core Dev) :)
 
 ![](favorite-conference-photos/pycon-us-2019-pylatam.jpg)
 Proud to have represented DEFNA Board at PyCon Charlas. Here I am with Joel Rivera and the PyLatam logo! 
@@ -91,13 +91,13 @@ Before I went to Docker, Jack Dorsey tweeted that there would be a tweet up in S
 ## PyGotham 2018
 
 ![](favorite-conference-photos/pygotham-2018-han-dynasty.jpg)
-Incredibly, the day before the conference started, I was walking around mid-town Manhattan alone and saw my friend Tim! What are the odds? He invited me to dinner at one of his favorite restaurants. Here I am with Trey, Tim, Kenneth, and Lindsey. A treasured memory.   
+Incredibly, the day before the conference started, I was walking around mid-town Manhattan alone and saw my friend Tim! What are the odds? He invited me to dinner at one of his favorite restaurants. Here I am with Trey, Tim, Kenneth (DjangoCon US 2018 Co-Chair), and Lindsey. A treasured memory.   
 
 ![](favorite-conference-photos/pygotham-2018-me-and-lacey.jpg)
-Me with the incredible Lacey :)
+Me with the incredible Lacey (DjangoCon US 2017 Chair) :)
 
 ![](favorite-conference-photos/pygotham-2018-me-lindsey-trey-nic.jpg)
-Me with Lindsey, Trey, and Nic during the conference
+Me with Lindsey, Trey, and Nic (DjangoCon US 2018 Co-Chair) during the conference
 
 ## DjangoCon US 2017
 
