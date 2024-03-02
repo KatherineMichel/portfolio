@@ -91,7 +91,7 @@ Before I went to Docker, Jack Dorsey tweeted that there would be a tweet up in S
 ## PyGotham 2018
 
 ![](favorite-conference-photos/pygotham-2018-han-dynasty.jpg)
-Incredibly, the day before the conference started, I was walking around mid-town Manhattan alone and saw my friend Tim! What are the odds? He invited me to dinner at one of his favorite restaurants. Here I am with Trey, Tim, and Lindsey. A treasured memory.   
+Incredibly, the day before the conference started, I was walking around mid-town Manhattan alone and saw my friend Tim! What are the odds? He invited me to dinner at one of his favorite restaurants. Here I am with Trey, Tim, Kenneth, and Lindsey. A treasured memory.   
 
 ![](favorite-conference-photos/pygotham-2018-me-and-lacey.jpg)
 Me with the incredible Lacey :)
