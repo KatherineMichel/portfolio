@@ -37,7 +37,7 @@ Me with wonderful fellow organizer Noah Alorwu; photo credit: Bartek Pawlik (htt
 ## PyCascades 2020
 
 ![](favorite-conference-photos/pycascades-2020-dinner-with-guido.jpg)
-At the end of the conference day, I was hanging out in the lobby among other stragglers and was invited to dinner by my friends Vicky and Jonan. Guido happened to be in attendance. What a magical evening! 
+At the end of a conference day, I was hanging out in the lobby among other stragglers and was invited to dinner by my friends Vicky and Jonan. Guido happened to be in attendance. What a magical evening! 
 
 ![](favorite-conference-photos/pycascades-2020-sprints-hanging-out-with-guido.jpg)
 Hanging out with Guido at the sprints
