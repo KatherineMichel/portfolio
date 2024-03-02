@@ -66,6 +66,8 @@ DEFNA Board group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.
 
 ### DjangoCon US 2023
 
+October 16-20, Durham, North Carolina
+
 ![](speaker-and-organizer-photos/djangocon-us-2023-organizers-outside.jpg)
 Organizers group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -73,6 +75,8 @@ Organizers group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.c
 Organizers during closing remarks (I am hidden behind Dawn lol); photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ### DjangoCon US 2022
+
+October 16-21, San Diego, California
 
 ![](speaker-and-organizer-photos/djangocon-us-2022-organizers-outside.jpg)
 Organizers group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
@@ -82,6 +86,8 @@ Organizers during closing remarks; photo credit: Bartek Pawlik (https://bartpawl
 
 ### DjangoCon US 2019
 
+September 22-27, San Diego, California
+
 ![](speaker-and-organizer-photos/djangocon-us-2019-organizers-outside.jpg)
 Organizers group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -89,6 +95,8 @@ Organizers group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.c
 Organizers during closing remarks; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ### DjangoCon US 2018
+
+October 14-19, San Diego, California
 
 ![](speaker-and-organizer-photos/djangocon-us-2018-organizers-outside.jpg)
 Organizers group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
@@ -100,6 +108,8 @@ Organizers during closing remarks; photo credit: Bartek Pawlik (https://bartpawl
 Organizers during closing remarks; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ### DjangoCon US 2017
+
+August 13-18, Spokane, Washington
 
 ![](speaker-and-organizer-photos/djangocon-us-2017-organizers-stage.jpg)
 Organizers during closing remarks; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
