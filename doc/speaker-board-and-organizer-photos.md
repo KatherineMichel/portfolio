@@ -36,7 +36,7 @@ Panel and crowd; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 ![](speaker-and-organizer-photos/djangocon-us-2017-on-stage.jpg)
 On stage; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
 
-![](speaker-and-organizer-photos/djangocon-us-2017.jpg)
+![](speaker-and-organizer-photos/djangocon-us-2017-on-stage-2.jpg)
 On stage
 
 ![](speaker-and-organizer-photos/djangocon-us-2017-speaker-photo.jpg)
@@ -46,7 +46,7 @@ Speaker photo; photo credit: Adam Gregory (https://atomimages509.wixsite.com/ato
 
 ![](speaker-and-organizer-photos/dev-ict-2017-speaker-photo.jpg)
 Speaker photo
- 
+
 ## Board Photos
 
 ### DjangoCon US 2023
