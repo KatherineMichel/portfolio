@@ -60,11 +60,11 @@ After Nat Friedman, then GitHub CEO, tweeted to me that he'd love meet, I had th
 ![](favorite-conference-photos/github-universe-2019-github-hq-tour.JPG)
 At PyGotham 2019, within just a few hours of time, attendees invited me to tour Twitter, GitHub, and Salesforce Tower. During GitHub Universe 2019, I toured Twitter and GitHub. Unfortunately, my friend who worked at Salesforce was ill, so I didn't tour the tower. Here I am at GitHub in front of the iconic Octocat statue. 
 
-![](favorite-conference-photos/github-universe-2019-twitter-hq-1.jpg)
-Me at Twitter
-
 ![](favorite-conference-photos/github-universe-2019-lunch-with-jigyasa-at-twitter-hq.jpg)
 Me and Jigyasa Grover, machine learning engineer, having tea after lunch at Twitter
+
+![](favorite-conference-photos/github-universe-2019-twitter-hq-1.jpg)
+Me at Twitter
 
 ![](favorite-conference-photos/github-universe-2019-twitter-hq-2.jpg)
 Me at Twitter 
