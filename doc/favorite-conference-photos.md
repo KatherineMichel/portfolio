@@ -22,10 +22,10 @@ Me and Abigail Mesrenyame Dogbe. She is bringing open source to Ghana in a big w
 Me with Jon Gould of Foxley Talent. I was lucky to be gifted this Django Social t-shirt by Jon. 
 
 ![](favorite-conference-photos/djangocon-us-2023-hotel-table.jpg)
-Hanging out with some amazing attendees late into the evening, including fellow organizers and favorite Python/Django authors
+Hanging out with some amazing attendees late into the evening, including fellow DjangoCon US Organizer Drew Winstel and favorite Python/Django authors Eric Matthes and William Vincent
 
 ![](favorite-conference-photos/djangocon-us-2023-board-dinner.jpg)
-DEFNA Board Dinner at the incredible Parizade... a perfect evening
+DEFNA Board Dinner at the incredible Parizade with Peter Grandstaff and Nichole Dominguez... a perfect evening. 
 
 ## DjangoCon US 2022
 
@@ -45,7 +45,7 @@ Me with wonderful fellow organizer Noah Alorwu; photo credit: Bartek Pawlik (htt
 February 8-9, Portland, Oregon
 
 ![](favorite-conference-photos/pycascades-2020-dinner-with-guido.jpg)
-At the end of a conference day, I was hanging out in the lobby among other stragglers and was invited to dinner by my friends Vicky and Jonan. Guido happened to be in attendance. What a magical evening! 
+At the end of a conference day, I was hanging out in the lobby among other stragglers and was invited to dinner by my friends Vicky Tuite and Jonan Scheffler. Python creator and BDFL Guido van Rossum happened to be in attendance. What a magical evening! 
 
 ![](favorite-conference-photos/pycascades-2020-sprints-hanging-out-with-guido.jpg)
 Hanging out with Guido at the sprints
@@ -55,7 +55,7 @@ Hanging out with Guido at the sprints
 November 13-14, San Francisco, California
 
 ![](favorite-conference-photos/github-universe-2019-nat.JPG)
-After Nat, then GitHub CEO, tweeted to me that he'd love meet, I had the chance to talk to him briefly. It was super fun to hear from him in person. Love open source! 
+After Nat Friedman, then GitHub CEO, tweeted to me that he'd love meet, I had the chance to talk to him briefly. It was super fun to hear from him in person. Love open source! 
 
 ![](favorite-conference-photos/github-universe-2019-github-hq-tour.JPG)
 At PyGotham 2019, within just a few hours of time, attendees invited me to tour Twitter, GitHub, and Salesforce Tower. During GitHub Universe 2019, I toured Twitter and GitHub. Unfortunately, my friend who worked at Salesforce was ill, so I didn't tour the tower. Here I am at GitHub in front of the iconic Octocat statue. 
@@ -94,7 +94,7 @@ May 1-9, Cleveland, Ohio
 Me with one of my Python besties Mariatta (PyCon US 2023/2024 Chair and CPython Core Dev) :)
 
 ![](favorite-conference-photos/pycon-us-2019-pylatam.jpg)
-Proud to have represented DEFNA Board at PyCon Charlas. Here I am with Joel Rivera and the PyLatam logo! 
+Proud to have represented DEFNA Board at PyCon Charlas (Spanish talks). Here I am with Joel Rivera and the PyLatam logo! 
 
 ## DjangoCon US 2018
 
@@ -114,13 +114,13 @@ Before I went to Docker, Jack Dorsey tweeted that there would be a tweet up in S
 October 5-6, New York, New York
 
 ![](favorite-conference-photos/pygotham-2018-han-dynasty.jpg)
-Incredibly, the day before the conference started, I was walking around mid-town Manhattan alone and saw my friend Tim! What are the odds? He invited me to dinner at one of his favorite restaurants. Here I am with Trey, Tim, Kenneth (DjangoCon US 2018 Co-Chair), and Lindsey. A treasured memory.   
+Incredibly, the day before the conference started, I was walking around mid-town Manhattan alone and saw my friend Tim! What are the odds? He invited me to dinner at one of his favorite restaurants. Here I am with Trey Hunner, Tim Allen, Kenneth Love (DjangoCon US 2018 Co-Chair), and Lindsey Dragun. A treasured memory.   
 
 ![](favorite-conference-photos/pygotham-2018-me-and-lacey.jpg)
-Me with the incredible Lacey (DjangoCon US 2017 Chair) :)
+Me with the incredible Lacey Williams Henschel (DjangoCon US 2017 Chair). She was giving a talk What if Jane Austen had been an engineer? :)
 
 ![](favorite-conference-photos/pygotham-2018-me-lindsey-trey-nic.jpg)
-Me with Lindsey, Trey, and Nic (DjangoCon US 2018 Co-Chair) during the conference
+Me with Lindsey Dragun, Trey Hunner, and Nicole James (DjangoCon US 2018 Co-Chair) during the conference
 
 ## DjangoCon US 2017
 
