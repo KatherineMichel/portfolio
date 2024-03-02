@@ -11,13 +11,15 @@ Table of Contents
 
 ### JPMorgan Chase 2023- DjangoCon US Recap
 
+December 6, 2023
+
 ![](speaker-and-organizer-photos/jpmorgan-chase-2023-djangocon-us-recap.jpg)
 
 ![](speaker-and-organizer-photos/jpmorgan-chase-2023-djangocon-us-recap-2.jpg)
 
 ### DjangoCon US 2021
 
-October 21-23, online
+October 22, 2021
 
 ![](speaker-and-organizer-photos/djangocon-us-2021-get-a-jumpstart-english.png)
 My pre-recorded talk Get a Jumpstart on Collaboration and Code Review in GitHub playing simultaneously in English and Spanish
@@ -26,6 +28,8 @@ My pre-recorded talk Get a Jumpstart on Collaboration and Code Review in GitHub 
 My pre-recorded talk Get a Jumpstart on Collaboration and Code Review in GitHub playing simultaneously in English and Spanish
 
 ### DjangoCon US 2018- State of Django Panel
+
+October 17, 2018
 
 ![](speaker-and-organizer-photos/djangocon-us-2018-state-of-django-panel-side.jpg)
 On stage; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
@@ -41,6 +45,8 @@ Panel and crowd; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ### DjangoCon US 2017- Get a Jumpstart on Collaboration and Code Review in GitHub Talk
 
+August 14, 2017
+
 ![](speaker-and-organizer-photos/djangocon-us-2017-on-stage.jpg)
 On stage; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
 
@@ -52,6 +58,8 @@ Speaker photo; photo credit: Adam Gregory (https://atomimages509.wixsite.com/ato
 
 ### DevICT Hacktoberfest Meetup- Get a Jumpstart on Collaboration and Code Review in GitHub Talk
 
+September 28, 2017
+
 ![](speaker-and-organizer-photos/dev-ict-2017-speaker-photo.jpg)
 Speaker photo
 
@@ -59,7 +67,7 @@ Speaker photo
 
 ### DjangoCon US 2023
 
-October 16-20, Durham, North Carolina
+October 18, Durham, North Carolina
 
 ![](speaker-and-organizer-photos/djangocon-us-2023-defna-board-outside.jpg)
 DEFNA Board group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
