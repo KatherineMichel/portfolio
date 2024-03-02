@@ -15,7 +15,7 @@ Welcome to Kati's Portfolio!
    :caption: About:
 
    speaker-board-and-organizer-photos.md
-   favorite-conference-photos.md
+   favorite-conference-snapshots.md
 
 .. toctree::
    :maxdepth: 2
