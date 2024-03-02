@@ -140,10 +140,10 @@ Me with Lindsey Dragun, Trey Hunner, and Nicole James (DjangoCon US 2018 Co-Chai
 August 13-18, Spokane, Washington
 
 ![](favorite-conference-photos/djangocon-us-2017-on-stage.jpg)
-Me giving my talk Get a Jumpstart on Collaboration and Code Review in GitHub; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
+Me giving my talk Get a Jumpstart on Collaboration and Code Review in GitHub. I gave my first conference talk at the first conference that I ever attended. I practiced using the AV system at a local church. I realized later that I had a lot of room for improvement (the speaker ahead of me was a veteran public speaker and technologist and watching her made me see how well it could be done), but it was a start. DjangoCon US loves to be the place where people get their start giving talks. :) Photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
 
 ![](favorite-conference-photos/djangocon-us-2017-speaker-photo.jpg)
-Speaker photo; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
+Speaker photo... representing Lawrence, Kansas, the birthplace of Django with a KU Basketball t-shirt; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
 
 ![](favorite-conference-photos/djangocon-us-2017-headshot-by-melanie-arbor.jpg)
 A treasured head shot taken by my friend Melanie Arbor during the sprints
