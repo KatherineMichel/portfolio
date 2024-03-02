@@ -100,6 +100,9 @@ Proud to have represented DEFNA Board at PyCon Charlas (Spanish talks). Here I a
 
 October 14-19, San Diego, California
 
+![](favorite-conference-photos/djangocon-us-2018-state-of-django-panel-me-speaking.jpg)
+Taking part in the State of Django Panel; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
+ 
 ![](favorite-conference-photos/djangocon-us-2018-me.jpg)
 Happy times! Me front row, left. Photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
@@ -125,6 +128,12 @@ Me with Lindsey Dragun, Trey Hunner, and Nicole James (DjangoCon US 2018 Co-Chai
 ## DjangoCon US 2017
 
 August 13-18, Spokane, Washington
+
+![](favorite-conference-photos/djangocon-us-2017-on-stage.jpg)
+On stage; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
+
+![](favorite-conference-photos/djangocon-us-2017-speaker-photo.jpg)
+Speaker photo; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
 
 ![](favorite-conference-photos/djangocon-us-2017-headshot-by-melanie-arbor.jpg)
 A treasured head shot taken by my friend Melanie Arbor during the sprints
