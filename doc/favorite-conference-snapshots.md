@@ -40,6 +40,16 @@ Me captured through the window enjoying the "hallway track"; photo credit: Barte
 ![](favorite-conference-photos/djangocon-us-2022-me-with-noah.jpg)
 Me with wonderful fellow organizer Noah Alorwu; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
+## DjangoCon US 2021
+
+October 21-23, online
+
+![](favorite-conference-photos/djangocon-us-2021-get-a-jumpstart-english.png)
+My pre-recorded talk Get a Jumpstart on Collaboration and Code Review in GitHub playing simultaneously in English and Spanish
+
+![](favorite-conference-photos/djangocon-us-2021-get-a-jumpstart-spanish.png)
+My pre-recorded talk Get a Jumpstart on Collaboration and Code Review in GitHub playing simultaneously in English and Spanish
+ 
 ## PyCascades 2020
 
 February 8-9, Portland, Oregon
