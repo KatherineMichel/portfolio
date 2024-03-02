@@ -140,7 +140,7 @@ Me with Lindsey Dragun, Trey Hunner, and Nicole James (DjangoCon US 2018 Co-Chai
 October 6-7, New York, New York
 
 ![](favorite-conference-photos/pygotham-2017-dinner.jpg)
-My second ever conference, treated to dinner by local attendees who wanted to make new friends and thank us for coming. 
+My second ever conference, treated to dinner by local attendees who wanted to make new friends and thank out-of-towners for coming. 
 
 ## DjangoCon US 2017
 
