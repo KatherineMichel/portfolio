@@ -17,7 +17,7 @@ Me and Deb Nicholson, new PSF Executive Director... I met Deb unexpectedly at th
 Me and Abigail Mesrenyame Dogbe. She is bringing open source to Ghana in a big way. 
 
 ![](favorite-conference-photos/djangocon-us-2023-me-and-jon.jpg)
-Me with Jon Gould of Foxley Talent. I was lucky to be gifted this Django Social t-shirt. 
+Me with Jon Gould of Foxley Talent. I was lucky to be gifted this Django Social t-shirt by Jon. 
 
 ![](favorite-conference-photos/djangocon-us-2023-hotel-table.jpg)
 Hanging out with some amazing attendees late into the evening, including fellow organizers and favorite Python/Django authors
