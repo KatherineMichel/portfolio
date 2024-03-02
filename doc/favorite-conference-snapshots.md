@@ -22,7 +22,7 @@ Me and Abigail Mesrenyame Dogbe. She is bringing open source to Ghana in a big w
 Me with Jon Gould of Foxley Talent. I was lucky to be gifted this Django Social t-shirt by Jon. 
 
 ![](favorite-conference-photos/djangocon-us-2023-hotel-table.jpg)
-Hanging out with some amazing attendees late into the evening, including fellow DjangoCon US Organizer Drew Winstel and favorite Python/Django authors Eric Matthes and William Vincent
+Hanging out with some amazing attendees late into the evening, including fellow DjangoCon US Organizer Drew Winstel and favorite Python/Django authors Eric Matthes and William Vincent. Photo credit: Paolo Melchiorre
 
 ![](favorite-conference-photos/djangocon-us-2023-board-dinner.jpg)
 DEFNA Board Dinner at the incredible Parizade with Peter Grandstaff and Nichole Dominguez... a perfect evening. 
