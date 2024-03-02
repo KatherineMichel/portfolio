@@ -45,10 +45,10 @@ Me with wonderful fellow organizer Noah Alorwu; photo credit: Bartek Pawlik (htt
 October 21-23, online
 
 ![](favorite-conference-photos/djangocon-us-2021-get-a-jumpstart-english.png)
-My pre-recorded talk Get a Jumpstart on Collaboration and Code Review in GitHub playing simultaneously in English and Spanish
+Following in the footsteps of PyCon US and with multiple Spanish-speakers on our DEFNA Board, we decided to have a Charlas track. Giving a talk in Spanish had been on my bucket list for quite some time. I decided to submit a proposal and it was accepted. I ended up recording the talk in both Spanish and English, and they were both played simultaneously. My pre-recorded talk Get a Jumpstart on Collaboration and Code Review in GitHub playing in English. 
 
 ![](favorite-conference-photos/djangocon-us-2021-get-a-jumpstart-spanish.png)
-My pre-recorded talk Get a Jumpstart on Collaboration and Code Review in GitHub playing simultaneously in English and Spanish
+My pre-recorded talk Get a Jumpstart on Collaboration and Code Review in GitHub playing in Spanish
  
 ## PyCascades 2020
 
