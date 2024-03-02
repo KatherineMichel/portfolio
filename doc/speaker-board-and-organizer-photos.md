@@ -59,6 +59,8 @@ Speaker photo
 
 ### DjangoCon US 2023
 
+October 16-20, Durham, North Carolina
+
 ![](speaker-and-organizer-photos/djangocon-us-2023-defna-board-outside.jpg)
 DEFNA Board group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
