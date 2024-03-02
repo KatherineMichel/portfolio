@@ -44,11 +44,11 @@ I was lucky to be invited to dinner. Guido happened to be in attendance. What a 
  
 ## GitHub Universe 2019
 
-![](favorite-conference-photos/github-universe-2019-twitter-hq-1.jpg)
+![](favorite-conference-photos/github-universe-2019-github-hq-tour.JPG)
 At PyGotham 2019, within just a few hours of time, attendes invited me to tour Twitter, GitHub, and Salesforce Tower. During GitHub Universe 2019, I toured Twitter and GitHub. Unfortunately, my friend who worked at Salesforce was ill, so I didn't tour the tower. 
 
-![](favorite-conference-photos/github-universe-2019-github-hq-tour.JPG)
-Me at GitHub
+![](favorite-conference-photos/github-universe-2019-twitter-hq-1.jpg)
+Me at Twitter
 
 ![](favorite-conference-photos/github-universe-2019-lunch-with-jigyasa-at-twitter-hq.jpg)
 Me and Jigyasa Grover having tea after lunch at Twitter
@@ -93,7 +93,7 @@ I heard there was a Twitter Tweet Up. I went there and met Jack and a bunch of o
 ![](favorite-conference-photos/pygotham-2018-me-and-lacey.jpg)
 Me with the incredible Lacey :)
 
-![](favorite-conference-photos/pygotham-2018-lindsey-trey-nic-me.jpg)
+![](favorite-conference-photos/pygotham-2018-me-lindsey-trey-nic.jpg)
 Me with Lindsey, Trey, and Nic
 
 ## DjangoCon US 2017
