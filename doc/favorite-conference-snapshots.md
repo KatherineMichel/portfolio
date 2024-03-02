@@ -1,6 +1,6 @@
-# Favorite Conference Photos
+# Favorite Conference Snapshots
 
-Although these photos do not include all of the people who are special to me, they give a taste of the fun and serendipity of my conference travels over the years. In the Python community, as they say, the world is your oyster. 
+Although these snapshots do not include all of the people who are special to me, they give a taste of the fun and serendipity of my conference travels over the years. In the Python community, as they say, the world is your oyster. 
 
 ## DjangoCon US 2023
 
