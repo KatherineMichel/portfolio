@@ -17,6 +17,14 @@ Table of Contents
 
 ### DjangoCon US 2021
 
+October 21-23, online
+
+![](speaker-and-organizer-photos/djangocon-us-2021-get-a-jumpstart-english.png)
+My pre-recorded talk Get a Jumpstart on Collaboration and Code Review in GitHub playing simultaneously in English and Spanish
+
+![](speaker-and-organizer-photos/djangocon-us-2021-get-a-jumpstart-spanish.png)
+My pre-recorded talk Get a Jumpstart on Collaboration and Code Review in GitHub playing simultaneously in English and Spanish
+
 ### DjangoCon US 2018- State of Django Panel
 
 ![](speaker-and-organizer-photos/djangocon-us-2018-state-of-django-panel-side.jpg)
