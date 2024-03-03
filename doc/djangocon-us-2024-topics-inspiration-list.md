@@ -2,13 +2,29 @@
 
 Published March 3, 2024
 
+New Features and Future Outlook
+* New Django features
+* New Python features of interest to Django devs
+* Django Roadmap and Workshop conversation (see [Tim Schilling's Roadmap Ideas](https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/), [Paolo's Roadmap Ideas](https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/), and Thibaud's call for an [Informal Roadmap and Retrospective Workshop](https://forum.djangoproject.com/t/informal-roadmap-retrospective-workshops-for-django/26835 ))
+
+Django Core
+* Learning more about our new fellow :)
+* Contributing to Django
+* Update on [Accessibility Team work](https://www.djangoproject.com/weblog/2024/feb/10/django-accessibility-in-2023-and-beyond/)
+
+Django Software Foundation
+* Update on new [workgroups structure](https://github.com/django/dsf-working-groups) and progress
+* Update on [definition of DSF membership](https://www.djangoproject.com/weblog/2024/jan/10/dsf-membership/)
+
+Diversity
+* Where we stand in bringing more diversity to: our steering council, core dev, contributor base, community
+* Update on Djangonaut Space
+* New initiatives: [Hidden Figures of Python Podcast](https://pypodcats.live/) (women make up "only 17% of invited guests among the popular podcast series")
+
+   
 Performance
 * Django profiling
 * Database optimization at scale
-
-Alternative Django Use Cases
-* Orchestration
-* Multi-tenancy
 
 Novel Uses for Django
 * Experimental apps
@@ -17,7 +33,17 @@ Novel Uses for Django
 * Your interesting Django story/adventure
 * Lessons from managing/scaling Django in a unique or difficult way in your company
 * Using Django for social good
+
+Alternative Django Use Cases
+* Orchestration
+* Multi-tenancy
   
+Opinionated Django
+* Django deployment options and tradeoffs in 2023
+* Different ways of doing things in Django and when to use which option
+* The best tools/packages to have in your Django toolbox in 2023
+* Favorite workflows, Git, CI/CD, GitHub Actions, local/prod, developer experience tools, etc. 
+
 API
 * Django Ninja versus Django Rest Framework
 * Fast API
@@ -45,33 +71,10 @@ Python Packaging and Open Source
 * Adventures in open source Django development
 * How to get started with open source, Django open source, packaging
   
-Django Core
-* Learning more about our new fellow :)
-* Contributing to Django
-* Update on Accessibility Team work
-
-Addressing Hard Topics/Making New Progress
-* Where we stand in bringing more diversity to: our steering council, core dev, contributor base, community
-* Update on Djangonaut Space
-* New initiatives: PyPodcats (women make up "only 17% of invited guests among the popular podcast series")
-
-Django Software Foundation
-* Update on workgroups transition
-
   
 <!--
-New Features and Future Outlook
-* New Django features
-* New Python features of interest to Django devs
 * Django retrospective (where it has been, where it is now, is it in a good place relative to itself and other web dev frameworks?)
-* What's on the horizon or could/should be on the roadmap
-
-Opinionated Django
-* Django deployment options and tradeoffs in 2023
-* Different ways of doing things in Django and when to use which option
-* The best tools/packages to have in your Django toolbox in 2023
-* Favorite workflows, Git, CI/CD, GitHub Actions, local/prod, developer experience tools, etc. 
-
+ 
 How to Raise Your Game
 * Practical async (going beyond the docs and a few tutorials to using day to day)
 * Security (OWASP 10 and Django)
