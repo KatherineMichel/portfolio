@@ -68,7 +68,7 @@ How to Use/Better Popular CMS
 
 Learning
 * Flexing your problem solving chops
-* Recursion (looking at you, [Al Sweigart](https://inventwithpython.com/recursion/))
+* Recursion (looking at you, [Al Sweigart](https://nostarch.com/recursive-book-recursion))
 * Great learning resources and the people who created them
 * Strategies for effective learning
   
