@@ -1,10 +1,58 @@
 # DjangoCon US 2024 Topics Inspiration List
 
+Published March 3, 2024
+
+In the News
+* New developments in Pytho/Django packaging landscape, including [uv package manager](https://github.com/astral-sh/uv)
+* Django Ninja versus Django Rest Framework
+* Co-Pilot, ChatGPT, etc. for Django devs 
+
+Novel uses for Django
+* Experimental apps
+* Historically relevant apps
+* Your interesting Django story/adventure
+* Lessons from managing/scaling Django in a unique or difficult way in your company
+* Prototyping with Django for fun and profit
+  
+Performance
+* Django profiling
+* Database optimization at scale
+
+Problem Solving Techniques
+* Flexing your problem solving chops
+* Recursion (looking at you, Al Sweigart)
+
+Alternative Django Use Cases
+* Orchestration
+* Multi-tenancy
+
+API
+* Django Ninja versus Django Rest Framework
+* Fast API
+
+How to Use/Better Popular CMS
+* Wagtail
+* Butter CMS
+
+Python Packaging and Open Source
+* Adventures in open source Django development
+* How to get started with open source, Django open source, packaging
+  
+Django Core
+* Learning more about our new fellow :)
+* Contributing to Django
+* Update on Accessibility Team work
+
+Addressing Hard Topics/Making New Progress
+* Where we stand in bringing more diversity to: our steering council, core dev, contributor base, community
+* Update on Djangonaut Space
+* New initiatives: (women make up "only 17% of invited guests among the popular podcast series")
+
+Django Software Foundation
+* Update on workgroups transition
+
+  
 <!--
-# DjangoCon US 2023 Topics Inspiration List
-
-Published May 6, 2023
-
 New Features and Future Outlook
 * New Django features
 * New Python features of interest to Django devs
@@ -23,20 +71,7 @@ How to Raise Your Game
 * Testing (pytest, Playwright, Selenium, etc). 
 * Type hinting
 * Lesser known, but highly useful Django features
-* Database optimization
 * Website optimization
-
-Python Packaging and Open Source
-* New developments in Python/Django packaging
-* Adventures in open source Django development
-* How to get started with open source, Django open source, packaging
-
-Novel uses for Django
-* Experimental apps
-* Historically relevant apps
-* Your interesting Django story/adventure
-* Lessons from managing/scaling Django in a unique or difficult way in your company
-* Prototyping with Django for fun and profit
 
 New-ish or Experimental Technologies
 * Co-Pilot, ChatGPT, etc. for Django devs 
@@ -48,26 +83,13 @@ New-ish or Experimental Technologies
 * Datasette
 * What tools I haven't heard about, but would want to know about
 
-How to Use/Better Use Popular Add On Tools (Admin, API, etc.)
-* Wagtail
-* Butter CMS
-* Django Rest Framework
-* Fast API
-
 Team, Leadership, Building, Learning
 * Product management (features, prioritization, OKRs, teamwork, etc.)
 * Lessons from software engineering management
 * Interesting mental models, productivity methods, learning approaches, the counter-intuitive
 * Educators/authors in our community (their experiences and thoughts about how to learn effectively)
+-->
 
-Django Fellows
-* Getting to know what they do, how core works
-* Contributing to Django
-* Learning more about our new fellow :)
-
-Addressing Hard Topics/Making New Progress
-* How to bring more diversity to: our steering council, core dev, contributor base, community
-
+<!--
 For even more ideas, see my fellow DEFNA Board Member Jeff Triplett's [list](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/).
-
 -->
