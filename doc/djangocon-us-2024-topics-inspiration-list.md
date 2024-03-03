@@ -2,30 +2,22 @@
 
 Published March 3, 2024
 
-In the News
-* New developments in Pytho/Django packaging landscape, including [uv package manager](https://github.com/astral-sh/uv)
-* Django Ninja versus Django Rest Framework
-* Co-Pilot, ChatGPT, etc. for Django devs 
-
-Novel uses for Django
-* Experimental apps
-* Historically relevant apps
-* Your interesting Django story/adventure
-* Lessons from managing/scaling Django in a unique or difficult way in your company
-* Prototyping with Django for fun and profit
-  
 Performance
 * Django profiling
 * Database optimization at scale
-
-Problem Solving Techniques
-* Flexing your problem solving chops
-* Recursion (looking at you, Al Sweigart)
 
 Alternative Django Use Cases
 * Orchestration
 * Multi-tenancy
 
+Novel Uses for Django
+* Experimental apps
+* Prototyping with Django for fun and profit
+* Historically relevant apps
+* Your interesting Django story/adventure
+* Lessons from managing/scaling Django in a unique or difficult way in your company
+* Using Django for social good
+  
 API
 * Django Ninja versus Django Rest Framework
 * Fast API
@@ -34,7 +26,22 @@ How to Use/Better Popular CMS
 * Wagtail
 * Butter CMS
 
+New-ish or Experimental Technologies
+* Co-Pilot, ChatGPT, etc. for Django devs 
+* React/HTMX debate (see Chris May's great talk last year about using HTMX, Alpine.js, and Streaming HTML)
+* Using JavaScript and Django together: Alpine, Svelte, etc. 
+* Tailwind
+* PyScript
+* WASM
+* Datasette
+* What tools I haven't heard about, but would want to know about
+
+Problem Solving Techniques
+* Flexing your problem solving chops
+* Recursion (looking at you, Al Sweigart)
+
 Python Packaging and Open Source
+* New developments in Pytho/Django packaging landscape, including [uv package manager](https://github.com/astral-sh/uv)
 * Adventures in open source Django development
 * How to get started with open source, Django open source, packaging
   
@@ -46,7 +53,7 @@ Django Core
 Addressing Hard Topics/Making New Progress
 * Where we stand in bringing more diversity to: our steering council, core dev, contributor base, community
 * Update on Djangonaut Space
-* New initiatives: (women make up "only 17% of invited guests among the popular podcast series")
+* New initiatives: PyPodcats (women make up "only 17% of invited guests among the popular podcast series")
 
 Django Software Foundation
 * Update on workgroups transition
@@ -72,16 +79,6 @@ How to Raise Your Game
 * Type hinting
 * Lesser known, but highly useful Django features
 * Website optimization
-
-New-ish or Experimental Technologies
-* Co-Pilot, ChatGPT, etc. for Django devs 
-* PyScript
-* WASM
-* React/HTMX debate
-* Using JavaScript and Django together: Alpine, Svelte, etc. 
-* Tailwind
-* Datasette
-* What tools I haven't heard about, but would want to know about
 
 Team, Leadership, Building, Learning
 * Product management (features, prioritization, OKRs, teamwork, etc.)
