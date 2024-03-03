@@ -29,8 +29,14 @@ Welcome to Kati's Portfolio!
    :caption: My Craft:
 
    what-i-am-paying-attention-to-in-2024.md
-   djangocon-us-2023-topics-inspiration-list.md
    reflections-on-stanford-code-in-place.md
+
+.. toctree::
+   :maxdepth: 2
+   :caption: DjangoCon US Talk Topic Inspiration Lists:
+
+   djangocon-us-2024-topics-inspiration-list.md
+   djangocon-us-2023-topics-inspiration-list.md
 
 .. toctree::
    :maxdepth: 2
