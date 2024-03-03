@@ -25,8 +25,17 @@ Diversity
 Python Packaging and Open Source
 * New developments in Pytho/Django packaging landscape, including [uv package manager](https://github.com/astral-sh/uv)
 
+How to Raise Your Game
+* Lesser known, but highly useful Django features
+* Practical Django profiling, optimization
+* Security (OWASP 10 and Django, how Django does security)
+* Testing (pytest, Playwright, Selenium, etc). 
+* Type hinting
+* Patterns and architectures
+* Practical async (going beyond the docs and a few tutorials to using day to day)
+
 New-ish or Experimental Technologies
-* React/HTMX debate (see Chris May's great talk last year about using HTMX, Alpine.js, and Streaming HTML)
+* React/HTMX debate (see Chris May's great talk last year about using [HTMX, Alpine.js, and Streaming HTML](https://youtu.be/kYV8K71pY64?si=JQLO3HGPo87Sef41) and the work to be done)
 * Using JavaScript and Django together: Alpine, Svelte, etc. 
 * Tailwind
 * WASM
@@ -43,14 +52,6 @@ Database
 * Database tradeoffs: Postgres, CockroachDB, SQL, etc. 
 * Datasette
 
-How to Raise Your Game
-* Lesser known, but highly useful Django features
-* Practical Django profiling, optimization
-* Security (OWASP 10 and Django, how Django does security)
-* Testing (pytest, Playwright, Selenium, etc). 
-* Type hinting
-* Practical async (going beyond the docs and a few tutorials to using day to day)
-
 Opinionated Django
 * Django deployment options and tradeoffs in 2023
 * Different ways of doing things in Django and when to use which option
@@ -66,11 +67,11 @@ How to Use/Better Popular CMS
 * Butter CMS
 
 Learning
+* Flexing your problem solving chops
+* Recursion (looking at you, [Al Sweigart](https://inventwithpython.com/recursion/))
 * Great learning resources and the people who created them
 * Strategies for effective learning
-* Flexing your problem solving chops
-* Recursion (looking at you, Al Sweigart)
-
+  
 Novel Uses for Django
 * Experimental apps
 * Prototyping with Django for fun and profit
@@ -79,14 +80,14 @@ Novel Uses for Django
 * Lessons from managing/scaling Django in a unique or difficult way in your company
 * Using Django for social good
 
-Python/Django and Open Source
-* Adventures in open source Django development
-* How to get started with open source, Django open source, packaging
-
 Team, Leadership, Building
 * Product management (features, prioritization, OKRs, teamwork, etc.)
 * Lessons from software engineering management
 * Interesting mental models, productivity methods, learning approaches, the counter-intuitive
+
+Python/Django and Open Source
+* Adventures in open source Django development
+* How to get started with open source, Django open source, packaging
 
 <!--
 For even more ideas, see my fellow DEFNA Board Member Jeff Triplett's [list](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/).
