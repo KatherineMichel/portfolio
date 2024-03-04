@@ -133,7 +133,7 @@ Incredibly, the day before the conference started, I was walking around mid-town
 Me with the incredible Lacey Williams Henschel (DjangoCon US 2017 Chair). She was giving a talk What if Jane Austen had been an engineer? :)
 
 ![](favorite-conference-photos/pygotham-2018-me-lindsey-trey-nic.jpg)
-Me with Lindsey Dragun, Trey Hunner, and Nicole James (DjangoCon US 2018 Co-Chair) during the conference
+Me with Lindsey Dragun, Trey Hunner, and Nicholle James (DjangoCon US 2018 Co-Chair) during the conference
 
 ## PyGotham 2017
 
