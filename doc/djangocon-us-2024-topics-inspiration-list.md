@@ -53,9 +53,9 @@ Database
 * Datasette
 
 Opinionated Django
-* Django deployment options and tradeoffs in 2023
+* Django deployment options and tradeoffs in 2024
 * Different ways of doing things in Django and when to use which option
-* The best tools/packages to have in your Django toolbox in 2023
+* The best tools/packages to have in your Django toolbox in 2024
 * Favorite workflows, Git, CI/CD, GitHub Actions, local/prod, developer experience tools, etc. 
 
 API
