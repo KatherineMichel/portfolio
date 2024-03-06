@@ -23,7 +23,7 @@ Diversity
 * New initiatives: [Hidden Figures of Python Podcast](https://pypodcats.live/) (women make up "only 17% of invited guests among the popular podcast series")
 
 Python Packaging and Open Source
-* New developments in Pytho/Django packaging landscape, including [uv package manager](https://github.com/astral-sh/uv)
+* New developments in Python/Django packaging landscape, including [uv package manager](https://github.com/astral-sh/uv)
 
 How to Raise Your Game
 * Lesser known, but highly useful Django features
