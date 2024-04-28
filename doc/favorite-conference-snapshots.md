@@ -2,6 +2,15 @@
 
 Although these snapshots do not include all of the people who are special to me, they give a taste of the fun and serendipity of my conference travels over the years. In the Python community, as they say, the world is your oyster. A huge thank you to everyone who has made these incredible experiences possible over the years. 
 
+## PyTexas 2024
+
+![](favorite-conference-photos/pytexas-2024-jason-koo.jpg)
+
+## DjangoCon US 2024
+
+![](favorite-conference-photos/djangocon-us-2024-lemur-1.jpg)
+![](favorite-conference-photos/djangocon-us-2024-lemur-2.jpg)
+
 ## DjangoCon US 2023
 
 October 16-20, Durham, North Carolina
