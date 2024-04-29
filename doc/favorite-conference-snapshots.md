@@ -14,7 +14,7 @@ I met Jason Koo at DjangoCon US 2022 in San Diego where he generously helped as 
 September 22-27, 2024, Durham, North Carolina
 
 ![](favorite-conference-photos/djangocon-us-2024-lemur-1.jpg)
-As a DEFNA Board Member, I help oversee DjangoCon US, including the website design. Because our host city Durham, North Carolina has the largest population of lemurs outside of Madagascar, we featured a "friendly" lemur on our website last year. After years of hearing about Tanganyika Wildlife Park in Goddard, Kansas, mom and I decided to go today. I had no idea until I got there that you can feed lemurs. They were so soft and gentle. I loved spending time with these real-life, friendly lemurs!
+As a DEFNA Board Member, I help oversee DjangoCon US, including the website design. Because our host city Durham, North Carolina has the largest population of lemurs outside of Madagascar, we featured a "friendly" lemur on our website last year. After years of hearing about Tanganyika Wildlife Park in Goddard, Kansas, mom and I decided to go on April 6. I had no idea until I got there that you can feed lemurs. They were so soft and gentle. I loved spending time with these real-life, friendly lemurs!
 
 ![](favorite-conference-photos/djangocon-us-2024-lemur-2.jpg)
 A lemur holding hold my hand while it eats a Craisin out of my palm! 
