@@ -4,10 +4,14 @@ Although these snapshots do not include all of the people who are special to me,
 
 ## PyTexas 2024
 
+April 19-21, Austin, Texas
+
 ![](favorite-conference-photos/pytexas-2024-jason-koo.jpg)
 I met Jason Koo at DjangoCon US 2022 in San Diego where he generously helped as an organizer. It was great to see him again, and I look forward to learning more about Neo4j Graph Database! On the bright, sunny, second day of PyTexas, he invited me to be in this photo. It was a pleasure to get a snapshot next to my incredible friend Carol Willing. She had given an amazing keynote that morning. It is a must watch! I was also standing next to Josh Cannon who read the very clever Oh the (Methods) You Can (Make) book by Dunder Seuss. 
 
 ## DjangoCon US 2024
+
+September 22-27, 2024, Durham, North Carolina
 
 ![](favorite-conference-photos/djangocon-us-2024-lemur-1.jpg)
 As a DEFNA Board Member, I help oversee DjangoCon US, including the website design. Because our host city Durham, North Carolina has the largest population of lemurs outside of Madagascar, we featured a "friendly" lemur on our website last year. After years of hearing about Tanganyika Wildlife Park in Goddard, Kansas, mom and I decided to go today. I had no idea until I got there that you can feed lemurs. They were so soft and gentle. I loved spending time with these real-life, friendly lemurs!
