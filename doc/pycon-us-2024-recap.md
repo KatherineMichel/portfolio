@@ -694,7 +694,7 @@ If everything is in pure Python, the Python team has full control over the inter
 
 At the moment, disabling the GIL generally makes Python code run slower. There are optimizations that have been disabled when the GIL is turned off, because they need to be made thread-safe before they can be used. 
 
-Anthony gave a demo some closing thoughts with Terms and Conditions. 
+Anthony gave a demo followed by some closing thoughts with Terms and Conditions. 
 
 ![](pycon-us-2024-recap-images/anthony-terms-and-conditions.png)
 Terms and conditions
