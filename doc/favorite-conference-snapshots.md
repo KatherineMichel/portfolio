@@ -19,6 +19,9 @@ My friend Melanie Arbor takes great profile pics. At DjangoCon US 2017, she took
 ![](favorite-conference-snapshots/pycon-us-2024-me-and-benedict.jpg)
 When I create this page of favorite conference snapshots, Benedict Kofi Amofah tweeted to me that he'd be in the gallery soon. I took him up on it. :) 
 
+![](favorite-conference-snapshots/pycon-us-2024-black-python-devs-durham.png)
+Although not a typical snapshot, this screenshot from K. Jay Miller's talk about Black Python Devs is special to me. They are snapshots from DjangoCon US 2023 in Durham, North Carolina. Jay highlighted DjangoCon US as a place where Black Python Devs were empowered.
+
 ![](favorite-conference-snapshots/pycon-us-2024-me-and-abigail.jpg)
 Me and Abigail Mesrenyame Dogbe
 
