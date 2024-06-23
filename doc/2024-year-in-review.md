@@ -24,11 +24,12 @@ Top videos
 
 DjangoCon US 2023 Recap 
 Featured in Django News Newsletter- was their top link for months. 
-Get stats
+Get stats- how long at the top and how many views
 
 March 3
 https://katherinemichel.github.io/portfolio/djangocon-us-2024-topics-inspiration-list.html
 Featured in Django News Newsletter- link
+Along with lists by Drew and Jeff?
 Talk submission stats
 2024: 194
 2023: 189
@@ -61,9 +62,13 @@ Databases connections
 
 PyCon US 2024
 https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html
-Reached #2 on Hacker News... kudos from Kenneth, Trey, Seth, Hugo, etc. 
+Reached #2 on Hacker News
+https://news.ycombinator.com/item?id=40552621
+Kudos from Kenneth, Trey, Seth, Hugo, etc. 
+Many DMs
 Screenshot
-Cited by Hugo as must read recap- link
+Cited by new Python Release Manager Hugo as must-read conference recap
+https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj
 Featured in Django News Newsletter- link
 
 Felt I was able to further grow my network and have a deeper understanding of subjects
@@ -76,7 +81,7 @@ June
 Attended DFW Pythoneers
 
 June
-Created PyCon US 2024 Recap presentation
+Created PyCon US 2024 Recap presentation based on my blog post
 
 September
 DjangoCon US 2024
