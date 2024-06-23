@@ -2,7 +2,8 @@
 
 <!--
 Switched teams
-Work highlights- reduced
+Work highlights- significantly reduced time, n+1
+CockroachDB
 Grew in capability- things once more difficult for me became day-to-day tasks
 Challenges of scale and security were good for me
 Task orchestration and distributed systems engineering
@@ -12,6 +13,7 @@ Sick 3 times
 March 8
 Even as it improved, it continued... 
 Feel lucky to be well
+Gave me an appreciation
 
 2023 Recap
 https://katherinemichel.github.io/portfolio/2023-recap.html
@@ -27,6 +29,10 @@ Get stats
 March 3
 https://katherinemichel.github.io/portfolio/djangocon-us-2024-topics-inspiration-list.html
 Featured in Django News Newsletter- link
+Talk submission stats
+2024: 194
+2023: 189
+2022: 152
 
 March- provided pics that helped inspire DjangoCon US website design theme
 
@@ -36,7 +42,12 @@ https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html
 
 March
 Uncle Edward died
-Visit to Lemurs
+Smile on his face
+https://www.livingstonfh.com/obituary/edward-a-markel
+
+Tanganyka
+https://twpark.com/
+Visit to Lemurs- pics
 
 April
 PyTexas 2024 in Austin
@@ -70,6 +81,11 @@ Created PyCon US 2024 Recap presentation
 September
 DjangoCon US 2024
 
+Self care
+New keyboard
+Gym, lifting weights
+
 Update on how I did
+Not as much as expected due to issues in first half of year
 https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-2024.html
 -->
