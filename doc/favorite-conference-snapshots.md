@@ -4,12 +4,23 @@ Although these snapshots do not include all of the people who are special to me,
 
 ## PyCon US 2024
 
-![](favorite-conference-snapshots/pycon-us-2024-me-and-abigail.jpg)
-![](favorite-conference-snapshots/pycon-us-2024-me-and-benedict.jpg)
-![](favorite-conference-snapshots/pycon-us-2024-me-and-jackie.jpeg)
-![](favorite-conference-snapshots/pycon-us-2024-me-by-melanie.jpg)
-![](favorite-conference-snapshots/pycon-us-2024-me-juggling.png)
 ![](favorite-conference-snapshots/pycon-us-2024-sunday-night.jpeg)
+After the conference ended on Sunday night, I found myself chatting with a group of old friends and new friends. They invited me to dinner, and I decided to join. It was a wonderful time, as you can tell from the photo. :) Pictured: Tammy Do, Velda Kiara, Jim Anderson, Ngazetungue Muheue, Kudzayi Bamhare, Benedict Kofi Amofah, me, Afi Gbagado, and Catherine Devlin
+
+![](favorite-conference-snapshots/pycon-us-2024-me-and-jackie.jpeg)
+Me and Jackie Kazil :) 
+
+![](favorite-conference-snapshots/pycon-us-2024-me-juggling.png)
+Not only does Ned Batchelder maintain a powerful Python package and give popular conference talks, he is also a juggling enthusiast. When I saw his juggling open space in progress, I couldn't resist stopping. I juggled for the first time in probably decades!
+
+![](favorite-conference-snapshots/pycon-us-2024-me-by-melanie.jpg)
+My friend Melanie Arbor (O'Reilly Media) takes great profile pics. At DjangoCon US 2017, she took my pic, and I loved it. I've used it as my social media profile pic since then, but it's getting a bit dated. I saw her at PyCon US and asked her if she would be willing to take a new profile pic of me. It turned out that she had already created a "Profile Pic Palooza" open space for Saturday at 3 pm. As a bonus, I got to catch up with Chalmer Lowe (Google) for the first time since PyCon 2019. 
+
+![](favorite-conference-snapshots/pycon-us-2024-me-and-benedict.jpg)
+When I create this page of favorite conference snapshots, Benedict Kofi Amofah tweeted to me that he'd be in the gallery soon. I took him up on it. :) 
+
+![](favorite-conference-snapshots/pycon-us-2024-me-and-abigail.jpg)
+Me and Abigail Mesrenyame Dogbe
 
 ## PyTexas 2024
 
