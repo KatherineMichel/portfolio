@@ -2,6 +2,15 @@
 
 Although these snapshots do not include all of the people who are special to me, they give a taste of the fun and serendipity of my conference travels over the years. In the Python community, as they say, the world is your oyster. A huge thank you to everyone who has made these incredible experiences possible over the years. 
 
+## PyCon US 2024
+
+![](favorite-conference-snapshots/pycon-us-2024-me-and-abigail.jpg)
+![](favorite-conference-snapshots/pycon-us-2024-me-and-benedict.jpg)
+![](favorite-conference-snapshots/pycon-us-2024-me-and-jackie.jpeg)
+![](favorite-conference-snapshots/pycon-us-2024-me-by-melanie.jpg)
+![](favorite-conference-snapshots/pycon-us-2024-me-juggling.png)
+![](favorite-conference-snapshots/pycon-us-2024-sunday-night.jpeg)
+
 ## PyTexas 2024
 
 April 19-21, Austin, Texas
