@@ -14,7 +14,7 @@ Me and Jackie Kazil :)
 Not only does Ned Batchelder maintain a powerful Python package and give popular conference talks, he is also a juggling enthusiast. When I saw his juggling open space in progress, I couldn't resist stopping. I juggled for the first time in probably decades!
 
 ![](favorite-conference-snapshots/pycon-us-2024-me-by-melanie.jpg)
-My friend Melanie Arbor (O'Reilly Media) takes great profile pics. At DjangoCon US 2017, she took my pic, and I loved it. I've used it as my social media profile pic since then, but it's getting a bit dated. I saw her at PyCon US and asked her if she would be willing to take a new profile pic of me. It turned out that she had already created a "Profile Pic Palooza" open space for Saturday at 3 pm. As a bonus, I got to catch up with Chalmer Lowe (Google) for the first time since PyCon 2019. 
+My friend Melanie Arbor takes great profile pics. At DjangoCon US 2017, she took my pic, and I loved it. I've used it as my social media profile pic since then, but it's getting a bit dated. I saw her at PyCon US and asked her if she would be willing to take a new profile pic of me. It turned out that she had already created a "Profile Pic Palooza" open space for Saturday at 3 pm. As a bonus, I got to catch up with Chalmer Lowe for the first time since PyCon 2019. 
 
 ![](favorite-conference-snapshots/pycon-us-2024-me-and-benedict.jpg)
 When I create this page of favorite conference snapshots, Benedict Kofi Amofah tweeted to me that he'd be in the gallery soon. I took him up on it. :) 
