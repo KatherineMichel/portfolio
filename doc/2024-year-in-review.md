@@ -66,6 +66,8 @@ Databases connections
 PyCon US 2024
 https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html
 Reached #2 on Hacker News
+https://x.com/search?q=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D40552621&src=typed_query
+https://x.com/nmstoker/status/1797250668501020962
 https://news.ycombinator.com/item?id=40552621
 https://fosstodon.org/@HackerNewsBot@m.einverne.info/112547856756286972
 https://fosstodon.org/@hn50@social.lansky.name/112547268058241519
@@ -107,6 +109,7 @@ Gym, lifting weights
 Inspired by DeAnna Troutman Anaya- grandmother (she doesn't look like any grandmother I've ever seen) who is "Liftin4Life"
 Tell her story of illness to health
 I'd never been in a gym before and was afraid to go
+Sheldon- told me the benefits of a personal trainer
 
 Update on how I did
 Not as much as expected due to issues in first half of year
