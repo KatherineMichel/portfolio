@@ -45,7 +45,7 @@ Table of Contents
         - [Gregory P. Smith: Steering Council Expenditures Update](#gregory-p-smith-steering-council-expenditures-update)
         - [Emily Morehouse: Councils and Working Groups Update](#emily-morehouse-councils-and-working-groups-update)
         - [Thomas Wouters: Overview of Python 3.13](#thomas-wouters-overview-of-python-313)
-        - [Pablo Galindo Salgado: Free-Threading Update (a.k.a. No GIL)](#pablo-galindo-salgado-free-threading-update-a-k-a-no-gil)
+        - [Pablo Galindo Salgado: Free-Threading Update (a.k.a. No GIL)](#pablo-galindo-salgado-free-threading-update-aka-no-gil)
     - [Dinner and Ice Cream](#dinner-and-ice-cream)
 - [Monday](#monday)
 - [Until Next Time](#until-next-time)
