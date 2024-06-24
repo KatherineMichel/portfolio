@@ -4,6 +4,8 @@ Although these snapshots do not include all of the people who are special to me,
 
 ## PyCon US 2024
 
+May 15-20, Pittsburgh, Pennsylvania
+
 ![](favorite-conference-snapshots/pycon-us-2024-sunday-night.jpeg)
 After the conference ended on Sunday night, I found myself chatting with a group of old friends and new friends. They invited me to dinner, and I decided to join. It was a wonderful time, as you can tell from the photo. :) Pictured: Tammy Do, Velda Kiara, Jim Anderson, Ngazetungue Muheue, Kudzayi Bamhare, Benedict Kofi Amofah, me, Afi Gbagado, and Catherine Devlin
 
