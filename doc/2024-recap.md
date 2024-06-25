@@ -1,12 +1,36 @@
 # 2024 Year in Review
 
 <!--
+Led sprint review and demo
+Sprint retro
+Sprint planning
+Demos
+
+Multi-tenancy
 Switched teams
 Work highlights- significantly reduced time, n+1
-CockroachDB
+CockroachDB, dashboard, database optimization
+Profiling tools
+Django optimization
+
+Cluster creation
+Databus
+pub/sub
+
+Task orchestration and distributed systems engineering
+
 Grew in capability- things once more difficult for me became day-to-day tasks
 Challenges of scale and security were good for me
-Task orchestration and distributed systems engineering
+Working across teams, learning and sharing knowledge
+
+PR Review
+Change Management, Release management
+Working with SRE
+Worked with lead architect
+Architecture and design, tradeoffs, cost analysis
+Security, resiliency, failover, restore
+Product management, roadmap
+User experience
 
 PS Connect continues
 Sick 3 times
@@ -18,6 +42,9 @@ Gave me an appreciation
 January
 https://katherinemichel.github.io/portfolio/los-angeles-2023.html
 Top videos
+
+DEFNA Contract meeting
+DEFNA Hotel Contract Committee
 
 DjangoCon US 2023 Recap 
 https://katherinemichel.github.io/portfolio/2023-recap.html
@@ -56,10 +83,13 @@ Visit to Lemurs- pics
 April
 PyTexas 2024 in Austin
 Moshe
+DEFNA Board Interviews
 
 May
+May the 4th Event
 Featured on DjangoCon US account
 https://x.com/djangocon/status/1792933457183527350
+Worthmore session: Networking as a Woman: How to become 2.5x more successful
 
 Databases connections
 
@@ -96,6 +126,7 @@ PyTexas sponsorship
 June
 Attended DFW Pythoneers
 https://www.meetup.com/dfwpython/
+PyTexas Sponsorship pitch
 
 June
 Created PyCon US 2024 Recap presentation based on my blog post
