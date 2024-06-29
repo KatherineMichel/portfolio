@@ -67,6 +67,10 @@ March- provided pics that helped inspire DjangoCon US website design theme
 https://www.linkedin.com/posts/jonitrythall_ive-teamed-up-with-the-great-folks-at-defna-activity-7203812944940294144-6gtJ/?utm_source=share&utm_medium=member_desktop
 https://fosstodon.org/@kati/112492859988088102
 
+![](2023-recap-images/joni-djangocon-us-website-post.png)
+
+![](2023-recap-images/my-djangocon-us-website-post.png)
+
 March- created the conference snapshot pages I'd always wanted. 
 https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html
 https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html
@@ -86,6 +90,10 @@ https://twpark.com/
 https://www.linkedin.com/posts/katherinemichel_as-a-defna-board-member-i-help-oversee-djangocon-activity-7182562538193125376-6_EG/
 Visit to Lemurs- pics
 
+![](2023-recap-images/djangocon-us-2023-website-header.png)
+
+![](2023-recap-images/lemurs-post.png)
+
 April
 PyTexas 2024 in Austin
 Moshe
@@ -94,8 +102,10 @@ DEFNA Board Interviews
 May
 May the 4th Event
 Featured on DjangoCon US account
+Along with who else?
 https://x.com/djangocon/status/1792933457183527350
 https://fosstodon.org/@djangocon/112479673098056641
+
 Worthmore session: Networking as a Woman: How to become 2.5x more successful
 
 Databases connections
@@ -108,15 +118,6 @@ Felt I was able to further grow my network and have a deeper understanding of su
 Followed up on PyCon US connections
 Facilitated communication from Jay at PyCon US to DEFNA
 PyTexas sponsorship
-
-June
-Attended DFW Pythoneers
-https://www.meetup.com/dfwpython/
-PyTexas Sponsorship pitch
-
-June
-Created PyCon US 2024 Recap presentation based on my blog post
-
 
 https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html
 Reached #2 on Hacker News
@@ -147,6 +148,16 @@ Get stats
 ![](2023-recap-images/hacker-news-trending.png)
 
 ![](2023-recap-images/hacker-news-detail-page-stats.png)
+
+June
+Attended DFW Pythoneers
+https://www.meetup.com/dfwpython/
+![](2023-recap-images/dfw-pythoneers.png)
+
+PyTexas Sponsorship pitch
+
+June
+Created PyCon US 2024 Recap presentation based on my blog post
 
 
 ![](2023-recap-images/hackathon-team.jpg)
