@@ -256,7 +256,7 @@ Databases
 
 ## July
 
-### PyCon US Presentation
+### PyCon US 2024 Presentation
 
 <!--
 Created PyCon US 2024 Recap presentation based on my blog post
@@ -266,6 +266,8 @@ Dovetail nicely into PyLadies event
 If you are interested...
 Also, read the Language Summit articles for the first time and was able to grok the content
 -->
+
+## August
 
 ## September
 
