@@ -47,7 +47,7 @@ DEFNA Contract meeting
 DEFNA Hotel Contract Committee
 
 DjangoCon US 2023 Recap 
-https://katherinemichel.github.io/portfolio/2023-recap.html
+https://katherinemichel.github.io/portfolio/2024-recap.html
 https://django-news.com/issues/203#start
 Featured in Django News Newsletter- was their top link for months. 
 Get stats- how long at the top and how many views
@@ -67,15 +67,9 @@ March- provided pics that helped inspire DjangoCon US website design theme
 https://www.linkedin.com/posts/jonitrythall_ive-teamed-up-with-the-great-folks-at-defna-activity-7203812944940294144-6gtJ/?utm_source=share&utm_medium=member_desktop
 https://fosstodon.org/@kati/112492859988088102
 
-![](2023-recap-images/joni-djangocon-us-website-post.png)
-
-![](2023-recap-images/my-djangocon-us-website-post.png)
-
 March- created the conference snapshot pages I'd always wanted. 
 https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html
 https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html
-
-![](2023-recap-images/durham-downtown-snapshots.png)
 
 March
 Uncle Edward died
@@ -89,10 +83,6 @@ Tanganyka
 https://twpark.com/
 https://www.linkedin.com/posts/katherinemichel_as-a-defna-board-member-i-help-oversee-djangocon-activity-7182562538193125376-6_EG/
 Visit to Lemurs- pics
-
-![](2023-recap-images/djangocon-us-2023-website-header.png)
-
-![](2023-recap-images/lemurs-post.png)
 
 April
 PyTexas 2024 in Austin
@@ -122,6 +112,7 @@ PyTexas sponsorship
 https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html
 Reached #2 on Hacker News
 https://x.com/search?q=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D40552621&src=typed_query
+Who is N. M. Stoker
 https://x.com/nmstoker/status/1797250668501020962
 https://news.ycombinator.com/item?id=40552621
 https://fosstodon.org/@HackerNewsBot@m.einverne.info/112547856756286972
@@ -142,29 +133,14 @@ Featured in Django News Newsletter
 https://django-news.com/issues/236#start
 Get stats
 
-
-![](2023-recap-images/hacker-news-rankings-stats.png)
-
-![](2023-recap-images/hacker-news-trending.png)
-
-![](2023-recap-images/hacker-news-detail-page-stats.png)
-
 June
 Attended DFW Pythoneers
 https://www.meetup.com/dfwpython/
-![](2023-recap-images/dfw-pythoneers.png)
 
 PyTexas Sponsorship pitch
 
 June
 Created PyCon US 2024 Recap presentation based on my blog post
-
-
-![](2023-recap-images/hackathon-team.jpg)
-
-
-September
-DjangoCon US 2024
 
 Self care
 New keyboard
@@ -179,3 +155,66 @@ Not as much as expected due to issues in first half of year
 Picked up in second half of year
 https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-2024.html
 -->
+
+## January 
+
+### Los Angeles Trip Recap
+
+### DjangoCon US 2023 Recap
+
+## March
+
+### DjangoCon US Website Design
+
+![](2024-recap-images/durham-downtown-snapshots.png)
+
+![](2024-recap-images/joni-djangocon-us-website-post.png)
+
+![](2024-recap-images/my-djangocon-us-website-post.png)
+
+### Conference Snapshots
+
+## April
+
+### Lemurs at Tanganyka Wildlife Park
+
+![](2024-recap-images/djangocon-us-2023-website-header.png)
+
+![](2024-recap-images/lemurs-post.png)
+
+![](2024-recap-images/lemurs-1.jpg)
+
+![](2024-recap-images/lemurs-2.jpg)
+
+### PyTexas
+
+## May
+
+### DjangoCon US Featured Post
+
+![](2024-recap-images/djangocon-us-featured-post.png)
+
+### PyCon US
+
+## June
+
+### Hacker News
+
+![](2024-recap-images/hacker-news-rankings-stats.png)
+
+![](2024-recap-images/hacker-news-trending.png)
+
+![](2024-recap-images/hacker-news-detail-page-stats.png)
+
+### DFW Pythoneers
+
+![](2024-recap-images/dfw-pythoneers.png)
+
+### Innovation Week Global Hackathon 
+
+![](2024-recap-images/hackathon-team.jpg)
+
+## September
+
+### DjangoCon US
+
