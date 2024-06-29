@@ -15,6 +15,8 @@ CockroachDB, dashboard, database optimization
 Profiling tools
 Django optimization
 
+Database learning, on the job, at PyCon US during personal conversations and sponsor booths, during Global Hackathon conversations
+
 Cluster creation
 Databus
 pub/sub
@@ -246,6 +248,8 @@ https://www.meetup.com/dfwpython/
 Created PyCon US 2024 Recap presentation based on my blog post
 Python Guild
 Coincide with release of videos on youtube
+Dovetail nicely into PyLadies event
+If you are interested...
 Also, read the Language Summit articles for the first time and was able to grok the content
 -->
 
