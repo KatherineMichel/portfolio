@@ -54,22 +54,11 @@ March 3
 Featured in Django News Newsletter along with Drew's (and Jeff's?)
 Stats?
 
-Uncle Edward died
-Smile on his face
-https://www.livingstonfh.com/obituary/edward-a-markel
-https://www.linkedin.com/posts/katherinemichel_obituary-for-edward-a-ed-markel-at-livingston-activity-7180368920564916225-eXsL/
-https://www.linkedin.com/posts/katherinemichel_life-isnt-always-easy-but-consider-me-blessed-activity-7133546031077588992-gadV/
-Bird call video
-
 April
-PyTexas 2024 in Austin
-Moshe
 DEFNA Board Interviews
 
 May
 May the 4th Event
-
-Featured on DjangoCon US account
 
 Worthmore session: Networking as a Woman: How to become 2.5x more successful
 
@@ -98,19 +87,6 @@ Get Django News Newsletter stats
 
 June
 PyTexas Sponsorship pitch
-
-Self care
-New keyboard
-Gym, lifting weights
-Inspired by DeAnna Troutman Anaya- grandmother (she doesn't look like any grandmother I've ever seen) who is "Liftin4Life"
-Tell her story of illness to health
-I'd never been in a gym before and was afraid to go
-Sheldon- told me the benefits of a personal trainer
-
-Update on how I did
-Not as much as expected due to issues in first half of year
-Picked up in second half of year
-https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-2024.html
 -->
 
 ## January 
@@ -120,6 +96,12 @@ https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-202
 <!--
 https://katherinemichel.github.io/portfolio/los-angeles-2023.html
 Top videos
+-->
+
+<!--
+Self care
+New keyboard
+Kinesis Advantage360 Split Ergonomic Keyboard
 -->
 
 ### DjangoCon US 2023 Recap
@@ -172,6 +154,17 @@ https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.h
 https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html
 -->
 
+### Death in the Family
+
+<!--
+Uncle Edward died
+Smile on his face
+https://www.livingstonfh.com/obituary/edward-a-markel
+https://www.linkedin.com/posts/katherinemichel_obituary-for-edward-a-ed-markel-at-livingston-activity-7180368920564916225-eXsL/
+https://www.linkedin.com/posts/katherinemichel_life-isnt-always-easy-but-consider-me-blessed-activity-7133546031077588992-gadV/
+Bird call video
+-->
+
 ## April
 
 ### Lemurs at Tanganyka Wildlife Park
@@ -191,11 +184,27 @@ https://www.linkedin.com/posts/katherinemichel_as-a-defna-board-member-i-help-ov
 
 ### PyTexas
 
+<!--
+PyTexas 2024 in Austin
+Moshe
+-->
+
 ## May
+
+<!--
+https://fosstodon.org/@kati/112380066353516377
+
+Gym, lifting weights
+Inspired by DeAnna Troutman Anaya- grandmother (she doesn't look like any grandmother I've ever seen) who is "Liftin4Life"
+Tell her story of illness to health
+I'd never been in a gym before and was afraid to go
+Sheldon- told me the benefits of a personal trainer
+-->
 
 ### DjangoCon US Featured Post
 
 <!--
+Featured on DjangoCon US account
 Drew Winstel, Tim Schilling, Natalia Bidart, Kojo
 https://x.com/djangocon/status/1792933457183527350
 https://fosstodon.org/@djangocon/112479673098056641
@@ -238,6 +247,11 @@ https://www.meetup.com/dfwpython/
 
 ### Innovation Week Global Hackathon 
 
+<!--
+Innovation Week
+Databases
+-->
+
 ![](2024-recap-images/hackathon-team.jpg)
 
 ## July
@@ -263,3 +277,11 @@ Also, read the Language Summit articles for the first time and was able to grok 
 
 ## December
 
+## Self-Care
+
+<!--
+Update on how I did
+Not as much as expected due to issues in first half of year
+Picked up in second half of year
+https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-2024.html
+-->
