@@ -3,6 +3,8 @@
 <!--
 Charnise
 
+https://fosstodon.org/@kati/112283408437442848
+
 Led sprint review and demo
 Sprint retro
 Sprint planning
@@ -116,43 +118,52 @@ https://django-news.com/issues/203#start
 
 ### DjangoCon US Talk Topics Inspiration List
 
+Every year, Jeff Triplett publishes a list of talk topics he'd like to learn more about at DjangoCon US. He also encourages fellow DEFNA Board Members to publish their own lists. 
+
+Last year, I finally got organized and created a [Talk Topics Inspiration List for DjangoCon US 2023](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html). This year, I created a [Talk Topics List for DjangoCon US 2024](https://katherinemichel.github.io/portfolio/djangocon-us-2024-topics-inspiration-list.html). 
+
+Our talk submission stats since I began publishing my list: 
+* 2022: 152
+* 2023: 189
+* 2024: 194
+
+Given the popularity of my articles, I'm confident that my list played a major role in the increase in submissions. 
+
 <!--
+DSF, Vicky from OS book
+
 It takes time to build things. One thing at at time. 
-Last year, I finally got organized and did something I'd wanted to do for a long time. Jeff had been encouraging other board members to join him in publishing a list of talk topics we'd love to hear more about at DjangoCon US. 
-https://katherinemichel.github.io/portfolio/djangocon-us-2024-topics-inspiration-list.html
 https://fosstodon.org/@djangocon/112056987398023068
 Featured in Django News Newsletter
 https://django-news.com/issues/222#start
 https://micro.webology.dev/2024/04/28/djangocon-us-talks.html
 https://winstel.dev/2024/03/01/talk-ideas-for-dcus-24/
-
-Talk submission stats
-2024: 194
-2023: 189
-2022: 152
 -->
 
 ### DjangoCon US Website Design
 
 <!--
-Provided pics that helped inspire DjangoCon US website design theme
 https://www.linkedin.com/posts/jonitrythall_ive-teamed-up-with-the-great-folks-at-defna-activity-7203812944940294144-6gtJ/?utm_source=share&utm_medium=member_desktop
 https://fosstodon.org/@kati/112492859988088102
+
+![](2024-recap-images/my-djangocon-us-website-post.png)
 -->
+
+During DjangoCon US 2023, I walked around downtown Durham and took some photos of the quirky artwork there. 
 
 ![](2024-recap-images/durham-downtown-snapshots.png)
 
-![](2024-recap-images/joni-djangocon-us-website-post.png)
+I am super excited that my photos helped inspire this year's DjangoCon US theme. It makes me smile, and I hope it makes you smile too! 
 
-![](2024-recap-images/my-djangocon-us-website-post.png)
+![](2024-recap-images/joni-djangocon-us-website-post.png)
 
 ### Conference Snapshots
 
 <!--
-Created the conference snapshot pages I'd always wanted. 
-https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html
-https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html
+https://fosstodon.org/@kati/112026892390626620
 -->
+
+After years of intending to do it, I created a page of my [favorite conference snapshots](https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html) and the stories behind them, as well as a page of [speaker, board, and organizer photos](https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html). 
 
 ### Death in the Family
 
@@ -170,22 +181,28 @@ Bird call video
 ### Lemurs at Tanganyka Wildlife Park
 
 <!--
-https://twpark.com/
+![](2024-recap-images/lemurs-post.png)
+
 https://www.linkedin.com/posts/katherinemichel_as-a-defna-board-member-i-help-oversee-djangocon-activity-7182562538193125376-6_EG/
 -->
 
+As a DEFNA Board Member, I help oversee DjangoCon US, including the website design. Because our host city Durham, North Carolina has the largest population of lemurs outside of Madagascar, we featured a "friendly" lemur on our website last year. 
+
 ![](2024-recap-images/djangocon-us-2023-website-header.png)
 
-![](2024-recap-images/lemurs-post.png)
+After years of hearing about [Tanganyika Wildlife Park](https://twpark.com/) in Goddard, Kansas, mom and I decided to go. I had no idea until I got there that you can feed lemurs. They were so soft and gentle. I loved spending time with these real-life, friendly lemurs!
 
 ![](2024-recap-images/lemurs-1.jpg)
+Me, mom, and the lemurs!
 
 ![](2024-recap-images/lemurs-2.jpg)
+Me feeding a lemur a craisin out of the palm of my hand!
 
 ### PyTexas
 
+[PyTexas 2024](https://www.pytexas.org/2024/) took place in Austin, Texas from April 19-21. 
+
 <!--
-PyTexas 2024 in Austin
 Moshe
 -->
 
@@ -236,14 +253,14 @@ Thank you to the incredible Lacey for this sweet kudo: https://fosstodon.org/@la
 
 ![](2024-recap-images/hacker-news-detail-page-stats.png)
 
+<!--
 ### DFW Pythoneers
 
-<!--
 Attended DFW Pythoneers
 https://www.meetup.com/dfwpython/
--->
 
 ![](2024-recap-images/dfw-pythoneers.png)
+-->
 
 ### Innovation Week Global Hackathon 
 
