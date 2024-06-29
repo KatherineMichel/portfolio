@@ -40,49 +40,26 @@ Feel lucky to be well
 Gave me an appreciation
 
 January
-https://katherinemichel.github.io/portfolio/los-angeles-2023.html
-Top videos
-
 DEFNA Contract meeting
 DEFNA Hotel Contract Committee
 
-DjangoCon US 2023 Recap 
-https://katherinemichel.github.io/portfolio/2024-recap.html
-https://django-news.com/issues/203#start
-Featured in Django News Newsletter- was their top link for months. 
+DjangoCon US 2023 Recap was featured in Django News Newsletter- was their top link for months. 
 Get stats- how long at the top and how many views
 
 March 3
-https://katherinemichel.github.io/portfolio/djangocon-us-2024-topics-inspiration-list.html
-Featured in Django News Newsletter along with Drew's
-https://django-news.com/issues/222#start
+Featured in Django News Newsletter along with Drew's (and Jeff's?)
 Stats?
-Along with lists by Drew and Jeff?
 Talk submission stats
 2024: 194
 2023: 189
 2022: 152
 
-March- provided pics that helped inspire DjangoCon US website design theme
-https://www.linkedin.com/posts/jonitrythall_ive-teamed-up-with-the-great-folks-at-defna-activity-7203812944940294144-6gtJ/?utm_source=share&utm_medium=member_desktop
-https://fosstodon.org/@kati/112492859988088102
-
-March- created the conference snapshot pages I'd always wanted. 
-https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html
-https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html
-
-March
 Uncle Edward died
 Smile on his face
 https://www.livingstonfh.com/obituary/edward-a-markel
 https://www.linkedin.com/posts/katherinemichel_obituary-for-edward-a-ed-markel-at-livingston-activity-7180368920564916225-eXsL/
 https://www.linkedin.com/posts/katherinemichel_life-isnt-always-easy-but-consider-me-blessed-activity-7133546031077588992-gadV/
 Bird call video
-
-Tanganyka
-https://twpark.com/
-https://www.linkedin.com/posts/katherinemichel_as-a-defna-board-member-i-help-oversee-djangocon-activity-7182562538193125376-6_EG/
-Visit to Lemurs- pics
 
 April
 PyTexas 2024 in Austin
@@ -91,10 +68,8 @@ DEFNA Board Interviews
 
 May
 May the 4th Event
+
 Featured on DjangoCon US account
-Along with who else?
-https://x.com/djangocon/status/1792933457183527350
-https://fosstodon.org/@djangocon/112479673098056641
 
 Worthmore session: Networking as a Woman: How to become 2.5x more successful
 
@@ -109,7 +84,6 @@ Followed up on PyCon US connections
 Facilitated communication from Jay at PyCon US to DEFNA
 PyTexas sponsorship
 
-https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html
 Reached #2 on Hacker News
 https://x.com/search?q=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D40552621&src=typed_query
 Who is N. M. Stoker
@@ -139,9 +113,6 @@ https://www.meetup.com/dfwpython/
 
 PyTexas Sponsorship pitch
 
-June
-Created PyCon US 2024 Recap presentation based on my blog post
-
 Self care
 New keyboard
 Gym, lifting weights
@@ -160,11 +131,39 @@ https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-202
 
 ### Los Angeles Trip Recap
 
+<!--
+https://katherinemichel.github.io/portfolio/los-angeles-2023.html
+Top videos
+-->
+
 ### DjangoCon US 2023 Recap
+
+<!--
+https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html
+https://django-news.com/issues/203#start
+-->
 
 ## March
 
+### DjangoCon US Talk Topics Inspiration List
+
+<!--
+It takes time to build things. One thing at at time. 
+Last year, I finally got organized and did something I'd wanted to do for a long time. Jeff had been encouraging other board members to join him in publishing a list of talk topics we'd love to hear more about at DjangoCon US. 
+https://katherinemichel.github.io/portfolio/djangocon-us-2024-topics-inspiration-list.html
+https://fosstodon.org/@djangocon/112056987398023068
+https://django-news.com/issues/222#start
+https://micro.webology.dev/2024/04/28/djangocon-us-talks.html
+https://winstel.dev/2024/03/01/talk-ideas-for-dcus-24/
+-->
+
 ### DjangoCon US Website Design
+
+<!--
+Provided pics that helped inspire DjangoCon US website design theme
+https://www.linkedin.com/posts/jonitrythall_ive-teamed-up-with-the-great-folks-at-defna-activity-7203812944940294144-6gtJ/?utm_source=share&utm_medium=member_desktop
+https://fosstodon.org/@kati/112492859988088102
+-->
 
 ![](2024-recap-images/durham-downtown-snapshots.png)
 
@@ -174,9 +173,20 @@ https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-202
 
 ### Conference Snapshots
 
+<!--
+Created the conference snapshot pages I'd always wanted. 
+https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html
+https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html
+-->
+
 ## April
 
 ### Lemurs at Tanganyka Wildlife Park
+
+<!--
+https://twpark.com/
+https://www.linkedin.com/posts/katherinemichel_as-a-defna-board-member-i-help-oversee-djangocon-activity-7182562538193125376-6_EG/
+-->
 
 ![](2024-recap-images/djangocon-us-2023-website-header.png)
 
@@ -192,9 +202,19 @@ https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-202
 
 ### DjangoCon US Featured Post
 
+<!--
+Drew Winstel, Tim Schilling, Natalia Bidart
+https://x.com/djangocon/status/1792933457183527350
+https://fosstodon.org/@djangocon/112479673098056641
+-->
+
 ![](2024-recap-images/djangocon-us-featured-post.png)
 
 ### PyCon US
+
+<!--
+https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html
+-->
 
 ## June
 
@@ -214,7 +234,24 @@ https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-202
 
 ![](2024-recap-images/hackathon-team.jpg)
 
+## July
+
+### PyCon US Presentation
+
+<!--
+Created PyCon US 2024 Recap presentation based on my blog post
+Python Guild
+Coincide with release of videos on youtube
+Also, read the Language Summit articles for the first time and was able to grok the content
+-->
+
 ## September
 
 ### DjangoCon US
+
+## October
+
+## November
+
+## December
 
