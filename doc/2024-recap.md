@@ -77,9 +77,13 @@ March
 Uncle Edward died
 Smile on his face
 https://www.livingstonfh.com/obituary/edward-a-markel
+https://www.linkedin.com/posts/katherinemichel_obituary-for-edward-a-ed-markel-at-livingston-activity-7180368920564916225-eXsL/
+https://www.linkedin.com/posts/katherinemichel_life-isnt-always-easy-but-consider-me-blessed-activity-7133546031077588992-gadV/
+Bird call video
 
 Tanganyka
 https://twpark.com/
+https://www.linkedin.com/posts/katherinemichel_as-a-defna-board-member-i-help-oversee-djangocon-activity-7182562538193125376-6_EG/
 Visit to Lemurs- pics
 
 April
@@ -91,6 +95,7 @@ May
 May the 4th Event
 Featured on DjangoCon US account
 https://x.com/djangocon/status/1792933457183527350
+https://fosstodon.org/@djangocon/112479673098056641
 Worthmore session: Networking as a Woman: How to become 2.5x more successful
 
 Databases connections
