@@ -71,6 +71,8 @@ March- created the conference snapshot pages I'd always wanted.
 https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html
 https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html
 
+![](2023-recap-images/durham-downtown-snapshots.png)
+
 March
 Uncle Edward died
 Smile on his face
@@ -93,7 +95,24 @@ Worthmore session: Networking as a Woman: How to become 2.5x more successful
 
 Databases connections
 
+May
 PyCon US 2024
+
+Felt I was able to further grow my network and have a deeper understanding of subjects
+
+Followed up on PyCon US connections
+Facilitated communication from Jay at PyCon US to DEFNA
+PyTexas sponsorship
+
+June
+Attended DFW Pythoneers
+https://www.meetup.com/dfwpython/
+PyTexas Sponsorship pitch
+
+June
+Created PyCon US 2024 Recap presentation based on my blog post
+
+
 https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html
 Reached #2 on Hacker News
 https://x.com/search?q=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D40552621&src=typed_query
@@ -117,19 +136,16 @@ Featured in Django News Newsletter
 https://django-news.com/issues/236#start
 Get stats
 
-Felt I was able to further grow my network and have a deeper understanding of subjects
 
-Followed up on PyCon US connections
-Facilitated communication from Jay at PyCon US to DEFNA
-PyTexas sponsorship
+![](2023-recap-images/hacker-news-rankings-stats.png)
 
-June
-Attended DFW Pythoneers
-https://www.meetup.com/dfwpython/
-PyTexas Sponsorship pitch
+![](2023-recap-images/hacker-news-trending.png)
 
-June
-Created PyCon US 2024 Recap presentation based on my blog post
+![](2023-recap-images/hacker-news-detail-page-stats.png)
+
+
+![](2023-recap-images/hackathon-team.jpg)
+
 
 September
 DjangoCon US 2024
