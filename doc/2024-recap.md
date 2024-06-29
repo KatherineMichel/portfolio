@@ -1,6 +1,8 @@
 # 2024 Year in Review
 
 <!--
+Charnise
+
 Led sprint review and demo
 Sprint retro
 Sprint planning
@@ -43,16 +45,12 @@ January
 DEFNA Contract meeting
 DEFNA Hotel Contract Committee
 
-DjangoCon US 2023 Recap was featured in Django News Newsletter- was their top link for months. 
+DjangoCon US 2023 Recap was Django News Newsletter top link for months. 
 Get stats- how long at the top and how many views
 
 March 3
 Featured in Django News Newsletter along with Drew's (and Jeff's?)
 Stats?
-Talk submission stats
-2024: 194
-2023: 189
-2022: 152
 
 Uncle Edward died
 Smile on his face
@@ -76,19 +74,15 @@ Worthmore session: Networking as a Woman: How to become 2.5x more successful
 Databases connections
 
 May
-PyCon US 2024
-
 Felt I was able to further grow my network and have a deeper understanding of subjects
-
 Followed up on PyCon US connections
+Do more "heavy lifting"
 Facilitated communication from Jay at PyCon US to DEFNA
 PyTexas sponsorship
 
-Reached #2 on Hacker News
 https://x.com/search?q=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D40552621&src=typed_query
 Who is N. M. Stoker
 https://x.com/nmstoker/status/1797250668501020962
-https://news.ycombinator.com/item?id=40552621
 https://fosstodon.org/@HackerNewsBot@m.einverne.info/112547856756286972
 https://fosstodon.org/@hn50@social.lansky.name/112547268058241519
 https://fosstodon.org/@kati/112547155288841309
@@ -96,21 +90,11 @@ https://fosstodon.org/@kati/112542746775054876
 https://fosstodon.org/@kati/112542145378019538
 https://fosstodon.org/@kati/112509391686025715
 https://fosstodon.org/@kati/112498755031272596
-Kudos from Kenneth, Trey, Seth, Hugo, Lacey, etc. 
-https://fosstodon.org/@lacey@hachyderm.io/112553623603409800
 Many DMs
-Screenshot
-Cited by new Python Release Manager Hugo as must-read conference recap
-https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj
 https://fosstodon.org/@kati/112612110567916246
-Featured in Django News Newsletter
-https://django-news.com/issues/236#start
-Get stats
+Get Django News Newsletter stats
 
 June
-Attended DFW Pythoneers
-https://www.meetup.com/dfwpython/
-
 PyTexas Sponsorship pitch
 
 Self care
@@ -129,7 +113,7 @@ https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-202
 
 ## January 
 
-### Los Angeles Trip Recap
+### Los Angeles 2023 Trip Recap
 
 <!--
 https://katherinemichel.github.io/portfolio/los-angeles-2023.html
@@ -140,6 +124,7 @@ Top videos
 
 <!--
 https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html
+Featured in Django News Newsletter
 https://django-news.com/issues/203#start
 -->
 
@@ -152,9 +137,15 @@ It takes time to build things. One thing at at time.
 Last year, I finally got organized and did something I'd wanted to do for a long time. Jeff had been encouraging other board members to join him in publishing a list of talk topics we'd love to hear more about at DjangoCon US. 
 https://katherinemichel.github.io/portfolio/djangocon-us-2024-topics-inspiration-list.html
 https://fosstodon.org/@djangocon/112056987398023068
+Featured in Django News Newsletter
 https://django-news.com/issues/222#start
 https://micro.webology.dev/2024/04/28/djangocon-us-talks.html
 https://winstel.dev/2024/03/01/talk-ideas-for-dcus-24/
+
+Talk submission stats
+2024: 194
+2023: 189
+2022: 152
 -->
 
 ### DjangoCon US Website Design
@@ -203,22 +194,30 @@ https://www.linkedin.com/posts/katherinemichel_as-a-defna-board-member-i-help-ov
 ### DjangoCon US Featured Post
 
 <!--
-Drew Winstel, Tim Schilling, Natalia Bidart
+Drew Winstel, Tim Schilling, Natalia Bidart, Kojo
 https://x.com/djangocon/status/1792933457183527350
 https://fosstodon.org/@djangocon/112479673098056641
 -->
 
 ![](2024-recap-images/djangocon-us-featured-post.png)
 
-### PyCon US
-
-<!--
-https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html
--->
+### PyCon US 2024
 
 ## June
 
 ### Hacker News
+
+<!--
+Kudos from Kenneth, Trey, Seth etc. 
+https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html
+Reached #2 on Hacker News
+https://news.ycombinator.com/item?id=40552621
+Cited by new Python Release Manager Hugo as must-read conference recap
+https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj
+Featured in Django News Newsletter
+https://django-news.com/issues/236#start
+Thank you to the incredible Lacey for this sweet kudo: https://fosstodon.org/@lacey@hachyderm.io/112553623603409800
+-->
 
 ![](2024-recap-images/hacker-news-rankings-stats.png)
 
@@ -227,6 +226,11 @@ https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html
 ![](2024-recap-images/hacker-news-detail-page-stats.png)
 
 ### DFW Pythoneers
+
+<!--
+Attended DFW Pythoneers
+https://www.meetup.com/dfwpython/
+-->
 
 ![](2024-recap-images/dfw-pythoneers.png)
 
