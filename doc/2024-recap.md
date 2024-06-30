@@ -1,4 +1,4 @@
-![advantage-360](https://github.com/KatherineMichel/portfolio/assets/4193054/8a008388-7874-4764-aad9-c255e4a06e16)# 2024 Recap
+# 2024 Recap
 
 <!--
 Self care
