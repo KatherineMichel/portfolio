@@ -180,7 +180,7 @@ Games purchased:
 
 I had countless hours of fun playing these when I was a kid.
 
-We face-timed while they opened the box. They immediately began playing and loved them. 
+We FaceTimed while they opened the box. They immediately began playing and loved them. 
 
 ### Side Car Social
 
