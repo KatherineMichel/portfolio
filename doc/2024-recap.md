@@ -354,7 +354,7 @@ I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/port
 
 As my recap reflects, as far as talks go, I was particularly interested in major new developments around free-threading, subinterpreters, and JiT compilation. 
 
-Not long after I posted my PyCon US 2024 Recap on social media, I got a kudo from Kenneth Reitz, PSF Fellow and author of Requests Python package (#4 for PyPI downloads). 
+Not long after I posted my PyCon US 2024 Recap on social media, I got a kudo from Kenneth Reitz, PSF Fellow and author of Requests Python package (#5 for PyPI downloads, over 10,500,00 downloads/day, depended on by over 2,900,000 repos). 
 
 Unbeknownst to me, Neil Stoker, Senior Director of Ratings AI at Fitch Ratings, had [submitted the recap to Hacker News](https://news.ycombinator.com/item?id=40552621). 
 
