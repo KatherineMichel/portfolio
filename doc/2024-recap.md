@@ -211,6 +211,11 @@ We FaceTimed while they opened the box. They immediately began playing and loved
 
 ### PS Connect
 
+<!--
+How many people now?
+Sharing, networking, and fun
+-->
+
 ## March
 
 ### DjangoCon US Talk Topics Inspiration List
@@ -317,7 +322,7 @@ A few years ago, she found out that she was on her way to having debilitating il
 
 When I started using an elliptical, I limited myself to ~70 steps per minute. Otherwise, I would get winded. Now, I am regularly up to 120+ steps per minute, and when life gets busy, and I go for a few months without exercising properly, I am able to get back to my top performance within just a few sessions. I would love to know the science behind it. 
 
-A chef friend Sheldon also encouraged me to get a personal trainer, which I have not done. It has been life-changing for him in his life and work.
+A chef friend Sheldon also encouraged me to get a personal trainer, which I have not done (yet). It has been life-changing for him in his life and work.
 
 ![](2024-recap-images/personal-best.jpg)
 Personal best... 112 steps per minute
@@ -327,7 +332,7 @@ Gym rat :)
 
 ### DjangoCon US Featured Post
 
-Along with current Django Fellow Natalia Bidart and former and current DEFNA Board Members Drew Winstel, Tim Schilling, and Koji Idressa, I was featured on DjangoCon US social media accounts. 
+I was featured on DjangoCon US social media accounts, along with current Django Fellow Natalia Bidart and former and current DEFNA Board Members Drew Winstel, Tim Schilling, and Koji Idressa. 
 
 ![](2024-recap-images/djangocon-us-featured-post.png)
 
