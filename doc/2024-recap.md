@@ -61,8 +61,7 @@ DEFNA Contract meeting
 DEFNA Hotel Contract Committee
 
 March 3
-Featured in Django News Newsletter along with Drew's (and Jeff's?)
-Stats?
+Talk Topics Inspiration List Django News Newsletter stats?
 
 I was particularly excited to see my list be posted by the DSF account and Vicky, an expert in the open source community. 
 https://fosstodon.org/@djangocon/112056987398023068
@@ -95,6 +94,9 @@ https://www.linkedin.com/posts/katherinemichel_as-a-defna-board-member-i-help-ov
 
 Mom turning the tables on me at Tanganyka
 https://www.facebook.com/katherine.michel.5/posts/pfbid034rPSj3TbthnpHvnrfiVS9uFJrXnStHxvoLbuG7zx69WbXdtLMybH3W8MibMhUpuol
+
+![](2024-recap-images/tables-turned-1.jpg)
+Mom turning the tables on me at Tanganyka
 
 
 April
@@ -136,18 +138,20 @@ You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-re
 
 ## This Year's Theme
 
-While writing this recap, I found myself typing the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
+While writing this recap, I found myself thinking the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
 
 A few examples
 * Using the experience I had acquired from working on a major task orchestration feature at work to implement more task orchestration features
 * Applying distributed system engineering expertise across multiple products
 * Finally digging into some of the more advanced industry news such as the PyCon US Language Summit blog posts and Seth M Larson's PSF security-in-residence posts
 * Creating a DjangoCon US Talk Topics Inspiration List for the second year in a row
-* Creating a thorough PyCon US Recap that built on my prior conference experiences and was wildly popular in the Python/Django community
+* Creating a thorough PyCon US Recap that built on my industry knowledge and prior conference experiences and was wildly popular in the Python/Django community
+* Doing some "heavy lifting" from conference connections made
 * Doing all of this in a timely manner
 
 <!--
 Recognizing that recap's popularity, creating a presentation from it, and using it to launch a Python Guild
+Pitching PyTexas sponsorship
 -->
 
 ## Work
@@ -173,6 +177,7 @@ This keyboard is the most comfortable that I have ever used. The contoured shape
 Having said that, the layout is similar, but not exactly the same as a regular QWERTY, and I do not recommend using it if you have to "hunt and peck." Also, like the Freestyle Pro, it is one-size fits all, and slightly larger for a woman's smaller hands. 
 
 ![](2024-recap-images/advantage-360.jpg)
+Kinesis Advantage360
 
 ### DjangoCon US 2023 Recap
 
@@ -237,7 +242,7 @@ After years of collecting conference snapshots, I got organized and created a pa
 
 ### Family Tragedy
 
-My [Aunt Judy died](https://www.livingstonfh.com/obituary/judith-k-markel) of pancreatic cancer on April 15, 2022. On March 29 of this year, my Uncle Edward passed away too. He had been suffering from probable Lyme-disease induced dementia and took a fall. 
+On April 15, 2022, my [Aunt Judy died](https://www.livingstonfh.com/obituary/judith-k-markel) of pancreatic cancer. On March 29 of this year, my Uncle Edward passed away too. He had been suffering from probable Lyme-disease induced dementia and took a fall. 
 
 Uncle Edward and Aunt Judy were truly larger than life. It was hard to believe that they'd ever be gone. 
 
@@ -285,11 +290,6 @@ Mom, me, and the lemurs!
 ![](2024-recap-images/lemurs-2.jpg)
 Me feeding a lemur a craisin out of my palm! It's holding my hand. 
 
-<!--
-![](2024-recap-images/tables-turned-1.jpg)
-Mom turning the tables on me at Tanganyka
--->
-
 ![](2024-recap-images/tables-turned-2.jpg)
 Mom turning the tables on me at Tanganyka
 
@@ -335,25 +335,33 @@ https://fosstodon.org/@djangocon/112479673098056641
 
 ### PyCon US 2024 Recap
 
+<!--
+As my recap reflects, I was particularly interested in... 
+-->
+
 I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html) experience. 
 
 ### Hacker News
 
-Not long after I posted it on social media, I got a kudo from Kenneth Reitz. 
+<!--
+https://x.com/nmstoker/status/1797250668501020962
+
+Comments and shares from Trey, Seth etc. 
+-->
+
+Not long after I posted my PyCon US 2024 Recap on social media, I got a kudo from Kenneth Reitz. 
 
 Unbeknownst to me, Neil Stoker, Senior Director of Ratings AI at Fitch Ratings, had [submitted the recap to Hacker News](https://news.ycombinator.com/item?id=40552621). 
 
 He tweeted to me that it was trending there. It had reached #2! 
 
-<!--
-https://x.com/nmstoker/status/1797250668501020962
+While the recaps I have written of smaller Python/Django conferences have been widely shared in their own right, I believe that the universal appeal of PyCon US drove the massive popularity of this post. 
 
-Kudos from Kenneth, Trey, Seth etc. 
-Cited by new Python Release Manager Hugo as must-read conference recap
-https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj
-Featured in Django News Newsletter
-https://django-news.com/issues/236#start
--->
+It was so inspiring to meet the new Python Release Manager Hugo van Kemenade at the PyCon US PSF Members Luncheon! He included my recap as the must read recap in his [conference recap roundup](https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj).
+
+Validation of my work at this level among the world's leading Python practitioners means a lot to me. 
+
+It was also featured in [Django News Newsletter](https://django-news.com/issues/236#start) and [pip Trends Newsletter](https://newsletter.piptrends.com/p/pycon-us-2024-recap-how-llms-work).
 
 ![](2024-recap-images/hacker-news-trending.png)
 #2 on Hacker News... so close to #1. Beaten out by Tim Bray's sofa parable, lol
@@ -380,7 +388,7 @@ I really enjoyed Jim Vogel's talk about Pydantic, MongoDB, Beanie, and FastAPI.
 
 In keeping with my plan to do more random, fun things for my nieces, I asked my sister what I could buy them for summer. 
 
-Based on her suggestion, I bought them 
+Based on her suggestion, I bought them:
 * Four X-Shot fast-fill water blasters
 * 24 reusable, magnetic, fast-fill water balloons
 
