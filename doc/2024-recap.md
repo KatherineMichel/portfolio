@@ -1,6 +1,8 @@
 # 2024 Recap
 
 <!--
+Self care
+
 Gifts for nieces
 Trying to be better aunt
 
@@ -132,11 +134,11 @@ Top videos
 
 ### Kinesis Advantage360
 
-In 2020, I bought a Kinesis Freestyle Pro split keyboard. Although the keyboard itself was fairly traditional, I loved the 20'' separation cord and tenting. The unique Kinesis [Advantage2](https://kinesis-ergo.com/keyboards/advantage2-keyboard/) keyboard had long piqued my curiosity as well. When Kinesis came out with the Advantage360 split version with tenting, I finally pulled the trigger. 
+In 2020, I bought a Kinesis [Freestyle Pro](https://www.amazon.com/gp/product/B07J1ZJ6XR/) split keyboard. Although the keyboard itself was fairly traditional, I loved the 20'' separation cord and tenting. The unique Kinesis [Advantage2](https://kinesis-ergo.com/keyboards/advantage2-keyboard/) keyboard had long piqued my curiosity as well. When Kinesis came out with the [Advantage360](https://kinesis-ergo.com/keyboards/advantage360/) split version with tenting, I finally pulled the trigger. 
 
-<!--
-Self care
--->
+This keyboard is the most comfortable that I have ever used. The contoured shape shortens reach and the thumb presses heavily used keys, instead of the pinky. 
+
+Having said that, the layout is not exactly the same as a regular QWERTY, and I do not recommend using it if you have to "hunt and peck." Also, like the Freestyle Pro, it is one-size fits all, and slightly larger for a woman's smaller hand. 
 
 ### DjangoCon US 2023 Recap
 
@@ -167,12 +169,12 @@ My list was featured in [Django News Newsletter](https://django-news.com/issues/
 
 As a DEFNA Board Member, I help oversee DjangoCon US, including the website design. I am also an avid photographer. 
 
-During DjangoCon US 2023, I walked around downtown Durham and took some photos of the quirky artwork there. 
+During DjangoCon US 2023, I walked around downtown Durham and took some photos of the quirky artwork there. During the always-fun website design iteration process, I shared these photos with the website team. 
 
 ![](2024-recap-images/durham-downtown-snapshots.png)
 Snapshots I took in downtown Durham
 
-During the always-fun website design iteration process, I shared these photos with the website team. I am super excited that my photos helped inspire this year's theme. The website design makes me smile, and I hope it makes you smile too! 
+I am super excited that my photos helped inspire this year's theme. The website design makes me smile, and I hope it makes you smile too! 
 
 ![](2024-recap-images/joni-djangocon-us-website-post.png)
 A shoutout from our amazing designer Joni Trythall of YupGup!
@@ -213,7 +215,9 @@ https://www.facebook.com/katherine.michel.5/posts/pfbid0kBMQMeHtXLUCN2A8epG3xvry
 
 ### Eclipse
 
-On my way back to Plano after my uncle's funeral, I got stuck in eclipse travel. I arrived back in Plano in time for the eclipse, but hadn't had time to plan. Fortunately, JPMorganChase had me covered. Eclipse glasses were handed out around campus, and we convened outside for a watch party. It's hard to put into words what it was like to watch the eclipse with what must have been thousands of co-workers. At the moment of eclipse, as Total Eclipse of the Heart played on the loudspeaker, a cheer went up across the crowd. 
+On my way back to Plano after my uncle's funeral, I got stuck in eclipse travel. I arrived back in Plano in time for the eclipse, but hadn't had time to plan. Fortunately, JPMorganChase had me covered. Eclipse glasses were handed out around campus, and we convened outside for a watch party. It's hard to put into words what it was like to watch the eclipse with what must have been thousands of co-workers. 
+
+Here is a little taste of the fun. This was a small portion of the crowd. Clouds intermittently covered the sun, but parted in time for the totality. The crowd cheered and Total Eclipse of the Heart played in the background. Super fun!
 
 <!--
 Photos
@@ -237,8 +241,9 @@ Mom, me, and the lemurs!
 ![](2024-recap-images/lemurs-2.jpg)
 Me feeding a lemur a craisin out of the palm of my hand!
 
-<!--
 Mom turning the tables on me at Tanganyka
+
+<!--
 https://www.facebook.com/katherine.michel.5/posts/pfbid034rPSj3TbthnpHvnrfiVS9uFJrXnStHxvoLbuG7zx69WbXdtLMybH3W8MibMhUpuol
 -->
 
