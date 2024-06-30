@@ -184,7 +184,7 @@ A shoutout from our amazing designer Joni Trythall of YupGup!
 
 ### Conference Snapshots
 
-After years of collecting conference snapshots, I got organized and created a page of my [favorite conference snapshots](https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html) and the stories behind them, as well as a page of [speaker, board, and organizer photos](https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html). 
+After years of collecting conference snapshots, I got organized and created a page of my [Favorite Conference Snapshots](https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html) and the stories behind them, as well as a page of [Speaker, Board, and Organizer Photos](https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html). 
 
 ### Death in the Family
 
