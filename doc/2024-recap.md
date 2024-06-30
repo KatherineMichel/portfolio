@@ -253,11 +253,11 @@ After years of collecting conference snapshots, I got organized and created a pa
 
 ### Family Tragedy
 
-On April 15, 2022, my [Aunt Judy died](https://www.livingstonfh.com/obituary/judith-k-markel) of pancreatic cancer. On March 29 of this year, my Uncle Edward passed away too. He had been suffering from probable Lyme-disease induced dementia and took a fall. 
+On April 15, 2022, my [Aunt Judy died](https://www.livingstonfh.com/obituary/judith-k-markel) of pancreatic cancer. On March 29 of this year, my Uncle Edward passed away too. He had been suffering from probable Lyme-disease induced dementia and took a fall, but ultimately, he died of a broken heart. 
 
-Uncle Edward and Aunt Judy were truly larger than life. A part of me never believed this day could happen, and I wished it never would. 
+A part of me never believed this day could happen, and I wished it never would. Uncle Edward and Aunt Judy were truly larger than life. 
 
-My uncle's life was not so easy after Aunt Judy died. He missed his Judy. He died peacefully, and I am comforted by the fact that he had a smile on his face. 
+His life was not so easy after Aunt Judy died. He missed his Judy. He died peacefully, and I am comforted by the fact that he had a smile on his face. 
 
 You can learn more about him in his [obituary](https://www.livingstonfh.com/obituary/edward-a-markel) or the [replay of his funeral](https://www.facebook.com/prettyprairieumc/videos/1118062006180755). 
 
