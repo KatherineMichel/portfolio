@@ -104,7 +104,6 @@ Facilitated communication from Jay at PyCon US to DEFNA
 PyTexas sponsorship
 
 https://x.com/search?q=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D40552621&src=typed_query
-Who is N. M. Stoker
 https://x.com/nmstoker/status/1797250668501020962
 https://fosstodon.org/@HackerNewsBot@m.einverne.info/112547856756286972
 https://fosstodon.org/@hn50@social.lansky.name/112547268058241519
@@ -155,6 +154,22 @@ Get stats- how long at the top and how many views
 -->
 
 I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html) in October 2023. It was featured in [Django News Newsletter](https://django-news.com/issues/203#start). I learned in January that the recap had been Django News Newsletter's top article for months. 
+
+## February
+
+### Board Games for My Nieces
+
+I want to start doing random, fun things for my nieces. I decided to buy them some board games. 
+
+Games purchased:
+* Guess Who?
+* Candy Land
+* Scrabble
+* Clue
+
+I had countless hours of fun playing these when I was a kid.
+
+We face-timed while they opened box. They immediately began playing and loved them. 
 
 ## March
 
@@ -296,17 +311,17 @@ https://fosstodon.org/@djangocon/112479673098056641
 
 ### PyCon US 2024 Recap
 
-I've found writing a conference recap to be a good device for recording my experience. I wrote a [PyCon US 2024 Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html). 
+I've found writing a conference recap to be a good device for recording my experience. I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html) experience. 
 
 ### Hacker News
+
+Not long after I posted it on social media, I got a kudo from Kenneth Reitz. 
 
 Unbeknownst to me, Neil Stoker, Senior Director of Ratings AI at Fitch Ratings, had [submitted the recap to Hacker News](https://news.ycombinator.com/item?id=40552621). 
 
 He tweeted to me that it was trending there. It had reached #2! 
 
 <!--
-I was already feeling chuffed, because I had gotten a kudo from Kenneth Reitz. 
-
 https://x.com/nmstoker/status/1797250668501020962
 
 Kudos from Kenneth, Trey, Seth etc. 
@@ -339,6 +354,8 @@ https://www.meetup.com/dfwpython/
 
 ![](2024-recap-images/dfw-pythoneers.png)
 -->
+
+### Summer Fun for My Nieces
 
 ### McClaren Sports Cars
 
