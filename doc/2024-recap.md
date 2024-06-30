@@ -315,7 +315,7 @@ Last year, I'd never been in a gym before and was afraid to go. My friend DeAnna
 
 A few years ago, she found out that she was on her way to having debilitating illness. She was able to avoid it by getting fit. She regularly lifts weights and has an impressive physique. She is redefining what it means to be a grandmother.
 
-When I started using an elliptical, I limited myself to ~70 steps per minute. Otherwise, I would get winded. Now, I am regularly up to 120+ steps per minute, and when life gets busy, and I go for a few months without exercising properly, I am able to get back to my top performance surprisingly quickly. I would love to know the science behind it. 
+When I started using an elliptical, I limited myself to ~70 steps per minute. Otherwise, I would get winded. Now, I am regularly up to 120+ steps per minute, and when life gets busy, and I go for a few months without exercising properly, I am able to get back to my top performance within just a few sessions. I would love to know the science behind it. 
 
 A chef friend Sheldon also encouraged me to get a personal trainer, which I have not done. It has been life-changing for him in his life and work.
 
