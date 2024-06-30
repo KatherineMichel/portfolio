@@ -141,7 +141,7 @@ In 2020, I bought a Kinesis [Freestyle Pro](https://www.amazon.com/gp/product/B0
 
 This keyboard is the most comfortable that I have ever used. The contoured shape shortens reach and the thumb presses heavily used keys, instead of the pinky. 
 
-Having said that, the layout is not exactly the same as a regular QWERTY, and I do not recommend using it if you have to "hunt and peck." Also, like the Freestyle Pro, it is one-size fits all, and slightly larger for a woman's smaller hand. 
+Having said that, the layout is similar, but not exactly the same as a regular QWERTY, and I do not recommend using it if you have to "hunt and peck." Also, like the Freestyle Pro, it is one-size fits all, and slightly larger for a woman's smaller hand. 
 
 ### DjangoCon US 2023 Recap
 
