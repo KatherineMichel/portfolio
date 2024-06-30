@@ -131,9 +131,11 @@ You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-re
 
 The dream Los Angeles trip that I took in early December 2023 turned into a [dream recap](https://katherinemichel.github.io/portfolio/los-angeles-2023.html) filled with my favorite stories, photos, and videos. 
 
-<!--
-Top videos
--->
+My most-viewed Los Angeles videos:
+* [Universal Studios Tour- King Kong](https://youtu.be/d3wERBCZHEM?si=P2SAE4GQRgXkhKDI)
+* [Santa Monica Pier Carousel](https://youtu.be/TVL2gUfgNGk?si=aJjKWFcPVtTA3YV1)
+* [Santa Monica Pier at Night- Ferris Wheel](https://youtu.be/cnWdL9C4ucU?si=G7QbrVFGAfQuWI7a)
+* [Universal Studios Tour- Jaws](https://youtu.be/evZHAcfSnqw?si=-1P7Dd3wRPQW3I8F)
 
 ### Kinesis Advantage360
 
@@ -198,7 +200,7 @@ You can learn more about him in his [obituary](https://www.livingstonfh.com/obit
 
 Amazingly, my mom, his sister, provided wonderful funeral music. 
 
-My Uncle Edward was an avid hunter. My cousin Andrea Markel Hastings organized one last duck call for him at the cemetery by a few of his fellow hunting buddies. There's something in my eye.
+My Uncle Edward was an avid hunter. My cousin Andrea Markel Hastings organized [one last duck call](https://youtu.be/ARt_orgMi3U?si=oFeWc5Qw1Ph3PdDE) for him at the cemetery by a few of his fellow hunting buddies. There's something in my eye.
 
 <!--
 My cousin pointed out that the roses were one of my uncle's favorite colors.
@@ -206,7 +208,6 @@ My cousin pointed out that the roses were one of my uncle's favorite colors.
 I think you are taking after me. 
 
 Funeral replay video
-Bird call video
 
 https://x.com/KatiMichel/status/1727781095322562783
 
@@ -304,11 +305,16 @@ https://django-news.com/issues/236#start
 Thank you to the incredible Lacey for this sweet kudo: https://fosstodon.org/@lacey@hachyderm.io/112553623603409800
 -->
 
-![](2024-recap-images/hacker-news-rankings-stats.png)
-
 ![](2024-recap-images/hacker-news-trending.png)
+#2 on Hacker News... so close to #1. Beaten out by Tim Bray's sofa parable, lol
+
+![](2024-recap-images/hacker-news-rankings-stats.png)
+#2 for nearly an hour
+
+On the "front page" for about 12 hours
 
 ![](2024-recap-images/hacker-news-detail-page-stats.png)
+It eventually reached 186 points and 91 comments
 
 <!--
 ### DFW Pythoneers
@@ -319,12 +325,16 @@ https://www.meetup.com/dfwpython/
 ![](2024-recap-images/dfw-pythoneers.png)
 -->
 
+### McClaren Sports Cars
+
 ### Innovation Week Global Hackathon 
 
-It was an amazing Innovation Week at JPMorganChase. I attended presentations Monday, Tuesday, and Wednesday, then finished the week off by participating in the Global Hackathon for the second year in a row. My first project fell through. Feeling disheartened, Wednesday night, I looked through the projects again and saw a new one that was highly relevant to my work in the databases department. I reached out to the team and joined. My team was inspiring! I learned a lot and made some new friends.
+It was an amazing Innovation Week at JPMorganChase. I attended presentations Monday, Tuesday, and Wednesday, then finished the week off by participating in the Global Hackathon for the second year in a row. 
+
+My first project fell through. Feeling disheartened, Wednesday night, I looked through the projects again and saw a new one that was highly relevant to my work in the Databases department. I reached out to the team and joined. My team was inspiring! I learned a lot and made some new friends.
 
 ![](2024-recap-images/hackathon-team.jpg)
-Here I am with my Plano-based Hackathon teammates.
+Here I am with my Plano-based hackathon teammates.
 
 ## July
 
