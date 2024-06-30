@@ -234,7 +234,7 @@ You can see it in the video
 Because our DjangoCon US host city Durham, North Carolina has the largest population of lemurs outside of Madagascar, we featured a "friendly" lemur on our website last year. 
 
 ![](2024-recap-images/djangocon-us-2023-website-header.png)
-A friendly lemur with a smile on its face
+A "friendly" lemur with a smile on its face
 
 After years of hearing about [Tanganyika Wildlife Park](https://twpark.com/) in Goddard, Kansas, mom and I decided to go. I had no idea until I got there that you can feed lemurs. They were so soft and gentle. I loved spending time with these real-life, friendly lemurs!
 
@@ -255,6 +255,11 @@ Mom turning the tables on me at Tanganyka
 [PyTexas 2024](https://www.pytexas.org/2024/) took place in Austin, Texas from April 19-21. 
 
 <!--
+Jason's photo
+Carol's keynote
+Tools list
+Talk link
+Pics
 Moshe
 -->
 
@@ -270,16 +275,16 @@ I'd never been in a gym before and was afraid to go
 Sheldon- told me the benefits of a personal trainer
 -->
 
+<!--
 ### DjangoCon US Featured Post
 
-<!--
 Featured on DjangoCon US account
 Drew Winstel, Tim Schilling, Natalia Bidart, Kojo
 https://x.com/djangocon/status/1792933457183527350
 https://fosstodon.org/@djangocon/112479673098056641
--->
 
 ![](2024-recap-images/djangocon-us-featured-post.png)
+-->
 
 ### PyCon US 2024
 
@@ -316,12 +321,10 @@ https://www.meetup.com/dfwpython/
 
 ### Innovation Week Global Hackathon 
 
-<!--
-Innovation Week
-Databases
--->
+It was an amazing Innovation Week at JPMorganChase. I attended presentations Monday, Tuesday, and Wednesday, then finished the week off by participating in the Global Hackathon for the second year in a row. My first project fell through. Feeling disheartened, Wednesday night, I looked through the projects again and saw a new one that was highly relevant to my work in the databases department. I reached out to the team and joined. My team was inspiring! I learned a lot and made some new friends.
 
 ![](2024-recap-images/hackathon-team.jpg)
+Here I am with my Plano-based Hackathon teammates.
 
 ## July
 
@@ -357,6 +360,7 @@ Not as much as expected due to issues in first half of year
 Picked up in second half of year
 https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-2024.html
 -->
+
 ## Parting Thoughts
 
 Thank you to each and everyone one of you, and there are many, who made my year special.
