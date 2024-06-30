@@ -300,13 +300,16 @@ Mom turning the tables on me at Tanganyka
 
 [PyTexas 2024](https://www.pytexas.org/2024/) took place in Austin, Texas from April 19-21. 
 
+I met Jason Koo at DjangoCon US 2022 in San Diego where he generously helped as an organizer. It was great to see him again, and I look forward to learning more about Neo4j Graph Database! On the bright, sunny, second day of PyTexas, he invited me to be in this photo. 
+
+![](2024-recap-images/jason-koo.jpg)
+Nick, Dan, Jason, Josh, me, Carol
+
+It was a pleasure to get a snapshot next to my incredible friend Carol Willing. She had given an amazing keynote that morning. It is a must watch! I was also standing next to Josh Cannon who read the very clever Oh the (Methods) You Can (Make) book by Dunder Seuss.
+
 <!--
-Jason's photo
-Carol's keynote
-Tools list
-Talk link
-Pics
-Moshe
+Talk videos
+Carol's talk link
 -->
 
 ## May
