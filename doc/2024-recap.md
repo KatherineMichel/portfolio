@@ -177,7 +177,7 @@ During DjangoCon US 2023, I walked around downtown Durham and took some photos o
 ![](2024-recap-images/durham-downtown-snapshots.png)
 Snapshots I took in downtown Durham
 
-I am super excited that my photos helped inspire this year's theme. The website design makes me smile, and I hope it makes you smile too! 
+I am super excited that my photos helped inspire this year's theme. The [website design](https://2024.djangocon.us/) makes me smile, and I hope it makes you smile too! 
 
 ![](2024-recap-images/joni-djangocon-us-website-post.png)
 A shoutout from our amazing designer Joni Trythall of YupGup!
