@@ -117,6 +117,9 @@ Many DMs
 https://fosstodon.org/@kati/112612110567916246
 Get Django News Newsletter stats
 
+Thank you to the incredible Lacey for this sweet kudo
+https://fosstodon.org/@lacey@hachyderm.io/112553623603409800
+
 June
 PyTexas Sponsorship pitch
 -->
@@ -291,18 +294,26 @@ https://fosstodon.org/@djangocon/112479673098056641
 
 ## June
 
+### PyCon US 2024 Recap
+
+I've found writing a conference recap to be a good device for recording my experience. I wrote a [PyCon US 2024 Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html). 
+
 ### Hacker News
 
+Unbeknownst to me, Neil Stoker, Senior Director of Ratings AI at Fitch Ratings, had [submitted the recap to Hacker News](https://news.ycombinator.com/item?id=40552621). 
+
+He tweeted to me that it was trending there. It had reached #2! 
+
 <!--
+I was already feeling chuffed, because I had gotten a kudo from Kenneth Reitz. 
+
+https://x.com/nmstoker/status/1797250668501020962
+
 Kudos from Kenneth, Trey, Seth etc. 
-https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html
-Reached #2 on Hacker News
-https://news.ycombinator.com/item?id=40552621
 Cited by new Python Release Manager Hugo as must-read conference recap
 https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj
 Featured in Django News Newsletter
 https://django-news.com/issues/236#start
-Thank you to the incredible Lacey for this sweet kudo: https://fosstodon.org/@lacey@hachyderm.io/112553623603409800
 -->
 
 ![](2024-recap-images/hacker-news-trending.png)
@@ -311,10 +322,14 @@ Thank you to the incredible Lacey for this sweet kudo: https://fosstodon.org/@la
 ![](2024-recap-images/hacker-news-rankings-stats.png)
 #2 for nearly an hour
 
+![](2024-recap-images/hacker-news-rankings-expanded.png)
 On the "front page" for about 12 hours
 
 ![](2024-recap-images/hacker-news-detail-page-stats.png)
 It eventually reached 186 points and 91 comments
+
+![](2024-recap-images/lacey-kudo.png)
+Thank you to the incredible Lacey for this sweet kudo
 
 <!--
 ### DFW Pythoneers
