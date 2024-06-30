@@ -3,13 +3,6 @@
 <!--
 Cumulative advantage
 
-Self care
-
-It takes time to build things. One thing at at time. 
-
-I've found writing a conference recap to be a good device for recording my experience and building on it. 
-
-
 Charnise
 
 https://fosstodon.org/@kati/112283408437442848
@@ -21,20 +14,24 @@ Sprint retro
 Sprint planning
 Demos
 
-Multi-tenancy
 Switched teams
+
 Work highlights- significantly reduced time, n+1
-CockroachDB, dashboard, database optimization
-Profiling tools
+Multi-tenancy
+
+CockroachDB and its dashboard
+Profiling
+Database optimization
 Django optimization
+Databus
+Pub/sub architecture
+
+Cryptography and security
+Operating at scale
 
 Database learning, on the job, at PyCon US during personal conversations and sponsor booths, during Global Hackathon conversations
 
 Cluster creation
-Databus
-pub/sub
-
-Task orchestration and distributed systems engineering
 
 Grew in capability- things once more difficult for me became day-to-day tasks
 Challenges of scale and security were good for me
@@ -49,7 +46,6 @@ Security, resiliency, failover, restore
 Product management, roadmap
 User experience
 
-PS Connect continues
 Sick 3 times
 March 8
 Even as it improved, it continued... 
@@ -105,14 +101,17 @@ DEFNA Board Interviews
 May
 Worthmore session: Networking as a Woman: How to become 2.5x more successful
 
+
+Featured on DjangoCon US account
+https://x.com/djangocon/status/1792933457183527350
+https://fosstodon.org/@djangocon/112479673098056641
+
+
 Databases connections
 
 May
-Felt I was able to further grow my network and have a deeper understanding of subjects
-Followed up on PyCon US connections
-Do more "heavy lifting"
-Facilitated communication from Jay at PyCon US to DEFNA
-PyTexas sponsorship
+
+Comments and shares from Trey, Seth etc. 
 
 https://x.com/search?q=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D40552621&src=typed_query
 https://x.com/nmstoker/status/1797250668501020962
@@ -143,8 +142,6 @@ You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-re
 While writing this recap, I found myself thinking the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
 
 A few examples
-* Using the experience I had acquired from working on a major task orchestration feature at work to implement more task orchestration features
-* Applying distributed system engineering expertise across multiple products
 * Finally digging into some of the more advanced industry news such as the PyCon US Language Summit blog posts and Seth M Larson's PSF security-in-residence posts
 * Creating a DjangoCon US Talk Topics Inspiration List for the second year in a row
 * Creating a thorough PyCon US Recap that built on my industry knowledge and prior conference experiences and was wildly popular in the Python/Django community
@@ -152,11 +149,15 @@ A few examples
 * Doing all of this in a timely manner
 
 <!--
+* Using the experience I had acquired from working on a major task orchestration feature at work to implement more task orchestration features
+* Applying distributed system engineering expertise across multiple products
+
 Recognizing that recap's popularity, creating a presentation from it, and using it to launch a Python Guild
-Pitching PyTexas sponsorship
 -->
 
 ## Work
+
+I continued as a Python/Django software engineer doing task orchestration and distributes systems engineering. 
 
 ## January 
 
@@ -263,7 +264,7 @@ Beautiful sympathy flowers from DEFNA... in a strange coincidence, my cousin poi
 Funeral replay video
 -->
 
-### Eclipse
+### JPMorganChase Eclipse Watch Party
 
 On my way back to Plano after my uncle's funeral, I got stuck in eclipse travel. I arrived back in Plano in time for the eclipse, but hadn't had time to plan. Fortunately, JPMorganChase had me covered. Eclipse glasses were handed out around campus, and we convened outside for a watch party. It's hard to put into words what it was like to watch the eclipse with what must have been thousands of co-workers. 
 
@@ -320,36 +321,29 @@ Sheldon- told me the benefits of a personal trainer
 
 ### DjangoCon US Featured Post
 
-<!--
-Featured on DjangoCon US account
-Drew Winstel, Tim Schilling, Natalia Bidart, Kojo
-https://x.com/djangocon/status/1792933457183527350
-https://fosstodon.org/@djangocon/112479673098056641
--->
+Along with current Django Fellow Natalia Bidart and former and current DEFNA Board Members Drew Winstel, Tim Schilling, and Koji Idress, I was featured on DjangoCon US social media accounts. 
 
 ![](2024-recap-images/djangocon-us-featured-post.png)
 
 ### PyCon US 2024
 
+PyCon US 2024 took place from May 15-23 in Pittsburgh, Pennsylvania. 
+
+Thank you to Bernat Gabor for encouraging me to go! It was extremely worth it. 
+
+After the conference, I did some "heavy lifting" from conference connections made. A few examples: 
+* Based on a conversation with K. Jay Miller, liasing with DEFNA to further the interests of Black Python Devs at DjangoCon US
+* Making PyTexas sponsorship pitches to interested parties
+
 ## June
 
 ### PyCon US 2024 Recap
 
-<!--
-As my recap reflects, I was particularly interested in... 
--->
-
 I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html) experience. 
 
-### Hacker News
+As my recap reflects, as far as talks go, I was particularly interested in major new developments around free-threading, subinterpreters, and JiT compilation. 
 
-<!--
-https://x.com/nmstoker/status/1797250668501020962
-
-Comments and shares from Trey, Seth etc. 
--->
-
-Not long after I posted my PyCon US 2024 Recap on social media, I got a kudo from Kenneth Reitz. 
+Not long after I posted my PyCon US 2024 Recap on social media, I got a kudo from Kenneth Reitz, PSF Fellow and author of Requests Python package (#4 for PyPI downloads). 
 
 Unbeknownst to me, Neil Stoker, Senior Director of Ratings AI at Fitch Ratings, had [submitted the recap to Hacker News](https://news.ycombinator.com/item?id=40552621). 
 
@@ -361,7 +355,7 @@ It was so inspiring to meet the new Python Release Manager Hugo van Kemenade at 
 
 He included my recap as the must read recap in his [conference recap roundup](https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj).
 
-Validation of my work at this level among the world's leading Python practitioners means a lot to me. 
+Validation of my work among the world's leading Python practitioners and global community means a lot to me. 
 
 It was also featured in [Django News Newsletter](https://django-news.com/issues/236#start) and [pip Trends Newsletter](https://newsletter.piptrends.com/p/pycon-us-2024-recap-how-llms-work).
 
@@ -432,6 +426,8 @@ Also, read the Language Summit articles for the first time and was able to grok 
 ## Self-Care
 
 <!--
+Felt I was able to further grow my network and have a deeper understanding of subjects
+
 Update on how I did
 Not as much as expected due to issues in first half of year
 Picked up in second half of year
