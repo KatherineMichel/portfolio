@@ -365,7 +365,7 @@ In keeping with my plan to do more random, fun things for my nieces, I asked my 
 
 It was an amazing Innovation Week at JPMorganChase. I attended presentations Monday, Tuesday, and Wednesday, then finished the week off by participating in the Global Hackathon for the second year in a row. 
 
-My first project fell through. Feeling disheartened, Wednesday night, I looked through the projects again and saw a new one that was highly relevant to my work in the Databases department. I reached out to the team and joined. My team was inspiring! I learned a lot and made some new friends.
+My first project fell through. Feeling disheartened, Wednesday night, I looked through the projects again and saw a new one that was highly relevant to my work in the Databases Department. I reached out to the team and joined. It felt meant to be. My team was inspiring! I learned a lot and made some new friends.
 
 ![](2024-recap-images/hackathon-team.jpg)
 Here I am with my Plano-based hackathon teammates.
