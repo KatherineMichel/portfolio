@@ -309,16 +309,16 @@ I'd never been in a gym before and was afraid to go
 Sheldon- told me the benefits of a personal trainer
 -->
 
-<!--
 ### DjangoCon US Featured Post
 
+<!--
 Featured on DjangoCon US account
 Drew Winstel, Tim Schilling, Natalia Bidart, Kojo
 https://x.com/djangocon/status/1792933457183527350
 https://fosstodon.org/@djangocon/112479673098056641
+-->
 
 ![](2024-recap-images/djangocon-us-featured-post.png)
--->
 
 ### PyCon US 2024
 
@@ -326,7 +326,11 @@ https://fosstodon.org/@djangocon/112479673098056641
 
 ### PyCon US 2024 Recap
 
-I've found writing a conference recap to be a good device for recording my experience and building on it. I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html) experience. 
+<!--
+I've found writing a conference recap to be a good device for recording my experience and building on it. 
+-->
+
+I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html) experience. 
 
 ### Hacker News
 
