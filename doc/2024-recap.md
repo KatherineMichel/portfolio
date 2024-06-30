@@ -101,6 +101,7 @@ DEFNA Board Interviews
 May
 Worthmore session: Networking as a Woman: How to become 2.5x more successful
 
+https://fosstodon.org/@kati/112380066353516377
 
 Featured on DjangoCon US account
 https://x.com/djangocon/status/1792933457183527350
@@ -149,6 +150,8 @@ A few examples
 * Doing all of this in a timely manner
 
 <!--
+Also, read the Language Summit articles for the first time and was able to grok the content
+
 * Using the experience I had acquired from working on a major task orchestration feature at work to implement more task orchestration features
 * Applying distributed system engineering expertise across multiple products
 
@@ -247,32 +250,26 @@ After years of collecting conference snapshots, I got organized and created a pa
 
 On April 15, 2022, my [Aunt Judy died](https://www.livingstonfh.com/obituary/judith-k-markel) of pancreatic cancer. On March 29 of this year, my Uncle Edward passed away too. He had been suffering from probable Lyme-disease induced dementia and took a fall. 
 
-Uncle Edward and Aunt Judy were truly larger than life. It was hard to believe that they'd ever be gone. 
+Uncle Edward and Aunt Judy were truly larger than life. A part of me never believed this day could happen, and I wished it never would. 
 
 My uncle's life was not so easy after Aunt Judy died. He missed his Judy. He died peacefully, and I am comforted by the fact that he had a smile on his face. 
 
-You can learn more about him in his [obituary](https://www.livingstonfh.com/obituary/edward-a-markel) or the replay of his funeral. He was one-of-a-kind. 
+You can learn more about him in his [obituary](https://www.livingstonfh.com/obituary/edward-a-markel) or the [replay of his funeral](https://www.facebook.com/prettyprairieumc/videos/1118062006180755). 
 
-Amazingly, my mom, his sister, provided wonderful funeral music. 
+He was one-of-a-kind. He was a brilliant engineer and businessman and the best brother my mother could have ever asked for.
+
+My mom put her heart into providing the funeral music. He would have absolutely loved it.
 
 My Uncle Edward was an avid hunter. My cousin Andrea Markel Hastings organized [one last duck call](https://youtu.be/ARt_orgMi3U?si=oFeWc5Qw1Ph3PdDE) for him at the cemetery by a few of his fellow hunting buddies. There's something in my eye.
 
 ![](2024-recap-images/defna-flowers.jpg)
 Beautiful sympathy flowers from DEFNA... in a strange coincidence, my cousin pointed out that the roses were one of my uncle's favorite colors
 
-<!--
-Funeral replay video
--->
-
 ### JPMorganChase Eclipse Watch Party
 
 On my way back to Plano after my uncle's funeral, I got stuck in eclipse travel. I arrived back in Plano in time for the eclipse, but hadn't had time to plan. Fortunately, JPMorganChase had me covered. Eclipse glasses were handed out around campus, and we convened outside for a watch party. It's hard to put into words what it was like to watch the eclipse with what must have been thousands of co-workers. 
 
 Here is [a little taste of the fun](https://youtu.be/vvNfmo0zwDw?si=Tl2xj-TZ29j_Doed). This was a small portion of the crowd. Clouds intermittently covered the sun, but parted in time for the totality. The crowd cheered and Total Eclipse of the Heart played in the background. Super fun!
-
-<!--
-Photos
--->
 
 ## April
 
@@ -309,15 +306,18 @@ Moshe
 
 ## May
 
-<!--
-https://fosstodon.org/@kati/112380066353516377
+### Gym
 
-Gym, lifting weights
-Inspired by DeAnna Troutman Anaya- grandmother (she doesn't look like any grandmother I've ever seen) who is "Liftin4Life"
-Tell her story of illness to health
-I'd never been in a gym before and was afraid to go
-Sheldon- told me the benefits of a personal trainer
--->
+![](2024-recap-images/one-day-too-many.png)
+One day too many
+
+Last year, I'd never been in a gym before and was afraid to go. My friend DeAnna Troutman Anaya talked me into getting started.
+
+A few years ago, she found out that she was on her way to having debilitating illness. She was able to avoid it by getting fit. She regularly lifts weights and has an impressive physique. She is redefining what it means to be a grandmother.
+
+When I started using an elliptical, I limited myself to ~70 steps per minute. Otherwise, I would get winded. Now, I am regularly up to 120+ steps per minute, and when life gets busy, and I go for weeks without exercising properly, I am able to get back to my top performance surprisingly quickly. I would love to know the science behind it. 
+
+A chef friend Sheldon also encouraged me to get a personal trainer, which I have not done. It has been life-changing for him in his life and work.
 
 ### DjangoCon US Featured Post
 
@@ -401,14 +401,14 @@ Here I am with my Plano-based hackathon teammates.
 
 ### PyCon US 2024 Presentation
 
+Due to the popularity of my PyCon US 2024 Recap, I decided to turn it into a presentation. 
+
 <!--
-Created PyCon US 2024 Recap presentation based on my blog post
 What I learned from PS Connect
 Python Guild
 Coincide with release of videos on youtube
 Dovetail nicely into PyLadies event
 If you are interested...
-Also, read the Language Summit articles for the first time and was able to grok the content
 -->
 
 ## August
@@ -456,7 +456,7 @@ Simple things poster
 
 ## March
 
-### Eclipse
+### JPMorganChase Eclipse Watch Party
 
 ## April
 
