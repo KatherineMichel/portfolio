@@ -1,4 +1,4 @@
-# 2024 Recap
+![advantage-360](https://github.com/KatherineMichel/portfolio/assets/4193054/8a008388-7874-4764-aad9-c255e4a06e16)# 2024 Recap
 
 <!--
 Self care
@@ -83,6 +83,8 @@ https://www.facebook.com/katherine.michel.5/posts/pfbid02RbmuKTnP2kayN7QfovAG78a
 Reflection
 https://www.facebook.com/katherine.michel.5/posts/pfbid0kBMQMeHtXLUCN2A8epG3xvryEXztyGQD8CXN9vfWZjWkso6oeZhvX5wW1ZZyiM5jl
 
+I think you are taking after me. 
+
 https://x.com/KatiMichel/status/1727781095322562783
 
 
@@ -98,8 +100,6 @@ April
 DEFNA Board Interviews
 
 May
-May the 4th Event
-
 Worthmore session: Networking as a Woman: How to become 2.5x more successful
 
 Databases connections
@@ -154,6 +154,8 @@ In 2020, I bought a Kinesis [Freestyle Pro](https://www.amazon.com/gp/product/B0
 This keyboard is the most comfortable that I have ever used. The contoured shape shortens reach and the thumb presses heavily used keys, instead of the pinky. 
 
 Having said that, the layout is similar, but not exactly the same as a regular QWERTY, and I do not recommend using it if you have to "hunt and peck." Also, like the Freestyle Pro, it is one-size fits all, and slightly larger for a woman's smaller hands. 
+
+![](2024-recap-images/advantage-360.jpg)
 
 ### DjangoCon US 2023 Recap
 
@@ -240,8 +242,6 @@ My Uncle Edward was an avid hunter. My cousin Andrea Markel Hastings organized [
 Beautiful sympathy flowers from DEFNA... in a strange coincidence, my cousin pointed out that the roses were one of my uncle's favorite colors
 
 <!--
-I think you are taking after me. 
-
 Funeral replay video
 -->
 
@@ -272,8 +272,10 @@ Mom, me, and the lemurs!
 ![](2024-recap-images/lemurs-2.jpg)
 Me feeding a lemur a craisin out of my palm! It's holding my hand. 
 
+<!--
 ![](2024-recap-images/tables-turned-1.jpg)
 Mom turning the tables on me at Tanganyka
+-->
 
 ![](2024-recap-images/tables-turned-2.jpg)
 Mom turning the tables on me at Tanganyka
@@ -359,14 +361,14 @@ It eventually reached 186 points and 91 comments
 ![](2024-recap-images/lacey-kudo.png)
 Thank you to the incredible Lacey for this sweet kudo
 
-<!--
 ### DFW Pythoneers
 
+<!--
 Attended DFW Pythoneers
 https://www.meetup.com/dfwpython/
+-->
 
 ![](2024-recap-images/dfw-pythoneers.png)
--->
 
 ### Summer Fun for My Nieces
 
