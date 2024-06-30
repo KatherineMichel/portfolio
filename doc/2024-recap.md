@@ -1,6 +1,8 @@
 # 2024 Recap
 
 <!--
+Cumulative advantage
+
 Self care
 
 It takes time to build things. One thing at at time. 
@@ -132,6 +134,22 @@ PyTexas Sponsorship pitch
 
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
 
+## This Year's Theme
+
+While writing this recap, I found myself typing the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
+
+A few examples
+* Using the experience I had acquired from working on a major task orchestration feature at work to implement more task orchestration features
+* Applying distributed system engineering expertise across multiple products
+* Finally digging into some of the more advanced industry news such as the PyCon US Language Summit blog posts and Seth M Larson's PSF security-in-residence posts
+* Creating a DjangoCon US Talk Topics Inspiration List for the second year in a row
+* Creating a thorough PyCon US Recap that built on my prior conference experiences and was wildly popular in the Python/Django community
+* Doing all of this in a timely manner
+
+<!--
+Recognizing that recap's popularity, creating a presentation from it, and using it to launch a Python Guild
+-->
+
 ## Work
 
 ## January 
@@ -150,7 +168,7 @@ My most-viewed Los Angeles videos:
 
 In 2020, I bought a Kinesis [Freestyle Pro](https://www.amazon.com/gp/product/B07J1ZJ6XR/) split keyboard. Although the keyboard itself was fairly traditional, I loved the 20'' separation cord and tenting. The unique Kinesis [Advantage2](https://kinesis-ergo.com/keyboards/advantage2-keyboard/) keyboard had long piqued my curiosity as well. When Kinesis came out with the [Advantage360](https://kinesis-ergo.com/keyboards/advantage360/) split version with tenting, I finally pulled the trigger. 
 
-This keyboard is the most comfortable that I have ever used. The contoured shape shortens reach and the thumb presses heavily used keys, instead of the pinky. 
+This keyboard is the most comfortable that I have ever used. The contoured shape shortens reach and the thumb presses heavily-used keys, instead of the pinky. 
 
 Having said that, the layout is similar, but not exactly the same as a regular QWERTY, and I do not recommend using it if you have to "hunt and peck." Also, like the Freestyle Pro, it is one-size fits all, and slightly larger for a woman's smaller hands. 
 
@@ -166,8 +184,6 @@ I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/d
 
 ## February
 
-### Arbor Hills
-
 ### Board Games for My Nieces
 
 I want to start doing random, fun things for my nieces. I decided to buy them some board games. 
@@ -182,11 +198,7 @@ I had countless hours of fun playing these when I was a kid.
 
 We FaceTimed while they opened the box. They immediately began playing and loved them. 
 
-### Side Car Social
-
 ### PS Connect
-
-### Chinese New Year
 
 ## March
 
@@ -223,13 +235,15 @@ A shoutout from our amazing designer Joni Trythall of YupGup!
 
 After years of collecting conference snapshots, I got organized and created a page of my [Favorite Conference Snapshots](https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html) and the stories behind them, as well as a page of [Speaker, Board, and Organizer Photos](https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html). 
 
-### Death in the Family
+### Family Tragedy
+
+My [Aunt Judy died](https://www.livingstonfh.com/obituary/judith-k-markel) of pancreatic cancer on April 15, 2022. On March 29 of this year, my Uncle Edward passed away too. He had been suffering from probable Lyme-disease induced dementia and took a fall. 
 
 Uncle Edward and Aunt Judy were truly larger than life. It was hard to believe that they'd ever be gone. 
 
-[Aunt Judy died](https://www.livingstonfh.com/obituary/judith-k-markel) of pancreatic cancer on April 15, 2022. My uncle's life was not so easy after that. He missed his Judy. 
+My uncle's life was not so easy after Aunt Judy died. He missed his Judy. 
 
-Sadly, on March 29 of this year, he passed away. He died peacefully, and I am comforted by the fact that he had a smile on his face. 
+He died peacefully, and I am comforted by the fact that he had a smile on his face. 
 
 You can learn more about him in his [obituary](https://www.livingstonfh.com/obituary/edward-a-markel) or the replay of his funeral. He was one-of-a-kind. 
 
@@ -279,7 +293,7 @@ Mom turning the tables on me at Tanganyka
 ![](2024-recap-images/tables-turned-2.jpg)
 Mom turning the tables on me at Tanganyka
 
-### PyTexas
+### PyTexas 2024
 
 [PyTexas 2024](https://www.pytexas.org/2024/) took place in Austin, Texas from April 19-21. 
 
@@ -293,10 +307,6 @@ Moshe
 -->
 
 ## May
-
-### May the 4th
-
-### Side Car Social
 
 <!--
 https://fosstodon.org/@kati/112380066353516377
@@ -366,10 +376,6 @@ After months of good intentions, I finally committed to attending [DFW Pythoneer
 
 I really enjoyed Jim Vogel's talk about Pydantic, MongoDB, Beanie, and FastAPI. 
 
-<!--
-![](2024-recap-images/dfw-pythoneers.png)
--->
-
 ### Summer Fun for My Nieces
 
 In keeping with my plan to do more random, fun things for my nieces, I asked my sister what I could buy them for summer. 
@@ -377,8 +383,6 @@ In keeping with my plan to do more random, fun things for my nieces, I asked my 
 Based on her suggestion, I bought them 
 * Four X-Shot fast-fill water blasters
 * 24 reusable, magnetic, fast-fill water balloons
-
-### McClaren Sports Cars
 
 ### Innovation Week Global Hackathon 
 
@@ -435,3 +439,35 @@ These are the "good old days." Live your best life.
 <!--
 Simple things poster
 -->
+
+## February
+
+### Arbor Hills
+
+### Side Car Social
+
+### Chinese New Year
+
+## March
+
+### Eclipse
+
+## April
+
+### PyTexas 2024 Photos
+
+## May
+
+### May the 4th
+
+### PyCon US 2024 Photos
+
+### Side Car Social
+
+## June
+
+### McClaren Sports Cars
+
+## September
+
+### DjangoCon US 2024 Photos
