@@ -364,8 +364,11 @@ Thank you to the incredible Lacey for this sweet kudo
 
 After months of good intentions, I finally committed to attending [DFW Pythoneers](https://www.meetup.com/dfwpython/) meetup. It was a great time! I got to see Kevin Horn for the third time in two months and Broadus Jones for the second time in two months. :) 
 
+I really enjoyed Jim Vogel's talk about Pydantic, MongoDB, Beanie, and FastAPI. 
+
+<!--
 ![](2024-recap-images/dfw-pythoneers.png)
-DFW Pythoneers meetup
+-->
 
 ### Summer Fun for My Nieces
 
