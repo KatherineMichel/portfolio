@@ -82,6 +82,9 @@ https://www.linkedin.com/posts/katherinemichel_life-isnt-always-easy-but-conside
 
 https://www.linkedin.com/posts/katherinemichel_as-a-defna-board-member-i-help-oversee-djangocon-activity-7182562538193125376-6_EG/
 
+Mom turning the tables on me at Tanganyka
+https://www.facebook.com/katherine.michel.5/posts/pfbid034rPSj3TbthnpHvnrfiVS9uFJrXnStHxvoLbuG7zx69WbXdtLMybH3W8MibMhUpuol
+
 
 April
 DEFNA Board Interviews
@@ -241,11 +244,11 @@ Mom, me, and the lemurs!
 ![](2024-recap-images/lemurs-2.jpg)
 Me feeding a lemur a craisin out of the palm of my hand!
 
+![](2024-recap-images/tables-turned-1.jpg)
 Mom turning the tables on me at Tanganyka
 
-<!--
-https://www.facebook.com/katherine.michel.5/posts/pfbid034rPSj3TbthnpHvnrfiVS9uFJrXnStHxvoLbuG7zx69WbXdtLMybH3W8MibMhUpuol
--->
+![](2024-recap-images/tables-turned-2.jpg)
+Mom turning the tables on me at Tanganyka
 
 ### PyTexas
 
