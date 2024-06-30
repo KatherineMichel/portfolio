@@ -220,6 +220,7 @@ Amazingly, my mom, his sister, provided wonderful funeral music.
 
 My Uncle Edward was an avid hunter. My cousin Andrea Markel Hastings organized [one last duck call](https://youtu.be/ARt_orgMi3U?si=oFeWc5Qw1Ph3PdDE) for him at the cemetery by a few of his fellow hunting buddies. There's something in my eye.
 
+![](2024-recap-images/defna-flowers.jpg)
 Beautiful sympathy flowers from DEFNA... in a strange coincidence, my cousin pointed out that the roses were one of my uncle's favorite colors
 
 <!--
