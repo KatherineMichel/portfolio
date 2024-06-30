@@ -242,7 +242,7 @@ After years of hearing about [Tanganyika Wildlife Park](https://twpark.com/) in 
 Mom, me, and the lemurs!
 
 ![](2024-recap-images/lemurs-2.jpg)
-Me feeding a lemur a craisin out of the palm of my hand!
+Me feeding a lemur a craisin out of my palm! It's holding my hand. 
 
 ![](2024-recap-images/tables-turned-1.jpg)
 Mom turning the tables on me at Tanganyka
