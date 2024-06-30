@@ -57,9 +57,6 @@ January
 DEFNA Contract meeting
 DEFNA Hotel Contract Committee
 
-DjangoCon US 2023 Recap was Django News Newsletter top link for months. 
-Get stats- how long at the top and how many views
-
 March 3
 Featured in Django News Newsletter along with Drew's (and Jeff's?)
 Stats?
@@ -121,6 +118,8 @@ PyTexas Sponsorship pitch
 
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
 
+## Work
+
 ## January 
 
 ### Los Angeles 2023 Trip Recap
@@ -133,19 +132,19 @@ Top videos
 
 ### Kinesis Advantage360
 
+In 2020, I bought a Kinesis Freestyle Pro split keyboard. Although the keyboard itself was fairly traditional, I loved the 20'' separation cord and tenting. The unique Kinesis [Advantage2](https://kinesis-ergo.com/keyboards/advantage2-keyboard/) keyboard had long piqued my curiosity as well. When Kinesis came out with the Advantage360 split version with tenting, I finally pulled the trigger. 
+
 <!--
 Self care
-New keyboard
-Kinesis Advantage360 Split Ergonomic Keyboard
 -->
 
 ### DjangoCon US 2023 Recap
 
 <!--
-https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html
-Featured in Django News Newsletter
-https://django-news.com/issues/203#start
+Get stats- how long at the top and how many views
 -->
+
+I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html) in October 2023. It was featured in [Django News Newsletter](https://django-news.com/issues/203#start). I learned in January that the recap had been Django News Newsletter's top article for months. 
 
 ## March
 
@@ -180,7 +179,7 @@ A shoutout from our amazing designer Joni Trythall of YupGup!
 
 ### Conference Snapshots
 
-After years of intending to do it, I created a page of my [favorite conference snapshots](https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html) and the stories behind them, as well as a page of [speaker, board, and organizer photos](https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html). 
+After years of collecting conference snapshots, I got organized and created a page of my [favorite conference snapshots](https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html) and the stories behind them, as well as a page of [speaker, board, and organizer photos](https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html). 
 
 ### Death in the Family
 
@@ -192,7 +191,7 @@ Sadly, on March 29 of this year, he passed away. He died peacefully, and I am co
 
 You can learn more about him in his [obituary](https://www.livingstonfh.com/obituary/edward-a-markel) or the replay of his funeral. He was one-of-a-kind. 
 
-Amazingly, my mom, his sister, provided the funeral music. 
+Amazingly, my mom, his sister, provided wonderful funeral music. 
 
 My Uncle Edward was an avid hunter. My cousin Andrea Markel Hastings organized one last duck call for him at the cemetery by a few of his fellow hunting buddies. There's something in my eye.
 
