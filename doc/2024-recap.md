@@ -3,10 +3,9 @@
 <!--
 Self care
 
-Gifts for nieces
-Trying to be better aunt
-
 It takes time to build things. One thing at at time. 
+
+I've found writing a conference recap to be a good device for recording my experience and building on it. 
 
 
 Charnise
@@ -326,10 +325,6 @@ https://fosstodon.org/@djangocon/112479673098056641
 
 ### PyCon US 2024 Recap
 
-<!--
-I've found writing a conference recap to be a good device for recording my experience and building on it. 
--->
-
 I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html) experience. 
 
 ### Hacker News
@@ -367,16 +362,18 @@ Thank you to the incredible Lacey for this sweet kudo
 
 ### DFW Pythoneers
 
-<!--
-Attended DFW Pythoneers
-https://www.meetup.com/dfwpython/
--->
+After months of good intentions, I finally committed to attending [DFW Pythoneers](https://www.meetup.com/dfwpython/) meetup. It was a great time! I got to see Kevin Horn for the third time in two months and Broadus Jones for the second time in two months. :) 
 
 ![](2024-recap-images/dfw-pythoneers.png)
+DFW Pythoneers meetup
 
 ### Summer Fun for My Nieces
 
-In keeping with my plan to do more random, fun things for my nieces, I asked my sister what I could buy them for summer. Based on her suggestion, I bought them four X-Shot fast-fill water blasters and 24 reusable, magnetic, fast-fill water balloons. 
+In keeping with my plan to do more random, fun things for my nieces, I asked my sister what I could buy them for summer. 
+
+Based on her suggestion, I bought them 
+* Four X-Shot fast-fill water blasters
+* 24 reusable, magnetic, fast-fill water balloons
 
 ### McClaren Sports Cars
 
