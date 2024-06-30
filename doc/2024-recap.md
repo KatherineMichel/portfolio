@@ -220,9 +220,9 @@ Amazingly, my mom, his sister, provided wonderful funeral music.
 
 My Uncle Edward was an avid hunter. My cousin Andrea Markel Hastings organized [one last duck call](https://youtu.be/ARt_orgMi3U?si=oFeWc5Qw1Ph3PdDE) for him at the cemetery by a few of his fellow hunting buddies. There's something in my eye.
 
-<!--
-My cousin pointed out that the roses were one of my uncle's favorite colors.
+Beautiful sympathy flowers from DEFNA... in a strange coincidence, my cousin pointed out that the roses were one of my uncle's favorite colors
 
+<!--
 I think you are taking after me. 
 
 Funeral replay video
@@ -356,6 +356,8 @@ https://www.meetup.com/dfwpython/
 -->
 
 ### Summer Fun for My Nieces
+
+In keeping with my plan to do more random, fun things for my nieces, I asked my sister what I could buy them for summer. Based on her suggestion, I bought them four X-Shot fast-fill water blasters and 24 reusable, magnetic, fast-fill water balloons. 
 
 ### McClaren Sports Cars
 
