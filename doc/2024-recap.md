@@ -424,6 +424,8 @@ Thank you to each and everyone one of you, and there are many, who made my year 
 
 These are the "good old days." Live your best life. 
 
+![](2024-recap-images/still-reflecting.png)
+
 <!--
 Simple things poster
 -->
