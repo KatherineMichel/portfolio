@@ -78,6 +78,14 @@ https://fosstodon.org/@kati/112026892390626620
 https://www.linkedin.com/posts/katherinemichel_obituary-for-edward-a-ed-markel-at-livingston-activity-7180368920564916225-eXsL/
 https://www.linkedin.com/posts/katherinemichel_life-isnt-always-easy-but-consider-me-blessed-activity-7133546031077588992-gadV/
 
+Flowers
+https://www.facebook.com/katherine.michel.5/posts/pfbid02RbmuKTnP2kayN7QfovAG78aXT9SpbEno6wSxQPbgVNhtbEbZBZXJSPY3Q7BbSpcal
+Reflection
+https://www.facebook.com/katherine.michel.5/posts/pfbid0kBMQMeHtXLUCN2A8epG3xvryEXztyGQD8CXN9vfWZjWkso6oeZhvX5wW1ZZyiM5jl
+
+https://x.com/KatiMichel/status/1727781095322562783
+
+
 ![](2024-recap-images/lemurs-post.png)
 
 https://www.linkedin.com/posts/katherinemichel_as-a-defna-board-member-i-help-oversee-djangocon-activity-7182562538193125376-6_EG/
@@ -157,6 +165,8 @@ I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/d
 
 ## February
 
+### Arbor Hills
+
 ### Board Games for My Nieces
 
 I want to start doing random, fun things for my nieces. I decided to buy them some board games. 
@@ -170,6 +180,12 @@ Games purchased:
 I had countless hours of fun playing these when I was a kid.
 
 We face-timed while they opened the box. They immediately began playing and loved them. 
+
+### Side Car Social
+
+### PS Connect
+
+### Chinese New Year
 
 ## March
 
@@ -227,24 +243,16 @@ Beautiful sympathy flowers from DEFNA... in a strange coincidence, my cousin poi
 I think you are taking after me. 
 
 Funeral replay video
-
-https://x.com/KatiMichel/status/1727781095322562783
-
-Flowers
-https://www.facebook.com/katherine.michel.5/posts/pfbid02RbmuKTnP2kayN7QfovAG78aXT9SpbEno6wSxQPbgVNhtbEbZBZXJSPY3Q7BbSpcal
-Reflection
-https://www.facebook.com/katherine.michel.5/posts/pfbid0kBMQMeHtXLUCN2A8epG3xvryEXztyGQD8CXN9vfWZjWkso6oeZhvX5wW1ZZyiM5jl
 -->
 
 ### Eclipse
 
 On my way back to Plano after my uncle's funeral, I got stuck in eclipse travel. I arrived back in Plano in time for the eclipse, but hadn't had time to plan. Fortunately, JPMorganChase had me covered. Eclipse glasses were handed out around campus, and we convened outside for a watch party. It's hard to put into words what it was like to watch the eclipse with what must have been thousands of co-workers. 
 
-Here is a little taste of the fun. This was a small portion of the crowd. Clouds intermittently covered the sun, but parted in time for the totality. The crowd cheered and Total Eclipse of the Heart played in the background. Super fun!
+Here is [a little taste of the fun](https://youtu.be/vvNfmo0zwDw?si=Tl2xj-TZ29j_Doed). This was a small portion of the crowd. Clouds intermittently covered the sun, but parted in time for the totality. The crowd cheered and Total Eclipse of the Heart played in the background. Super fun!
 
 <!--
 Photos
-You can see it in the video
 -->
 
 ## April
@@ -285,6 +293,10 @@ Moshe
 
 ## May
 
+### May the 4th
+
+### Side Car Social
+
 <!--
 https://fosstodon.org/@kati/112380066353516377
 
@@ -312,7 +324,7 @@ https://fosstodon.org/@djangocon/112479673098056641
 
 ### PyCon US 2024 Recap
 
-I've found writing a conference recap to be a good device for recording my experience. I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html) experience. 
+I've found writing a conference recap to be a good device for recording my experience and building on it. I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html) experience. 
 
 ### Hacker News
 
