@@ -319,6 +319,12 @@ When I started using an elliptical, I limited myself to ~70 steps per minute. Ot
 
 A chef friend Sheldon also encouraged me to get a personal trainer, which I have not done. It has been life-changing for him in his life and work.
 
+![](2024-recap-images/personal-best.jpg)
+Personal best... 112 steps per minute
+
+![](2024-recap-images/gym-rat.jpg)
+Gym rat :) 
+
 ### DjangoCon US Featured Post
 
 Along with current Django Fellow Natalia Bidart and former and current DEFNA Board Members Drew Winstel, Tim Schilling, and Koji Idress, I was featured on DjangoCon US social media accounts. 
