@@ -134,6 +134,8 @@ June
 PyTexas Sponsorship pitch
 -->
 
+Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
+
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
 
 ## This Year's Theme
@@ -209,7 +211,7 @@ We FaceTimed while they opened the box. They immediately began playing and loved
 
 ### DjangoCon US Talk Topics Inspiration List
 
-Every year, Jeff Triplett publishes a list of talk topics he'd like to learn more about at DjangoCon US. He also encourages fellow DEFNA Board Members to publish their own. 
+Every year, fellow DEFNA Board Member Jeff Triplett publishes a list of talk topics he'd like to learn more about at DjangoCon US. He also encourages other DEFNA Board Members to publish their own. 
 
 Last year, I finally got organized and created a [Talk Topics Inspiration List for DjangoCon US 2023](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html). This year, I created a [Talk Topics List for DjangoCon US 2024](https://katherinemichel.github.io/portfolio/djangocon-us-2024-topics-inspiration-list.html). 
 
@@ -246,9 +248,7 @@ On April 15, 2022, my [Aunt Judy died](https://www.livingstonfh.com/obituary/jud
 
 Uncle Edward and Aunt Judy were truly larger than life. It was hard to believe that they'd ever be gone. 
 
-My uncle's life was not so easy after Aunt Judy died. He missed his Judy. 
-
-He died peacefully, and I am comforted by the fact that he had a smile on his face. 
+My uncle's life was not so easy after Aunt Judy died. He missed his Judy. He died peacefully, and I am comforted by the fact that he had a smile on his face. 
 
 You can learn more about him in his [obituary](https://www.livingstonfh.com/obituary/edward-a-markel) or the replay of his funeral. He was one-of-a-kind. 
 
@@ -357,7 +357,9 @@ He tweeted to me that it was trending there. It had reached #2!
 
 While the recaps I have written of smaller Python/Django conferences have been widely shared in their own right, I believe that the universal appeal of PyCon US drove the massive popularity of this post. 
 
-It was so inspiring to meet the new Python Release Manager Hugo van Kemenade at the PyCon US PSF Members Luncheon! He included my recap as the must read recap in his [conference recap roundup](https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj).
+It was so inspiring to meet the new Python Release Manager Hugo van Kemenade at the PyCon US PSF Members Luncheon! 
+
+He included my recap as the must read recap in his [conference recap roundup](https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj).
 
 Validation of my work at this level among the world's leading Python practitioners means a lot to me. 
 
