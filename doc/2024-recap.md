@@ -162,7 +162,7 @@ Our talk submission stats since I began publishing my list:
 
 Given the popularity of my articles among the Python/Django community, I'm confident that my list played a major role in the increase in submissions. I am really proud of that! 
 
-My list was featured in [Django News Newsletter](https://django-news.com/issues/222#start), along with [Jeff's list](https://micro.webology.dev/2024/04/28/djangocon-us-talks.html) and DjangoCon US Program Chair [Drew Winstel's List](https://winstel.dev/2024/03/01/talk-ideas-for-dcus-24/). 
+My list was featured in [Django News Newsletter](https://django-news.com/issues/222#start), along with [Jeff's list](https://micro.webology.dev/2024/04/28/djangocon-us-talks.html) and DjangoCon US Program Chair [Drew Winstel's list](https://winstel.dev/2024/03/01/talk-ideas-for-dcus-24/). 
 
 ### DjangoCon US Website Design
 
