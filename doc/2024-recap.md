@@ -149,6 +149,10 @@ A few examples
 * Doing all of this in a timely manner
 
 <!--
+Event momentum
+
+After years of collecting conference snapshots, I got organized and created a page of my [Favorite Conference Snapshots](https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html) and the stories behind them, as well as a page of [Speaker, Board, and Organizer Photos](https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html). 
+
 Also, read the Language Summit articles for the first time and was able to grok the content
 
 * Doing some "heavy lifting" from conference connections made
@@ -289,9 +293,6 @@ Mom, me, and the lemurs!
 ![](2024-recap-images/lemurs-2.jpg)
 Me feeding a lemur a craisin out of my palm! It's holding my hand. 
 
-![](2024-recap-images/tables-turned-2.jpg)
-Mom turning the tables on me at Tanganyka
-
 ### JPMorganChase Eclipse Watch Party
 
 On my way back to Plano after my uncle's funeral, I got stuck in eclipse travel. I arrived back in Plano in time for the eclipse, but hadn't had time to plan. Fortunately, JPMorganChase had me covered. Eclipse glasses were handed out around campus, and we convened outside for a watch party. It's hard to put into words what it was like to watch the eclipse with what must have been thousands of co-workers. 
@@ -315,9 +316,6 @@ All of the videos are available on the [PyTexas Youtube channel](https://www.you
 
 ### Gym
 
-![](2024-recap-images/one-day-too-many.png)
-One day too many
-
 Last year, I'd never been in a gym before and was afraid to go. My friend DeAnna Troutman Anaya talked me into getting started.
 
 A few years ago, she found out that she was on her way to having debilitating illness. She was able to avoid it by getting fit. She regularly lifts weights and has an impressive physique. She is redefining what it means to be a grandmother.
@@ -326,11 +324,16 @@ When I started using an elliptical, I limited myself to ~70 steps per minute. Ot
 
 A chef friend Sheldon also encouraged me to get a personal trainer, which I have not done (yet). It has been life-changing for him in his life and work.
 
+![](2024-recap-images/one-day-too-many.png)
+One day too many
+
 ![](2024-recap-images/personal-best.jpg)
 Personal best... 112 steps per minute
 
+<!--
 ![](2024-recap-images/gym-rat.jpg)
 Gym rat :) 
+--> 
 
 ### DjangoCon US Featured Post
 
@@ -473,6 +476,11 @@ Simple things poster
 ### JPMorganChase Eclipse Watch Party
 
 ## April
+
+### Tanganyka Wildlife Park
+
+![](2024-recap-images/tables-turned-2.jpg)
+Mom turning the tables on me at Tanganyka
 
 ### PyTexas 2024 Photos
 
