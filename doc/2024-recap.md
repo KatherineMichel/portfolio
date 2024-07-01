@@ -11,7 +11,7 @@ https://www.linkedin.com/pulse/linkedin-top-companies-2024-50-best-large-workpla
 
 Led sprint review and demo
 Sprint retro
-Sprint planning
+Sprint planning 
 Demos
 
 Switched teams
@@ -307,10 +307,7 @@ Nick, Dan, Jason, Josh, me, Carol
 
 It was a pleasure to get a snapshot next to my incredible friend Carol Willing. She had given an amazing keynote that morning. It is a must watch! I was also standing next to Josh Cannon who read the very clever Oh the (Methods) You Can (Make) book by Dunder Seuss.
 
-<!--
-Talk videos
-Carol's talk link
--->
+All of the videos are available on the [PyTexas Youtube channel](https://www.youtube.com/c/PyTexas). 
 
 ## May
 
@@ -355,7 +352,7 @@ After the conference, I did some "heavy lifting" from conference connections mad
 
 I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html) experience. 
 
-As my recap reflects, as far as talks go, I was particularly interested in major new developments around free-threading, subinterpreters, and JiT compilation. 
+As my recap reflects, as far as talks go, I was particularly interested in major new developments around free-threading, per GIL subinterpreters, and JIT compilation. 
 
 Not long after I posted my PyCon US 2024 Recap on social media, I got a kudo from Kenneth Reitz, PSF Fellow and author of Requests Python package (#5 for PyPI downloads, over 10,500,00 downloads/day, depended on by over 2,900,000 repos). 
 
@@ -365,9 +362,7 @@ He tweeted to me that it was trending there. It had reached #2!
 
 While the recaps I have written of smaller Python/Django conferences have been widely shared in their own right, I believe that the universal appeal of PyCon US drove the massive popularity of this post. 
 
-It was so inspiring to meet the new Python Release Manager Hugo van Kemenade at the PyCon US PSF Members Luncheon! 
-
-He included my recap as the must read recap in his [conference recap roundup](https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj).
+The new Python Release Manager Hugo van Kemenade whom I had the pleasure of meeting at the conference included my recap as the must read recap in his [conference recap roundup](https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj).
 
 Validation of my work among the world's leading Python practitioners and global community means a lot to me. 
 
@@ -424,6 +419,8 @@ Coincide with release of videos on youtube
 Dovetail nicely into PyLadies event
 If you are interested...
 -->
+
+### Teaching Python Fundamentals
 
 ## August
 
