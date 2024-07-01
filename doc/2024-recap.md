@@ -143,24 +143,24 @@ You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-re
 While writing this recap, I found myself thinking the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
 
 A few examples
-* Finally digging into some of the more advanced industry news such as the PyCon US Language Summit blog posts and Seth M Larson's PSF security-in-residence posts
-* Creating a DjangoCon US Talk Topics Inspiration List for the second year in a row
-* Creating a thorough PyCon US Recap that built on my industry knowledge and prior conference experiences and was wildly popular in the Python/Django community
-* Doing some "heavy lifting" from conference connections made
+* Applying task orchestration and distributed system engineering expertise across multiple products
+* Finally digging into some of the more advanced industry news such as historic PyCon US talks, Language Summit blog posts, and Seth M Larson's PSF security-in-residence posts
+* Making the most of my PyCon US experience, then writing a thorough recap about it that was wildly popular in the Python/Django community
 * Doing all of this in a timely manner
 
 <!--
 Also, read the Language Summit articles for the first time and was able to grok the content
 
-* Using the experience I had acquired from working on a major task orchestration feature at work to implement more task orchestration features
-* Applying distributed system engineering expertise across multiple products
+* Doing some "heavy lifting" from conference connections made
+* Using the experience I had acquired from working on a major task orchestration feature to implement more task orchestration features
+* Creating a DjangoCon US Talk Topics Inspiration List for the second year in a row
 
 Recognizing that recap's popularity, creating a presentation from it, and using it to launch a Python Guild
 -->
 
 ## Work
 
-I continued as a Python/Django software engineer doing task orchestration and distributes systems engineering. 
+I continued as a Python/Django software engineer doing task orchestration and distributed systems engineering. 
 
 ## January 
 
@@ -343,9 +343,9 @@ PyCon US 2024 took place from May 15-23 in Pittsburgh, Pennsylvania.
 Thank you to Bernat Gabor for encouraging me to go! It was extremely worth it. 
 
 After the conference, I did some "heavy lifting" from conference connections made. A few examples: 
-* Based on a conversation with Black Python Devs Founder K. Jay Miller, liased with DEFNA to further the interests of Black Python Devs at DjangoCon US
-* Based on a conversation with PyTexas Chair Mason Egger, made PyTexas sponsorship pitches to interested parties
-* Bason a conversation with Quansight Labs Co-director Tania Allard, attempted to rekindle a prospective open source process 
+* Based on a conversation with Black Python Devs Founder K. Jay Miller, I liased with DEFNA to further the interests of Black Python Devs at DjangoCon US
+* Based on a conversation with PyTexas Chair Mason Egger, I made PyTexas sponsorship pitches to interested parties
+* Bason a conversation with Quansight Labs Co-director Tania Allard, I attempted to rekindle a prospective open source process 
 
 ## June
 
