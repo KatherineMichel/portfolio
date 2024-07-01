@@ -11,7 +11,7 @@ https://www.linkedin.com/pulse/linkedin-top-companies-2024-50-best-large-workpla
 
 Led sprint review and demo
 Sprint retro
-Sprint planning 
+Sprint planning  
 Demos
 
 Switched teams
@@ -343,8 +343,9 @@ PyCon US 2024 took place from May 15-23 in Pittsburgh, Pennsylvania.
 Thank you to Bernat Gabor for encouraging me to go! It was extremely worth it. 
 
 After the conference, I did some "heavy lifting" from conference connections made. A few examples: 
-* Based on a conversation with K. Jay Miller, liasing with DEFNA to further the interests of Black Python Devs at DjangoCon US
-* Making PyTexas sponsorship pitches to interested parties
+* Based on a conversation with Black Python Devs Founder K. Jay Miller, liased with DEFNA to further the interests of Black Python Devs at DjangoCon US
+* Based on a conversation with PyTexas Chair Mason Egger, made PyTexas sponsorship pitches to interested parties
+* Bason a conversation with Quansight Labs Co-director Tania Allard, attempted to rekindle a prospective open source process 
 
 ## June
 
