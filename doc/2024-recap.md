@@ -434,7 +434,7 @@ If you are interested in PyLadies DWF, I'd love to hear from you. Drop me a line
 
 ### Teaching Python Fundamentals
 
-A couple of colleagues who work in site reliability engineering approached me about teaching them more about Python. 
+A couple of colleagues approached me about teaching them more about Python. 
 
 ## August
 
