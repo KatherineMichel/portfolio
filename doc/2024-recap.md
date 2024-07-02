@@ -350,7 +350,7 @@ Thank you to Bernat Gabor for encouraging me to go! It was extremely worth it.
 After the conference, I did some "heavy lifting" from conference connections made. A few examples: 
 * Based on a conversation with Black Python Devs Founder K. Jay Miller, I liased with DEFNA to further the interests of Black Python Devs at DjangoCon US
 * Based on a conversation with PyTexas Chair Mason Egger, I made PyTexas sponsorship pitches to interested parties
-* Bason a conversation with Quansight Labs Co-director Tania Allard, I attempted to rekindle a prospective open source process 
+* Based on a conversation with Quansight Labs Co-director Tania Allard, I attempted to rekindle a prospective open source process 
 
 ## June
 
@@ -418,15 +418,24 @@ Here I am with my Plano-based hackathon teammates.
 
 Due to the popularity of my PyCon US 2024 Recap, I decided to turn it into a presentation. 
 
+JPMorganChase has a community of guilds called Ignite groups. Although there had long been interest in a Python Ignite Group, it had not come to fruition. 
+
+It is a community that I have personally been yearning for. 
+
+I reached out to a few interested parties, expressed my interest in launching the group, and offered up my presentation to help launch it. 
+
+I've also been approached about hosting a PyLadies event at JPMorganChase Plano. A group like this could help support events like that. 
+
+If you are interested in PyLadies DWF, I'd love to hear from you. Drop me a line. :) 
+
 <!--
 What I learned from PS Connect
-Python Guild
 Coincide with release of videos on youtube
-Dovetail nicely into PyLadies event
-If you are interested...
 -->
 
 ### Teaching Python Fundamentals
+
+A couple of colleagues who work in site reliability engineering approached me about teaching them more about Python. 
 
 ## August
 
