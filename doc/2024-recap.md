@@ -350,7 +350,7 @@ Thank you to Bernat Gabor for encouraging me to go! It was extremely worth it.
 After the conference, I did some "heavy lifting" from conference connections made. A few examples: 
 * Based on a conversation with Black Python Devs Founder K. Jay Miller, I liased with DEFNA to further the interests of Black Python Devs at DjangoCon US
 * Based on a conversation with PyTexas Chair Mason Egger, I made PyTexas sponsorship pitches to interested parties
-* Based on a conversation with Quansight Labs Co-director Tania Allard, I attempted to rekindle a prospective open source process 
+* Based on a conversation with Quansight Labs Co-director Tania Allard, I attempted to rekindle a prospective open source process within my network
 
 ## June
 
@@ -426,11 +426,10 @@ I reached out to a few interested parties, expressed my interest in launching th
 
 I've also been approached about hosting a PyLadies event at JPMorganChase Plano. A group like this could help support events like that. 
 
-If you are interested in PyLadies DWF, I'd love to hear from you. Drop me a line. :) 
-
 <!--
 What I learned from PS Connect
 Coincide with release of videos on youtube
+If you are interested in PyLadies DWF, I'd love to hear from you. Drop me a line. :) 
 -->
 
 ### Teaching Python Fundamentals
