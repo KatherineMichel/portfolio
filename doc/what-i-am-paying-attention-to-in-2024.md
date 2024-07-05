@@ -1,5 +1,7 @@
 # What I Am Paying Attention to in 2024
 
+Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorgan Chase & Co.
+
 ## Key
 
 | Emoji     | Status       |
@@ -27,13 +29,13 @@ GitHub news and changelog
 Python release notes, discussion forum, enhancements proposals, release livestreams (recorded)
 * [What's New](https://docs.python.org/dev/whatsnew/)
 * [Python Discuss](https://discuss.python.org)
-* [PEP (Python Enhancement Proposals) Index](https://www.python.org/dev/peps)
+* [PEP (Python Enhancement Proposals) Index](https://www.python.org/dev/peps) &#128736;
 * [Pablo Galindo Salgado's Release Streams](https://www.youtube.com/@PythonDiscord) 
 
 Django release notes, enhancements proposals, blog, roadmap
 * [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
-* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
-* [Django Blog](https://www.djangoproject.com/weblog/)
+* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps) &#128736;
+* [Django Blog](https://www.djangoproject.com/weblog/) &#128736;
 * [Django Roadmaps](https://code.djangoproject.com/wiki)
 
 ## Python and Django Authorities
@@ -109,7 +111,7 @@ Popular documentation framework
 * [Diátaxis](https://diataxis.fr/)
 
 Python Patterns
-* [Python Patterns](https://python-patterns.guide/)
+* [Python Patterns](https://python-patterns.guide/) &#8987;
 
 General Python resources
 * [Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
@@ -162,10 +164,10 @@ Django test performance by the excellent Adam Johnson
 ## Refactoring, Patterns, Clean Code
 
 Martin Fowler is the patterns GOAT. I'd like to spend more time reading more of his work and applying it in real life. Refactoring 2nd Edition was updated in JavaScript. Patterns of Enterprise Application Architecture is said to be dated.  
-* [Martin Fowler](https://martinfowler.com)
+* [Martin Fowler](https://martinfowler.com) &#8987;
 * [Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-* [Refactoring Catalog](https://refactoring.com/catalog/)
-* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+* [Refactoring Catalog](https://refactoring.com/catalog/) &#8987;
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/) &#8987;
 
 Uncle Bob's controversial Clean Code. Not everyone likes him or his work, but it has clearly been influential. 
 * [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
@@ -174,7 +176,7 @@ Detailed list of coding considerations
 * [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 
 Exactly what the title says
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans) &#8987;
 
 ## General Engineering Resources
 
@@ -193,7 +195,10 @@ Perhaps this is dated, but I'd like to know more
 ## How Companies Do Things
 
 A curated list of engineering blogs including most, if not all, of the leading tech companies, and many others too 
-* [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+* [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) &#8987;
+
+A classic blog about system architecture. Also happens to be "for sale." See the December 11 post and respond if you are serious. 
+* [High Scalability](http://highscalability.com/) &#8987;
 
 Information about how companies do testing and SRE 
 * [How They Test](https://github.com/abhivaikar/howtheytest)
@@ -201,9 +206,6 @@ Information about how companies do testing and SRE
 
 The go-to system design learning resource 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
-
-A classic blog about system architecture. Also happens to be "for sale." See the December 11 post and respond if you are serious. 
-* [High Scalability](http://highscalability.com/)
 
 ## How CPython Works
 
