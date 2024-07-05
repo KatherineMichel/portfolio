@@ -134,8 +134,8 @@ The must-read algorithms book
 * [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/)
 
 Coding challenges
-* [Advent of Code](https://adventofcode.com/) &#128736;
-* [NeetCode](https://neetcode.io/) &#128736;
+* [Advent of Code](https://adventofcode.com/) &#8987;
+* [NeetCode](https://neetcode.io/) &#8987;
 
 Course by the high profile Primeagen of Netflix. Does it live up to its name? 
 * [The Last Algorithms Course You'll Need](https://theprimeagen.github.io/fem-algos/)
@@ -148,8 +148,8 @@ A tool I use and want to read up on
 I work in a database department and as such would like to better understand database capabilities. See also Simon Willison for SQLite experimentation. 
 * [Cockroach Labs](https://www.cockroachlabs.com/) &#8987;
 * [Cockroach University](https://university.cockroachlabs.com/courses/) &#8987;
-* [PostgreSQL Docs](https://www.postgresql.org/docs/)
-* [SQLite Docs](https://www.sqlite.org/docs.html)
+* [PostgreSQL Docs](https://www.postgresql.org/docs/) &#8987;
+* [SQLite Docs](https://www.sqlite.org/docs.html) &#8987;
 
 ## Testing
 
@@ -252,7 +252,7 @@ An instant classic by the excellent Morgan Housel
 ## Transformational Leadership
 
 A colleague made me aware of the concept of [Transformational Leadership](https://en.wikipedia.org/wiki/Transformational_leadership). I love this graphic that categorizes leadership versus management. I hope to incorporate more leadership into my work to empower my colleagues. 
-* [Leadership versus Management](https://www.linkedin.com/posts/marcus-koehnlein_leadership-management-organization-activity-7070036302271762432-Hhly/?)
+* [Leadership versus Management](https://www.linkedin.com/posts/marcus-koehnlein_leadership-management-organization-activity-7070036302271762432-Hhly/?) &#x2713;
 
 ## Agile and Scrum
 
@@ -284,5 +284,5 @@ An incredible example of hustle. His podcast put him on the map and helped him l
 ## Certifications
 
 I will consider obtaining new certifications in 2024. AWS and CKAD are on my radar at the moment.  
-* [AWS Certifications](https://aws.amazon.com/certification/)
-* [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+* [AWS Certifications](https://aws.amazon.com/certification/) &#9208;
+* [Certified Kubernetes Application Developer (CKAD)](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) &#9208;
