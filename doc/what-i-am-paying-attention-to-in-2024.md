@@ -9,6 +9,7 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 | &#x2713;  | completed    |
 | &#8987;   | in progress  |
 | &#128736; | daily/weekly |
+| &#9208;   | on pause     |
 
 ## Developer News
 
