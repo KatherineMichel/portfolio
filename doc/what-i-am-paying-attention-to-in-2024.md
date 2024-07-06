@@ -1,6 +1,6 @@
 # What I Am Paying Attention to in 2024
 
-Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorgan Chase & Co.
+Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
 ## Key
 
