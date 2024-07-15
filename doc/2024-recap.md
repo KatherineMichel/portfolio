@@ -261,6 +261,11 @@ On April 15, 2022, my [Aunt Judy died](https://www.livingstonfh.com/obituary/jud
 
 A part of me never believed this day could happen, and I wished it never would. Uncle Edward and Aunt Judy were truly larger than life. 
 
+<!--
+Photo
+Better times
+-->
+
 His life was not so easy after Aunt Judy died. He missed his Judy. He died peacefully, and I am comforted by the fact that he had a smile on his face. 
 
 You can learn more about him in his [obituary](https://www.livingstonfh.com/obituary/edward-a-markel) or the [replay of his funeral](https://www.facebook.com/prettyprairieumc/videos/1118062006180755). 
@@ -322,10 +327,10 @@ A few years ago, she found out that she was on her way to having debilitating il
 
 When I started using an elliptical, I limited myself to ~70 steps per minute. Otherwise, I would get winded. Now, I am regularly up to 120+ steps per minute, and when life gets busy, and I go for a few months without exercising properly, I am able to get back to my top performance within just a few sessions. I would love to know the science behind it. 
 
-A chef friend Sheldon also encouraged me to get a personal trainer, which I have not done (yet). It has been life-changing for him in his life and work.
-
+<!--
 ![](2024-recap-images/one-day-too-many.png)
 One day too many
+-->
 
 ![](2024-recap-images/personal-best.jpg)
 Personal best... 112 steps per minute
@@ -334,6 +339,8 @@ Personal best... 112 steps per minute
 ![](2024-recap-images/gym-rat.jpg)
 Gym rat :) 
 --> 
+
+A chef friend Sheldon also encouraged me to get a personal trainer, which I have not done (yet). It has been life-changing for him in his life and work.
 
 ### DjangoCon US Featured Post
 
@@ -383,8 +390,10 @@ It was also featured in [Django News Newsletter](https://django-news.com/issues/
 ![](2024-recap-images/hacker-news-rankings-expanded.png)
 On the "front page" for about 12 hours
 
+<!--
 ![](2024-recap-images/hacker-news-detail-page-stats.png)
 It eventually reached 186 points and 91 comments
+-->
 
 ![](2024-recap-images/lacey-kudo.png)
 Thank you to the incredible Lacey for this sweet kudo
