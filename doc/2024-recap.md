@@ -330,7 +330,7 @@ When I started using an elliptical, I limited myself to ~70 steps per minute. Ot
 ![](2024-recap-images/one-day-too-many.png)
 One day too many
 
-By June 1st, I'd already had a personal best on the elliptical and broke that record many times over throughout the year. 
+After returning to the gym regularly on May 2nd, by June 1st, I'd already had a personal best on the elliptical and broke that record many times over throughout the year. 
 
 ![](2024-recap-images/personal-best.jpg)
 Personal best... 112 steps per minute
@@ -495,7 +495,7 @@ These are the "good old days." Live your best life.
 ![](2024-recap-images/me-at-pycon-us.jpg)
 Me at PyCon US
 
-## February
+## Snapshots Throughout The Year
 
 ### Arbor Hills
 
@@ -503,11 +503,7 @@ Me at PyCon US
 
 ### Chinese New Year
 
-## March
-
 ### JPMorganChase Eclipse Watch Party
-
-## April
 
 ### Tanganyka Wildlife Park
 
@@ -516,18 +512,12 @@ Mom turning the tables on me at Tanganyka
 
 ### PyTexas 2024 Photos
 
-## May
-
 ### May the 4th
 
 ### PyCon US 2024 Photos
 
 ### Side Car Social
 
-## June
-
 ### McClaren Sports Cars
-
-## September
 
 ### DjangoCon US 2024 Photos
