@@ -432,6 +432,11 @@ Coincide with release of videos on youtube
 If you are interested in PyLadies DWF, I'd love to hear from you. Drop me a line. :) 
 -->
 
+<!--
+### Wellness Assessment
+
+### Financial Advisor
+
 ### Teaching Python Fundamentals
 
 A couple of colleagues approached me about teaching them more about Python. 
@@ -449,6 +454,7 @@ A couple of colleagues approached me about teaching them more about Python.
 ## December
 
 ## Self-Care
+-->
 
 <!--
 Felt I was able to further grow my network and have a deeper understanding of subjects
