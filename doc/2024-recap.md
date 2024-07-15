@@ -261,10 +261,8 @@ On April 15, 2022, my [Aunt Judy died](https://www.livingstonfh.com/obituary/jud
 
 A part of me never believed this day could happen, and I wished it never would. Uncle Edward and Aunt Judy were truly larger than life. 
 
-<!--
-Photo
+![](2024-recap-images/better-times.jpg)
 Better times
--->
 
 His life was not so easy after Aunt Judy died. He missed his Judy. He died peacefully, and I am comforted by the fact that he had a smile on his face. 
 
