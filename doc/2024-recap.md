@@ -138,6 +138,7 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
 
+<!--
 ## This Year's Theme
 
 While writing this recap, I found myself thinking the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
@@ -147,7 +148,8 @@ A few examples
 * Finally digging into some of the more advanced industry news such as historic PyCon US talks, Language Summit blog posts, and Seth M Larson's PSF security-in-residence posts
 * Making the most of my PyCon US experience, then writing a thorough recap about it that was wildly popular in the Python/Django community
 * Doing all of this in a timely manner
-
+-->
+  
 <!--
 Event momentum
 
