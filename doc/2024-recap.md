@@ -398,7 +398,13 @@ Validation of my work among the world's leading Python practitioners and global 
 It was also featured in [Django News Newsletter](https://django-news.com/issues/236#start) and [pip Trends Newsletter](https://newsletter.piptrends.com/p/pycon-us-2024-recap-how-llms-work).
 
 ![](2024-recap-images/lacey-kudo.png)
-Thank you to the incredible Lacey for this sweet kudo
+Thank you to the incredible Lacey for this sweet kudo! Can't wait to see you. :) 
+
+I am thrilled to know that my recap generated interest in the content and will have increased the number of attendees. 
+
+<!--
+JiT talk was trending at the same time
+-->
 
 ### DFW Pythoneers
 
