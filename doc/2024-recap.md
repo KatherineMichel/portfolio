@@ -264,7 +264,7 @@ On April 15, 2022, my [Aunt Judy died](https://www.livingstonfh.com/obituary/jud
 A part of me never believed this day could happen, and I wished it never would. Uncle Edward and Aunt Judy were truly larger than life. 
 
 ![](2024-recap-images/better-times.jpg)
-Better times
+My aunt and uncle in better times
 
 His life was not so easy after Aunt Judy died. He missed his Judy. He died peacefully, and I am comforted by the fact that he had a smile on his face. 
 
@@ -327,12 +327,10 @@ A few years ago, she found out that she was on her way to having debilitating il
 
 When I started using an elliptical, I limited myself to ~70 steps per minute. Otherwise, I would get winded. Now, I am regularly up to 120+ steps per minute, and when life gets busy, and I go for a few months without exercising properly, I am able to get back to my top performance within just a few sessions. I would love to know the science behind it. 
 
-During the first four months of the year, travel, holidays, sickness, and death in the family sidetracked me from going to the gym. May 2nd was one day too many. I not only got back into the gym using an elliptical like usual, I added some light weightlifting. By June 1st, I'd already had a personal best on the elliptical. 
-
-<!--
 ![](2024-recap-images/one-day-too-many.png)
 One day too many
--->
+
+By June 1st, I'd already had a personal best on the elliptical and broke that record many times over throughout the year. 
 
 ![](2024-recap-images/personal-best.jpg)
 Personal best... 112 steps per minute
@@ -380,14 +378,6 @@ He tweeted to me that it was trending there. It had reached #2!
 ![](2024-recap-images/hacker-news-trending.png)
 #2 on Hacker News... so close to #1. Beaten out by Tim Bray's sofa parable, lol
 
-While the recaps I have written of smaller Python/Django conferences have been widely shared in their own right, I believe that the universal appeal of PyCon US drove the massive popularity of this post. 
-
-The new Python Release Manager Hugo van Kemenade whom I had the pleasure of meeting at the conference included my recap as the must read recap in his [conference recap roundup](https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj).
-
-Validation of my work among the world's leading Python practitioners and global community means a lot to me. 
-
-It was also featured in [Django News Newsletter](https://django-news.com/issues/236#start) and [pip Trends Newsletter](https://newsletter.piptrends.com/p/pycon-us-2024-recap-how-llms-work).
-
 ![](2024-recap-images/hacker-news-rankings-stats.png)
 #2 for nearly an hour
 
@@ -398,6 +388,14 @@ On the "front page" for about 12 hours
 ![](2024-recap-images/hacker-news-detail-page-stats.png)
 It eventually reached 186 points and 91 comments
 -->
+
+While the recaps I have written of smaller Python/Django conferences have been widely shared in their own right, I believe that the universal appeal of PyCon US drove the massive popularity of this post. 
+
+The new Python Release Manager Hugo van Kemenade whom I had the pleasure of meeting at the conference included my recap as the must read recap in his [conference recap roundup](https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj).
+
+Validation of my work among the world's leading Python practitioners and global community means a lot to me. 
+
+It was also featured in [Django News Newsletter](https://django-news.com/issues/236#start) and [pip Trends Newsletter](https://newsletter.piptrends.com/p/pycon-us-2024-recap-how-llms-work).
 
 ![](2024-recap-images/lacey-kudo.png)
 Thank you to the incredible Lacey for this sweet kudo
@@ -431,13 +429,13 @@ Here I am with my Plano-based hackathon teammates.
 
 At work, we can complete activities to earn money for an MRA (Medical Reimbursement Account) to save money on healthcare. One of the activities is a wellness screening. During the screening, your blood pressure and body mass index (BMI) are calculated, and a fingerstick is used to calculate your blood sugar, cholesterol and triglycerides. 
 
-I had my first wellness screening in November, 2023. I found out that both my good cholesterol and bad cholesterol were high. I made a few changes in my diet. 
+I had my first wellness screening in November, 2023. I found out that both my good cholesterol and bad cholesterol were high. 
 
-By my second wellness screening, my bad cholesterol had gone down 22 points. More to come. 
-
-### Financial Advisor
+I made a few changes in my diet. By my second wellness screening in early July, my bad cholesterol had gone down 22 points. More to come. 
 
 <!--
+### Financial Advisor
+
 ### PyCon US 2024 Presentation
 
 Due to the popularity of my PyCon US 2024 Recap, I decided to turn it into a presentation. 
