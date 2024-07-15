@@ -335,10 +335,8 @@ One day too many
 ![](2024-recap-images/personal-best.jpg)
 Personal best... 112 steps per minute
 
-<!--
 ![](2024-recap-images/gym-rat.jpg)
 Gym rat :) 
---> 
 
 A chef friend Sheldon also encouraged me to get a personal trainer, which I have not done (yet). It has been life-changing for him in his life and work.
 
@@ -476,15 +474,14 @@ https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-202
 
 ## Parting Thoughts
 
+![](2024-recap-images/still-reflecting.png)
+
 Thank you to each and everyone one of you, and there are many, who made my year special.
 
 These are the "good old days." Live your best life. 
 
-![](2024-recap-images/still-reflecting.png)
-
-<!--
-Simple things poster
--->
+![](2024-recap-images/me-at-pycon-us.jpg)
+Me at PyCon US
 
 ## February
 
