@@ -327,7 +327,7 @@ A few years ago, she found out that she was on her way to having debilitating il
 
 When I started using an elliptical, I limited myself to ~70 steps per minute. Otherwise, I would get winded. Now, I am regularly up to 120+ steps per minute, and when life gets busy, and I go for a few months without exercising properly, I am able to get back to my top performance within just a few sessions. I would love to know the science behind it. 
 
-During the first four months of the year, travel, holidays, sickness, and death in the family sidetracked me from going to the gym. May 2nd was one day to many. I not only got back into the gym using an elliptical like usual, I added some light weightlifting. By June 1st, I'd already had a personal best on the elliptical. 
+During the first four months of the year, travel, holidays, sickness, and death in the family sidetracked me from going to the gym. May 2nd was one day too many. I not only got back into the gym using an elliptical like usual, I added some light weightlifting. By June 1st, I'd already had a personal best on the elliptical. 
 
 <!--
 ![](2024-recap-images/one-day-too-many.png)
@@ -433,11 +433,7 @@ At work, we can complete activities to earn money for an MRA (Medical Reimbursem
 
 I had my first wellness screening in November, 2023. I found out that both my good cholesterol and bad cholesterol were high. I made a few changes in my diet. 
 
-I found out at my second wellness screening that my bad had gone down 22 points. m
-
-
-
-I did not enjoy getting a finger stick at work today, but I did enjoy finding out that my bad cholesterol went down 22 points since my first finger stick last November. I made a few changes to my diet. More to come.
+By my second wellness screening, my bad cholesterol had gone down 22 points. More to come. 
 
 ### Financial Advisor
 
