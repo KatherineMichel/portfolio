@@ -310,7 +310,7 @@ A photo of what the Registration Room looked like on the day that I was there; p
 
 Standing at a registration desk, Ranger Jenn took us through a mock conversation between an official and a prospective immigrant. It was not unlike today. The officials were human life detectors, questioning the prospective immigrants, who had to answer correctly and show they were able-bodied. 
 
-![](pygotham-2019-recap-images19.jpg)
+![](pygotham-2019-recap-images/19.jpg)
 
 Ranger Jenn taking us through a mock conversation between an official and a prospective immigrant; photo credit: Katherine Michel
 
