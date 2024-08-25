@@ -49,7 +49,7 @@ Welcome to Kati's Portfolio!
    pycon-us-2019-recap.md
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Travel:
 
    los-angeles-2023.md
