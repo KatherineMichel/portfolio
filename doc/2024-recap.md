@@ -531,14 +531,12 @@ Me at PyCon US
 ## Favorite Snapshots Throughout The Year
 
 <!--
-clouds.jpg
-
 ### Arbor Hills
 
 ### Side Car Social
 -->
 
-### JPMorganChase Plano Chinese New Year
+### JPMorganChase Plano Chinese Lunar New Year Celebration
 
 ![](2024-recap-images/parade.jpg)
 Parade
@@ -565,6 +563,11 @@ Mom turning the tables on me at Tanganyka
 
 ### Side Car Social
 -->
+
+### Clouds
+
+![](2024-recap-images/clouds.jpg)
+Clouds in Legacy
 
 ### McClaren Sports Cars
 
