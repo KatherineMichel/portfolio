@@ -91,9 +91,6 @@ https://www.linkedin.com/posts/katherinemichel_as-a-defna-board-member-i-help-ov
 Mom turning the tables on me at Tanganyka
 https://www.facebook.com/katherine.michel.5/posts/pfbid034rPSj3TbthnpHvnrfiVS9uFJrXnStHxvoLbuG7zx69WbXdtLMybH3W8MibMhUpuol
 
-![](2024-recap-images/tables-turned-1.jpg)
-Mom turning the tables on me at Tanganyka
-
 
 April
 DEFNA Board Interviews
@@ -342,8 +339,6 @@ By June 1st, I'd already had a personal best on the elliptical and broke that re
 ![](2024-recap-images/felt-like-it.png)
 
 <!--
-![](2024-recap-images/personal-best.jpg)
-Personal best... 112 steps per minute
 Personal best by year end
 -->
 
@@ -533,7 +528,7 @@ Me at PyCon US
 
 ### Tanganyka Wildlife Park
 
-![](2024-recap-images/tables-turned-2.jpg)
+![](2024-recap-images/tables-turned.jpg)
 Mom turning the tables on me at Tanganyka
 
 ### PyTexas 2024 Photos
