@@ -531,6 +531,8 @@ Me at PyCon US
 ## Favorite Snapshots Throughout The Year
 
 <!--
+clouds.jpg
+
 ### Arbor Hills
 
 ### Side Car Social
@@ -577,26 +579,40 @@ Me with the Artura
 ![](2024-recap-images/mclaren-750s.jpg)
 A 750S, the equivalent of an F1 car
 
-### Fun Food
-
-<!--
 ### Yoshi Shabu Shabu
+
+![](2024-recap-images/hotpot.jpg)
+Japanese hotpot with tonkotsu, pork belly, goma sesame peanut, citrus ponzu, and roasted garlic teriyaki sauces
+
+![](2024-recap-images/sake.jpg)
+Mango sake
 
 ### T Swirl Japanese Crepe
 
+![](2024-recap-images/crepe.jpg)
+Strawberry banana crepe: sliced strawberries, sliced bananas, custard cream, whipped yogurt, chocolate pearls, crushed pistachios
+
+<!--
+Video link
+-->
+
 ### Luci's Bakery
 
-### Darna Mediterranean Eatery
-
-Mocktail Mojito with strawberry flavor
-
-Saffron Chicken Kebab
--->
+![](2024-recap-images/lucis-bakery.jpg)
+Venezuelan chicken empanada, rice, black beans, fried plantains
 
 ### Pic with Julie
 
 ![](2024-recap-images/me-with-julie.jpg)
 Me and my wonderful co-worker Julie
+
+### Darna Mediterranean Eatery
+
+![](2024-recap-images/mocktail.jpg)
+Mocktail mojito with strawberry flavor
+
+![](2024-recap-images/saffron-chicken.jpg)
+Saffron chicken kebab
 
 ### Employee Appreciation Week
 
