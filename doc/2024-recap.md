@@ -348,7 +348,9 @@ Here is [a little taste of the fun](https://youtu.be/vvNfmo0zwDw?si=Tl2xj-TZ29j_
 [PyTexas 2024](https://www.pytexas.org/2024/) took place in Austin, Texas from April 19-21. 
 
 <!--
-I had wanted to go for years and finally went. Conference and sight seeing details. 
+Tweet
+PyTexas has been on my bucketlist for years, and I finally went. 
+Conference and sight seeing details. 
 -->
 
 I met Jason Koo at DjangoCon US 2022 in San Diego where he generously helped as an organizer. It was great to see him again, and I look forward to learning more about Neo4j Graph Database! On the bright, sunny, second day of PyTexas, he invited me to be in this photo. 
@@ -500,6 +502,11 @@ Continuing with my wellness activities, I completed a full physical, mammogram, 
 
 ### DjangoCon US
 
+<!--
+New profile pic
+Other photos
+--->
+
 ## October
 
 ## November
@@ -523,14 +530,39 @@ Me at PyCon US
 
 ## Snapshots Throughout The Year
 
+<!--
+### Arbor Hills
+
+### Side Car Social
+-->
+
+### JPMorganChase Plano Chinese New Year
+
+![](2024-recap-images/parade.jpg)
+Parade
+
+![](2024-recap-images/cultural-attire.jpg)
+Cultural attire
+
+![](2024-recap-images/calligraphy.jpg)
+Calligraphy
+
+<!--
+### JPMorganChase Eclipse Watch Party
+-->
+
 ### Tanganyka Wildlife Park
 
 ![](2024-recap-images/tables-turned.jpg)
 Mom turning the tables on me at Tanganyka
 
+<!--
 ### PyTexas 2024 Photos
 
-### PyCon US 2024 Photos
+### May the 4th
+
+### Side Car Social
+-->
 
 ### McClaren Sports Cars
 
@@ -543,40 +575,11 @@ A "lower-end" Artura
 Me with the Artura
 
 ![](2024-recap-images/mclaren-750s.jpg)
-An 750S, the equivalent of an F1 car
+A 750S, the equivalent of an F1 car
 
-### Pic with Julie
-
-![](2024-recap-images/me-with-julie.jpg)
-Me and my co-worker Julie
-
-### Employee Appreciation Week
-
-![](2024-recap-images/me-with-mascots.jpg)
-Me with Dallas Mavs and RoughRiders mascots at the Employeer Appreciation Week street party
-
-![](2024-recap-images/floating-chase-logo.jpg)
-Me lounging in a floating Chase logo... 3-D street art by Jan Riggins
-
-### DjangoCon US 2024 Photos
+### Unique Food
 
 <!--
-New profile pic
---->
-
-<!--
-### Arbor Hills
-
-### Side Car Social
-
-### Chinese New Year
-
-### JPMorganChase Eclipse Watch Party
-
-### May the 4th
-
-### Side Car Social
-
 ### Yoshi Shabu Shabu
 
 ### T Swirl Japanese Crepe
@@ -584,4 +587,27 @@ New profile pic
 ### Luci's Bakery
 
 ### Darna Mediterranean Eatery
+-->
+
+### Pic with Julie
+
+![](2024-recap-images/me-with-julie.jpg)
+Me and my wonderful co-worker Julie
+
+### Employee Appreciation Week
+
+![](2024-recap-images/me-with-mascots.jpg)
+Me with Dallas Mavs and Frisco RoughRiders mascots at the Employeer Appreciation Week street party
+
+![](2024-recap-images/floating-chase-logo.jpg)
+Me lounging in a floating Chase logo... 3D street art by Jan Riggins
+
+![](2024-recap-images/floating-chase-logo.jpg)
+Me overtaking a longhorn
+
+![](2024-recap-images/floating-chase-logo.jpg)
+Me sitting next to a life-size thank you memo
+
+<!--
+### Rodeo Goat
 -->
