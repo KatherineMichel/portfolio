@@ -602,10 +602,10 @@ Me with Dallas Mavs and Frisco RoughRiders mascots at the Employeer Appreciation
 ![](2024-recap-images/floating-chase-logo.jpg)
 Me lounging in a floating Chase logo... 3D street art by Jan Riggins
 
-![](2024-recap-images/floating-chase-logo.jpg)
+![](2024-recap-images/longhorn.jpg)
 Me overtaking a longhorn
 
-![](2024-recap-images/floating-chase-logo.jpg)
+![](2024-recap-images/thank-you-memo.jpg)
 Me sitting next to a life-size thank you memo
 
 <!--
