@@ -587,7 +587,7 @@ A 750S, the equivalent of an F1 car
 ### Yoshi Shabu Shabu
 
 ![](2024-recap-images/hotpot.jpg)
-Japanese hotpot with tonkotsu, pork belly, goma sesame peanut, citrus ponzu, and roasted garlic teriyaki sauces
+Japanese hotpot with tonkotsu, pork belly, ramen, and goma sesame peanut, citrus ponzu, and roasted garlic teriyaki sauces
 
 ![](2024-recap-images/sake.jpg)
 Mango sake
