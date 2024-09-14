@@ -328,19 +328,17 @@ Last year, I'd never been in a gym before and was afraid to go. My friend DeAnna
 
 A few years ago, she found out that she was on her way to having debilitating illness. She was able to avoid it by getting fit. She regularly lifts weights and has an impressive physique. She is redefining what it means to be a grandmother.
 
-When I started using an elliptical, I limited myself to ~70 steps per minute. Otherwise, I would get winded. Now, I am regularly up to 120+ steps per minute, and when life gets busy, and I go for a few months without exercising properly, I am able to get back to my top performance within just a few sessions. I would love to know the science behind it. 
+When I started using an elliptical, I limited myself to ~70 steps per minute. Otherwise, I would get winded. Now, I am regularly up to 120+ steps per minute, and when life gets busy for a short time, and I don't exercise regularly, I am able to get back to my top performance within just a few sessions. I would love to know the science behind it. 
 
 ![](2024-recap-images/one-day-too-many.png)
 One day too many
 
-After returning to the gym regularly on May 2nd, by June 1st, I'd already had a personal best on the elliptical and broke that record many times over throughout the year. 
+I returned to the gym regularly on May 2nd and added light weight lifting. By June 1st, I'd already had a personal best on the elliptical and broke that record many times over throughout the year. 
 
 ![](2024-recap-images/personal-best.jpg)
 Personal best... 112 steps per minute
 
 <!--
-Lifting weights
-
 Personal best by year end
 -->
 
@@ -452,9 +450,11 @@ I made a few changes in my diet. By my second wellness screening in early July, 
 
 Using employee financial services benefits, I began working with a JPMorganChase financial advisor. 
 
-What I learned from him has helped me understand the larger picture better and create a longterm financial strategy. 
+What I learned from him has helped me understand the larger picture better and create a longterm financial strategy across all of my assets. 
 
 <!--
+Student loans
+
 Social media post
 Wednesdays
 -->
@@ -493,6 +493,10 @@ If you are interested in PyLadies DWF, I'd love to hear from you. Drop me a line
 -->
 
 <!--
+### August
+
+Pic with Julie
+
 ### Teaching Python Fundamentals
 
 A couple of colleagues approached me about teaching them more about Python. 
@@ -500,6 +504,8 @@ A couple of colleagues approached me about teaching them more about Python.
 ## October
 
 ## November
+
+2 year anniversary
 
 ## December
 
