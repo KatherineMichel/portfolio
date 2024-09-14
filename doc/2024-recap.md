@@ -517,6 +517,47 @@ Me at PyCon US
 
 ## Snapshots Throughout The Year
 
+### Tanganyka Wildlife Park
+
+![](2024-recap-images/tables-turned.jpg)
+Mom turning the tables on me at Tanganyka
+
+### PyTexas 2024 Photos
+
+### PyCon US 2024 Photos
+
+### McClaren Sports Cars
+
+McLaren Financial Services had an event at JPMC and brought in two McLaren cars. That is me standing with ~$750k worth of car. 
+
+![](2024-recap-images/mclaren-artura.jpg)
+A "lower-end" Artura
+
+![](2024-recap-images/me-with-mclaren-artura.jpg)
+Me with the Artura
+
+![](2024-recap-images/mclaren-750s.jpg)
+An 750S, the equivalent of an F1 car
+
+### Pic with Julie
+
+![](2024-recap-images/me-with-julie.jpg)
+Me and my co-worker Julie
+
+### Employee Appreciation Week
+
+![](2024-recap-images/me-with-mascots.jpg)
+Me with Dallas Mavs and RoughRiders mascots at the Employeer Appreciation Week street party
+
+![](2024-recap-images/floating-chase-logo.jpg)
+Me lounging in a floating Chase logo... 3-D street art by Jan Riggins
+
+### DjangoCon US 2024 Photos
+
+<!--
+New profile pic
+--->
+
 <!--
 ### Arbor Hills
 
@@ -525,45 +566,16 @@ Me at PyCon US
 ### Chinese New Year
 
 ### JPMorganChase Eclipse Watch Party
--->
 
-### Tanganyka Wildlife Park
-
-![](2024-recap-images/tables-turned.jpg)
-Mom turning the tables on me at Tanganyka
-
-### PyTexas 2024 Photos
-
-<!--
 ### May the 4th
--->
 
-### PyCon US 2024 Photos
-
-<!--
 ### Side Car Social
--->
 
-### McClaren Sports Cars
-
-<!--
 ### Yoshi Shabu Shabu
 
 ### T Swirl Japanese Crepe
 
 ### Luci's Bakery
--->
 
-### Pic with Julie
-
-<!--
 ### Darna Mediterranean Eatery
 -->
-
-### Employee Appreciation Week
-
-### DjangoCon US 2024 Photos
-
-<!--
-New profile pic
---->
