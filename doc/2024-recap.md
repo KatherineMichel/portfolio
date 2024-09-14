@@ -170,16 +170,6 @@ Picked up in second half of year
 https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-2024.html
 -->
 
-
-Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
-
-You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
-
-## This Year's Theme
-
-While writing this recap, I found myself thinking the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
-
-
 <!--
 A few examples
 * Getting more organized around health and finances
@@ -202,6 +192,15 @@ Also, read the Language Summit articles for the first time and was able to grok 
 
 Recognizing that recap's popularity, creating a presentation from it, and using it to launch a Python Guild
 -->
+
+
+Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
+
+You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
+
+## This Year's Theme
+
+While writing this recap, I found myself thinking the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
 
 ## Work
 
@@ -254,9 +253,9 @@ I had countless hours of fun playing these when I was a kid.
 
 We FaceTimed while they opened the box. They immediately began playing and loved them. 
 
+<!--
 ### PS Connect
 
-<!--
 How many people now?
 Sharing, networking, and fun
 -->
@@ -347,9 +346,10 @@ Here is [a little taste of the fun](https://youtu.be/vvNfmo0zwDw?si=Tl2xj-TZ29j_
 
 [PyTexas 2024](https://www.pytexas.org/2024/) took place in Austin, Texas from April 19-21. 
 
-<!--
-Tweet
 PyTexas has been on my bucketlist for years, and I finally went. 
+
+<!--
+Tweets
 Conference and sight seeing details. 
 -->
 
