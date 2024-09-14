@@ -133,6 +133,43 @@ June
 JiT talk was trending at the same time
 -->
 
+<!--
+### JPMC AI for TIF
+
+### Voter Registration
+
+### PyCon US 2024 Presentation
+
+Due to the popularity of my PyCon US 2024 Recap, I decided to turn it into a presentation. 
+
+JPMorganChase has a community of guilds called Ignite groups. Although there had long been interest in a Python Ignite Group, it had not come to fruition. 
+
+It is a community that I have personally been yearning for. 
+
+I reached out to a few interested parties, expressed my interest in launching the group, and offered up my presentation to help launch it. 
+
+I've also been approached about hosting a PyLadies event at JPMorganChase Plano. A group like this could help support events like that. 
+-->
+
+<!--
+What I learned from PS Connect
+Coincide with release of videos on youtube
+If you are interested in PyLadies DWF, I'd love to hear from you. Drop me a line. :) 
+
+### Teaching Python Fundamentals
+
+A couple of colleagues approached me about teaching them more about Python. 
+-->
+
+<!--
+Felt I was able to further grow my network and have a deeper understanding of subjects
+
+Update on how I did
+Not as much as expected due to issues in first half of year
+Picked up in second half of year
+https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-2024.html
+-->
+
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
@@ -467,44 +504,6 @@ Continuing with my wellness activities, I completed a full physical, mammogram, 
 
 ## December
 
-
-<!--
-### JPMC AI for TIF
-
-### Voter Registration
-
-### PyCon US 2024 Presentation
-
-Due to the popularity of my PyCon US 2024 Recap, I decided to turn it into a presentation. 
-
-JPMorganChase has a community of guilds called Ignite groups. Although there had long been interest in a Python Ignite Group, it had not come to fruition. 
-
-It is a community that I have personally been yearning for. 
-
-I reached out to a few interested parties, expressed my interest in launching the group, and offered up my presentation to help launch it. 
-
-I've also been approached about hosting a PyLadies event at JPMorganChase Plano. A group like this could help support events like that. 
--->
-
-<!--
-What I learned from PS Connect
-Coincide with release of videos on youtube
-If you are interested in PyLadies DWF, I'd love to hear from you. Drop me a line. :) 
-
-### Teaching Python Fundamentals
-
-A couple of colleagues approached me about teaching them more about Python. 
--->
-
-<!--
-Felt I was able to further grow my network and have a deeper understanding of subjects
-
-Update on how I did
-Not as much as expected due to issues in first half of year
-Picked up in second half of year
-https://katherinemichel.github.io/portfolio/what-i-am-paying-attention-to-in-2024.html
--->
-
 ## Parting Thoughts
 
 Thank you to each and everyone one of you, and there are many, who made my year special.
@@ -518,6 +517,7 @@ Me at PyCon US
 
 ## Snapshots Throughout The Year
 
+<!--
 ### Arbor Hills
 
 ### Side Car Social
@@ -525,6 +525,7 @@ Me at PyCon US
 ### Chinese New Year
 
 ### JPMorganChase Eclipse Watch Party
+-->
 
 ### Tanganyka Wildlife Park
 
@@ -533,23 +534,31 @@ Mom turning the tables on me at Tanganyka
 
 ### PyTexas 2024 Photos
 
+<!--
 ### May the 4th
+-->
 
 ### PyCon US 2024 Photos
 
+<!--
 ### Side Car Social
+-->
 
 ### McClaren Sports Cars
 
+<!--
 ### Yoshi Shabu Shabu
 
 ### T Swirl Japanese Crepe
 
 ### Luci's Bakery
+-->
 
 ### Pic with Julie
 
+<!--
 ### Darna Mediterranean Eatery
+-->
 
 ### Employee Appreciation Week
 
