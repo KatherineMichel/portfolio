@@ -347,6 +347,10 @@ Here is [a little taste of the fun](https://youtu.be/vvNfmo0zwDw?si=Tl2xj-TZ29j_
 
 [PyTexas 2024](https://www.pytexas.org/2024/) took place in Austin, Texas from April 19-21. 
 
+<!--
+I had wanted to go for years and finally went. Conference and sight seeing details. 
+-->
+
 I met Jason Koo at DjangoCon US 2022 in San Diego where he generously helped as an organizer. It was great to see him again, and I look forward to learning more about Neo4j Graph Database! On the bright, sunny, second day of PyTexas, he invited me to be in this photo. 
 
 ![](2024-recap-images/jason-koo.jpg)
@@ -437,7 +441,9 @@ It was also featured in [Django News Newsletter](https://django-news.com/issues/
 ![](2024-recap-images/lacey-kudo.png)
 Thank you to the incredible Lacey for this sweet kudo! Can't wait to see you. :) 
 
+<!--
 I am thrilled to know that my recap generated interest in the content and will have increased the number of attendees. 
+-->
 
 ### DFW Pythoneers
 
