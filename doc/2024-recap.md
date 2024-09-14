@@ -131,7 +131,9 @@ Thank you to the incredible Lacey for this sweet kudo
 https://fosstodon.org/@lacey@hachyderm.io/112553623603409800
 
 June
-PyTexas Sponsorship pitch
+![](2024-recap-images/hacker-news-detail-page-stats.png)
+
+JiT talk was trending at the same time
 -->
 
 
@@ -333,12 +335,15 @@ When I started using an elliptical, I limited myself to ~70 steps per minute. Ot
 ![](2024-recap-images/one-day-too-many.png)
 One day too many
 
-I returned to the gym regularly on May 2nd and added light weight lifting. By June 1st, I'd already had a personal best on the elliptical and broke that record many times over throughout the year. 
+I returned to the gym regularly on May 2nd and added light weight lifting. In combination with aerobic activity, I've read that weight lifting has a number of benefits as we age: bone density, muscle mass, coordination and balance, general health. 
 
-![](2024-recap-images/personal-best.jpg)
-Personal best... 112 steps per minute
+By June 1st, I'd already had a personal best on the elliptical and broke that record many times over throughout the year. 
+
+![](2024-recap-images/felt-like-it.png)
 
 <!--
+![](2024-recap-images/personal-best.jpg)
+Personal best... 112 steps per minute
 Personal best by year end
 -->
 
@@ -387,10 +392,7 @@ He tweeted to me that it was trending there. It had reached #2!
 ![](2024-recap-images/hacker-news-rankings-expanded.png)
 On the "front page" for about 12 hours
 
-<!--
-![](2024-recap-images/hacker-news-detail-page-stats.png)
 It eventually reached 186 points and 91 comments
--->
 
 While the recaps I have written of smaller Python/Django conferences have been widely shared in their own right, I believe that the universal appeal of PyCon US drove the massive popularity of this post. 
 
@@ -404,10 +406,6 @@ It was also featured in [Django News Newsletter](https://django-news.com/issues/
 Thank you to the incredible Lacey for this sweet kudo! Can't wait to see you. :) 
 
 I am thrilled to know that my recap generated interest in the content and will have increased the number of attendees. 
-
-<!--
-JiT talk was trending at the same time
--->
 
 ### DFW Pythoneers
 
@@ -448,16 +446,13 @@ I made a few changes in my diet. By my second wellness screening in early July, 
 
 ### Financial Advisor
 
-Using employee financial services benefits, I began working with a JPMorganChase financial advisor. 
+Using employee financial services benefits, I began working with a JPMorganChase personal advisor and private banker. 
 
-What I learned from him has helped me understand the larger picture better and create a longterm financial strategy across all of my assets. 
+What I learned from them has helped me understand the larger picture better, create a longterm financial strategy across all of my assets, and better leverage employee benefits. 
 
-<!--
-Student loans
+I also conveniently paid off my student loans. 
 
-Social media post
-Wednesdays
--->
+![](2024-recap-images/personal-banker.png)
 
 ## September
 
@@ -466,6 +461,16 @@ Wednesdays
 Continuing with my wellness activities, I completed a full physical, mammogram, colon cancer screening, and got up-to-date with my vaccinations. 
 
 ### DjangoCon US
+
+## October
+
+## November
+
+<!--
+2 year anniversary
+-->
+
+## December
 
 
 <!--
@@ -490,26 +495,10 @@ I've also been approached about hosting a PyLadies event at JPMorganChase Plano.
 What I learned from PS Connect
 Coincide with release of videos on youtube
 If you are interested in PyLadies DWF, I'd love to hear from you. Drop me a line. :) 
--->
-
-<!--
-### August
-
-Pic with Julie
 
 ### Teaching Python Fundamentals
 
 A couple of colleagues approached me about teaching them more about Python. 
-
-## October
-
-## November
-
-2 year anniversary
-
-## December
-
-## Self-Care
 -->
 
 <!--
@@ -562,6 +551,8 @@ Mom turning the tables on me at Tanganyka
 ### T Swirl Japanese Crepe
 
 ### Luci's Bakery
+
+### Pic with Julie
 
 ### Darna Mediterranean Eatery
 
