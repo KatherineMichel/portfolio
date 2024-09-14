@@ -544,8 +544,10 @@ Parade
 ![](2024-recap-images/cultural-attire.jpg)
 Cultural attire
 
+<!--
 ![](2024-recap-images/calligraphy.jpg)
 Calligraphy
+-->
 
 <!--
 ### JPMorganChase Eclipse Watch Party
@@ -611,11 +613,12 @@ Me and my wonderful co-worker Julie
 
 ### Darna Mediterranean Eatery
 
+<!--
 ![](2024-recap-images/mocktail.jpg)
-Mocktail mojito with strawberry flavor
+-->
 
 ![](2024-recap-images/saffron-chicken.jpg)
-Saffron chicken kebab
+Saffron chicken kebab and mocktail mojito with strawberry flavor
 
 ### Employee Appreciation Week
 
