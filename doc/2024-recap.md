@@ -528,7 +528,7 @@ These are the "good old days." Live your best life.
 ![](2024-recap-images/me-at-pycon-us.jpg)
 Me at PyCon US
 
-## Snapshots Throughout The Year
+## Favorite Snapshots Throughout The Year
 
 <!--
 ### Arbor Hills
@@ -577,7 +577,7 @@ Me with the Artura
 ![](2024-recap-images/mclaren-750s.jpg)
 A 750S, the equivalent of an F1 car
 
-### Unique Food
+### Fun Food
 
 <!--
 ### Yoshi Shabu Shabu
@@ -587,6 +587,10 @@ A 750S, the equivalent of an F1 car
 ### Luci's Bakery
 
 ### Darna Mediterranean Eatery
+
+Mocktail Mojito with strawberry flavor
+
+Saffron Chicken Kebab
 -->
 
 ### Pic with Julie
@@ -607,7 +611,3 @@ Me overtaking a longhorn
 
 ![](2024-recap-images/thank-you-memo.jpg)
 Me sitting next to a life-size thank you memo
-
-<!--
-### Rodeo Goat
--->
