@@ -134,6 +134,7 @@ June
 PyTexas Sponsorship pitch
 -->
 
+
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
@@ -142,8 +143,10 @@ You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-re
 
 While writing this recap, I found myself thinking the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
 
+
 <!--
 A few examples
+* Getting more organized around health and finances
 * Applying task orchestration and distributed system engineering expertise across multiple products
 * Finally digging into some of the more advanced industry news such as historic PyCon US talks, Language Summit blog posts, and Seth M Larson's PSF security-in-residence posts
 * Making the most of my PyCon US experience, then writing a thorough recap about it that was wildly popular in the Python/Django community
@@ -336,6 +339,8 @@ After returning to the gym regularly on May 2nd, by June 1st, I'd already had a 
 Personal best... 112 steps per minute
 
 <!--
+Lifting weights
+
 Personal best by year end
 -->
 
@@ -433,14 +438,40 @@ Here I am with my Plano-based hackathon teammates.
 
 ### Wellness Screening
 
-At work, we can complete activities to earn money for an MRA (Medical Reimbursement Account) to save money on healthcare. One of the activities is a wellness screening. During the screening, your blood pressure and body mass index (BMI) are calculated, and a fingerstick is used to calculate your blood sugar, cholesterol and triglycerides. 
+Throughout July, August, and September, I took advantage of JPMorganChase employee health and finance benefits. 
+
+JPMorganChase has an employee wellness program. Employees can complete wellness activities to earn money for their MRA (Medical Reimbursement Account) and lower their medical payroll costs. One of the activities is a wellness screening. During the screening, your blood pressure and body mass index (BMI) are calculated, and a fingerstick is used to calculate your blood sugar, cholesterol and triglycerides. 
 
 I had my first wellness screening in November, 2023. I found out that both my good cholesterol and bad cholesterol were high. 
 
-I made a few changes in my diet. By my second wellness screening in early July, my bad cholesterol had gone down 22 points. More to come. 
+I made a few changes in my diet. By my second wellness screening in early July, my bad cholesterol had gone down 22 points.
+
+## August
+
+### Financial Advisor
+
+Using employee financial services benefits, I began working with a JPMorganChase financial advisor. 
+
+What I learned from him has helped me understand the larger picture better and create a longterm financial strategy. 
 
 <!--
-### Financial Advisor
+Social media post
+Wednesdays
+-->
+
+## September
+
+### Preventative Care
+
+Continuing with my wellness activities, I completed a full physical, mammogram, colon cancer screening, and got up-to-date with my vaccinations. 
+
+### DjangoCon US
+
+
+<!--
+### JPMC AI for TIF
+
+### Voter Registration
 
 ### PyCon US 2024 Presentation
 
@@ -465,12 +496,6 @@ If you are interested in PyLadies DWF, I'd love to hear from you. Drop me a line
 ### Teaching Python Fundamentals
 
 A couple of colleagues approached me about teaching them more about Python. 
-
-## August
-
-## September
-
-### DjangoCon US
 
 ## October
 
@@ -526,4 +551,18 @@ Mom turning the tables on me at Tanganyka
 
 ### McClaren Sports Cars
 
+### Yoshi Shabu Shabu
+
+### T Swirl Japanese Crepe
+
+### Luci's Bakery
+
+### Darna Mediterranean Eatery
+
+### Employee Appreciation Week
+
 ### DjangoCon US 2024 Photos
+
+<!--
+New profile pic
+--->
