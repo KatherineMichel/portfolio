@@ -18,17 +18,9 @@ https://2024.djangocon.us/hackathon/
 
 https://2024.djangocon.us/news/black-python-devs/
 
-https://2024.djangocon.us/news/introducing-keynote-natalia-bidart/
-https://2024.djangocon.us/news/introducing-keynote-mario-munoz/
-https://2024.djangocon.us/news/introducing-keynote-sheena-oconnell/
-
-https://2024.djangocon.us/news/introducing-discussion-panel/
-
 Board Game Night
 
 Tutorials / Sunday, Sep 22
-
-Talks: Day 1 / Monday, Sep 23
 
 Lightning Talks
 Andrew Mshar
@@ -47,15 +39,18 @@ Peter Grandstaff
 Keynote - Power to the People who Teach the People
 Sheena O'Connell
 https://2024.djangocon.us/talks/keynote-monday/
+https://2024.djangocon.us/news/introducing-keynote-sheena-oconnell/
 
 Keynote - How To Be A Developer and Other Lies We Tell Ourselves
 Mario Munoz
 https://2024.djangocon.us/talks/keynote-tuesday/
+https://2024.djangocon.us/news/introducing-keynote-mario-munoz/
 
 Deep Dive
 Keynote - The Fellowship of the Pony
 Natalia Bidart
 https://2024.djangocon.us/talks/keynote-wednesday/
+https://2024.djangocon.us/news/introducing-keynote-natalia-bidart/
 
 ## DSF News and Django History
 
@@ -72,6 +67,48 @@ Deep Dive
 Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
 Lacey Henschel
 https://2024.djangocon.us/talks/panel-discussion-mentoring-django/
+https://2024.djangocon.us/news/introducing-discussion-panel/
+
+## Agenda- Django Fellows and Teachers
+
+Django from first principles
+Eric Matthes
+https://2024.djangocon.us/talks/django-from-first-principles/
+
+Deep Dive
+Hidden gems of Django 5.x
+Sarah Boyce
+https://2024.djangocon.us/talks/hidden-gems-of-django-5-x/
+
+Deep Dive
+Django User Model: Past, Present, and Future
+Will Vincent
+https://2024.djangocon.us/talks/django-user-model-past-present-and-future/
+
+Deep Dive
+API Maybe: Bootstrapping a Web Application circa 2024
+Carlton Gibson
+https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/
+
+## Agenda- Database
+
+Online talk
+Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework
+Daniel Ramas
+https://2024.djangocon.us/talks/seamless-transition-how-i-converted-an-existing-mysql-database-to-be-fully-managed-by-django-migrations-framework/
+
+PostgreSQL Beyond Django: Strategies to Get Max Performance
+Álvaro Justen
+https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/
+
+Only reliable Data: Protecting Database Integrity
+Eva Nanyonga
+https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/
+
+Deep Dive
+A Guided Tour Through Postgres Internals
+Elizabeth Garrett Christensen
+https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/
 
 ## Agenda
 
@@ -79,10 +116,6 @@ Online talk
 The Magic of Dependencies Installing Themselves
 Ilerioluwakiiye Abolade
 https://2024.djangocon.us/talks/the-magic-of-dependencies-installing-themselves/
-
-Choosing Wisely: SPA vs. HTMX for Your Next Web Project
-Chris May
-https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/
 
 Error Culture
 Ryan Cheley
@@ -96,10 +129,6 @@ An Opinionated Guide to Modern Django Forms
 Josh Thomas
 https://2024.djangocon.us/talks/an-opinionated-guide-to-modern-django-forms/
 
-A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()
-Christopher Adams
-https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/
-
 One Thousand and One Django Sites
 Vince Salvino
 https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/
@@ -109,24 +138,6 @@ Adarsh Divakaran
 https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
 
 Online talk
-Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency
-Ron Maravanyika
-https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/
-
-Online talk
-Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework
-Daniel Ramas
-https://2024.djangocon.us/talks/seamless-transition-how-i-converted-an-existing-mysql-database-to-be-fully-managed-by-django-migrations-framework/
-
-Django + Alpine.js + htmx Ups & Downs
-Karen Tracey
-https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/
-
-PostgreSQL Beyond Django: Strategies to Get Max Performance
-Álvaro Justen
-https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/
-
-Online talk
 Upgrading EOL Django: A Journey from V1 to V5
 Michael Riley
 https://2024.djangocon.us/talks/upgrading-eol-django-a-journey-from-v1-to-v5/
@@ -134,16 +145,6 @@ https://2024.djangocon.us/talks/upgrading-eol-django-a-journey-from-v1-to-v5/
 Lessons from E2E Testing Web Applications
 Avindra Fernando
 https://2024.djangocon.us/talks/lessons-from-e2e-testing-web-applications/
-
-Only reliable Data: Protecting Database Integrity
-Eva Nanyonga
-https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/
-
-Online talk
-Level Up Your Django Performance: Identifying and Taming N+1 Queries
-Mohammad Ahtasham ul Hassan
-Shafqat Farhan Ahmed
-https://2024.djangocon.us/talks/level-up-your-django-performance-identifying-and-taming-n-1-queries/
 
 How to design and implement extensible software with plugins
 Simon Willison
@@ -158,30 +159,37 @@ Benjamin "Zags" Zagorsky
 https://2024.djangocon.us/talks/fighting-homelessness-with-django/
 
 Deep Dive
-Hidden gems of Django 5.x
-Sarah Boyce
-https://2024.djangocon.us/talks/hidden-gems-of-django-5-x/
-
-Deep Dive
 Online talk
 Django & Celery: A love story of async proportions
 Hugo Bessa
 https://2024.djangocon.us/talks/django-celery-a-love-story-of-async-proportions/
 
-Deep Dive
-A Guided Tour Through Postgres Internals
-Elizabeth Garrett Christensen
-https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/
+## Agenda- Performance and Optimization
 
-Deep Dive
-Django User Model: Past, Present, and Future
-Will Vincent
-https://2024.djangocon.us/talks/django-user-model-past-present-and-future/
+Online talk
+Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency
+Ron Maravanyika
+https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/
 
-Deep Dive
-API Maybe: Bootstrapping a Web Application circa 2024
-Carlton Gibson
-https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/
+A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()
+Christopher Adams
+https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/
+
+Online talk
+Level Up Your Django Performance: Identifying and Taming N+1 Queries
+Mohammad Ahtasham ul Hassan
+Shafqat Farhan Ahmed
+https://2024.djangocon.us/talks/level-up-your-django-performance-identifying-and-taming-n-1-queries/
+
+## Agenda- HTMX
+
+Choosing Wisely: SPA vs. HTMX for Your Next Web Project
+Chris May
+https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/
+
+Django + Alpine.js + htmx Ups & Downs
+Karen Tracey
+https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/
 
 ## Personal
 
@@ -200,10 +208,6 @@ https://2024.djangocon.us/talks/open-source-python-tools-to-visualize-and-analys
 Passkeys: Your password-free future
 Ryan Hiebert
 https://2024.djangocon.us/talks/passkeys-your-password-free-future/
-
-Django from first principles
-Eric Matthes
-https://2024.djangocon.us/talks/django-from-first-principles/
 
 Maps with Django
 Paolo Melchiorre
