@@ -157,6 +157,8 @@ Avindra Fernando
 https://2024.djangocon.us/talks/lessons-from-e2e-testing-web-applications/
 https://www.cypress.io/
 https://playwright.dev/
+Andy's comprehensive keynote
+https://2023.djangocon.us/talks/keynote-testing-modern-web-apps-like-a-champion/
 
 Online talk
 Upgrading EOL Django: A Journey from V1 to V5
