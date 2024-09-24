@@ -36,6 +36,58 @@ Peter Grandstaff
 Closing Remarks
 Peter Grandstaff
 
+
+## 9-23
+
+### Keynote
+
+Keynote - Power to the People who Teach the People
+Sheena O'Connell
+https://2024.djangocon.us/talks/keynote-monday/
+https://2024.djangocon.us/news/introducing-keynote-sheena-oconnell/
+
+### Agenda
+
+Troubleshooting is a Lifestyle 😎
+Jack Linke
+https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/
+
+One Thousand and One Django Sites
+Vince Salvino
+https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/
+
+Error Culture
+Ryan Cheley
+https://2024.djangocon.us/talks/error-culture/
+
+Pygoat - Learn django security the hard way
+Adarsh Divakaran
+https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
+https://owasp.org/www-project-pygoat/
+https://github.com/adeyosemanputra/pygoat
+
+### Performance and Optimization
+
+A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()
+Christopher Adams
+https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/
+https://django-debug-toolbar.readthedocs.io/en/latest/
+
+### Agenda- HTMX
+
+Choosing Wisely: SPA vs. HTMX for Your Next Web Project
+Chris May
+https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/
+
+### Personal
+
+Passkeys: Your password-free future
+Ryan Hiebert
+https://2024.djangocon.us/talks/passkeys-your-password-free-future/
+OpenID (remember that?), Federation, Single Sign-on, Magic Links, and Login Codes
+Passkeys
+
+
 ## Recap
 
 Deep Dive
@@ -62,13 +114,7 @@ Lacey Henschel
 https://2024.djangocon.us/talks/panel-discussion-mentoring-django/
 https://2024.djangocon.us/news/introducing-discussion-panel/
 
-
 ## Keynotes
-
-Keynote - Power to the People who Teach the People
-Sheena O'Connell
-https://2024.djangocon.us/talks/keynote-monday/
-https://2024.djangocon.us/news/introducing-keynote-sheena-oconnell/
 
 Keynote - How To Be A Developer and Other Lies We Tell Ourselves
 Mario Munoz
@@ -95,6 +141,7 @@ https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-
 https://pluggy.readthedocs.io/en/stable/
 https://packaging.python.org/en/latest/specifications/entry-points/
 
+Cancelled
 Django from first principles
 Eric Matthes
 https://2024.djangocon.us/talks/django-from-first-principles/
@@ -132,14 +179,6 @@ https://www.mysql.com/
 
 ## Agenda
 
-Troubleshooting is a Lifestyle 😎
-Jack Linke
-https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/
-
-One Thousand and One Django Sites
-Vince Salvino
-https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/
-
 Fighting Homelessness with Django
 Benjamin "Zags" Zagorsky
 https://2024.djangocon.us/talks/fighting-homelessness-with-django/
@@ -175,16 +214,6 @@ An Opinionated Guide to Modern Django Forms
 Josh Thomas
 https://2024.djangocon.us/talks/an-opinionated-guide-to-modern-django-forms/
 
-Error Culture
-Ryan Cheley
-https://2024.djangocon.us/talks/error-culture/
-
-Pygoat - Learn django security the hard way
-Adarsh Divakaran
-https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
-https://owasp.org/www-project-pygoat/
-https://github.com/adeyosemanputra/pygoat
-
 Faster, leaner, greener: 10x lower website carbon emissions
 Thibaud Colas
 https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/
@@ -199,11 +228,6 @@ https://github.com/jazzband/django-silk
 https://github.com/kolofordjango/kolo
 https://pytest-benchmark.readthedocs.io/en/latest/
 
-A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()
-Christopher Adams
-https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/
-https://django-debug-toolbar.readthedocs.io/en/latest/
-
 Online talk
 Level Up Your Django Performance: Identifying and Taming N+1 Queries
 Mohammad Ahtasham ul Hassan
@@ -213,10 +237,6 @@ https://django-debug-toolbar.readthedocs.io/en/latest/
 SQL logging
 
 ## Agenda- HTMX
-
-Choosing Wisely: SPA vs. HTMX for Your Next Web Project
-Chris May
-https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/
 
 Django + Alpine.js + htmx Ups & Downs
 Karen Tracey
@@ -228,12 +248,6 @@ path('/user/<user.username:user>/', view_profile)
 Willem Van Onsem
 Junior Ballroom
 https://2024.djangocon.us/talks/path-user-user-username-user-view-profile/
-
-Passkeys: Your password-free future
-Ryan Hiebert
-https://2024.djangocon.us/talks/passkeys-your-password-free-future/
-OpenID (remember that?), Federation, Single Sign-on, Magic Links, and Login Codes
-Passkeys
 
 Deep Dive
 Online talk
@@ -282,6 +296,7 @@ Miguel Sanda
 https://2024.djangocon.us/talks/django-ledger-uniting-developers-and-accountants-for-innovation/
 https://github.com/arrobalytics/django-ledger
 
+Cancelled
 Django from a Rails Perspective
 Lisa Ciaccio
 https://2024.djangocon.us/talks/django-from-a-rails-perspective/
