@@ -39,12 +39,42 @@ Peter Grandstaff
 
 ## 9-23
 
+https://2024.djangocon.us/schedule/#Day-2
+
 ### Keynote
 
 Keynote - Power to the People who Teach the People
 Sheena O'Connell
 https://2024.djangocon.us/talks/keynote-monday/
 https://2024.djangocon.us/news/introducing-keynote-sheena-oconnell/
+Bloom’s 2 sigma problem
+https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem
+Mastery based learning 
+https://en.wikipedia.org/wiki/Mastery_learning
+"Education is not the filling of a pail, but the lighting of a fire"
+https://www.irishtimes.com/news/education/education-is-not-the-filling-of-a-pail-but-the-lighting-of-a-fire-it-s-an-inspiring-quote-but-did-wb-yeats-say-it-1.1560192
+Growth mindset versus fixed mindset
+https://online.hbs.edu/blog/post/growth-mindset-vs-fixed-mindset
+Growth mindset is a spectrum 
+Foster a growth mindset 
+Huberman Lab Podcast
+https://www.hubermanlab.com/podcast
+MLB and growth mindset effects
+Meta cognition 
+https://en.wikipedia.org/wiki/Metacognition
+Protege effect
+https://www.growthengineering.co.uk/protege-effect/
+Retrieval practice
+https://www.retrievalpractice.org/
+The Guild of Educators
+https://www.sheenaoc.com/articles/2024-09-12-introducing-goe
+Learning Sprint tutorial: Django, htmx, playwright, tailwind, maybe alpine 
+PyCon Namibia questions… hard to get Europeans to ask questions
+Desperation mindset 
+Stereotype threat… sense of belonging
+https://en.wikipedia.org/wiki/Stereotype_threat
+Anonymous letters… they are telling my story 
+Slides at end
 
 ### Agenda
 
@@ -52,13 +82,13 @@ Troubleshooting is a Lifestyle 😎
 Jack Linke
 https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/
 
-One Thousand and One Django Sites
-Vince Salvino
-https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/
-
 Error Culture
 Ryan Cheley
 https://2024.djangocon.us/talks/error-culture/
+Error culture definition 
+https://fs.blog/chestertons-fence/
+Actionable alert
+
 
 Pygoat - Learn django security the hard way
 Adarsh Divakaran
@@ -66,18 +96,44 @@ https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
 https://owasp.org/www-project-pygoat/
 https://github.com/adeyosemanputra/pygoat
 
-### Performance and Optimization
+One Thousand and One Django Sites
+Vince Salvino
+https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/
 
-A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()
-Christopher Adams
-https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/
-https://django-debug-toolbar.readthedocs.io/en/latest/
 
 ### Agenda- HTMX
 
 Choosing Wisely: SPA vs. HTMX for Your Next Web Project
 Chris May
 https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/
+Unicorn
+https://www.django-unicorn.com/
+htmx
+alpine.js 
+django-template-partials
+https://github.com/carltongibson/django-template-partials
+django-components
+https://pypi.org/project/django-components/
+Datastar
+https://datastar.fly.dev/
+Unpoly
+https://unpoly.com/
+Unuzi- Sheena
+https://www.sheenaoc.com/articles/2024-06-30-htmx
+Context- David Guillot
+OpenUnited- dev velocity improved by 500%
+https://www.reddit.com/r/django/comments/176882w/results_of_porting_openunited_from_react_to/
+Taylor Hunt
+https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na
+Chris will create a blog post with streaming info
+
+### Performance and Optimization
+
+A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()
+Christopher Adams
+https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/
+https://django-debug-toolbar.readthedocs.io/en/latest/
+Other django-debut-toolbar uses
 
 ### Personal
 
