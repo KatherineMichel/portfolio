@@ -37,6 +37,9 @@ Closing Remarks
 Peter Grandstaff
 
 
+https://2024.djangocon.us/talks/the-art-of-not-redirecting/
+https://2024.djangocon.us/talks/operations-missing-django-piece/
+
 ## 9-23
 
 https://2024.djangocon.us/schedule/#Day-2
