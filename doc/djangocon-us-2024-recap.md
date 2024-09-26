@@ -154,15 +154,15 @@ https://2024.djangocon.us/news/introducing-keynote-natalia-bidart/
 
 ### DSF News and Django History
 
-Deep Dive
-A Brief History of Django
-Frank Wiles
-https://2024.djangocon.us/talks/a-brief-history-of-django/
-
 If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?
 Jacob Kaplan-Moss
 https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/
 https://www.djangoproject.com/foundation/
+
+Deep Dive
+A Brief History of Django
+Frank Wiles
+https://2024.djangocon.us/talks/a-brief-history-of-django/
 
 Deep Dive
 Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
@@ -197,18 +197,23 @@ https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-
 https://pluggy.readthedocs.io/en/stable/
 https://packaging.python.org/en/latest/specifications/entry-points/
 
-Cancelled
-Django from first principles
-Eric Matthes
-https://2024.djangocon.us/talks/django-from-first-principles/
-https://www.mostlypython.com/django-from-first-principles-2/
-
 Deep Dive
 API Maybe: Bootstrapping a Web Application circa 2024
 Carlton Gibson
 https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/
 
+## Cancelled
+
+Django from first principles
+Eric Matthes
+https://2024.djangocon.us/talks/django-from-first-principles/
+https://www.mostlypython.com/django-from-first-principles-2/
+
 ## Agenda- Database
+
+PostgreSQL Beyond Django: Strategies to Get Max Performance
+Álvaro Justen
+https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/
 
 Only reliable Data: Protecting Database Integrity
 Eva Nanyonga
@@ -217,15 +222,13 @@ Transaction atomicity
 Concurrency control
 Durability through logging
 
-PostgreSQL Beyond Django: Strategies to Get Max Performance
-Álvaro Justen
-https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/
-
 Deep Dive
 A Guided Tour Through Postgres Internals
 Elizabeth Garrett Christensen
 https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/
 https://www.postgresql.org/
+
+## Agenda- Database- Online
 
 Online talk
 Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework
@@ -235,17 +238,14 @@ https://www.mysql.com/
 
 ## Agenda
 
+Faster, leaner, greener: 10x lower website carbon emissions
+Thibaud Colas
+https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/
+
 Fighting Homelessness with Django
 Benjamin "Zags" Zagorsky
 https://2024.djangocon.us/talks/fighting-homelessness-with-django/
 https://publichousingapplication.ocd.state.ma.us/
-
-Deep Dive
-Online talk
-Django & Celery: A love story of async proportions
-Hugo Bessa
-https://2024.djangocon.us/talks/django-celery-a-love-story-of-async-proportions/
-https://github.com/celery/celery
 
 Lessons from E2E Testing Web Applications
 Avindra Fernando
@@ -254,6 +254,20 @@ https://www.cypress.io/
 https://playwright.dev/
 Andy's comprehensive keynote
 https://2023.djangocon.us/talks/keynote-testing-modern-web-apps-like-a-champion/
+
+An Opinionated Guide to Modern Django Forms
+Josh Thomas
+https://2024.djangocon.us/talks/an-opinionated-guide-to-modern-django-forms/
+
+
+## Agenda- Online
+
+Deep Dive
+Online talk
+Django & Celery: A love story of async proportions
+Hugo Bessa
+https://2024.djangocon.us/talks/django-celery-a-love-story-of-async-proportions/
+https://github.com/celery/celery
 
 Online talk
 Upgrading EOL Django: A Journey from V1 to V5
@@ -266,15 +280,7 @@ Ilerioluwakiiye Abolade
 https://2024.djangocon.us/talks/the-magic-of-dependencies-installing-themselves/
 https://peps.python.org/pep-0723/
 
-An Opinionated Guide to Modern Django Forms
-Josh Thomas
-https://2024.djangocon.us/talks/an-opinionated-guide-to-modern-django-forms/
-
-Faster, leaner, greener: 10x lower website carbon emissions
-Thibaud Colas
-https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/
-
-## Agenda- Performance and Optimization
+## Agenda- Performance and Optimization- Online
 
 Online talk
 Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency
@@ -300,18 +306,6 @@ https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/
 
 ## Personal
 
-path('/user/<user.username:user>/', view_profile)
-Willem Van Onsem
-Junior Ballroom
-https://2024.djangocon.us/talks/path-user-user-username-user-view-profile/
-
-Deep Dive
-Online talk
-Introduction to OpenTelemetry with Django
-Jessica Garson
-https://2024.djangocon.us/talks/introduction-to-opentelemetry-with-django/
-https://opentelemetry.io/
-
 Deep Dive
 WebRTC with Django, Channels, HTMX, and coturn
 Ken Whitesell
@@ -319,6 +313,20 @@ https://2024.djangocon.us/talks/webrtc-with-django-channels-htmx-and-coturn/
 Web Real Time Communications (WebRTC)
 https://en.wikipedia.org/wiki/WebRTC
 https://github.com/coturn/coturn
+
+path('/user/<user.username:user>/', view_profile)
+Willem Van Onsem
+Junior Ballroom
+https://2024.djangocon.us/talks/path-user-user-username-user-view-profile/
+
+## Personal- Online
+
+Deep Dive
+Online talk
+Introduction to OpenTelemetry with Django
+Jessica Garson
+https://2024.djangocon.us/talks/introduction-to-opentelemetry-with-django/
+https://opentelemetry.io/
 
 Deep Dive
 Online talk
@@ -336,6 +344,7 @@ Django UI Components for Perfectionists with Deadlines
 Hernan Lozano
 https://2024.djangocon.us/talks/reusable-django-template-components-for-perfectionists-with-deadlines/
 
+
 Open-source Python tools to visualize and analyse geospatial data.
 Samweli Mwakisambwe
 https://2024.djangocon.us/talks/open-source-python-tools-to-visualize-and-analyse-geospatial-data/
@@ -351,11 +360,6 @@ Django Ledger | Uniting Developers and Accountants for Innovation.
 Miguel Sanda
 https://2024.djangocon.us/talks/django-ledger-uniting-developers-and-accountants-for-innovation/
 https://github.com/arrobalytics/django-ledger
-
-Cancelled
-Django from a Rails Perspective
-Lisa Ciaccio
-https://2024.djangocon.us/talks/django-from-a-rails-perspective/
 
 You got that nice tech salary, now what?
 Tim Schilling
@@ -392,3 +396,9 @@ https://2024.djangocon.us/talks/optimizing-remote-work-pull-requests-stand-ups-a
 Deploying Django migrations at Kraken scale
 Tim Bell
 https://2024.djangocon.us/talks/deploying-django-migrations-at-kraken-scale/
+
+## Cancelled
+
+Django from a Rails Perspective
+Lisa Ciaccio
+https://2024.djangocon.us/talks/django-from-a-rails-perspective/
