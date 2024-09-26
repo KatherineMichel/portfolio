@@ -1,5 +1,49 @@
 # DjangoCon US 2024 Recap
 
+Mother and Sons
+Sarah P. Duke Gardens
+Cocoa Cinnamon
+The Can Opener
+21c Hotel- vault and bathrooms
+The Durham Hotel
+Mother and Sons
+Durham Food Hall
+Durham Farmer's Market
+Press Crepe Company
+Centerfest
+Barber Shop Quartet
+Durham Farmer's Market
+Black Python Devs
+Pic with Afi and Velda
+Rooftop View of Durham
+Bull McCabes Irish Pub
+Unscripted
+Durham Underground Market
+Cousins Maine Lobster
+The Mariott
+Unscripted Rooftop
+Neomonde
+Ponysaurus Django Social
+DjangoCon
+21c Board Dinner- pic
+Selfie with Lorenzo
+Cocoa Cinnamon
+Greet Street
+Boxcar Arcade
+Pic with Simon
+Cocoa Cinnamon
+Thank you card
+John's bag
+Queeny's
+Group pic
+Press Crepe Company
+
+Selfie with John
+John included me in lightning talk- screenshot
+
+Talks
+
+
 Organizers
 https://2024.djangocon.us/organizers/
 
