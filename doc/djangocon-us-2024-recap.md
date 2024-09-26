@@ -43,6 +43,8 @@ Selfie with John
 John included me in lightning talk- screenshot
 
 Talks
+Side conversations
+Opportunities to connect
 
 
 Organizers
