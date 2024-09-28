@@ -54,8 +54,11 @@ DjangoCon US 2024 took place from September 22-27 in Durham, North Carolina. It 
 
 If you want to bring DjangoCon US to your city or volunteer, we want to hear from you! 
 
+Fellow Board Member Adam Fast gave a lightning talk about our search for a venue for 2025 and beyond. 
+
 <!--
-Adam lightning talk. 
+Just like Linux eye balls in open source
+Lightning talk link and date/time
 -->
 
 Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
@@ -67,12 +70,17 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 ### Sightseeing and Some Great Meals
 
-I feel privileged to be able to travel across the US and eventually the world. As such, I make the most of every opportunity: seeing the unique sights, experiencing what makes the culture special, and enjoying the celebrated local cuisine. 
+I feel privileged to be able to travel. I make the most of every opportunity to get to know a place better: seeing the unique sights, experiencing what makes the culture special, and enjoying the celebrated local cuisine. 
 
-<!--
+In Durham, I had the chance to revisit the incredible Sarah P. Duke Gardens and see a few other attractions for the first time. Also, although most of my meals were provided through the conference, I enjoyed some outstanding meals in downtown Durham restaurants. 
+
 A few favorite moments
 * Trying squid ink pasta, lobster roll, and oysters for the first time
+* Being treated to a gourmet meal at 21c Museum Hotel at the DEFNA Board Dinner
 * Getting a photo in front of a butterfly artwork
+
+<!--
+Other ones
 -->
   
 ### Black Python Devs Leadership Summit
@@ -88,15 +96,20 @@ https://2024.djangocon.us/news/black-python-devs/
 
 ### Rooftop View of Durham
 
+After the summit, a DjangoCon US attendee who lives at One City Center took us up to the 28th floor for an incredible view of Durham skyline. 
+
 <!--
-Video
+Video of the skyline
 -->
 
+One City Center rooftop pool
 ![](djangocon-us-2024-recap-images/one-city-center-roof.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Swag Stuffing
+
+On Sunday, I continued my tradition of swag stuffing. Conference pro-tip: it's a great opportunity to meet people! 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -144,9 +157,6 @@ Adarsh Divakaran
 https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
 
 
-
-
-
 ### Kojo Idressa and Peter Grandstaff Kick Off the Conference
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -155,25 +165,31 @@ https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
 
 ### Shrimp and Grits
 
-I still didn't like them, but it was an experience! 
+I tried grits as a kid and didn't like them. I've recently been told by friends that I just haven't had the right grits. 
+
+When they were on the DjangoCon US lunch buffet, I had to try them. I still don't like them, but it was an experience! 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### DEFNA Board Dinner
 
-[Counting House](https://countinghousenc.com/) at 21c Museum Hotel
+I was treated to a gourmet meal at [Counting House](https://countinghousenc.com/) restaurant at the DEFNA Board Dinner where we had the chance to discuss board business. 
+
+I had oysters for the first time and particularly enjoyed the scallops and smoked trout dip. 
 
 The DEFNA Board... wonderful people!
 ![](djangocon-us-2024-recap-images/defna-board.jpg)
 
+Oysters on the half, blood orange mignonette, cocktail sauce
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-oysters.jpg)
 
-Trout dip
+Smoked trout dip, bread & butter pickle, butter-fried saltine
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-trout-dip.jpg)
 
-Diver scallops
+Diver scallops, pecorino english pea puree, radish & snow pea orzo salad, pea tendrils; Sherry Berry lifts me up, lustau sherry, capelleti, strawberry, aromatic bitters, tonic
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-scallops.jpg)
 
+Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-dessert.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -228,6 +244,8 @@ https://publichousingapplication.ocd.state.ma.us/
 
 ### Meeting Lorenzo
 
+After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! 
+
 Me and Lorenzo
 ![](djangocon-us-2024-recap-images/me-and-lorenzo.jpg)
 
@@ -235,7 +253,13 @@ Me and Lorenzo
 
 ### Speaker and Organizer Dinner
 
-[Greer Street Garden](https://geerstreetgarden.com/about)
+On Tuesday night, I attended the speaker/organizer dinner at [Greer Street Garden](https://geerstreetgarden.com/about). 
+
+It was a chance to relax, enjoy some North Carolina food and good conversation. 
+
+Sitting next to Simon Willison, co-creator of Django, I couldn't resist getting a photo!
+
+I wrote about Simon's PyCon US 2024 talk in my [PyCon US Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html). 
 
 Me and Simon (photo credit: Natalia Bidart)
 ![](djangocon-us-2024-recap-images/me-and-simon.jpg)
@@ -244,11 +268,14 @@ Me and Simon (photo credit: Natalia Bidart)
 
 ### The Boxcar Bar and Arcade
 
+After the speaker/organizer dinner, Six Feet Up hosted a Mario Kart competition across the street at [The Boxcar Bar and Arcade](https://theboxcarbar.com/). 
+
+I spotted a few favorite old school games too: Super Pac-Man, Ms. Pac-Man, Donkey Kong, BurgerTime, Frogger
+
 <!--
 Video
+Super Pac Man
 -->
-
-[The Boxcar Bar and Arcade](https://theboxcarbar.com/)
 
 Me standing in front of the bar at Boxcar
 ![](djangocon-us-2024-recap-images/boxcar-arcade.jpg)
@@ -580,6 +607,7 @@ Video
 
 
 Videos
+Photo credits?
 
 Mother and Sons
 Cocoa Cinnamon
