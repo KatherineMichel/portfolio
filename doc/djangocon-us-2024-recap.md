@@ -43,7 +43,7 @@ Table of Contents
     - [Durham Farmers Market and Craft Market](#durham-farmers-market-and-craft-market)
     - [Durham Underground Market](#durham-underground-market)
     - [Cousins Maine Lobster](#cousins-maine-lobster)
-    - [Unscripted Rooftop](#unscripted-rooftop)
+    - [Unscripted Rooftop Pool](#unscripted-rooftop-pool)
     - [The Parlour](#the-parlour)
 
 ## Intro
@@ -601,7 +601,7 @@ Barber Shop Quartet video
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Unscripted Rooftop
+### Unscripted Rooftop Pool
 
 I had the chance to spend time at the [Unscripted Hotel](https://www.unscriptedhotels.com/). The rooftop overlooks the downtown and features a pool, bar, and DJ. It was an unforgettable atmosphere.  
 
