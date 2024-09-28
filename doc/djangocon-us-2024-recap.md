@@ -264,7 +264,7 @@ Me and Lorenzo
 
 On Tuesday night, I attended the speaker/organizer dinner at [Greer Street Garden](https://geerstreetgarden.com/about). 
 
-It was a chance to relax, enjoy some North Carolina food and good conversation. 
+It was a chance to relax, enjoy some good food and conversation. 
 
 Sitting next to Simon Willison, co-creator of Django, I couldn't resist getting a photo!
 
