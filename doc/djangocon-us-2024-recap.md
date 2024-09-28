@@ -253,7 +253,12 @@ https://publichousingapplication.ocd.state.ma.us/
 
 ### Meeting Lorenzo
 
-After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! It was wonderful to hear about his dream trip to DjangoCon US. I was thrilled that he had the chance to present a talk too: [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/). 
+After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! It was wonderful to hear about his dream trip to DjangoCon US. 
+
+I was thrilled that he had the chance to present a talk and attend the speaker/organizer dinner too: [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/). 
+
+Lorenzo's social media post
+![](djangocon-us-2024-recap-images/lorenzo-post.png)
 
 Me and Lorenzo
 ![](djangocon-us-2024-recap-images/me-and-lorenzo.jpg)
