@@ -29,7 +29,7 @@ DjangoCon
 21c Board Dinner- pic
 Selfie with Lorenzo
 Cocoa Cinnamon
-Greet Street
+Greer Street
 Boxcar Arcade
 Pic with Simon
 Cocoa Cinnamon
