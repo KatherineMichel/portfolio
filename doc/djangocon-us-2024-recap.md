@@ -79,6 +79,7 @@ A few favorite moments
 
 <!--
 Tweet
+https://2024.djangocon.us/news/black-python-devs/
 -->
 
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-panel.jpg)
@@ -86,6 +87,10 @@ Tweet
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-me-afi-velda.jpg)
 
 ### Rooftop View of Durham
+
+<!--
+Video
+-->
 
 ![](djangocon-us-2024-recap-images/one-city-center-roof.jpg)
 
@@ -239,6 +244,10 @@ Me and Simon (photo credit: Natalia Bidart)
 
 ### The Boxcar Bar and Arcade
 
+<!--
+Video
+-->
+
 [The Boxcar Bar and Arcade](https://theboxcarbar.com/)
 
 Me standing in front of the bar at Boxcar
@@ -296,6 +305,10 @@ Panel Discussion: Open, friendly, and welcoming: on the history and future of me
 -->
 
 ### Lightning Talk Cameo
+
+<!--
+Video
+-->
 
 <!--
 https://2024.djangocon.us/talks/lightning-talks-wednesday/
@@ -407,6 +420,10 @@ DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.
 
 [Sarah P. Duke Gardens](https://gardens.duke.edu/)
 
+<!--
+Video
+-->
+
 Fish pool, historic terraces, and Cindy Brodhead Pergola
 ![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-overlook.jpg)
 
@@ -446,6 +463,10 @@ The Can Opener
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### 21c Museum Hotel
+
+<!--
+Video
+-->
 
 [21c Museum Hotel](https://www.21cmuseumhotels.com/)
 
@@ -505,6 +526,10 @@ The best public view in town
 
 [Centerfest](https://durhamarts.org/centerfest/)
 
+<!--
+Barber Shop Quartet video
+-->
+
 ![](djangocon-us-2024-recap-images/butterfly.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -533,6 +558,10 @@ The best public view in town
 
 ### Unscripted Rooftop
 
+<!--
+Video
+-->
+
 [Unscripted Hotel](https://www.unscriptedhotels.com/)
 
 ![](djangocon-us-2024-recap-images/unscripted-rooftop-hotel.jpg)
@@ -555,11 +584,10 @@ Videos
 Mother and Sons
 Cocoa Cinnamon
 Saturday
-Barber Shop Quartet
-Saturday
 Bull McCabes Irish Pub
 Sunday
 Neomonde
+https://www.neomonde.com/mediterranean-restaurant-durham/
 
 
 
@@ -571,17 +599,12 @@ Opportunities to connect
 Organizers
 https://2024.djangocon.us/organizers/
 
-Neomonde
-https://www.neomonde.com/mediterranean-restaurant-durham/
-
 
 Schedule
 https://2024.djangocon.us/schedule/
 
 Hackathon
 https://2024.djangocon.us/hackathon/
-
-https://2024.djangocon.us/news/black-python-devs/
 
 Board Game Night
 
