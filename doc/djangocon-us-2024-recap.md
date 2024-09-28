@@ -25,8 +25,11 @@ Table of Contents
 
     - [Meeting Lorenzo](#meeting-lorenzo)
 
+<!--
     - [Hallway Track](#hallway-track)
         - [Django Social T-Shirt](#django-social-t-shirt)
+-->
+
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
     - [Boxcar Arcade](#boxcar-arcade)
 
@@ -192,7 +195,24 @@ Me standing in front of the bar at Boxcar Arcade
 
 ## Wednesday
 
+<!--
+https://2024.djangocon.us/talks/lightning-talks-wednesday/
+
+John included me in lightning talk- screenshot
+![](djangocon-us-2024-recap-images/john-lightning-talk.jpg)
+-->
+
 ### Panel
+
+<!--
+Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
+Lacey Henschel, moderator, former Django Girls contributor and organizer
+Keanya Phelps, Django Girls organizer and participant, mentor in Djangonaut Space
+Afi Maame Dufie, involved in Django Girls, PyLadies, and Black Python Devs
+Sarah Boyce, Django Fellow, co-founder and mentor in Djangonaut Space
+Carlton Gibson, former Django Fellow, mentor in Djangonaut Space, mentor and coordinator of Django's efforts in Google Summer of Code, and Django Girls coach and advisory board member.
+Velda Kiara, DEFNA director, former AnitaB.org Kenya Community Lead, former Open Source Community Africa Nairobi organizer and contributor, participant in Djangonaut Space, and current contributor and leader of Black Python Devs
+-->
 
 ![](djangocon-us-2024-recap-images/closing-panel.jpg)
 
@@ -285,6 +305,11 @@ The Can Opener
 
 ### The Durham Hotel
 
+<!--
+The best view in town
+https://www.thedurham.com/roof/
+-->
+
 ![](djangocon-us-2024-recap-images/the-durham-hotel-lobby.jpg)
 
 ![](djangocon-us-2024-recap-images/the-durham-hotel-roof-left.jpg)
@@ -335,6 +360,11 @@ The Can Opener
 
 ### Unscripted Rooftop
 
+<!--
+Unscripted Hotel
+https://www.unscriptedhotels.com/
+-->
+
 ![](djangocon-us-2024-recap-images/unscripted-rooftop-hotel.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -357,8 +387,7 @@ The talk replays will be available on the [DjangoCon US YouTube channel](https:/
 
 
 
-
-![](djangocon-us-2024-recap-images/john-lightning-talk.jpg)
+Selfie with John
 
 ![](djangocon-us-2024-recap-images/me-and-john.jpeg)
 
@@ -381,10 +410,6 @@ Greer Street
 
 
 
-
-Selfie with John
-John included me in lightning talk- screenshot
-
 Talks
 Side conversations
 Opportunities to connect
@@ -393,12 +418,9 @@ Opportunities to connect
 Organizers
 https://2024.djangocon.us/organizers/
 
-Unscripted Hotel
-https://www.unscriptedhotels.com/
 Neomonde
 https://www.neomonde.com/mediterranean-restaurant-durham/
-The vew view in town
-https://www.thedurham.com/roof/
+
 
 Schedule
 https://2024.djangocon.us/schedule/
