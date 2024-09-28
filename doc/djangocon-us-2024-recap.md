@@ -169,6 +169,8 @@ I tried grits as a kid and didn't like them. I've recently been told by friends 
 
 When they were on the DjangoCon US lunch buffet, I had to try them. I still don't like them, but it was an experience! 
 
+![](djangocon-us-2024-recap-images/shrimp-and-grits.jpg)
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### DEFNA Board Dinner
@@ -274,9 +276,8 @@ I spotted a few favorite old school games too: Super Pac-Man, Ms. Pac-Man, Donke
 
 [Video of Boxcar Arcade](https://youtu.be/gO1CcdgQ9II)
 
-<!--
-Super Pac Man
--->
+Super Pac-Man
+![](djangocon-us-2024-recap-images/boxcar-arcade-super-pac-man.jpg)
 
 Me standing in front of the bar at Boxcar
 ![](djangocon-us-2024-recap-images/boxcar-arcade.jpg)
@@ -586,19 +587,20 @@ Barber Shop Quartet video
 
 ### Unscripted Rooftop
 
-<!--
-Video
--->
-
 [Unscripted Hotel](https://www.unscriptedhotels.com/)
 
-![](djangocon-us-2024-recap-images/unscripted-rooftop-hotel.jpg)
+[Video of the Unscripted rooftop pool](https://youtu.be/_5-08ssL8Wk)
+
+Unscripted rooftop pool
+![](djangocon-us-2024-recap-images/unscripted-rooftop-pool.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### The Parlour
 
 [The Parlour](https://theparlour.co/)
+
+![](djangocon-us-2024-recap-images/the-parlour.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
