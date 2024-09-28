@@ -5,43 +5,34 @@ Table of Contents
 
 - [Intro](#intro)
 - [Pre-Conference Activities](#pre-conference-activities)
-    - [Sightseeing](#sightseeing)
+    - [Sightseeing and Some Great Meals](#sightseeing-and-some-great-meals)
     - [Black Python Devs Leadership Summit](#black-python-devs-leadership-summit)
-    - [Swag Stuffing](#swag-stuffing)
     - [Rooftop View of Durham](#rooftop-view-of-durham)
+    - [Swag Stuffing](#swag-stuffing)
     - [Django Social](#django-social)
-        - [A Chance to Hang Out with Old Friends and Make New Friends](#a-chance-to-hang-out-with-old-friends-and-make-new-friends)
 - [Monday](#monday)
-      
-    - [Meeting the New Django Fellow Natalia Bidart](#meeting-the-new-django-fellow-natalia-bidart)
-    - [Kojo Idressa and Peter Grandstaff Kick Off the Conference](#kojo-idressa-and-peter-grandstaff-kick-off-the-conference)
-    - [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](#html-ivating-your-django-web-apps-experience-with-htmx-alpinejs-and-streaming-html)
-    - [Fried Green Tomatoes :)](#fried-green-tomatoes-)
-    - [What Can the DSF Do for Me? What Can I Do for the DSF?](#what-can-the-dsf-do-for-me-what-can-i-do-for-the-dsf)
-    - [Parts and Labor, The Parlour, and Back to the Hotel](#parts-and-labor-the-parlour-and-back-to-the-hotel)
-      
-    - [DEFNA Board Dinner](#defna-board-dinner)
-
+    - [Shrimp and Grits](#shrimp-and-grits)
+    - [DEFNA Board Dinner](#defna-board-dinner)      
 - [Tuesday](#tuesday)
-
     - [Meeting Lorenzo](#meeting-lorenzo)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
     - [The Boxcar Bar and Arcade](#the-boxcar-bar-and-arcade)
-
 - [Wednesday](#wednesday)
-    - [Panel](#panel)
+    - [Lightning Talk Cameo](#lightning-talk-cameo)
+    - [Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django](#panel-discussion-open-friendly-and-welcoming-on-the-history-and-future-of-mentoring-in-django)
     - [Thank You](#thank-you)
-    - [John's Bag](#johns-bag)
     - [Queeny's](#queenys)
 - [Hallway Track](#hallway-track)
     - [Connections Made](#connections-made)
     - [Swag](#swag)
     - [Django Social T-Shirt](#django-social-t-shirt)
+    - [Visa Frustration](#visa-frustration)
 - [Thursday](#thursday)
     - [Sprints](#sprints)
 - [Another Great Adventure](#another-great-adventure)
 - [Sight Seeing and More Food](#sight-seeing-and-more-food)
     - [Sarah P. Duke Gardens](#sarah-p-duke-gardens)
+    - [Cocoa Cinnamon](#cocoa-cinnamon)
     - [The Can Opener](#the-can-opener)
     - [21c Museum Hotel](#21c-museum-hotel)
     - [The Durham Hotel](#the-durham-hotel)
@@ -50,8 +41,10 @@ Table of Contents
     - [Press Coffee, Crepes, and Cocktails](#press-coffee-crepesand-cocktails)
     - [Centerfest](#centerfest)
     - [Durham Farmers Market and Craft Market](#durham-farmers-market-and-craft-market)
+    - [Durham Underground Market](#durham-underground-market)
     - [Cousins Maine Lobster](#cousins-maine-lobster)
     - [Unscripted Rooftop](#unscripted-rooftop)
+    - [The Parlour](#the-parlour)
 
 ## Intro
 
@@ -72,7 +65,7 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 ## Pre-Conference Activities
 
-### Sightseeing and a Great Meal
+### Sightseeing and Some Great Meals
 
 I feel privileged to be able to travel across the US and eventually the world. As such, I make the most of every opportunity: seeing the unique sights, experiencing what makes the culture special, and enjoying the celebrated local cuisine. 
 
@@ -106,11 +99,9 @@ Tweet
 
 [Ponysaurus Brewing Company](https://www.ponysaurusbrewing.com/)
 
+A Chance to Hang Out with Old Friends and Make New Friends
+
 ![](djangocon-us-2024-recap-images/django-social.jpg)
-
-<sub>[**back to top**](#table-of-contents)</sub>
-
-#### A Chance to Hang Out with Old Friends and Make New Friends
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -157,7 +148,7 @@ https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
 
 -->
 
-### Shrimp and Grits :)
+### Shrimp and Grits
 
 I still didn't like them, but it was an experience! 
 
@@ -359,12 +350,8 @@ Simon- senior level and tuba museum
 Lacey- I can learn anything
 Noah and Jib- MongoDB
 Sanjeets Joodnan
-Sarah Boyce
+Meeting the new Django Fellow Sarah Boyce
 -->
-
-<sub>[**back to top**](#table-of-contents)</sub>
-
-#### Meeting the New Django Fellow Natalia Bidart
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
