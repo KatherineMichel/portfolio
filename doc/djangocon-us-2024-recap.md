@@ -3,71 +3,20 @@
 Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ![](djangocon-us-2024-recap-images/attendees-photo.jpg)
 
-![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-entry.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-first-room.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-inner-room.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-bathroom.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-dessert.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-oysters.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-scallops.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-trout-dip.jpg)
-
-![](djangocon-us-2024-recap-images/attendees-photo.jpg)
-
-![](djangocon-us-2024-recap-images/black-python-devs-summit-me-afi-velda.jpg)
-
-![](djangocon-us-2024-recap-images/black-python-devs-summit-panel.jpg)
-
-![](djangocon-us-2024-recap-images/boxcar-arcade.jpg)
-
-![](djangocon-us-2024-recap-images/butterfly.jpg)
-
-![](djangocon-us-2024-recap-images/closing-panel.jpg)
-
-![](djangocon-us-2024-recap-images/cocoa-cinnamon-coffee.jpg)
-
-![](djangocon-us-2024-recap-images/cocoa-cinnamon.jpg)
-
-![](djangocon-us-2024-recap-images/cousins-maine-lobster.jpg)
-
-![](djangocon-us-2024-recap-images/defna-board.jpg)
-
-![](djangocon-us-2024-recap-images/django-social.jpg)
 
 ![](djangocon-us-2024-recap-images/durham-food-hall.jpg)
 
 ![](djangocon-us-2024-recap-images/john-lightning-talk.jpg)
 
-![](djangocon-us-2024-recap-images/me-and-carlton.jpg)
-
 ![](djangocon-us-2024-recap-images/me-and-john.jpeg)
 
-![](djangocon-us-2024-recap-images/me-and-carlton.jpg)
+![](djangocon-us-2024-recap-images/swag.jpg)
 
-![](djangocon-us-2024-recap-images/me-and-lorenzo.jpg)
 
-![](djangocon-us-2024-recap-images/me-and-carlton.jpg)
 
-![](djangocon-us-2024-recap-images/me-and-simon.jpg)
+Mother and Sons
 
-![](djangocon-us-2024-recap-images/mother-and-sons-squid-ink-pasta.jpg)
-
-![](djangocon-us-2024-recap-images/one-city-center-roof.jpg)
-
-![](djangocon-us-2024-recap-images/pie-pushers.jpg)
-
-![](djangocon-us-2024-recap-images/press-crepe-company-avocado-toast.jpg)
-
-![](djangocon-us-2024-recap-images/press-crepe-company-berries.jpg)
-
-![](djangocon-us-2024-recap-images/queenys.jpg)
+Sarah P. Duke Gardens
 
 ![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-ducks.jpg)
 
@@ -77,11 +26,23 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 ![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-red-bridge.jpg)
 
-![](djangocon-us-2024-recap-images/swag.jpg)
+Cocoa Cinnamon
 
-![](djangocon-us-2024-recap-images/thank-you-card.jpg)
+The Can Opener
 
 ![](djangocon-us-2024-recap-images/the-can-opener.jpg)
+
+21c Hotel- vault and bathrooms
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-entry.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-first-room.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-inner-room.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-bathroom.jpg)
+
+The Durham Hotel
 
 ![](djangocon-us-2024-recap-images/the-durham-hotel-lobby.jpg)
 
@@ -89,49 +50,119 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 ![](djangocon-us-2024-recap-images/the-durham-hotel-roof-right.jpg)
 
+Mother and Sons
+
+![](djangocon-us-2024-recap-images/mother-and-sons-squid-ink-pasta.jpg)
+
+Durham Food Hall
+Durham Farmer's Market
+
+Press Crepe Company
+
+![](djangocon-us-2024-recap-images/press-crepe-company-avocado-toast.jpg)
+
+Centerfest
+
+![](djangocon-us-2024-recap-images/butterfly.jpg)
+
+Barber Shop Quartet
+Durham Farmer's Market
+
+Tweet
+
+Black Python Devs
+
+![](djangocon-us-2024-recap-images/black-python-devs-summit-panel.jpg)
+
+![](djangocon-us-2024-recap-images/black-python-devs-summit-me-afi-velda.jpg)
+
+Rooftop View of Durham
+
+![](djangocon-us-2024-recap-images/one-city-center-roof.jpg)
+
+Bull McCabes Irish Pub
+
+Unscripted
+
+Durham Underground Market
+
+Cousins Maine Lobster
+
+![](djangocon-us-2024-recap-images/cousins-maine-lobster.jpg)
+
+The Mariott
+Unscripted Rooftop
+
 ![](djangocon-us-2024-recap-images/unscripted-rooftop-hotel.jpg)
+
+Neomonde
+
+Ponysaurus Django Social
+
+![](djangocon-us-2024-recap-images/django-social.jpg)
+
+DjangoCon
+
+21c Board Dinner
+
+![](djangocon-us-2024-recap-images/defna-board.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-dessert.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-oysters.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-scallops.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-trout-dip.jpg)
+
+Selfie with Lorenzo
+
+![](djangocon-us-2024-recap-images/me-and-lorenzo.jpg)
+
+Cocoa Cinnamon
+Greer Street
+
+Boxcar Arcade
+
+![](djangocon-us-2024-recap-images/boxcar-arcade.jpg)
+
+Pic with Simon
+
+![](djangocon-us-2024-recap-images/me-and-simon.jpg)
+
+Cocoa Cinnamon
+
+![](djangocon-us-2024-recap-images/cocoa-cinnamon-coffee.jpg)
+
+![](djangocon-us-2024-recap-images/cocoa-cinnamon.jpg)
+
+Panel
+
+![](djangocon-us-2024-recap-images/closing-panel.jpg)
+
+Thank you card
+
+![](djangocon-us-2024-recap-images/thank-you-card.jpg)
+
+John's bag
 
 ![](djangocon-us-2024-recap-images/velda-and-john-with-swag-bag-signed-by-famous-people.jpg)
 
-
-Mother and Sons
-Sarah P. Duke Gardens
-Cocoa Cinnamon
-The Can Opener
-21c Hotel- vault and bathrooms
-The Durham Hotel
-Mother and Sons
-Durham Food Hall
-Durham Farmer's Market
-Press Crepe Company
-Centerfest
-Barber Shop Quartet
-Durham Farmer's Market
-Tweet
-Black Python Devs
-Pic with Afi and Velda
-Rooftop View of Durham
-Bull McCabes Irish Pub
-Unscripted
-Durham Underground Market
-Cousins Maine Lobster
-The Mariott
-Unscripted Rooftop
-Neomonde
-Ponysaurus Django Social
-DjangoCon
-21c Board Dinner- pic
-Selfie with Lorenzo
-Cocoa Cinnamon
-Greer Street
-Boxcar Arcade
-Pic with Simon
-Cocoa Cinnamon
-Thank you card
-John's bag
 Queeny's
-Group pic
+
+![](djangocon-us-2024-recap-images/queenys.jpg)
+
 Press Crepe Company
+
+![](djangocon-us-2024-recap-images/press-crepe-company-berries.jpg)
+
+Sprints
+
+![](djangocon-us-2024-recap-images/me-and-carlton.jpg)
+
+![](djangocon-us-2024-recap-images/pie-pushers.jpg)
+
+
 
 Selfie with John
 John included me in lightning talk- screenshot
