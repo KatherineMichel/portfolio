@@ -26,7 +26,7 @@ Table of Contents
 
     - [Meeting Lorenzo](#meeting-lorenzo)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
-    - [Boxcar Arcade](#boxcar-arcade)
+    - [The Boxcar Bar and Arcade](#the-boxcar-bar-and-arcade)
 
 - [Wednesday](#wednesday)
     - [Panel](#panel)
@@ -57,7 +57,13 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
-DjangoCon US 2023 took place from October 16-20 in Durham, North Carolina. It was the sixth DjangoCon US I've had the privilege of attending, and in my opinion, the best one yet. 
+DjangoCon US 2024 took place from September 22-27 in Durham, North Carolina. It was the seventh DjangoCon US I've had the privilege of attending and an absolute blast! 
+
+If you want to bring DjangoCon US to your city or volunteer, we want to hear from you! 
+
+<!--
+Adam lightning talk. 
+-->
 
 Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ![](djangocon-us-2024-recap-images/attendees-photo.jpg)
@@ -68,6 +74,14 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 ### Sightseeing and a Great Meal
 
+I feel privileged to be able to travel across the US and eventually the world. As such, I make the most of every opportunity: seeing the unique sights, experiencing what makes the culture special, and enjoying the celebrated local cuisine. 
+
+<!--
+A few favorite moments
+* Trying squid ink pasta, lobster roll, and oysters for the first time
+* Getting a photo in front of a butterfly artwork
+-->
+  
 ### Black Python Devs Leadership Summit
 
 <!--
@@ -90,9 +104,7 @@ Tweet
 
 ### Django Social
 
-<!--
-Ponysaurus Django Social
--->
+[Ponysaurus Brewing Company](https://www.ponysaurusbrewing.com/)
 
 ![](djangocon-us-2024-recap-images/django-social.jpg)
 
@@ -138,44 +150,32 @@ https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
 
 
 
-### Meeting the New Django Fellow Natalia Bidart
-
-<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Kojo Idressa and Peter Grandstaff Kick Off the Conference
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Finding Purpose in Open Source Through Community Building
-
-<sub>[**back to top**](#table-of-contents)</sub>
-
-### HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML
-
-<sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Shrimp and Grits :)
 
-<sub>[**back to top**](#table-of-contents)</sub>
-
-### Parts and Labor, The Parlour, and Back to the Hotel
+I still didn't like them, but it was an experience! 
 
 <sub>[**back to top**](#table-of-contents)</sub>
--->
 
 ### DEFNA Board Dinner
 
-<!--
-Counting House
-https://countinghousenc.com/
--->
+[Counting House](https://countinghousenc.com/) at 21c Museum Hotel
 
+The DEFNA Board... wonderful people!
 ![](djangocon-us-2024-recap-images/defna-board.jpg)
 
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-oysters.jpg)
 
+Trout dip
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-trout-dip.jpg)
 
+Diver scallops
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-scallops.jpg)
 
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-dessert.jpg)
@@ -239,18 +239,18 @@ Me and Lorenzo
 
 ### Speaker and Organizer Dinner
 
-<!--
-Greer Street Gardens
--->
+[Greer Street Garden](https://geerstreetgarden.com/about)
 
-Me and Simon
+Me and Simon (photo credit: Natalia Bidart)
 ![](djangocon-us-2024-recap-images/me-and-simon.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Boxcar Arcade
+### The Boxcar Bar and Arcade
 
-Me standing in front of the bar at Boxcar Arcade
+[The Boxcar Bar and Arcade](https://theboxcarbar.com/)
+
+Me standing in front of the bar at Boxcar
 ![](djangocon-us-2024-recap-images/boxcar-arcade.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -304,6 +304,8 @@ https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-
 Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
 -->
 
+### Lightning Talk Cameo
+
 <!--
 https://2024.djangocon.us/talks/lightning-talks-wednesday/
 
@@ -311,10 +313,11 @@ John included me in lightning talk- screenshot
 ![](djangocon-us-2024-recap-images/john-lightning-talk.jpg)
 -->
 
-### Panel
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
 
 <!--
-Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
 Lacey Henschel, moderator, former Django Girls contributor and organizer
 Keanya Phelps, Django Girls organizer and participant, mentor in Djangonaut Space
 Afi Maame Dufie, involved in Django Girls, PyLadies, and Black Python Devs
@@ -334,29 +337,41 @@ Thank you card
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Swag
-
-John's Bag
-![](djangocon-us-2024-recap-images/velda-and-john-with-swag-bag-signed-by-famous-people.jpg)
-
-<sub>[**back to top**](#table-of-contents)</sub>
-
 ### Queeny's 
 
 ![](djangocon-us-2024-recap-images/queenys.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
 ## Hallway track
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Connections Made
 
+<!--
+Jay- earlier process
+Thibaud- sustainability, DjangoCon Europe website
+Frank- rumblings of a Lawrence Django event
+Paul, Alex psychological safety for newcomers
+Lee, Adam and tools
+Simon- senior level and tuba museum
+Lacey- I can learn anything
+Noah and Jib- MongoDB
+Sanjeets Joodnan
+Sarah Boyce
+-->
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+#### Meeting the New Django Fellow Natalia Bidart
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Swag
+
+John's Bag
+![](djangocon-us-2024-recap-images/velda-and-john-with-swag-bag-signed-by-famous-people.jpg)
 
 ![](djangocon-us-2024-recap-images/swag.jpg)
 
@@ -368,7 +383,10 @@ Selfie with John
 ![](djangocon-us-2024-recap-images/me-and-john.jpeg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
--->
+
+### Visa Frustration
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ## Thursday
 
@@ -376,6 +394,8 @@ Selfie with John
 
 Me and Carlton
 ![](djangocon-us-2024-recap-images/me-and-carlton.jpg)
+
+[Pie Pushers](https://www.piepushers.com/)
 
 ![](djangocon-us-2024-recap-images/pie-pushers.jpg)
 
@@ -398,9 +418,7 @@ DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.
 
 ### Sarah P. Duke Gardens
 
-<!--
-https://gardens.duke.edu/
--->
+[Sarah P. Duke Gardens](https://gardens.duke.edu/)
 
 Fish pool, historic terraces, and Cindy Brodhead Pergola
 ![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-overlook.jpg)
@@ -418,17 +436,17 @@ South Lawn
 
 ### Cocoa Cinnamon
 
-<!--
-https://littlewaves.coffee/pages/old-north-durham
--->
-
-![](djangocon-us-2024-recap-images/cocoa-cinnamon-coffee.jpg)
+[Cocoa Cinnamon Coffee](https://littlewaves.coffee/pages/old-north-durham)
 
 ![](djangocon-us-2024-recap-images/cocoa-cinnamon.jpg)
+
+![](djangocon-us-2024-recap-images/cocoa-cinnamon-coffee.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### The Can Opener
+
+[The Can Opener](https://www.atlasobscura.com/places/truck-decapitating-bridge)
 
 <!--
 https://www.instagram.com/thecanopenerdurham/?hl=en
@@ -442,9 +460,7 @@ The Can Opener
 
 ### 21c Museum Hotel
 
-<!--
-https://www.21cmuseumhotels.com/
--->
+[21c Museum Hotel](https://www.21cmuseumhotels.com/)
 
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-entry.jpg)
 
@@ -459,9 +475,10 @@ https://www.21cmuseumhotels.com/
 ### The Durham Hotel
 
 <!--
-The best view in town
-https://www.thedurham.com/roof/
+The best public view in town
 -->
+
+[The Durham Hotel](https://www.thedurham.com/roof/)
 
 ![](djangocon-us-2024-recap-images/the-durham-hotel-lobby.jpg)
 
@@ -473,9 +490,7 @@ https://www.thedurham.com/roof/
 
 ### Mother and Sons
 
-<!--
-https://www.mothersandsonsnc.com/
--->
+[Mother and Sons](https://www.mothersandsonsnc.com/)
 
 ![](djangocon-us-2024-recap-images/mother-and-sons-squid-ink-pasta.jpg)
 
@@ -483,9 +498,7 @@ https://www.mothersandsonsnc.com/
 
 ### Durham Food Hall
 
-<!--
-https://durhamfoodhall.com/
--->
+[Durham Food Hall](https://durhamfoodhall.com/)
 
 ![](djangocon-us-2024-recap-images/durham-food-hall.jpg)
 
@@ -493,9 +506,7 @@ https://durhamfoodhall.com/
 
 ### Press Coffee, Crepes,and Cocktails
 
-<!--
-https://pressccc.com/
--->
+[Press Coffee, Crepes, and Cocktails](https://pressccc.com/)
 
 ![](djangocon-us-2024-recap-images/press-crepe-company-avocado-toast.jpg)
 
@@ -505,9 +516,7 @@ https://pressccc.com/
 
 ### Centerfest
 
-<!--
-https://durhamarts.org/centerfest/#sponsors24
--->
+[Centerfest](https://durhamarts.org/centerfest/)
 
 ![](djangocon-us-2024-recap-images/butterfly.jpg)
 
@@ -515,25 +524,21 @@ https://durhamarts.org/centerfest/#sponsors24
 
 ### Durham Farmers Market and Craft Market
 
-<!--
-https://durhamcentralpark.org/events/durham-craft-market/
--->
+[Durham Farmer's Market](https://www.durhamfarmersmarket.com/)
+
+[Durham Craft Market](https://durhamcentralpark.org/events/durham-craft-market/)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Durham Underground Market
 
-<--
-https://makrs.com/durham-underground-market
--->
+[Durham Underground Market](https://makrs.com/durham-underground-market)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Cousins Maine Lobster
 
-<!--
-https://www.cousinsmainelobster.com/
--->
+[Cousins Maine Lobster](https://www.cousinsmainelobster.com/)
 
 ![](djangocon-us-2024-recap-images/cousins-maine-lobster.jpg)
 
@@ -541,12 +546,15 @@ https://www.cousinsmainelobster.com/
 
 ### Unscripted Rooftop
 
-<!--
-Unscripted Hotel
-https://www.unscriptedhotels.com/
--->
+[Unscripted Hotel](https://www.unscriptedhotels.com/)
 
 ![](djangocon-us-2024-recap-images/unscripted-rooftop-hotel.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### The Parlour
+
+[The Parlour](https://theparlour.co/)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -555,6 +563,7 @@ https://www.unscriptedhotels.com/
 
 
 
+Videos
 
 Mother and Sons
 Cocoa Cinnamon
