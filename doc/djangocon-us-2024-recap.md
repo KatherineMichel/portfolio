@@ -561,8 +561,9 @@ The best public view in town
 
 ### Durham Food Hall
 
-[Durham Food Hall](https://durhamfoodhall.com/)
+I'd already eaten, but joined a few attendees to walk over to the [Durham Food Hall](https://durhamfoodhall.com/) so they could eat. It was a thriving place with a lot of great options. 
 
+Looking down at the first floor of the food hall
 ![](djangocon-us-2024-recap-images/durham-food-hall.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -599,14 +600,13 @@ Barber Shop Quartet video
 
 ### Durham Underground Market
 
-[Durham Underground Market](https://makrs.com/durham-underground-market)
+I was looking for a quick, tasty lunch and stumbled upon the [Durham Underground Market](https://makrs.com/durham-underground-market) food trucks. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+[Cousins Maine Lobster](https://www.cousinsmainelobster.com/) piqued my interest. The founders had appeared on Shark Tank. 
 
-### Cousins Maine Lobster
+I ordered a lobster tail, but they were out, so they upgraded me to a lobster roll and tots. It was my first time eating a lobster roll. It was tasty! 
 
-[Cousins Maine Lobster](https://www.cousinsmainelobster.com/)
-
+This was the moment when I realized my low cholesterol diet was officially suspended
 ![](djangocon-us-2024-recap-images/cousins-maine-lobster.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
