@@ -86,21 +86,21 @@ Other ones
 ### Black Python Devs Leadership Summit
 
 <!--
-Tweet
 https://2024.djangocon.us/news/black-python-devs/
 -->
 
+It was an honor to have been invited to attend the Black Python Devs Leadership Summit as a distinguished guest. 
+
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-panel.jpg)
 
+Me, Abigail Afi Gbadago, and Velda Kiara after Black Python Devs Leadership Summit! So proud of them for the role they played in organizing an outstanding event. It had a lot of heart.
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-me-afi-velda.jpg)
 
 ### Rooftop View of Durham
 
-After the summit, a DjangoCon US attendee who lives at One City Center took us up to the 28th floor for an incredible view of Durham skyline. 
+After the summit, a DjangoCon US attendee who lives at One City Center took us up to the 28th floor for an incredible view of the Durham skyline. 
 
-<!--
-Video of the skyline
--->
+[Video of the skyline](https://youtu.be/8w3ubfRBK5I)
 
 One City Center rooftop pool
 ![](djangocon-us-2024-recap-images/one-city-center-roof.jpg)
@@ -115,10 +115,11 @@ On Sunday, I continued my tradition of swag stuffing. Conference pro-tip: it's a
 
 ### Django Social
 
-[Ponysaurus Brewing Company](https://www.ponysaurusbrewing.com/)
+For the second year in a row, Foxley Talent spearheaded a Django Social event at [Ponysaurus Brewing Company](https://www.ponysaurusbrewing.com/). 
 
-A Chance to Hang Out with Old Friends and Make New Friends
+A sign of a fantastic event: it was over before I knew it. I had the chance to catch up with "old" friends and meet new ones. 
 
+Djangonauts at Ponysaurus
 ![](djangocon-us-2024-recap-images/django-social.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -160,8 +161,8 @@ https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
 ### Kojo Idressa and Peter Grandstaff Kick Off the Conference
 
 <sub>[**back to top**](#table-of-contents)</sub>
-
 -->
+
 
 ### Shrimp and Grits
 
@@ -169,13 +170,14 @@ I tried grits as a kid and didn't like them. I've recently been told by friends 
 
 When they were on the DjangoCon US lunch buffet, I had to try them. I still don't like them, but it was an experience! 
 
+North Carolina-inspired lunch
 ![](djangocon-us-2024-recap-images/shrimp-and-grits.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### DEFNA Board Dinner
 
-I was treated to a gourmet meal at [Counting House](https://countinghousenc.com/) restaurant at the DEFNA Board Dinner where we had the chance to discuss board business. 
+DEFNA had a board dinner to discuss business. It was a pleasure to be treated to a gourmet meal at 21c Museum Hotel [Counting House](https://countinghousenc.com/) restaurant. 
 
 I had oysters for the first time and particularly enjoyed the scallops and smoked trout dip. 
 
@@ -246,7 +248,11 @@ https://publichousingapplication.ocd.state.ma.us/
 
 ### Meeting Lorenzo
 
-After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! 
+After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! It was wonderful to hear about his dream trip to DjangoCon US. I was thrilled that he had the chance to present a talk too. 
+
+<!--
+Talk link
+-->
 
 Me and Lorenzo
 ![](djangocon-us-2024-recap-images/me-and-lorenzo.jpg)
@@ -272,7 +278,7 @@ Me and Simon (photo credit: Natalia Bidart)
 
 After the speaker/organizer dinner, Six Feet Up hosted a Mario Kart competition across the street at [The Boxcar Bar and Arcade](https://theboxcarbar.com/). 
 
-I spotted a few favorite old school games too: Super Pac-Man, Ms. Pac-Man, Donkey Kong, BurgerTime, Frogger
+I spotted a few favorite old school games too: Super Pac-Man, Ms. Pac-Man, Donkey Kong, BurgerTime, Frogger. 
 
 [Video of Boxcar Arcade](https://youtu.be/gO1CcdgQ9II)
 
@@ -342,8 +348,8 @@ Video
 <!--
 https://2024.djangocon.us/talks/lightning-talks-wednesday/
 
-John included me in lightning talk- screenshot
-![](djangocon-us-2024-recap-images/john-lightning-talk.jpg)
+Jon included me in lightning talk- screenshot
+![](djangocon-us-2024-recap-images/jon-lightning-talk.jpg)
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -372,6 +378,9 @@ Thank you card
 
 ### Queeny's 
 
+After the conference had ended, I joined a group of Wagtail Developers and Eva and walked the short distance to Queeny's, a DjangoCon US institution. No one ever seems to turn down dinner at Queeny's. :) 
+
+Group pic!
 ![](djangocon-us-2024-recap-images/queenys.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -399,17 +408,20 @@ Meeting the new Django Fellow Sarah Boyce
 
 ### Swag
 
-John's Bag
+Velda and John showing off his DjangoCon US tote bag... famous people signed it, including me! 
 ![](djangocon-us-2024-recap-images/velda-and-john-with-swag-bag-signed-by-famous-people.jpg)
 
+Black Python Devs Leadership Summit bead lanyard made by an artisan in Kenya, African bracelet, Kenyan coffee made with beans from Velda's family's farm, PostgreSQL hat, Valkey sticker, DjangoCon US shirt, Caktus shirt
 ![](djangocon-us-2024-recap-images/swag.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Django Social T-Shirt
 
-Selfie with John
-![](djangocon-us-2024-recap-images/me-and-john.jpeg)
+In 2023, Foxley Talent gifted me a Django Social t-shirt. Jon and I took a photo with me wearing it. We recreated the photo! 
+
+Me and Jon
+![](djangocon-us-2024-recap-images/me-and-jon.jpeg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
