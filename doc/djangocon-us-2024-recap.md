@@ -31,8 +31,16 @@ Table of Contents
     - [Boxcar Arcade](#boxcar-arcade)
 
 - [Wednesday](#wednesday)
+    - [Panel](#panel)
+    - [Thank You](#thank-you)
+    - [John's Bag](#johns-bag)
+    - [Queeny's](#queenys)
     - [Another Great Adventure](#another-great-adventure)
     - [Conference Conclusion](#conference-conclusion)
+
+- [Thursday](#thursday)
+    - [Sprints](#sprints)
+
 - [Sight Seeing and More Food](#sight-seeing-and-more-food)
     - [Sarah P. Duke Gardens](#sarah-p-duke-gardens)
     - [The Can Opener](#the-can-opener)
@@ -130,8 +138,8 @@ Ponysaurus Django Social
 ### DEFNA Board Dinner
 
 <!--
-What is restaurant name?
-21c Board Dinner
+Counting House
+https://countinghousenc.com/
 -->
 
 ![](djangocon-us-2024-recap-images/defna-board.jpg)
@@ -184,9 +192,50 @@ Me standing in front of the bar at Boxcar Arcade
 
 ## Wednesday
 
+### Panel
+
+![](djangocon-us-2024-recap-images/closing-panel.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Thank You
+
+Thank you card
+![](djangocon-us-2024-recap-images/thank-you-card.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### John's Bag
+
+![](djangocon-us-2024-recap-images/velda-and-john-with-swag-bag-signed-by-famous-people.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Queeny's 
+
+![](djangocon-us-2024-recap-images/queenys.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+## Thursday
+
+### Sprints
+
+Me and Carlton
+![](djangocon-us-2024-recap-images/me-and-carlton.jpg)
+
+![](djangocon-us-2024-recap-images/pie-pushers.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+
+
+<!--
 ### Another Great Adventure
 
 <sub>[**back to top**](#table-of-contents)</sub>
+-->
+
 
 ### Conference Conclusion
 
@@ -260,6 +309,8 @@ The Can Opener
 
 ![](djangocon-us-2024-recap-images/press-crepe-company-avocado-toast.jpg)
 
+![](djangocon-us-2024-recap-images/press-crepe-company-berries.jpg)
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Centerfest
@@ -288,6 +339,14 @@ The Can Opener
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Cocoa Cinnamon
+
+![](djangocon-us-2024-recap-images/cocoa-cinnamon-coffee.jpg)
+
+![](djangocon-us-2024-recap-images/cocoa-cinnamon.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ## In Closing
 
 The talk replays will be available on the [DjangoCon US YouTube channel](https://www.youtube.com/c/DjangoConUS) in a few weeks. 
@@ -308,64 +367,18 @@ The talk replays will be available on the [DjangoCon US YouTube channel](https:/
 
 
 Mother and Sons
-
 Cocoa Cinnamon
-
 Saturday
-
 Barber Shop Quartet
-
 Saturday
-
 Bull McCabes Irish Pub
-
 Sunday
-
 Neomonde
-
 Monday
-
 DjangoCon
-
-
 Tuesday
-
-Cocoa Cinnamon
 Greer Street
 
-
-Cocoa Cinnamon
-
-![](djangocon-us-2024-recap-images/cocoa-cinnamon-coffee.jpg)
-
-![](djangocon-us-2024-recap-images/cocoa-cinnamon.jpg)
-
-
-Panel
-
-![](djangocon-us-2024-recap-images/closing-panel.jpg)
-
-Thank you card
-
-![](djangocon-us-2024-recap-images/thank-you-card.jpg)
-
-John's bag
-
-![](djangocon-us-2024-recap-images/velda-and-john-with-swag-bag-signed-by-famous-people.jpg)
-
-Queeny's
-
-![](djangocon-us-2024-recap-images/queenys.jpg)
-
-Press Crepe Company
-
-![](djangocon-us-2024-recap-images/press-crepe-company-berries.jpg)
-
-Sprints
-
-![](djangocon-us-2024-recap-images/me-and-carlton.jpg)
-
-![](djangocon-us-2024-recap-images/pie-pushers.jpg)
 
 
 
@@ -384,8 +397,6 @@ Unscripted Hotel
 https://www.unscriptedhotels.com/
 Neomonde
 https://www.neomonde.com/mediterranean-restaurant-durham/
-Parizade
-https://www.parizadedurham.com/
 The vew view in town
 https://www.thedurham.com/roof/
 
