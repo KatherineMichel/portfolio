@@ -1,36 +1,51 @@
 # DjangoCon US 2024 Recap
 
-
-
-# DjangoCon US 2023 Recap
-
 Table of Contents
 -----------------
 
 - [Intro](#intro)
 - [Pre-Conference Activities](#pre-conference-activities)
-    - [DEFNA Board Dinner](#defna-board-dinner)
-    - [Django Girls Workshop](#django-girls-workshop)
+    - [Black Python Devs Leadership Summit](#black-python-devs-leadership-summit)
     - [Swag Stuffing](#swag-stuffing)
+    - [Rooftop View of Durham](#rooftop-view-of-durham)
     - [Django Social](#django-social)
         - [A Chance to Hang Out with Old Friends and Make New Friends](#a-chance-to-hang-out-with-old-friends-and-make-new-friends)
 - [Monday](#monday)
+      
     - [Meeting the New Django Fellow Natalia Bidart](#meeting-the-new-django-fellow-natalia-bidart)
     - [Kojo Idressa and Peter Grandstaff Kick Off the Conference](#kojo-idressa-and-peter-grandstaff-kick-off-the-conference)
     - [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](#html-ivating-your-django-web-apps-experience-with-htmx-alpinejs-and-streaming-html)
     - [Fried Green Tomatoes :)](#fried-green-tomatoes-)
     - [What Can the DSF Do for Me? What Can I Do for the DSF?](#what-can-the-dsf-do-for-me-what-can-i-do-for-the-dsf)
-    - [Parts and Labor, The Parlour, and Back to the Hotel](#parts-and-labor-the-parlour-and-back-to-the-hotel) 
+    - [Parts and Labor, The Parlour, and Back to the Hotel](#parts-and-labor-the-parlour-and-back-to-the-hotel)
+      
+    - [DEFNA Board Dinner](#defna-board-dinner)
+
 - [Tuesday](#tuesday)
+
+    - [Meeting Lorenzo](#meeting-lorenzo)
+
     - [Hallway Track](#hallway-track)
         - [Django Social T-Shirt](#django-social-t-shirt)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
+    - [Boxcar Arcade](#boxcar-arcade)
+
 - [Wednesday](#wednesday)
     - [Another Great Adventure](#another-great-adventure)
     - [Conference Conclusion](#conference-conclusion)
 - [Sight Seeing and More Food](#sight-seeing-and-more-food)
     - [Sarah P. Duke Gardens](#sarah-p-duke-gardens)
+    - [The Can Opener](#the-can-opener)
+    - [21c Museum Hotel](#21c-museum-hotel)
+    - [The Durham Hotel](#the-durham-hotel)
+    - [Mother and Sons](#mother-and-sons)
+    - [Durham Food Hall](#durham-food-hall)
     - [Press Coffee, Crepes, and Cocktails](#press-coffee-crepesand-cocktails)
+    - [Centerfest](#centerfest)
+    - [Durham Farmers Market and Craft Market](#durham-farmers-market-and-craft-market)
+    - [Cousins Maine Lobster](#cousins-maine-lobster)
+    - [Unscripted Rooftop](#unscripted-rooftop)
+
 - [In Closing](#in-closing)
 
 ## Intro
@@ -40,17 +55,25 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 DjangoCon US 2023 took place from October 16-20 in Durham, North Carolina. It was the sixth DjangoCon US I've had the privilege of attending, and in my opinion, the best one yet. 
 
 Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
-![](djangocon-us-2023-recap-images/attendee-photo.jpg)
+![](djangocon-us-2024-recap-images/attendees-photo.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Pre-Conference Activities
 
-### DEFNA Board Dinner
+### Black Python Devs Leadership Summit
 
-<sub>[**back to top**](#table-of-contents)</sub>
+<!--
+Tweet
+-->
 
-### Django Girls Workshop
+![](djangocon-us-2024-recap-images/black-python-devs-summit-panel.jpg)
+
+![](djangocon-us-2024-recap-images/black-python-devs-summit-me-afi-velda.jpg)
+
+### Rooftop View of Durham
+
+![](djangocon-us-2024-recap-images/one-city-center-roof.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -60,6 +83,12 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 ### Django Social
 
+<!--
+Ponysaurus Django Social
+-->
+
+![](djangocon-us-2024-recap-images/django-social.jpg)
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### A Chance to Hang Out with Old Friends and Make New Friends
@@ -68,6 +97,7 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 ## Monday
 
+<!--
 ### Meeting the New Django Fellow Natalia Bidart
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -84,7 +114,7 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Fried Green Tomatoes :)
+### Shrimp and Grits :)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -95,9 +125,39 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ### Parts and Labor, The Parlour, and Back to the Hotel
 
 <sub>[**back to top**](#table-of-contents)</sub>
+-->
+
+### DEFNA Board Dinner
+
+<!--
+What is restaurant name?
+21c Board Dinner
+-->
+
+![](djangocon-us-2024-recap-images/defna-board.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-oysters.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-trout-dip.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-scallops.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-dessert.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
 
 ## Tuesday
 
+### Meeting Lorenzo
+
+Me and Lorenzo
+![](djangocon-us-2024-recap-images/me-and-lorenzo.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+
+<!--
 ### Hallway track
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -105,10 +165,22 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 #### Django Social T-Shirt
 
 <sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ### Speaker and Organizer Dinner
 
+Me and Simon
+![](djangocon-us-2024-recap-images/me-and-simon.jpg)
+
 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Boxcar Arcade
+
+Me standing in front of the bar at Boxcar Arcade
+![](djangocon-us-2024-recap-images/boxcar-arcade.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
 
 ## Wednesday
 
@@ -130,14 +202,89 @@ DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.
 ### Sarah P. Duke Gardens
 
 Fish pool, historic terraces, and Cindy Brodhead Pergola
-
-South Lawn
+![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-overlook.jpg)
 
 Red Bridge
+![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-red-bridge.jpg)
+
+Ducks at the Red Bridge
+![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-ducks.jpg)
+
+South Lawn
+![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-grass-for-days.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### The Can Opener
+
+The Can Opener
+![](djangocon-us-2024-recap-images/the-can-opener.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### 21c Museum Hotel
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-entry.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-first-room.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-inner-room.jpg)
+
+![](djangocon-us-2024-recap-images/21c-museum-hotel-bathroom.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### The Durham Hotel
+
+![](djangocon-us-2024-recap-images/the-durham-hotel-lobby.jpg)
+
+![](djangocon-us-2024-recap-images/the-durham-hotel-roof-left.jpg)
+
+![](djangocon-us-2024-recap-images/the-durham-hotel-roof-right.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Mother and Sons
+
+![](djangocon-us-2024-recap-images/mother-and-sons-squid-ink-pasta.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Durham Food Hall
+
+![](djangocon-us-2024-recap-images/durham-food-hall.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Press Coffee, Crepes,and Cocktails
+
+![](djangocon-us-2024-recap-images/press-crepe-company-avocado-toast.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Centerfest
+
+![](djangocon-us-2024-recap-images/butterfly.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Durham Farmers Market and Craft Market
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Durham Underground Market
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Cousins Maine Lobster
+
+![](djangocon-us-2024-recap-images/cousins-maine-lobster.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Unscripted Rooftop
+
+![](djangocon-us-2024-recap-images/unscripted-rooftop-hotel.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -150,11 +297,7 @@ The talk replays will be available on the [DjangoCon US YouTube channel](https:/
 
 
 
-Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
-![](djangocon-us-2024-recap-images/attendees-photo.jpg)
 
-
-![](djangocon-us-2024-recap-images/durham-food-hall.jpg)
 
 ![](djangocon-us-2024-recap-images/john-lightning-talk.jpg)
 
@@ -166,125 +309,37 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 Mother and Sons
 
-Sarah P. Duke Gardens
-
-![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-ducks.jpg)
-
-![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-grass-for-days.jpg)
-
-![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-overlook.jpg)
-
-![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-red-bridge.jpg)
-
 Cocoa Cinnamon
 
-The Can Opener
-
-![](djangocon-us-2024-recap-images/the-can-opener.jpg)
-
-21c Hotel- vault and bathrooms
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-entry.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-first-room.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-inner-room.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-bathroom.jpg)
-
-The Durham Hotel
-
-![](djangocon-us-2024-recap-images/the-durham-hotel-lobby.jpg)
-
-![](djangocon-us-2024-recap-images/the-durham-hotel-roof-left.jpg)
-
-![](djangocon-us-2024-recap-images/the-durham-hotel-roof-right.jpg)
-
-Mother and Sons
-
-![](djangocon-us-2024-recap-images/mother-and-sons-squid-ink-pasta.jpg)
-
-Durham Food Hall
-Durham Farmer's Market
-
-Press Crepe Company
-
-![](djangocon-us-2024-recap-images/press-crepe-company-avocado-toast.jpg)
-
-Centerfest
-
-![](djangocon-us-2024-recap-images/butterfly.jpg)
+Saturday
 
 Barber Shop Quartet
-Durham Farmer's Market
 
-Tweet
-
-Black Python Devs
-
-![](djangocon-us-2024-recap-images/black-python-devs-summit-panel.jpg)
-
-![](djangocon-us-2024-recap-images/black-python-devs-summit-me-afi-velda.jpg)
-
-Rooftop View of Durham
-
-![](djangocon-us-2024-recap-images/one-city-center-roof.jpg)
+Saturday
 
 Bull McCabes Irish Pub
 
-Unscripted
-
-Durham Underground Market
-
-Cousins Maine Lobster
-
-![](djangocon-us-2024-recap-images/cousins-maine-lobster.jpg)
-
-The Mariott
-Unscripted Rooftop
-
-![](djangocon-us-2024-recap-images/unscripted-rooftop-hotel.jpg)
+Sunday
 
 Neomonde
 
-Ponysaurus Django Social
-
-![](djangocon-us-2024-recap-images/django-social.jpg)
+Monday
 
 DjangoCon
 
-21c Board Dinner
 
-![](djangocon-us-2024-recap-images/defna-board.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-dessert.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-oysters.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-scallops.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-trout-dip.jpg)
-
-Selfie with Lorenzo
-
-![](djangocon-us-2024-recap-images/me-and-lorenzo.jpg)
+Tuesday
 
 Cocoa Cinnamon
 Greer Street
 
-Boxcar Arcade
-
-![](djangocon-us-2024-recap-images/boxcar-arcade.jpg)
-
-Pic with Simon
-
-![](djangocon-us-2024-recap-images/me-and-simon.jpg)
 
 Cocoa Cinnamon
 
 ![](djangocon-us-2024-recap-images/cocoa-cinnamon-coffee.jpg)
 
 ![](djangocon-us-2024-recap-images/cocoa-cinnamon.jpg)
+
 
 Panel
 
