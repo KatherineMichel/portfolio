@@ -250,6 +250,7 @@ https://2024.djangocon.us/talks/fighting-homelessness-with-django/
 https://publichousingapplication.ocd.state.ma.us/
 -->
 
+
 ### Meeting Lorenzo
 
 After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! It was wonderful to hear about his dream trip to DjangoCon US. I was thrilled that he had the chance to present a talk too: [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/). 
@@ -267,7 +268,7 @@ It was a chance to relax, enjoy some North Carolina food and good conversation.
 
 Sitting next to Simon Willison, co-creator of Django, I couldn't resist getting a photo!
 
-I wrote about Simon's PyCon US 2024 talk in my [PyCon US Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html). 
+I wrote about Simon's PyCon US 2024 talk about Imitation Intelligence in my [PyCon US Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html). 
 
 Me and Simon (photo credit: Natalia Bidart)
 ![](djangocon-us-2024-recap-images/me-and-simon.jpg)
@@ -378,7 +379,7 @@ Thank you card
 
 ### Queeny's 
 
-After the conference had ended, I joined a group of Wagtail Developers and walked the short distance to Queeny's, a DjangoCon US institution. No one ever seems to turn down dinner at Queeny's. :) 
+After the conference had ended, I joined a group of Wagtail Developers and Eva Nanyonga and walked the short distance to Queeny's, a DjangoCon US institution. No one ever seems to turn down dinner at Queeny's. :) 
 
 Group pic!
 ![](djangocon-us-2024-recap-images/queenys.jpg)
@@ -410,9 +411,10 @@ Meeting the new Django Fellow Sarah Boyce
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
+
 ### Swag
 
-Velda and John showing off his DjangoCon US tote bag... famous people signed it, including me! 
+Velda and John showing off John's DjangoCon US tote bag... famous people signed it, including me! 
 ![](djangocon-us-2024-recap-images/velda-and-john-with-swag-bag-signed-by-famous-people.jpg)
 
 Black Python Devs Leadership Summit bead lanyard made by an artisan in Kenya, African bracelet, Kenyan coffee made with beans from Velda's family's farm, PostgreSQL hat, Valkey sticker, DjangoCon US shirt, Caktus shirt
@@ -431,7 +433,10 @@ Me and Jon
 
 ### Visa Frustration
 
+As our conference becomes more diverse, a common frustration has emerged: difficulty getting a visa to enter the US. People from multiple countries have voiced their frustration about this to me. Member of the community Julius Boakye poured his heart into a must-read post about it: [Breaking Barriers: A Tech Speaker’s Plea for Fair Visa Policies](https://medium.com/@theflyboy/breaking-barriers-a-tech-speakers-plea-for-fair-visa-policies-621b5909e496).
+
 <sub>[**back to top**](#table-of-contents)</sub>
+
 
 ## Thursday
 
