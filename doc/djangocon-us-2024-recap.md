@@ -5,6 +5,7 @@ Table of Contents
 
 - [Intro](#intro)
 - [Pre-Conference Activities](#pre-conference-activities)
+    - [Sightseeing](#sightseeing)
     - [Black Python Devs Leadership Summit](#black-python-devs-leadership-summit)
     - [Swag Stuffing](#swag-stuffing)
     - [Rooftop View of Durham](#rooftop-view-of-durham)
@@ -24,12 +25,6 @@ Table of Contents
 - [Tuesday](#tuesday)
 
     - [Meeting Lorenzo](#meeting-lorenzo)
-
-<!--
-    - [Hallway Track](#hallway-track)
-        - [Django Social T-Shirt](#django-social-t-shirt)
--->
-
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
     - [Boxcar Arcade](#boxcar-arcade)
 
@@ -38,12 +33,13 @@ Table of Contents
     - [Thank You](#thank-you)
     - [John's Bag](#johns-bag)
     - [Queeny's](#queenys)
-    - [Another Great Adventure](#another-great-adventure)
-    - [Conference Conclusion](#conference-conclusion)
-
+- [Hallway Track](#hallway-track)
+    - [Connections Made](#connections-made)
+    - [Swag](#swag)
+    - [Django Social T-Shirt](#django-social-t-shirt)
 - [Thursday](#thursday)
     - [Sprints](#sprints)
-
+- [Another Great Adventure](#another-great-adventure)
 - [Sight Seeing and More Food](#sight-seeing-and-more-food)
     - [Sarah P. Duke Gardens](#sarah-p-duke-gardens)
     - [The Can Opener](#the-can-opener)
@@ -57,8 +53,6 @@ Table of Contents
     - [Cousins Maine Lobster](#cousins-maine-lobster)
     - [Unscripted Rooftop](#unscripted-rooftop)
 
-- [In Closing](#in-closing)
-
 ## Intro
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
@@ -71,6 +65,8 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Pre-Conference Activities
+
+### Sightseeing and a Great Meal
 
 ### Black Python Devs Leadership Summit
 
@@ -109,6 +105,39 @@ Ponysaurus Django Social
 ## Monday
 
 <!--
+Keynote - Power to the People who Teach the People
+Sheena O'Connell
+https://2024.djangocon.us/talks/keynote-monday/
+
+Choosing Wisely: SPA vs. HTMX for Your Next Web Project
+Chris May
+https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/
+
+Error Culture
+Ryan Cheley
+https://2024.djangocon.us/talks/error-culture/
+
+Troubleshooting is a Lifestyle 😎
+Jack Linke
+https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/
+
+A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()
+Christopher Adams
+https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/
+
+https://2024.djangocon.us/talks/the-art-of-not-redirecting/
+
+One Thousand and One Django Sites
+Vince Salvino
+https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/
+
+Pygoat - Learn django security the hard way
+Adarsh Divakaran
+https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
+
+
+
+
 ### Meeting the New Django Fellow Natalia Bidart
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -126,10 +155,6 @@ Ponysaurus Django Social
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Shrimp and Grits :)
-
-<sub>[**back to top**](#table-of-contents)</sub>
-
-### What Can the DSF Do for Me? What Can I Do for the DSF?
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -160,6 +185,51 @@ https://countinghousenc.com/
 
 ## Tuesday
 
+<!--
+Keynote - How To Be A Developer and Other Lies We Tell Ourselves
+Mario Munoz
+https://2024.djangocon.us/talks/keynote-tuesday/
+https://2024.djangocon.us/news/introducing-keynote-mario-munoz/
+
+Django + Alpine.js + htmx Ups & Downs
+Karen Tracey
+https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/
+
+PostgreSQL Beyond Django: Strategies to Get Max Performance
+Álvaro Justen
+https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/
+
+If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?
+Jacob Kaplan-Moss
+https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/
+
+Lessons from E2E Testing Web Applications
+Avindra Fernando
+https://2024.djangocon.us/talks/lessons-from-e2e-testing-web-applications/
+
+Only reliable Data: Protecting Database Integrity
+Eva Nanyonga
+https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/
+Transaction atomicity
+Concurrency control
+Durability through logging
+
+How to design and implement extensible software with plugins
+Simon Willison
+https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-with-plugins/
+https://pluggy.readthedocs.io/en/stable/
+https://packaging.python.org/en/latest/specifications/entry-points/
+
+Faster, leaner, greener: 10x lower website carbon emissions
+Thibaud Colas
+https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/
+
+Fighting Homelessness with Django
+Benjamin "Zags" Zagorsky
+https://2024.djangocon.us/talks/fighting-homelessness-with-django/
+https://publichousingapplication.ocd.state.ma.us/
+-->
+
 ### Meeting Lorenzo
 
 Me and Lorenzo
@@ -167,18 +237,11 @@ Me and Lorenzo
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Speaker and Organizer Dinner
 
 <!--
-### Hallway track
-
-<sub>[**back to top**](#table-of-contents)</sub>
-
-#### Django Social T-Shirt
-
-<sub>[**back to top**](#table-of-contents)</sub>
+Greer Street Gardens
 -->
-
-### Speaker and Organizer Dinner
 
 Me and Simon
 ![](djangocon-us-2024-recap-images/me-and-simon.jpg)
@@ -194,6 +257,52 @@ Me standing in front of the bar at Boxcar Arcade
 
 
 ## Wednesday
+
+<!--
+Deep Dive
+Keynote - The Fellowship of the Pony
+Natalia Bidart
+https://2024.djangocon.us/talks/keynote-wednesday/
+https://2024.djangocon.us/news/introducing-keynote-natalia-bidart/
+
+Deep Dive
+Hidden gems of Django 5.x
+Sarah Boyce
+https://2024.djangocon.us/talks/hidden-gems-of-django-5-x/
+https://docs.djangoproject.com/en/5.1/releases/5.0/
+
+Deep Dive
+A Brief History of Django
+Frank Wiles
+https://2024.djangocon.us/talks/a-brief-history-of-django/
+
+Deep Dive
+WebRTC with Django, Channels, HTMX, and coturn
+Ken Whitesell
+https://2024.djangocon.us/talks/webrtc-with-django-channels-htmx-and-coturn/
+Web Real Time Communications (WebRTC)
+https://en.wikipedia.org/wiki/WebRTC
+https://github.com/coturn/coturn
+
+Deep Dive
+A Guided Tour Through Postgres Internals
+Elizabeth Garrett Christensen
+https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/
+https://www.postgresql.org/
+
+Deep Dive
+Django User Model: Past, Present, and Future
+Will Vincent
+https://2024.djangocon.us/talks/django-user-model-past-present-and-future/
+https://buttondown.com/carlton/archive/evolving-djangos-authuser/
+
+Deep Dive
+API Maybe: Bootstrapping a Web Application circa 2024
+Carlton Gibson
+https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/
+
+Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
+-->
 
 <!--
 https://2024.djangocon.us/talks/lightning-talks-wednesday/
@@ -225,8 +334,9 @@ Thank you card
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### John's Bag
+### Swag
 
+John's Bag
 ![](djangocon-us-2024-recap-images/velda-and-john-with-swag-bag-signed-by-famous-people.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -236,6 +346,29 @@ Thank you card
 ![](djangocon-us-2024-recap-images/queenys.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
+
+<!--
+## Hallway track
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Connections Made
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Swag
+
+![](djangocon-us-2024-recap-images/swag.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Django Social T-Shirt
+
+Selfie with John
+![](djangocon-us-2024-recap-images/me-and-john.jpeg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+-->
 
 ## Thursday
 
@@ -248,19 +381,14 @@ Me and Carlton
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
+## Another Great Adventure
 
+The talk replays will be available on the [DjangoCon US YouTube channel](https://www.youtube.com/c/DjangoConUS) in a few weeks. 
 
 <!--
-### Another Great Adventure
-
-<sub>[**back to top**](#table-of-contents)</sub>
--->
-
-
-### Conference Conclusion
-
 DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ![](djangocon-us-2023-recap-images/djangocon-us-organizers.jpg)
+-->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -269,6 +397,10 @@ DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Sarah P. Duke Gardens
+
+<!--
+https://gardens.duke.edu/
+-->
 
 Fish pool, historic terraces, and Cindy Brodhead Pergola
 ![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-overlook.jpg)
@@ -284,7 +416,24 @@ South Lawn
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
+### Cocoa Cinnamon
+
+<!--
+https://littlewaves.coffee/pages/old-north-durham
+-->
+
+![](djangocon-us-2024-recap-images/cocoa-cinnamon-coffee.jpg)
+
+![](djangocon-us-2024-recap-images/cocoa-cinnamon.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### The Can Opener
+
+<!--
+https://www.instagram.com/thecanopenerdurham/?hl=en
+https://downtowndurham.com/directory/the-can-opener/
+-->
 
 The Can Opener
 ![](djangocon-us-2024-recap-images/the-can-opener.jpg)
@@ -292,6 +441,10 @@ The Can Opener
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### 21c Museum Hotel
+
+<!--
+https://www.21cmuseumhotels.com/
+-->
 
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-entry.jpg)
 
@@ -320,17 +473,29 @@ https://www.thedurham.com/roof/
 
 ### Mother and Sons
 
+<!--
+https://www.mothersandsonsnc.com/
+-->
+
 ![](djangocon-us-2024-recap-images/mother-and-sons-squid-ink-pasta.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Durham Food Hall
 
+<!--
+https://durhamfoodhall.com/
+-->
+
 ![](djangocon-us-2024-recap-images/durham-food-hall.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Press Coffee, Crepes,and Cocktails
+
+<!--
+https://pressccc.com/
+-->
 
 ![](djangocon-us-2024-recap-images/press-crepe-company-avocado-toast.jpg)
 
@@ -340,19 +505,35 @@ https://www.thedurham.com/roof/
 
 ### Centerfest
 
+<!--
+https://durhamarts.org/centerfest/#sponsors24
+-->
+
 ![](djangocon-us-2024-recap-images/butterfly.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Durham Farmers Market and Craft Market
 
+<!--
+https://durhamcentralpark.org/events/durham-craft-market/
+-->
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Durham Underground Market
 
+<--
+https://makrs.com/durham-underground-market
+-->
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Cousins Maine Lobster
+
+<!--
+https://www.cousinsmainelobster.com/
+-->
 
 ![](djangocon-us-2024-recap-images/cousins-maine-lobster.jpg)
 
@@ -369,29 +550,9 @@ https://www.unscriptedhotels.com/
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Cocoa Cinnamon
-
-![](djangocon-us-2024-recap-images/cocoa-cinnamon-coffee.jpg)
-
-![](djangocon-us-2024-recap-images/cocoa-cinnamon.jpg)
-
-<sub>[**back to top**](#table-of-contents)</sub>
-
-## In Closing
-
-The talk replays will be available on the [DjangoCon US YouTube channel](https://www.youtube.com/c/DjangoConUS) in a few weeks. 
-
-<sub>[**back to top**](#table-of-contents)</sub>
 
 
 
-
-
-Selfie with John
-
-![](djangocon-us-2024-recap-images/me-and-john.jpeg)
-
-![](djangocon-us-2024-recap-images/swag.jpg)
 
 
 
@@ -403,10 +564,6 @@ Saturday
 Bull McCabes Irish Pub
 Sunday
 Neomonde
-Monday
-DjangoCon
-Tuesday
-Greer Street
 
 
 
@@ -441,8 +598,6 @@ Orientation
 Kojo Idrissa
 
 Opening Remarks
-Peter Grandstaff
-
 Closing Remarks
 Peter Grandstaff
 
