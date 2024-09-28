@@ -1,5 +1,155 @@
 # DjangoCon US 2024 Recap
 
+
+
+# DjangoCon US 2023 Recap
+
+Table of Contents
+-----------------
+
+- [Intro](#intro)
+- [Pre-Conference Activities](#pre-conference-activities)
+    - [DEFNA Board Dinner](#defna-board-dinner)
+    - [Django Girls Workshop](#django-girls-workshop)
+    - [Swag Stuffing](#swag-stuffing)
+    - [Django Social](#django-social)
+        - [A Chance to Hang Out with Old Friends and Make New Friends](#a-chance-to-hang-out-with-old-friends-and-make-new-friends)
+- [Monday](#monday)
+    - [Meeting the New Django Fellow Natalia Bidart](#meeting-the-new-django-fellow-natalia-bidart)
+    - [Kojo Idressa and Peter Grandstaff Kick Off the Conference](#kojo-idressa-and-peter-grandstaff-kick-off-the-conference)
+    - [HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML](#html-ivating-your-django-web-apps-experience-with-htmx-alpinejs-and-streaming-html)
+    - [Fried Green Tomatoes :)](#fried-green-tomatoes-)
+    - [What Can the DSF Do for Me? What Can I Do for the DSF?](#what-can-the-dsf-do-for-me-what-can-i-do-for-the-dsf)
+    - [Parts and Labor, The Parlour, and Back to the Hotel](#parts-and-labor-the-parlour-and-back-to-the-hotel) 
+- [Tuesday](#tuesday)
+    - [Hallway Track](#hallway-track)
+        - [Django Social T-Shirt](#django-social-t-shirt)
+    - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
+- [Wednesday](#wednesday)
+    - [Another Great Adventure](#another-great-adventure)
+    - [Conference Conclusion](#conference-conclusion)
+- [Sight Seeing and More Food](#sight-seeing-and-more-food)
+    - [Sarah P. Duke Gardens](#sarah-p-duke-gardens)
+    - [Press Coffee, Crepes, and Cocktails](#press-coffee-crepesand-cocktails)
+- [In Closing](#in-closing)
+
+## Intro
+
+Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
+
+DjangoCon US 2023 took place from October 16-20 in Durham, North Carolina. It was the sixth DjangoCon US I've had the privilege of attending, and in my opinion, the best one yet. 
+
+Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
+![](djangocon-us-2023-recap-images/attendee-photo.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+## Pre-Conference Activities
+
+### DEFNA Board Dinner
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Django Girls Workshop
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Swag Stuffing
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Django Social
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+#### A Chance to Hang Out with Old Friends and Make New Friends
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+## Monday
+
+### Meeting the New Django Fellow Natalia Bidart
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Kojo Idressa and Peter Grandstaff Kick Off the Conference
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Finding Purpose in Open Source Through Community Building
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Fried Green Tomatoes :)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### What Can the DSF Do for Me? What Can I Do for the DSF?
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Parts and Labor, The Parlour, and Back to the Hotel
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+## Tuesday
+
+### Hallway track
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+#### Django Social T-Shirt
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Speaker and Organizer Dinner
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+## Wednesday
+
+### Another Great Adventure
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Conference Conclusion
+
+DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
+![](djangocon-us-2023-recap-images/djangocon-us-organizers.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+## Sight Seeing and More Food!
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Sarah P. Duke Gardens
+
+Fish pool, historic terraces, and Cindy Brodhead Pergola
+
+South Lawn
+
+Red Bridge
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Press Coffee, Crepes,and Cocktails
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+## In Closing
+
+The talk replays will be available on the [DjangoCon US YouTube channel](https://www.youtube.com/c/DjangoConUS) in a few weeks. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+
+
+
 Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ![](djangocon-us-2024-recap-images/attendees-photo.jpg)
 
