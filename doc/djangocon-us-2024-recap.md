@@ -85,13 +85,16 @@ Other ones
   
 ### Black Python Devs Leadership Summit
 
+It was an honor to have been invited to attend the [Black Python Devs Leadership Summit](https://blackpythondevs.com/leadership-summit-2024/) as a distinguished guest. 
+
 <!--
-https://2024.djangocon.us/news/black-python-devs/
+More about talks
+Panel descriptions
 -->
 
-It was an honor to have been invited to attend the Black Python Devs Leadership Summit as a distinguished guest. 
-
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-panel.jpg)
+
+The morning and afternoon replays are available on the info page. 
 
 Me, Abigail Afi Gbadago, and Velda Kiara after Black Python Devs Leadership Summit! So proud of them for the role they played in organizing an outstanding event. It had a lot of heart.
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-me-afi-velda.jpg)
@@ -123,6 +126,7 @@ Djangonauts at Ponysaurus
 ![](djangocon-us-2024-recap-images/django-social.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
+
 
 ## Monday
 
@@ -248,11 +252,7 @@ https://publichousingapplication.ocd.state.ma.us/
 
 ### Meeting Lorenzo
 
-After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! It was wonderful to hear about his dream trip to DjangoCon US. I was thrilled that he had the chance to present a talk too. 
-
-<!--
-Talk link
--->
+After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! It was wonderful to hear about his dream trip to DjangoCon US. I was thrilled that he had the chance to present a talk too: [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/). 
 
 Me and Lorenzo
 ![](djangocon-us-2024-recap-images/me-and-lorenzo.jpg)
@@ -357,12 +357,12 @@ Jon included me in lightning talk- screenshot
 ### Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
 
 <!--
-Lacey Henschel, moderator, former Django Girls contributor and organizer
-Keanya Phelps, Django Girls organizer and participant, mentor in Djangonaut Space
-Afi Maame Dufie, involved in Django Girls, PyLadies, and Black Python Devs
-Sarah Boyce, Django Fellow, co-founder and mentor in Djangonaut Space
-Carlton Gibson, former Django Fellow, mentor in Djangonaut Space, mentor and coordinator of Django's efforts in Google Summer of Code, and Django Girls coach and advisory board member.
-Velda Kiara, DEFNA director, former AnitaB.org Kenya Community Lead, former Open Source Community Africa Nairobi organizer and contributor, participant in Djangonaut Space, and current contributor and leader of Black Python Devs
+Lacey Henschel
+Keanya Phelps
+Afi Maame Dufie
+Sarah Boyce
+Carlton Gibson
+Velda Kiara
 -->
 
 ![](djangocon-us-2024-recap-images/closing-panel.jpg)
@@ -378,7 +378,7 @@ Thank you card
 
 ### Queeny's 
 
-After the conference had ended, I joined a group of Wagtail Developers and Eva and walked the short distance to Queeny's, a DjangoCon US institution. No one ever seems to turn down dinner at Queeny's. :) 
+After the conference had ended, I joined a group of Wagtail Developers and walked the short distance to Queeny's, a DjangoCon US institution. No one ever seems to turn down dinner at Queeny's. :) 
 
 Group pic!
 ![](djangocon-us-2024-recap-images/queenys.jpg)
@@ -386,6 +386,10 @@ Group pic!
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Hallway track
+
+<!--
+Comment
+-->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -599,7 +603,7 @@ Barber Shop Quartet video
 
 ### Unscripted Rooftop
 
-[Unscripted Hotel](https://www.unscriptedhotels.com/)
+I had the chance to spend time at the [Unscripted Hotel](https://www.unscriptedhotels.com/). The rooftop overlooks the downtown and features a pool, bar, and DJ. It was an unforgettable atmosphere.  
 
 [Video of the Unscripted rooftop pool](https://youtu.be/_5-08ssL8Wk)
 
@@ -610,8 +614,9 @@ Unscripted rooftop pool
 
 ### The Parlour
 
-[The Parlour](https://theparlour.co/)
+I made a trip to [The Parlour](https://theparlour.co/) for the second year in a row. Last year, I had chocolate and was underwhelmed. This year, I had their most popular flavor- Salted Butter Caramel. It was truly incredible. Hope to make it back to Durham someday and visit The Parlour again! 
 
+Salted Butter Caramel
 ![](djangocon-us-2024-recap-images/the-parlour.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
