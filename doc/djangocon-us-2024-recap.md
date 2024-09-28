@@ -172,7 +172,7 @@ https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
 
 I tried grits as a kid and didn't like them. I've recently been told by friends that I just haven't had the right grits. 
 
-When they were on the DjangoCon US lunch buffet, I had to try them. I still don't like them, but it was an experience! 
+When I saw grits the DjangoCon US lunch buffet, I had to try them. I still don't like them, but it was an experience! 
 
 North Carolina-inspired lunch
 ![](djangocon-us-2024-recap-images/shrimp-and-grits.jpg)
