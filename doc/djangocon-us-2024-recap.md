@@ -106,7 +106,7 @@ Sarah P. Duke Gardens Red Bridge... jaw dropping scenes
 21c Museum Hotel... the bathroom window is transparent until you turn the lock, then it becomes opaque
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-bathroom.jpg)
 
-The Durham Hotel Lobby... wow!
+The Durham Hotel lobby... wow!
 ![](djangocon-us-2024-recap-images/the-durham-hotel-lobby.jpg)
 
 Mother and Sons... Squid Ink Tonnarelli, NC Shrimp, uni, fennel, scallions
