@@ -123,17 +123,21 @@ The event took place at the Caktus office. I attended the afternoon session.
 
 The session kicked off with a keynote by Wesley Faulkner. 
 
+Wesley gave some sobering stats. 
+
 <!--
 Talks
-Panel description
+How to assess and use indirect methods to influence
 -->
 
-Benedict Koji Amofah, Jeff Triplett, Loren Crary, Monica Oyugi, and host Velda Kiara
+BPD Vice-Executor Velda Kiara led a panel with with community leaders about topics concerning Black Leaders in Python.
+
+Panel participants Benedict Koji Amofah, Jeff Triplett, Loren Crary, Monica Oyugi, and host Velda Kiara
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-panel.jpg)
 
 After the panel, we took part in breakout sessions. My group had a thoughtful and spirited conversation about newcomer psychological safety moderated by Alex Oladele and Paul Everitt.
 
-We ended the event with a fun social hour. 
+The event ended with a fun happy hour. 
 
 Me, Abigail Afi Gbadago, and Velda Kiara after the summit!
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-me-afi-velda.jpg)
@@ -174,6 +178,8 @@ Djangonauts at Ponysaurus
 
 
 ## Monday
+
+### Morning Talks
 
 <!--
 ### Kojo Idressa and Peter Grandstaff Kick Off the Conference
@@ -484,7 +490,7 @@ Sarah's talk link
 Velda and John showing off John's DjangoCon US tote bag... "famous" people signed it, including me! 
 ![](djangocon-us-2024-recap-images/velda-and-john-with-swag-bag-signed-by-famous-people.jpg)
 
-Black Python Devs Leadership Summit bead lanyard made by an artisan in Kenya, African bracelet, Kenyan coffee made with beans from Velda's family's farm, PostgreSQL hat, Valkey sticker, DjangoCon US shirt, Caktus shirt
+Black Python Devs Leadership Summit bead lanyard made by an artisan in Kenya (procured by Velda), African bracelet (gift from Velda), Kenyan coffee made with beans from Velda's family's farm (gift from Velda), PostgreSQL hat, Valkey sticker, DjangoCon US shirt, Caktus shirt
 ![](djangocon-us-2024-recap-images/swag.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
