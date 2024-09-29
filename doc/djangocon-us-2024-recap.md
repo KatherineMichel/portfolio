@@ -195,9 +195,22 @@ Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Gr
 
 [Keynote - Power to the People who Teach the People](https://2024.djangocon.us/talks/keynote-monday/) by Sheena O'Connell
 
+Points of interest to me
+* 
+
+<!--
+https://2024.djangocon.us/talks/the-magic-of-dependencies-installing-themselves/
+-->
+
 [Choosing Wisely: SPA vs. HTMX for Your Next Web Project](https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/) by Chris May
 
+Points of interest to me
+* 
+
 [Error Culture](https://2024.djangocon.us/talks/error-culture/) by Ryan Cheley
+
+Points of interest to me
+* 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -216,19 +229,25 @@ North Carolina-inspired lunch
 
 [Troubleshooting is a Lifestyle 😎](https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/) by Jack Linke
 
-[A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/) by Christopher Adams
+[An Opinionated Guide to Modern Django Forms](https://2024.djangocon.us/talks/an-opinionated-guide-to-modern-django-forms/) by Josh Thomas
 
+[A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/) by Christopher Adams
 
 <!--
 https://2024.djangocon.us/talks/the-art-of-not-redirecting/
+-->
 
-One Thousand and One Django Sites
-Vince Salvino
-https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/
+[One Thousand and One Django Sites](https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/) by Vince Salvino
 
-Pygoat - Learn django security the hard way
-Adarsh Divakaran
-https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
+[Pygoat - Learn django security the hard way](https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/) by Adarsh Divakaran
+
+<!--
+Online talk
+Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika
+https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/
+https://github.com/jazzband/django-silk
+https://github.com/kolofordjango/kolo
+https://pytest-benchmark.readthedocs.io/en/latest/
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -264,10 +283,14 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 [Keynote - How To Be A Developer and Other Lies We Tell Ourselves](https://2024.djangocon.us/talks/keynote-tuesday/) by Mario Munoz
 
 <!--
-Django + Alpine.js + htmx Ups & Downs
-Karen Tracey
-https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/
+Online talk
+Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework
+Daniel Ramas
+https://2024.djangocon.us/talks/seamless-transition-how-i-converted-an-existing-mysql-database-to-be-fully-managed-by-django-migrations-framework/
+https://www.mysql.com/
 -->
+
+[Django + Alpine.js + htmx Ups & Downs](https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/) by Karen Tracey
 
 [PostgreSQL Beyond Django: Strategies to Get Max Performance](https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/) by Álvaro Justen
 
@@ -278,9 +301,18 @@ https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/
 ### Tuesday Afternoon Talks
 
 <!--
+Online talk
+Upgrading EOL Django: A Journey from V1 to V5
+Michael Riley
+https://2024.djangocon.us/talks/upgrading-eol-django-a-journey-from-v1-to-v5/
+
 Lessons from E2E Testing Web Applications
 Avindra Fernando
 https://2024.djangocon.us/talks/lessons-from-e2e-testing-web-applications/
+
+You got that nice tech salary, now what?
+Tim Schilling
+https://2024.djangocon.us/talks/you-got-that-nice-tech-salary-now-what/
 -->
 
 [Only reliable Data: Protecting Database Integrity](https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/) by Eva Nanyonga
@@ -289,6 +321,14 @@ https://2024.djangocon.us/talks/lessons-from-e2e-testing-web-applications/
 Transaction atomicity
 Concurrency control
 Durability through logging
+
+Online talk
+Level Up Your Django Performance: Identifying and Taming N+1 Queries
+Mohammad Ahtasham ul Hassan
+Shafqat Farhan Ahmed
+https://2024.djangocon.us/talks/level-up-your-django-performance-identifying-and-taming-n-1-queries/
+https://django-debug-toolbar.readthedocs.io/en/latest/
+SQL logging
 -->
 
 [How to design and implement extensible software with plugins](https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-with-plugins/) by Simon Willison
@@ -304,6 +344,14 @@ https://packaging.python.org/en/latest/specifications/entry-points/
 
 <!--
 https://publichousingapplication.ocd.state.ma.us/
+
+https://2024.djangocon.us/talks/operations-missing-django-piece/
+
+
+Online talk
+Django UI Components for Perfectionists with Deadlines
+Hernan Lozano
+https://2024.djangocon.us/talks/reusable-django-template-components-for-perfectionists-with-deadlines/
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -364,6 +412,13 @@ Wednesday was deep dive day.
 
 [Keynote - The Fellowship of the Pony](https://2024.djangocon.us/talks/keynote-wednesday/) by Natalia Bidart
 
+<!--
+Introduction to OpenTelemetry with Django
+Jessica Garson
+https://2024.djangocon.us/talks/introduction-to-opentelemetry-with-django/
+https://opentelemetry.io/
+-->
+
 [Hidden gems of Django 5.x](https://2024.djangocon.us/talks/hidden-gems-of-django-5-x/) by Sarah Boyce
 
 <!--
@@ -389,6 +444,13 @@ Slide screenshot
 
 ### Wednesday Afternoon Talks
 
+<!--
+Django & Celery: A love story of async proportions
+Hugo Bessa
+https://2024.djangocon.us/talks/django-celery-a-love-story-of-async-proportions/
+https://github.com/celery/celery
+-->
+
 [WebRTC with Django, Channels, HTMX, and coturn](https://2024.djangocon.us/talks/webrtc-with-django-channels-htmx-and-coturn/) by Ken Whitesell
 
 <!--
@@ -400,6 +462,17 @@ A Guided Tour Through Postgres Internals
 Elizabeth Garrett Christensen
 https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/
 https://www.postgresql.org/
+
+Deep Dive
+Online talk
+Streaming Video in Django | Demystified
+Vaarun Sinha
+https://2024.djangocon.us/talks/streaming-video-in-django-demystified/
+HLS (HTTP Live Streaming)
+MPEG-DASH (Dynamic Adaptive Streaming over HTTP)
+HLS vs MPEG-DASH
+https://www.ffmpeg.org/
+https://channels.readthedocs.io/en/latest/
 -->
 
 [Django User Model: Past, Present, and Future](https://2024.djangocon.us/talks/django-user-model-past-present-and-future/) by Will Vincent
@@ -729,9 +802,6 @@ Opening Remarks
 Closing Remarks
 Peter Grandstaff
 
-
-https://2024.djangocon.us/talks/the-art-of-not-redirecting/
-https://2024.djangocon.us/talks/operations-missing-django-piece/
 
 ## 9-23
 
