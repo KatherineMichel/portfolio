@@ -56,7 +56,7 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
-DjangoCon US 2024 took place from September 22-27 in Durham, North Carolina. It was the seventh DjangoCon US I've had the privilege of attending and an absolute blast! 
+DjangoCon US 2024 took place from September 22-27 in Durham, North Carolina at the Durhan Convention Center. It was the seventh DjangoCon US I've had the privilege of attending and an absolute blast! 
 
 Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ![](djangocon-us-2024-recap-images/attendees-photo.jpg)
@@ -198,8 +198,13 @@ Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Gr
 Points of interest to me
 * 
 
+[The Magic of Dependencies Installing Themselves](https://2024.djangocon.us/talks/the-magic-of-dependencies-installing-themselves/) by Ilerioluwakiiye Abolade
+
+Points of interest to me
+* 
+
 <!--
-https://2024.djangocon.us/talks/the-magic-of-dependencies-installing-themselves/
+https://peps.python.org/pep-0723/
 -->
 
 [Choosing Wisely: SPA vs. HTMX for Your Next Web Project](https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/) by Chris May
@@ -229,22 +234,40 @@ North Carolina-inspired lunch
 
 [Troubleshooting is a Lifestyle 😎](https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/) by Jack Linke
 
+Points of interest to me
+* 
+
 [An Opinionated Guide to Modern Django Forms](https://2024.djangocon.us/talks/an-opinionated-guide-to-modern-django-forms/) by Josh Thomas
+
+Points of interest to me
+* 
 
 [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/) by Christopher Adams
 
-<!--
-https://2024.djangocon.us/talks/the-art-of-not-redirecting/
--->
+Points of interest to me
+* 
+
+[The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/) by Lorenzo Peña
+
+Points of interest to me
+* 
 
 [One Thousand and One Django Sites](https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/) by Vince Salvino
 
+Points of interest to me
+* 
+
 [Pygoat - Learn django security the hard way](https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/) by Adarsh Divakaran
 
+Points of interest to me
+* 
+
+[Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/) by Ron Maravanyika
+
+Points of interest to me
+* 
+
 <!--
-Online talk
-Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika
-https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/
 https://github.com/jazzband/django-silk
 https://github.com/kolofordjango/kolo
 https://pytest-benchmark.readthedocs.io/en/latest/
@@ -282,56 +305,77 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 [Keynote - How To Be A Developer and Other Lies We Tell Ourselves](https://2024.djangocon.us/talks/keynote-tuesday/) by Mario Munoz
 
+Points of interest to me
+* 
+
+[Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework](https://2024.djangocon.us/talks/seamless-transition-how-i-converted-an-existing-mysql-database-to-be-fully-managed-by-django-migrations-framework/) by Daniel Ramas
+
+Points of interest to me
+* 
+
 <!--
-Online talk
-Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework
-Daniel Ramas
-https://2024.djangocon.us/talks/seamless-transition-how-i-converted-an-existing-mysql-database-to-be-fully-managed-by-django-migrations-framework/
 https://www.mysql.com/
 -->
 
 [Django + Alpine.js + htmx Ups & Downs](https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/) by Karen Tracey
 
+Points of interest to me
+* 
+
 [PostgreSQL Beyond Django: Strategies to Get Max Performance](https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/) by Álvaro Justen
 
+Points of interest to me
+* 
+
 [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/) by Jacob Kaplan-Moss
+
+Points of interest to me
+* 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Tuesday Afternoon Talks
 
-<!--
-Online talk
-Upgrading EOL Django: A Journey from V1 to V5
-Michael Riley
-https://2024.djangocon.us/talks/upgrading-eol-django-a-journey-from-v1-to-v5/
+[Upgrading EOL Django: A Journey from V1 to V5](https://2024.djangocon.us/talks/upgrading-eol-django-a-journey-from-v1-to-v5/) by Michael Riley
 
-Lessons from E2E Testing Web Applications
-Avindra Fernando
-https://2024.djangocon.us/talks/lessons-from-e2e-testing-web-applications/
+Points of interest to me
+* 
 
-You got that nice tech salary, now what?
-Tim Schilling
-https://2024.djangocon.us/talks/you-got-that-nice-tech-salary-now-what/
--->
+[Lessons from E2E Testing Web Applications](https://2024.djangocon.us/talks/lessons-from-e2e-testing-web-applications/) by Avindra Fernando
+
+Points of interest to me
+* 
+
+[You got that nice tech salary, now what?](https://2024.djangocon.us/talks/you-got-that-nice-tech-salary-now-what/) by Tim Schilling
+
+Points of interest to me
+* 
 
 [Only reliable Data: Protecting Database Integrity](https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/) by Eva Nanyonga
+
+Points of interest to me
+* 
 
 <!--
 Transaction atomicity
 Concurrency control
 Durability through logging
+-->
 
-Online talk
-Level Up Your Django Performance: Identifying and Taming N+1 Queries
-Mohammad Ahtasham ul Hassan
-Shafqat Farhan Ahmed
-https://2024.djangocon.us/talks/level-up-your-django-performance-identifying-and-taming-n-1-queries/
+[Level Up Your Django Performance: Identifying and Taming N+1 Queries](https://2024.djangocon.us/talks/level-up-your-django-performance-identifying-and-taming-n-1-queries/) by Mohammad Ahtasham ul Hassan and Shafqat Farhan Ahmed
+
+Points of interest to me
+* 
+
+<!--
 https://django-debug-toolbar.readthedocs.io/en/latest/
 SQL logging
 -->
 
 [How to design and implement extensible software with plugins](https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-with-plugins/) by Simon Willison
+
+Points of interest to me
+* 
 
 <!--
 https://pluggy.readthedocs.io/en/stable/
@@ -340,19 +384,24 @@ https://packaging.python.org/en/latest/specifications/entry-points/
 
 [Faster, leaner, greener: 10x lower website carbon emissions](https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/) by Thibaud Colas
 
+Points of interest to me
+* 
+
 [Fighting Homelessness with Django](https://2024.djangocon.us/talks/fighting-homelessness-with-django/) by Benjamin "Zags" Zagorsky
+
+Points of interest to me
+* 
 
 <!--
 https://publichousingapplication.ocd.state.ma.us/
 
 https://2024.djangocon.us/talks/operations-missing-django-piece/
-
-
-Online talk
-Django UI Components for Perfectionists with Deadlines
-Hernan Lozano
-https://2024.djangocon.us/talks/reusable-django-template-components-for-perfectionists-with-deadlines/
 -->
+
+[Django UI Components for Perfectionists with Deadlines](https://2024.djangocon.us/talks/reusable-django-template-components-for-perfectionists-with-deadlines/) by Hernan Lozano
+
+Points of interest to me
+* 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -412,6 +461,9 @@ Wednesday was deep dive day.
 
 [Keynote - The Fellowship of the Pony](https://2024.djangocon.us/talks/keynote-wednesday/) by Natalia Bidart
 
+Points of interest to me
+* 
+
 <!--
 Introduction to OpenTelemetry with Django
 Jessica Garson
@@ -420,6 +472,9 @@ https://opentelemetry.io/
 -->
 
 [Hidden gems of Django 5.x](https://2024.djangocon.us/talks/hidden-gems-of-django-5-x/) by Sarah Boyce
+
+Points of interest to me
+* 
 
 <!--
 https://docs.djangoproject.com/en/5.1/releases/5.0/
@@ -444,30 +499,41 @@ Slide screenshot
 
 ### Wednesday Afternoon Talks
 
+[Django & Celery: A love story of async proportions](https://2024.djangocon.us/talks/django-celery-a-love-story-of-async-proportions/) by Hugo Bessa
+
+Points of interest to me
+* 
+
 <!--
-Django & Celery: A love story of async proportions
-Hugo Bessa
-https://2024.djangocon.us/talks/django-celery-a-love-story-of-async-proportions/
 https://github.com/celery/celery
 -->
 
 [WebRTC with Django, Channels, HTMX, and coturn](https://2024.djangocon.us/talks/webrtc-with-django-channels-htmx-and-coturn/) by Ken Whitesell
 
+Points of interest to me
+* 
+
 <!--
 Web Real Time Communications (WebRTC)
 https://en.wikipedia.org/wiki/WebRTC
 https://github.com/coturn/coturn
+-->
 
-A Guided Tour Through Postgres Internals
-Elizabeth Garrett Christensen
-https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/
+[A Guided Tour Through Postgres Internals](https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/) by Elizabeth Garrett Christensen
+
+Points of interest to me
+* 
+
+<!--
 https://www.postgresql.org/
+-->
 
-Deep Dive
-Online talk
-Streaming Video in Django | Demystified
-Vaarun Sinha
-https://2024.djangocon.us/talks/streaming-video-in-django-demystified/
+[Streaming Video in Django | Demystified](https://2024.djangocon.us/talks/streaming-video-in-django-demystified/) by Vaarun Sinha
+
+Points of interest to me
+* 
+
+<!--
 HLS (HTTP Live Streaming)
 MPEG-DASH (Dynamic Adaptive Streaming over HTTP)
 HLS vs MPEG-DASH
@@ -477,11 +543,17 @@ https://channels.readthedocs.io/en/latest/
 
 [Django User Model: Past, Present, and Future](https://2024.djangocon.us/talks/django-user-model-past-present-and-future/) by Will Vincent
 
+Points of interest to me
+* 
+
 <!--
 https://buttondown.com/carlton/archive/evolving-djangos-authuser/
 -->
 
 [API Maybe: Bootstrapping a Web Application circa 2024](https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/) by Carlton Gibson
+
+Points of interest to me
+* 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
