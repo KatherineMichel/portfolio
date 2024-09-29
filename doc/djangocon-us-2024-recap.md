@@ -66,6 +66,7 @@ My fellow Board Member Adam Fast gave a lightning talk about our search for a ve
 
 <!--
 Lightning talk link and date/time
+Slides
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -92,11 +93,13 @@ I feel privileged to be able to travel. I make the most of every opportunity to 
 
 In Durham, I had the chance to revisit the incredible Sarah P. Duke Gardens and see a few other attractions for the first time. Also, although most of my meals were provided through the conference, I enjoyed some outstanding meals in downtown Durham restaurants. 
 
+<!--
 A few favorite moments
 * Trying avocado toast, squid ink pasta, lobster roll, and oysters for the first time
 * Being treated to a gourmet meal at 21c Museum Hotel at the DEFNA Board Dinner
 * Getting a photo in front of a butterfly artwork
-
+-->
+  
 Here are a few of my favorite moments from the trip. See more photos and anecdotes later in this post. 
 
 Sarah P. Duke Gardens Red Bridge... jaw dropping scenes
@@ -124,11 +127,11 @@ Unscripted rooftop pool
 
 It was an honor to have been invited to attend the [Black Python Devs Leadership Summit](https://blackpythondevs.com/leadership-summit-2024/) as a distinguished guest. 
 
-The event took place at the Caktus office. 
+The event took place at the Caktus office. I attended the afternoon session. 
+
+The session kicked off with a keynote by Wesley Faulkner. 
 
 <!--
-Keynote: Wesley Faulker
-
 Talks
 Panel description
 -->
