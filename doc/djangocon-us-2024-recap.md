@@ -76,9 +76,13 @@ A number of people commented that they really loved the t-shirt and bag this yea
 
 Our wonderful designer Joni Trythall of YupGup did a [DjangoCon US Design Reflection](https://jonitrythall.com/dcus-design-reflection) featuring all of our designs since 2018. 
 
-<!--
-Website improvements
--->
+As a DEFNA Board Member, I've had the pleasure of collaborating with Joni in bringing all of these designs to life. They are so beautiful!
+
+Thank you to Joni for a special shoutout at the end of her post. 
+
+In addition, we did a refactor of our DjangoCon US website backend this year. It's easier to get up and running and has a well documented style guide. 
+
+Feel free to fork it and use it in line with the license. 
 
 ## Pre-Conference Activities
 
@@ -93,9 +97,28 @@ A few favorite moments
 * Being treated to a gourmet meal at 21c Museum Hotel at the DEFNA Board Dinner
 * Getting a photo in front of a butterfly artwork
 
-<!--
-Other ones
--->
+Here are a few of my favorite moments from the trip. See more photos and anecdotes later in this post. 
+
+Sarah P. Duke Gardens Red Bridge... jaw dropping scenes
+![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-red-bridge.jpg)
+
+21c Museum Hotel... the bathroom window is transparent until you turn the lock, then it becomes opaque
+![](djangocon-us-2024-recap-images/21c-museum-hotel-bathroom.jpg)
+
+The Durham Hotel Lobby... wow!
+![](djangocon-us-2024-recap-images/the-durham-hotel-lobby.jpg)
+
+Mother and Sons... Squid Ink Tonnarelli- NC Shrimp, uni, fennel, scallions
+![](djangocon-us-2024-recap-images/mother-and-sons-squid-ink-pasta.jpg)
+
+Press Coffee, Crepes, and Cocktails... oh my, this berries crepe was absolutely delicious. I had a banana bread latte too that was chef's kiss. 
+![](djangocon-us-2024-recap-images/press-crepe-company-berries.jpg)
+
+Centerfest... nice visual metaphor taken along the side of the conference hotel during Centerfest
+![](djangocon-us-2024-recap-images/butterfly.jpg)
+
+Unscripted rooftop pool
+![](djangocon-us-2024-recap-images/unscripted-rooftop-pool.jpg)
   
 ### Black Python Devs Leadership Summit
 
@@ -104,7 +127,8 @@ It was an honor to have been invited to attend the [Black Python Devs Leadership
 The event took place at the Caktus office. 
 
 <!--
-Keynote
+Keynote: Wesley Faulker
+
 Talks
 Panel description
 -->
@@ -443,7 +467,7 @@ I spent some much needed quality time with Lacey Henschel. She told me that I ca
 
 I met Django Fellow Sarah Boyce for the first time. We chatted about her work and DjangoCon Europe. Sarah recently gave an excellent talk about contributing to Django package. 
 
-I connected Thibaud with myself, Nicole, and Peter to talk about DjangoCon US website improvements and forking. 
+I connected Thibaud with myself, Nicole, and Peter to talk about DjangoCon US website improvements and conference sites. 
 
 <!--
 After avidly following each other on social media, 
@@ -512,9 +536,6 @@ Thank you card
 
 The talk replays will be available on the [DjangoCon US YouTube channel](https://www.youtube.com/c/DjangoConUS) in a few weeks. 
 
-Nice visual metaphor taken along the side of the conference hotel during Centerfest
-![](djangocon-us-2024-recap-images/butterfly.jpg)
-
 Keep scrolling for more sightseeing and food! 
 
 <!--
@@ -538,9 +559,6 @@ Video
 
 Fish pool, historic terraces, and Cindy Brodhead Pergola
 ![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-overlook.jpg)
-
-Red Bridge
-![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-red-bridge.jpg)
 
 Ducks at the Red Bridge
 ![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-ducks.jpg)
@@ -591,9 +609,6 @@ Last year, I didn't make it to the [21c Museum Hotel](https://www.21cmuseumhotel
 Video
 -->
 
-The bathroom window is transparent until you turn the lock, then it becomes opaque
-![](djangocon-us-2024-recap-images/21c-museum-hotel-bathroom.jpg)
-
 Bank vault entry
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-entry.jpg)
 
@@ -609,9 +624,6 @@ Bank vault- inner room
 
 I went to [The Durham Hotel](https://www.thedurham.com/roof/), because I heard it has the best public view of the Durham skyline in town. I later had a much higher view of the skyline from the private 28th floor of One City Center, but The Durham Hotel architecture and interior design were well worth a visit in their own right.  
 
-Wow! I love this lobby. 
-![](djangocon-us-2024-recap-images/the-durham-hotel-lobby.jpg)
-
 Skyline left
 ![](djangocon-us-2024-recap-images/the-durham-hotel-roof-left.jpg)
 
@@ -625,9 +637,6 @@ Skyline right
 I'd been hungry for good Italian food for a while. [Mother and Sons](https://www.mothersandsonsnc.com/) had very high ratings, so I decided to give it a try. 
 
 I'd planned to play it safe and order the potato gnocchi. I asked the waiter if there was a particular dish that was very popular. He said the squid ink tonnarelli. I told him I'd always wondered what squid ink pasta tasted like, but had been afraid to order it. He said that the squid ink taste was mild. So, I ordered it, and it delicious. It had a lemon-butter shrimp taste. 
-
-Squid Ink Tonnarelli- NC Shrimp, uni, fennel, scallions
-![](djangocon-us-2024-recap-images/mother-and-sons-squid-ink-pasta.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -646,9 +655,6 @@ I love [Press Coffee, Crepes, and Cocktails](https://pressccc.com/). It's a shor
 
 First time eating avocado toast... I went big! This was gourmet quality, for sure. The seasonal salted pistachio mocha latte was to die for. 
 ![](djangocon-us-2024-recap-images/press-crepe-company-avocado-toast.jpg)
-
-Oh my, this berries crepe was absolutely delicious. I had a banana bread latte too that was chef's kiss. 
-![](djangocon-us-2024-recap-images/press-crepe-company-berries.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -692,9 +698,6 @@ This was the moment when I realized my low cholesterol diet was officially suspe
 I had the chance to spend time at the [Unscripted Hotel](https://www.unscriptedhotels.com/). The rooftop overlooks the downtown and features a pool, bar, and DJ. It was an unforgettable atmosphere. 
 
 [Video of the Unscripted rooftop pool](https://youtu.be/_5-08ssL8Wk)
-
-Unscripted rooftop pool
-![](djangocon-us-2024-recap-images/unscripted-rooftop-pool.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
