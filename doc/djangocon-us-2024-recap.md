@@ -13,14 +13,20 @@ Table of Contents
     - [Swag Stuffing](#swag-stuffing)
     - [Django Social](#django-social)
 - [Monday](#monday)
+    - [Monday Morning Talks](#monday-morning-talks)
     - [Shrimp and Grits](#shrimp-and-grits)
+    - [Monday Afternoon Talks](#monday-afternoon-talks)
     - [DEFNA Board Dinner](#defna-board-dinner)      
 - [Tuesday](#tuesday)
+    - [Tuesday Morning Talks](#tuesday-morning-talks)
+    - [Tuesday Afternoon Talks](#tuesday-afternoon-talks)
     - [Meeting Lorenzo](#meeting-lorenzo)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
     - [The Boxcar Bar and Arcade](#the-boxcar-bar-and-arcade)
 - [Wednesday](#wednesday)
+    - [Wednesday Morning Talks](#wednesday-morning-talks)
     - [Lightning Talk Cameo](#lightning-talk-cameo)
+    - [Wednesday Afternoon Talks](#wednesday-afternoon-talks)
     - [Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django](#panel-discussion-open-friendly-and-welcoming-on-the-history-and-future-of-mentoring-in-django)
     - [Queeny's](#queenys)
 - [Hallway Track](#hallway-track)
@@ -182,7 +188,7 @@ Djangonauts at Ponysaurus
 
 ## Monday
 
-### Morning Talks
+### Monday Morning Talks
 
 <!--
 ### Kojo Idressa and Peter Grandstaff Kick Off the Conference
@@ -221,6 +227,7 @@ Adarsh Divakaran
 https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
 -->
 
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Shrimp and Grits
 
@@ -230,6 +237,10 @@ When I saw grits on the DjangoCon US lunch buffet, I had to try them. I still do
 
 North Carolina-inspired lunch
 ![](djangocon-us-2024-recap-images/shrimp-and-grits.jpg)
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Monday Afternoon Talks
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -259,6 +270,8 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 ## Tuesday
 
+### Tuesday Morning Talks
+
 <!--
 Keynote - How To Be A Developer and Other Lies We Tell Ourselves
 Mario Munoz
@@ -270,14 +283,14 @@ Karen Tracey
 https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/
 -->
 
-### PostgreSQL Beyond Django: Strategies to Get Max Performance
+PostgreSQL Beyond Django: Strategies to Get Max Performance
 
 <!--
 Álvaro Justen
 https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/
 -->
 
-### If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?
+If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?
 
 <!--
 Jacob Kaplan-Moss
@@ -304,7 +317,7 @@ https://pluggy.readthedocs.io/en/stable/
 https://packaging.python.org/en/latest/specifications/entry-points/
 -->
 
-### Faster, leaner, greener: 10x lower website carbon emissions
+Faster, leaner, greener: 10x lower website carbon emissions
 
 <!--
 Thibaud Colas
@@ -318,6 +331,11 @@ https://2024.djangocon.us/talks/fighting-homelessness-with-django/
 https://publichousingapplication.ocd.state.ma.us/
 -->
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Tuesday Afternoon Talks
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Meeting Lorenzo
 
@@ -371,6 +389,8 @@ Photo credit
 
 Wednesday was deep dive day. 
 
+### Wednesday Morning Talks
+
 <!--
 Keynote - The Fellowship of the Pony
 Natalia Bidart
@@ -387,6 +407,8 @@ Frank Wiles
 https://2024.djangocon.us/talks/a-brief-history-of-django/
 -->
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Lightning Talk Cameo
 
 It's no secret that I've been using social media for networking for many years now. Foxley Talent's Jon Gould and I had a conversation about it. Jon was inspired to create a lightning talk about the subject entitled Coffee Break Career Hacks and featured my social media engagement. It was an honor to be included!
@@ -399,6 +421,8 @@ Slide screenshot
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
+
+### Wednesday Talks
 
 <!--
 WebRTC with Django, Channels, HTMX, and coturn
@@ -419,13 +443,15 @@ https://2024.djangocon.us/talks/django-user-model-past-present-and-future/
 https://buttondown.com/carlton/archive/evolving-djangos-authuser/
 -->
 
-### API Maybe: Bootstrapping a Web Application circa 2024
+API Maybe: Bootstrapping a Web Application circa 2024
 
 <!--
 API Maybe: Bootstrapping a Web Application circa 2024
 Carlton Gibson
 https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/
 -->
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
 
@@ -446,10 +472,6 @@ Group pic!
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Hallway track
-
-<!--
-Comment
--->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
