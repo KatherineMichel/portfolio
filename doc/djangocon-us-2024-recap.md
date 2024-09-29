@@ -67,7 +67,9 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 If you want to bring DjangoCon US to your city or volunteer, we want to hear from you! 
 
-My fellow DEFNA Board Member Adam Fast gave a lightning talk about our search for a venue for 2025 and beyond. Cost continues to be a challenge. As they say in open source, "Given enough eyeballs, all bugs are shallow." Perhaps with the eyeballs of the entire community, we can find an acceptable course of action. 
+My fellow DEFNA Board Member Adam Fast gave a lightning talk about our search for a venue for 2025 and beyond. Cost continues to be a challenge and our sponsorship is down.  
+
+As they say in open source, "Given enough eyeballs, all bugs are shallow." Perhaps with the eyeballs of the entire community, we can find an acceptable course of action. 
 
 <!--
 Lightning talk link and date/time
@@ -448,7 +450,7 @@ I chatted with Simon Willison about some of my work duties, and he identified th
 
 I spent some much needed quality time with Lacey Henschel. She told me that I can learn anything. :) 
 
-I met Django Fellow Sarah Boyce for the first time. We chatted about her work and DjangoCon Europe. Sarah recently gave an excellent talk about contributing to Django package. 
+I met Django Fellow Sarah Boyce for the first time. We chatted about her work and DjangoCon Europe. In addition to her DjangoCon US talk, Sarah recently gave an excellent talk [Django Core Demystified](https://youtu.be/8rIylYYCmSI?si=8RsuP6VX41mVS0p6). 
 
 I connected Thibaud with myself, Nicole, and Peter to talk about DjangoCon US website improvements and using it for other conference sites. 
 
