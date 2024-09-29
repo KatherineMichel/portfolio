@@ -174,7 +174,7 @@ https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
 
 I tried grits as a kid and didn't like them. I've recently been told by friends that I just haven't had the right grits. 
 
-When I saw grits the DjangoCon US lunch buffet, I had to try them. I still don't like them, but it was an experience! 
+When I saw grits on the DjangoCon US lunch buffet, I had to try them. I still don't like them, but it was an experience! 
 
 North Carolina-inspired lunch
 ![](djangocon-us-2024-recap-images/shrimp-and-grits.jpg)
@@ -255,10 +255,12 @@ https://publichousingapplication.ocd.state.ma.us/
 
 ### Meeting Lorenzo
 
-After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! It was wonderful to hear about his dream trip to DjangoCon US. I was thrilled that he had the chance to present a talk and attend the speaker/organizer dinner too: [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/). 
+After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! It was wonderful to hear about his dream trip to DjangoCon US. 
 
 Lorenzo's social media post
 ![](djangocon-us-2024-recap-images/lorenzo-post.png)
+
+I was thrilled that he had the chance to present a talk [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/) and attend the speaker/organizer dinner too. 
 
 Me and Lorenzo
 ![](djangocon-us-2024-recap-images/me-and-lorenzo.jpg)
@@ -273,7 +275,7 @@ It was a chance to relax, enjoy some good food and conversation.
 
 Sitting next to Simon Willison, co-creator of Django, I couldn't resist getting a photo!
 
-I wrote about Simon's PyCon US 2024 talk about Imitation Intelligence in my [PyCon US Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html). 
+I wrote about Simon's PyCon US 2024 talk about Imitation Intelligence in my [PyCon US Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html#simon-willison-keynote). 
 
 Me and Simon (photo credit: Natalia Bidart)
 ![](djangocon-us-2024-recap-images/me-and-simon.jpg)
@@ -471,6 +473,8 @@ DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.
 ![](djangocon-us-2023-recap-images/djangocon-us-organizers.jpg)
 -->
 
+![](djangocon-us-2024-recap-images/butterfly.jpg)
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Sight Seeing and More Food!
@@ -601,8 +605,6 @@ It's wonderful to see Durham's thriving market and festival culture.
 <!--
 Barber Shop Quartet video
 -->
-
-![](djangocon-us-2024-recap-images/butterfly.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
