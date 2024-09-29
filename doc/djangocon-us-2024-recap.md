@@ -4,6 +4,7 @@ Table of Contents
 -----------------
 
 - [Intro](#intro)
+    - [Venue Selection](#venue-selection)
 - [Pre-Conference Activities](#pre-conference-activities)
     - [Sightseeing and Some Great Meals](#sightseeing-and-some-great-meals)
     - [Black Python Devs Leadership Summit](#black-python-devs-leadership-summit)
@@ -51,6 +52,10 @@ Table of Contents
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
 DjangoCon US 2024 took place from September 22-27 in Durham, North Carolina. It was the seventh DjangoCon US I've had the privilege of attending and an absolute blast! 
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+### Venue Selection
 
 If you want to bring DjangoCon US to your city or volunteer, we want to hear from you! 
 
@@ -114,6 +119,8 @@ One City Center rooftop pool
 ### Swag Stuffing
 
 On Sunday, I continued my tradition of swag stuffing. Conference pro-tip: it's a great opportunity to meet people! 
+
+A number of people commented that they loved the t-shirt and bag this year. Our wonderful designer Joni Trythall of YupGup did a write-up of our DjangoCon US designs over the years. https://jonitrythall.com/dcus-design-reflection
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -348,30 +355,24 @@ Panel Discussion: Open, friendly, and welcoming: on the history and future of me
 
 ### Lightning Talk Cameo
 
-It's no secret that I've been using social media for networking for many years now. During a lightning talk entitled Coffee Break Career hFoxley Talent's Jon Gould features one of my posts i 
+It's no secret that I've been using social media for networking for many years now. Foxley Talent's Jon Gould and I had a conversation about it. Jon was inspired to create a lightning talk about the subject entitled Coffee Break Career Hacks and featured my social media engagement. It was an honor to be included!
 
-Jon included me in lightning talk
+Jon during his lightning talk
 ![](djangocon-us-2024-recap-images/jon-lightning-talk.jpg)
 
 <!--
 Slide screenshot
 
-Video
+Video link
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
 
-<!--
-Lacey Henschel
-Keanya Phelps
-Afi Maame Dufie
-Sarah Boyce
-Carlton Gibson
-Velda Kiara
--->
+Our conference ended with a panel of five women, including three women of color, and Carlton. They owned that stage and the crowd was totally absorbed with what they had to say. I'm proud to be part of a community that is making substantial progress and quickly at that. 
 
+Carlton Gibson, Keanya Phelps, Afi Maame Dufie, Velda Kiara, Sarah Boyce, Lacey Henschel
 ![](djangocon-us-2024-recap-images/closing-panel.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -404,17 +405,32 @@ Comment
 
 ### Connections Made
 
+I chatted with Jay Miller about how DEFNA could better serve Black Python Devs and reported feedback. 
+
+I chatted with Thibaud Colas about his sustainability talk and got some tips from him. 
+
+I connected Thibaud with myself, Nicole, and Peter to talk about DjangoCon US website improvements. 
+
+I found out from Frank Wiles that there is some early talk about a possible Lawrence Django event. 
+
+I chatted with Simon Willison about some of my work duties, and he identified them as senior level. He told me about his excitement for his upcoming trip to see the [V & E Simonetti Historic Tuba Collection](https://www.atlasobscura.com/places/v-e-simonetti-historic-tuba-collection).
+
+I spent some much needed time with Lacey Henschel. She told me that I can learn anything. :) 
+
+I met Django Fellow Sarah Boyce for the first time. We chatted about her work and DjangoCon Europe. 
+
+I listened in on a conversation with Lee Trout and Adam Fast and learned about some new tool: 
+
 <!--
-Jay- earlier process
-Thibaud- sustainability, DjangoCon Europe website
-Frank- rumblings of a Lawrence Django event
 Paul, Alex psychological safety for newcomers
-Lee, Adam and tools
-Simon- senior level and tuba museum
-Lacey- I can learn anything
+Monica
+Adam
+
 Noah and Jib- MongoDB
 Sanjeets Joodnan
-Meeting the new Django Fellow Sarah Boyce
+Philip- htmx talk
+
+Sarah's talk
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
