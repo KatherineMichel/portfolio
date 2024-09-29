@@ -62,7 +62,7 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 If you want to bring DjangoCon US to your city or volunteer, we want to hear from you! 
 
-Fellow Board Member Adam Fast gave a lightning talk about our search for a venue for 2025 and beyond. Cost continues to be a challenge. As they say in open source, "Given enough eyeballs, all bugs are shallow." Perhaps with the eyeballs of the entire community, we can find an acceptable course of action. 
+My fellow Board Member Adam Fast gave a lightning talk about our search for a venue for 2025 and beyond. Cost continues to be a challenge. As they say in open source, "Given enough eyeballs, all bugs are shallow." Perhaps with the eyeballs of the entire community, we can find an acceptable course of action. 
 
 <!--
 Lightning talk link and date/time
@@ -143,7 +143,7 @@ On Sunday, I continued my tradition of swag stuffing. Conference pro-tip: it's a
 
 ### Django Social
 
-For the second year in a row, Foxley Talent spearheaded a Django Social event at [Ponysaurus Brewing Company](https://www.ponysaurusbrewing.com/). 
+For the second year in a row, Foxley Talent spearheaded a Django Social event at [Ponysaurus Brewing Company](https://www.ponysaurusbrewing.com/). Thank you to REVSYS for sponsoring as well. 
 
 A sign of a fantastic event: it was over before I knew it. I had the chance to catch up with "old" friends and meet new ones. 
 
