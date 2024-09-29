@@ -75,7 +75,7 @@ I feel privileged to be able to travel. I make the most of every opportunity to 
 In Durham, I had the chance to revisit the incredible Sarah P. Duke Gardens and see a few other attractions for the first time. Also, although most of my meals were provided through the conference, I enjoyed some outstanding meals in downtown Durham restaurants. 
 
 A few favorite moments
-* Trying squid ink pasta, lobster roll, and oysters for the first time
+* Trying avocado toast, squid ink pasta, lobster roll, and oysters for the first time
 * Being treated to a gourmet meal at 21c Museum Hotel at the DEFNA Board Dinner
 * Getting a photo in front of a butterfly artwork
 
