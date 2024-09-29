@@ -123,12 +123,15 @@ The event took place at the Caktus office. I attended the afternoon session.
 
 The session kicked off with a keynote by Wesley Faulkner. 
 
-Wesley gave some sobering stats. 
+Wesley gave some sobering stats, then gave practical advice for how to observe, predict, and improve your surroundings, the benefits and risks. 
 
-<!--
-Talks
-How to assess and use indirect methods to influence
--->
+![](djangocon-us-2024-recap-images/tech-sector-stats-1.png)
+![](djangocon-us-2024-recap-images/tech-sector-stats-2.png)
+
+Interactive speakers
+* Loren Crary (filling in for Tim Schilling): PSF
+* Afi Gbadago: BPD Open Source Program
+* Kudzayi Bamhare: Creating ecosystems- conducting a beginner Python workshop in Zimbabwe in partnership with Uncommon teaching hub
 
 BPD Vice-Executor Velda Kiara led a panel with with community leaders about topics concerning Black Leaders in Python.
 
