@@ -185,47 +185,17 @@ Djangonauts at Ponysaurus
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-
 ## Monday
 
 ### Monday Morning Talks
 
-<!--
-### Kojo Idressa and Peter Grandstaff Kick Off the Conference
+Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Grandstaff kicked off the conference. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+[Keynote - Power to the People who Teach the People](https://2024.djangocon.us/talks/keynote-monday/) by Sheena O'Connell
 
+[Choosing Wisely: SPA vs. HTMX for Your Next Web Project](https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/) by Chris May
 
-Keynote - Power to the People who Teach the People
-Sheena O'Connell
-https://2024.djangocon.us/talks/keynote-monday/
-
-Choosing Wisely: SPA vs. HTMX for Your Next Web Project
-Chris May
-https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/
-
-Error Culture
-Ryan Cheley
-https://2024.djangocon.us/talks/error-culture/
-
-Troubleshooting is a Lifestyle 😎
-Jack Linke
-https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/
-
-A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()
-Christopher Adams
-https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/
-
-https://2024.djangocon.us/talks/the-art-of-not-redirecting/
-
-One Thousand and One Django Sites
-Vince Salvino
-https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/
-
-Pygoat - Learn django security the hard way
-Adarsh Divakaran
-https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
--->
+[Error Culture](https://2024.djangocon.us/talks/error-culture/) by Ryan Cheley
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -241,6 +211,23 @@ North Carolina-inspired lunch
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Monday Afternoon Talks
+
+[Troubleshooting is a Lifestyle 😎](https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/) by Jack Linke
+
+[A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/) by Christopher Adams
+
+
+<!--
+https://2024.djangocon.us/talks/the-art-of-not-redirecting/
+
+One Thousand and One Django Sites
+Vince Salvino
+https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/
+
+Pygoat - Learn django security the hard way
+Adarsh Divakaran
+https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
+-->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -272,68 +259,50 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 ### Tuesday Morning Talks
 
-<!--
-Keynote - How To Be A Developer and Other Lies We Tell Ourselves
-Mario Munoz
-https://2024.djangocon.us/talks/keynote-tuesday/
-https://2024.djangocon.us/news/introducing-keynote-mario-munoz/
+[Keynote - How To Be A Developer and Other Lies We Tell Ourselves](https://2024.djangocon.us/talks/keynote-tuesday/) by Mario Munoz
 
+<!--
 Django + Alpine.js + htmx Ups & Downs
 Karen Tracey
 https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/
 -->
 
-PostgreSQL Beyond Django: Strategies to Get Max Performance
+[PostgreSQL Beyond Django: Strategies to Get Max Performance](https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/) by Álvaro Justen
 
-<!--
-Álvaro Justen
-https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/
--->
+[If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/) by Jacob Kaplan-Moss
 
-If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?
+<sub>[**back to top**](#table-of-contents)</sub>
 
-<!--
-Jacob Kaplan-Moss
-https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/
--->
+### Tuesday Afternoon Talks
 
 <!--
 Lessons from E2E Testing Web Applications
 Avindra Fernando
 https://2024.djangocon.us/talks/lessons-from-e2e-testing-web-applications/
+-->
 
-Only reliable Data: Protecting Database Integrity
-Eva Nanyonga
-https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/
+[Only reliable Data: Protecting Database Integrity](https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/) by Eva Nanyonga
+
+<!--
 Transaction atomicity
 Concurrency control
 Durability through logging
+-->
 
-### How to design and implement extensible software with plugins
+[How to design and implement extensible software with plugins](https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-with-plugins/) by Simon Willison
 
-Simon Willison
-https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-with-plugins/
+<!--
 https://pluggy.readthedocs.io/en/stable/
 https://packaging.python.org/en/latest/specifications/entry-points/
 -->
 
-Faster, leaner, greener: 10x lower website carbon emissions
+[Faster, leaner, greener: 10x lower website carbon emissions](https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/) by Thibaud Colas
+
+[Fighting Homelessness with Django](https://2024.djangocon.us/talks/fighting-homelessness-with-django/) by Benjamin "Zags" Zagorsky
 
 <!--
-Thibaud Colas
-https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/
--->
-
-<!--
-Fighting Homelessness with Django
-Benjamin "Zags" Zagorsky
-https://2024.djangocon.us/talks/fighting-homelessness-with-django/
 https://publichousingapplication.ocd.state.ma.us/
 -->
-
-<sub>[**back to top**](#table-of-contents)</sub>
-
-### Tuesday Afternoon Talks
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -391,21 +360,15 @@ Wednesday was deep dive day.
 
 ### Wednesday Morning Talks
 
+[Keynote - The Fellowship of the Pony](https://2024.djangocon.us/talks/keynote-wednesday/) by Natalia Bidart
+
+[Hidden gems of Django 5.x](https://2024.djangocon.us/talks/hidden-gems-of-django-5-x/) by Sarah Boyce
+
 <!--
-Keynote - The Fellowship of the Pony
-Natalia Bidart
-https://2024.djangocon.us/talks/keynote-wednesday/
-https://2024.djangocon.us/news/introducing-keynote-natalia-bidart/
-
-Hidden gems of Django 5.x
-Sarah Boyce
-https://2024.djangocon.us/talks/hidden-gems-of-django-5-x/
 https://docs.djangoproject.com/en/5.1/releases/5.0/
-
-A Brief History of Django
-Frank Wiles
-https://2024.djangocon.us/talks/a-brief-history-of-django/
 -->
+
+[A Brief History of Django](https://2024.djangocon.us/talks/a-brief-history-of-django/) by Frank Wiles
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -422,12 +385,11 @@ Slide screenshot
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Wednesday Talks
+### Wednesday Afternoon Talks
+
+[WebRTC with Django, Channels, HTMX, and coturn](https://2024.djangocon.us/talks/webrtc-with-django-channels-htmx-and-coturn/) by Ken Whitesell
 
 <!--
-WebRTC with Django, Channels, HTMX, and coturn
-Ken Whitesell
-https://2024.djangocon.us/talks/webrtc-with-django-channels-htmx-and-coturn/
 Web Real Time Communications (WebRTC)
 https://en.wikipedia.org/wiki/WebRTC
 https://github.com/coturn/coturn
@@ -436,20 +398,15 @@ A Guided Tour Through Postgres Internals
 Elizabeth Garrett Christensen
 https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/
 https://www.postgresql.org/
+-->
 
-Django User Model: Past, Present, and Future
-Will Vincent
-https://2024.djangocon.us/talks/django-user-model-past-present-and-future/
+[Django User Model: Past, Present, and Future](https://2024.djangocon.us/talks/django-user-model-past-present-and-future/) by Will Vincent
+
+<!--
 https://buttondown.com/carlton/archive/evolving-djangos-authuser/
 -->
 
-API Maybe: Bootstrapping a Web Application circa 2024
-
-<!--
-API Maybe: Bootstrapping a Web Application circa 2024
-Carlton Gibson
-https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/
--->
+[API Maybe: Bootstrapping a Web Application circa 2024](https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/) by Carlton Gibson
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -493,7 +450,7 @@ I spent some much needed quality time with Lacey Henschel. She told me that I ca
 
 I met Django Fellow Sarah Boyce for the first time. We chatted about her work and DjangoCon Europe. Sarah recently gave an excellent talk about contributing to Django package. 
 
-I connected Thibaud with myself, Nicole, and Peter to talk about DjangoCon US website improvements and conference sites. 
+I connected Thibaud with myself, Nicole, and Peter to talk about DjangoCon US website improvements and using it for other conference sites. 
 
 <!--
 After avidly following each other on social media, 
