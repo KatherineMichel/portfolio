@@ -101,7 +101,7 @@ The morning and afternoon replays are available on the info page.
 
 ### Rooftop View of Durham
 
-After the summit, a DjangoCon US attendee who lives at One City Center took us up to the 28th floor for an incredible view of the Durham skyline. 
+After the summit, a DjangoCon US attendee who lives at One City Center took a group of us up to the 28th floor for an incredible view of the Durham skyline. 
 
 [Video of the skyline](https://youtu.be/8w3ubfRBK5I)
 
