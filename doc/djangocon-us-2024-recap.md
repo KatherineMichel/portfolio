@@ -115,7 +115,7 @@ After the panel, we took part in breakout sessions. My group had a thoughtful an
 
 We ended the event with a fun social hour. 
 
-Me, Abigail Afi Gbadago, and Velda Kiara after Black Python Devs Leadership Summit! 
+Me, Abigail Afi Gbadago, and Velda Kiara after the summit!
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-me-afi-velda.jpg)
 
 I am so proud of them for the role they played in organizing an outstanding event. It had a lot of heart.
@@ -156,6 +156,11 @@ Djangonauts at Ponysaurus
 ## Monday
 
 <!--
+### Kojo Idressa and Peter Grandstaff Kick Off the Conference
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
+
 Keynote - Power to the People who Teach the People
 Sheena O'Connell
 https://2024.djangocon.us/talks/keynote-monday/
@@ -185,11 +190,6 @@ https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/
 Pygoat - Learn django security the hard way
 Adarsh Divakaran
 https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/
-
-
-### Kojo Idressa and Peter Grandstaff Kick Off the Conference
-
-<sub>[**back to top**](#table-of-contents)</sub>
 -->
 
 
@@ -239,15 +239,19 @@ https://2024.djangocon.us/news/introducing-keynote-mario-munoz/
 Django + Alpine.js + htmx Ups & Downs
 Karen Tracey
 https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/
+-->
 
-PostgreSQL Beyond Django: Strategies to Get Max Performance
+### PostgreSQL Beyond Django: Strategies to Get Max Performance
+
 Álvaro Justen
 https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/
 
-If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?
+### If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?
+
 Jacob Kaplan-Moss
 https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/
 
+<!--
 Lessons from E2E Testing Web Applications
 Avindra Fernando
 https://2024.djangocon.us/talks/lessons-from-e2e-testing-web-applications/
@@ -259,16 +263,20 @@ Transaction atomicity
 Concurrency control
 Durability through logging
 
-How to design and implement extensible software with plugins
+### How to design and implement extensible software with plugins
+
 Simon Willison
 https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-with-plugins/
 https://pluggy.readthedocs.io/en/stable/
 https://packaging.python.org/en/latest/specifications/entry-points/
+-->
 
-Faster, leaner, greener: 10x lower website carbon emissions
+### Faster, leaner, greener: 10x lower website carbon emissions
+
 Thibaud Colas
 https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/
 
+<!--
 Fighting Homelessness with Django
 Benjamin "Zags" Zagorsky
 https://2024.djangocon.us/talks/fighting-homelessness-with-django/
@@ -328,50 +336,22 @@ Photo credit
 
 ## Wednesday
 
+Wednesday was deep dive day. 
+
 <!--
-Deep Dive
 Keynote - The Fellowship of the Pony
 Natalia Bidart
 https://2024.djangocon.us/talks/keynote-wednesday/
 https://2024.djangocon.us/news/introducing-keynote-natalia-bidart/
 
-Deep Dive
 Hidden gems of Django 5.x
 Sarah Boyce
 https://2024.djangocon.us/talks/hidden-gems-of-django-5-x/
 https://docs.djangoproject.com/en/5.1/releases/5.0/
 
-Deep Dive
 A Brief History of Django
 Frank Wiles
 https://2024.djangocon.us/talks/a-brief-history-of-django/
-
-Deep Dive
-WebRTC with Django, Channels, HTMX, and coturn
-Ken Whitesell
-https://2024.djangocon.us/talks/webrtc-with-django-channels-htmx-and-coturn/
-Web Real Time Communications (WebRTC)
-https://en.wikipedia.org/wiki/WebRTC
-https://github.com/coturn/coturn
-
-Deep Dive
-A Guided Tour Through Postgres Internals
-Elizabeth Garrett Christensen
-https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/
-https://www.postgresql.org/
-
-Deep Dive
-Django User Model: Past, Present, and Future
-Will Vincent
-https://2024.djangocon.us/talks/django-user-model-past-present-and-future/
-https://buttondown.com/carlton/archive/evolving-djangos-authuser/
-
-Deep Dive
-API Maybe: Bootstrapping a Web Application circa 2024
-Carlton Gibson
-https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/
-
-Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
 -->
 
 ### Lightning Talk Cameo
@@ -383,17 +363,42 @@ Jon during his lightning talk
 
 <!--
 Slide screenshot
-
-Video link
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
+
+<!--
+WebRTC with Django, Channels, HTMX, and coturn
+Ken Whitesell
+https://2024.djangocon.us/talks/webrtc-with-django-channels-htmx-and-coturn/
+Web Real Time Communications (WebRTC)
+https://en.wikipedia.org/wiki/WebRTC
+https://github.com/coturn/coturn
+
+A Guided Tour Through Postgres Internals
+Elizabeth Garrett Christensen
+https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/
+https://www.postgresql.org/
+
+Django User Model: Past, Present, and Future
+Will Vincent
+https://2024.djangocon.us/talks/django-user-model-past-present-and-future/
+https://buttondown.com/carlton/archive/evolving-djangos-authuser/
+-->
+
+### API Maybe: Bootstrapping a Web Application circa 2024
+
+<!--
+API Maybe: Bootstrapping a Web Application circa 2024
+Carlton Gibson
+https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/
+-->
 
 ### Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
 
 Our conference ended with a panel of five women, including three women of color, and Carlton Gibson. They owned that stage and the crowd was totally absorbed with what they had to say. I'm proud to be part of a community that is making substantial progress and quickly at that. 
 
-Carlton Gibson, Keanya Phelps, Afi Maame Dufie, Velda Kiara, Sarah Boyce, Lacey Henschel
+Carlton Gibson, Keanya Phelps, Afi Maame Dufie, Velda Kiara, Sarah Boyce, and host Lacey Henschel
 ![](djangocon-us-2024-recap-images/closing-panel.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -421,7 +426,7 @@ I chatted with Thibaud Colas about his sustainability talk and got some tips fro
 
 I listened in on a conversation with Lee Trout and Adam Fast and learned about some new tools. 
 
-I pointed out Chris May's HTMX to Philip, a UI developer. He didn't know about HTMX and found it very enlightening. 
+I pointed out Chris May's HTMX talk to Philip, a UI developer. He didn't know about HTMX and found it very enlightening. 
 
 I chatted with Jay Miller about how DEFNA could better serve Black Python Devs and reported feedback. 
 
@@ -500,10 +505,10 @@ Thank you to my fellow DEFNA Board Members, volunteers, and everyone who made th
 Thank you card
 ![](djangocon-us-2024-recap-images/thank-you-card.jpg)
 
+The talk replays will be available on the [DjangoCon US YouTube channel](https://www.youtube.com/c/DjangoConUS) in a few weeks. 
+
 Nice visual metaphor taken along the side of the conference hotel during Centerfest
 ![](djangocon-us-2024-recap-images/butterfly.jpg)
-
-The talk replays will be available on the [DjangoCon US YouTube channel](https://www.youtube.com/c/DjangoConUS) in a few weeks. 
 
 Keep scrolling for more sightseeing and food! 
 
@@ -575,7 +580,7 @@ https://downtowndurham.com/directory/the-can-opener/
 
 ### 21c Museum Hotel
 
-Last year, I didn't make it ot the [21c Museum Hotel](https://www.21cmuseumhotels.com/) to see the artwork, so I thought it would be a fun experience this year. The hotel is filled with artwork. I was particularly taken by the see-into bathrooms, and the bank vault was a fun throwback to the hotel's past as a bank. 
+Last year, I didn't make it to the [21c Museum Hotel](https://www.21cmuseumhotels.com/) to see the artwork, so I thought it would be a fun experience this year. The hotel is filled with artwork. I was particularly taken by the see-into bathrooms. Also, the bank vault was a fun throwback to the hotel's past as a bank. 
 
 <!--
 Video
@@ -612,8 +617,11 @@ Skyline right
 
 ### Mother and Sons
 
-[Mother and Sons](https://www.mothersandsonsnc.com/)
+I'd been hungry for good Italian food for a while. [Mother and Sons](https://www.mothersandsonsnc.com/) had very high ratings, so I decided to give it a try. 
 
+I'd planned to play it safe and order the potato gnocchi. I asked the waiter if there was a particular dish that was very popular. He said the squid ink tonnarelli. I told him I'd always wondered what it tasted like, but been afraid to order it. He said that the squid ink taste was mild. So, I ordered it, and it was the right choice. It had a lemon-butter shrimp taste. 
+
+Squid Ink Tonnarelli- NC Shrimp, uni, fennel, scallions
 ![](djangocon-us-2024-recap-images/mother-and-sons-squid-ink-pasta.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -641,8 +649,6 @@ Oh my, this berries crepe was absolutely delicious. I had a banana bread latte t
 
 ### Centerfest
 
-It's wonderful to see Durham's thriving market and festival culture. 
-
 Serendipitiously, an art festival called [Centerfest](https://durhamarts.org/centerfest/) was taking place on Saturday and Sunday. 
 
 I wandered through the art booths, then stumbled upon one of many musical acts. It was called Heart of Carolina A Capella. 
@@ -654,6 +660,8 @@ video
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Durham Farmers Market and Craft Market
+
+It's wonderful to see Durham's thriving market and festival culture. 
 
 [Durham Farmer's Market](https://www.durhamfarmersmarket.com/)
 
