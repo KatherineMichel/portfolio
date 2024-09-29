@@ -94,10 +94,10 @@ Panel descriptions
 
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-panel.jpg)
 
-The morning and afternoon replays are available on the info page. 
-
-Me, Abigail Afi Gbadago, and Velda Kiara after Black Python Devs Leadership Summit! So proud of them for the role they played in organizing an outstanding event. It had a lot of heart.
+Me, Abigail Afi Gbadago, and Velda Kiara after Black Python Devs Leadership Summit! I am so proud of them for the role they played in organizing an outstanding event. It had a lot of heart.
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-me-afi-velda.jpg)
+
+The morning and afternoon replays are available on the info page. 
 
 ### Rooftop View of Durham
 
