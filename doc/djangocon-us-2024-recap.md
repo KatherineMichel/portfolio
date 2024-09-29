@@ -253,9 +253,7 @@ https://publichousingapplication.ocd.state.ma.us/
 
 ### Meeting Lorenzo
 
-After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! It was wonderful to hear about his dream trip to DjangoCon US. 
-
-I was thrilled that he had the chance to present a talk and attend the speaker/organizer dinner too: [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/). 
+After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! It was wonderful to hear about his dream trip to DjangoCon US. I was thrilled that he had the chance to present a talk and attend the speaker/organizer dinner too: [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/). 
 
 Lorenzo's social media post
 ![](djangocon-us-2024-recap-images/lorenzo-post.png)
@@ -282,7 +280,7 @@ Me and Simon (photo credit: Natalia Bidart)
 
 ### The Boxcar Bar and Arcade
 
-After the speaker/organizer dinner, Six Feet Up hosted a Mario Kart competition across the street at [The Boxcar Bar and Arcade](https://theboxcarbar.com/). 
+After the speaker/organizer dinner, [Six Feet Up](https://www.sixfeetup.com/) hosted a Mario Kart competition across the street at [The Boxcar Bar and Arcade](https://theboxcarbar.com/). 
 
 I spotted a few favorite old school games too: Super Pac-Man, Ms. Pac-Man, Donkey Kong, BurgerTime, Frogger. 
 
@@ -377,6 +375,8 @@ Velda Kiara
 
 ### Thank You
 
+Thank you to my fellow DEFNA Board Members, volunteers, and everyone who made this another wonderful event! 
+
 Thank you card
 ![](djangocon-us-2024-recap-images/thank-you-card.jpg)
 
@@ -429,7 +429,7 @@ Black Python Devs Leadership Summit bead lanyard made by an artisan in Kenya, Af
 
 ### Django Social T-Shirt
 
-In 2023, Foxley Talent gifted me a Django Social t-shirt. Jon and I took a photo with me wearing it. We recreated the photo! 
+In 2023, Foxley Talent gifted me a Django Social t-shirt. Foxley Talent Recruiter Jon Gould and I took a photo with me wearing it. We recreated the photo! 
 
 Me and Jon
 ![](djangocon-us-2024-recap-images/me-and-jon.jpeg)
@@ -438,20 +438,24 @@ Me and Jon
 
 ### Visa Frustration
 
-As our conference becomes more diverse, a common frustration has emerged: difficulty getting a visa to enter the US. People from multiple countries have voiced their frustration about this to me. Member of the community Julius Boakye poured his heart into a must-read post about it: [Breaking Barriers: A Tech Speaker’s Plea for Fair Visa Policies](https://medium.com/@theflyboy/breaking-barriers-a-tech-speakers-plea-for-fair-visa-policies-621b5909e496).
+As our conference becomes more diverse, a common frustration has emerged: difficulty getting a visa to enter the US. People from multiple countries have voiced their frustration about this to me. Django community member Julius Boakye poured his heart into a must-read post about it: [Breaking Barriers: A Tech Speaker’s Plea for Fair Visa Policies](https://medium.com/@theflyboy/breaking-barriers-a-tech-speakers-plea-for-fair-visa-policies-621b5909e496).
 
 <sub>[**back to top**](#table-of-contents)</sub>
-
 
 ## Thursday
 
 ### Sprints
 
+Caktus offices around the corner from the Marriott are the perfect sprint venue. 
+
 Me and Carlton
 ![](djangocon-us-2024-recap-images/me-and-carlton.jpg)
 
-[Pie Pushers](https://www.piepushers.com/)
+I was racking brain to figure out what to eat for lunch. I joined a group and walked the short distance to [Pie Pushers](https://www.piepushers.com/). 
 
+A slice of Italian susage and a simple house salad really hit the spot! It was the best tasting pizza I've had in quite a while. 
+
+Italian susage and a simple house salad
 ![](djangocon-us-2024-recap-images/pie-pushers.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -473,7 +477,7 @@ DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.
 
 ### Sarah P. Duke Gardens
 
-[Sarah P. Duke Gardens](https://gardens.duke.edu/)
+For months, I had been looking forward to making it back to the [Sarah P. Duke Gardens](https://gardens.duke.edu/). It is "the Cadillac" of botanical gardens with jaw dropping scenes everywhere. It's also said to be a different garden with every new season or even new month. I'd visit Durham again just to go back. 
 
 <!--
 Video
@@ -495,10 +499,17 @@ South Lawn
 
 ### Cocoa Cinnamon
 
-[Cocoa Cinnamon Coffee](https://littlewaves.coffee/pages/old-north-durham)
+I love [Cocoa Cinnamon](https://littlewaves.coffee/pages/old-north-durham) coffee shop. I first tried it last year and went back several times during DjangoCon US. I don't just love it for the coffee, which is amazing, by the way. On my first visit this year, I was offered a free Chai Latte. As I sat drinking it, they offered a free coffee that was redeemed by a student sitting studying. According to their menu, they also offer reduced price coffees as a service to the community. It's nice to patronize a business that shows kindness. 
 
+Drinks had:
+* Chai Latte: "Housemade chai blend of cinnamon, cardamon, ginger, rose, anise, & black pepper served unsweetened or with honey or vanilla syrup"
+* Caramelo: "Sweet & creamy latte with with dulce de leche named for Sandra Cisneros' novel" 
+* Al Mohka: "Latte with 70% single origin housemade chocolate sauce & cinnamon. Reference to first ever coffee port"
+
+Cocoa Cinnamon... a short walk from the convention center
 ![](djangocon-us-2024-recap-images/cocoa-cinnamon.jpg)
 
+Yum! 
 ![](djangocon-us-2024-recap-images/cocoa-cinnamon-coffee.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -570,15 +581,19 @@ Looking down at the first floor of the food hall
 
 ### Press Coffee, Crepes,and Cocktails
 
-[Press Coffee, Crepes, and Cocktails](https://pressccc.com/)
+I love [Press Coffee, Crepes, and Cocktails](https://pressccc.com/). It's a short walk south of the downtown and well worth it. It's a coffeehouse specializing in savory and sweet crepes. The space has a bright, energectic vibe and the food and coffee are very high quality.   
 
+First time eating avocado toast... I went big! This was gourmet quality, for sure. The seasonal salted pistachio mocha latte was to die for. 
 ![](djangocon-us-2024-recap-images/press-crepe-company-avocado-toast.jpg)
 
+Oh my, this berries crepe was absolutely delicious. I had a banana bread latte too that was chef's kiss. 
 ![](djangocon-us-2024-recap-images/press-crepe-company-berries.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Centerfest
+
+It's wonderful to see Durham's thriving market and festival culture. 
 
 [Centerfest](https://durhamarts.org/centerfest/)
 
@@ -613,7 +628,7 @@ This was the moment when I realized my low cholesterol diet was officially suspe
 
 ### Unscripted Rooftop Pool
 
-I had the chance to spend time at the [Unscripted Hotel](https://www.unscriptedhotels.com/). The rooftop overlooks the downtown and features a pool, bar, and DJ. It was an unforgettable atmosphere.  
+I had the chance to spend time at the [Unscripted Hotel](https://www.unscriptedhotels.com/). The rooftop overlooks the downtown and features a pool, bar, and DJ. It was an unforgettable atmosphere. 
 
 [Video of the Unscripted rooftop pool](https://youtu.be/_5-08ssL8Wk)
 
