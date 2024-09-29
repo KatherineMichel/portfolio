@@ -513,7 +513,7 @@ Caktus office around the corner from the Marriott is the perfect sprint venue.
 Me and Carlton
 ![](djangocon-us-2024-recap-images/me-and-carlton.jpg)
 
-I was racking brain to figure out what to eat for lunch. I joined a group and walked the short distance to [Pie Pushers](https://www.piepushers.com/). 
+I was racking my brain to figure out what to eat for lunch. I joined a group and walked the short distance to [Pie Pushers](https://www.piepushers.com/). 
 
 A slice of Italian susage and a simple house salad really hit the spot! It was the best tasting pizza I've had in quite a while. 
 
