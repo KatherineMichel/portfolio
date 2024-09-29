@@ -5,6 +5,7 @@ Table of Contents
 
 - [Intro](#intro)
     - [Venue Selection](#venue-selection)
+    - [DjangoCon US Website and Design](#djangocon-us-website-and-design)
 - [Pre-Conference Activities](#pre-conference-activities)
     - [Sightseeing and Some Great Meals](#sightseeing-and-some-great-meals)
     - [Black Python Devs Leadership Summit](#black-python-devs-leadership-summit)
@@ -21,7 +22,6 @@ Table of Contents
 - [Wednesday](#wednesday)
     - [Lightning Talk Cameo](#lightning-talk-cameo)
     - [Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django](#panel-discussion-open-friendly-and-welcoming-on-the-history-and-future-of-mentoring-in-django)
-    - [Thank You](#thank-you)
     - [Queeny's](#queenys)
 - [Hallway Track](#hallway-track)
     - [Connections Made](#connections-made)
@@ -53,6 +53,9 @@ Disclaimer: the content of this post is a reflection of my career journey and no
 
 DjangoCon US 2024 took place from September 22-27 in Durham, North Carolina. It was the seventh DjangoCon US I've had the privilege of attending and an absolute blast! 
 
+Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
+![](djangocon-us-2024-recap-images/attendees-photo.jpg)
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Venue Selection
@@ -65,10 +68,17 @@ Fellow Board Member Adam Fast gave a lightning talk about our search for a venue
 Lightning talk link and date/time
 -->
 
-Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
-![](djangocon-us-2024-recap-images/attendees-photo.jpg)
-
 <sub>[**back to top**](#table-of-contents)</sub>
+
+### DjangoCon US Website and Design
+
+A number of people commented that they really loved the t-shirt and bag this year. 
+
+Our wonderful designer Joni Trythall of YupGup did a [DjangoCon US Design Reflection](https://jonitrythall.com/dcus-design-reflection) featuring all of our designs since 2018. 
+
+<!--
+Website improvements
+-->
 
 ## Pre-Conference Activities
 
@@ -91,17 +101,26 @@ Other ones
 
 It was an honor to have been invited to attend the [Black Python Devs Leadership Summit](https://blackpythondevs.com/leadership-summit-2024/) as a distinguished guest. 
 
+The event took place at the Caktus office. 
+
 <!--
 More about talks
 Panel descriptions
 -->
 
+Benedict Koji Amofah, Jeff Triplett, Loren Crary, Monica Oyugi, and host Velda Kiara
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-panel.jpg)
+
+After the panel, we took part in breakout sessions. My group had a thoughtful and spirited conversation about newcomer psychological safety moderated by Alex Oladele and Paul Everitt.
+
+We ended the event with a fun social hour. 
 
 Me, Abigail Afi Gbadago, and Velda Kiara after Black Python Devs Leadership Summit! 
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-me-afi-velda.jpg)
 
 I am so proud of them for the role they played in organizing an outstanding event. It had a lot of heart.
+
+Jay announced that the next leadership summit will be somewhere in Africa. 
 
 The morning and afternoon replays are available on the info page. 
 
@@ -119,8 +138,6 @@ One City Center rooftop pool
 ### Swag Stuffing
 
 On Sunday, I continued my tradition of swag stuffing. Conference pro-tip: it's a great opportunity to meet people! 
-
-A number of people commented that they loved the t-shirt and bag this year. Our wonderful designer Joni Trythall of YupGup did a write-up of our DjangoCon US designs over the years. https://jonitrythall.com/dcus-design-reflection
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -302,6 +319,10 @@ Super Pac-Man
 Me standing in front of the bar at Boxcar
 ![](djangocon-us-2024-recap-images/boxcar-arcade.jpg)
 
+<!--
+Photo credit
+-->
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 
@@ -370,19 +391,10 @@ Video link
 
 ### Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
 
-Our conference ended with a panel of five women, including three women of color, and Carlton. They owned that stage and the crowd was totally absorbed with what they had to say. I'm proud to be part of a community that is making substantial progress and quickly at that. 
+Our conference ended with a panel of five women, including three women of color, and Carlton Gibson. They owned that stage and the crowd was totally absorbed with what they had to say. I'm proud to be part of a community that is making substantial progress and quickly at that. 
 
 Carlton Gibson, Keanya Phelps, Afi Maame Dufie, Velda Kiara, Sarah Boyce, Lacey Henschel
 ![](djangocon-us-2024-recap-images/closing-panel.jpg)
-
-<sub>[**back to top**](#table-of-contents)</sub>
-
-### Thank You
-
-Thank you to my fellow DEFNA Board Members, volunteers, and everyone who made this another wonderful event! 
-
-Thank you card
-![](djangocon-us-2024-recap-images/thank-you-card.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -405,32 +417,34 @@ Comment
 
 ### Connections Made
 
-I chatted with Jay Miller about how DEFNA could better serve Black Python Devs and reported feedback. 
-
 I chatted with Thibaud Colas about his sustainability talk and got some tips from him. 
 
-I connected Thibaud with myself, Nicole, and Peter to talk about DjangoCon US website improvements. 
+I listened in on a conversation with Lee Trout and Adam Fast and learned about some new tools. 
+
+I pointed out Chris May's HTMX to Philip, a UI developer. He didn't know about HTMX and found it very enlightening. 
+
+I chatted with Jay Miller about how DEFNA could better serve Black Python Devs and reported feedback. 
 
 I found out from Frank Wiles that there is some early talk about a possible Lawrence Django event. 
 
 I chatted with Simon Willison about some of my work duties, and he identified them as senior level. He told me about his excitement for his upcoming trip to see the [V & E Simonetti Historic Tuba Collection](https://www.atlasobscura.com/places/v-e-simonetti-historic-tuba-collection).
 
-I spent some much needed time with Lacey Henschel. She told me that I can learn anything. :) 
+I spent some much needed quality time with Lacey Henschel. She told me that I can learn anything. :) 
 
-I met Django Fellow Sarah Boyce for the first time. We chatted about her work and DjangoCon Europe. 
+I met Django Fellow Sarah Boyce for the first time. We chatted about her work and DjangoCon Europe. Sarah recently gave an excellent talk about contributing to Django package. 
 
-I listened in on a conversation with Lee Trout and Adam Fast and learned about some new tool: 
+I connected Thibaud with myself, Nicole, and Peter to talk about DjangoCon US website improvements and forking. 
 
 <!--
-Paul, Alex psychological safety for newcomers
-Monica
-Adam
+After avidly following each other on social media, 
+Sanjeets Joodnan
+
+Conversation with Carol
 
 Noah and Jib- MongoDB
-Sanjeets Joodnan
-Philip- htmx talk
 
-Sarah's talk
+Tools list
+Sarah's talk link
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -465,7 +479,7 @@ As our conference becomes more diverse, a common frustration has emerged: diffic
 
 ### Sprints
 
-Caktus offices around the corner from the Marriott are the perfect sprint venue. 
+Caktus office around the corner from the Marriott is the perfect sprint venue. 
 
 Me and Carlton
 ![](djangocon-us-2024-recap-images/me-and-carlton.jpg)
@@ -481,10 +495,17 @@ Italian susage and a simple house salad
 
 ## Another Great Adventure
 
-The talk replays will be available on the [DjangoCon US YouTube channel](https://www.youtube.com/c/DjangoConUS) in a few weeks. 
+Thank you to my fellow DEFNA Board Members, volunteers, and everyone who made this another wonderful event! 
+
+Thank you card
+![](djangocon-us-2024-recap-images/thank-you-card.jpg)
 
 Nice visual metaphor taken along the side of the conference hotel during Centerfest
 ![](djangocon-us-2024-recap-images/butterfly.jpg)
+
+The talk replays will be available on the [DjangoCon US YouTube channel](https://www.youtube.com/c/DjangoConUS) in a few weeks. 
+
+Keep scrolling for more sightseeing and food! 
 
 <!--
 DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
@@ -622,10 +643,12 @@ Oh my, this berries crepe was absolutely delicious. I had a banana bread latte t
 
 It's wonderful to see Durham's thriving market and festival culture. 
 
-[Centerfest](https://durhamarts.org/centerfest/)
+Serendipitiously, an art festival called [Centerfest](https://durhamarts.org/centerfest/) was taking place on Saturday and Sunday. 
+
+I wandered through the art booths, then stumbled upon one of many musical acts. It was called Heart of Carolina A Capella. 
 
 <!--
-Barber Shop Quartet video
+video
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
