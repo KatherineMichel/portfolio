@@ -54,10 +54,9 @@ DjangoCon US 2024 took place from September 22-27 in Durham, North Carolina. It 
 
 If you want to bring DjangoCon US to your city or volunteer, we want to hear from you! 
 
-Fellow Board Member Adam Fast gave a lightning talk about our search for a venue for 2025 and beyond. 
+Fellow Board Member Adam Fast gave a lightning talk about our search for a venue for 2025 and beyond. Cost continues to be a challenge. As they say in open source, "Given enough eyeballs, all bugs are shallow." Perhaps with the eyeballs of the entire community, we can find an acceptable course of action. 
 
 <!--
-Just like Linux eye balls in open source
 Lightning talk link and date/time
 -->
 
@@ -349,15 +348,15 @@ Panel Discussion: Open, friendly, and welcoming: on the history and future of me
 
 ### Lightning Talk Cameo
 
-<!--
-Video
--->
+It's no secret that I've been using social media for networking for many years now. During a lightning talk entitled Coffee Break Career hFoxley Talent's Jon Gould features one of my posts i 
 
-<!--
-https://2024.djangocon.us/talks/lightning-talks-wednesday/
-
-Jon included me in lightning talk- screenshot
+Jon included me in lightning talk
 ![](djangocon-us-2024-recap-images/jon-lightning-talk.jpg)
+
+<!--
+Slide screenshot
+
+Video
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -468,12 +467,13 @@ Italian susage and a simple house salad
 
 The talk replays will be available on the [DjangoCon US YouTube channel](https://www.youtube.com/c/DjangoConUS) in a few weeks. 
 
+Nice visual metaphor taken along the side of the conference hotel during Centerfest
+![](djangocon-us-2024-recap-images/butterfly.jpg)
+
 <!--
 DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ![](djangocon-us-2023-recap-images/djangocon-us-organizers.jpg)
 -->
-
-![](djangocon-us-2024-recap-images/butterfly.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
