@@ -41,8 +41,7 @@ Table of Contents
     - [Durham Food Hall](#durham-food-hall)
     - [Press Coffee, Crepes, and Cocktails](#press-coffee-crepesand-cocktails)
     - [Centerfest](#centerfest)
-    - [Durham Farmers Market and Craft Market](#durham-farmers-market-and-craft-market)
-    - [Durham Underground Market](#durham-underground-market)
+    - [Durham Market Culture](#durham-market-culture)
     - [Cousins Maine Lobster](#cousins-maine-lobster)
     - [Unscripted Rooftop Pool](#unscripted-rooftop-pool)
     - [The Parlour](#the-parlour)
@@ -92,13 +91,6 @@ Feel free to fork it and use it in line with the license.
 I feel privileged to be able to travel. I make the most of every opportunity to get to know a place better: seeing the unique sights, experiencing what makes the culture special, and enjoying the celebrated local cuisine. 
 
 In Durham, I had the chance to revisit the incredible Sarah P. Duke Gardens and see a few other attractions for the first time. Also, although most of my meals were provided through the conference, I enjoyed some outstanding meals in downtown Durham restaurants. 
-
-<!--
-A few favorite moments
-* Trying avocado toast, squid ink pasta, lobster roll, and oysters for the first time
-* Being treated to a gourmet meal at 21c Museum Hotel at the DEFNA Board Dinner
-* Getting a photo in front of a butterfly artwork
--->
   
 Here are a few of my favorite moments from the trip. See more photos and anecdotes later in this post. 
 
@@ -111,7 +103,7 @@ Sarah P. Duke Gardens Red Bridge... jaw dropping scenes
 The Durham Hotel Lobby... wow!
 ![](djangocon-us-2024-recap-images/the-durham-hotel-lobby.jpg)
 
-Mother and Sons... Squid Ink Tonnarelli- NC Shrimp, uni, fennel, scallions
+Mother and Sons... Squid Ink Tonnarelli, NC Shrimp, uni, fennel, scallions
 ![](djangocon-us-2024-recap-images/mother-and-sons-squid-ink-pasta.jpg)
 
 Press Coffee, Crepes, and Cocktails... oh my, this berries crepe was absolutely delicious. I had a banana bread latte too that was chef's kiss. 
@@ -541,11 +533,6 @@ The talk replays will be available on the [DjangoCon US YouTube channel](https:/
 
 Keep scrolling for more sightseeing and food! 
 
-<!--
-DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
-![](djangocon-us-2023-recap-images/djangocon-us-organizers.jpg)
--->
-
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## More Sight Seeing and Food!
@@ -556,9 +543,11 @@ DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.
 
 For months, I had been looking forward to making it back to the [Sarah P. Duke Gardens](https://gardens.duke.edu/). It is "the Cadillac" of botanical gardens with jaw dropping scenes everywhere. It's also said to be a different garden with every new season or even new month. I'd visit Durham again just to go back. 
 
-<!--
-Video
--->
+[Video of historic terraces, fish pool, and Cindy Brodhead Pergola](https://youtu.be/ueDuFR4WnS8)
+
+[Video from the Red Bridge](https://youtu.be/CH6c_sWGb84)
+
+[Video of the South Lawn](https://youtu.be/E14VYIGEyS4)
 
 Fish pool, historic terraces, and Cindy Brodhead Pergola
 ![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-overlook.jpg)
@@ -597,20 +586,13 @@ Build in the 1940s when vehicles weren't as large, [The Can Opener](https://www.
 The Can Opener
 ![](djangocon-us-2024-recap-images/the-can-opener.jpg)
 
-<!--
-https://www.instagram.com/thecanopenerdurham/?hl=en
-https://downtowndurham.com/directory/the-can-opener/
--->
-
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### 21c Museum Hotel
 
 Last year, I didn't make it to the [21c Museum Hotel](https://www.21cmuseumhotels.com/) to see the artwork, so I thought it would be a fun experience this year. The hotel is filled with artwork. I was particularly taken by the see-into bathrooms. Also, the bank vault was a fun throwback to the hotel's past as a bank. 
 
-<!--
-Video
--->
+[Video of 21c Museum Hotel See Into Bathroom](https://youtu.be/yeOEAycUvIQ)
 
 Bank vault entry
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-entry.jpg)
@@ -652,7 +634,7 @@ Looking down at the first floor of the food hall
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Press Coffee, Crepes,and Cocktails
+### Press Coffee, Crepes, and Cocktails
 
 I love [Press Coffee, Crepes, and Cocktails](https://pressccc.com/). It's a short walk south of the downtown and well worth it. It's a coffeehouse specializing in savory and sweet crepes. The space has a bright, energectic vibe and the food and coffee are very high quality.   
 
@@ -665,27 +647,19 @@ First time eating avocado toast... I went big! This was gourmet quality, for sur
 
 Serendipitiously, an art festival called [Centerfest](https://durhamarts.org/centerfest/) was taking place on Saturday and Sunday. 
 
-I wandered through the art booths, then stumbled upon one of many musical acts. It was called Heart of Carolina A Capella. 
+I wandered through the art booths, then stumbled upon one of many musical acts. It was called Heart of Carolina A Capella. It was fun serendipity. 
 
-<!--
-video
--->
+[Video of Heart of Carolina A Capella singing Sweet Caroline](https://youtu.be/89tf1KyUjGs)
 
-<sub>[**back to top**](#table-of-contents)</sub>
-
-### Durham Farmers Market and Craft Market
-
-It's wonderful to see Durham's thriving market and festival culture. 
-
-[Durham Farmer's Market](https://www.durhamfarmersmarket.com/)
-
-[Durham Craft Market](https://durhamcentralpark.org/events/durham-craft-market/)
+[Video of Heart of Carolina A Capella singing Seven Bridges Road](https://youtu.be/_cReCxdjVYk)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Durham Underground Market
+### Durham Market Culture
 
-I was looking for a quick, tasty lunch and stumbled upon the [Durham Underground Market](https://makrs.com/durham-underground-market) food trucks. 
+It's wonderful to see Durham's thriving market and festival culture. In addition to Centerfest, I stumbled upon the [Durham Farmers' Market](https://www.durhamfarmersmarket.com/), [Durham Craft Market](https://durhamcentralpark.org/events/durham-craft-market/), and [Durham Underground Market](https://makrs.com/durham-underground-market) all in the same weekend. 
+
+On Sunday, I was looking for a quick, tasty lunch and decided to try the fare of a [Durham Underground Market](https://makrs.com/durham-underground-market) food truck. 
 
 [Cousins Maine Lobster](https://www.cousinsmainelobster.com/) piqued my interest. According to the truck, the founders had appeared on Shark Tank. 
 
@@ -718,6 +692,21 @@ Salted Butter Caramel
 
 
 
+<!--
+A few favorite moments
+* Trying avocado toast, squid ink pasta, lobster roll, and oysters for the first time
+* Being treated to a gourmet meal at 21c Museum Hotel at the DEFNA Board Dinner
+* Getting a photo in front of a butterfly artwork
+
+DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
+![](djangocon-us-2023-recap-images/djangocon-us-organizers.jpg)
+
+https://www.instagram.com/thecanopenerdurham/?hl=en
+https://downtowndurham.com/directory/the-can-opener/
+-->
+
+
+<!--
 Videos
 Photo credits?
 
