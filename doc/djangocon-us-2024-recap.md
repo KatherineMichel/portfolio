@@ -423,7 +423,7 @@ Meeting the new Django Fellow Sarah Boyce
 
 ### Swag
 
-Velda and John showing off John's DjangoCon US tote bag... famous people signed it, including me! 
+Velda and John showing off John's DjangoCon US tote bag... "famous" people signed it, including me! 
 ![](djangocon-us-2024-recap-images/velda-and-john-with-swag-bag-signed-by-famous-people.jpg)
 
 Black Python Devs Leadership Summit bead lanyard made by an artisan in Kenya, African bracelet, Kenyan coffee made with beans from Velda's family's farm, PostgreSQL hat, Valkey sticker, DjangoCon US shirt, Caktus shirt
@@ -522,7 +522,9 @@ Yum!
 
 ### The Can Opener
 
-Build in the 1940s when vehicles weren't as large, [The Can Opener](https://www.atlasobscura.com/places/truck-decapitating-bridge), a railroad trestle bridge, was a mere 11 feet, 8 inches tall until 8 inches were added in 2019. Even with this improvement and warning signs well in advance, the bridge is peeling the tops off trucks. 
+I acted on a tip from fellow DEFNA Board Member Drew Winstel and visited The Can Opener. 
+
+Build in the 1940s when vehicles weren't as large, [The Can Opener](https://www.atlasobscura.com/places/truck-decapitating-bridge), a railroad trestle bridge, was a mere 11 feet, 8 inches tall until 8 inches were added in 2019. Even with this improvement and warning signs well in advance, the bridge continues to peel the tops off trucks. 
 
 The Can Opener
 ![](djangocon-us-2024-recap-images/the-can-opener.jpg)
@@ -536,19 +538,23 @@ https://downtowndurham.com/directory/the-can-opener/
 
 ### 21c Museum Hotel
 
+Last year, I didn't make it ot the [21c Museum Hotel](https://www.21cmuseumhotels.com/) to see the artwork, so I thought it would be a fun experience this year. The hotel is filled with artwork. I was particularly taken by the see-into bathrooms, and the bank vault was a fun throwback to the hotel's past as a bank. 
+
 <!--
 Video
 -->
 
-[21c Museum Hotel](https://www.21cmuseumhotels.com/)
+The bathroom window is transparent until you turn the lock, then it becomes opaque
+![](djangocon-us-2024-recap-images/21c-museum-hotel-bathroom.jpg)
 
+Bank vault entry
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-entry.jpg)
 
+Bank vault- first room
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-first-room.jpg)
 
+Bank vault- inner room
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-inner-room.jpg)
-
-![](djangocon-us-2024-recap-images/21c-museum-hotel-bathroom.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
