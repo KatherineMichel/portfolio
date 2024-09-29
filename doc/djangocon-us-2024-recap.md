@@ -144,7 +144,7 @@ Me, Abigail Afi Gbadago, and Velda Kiara after the summit!
 
 I am so proud of them for the role they played in organizing an outstanding event. It had a lot of heart.
 
-Jay announced that the next leadership summit will be somewhere in Africa. 
+BPF Founder Jay Miller announced that the next leadership summit will be somewhere in Africa. 
 
 The morning and afternoon replays are available on the info page. 
 
