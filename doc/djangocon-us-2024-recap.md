@@ -61,7 +61,7 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 If you want to bring DjangoCon US to your city or volunteer, we want to hear from you! 
 
-My fellow Board Member Adam Fast gave a lightning talk about our search for a venue for 2025 and beyond. Cost continues to be a challenge. As they say in open source, "Given enough eyeballs, all bugs are shallow." Perhaps with the eyeballs of the entire community, we can find an acceptable course of action. 
+My fellow DEFNA Board Member Adam Fast gave a lightning talk about our search for a venue for 2025 and beyond. Cost continues to be a challenge. As they say in open source, "Given enough eyeballs, all bugs are shallow." Perhaps with the eyeballs of the entire community, we can find an acceptable course of action. 
 
 <!--
 Lightning talk link and date/time
