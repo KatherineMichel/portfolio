@@ -31,7 +31,7 @@ Table of Contents
 - [Thursday](#thursday)
     - [Sprints](#sprints)
 - [Another Great Adventure](#another-great-adventure)
-- [Sight Seeing and More Food](#sight-seeing-and-more-food)
+- [More Sight Seeing and Food](#more-sight-seeing-and-food)
     - [Sarah P. Duke Gardens](#sarah-p-duke-gardens)
     - [Cocoa Cinnamon](#cocoa-cinnamon)
     - [The Can Opener](#the-can-opener)
@@ -104,8 +104,9 @@ It was an honor to have been invited to attend the [Black Python Devs Leadership
 The event took place at the Caktus office. 
 
 <!--
-More about talks
-Panel descriptions
+Keynote
+Talks
+Panel description
 -->
 
 Benedict Koji Amofah, Jeff Triplett, Loren Crary, Monica Oyugi, and host Velda Kiara
@@ -243,13 +244,17 @@ https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/
 
 ### PostgreSQL Beyond Django: Strategies to Get Max Performance
 
+<!--
 Álvaro Justen
 https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/
+-->
 
 ### If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?
 
+<!--
 Jacob Kaplan-Moss
 https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/
+-->
 
 <!--
 Lessons from E2E Testing Web Applications
@@ -273,8 +278,10 @@ https://packaging.python.org/en/latest/specifications/entry-points/
 
 ### Faster, leaner, greener: 10x lower website carbon emissions
 
+<!--
 Thibaud Colas
 https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/
+-->
 
 <!--
 Fighting Homelessness with Django
@@ -286,12 +293,10 @@ https://publichousingapplication.ocd.state.ma.us/
 
 ### Meeting Lorenzo
 
-After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! It was wonderful to hear about his dream trip to DjangoCon US. 
+After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! I was thrilled that he had the chance to present a talk [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/) and attend the speaker/organizer dinner too. 
 
-Lorenzo's social media post
+A dream come true
 ![](djangocon-us-2024-recap-images/lorenzo-post.png)
-
-I was thrilled that he had the chance to present a talk [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/) and attend the speaker/organizer dinner too. 
 
 Me and Lorenzo
 ![](djangocon-us-2024-recap-images/me-and-lorenzo.jpg)
@@ -398,7 +403,7 @@ https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-
 
 Our conference ended with a panel of five women, including three women of color, and Carlton Gibson. They owned that stage and the crowd was totally absorbed with what they had to say. I'm proud to be part of a community that is making substantial progress and quickly at that. 
 
-Carlton Gibson, Keanya Phelps, Afi Maame Dufie, Velda Kiara, Sarah Boyce, and host Lacey Henschel
+Carlton Gibson, Keanya Phelps, Velda Kiara, Afi Maame Dufie, Sarah Boyce, and host Lacey Henschel
 ![](djangocon-us-2024-recap-images/closing-panel.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -519,7 +524,7 @@ DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-## Sight Seeing and More Food!
+## More Sight Seeing and Food!
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -619,7 +624,7 @@ Skyline right
 
 I'd been hungry for good Italian food for a while. [Mother and Sons](https://www.mothersandsonsnc.com/) had very high ratings, so I decided to give it a try. 
 
-I'd planned to play it safe and order the potato gnocchi. I asked the waiter if there was a particular dish that was very popular. He said the squid ink tonnarelli. I told him I'd always wondered what it tasted like, but been afraid to order it. He said that the squid ink taste was mild. So, I ordered it, and it was the right choice. It had a lemon-butter shrimp taste. 
+I'd planned to play it safe and order the potato gnocchi. I asked the waiter if there was a particular dish that was very popular. He said the squid ink tonnarelli. I told him I'd always wondered what squid ink pasta tasted like, but had been afraid to order it. He said that the squid ink taste was mild. So, I ordered it, and it delicious. It had a lemon-butter shrimp taste. 
 
 Squid Ink Tonnarelli- NC Shrimp, uni, fennel, scallions
 ![](djangocon-us-2024-recap-images/mother-and-sons-squid-ink-pasta.jpg)
@@ -732,16 +737,6 @@ https://2024.djangocon.us/organizers/
 Schedule
 https://2024.djangocon.us/schedule/
 
-Hackathon
-https://2024.djangocon.us/hackathon/
-
-Board Game Night
-
-Tutorials / Sunday, Sep 22
-
-Lightning Talks
-Andrew Mshar
-
 Orientation
 Kojo Idrissa
 
@@ -851,13 +846,6 @@ https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using
 https://django-debug-toolbar.readthedocs.io/en/latest/
 Other django-debut-toolbar uses
 
-### Personal
-
-Passkeys: Your password-free future
-Ryan Hiebert
-https://2024.djangocon.us/talks/passkeys-your-password-free-future/
-OpenID (remember that?), Federation, Single Sign-on, Magic Links, and Login Codes
-Passkeys
 
 
 ## Recap
@@ -879,12 +867,6 @@ Deep Dive
 A Brief History of Django
 Frank Wiles
 https://2024.djangocon.us/talks/a-brief-history-of-django/
-
-Deep Dive
-Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
-Lacey Henschel
-https://2024.djangocon.us/talks/panel-discussion-mentoring-django/
-https://2024.djangocon.us/news/introducing-discussion-panel/
 
 ## Keynotes
 
@@ -938,12 +920,6 @@ Transaction atomicity
 Concurrency control
 Durability through logging
 
-Deep Dive
-A Guided Tour Through Postgres Internals
-Elizabeth Garrett Christensen
-https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/
-https://www.postgresql.org/
-
 ## Agenda- Database- Online
 
 Online talk
@@ -957,6 +933,7 @@ https://www.mysql.com/
 Faster, leaner, greener: 10x lower website carbon emissions
 Thibaud Colas
 https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/
+
 
 Fighting Homelessness with Django
 Benjamin "Zags" Zagorsky
@@ -1044,6 +1021,21 @@ Jessica Garson
 https://2024.djangocon.us/talks/introduction-to-opentelemetry-with-django/
 https://opentelemetry.io/
 
+You got that nice tech salary, now what?
+Tim Schilling
+https://2024.djangocon.us/talks/you-got-that-nice-tech-salary-now-what/
+
+
+## Agenda- Database- Less Relevant
+
+Deep Dive
+A Guided Tour Through Postgres Internals
+Elizabeth Garrett Christensen
+https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/
+https://www.postgresql.org/
+
+## Personal- Online- Less Relevant
+
 Deep Dive
 Online talk
 Streaming Video in Django | Demystified
@@ -1059,7 +1051,6 @@ Online talk
 Django UI Components for Perfectionists with Deadlines
 Hernan Lozano
 https://2024.djangocon.us/talks/reusable-django-template-components-for-perfectionists-with-deadlines/
-
 
 Open-source Python tools to visualize and analyse geospatial data.
 Samweli Mwakisambwe
@@ -1077,9 +1068,21 @@ Miguel Sanda
 https://2024.djangocon.us/talks/django-ledger-uniting-developers-and-accountants-for-innovation/
 https://github.com/arrobalytics/django-ledger
 
-You got that nice tech salary, now what?
-Tim Schilling
-https://2024.djangocon.us/talks/you-got-that-nice-tech-salary-now-what/
+### Personal- Less Relevant
+
+Passkeys: Your password-free future
+Ryan Hiebert
+https://2024.djangocon.us/talks/passkeys-your-password-free-future/
+OpenID (remember that?), Federation, Single Sign-on, Magic Links, and Login Codes
+Passkeys
+
+## DSF News and Django History
+
+Deep Dive
+Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
+Lacey Henschel
+https://2024.djangocon.us/talks/panel-discussion-mentoring-django/
+https://2024.djangocon.us/news/introducing-discussion-panel/
 
 ## Additional
 
