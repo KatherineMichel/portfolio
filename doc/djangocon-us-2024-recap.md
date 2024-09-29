@@ -384,7 +384,7 @@ Thank you card
 
 ### Queeny's 
 
-After the conference had ended, I joined a group of Wagtail Developers and Eva Nanyonga and walked the short distance to Queeny's, a DjangoCon US institution. No one ever seems to turn down dinner at Queeny's. :) 
+After the conference had ended, I joined a group of Wagtail developers and Eva Nanyonga and walked the short distance to [Queeny's](https://www.queenysdurham.com/), a DjangoCon US institution. No one ever seems to turn down dinner at Queeny's. :) 
 
 Group pic!
 ![](djangocon-us-2024-recap-images/queenys.jpg)
@@ -516,15 +516,15 @@ Yum!
 
 ### The Can Opener
 
-[The Can Opener](https://www.atlasobscura.com/places/truck-decapitating-bridge)
+Build in the 1940s when vehicles weren't as large, [The Can Opener](https://www.atlasobscura.com/places/truck-decapitating-bridge), a railroad trestle bridge, was a mere 11 feet, 8 inches tall until 8 inches were added in 2019. Even with this improvement and warning signs well in advance, the bridge is peeling the tops off trucks. 
+
+The Can Opener
+![](djangocon-us-2024-recap-images/the-can-opener.jpg)
 
 <!--
 https://www.instagram.com/thecanopenerdurham/?hl=en
 https://downtowndurham.com/directory/the-can-opener/
 -->
-
-The Can Opener
-![](djangocon-us-2024-recap-images/the-can-opener.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -548,16 +548,15 @@ Video
 
 ### The Durham Hotel
 
-<!--
-The best public view in town
--->
+I went to [The Durham Hotel](https://www.thedurham.com/roof/), because I heard it has the best public view of the Durham skyline in town. I later had a much higher view of the skyline from the private 28th floor of One City Center, but The Durham Hotel architecture and interior design were well worth a visit in their own right.  
 
-[The Durham Hotel](https://www.thedurham.com/roof/)
-
+Wow! I love this lobby. 
 ![](djangocon-us-2024-recap-images/the-durham-hotel-lobby.jpg)
 
+Skyline left
 ![](djangocon-us-2024-recap-images/the-durham-hotel-roof-left.jpg)
 
+Skyline right
 ![](djangocon-us-2024-recap-images/the-durham-hotel-roof-right.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -617,7 +616,7 @@ Barber Shop Quartet video
 
 I was looking for a quick, tasty lunch and stumbled upon the [Durham Underground Market](https://makrs.com/durham-underground-market) food trucks. 
 
-[Cousins Maine Lobster](https://www.cousinsmainelobster.com/) piqued my interest. The founders had appeared on Shark Tank. 
+[Cousins Maine Lobster](https://www.cousinsmainelobster.com/) piqued my interest. According to the truck, the founders had appeared on Shark Tank. 
 
 I ordered a lobster tail, but they were out, so they upgraded me to a lobster roll and tots. It was my first time eating a lobster roll. It was tasty! 
 
