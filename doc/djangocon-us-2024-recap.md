@@ -213,14 +213,14 @@ My points of interest
 * Growth mindset and [metacognition](https://en.wikipedia.org/wiki/Metacognition)
 * Thinking about thinking
 * Struggle is good, teach students how to learn
-* Some teaching techniques are more power than others
-* Trust no one
+* Some teaching techniques are more powerful than others
+* "Trust no one"
 * Catalyst further growth- retrieval practice
 * Foundational practices and mindsets
 * The Protégé Effect
 * [The Guild of Educators](https://www.sheenaoc.com/articles/2024-09-12-introducing-goe)
 * Learning Sprint tutorial: Django, htmx, playwright, tailwind, maybe alpine 
-* Desperatio mindset, [stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)… sense of belonging
+* Desperation mindset, [stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)… sense of belonging
   
 [The Magic of Dependencies Installing Themselves](https://2024.djangocon.us/talks/the-magic-of-dependencies-installing-themselves/) by Ilerioluwakiiye Abolade
 
@@ -414,7 +414,6 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-dessert.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
-
 
 ## Tuesday
 
@@ -647,12 +646,12 @@ https://en.wikipedia.org/wiki/WebRTC
 https://github.com/coturn/coturn
 -->
 
+<!--
 [A Guided Tour Through Postgres Internals](https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/) by Elizabeth Garrett Christensen
 
 My points of interest
 * 
 
-<!--
 https://www.postgresql.org/
 -->
 
@@ -681,7 +680,10 @@ https://buttondown.com/carlton/archive/evolving-djangos-authuser/
 [API Maybe: Bootstrapping a Web Application circa 2024](https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/) by Carlton Gibson
 
 My points of interest
-* 
+* Blog and DjangoChat
+* Paths: monitoring, evaluation, and learning for development and sustainability projects
+* A year and a half in, busy bootstrapping, this talk is about that
+* 2018: API first, 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
