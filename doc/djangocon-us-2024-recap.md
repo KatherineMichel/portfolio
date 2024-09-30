@@ -340,9 +340,20 @@ My points of interest
 [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/) by Christopher Adams
 
 My points of interest
+* Code samples: https://github.com/adamsc64/a-related-matter
+* Manage your own expectations for tools
+* Querysets are lazy and immutable
+* Example of querysets that don't/do hit the database (future instructions)
+* Django logging set to debug for db backend to stream results
+* Django shell, db all-statement logging (caution: will fill up the logs, for a minute in staging, not prod)
 * [django-debug-toolbar](https://django-debug-toolbar.readthedocs.io/en/latest/)
-* Other django-debug-toolbar uses
+* Install conditionally (if DEBUG)
+* Each query has latency going back and forth to database, increased if data is in another datacenter
+* Prefetch returns another queryset, can more efficient than if database does it
+* People in the 90th percentile who have a slow machine
+* Other django-debug-toolbar uses slide
 
+<!--
 [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/) by Lorenzo Peña
 
 My points of interest
@@ -356,17 +367,27 @@ My points of interest
 [Pygoat - Learn django security the hard way](https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/) by Adarsh Divakaran
 
 My points of interest
-* 
+*
+-->
 
 [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/) by Ron Maravanyika
 
 My points of interest
-* 
+* Define efficiency
+* Benchmarking- looking at time; Profiling- looking at resource usage
+* Unix time command: real, user, sys
+* Python timeit module
+* [pytest-benchmark](https://pytest-benchmark.readthedocs.io/en/latest/) and Weave, benchmark_weave, aspectlib
+* [Cookiecutter Template](https://cookiecutter.readthedocs.io/en/stable/)
+* profile module, cprofile module
+* Live profiling tool- [django-silk](https://github.com/jazzband/django-silk)
+* Postgres select * documentation
+* Silk Python profiler and binary version- will create an image that shows parallel functions running
+* What about profiling small blocks of code (functions and methods)- decorator method and context manager method
+* [Dynamic profiling](https://github.com/jazzband/django-silk?tab=readme-ov-file#dynamic-profiling)- used for profiling something you don't have access to
 
 <!--
-https://github.com/jazzband/django-silk
 https://github.com/kolofordjango/kolo
-https://pytest-benchmark.readthedocs.io/en/latest/
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
