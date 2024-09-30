@@ -198,19 +198,19 @@ Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Gr
 My points of interest
 * Common learning anti-patterns
 * The power of compounding over time
-* Make it Stick book
+* [Make it Stick](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013) book
 * If you teach one person, it can impact many others
 * Normal classroom and normal distribution versus versus mastery-based learning
-* Bloom's 2 Sigma Problem
+* [Bloom's 2 Sigma Problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem)
 * Mastery-based learning techniques (1:1 tutoring), social contract
 * Mastery-based learning helps you master teaching ("did I do a good job of teaching")
 * "Education is not the filling of a pail, but the lighting of a fire."
 * "You can't each a person to ride a bicycle by riding a bycicle for them."
 * Growth mindset versus fixed mindset
-* Huberman Lab Podcast
+* [Huberman Lab Podcast](https://www.hubermanlab.com/podcast)
 * You should have a growth mindset about your growth mindset :)
 * Mastery-based learning helps people develop a growth mindset
-* Growth mindset and metacognition
+* Growth mindset and [metacognition](https://en.wikipedia.org/wiki/Metacognition)
 * Thinking about thinking
 * Struggle is good, teach students how to learn
 * Some teaching techniques are more power than others
@@ -218,8 +218,9 @@ My points of interest
 * Catalyst further growth- retrieval practice
 * Foundational practices and mindsets
 * The Protégé Effect
-* The Guild of Educators
-* Learning Sprint tutorial
+* [The Guild of Educators](https://www.sheenaoc.com/articles/2024-09-12-introducing-goe)
+* Learning Sprint tutorial: Django, htmx, playwright, tailwind, maybe alpine 
+* Desperatio mindset, [stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)… sense of belonging
   
 [The Magic of Dependencies Installing Themselves](https://2024.djangocon.us/talks/the-magic-of-dependencies-installing-themselves/) by Ilerioluwakiiye Abolade
 
@@ -261,9 +262,11 @@ My points of interest
 * Component Island benefits
 * What you return from the server- if you return JSON, you are inviting complexity; if you return HTML, you require much less JavaScript
 * A new pattern: Streamed HTML components
-* Django Unicorn, HTML, Alpine.js, django-template-partials, django-components, Datastar, Unpoly, 
-* Success stories: [Umuzi](https://www.sheenaoc.com/articles/2024-06-30-htmx), [contexte](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/), [OpenUnited ](https://www.linkedin.com/feed/update/urn:li:activity:7109116330770878464/)
+* [Django Unicorn](https://www.django-unicorn.com/), HTMX, Alpine.js, [django-template-partials](https://github.com/carltongibson/django-template-partials), [django-components](https://pypi.org/project/django-components/), [Datastar](https://datastar.fly.dev/), [Unpoly](https://unpoly.com/) 
+* Success stories: [Umuzi](https://www.sheenaoc.com/articles/2024-06-30-htmx), [contexte](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/), [OpenUnited](https://www.linkedin.com/feed/update/urn:li:activity:7109116330770878464/)
+* OpenUnited- dev velocity improved by 500%
 * Tayor Hunt's [Making the World's Fastest Website and Other Mistakes](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
+* Chris will create a blog post with streaming info
 
 [Error Culture](https://2024.djangocon.us/talks/error-culture/) by Ryan Cheley
 
@@ -295,17 +298,50 @@ North Carolina-inspired lunch
 [Troubleshooting is a Lifestyle 😎](https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/) by Jack Linke
 
 My points of interest
-* 
+* "If your only tool is a hammer then everything looks like a nail." Abraham Maslow
+* Indicator categories
+* Django template error pages
+* Django error reporting by email
+* Django system checks framework- it's extensible (dj-stripe example)
+* Django console and logging, extra context and verbosity (1-3)
+* django-debug-toolbar- it's extensible
+* django-silk performance profiler
+* Error tracking and performance monitoring- Sentry, Rollbar, Newrelic, Honeybadger, Bugsnag, Raygun
+* Sentry error page, error message, tags
+* django-health-check package (can add Celery, Redis, Postgres)
+* django-watchman
+* Extend the admin by adding checks
+* Celery issues… too few tasks processed. Put panel into admin- last 24 hours how many tasks processed through celery
+* The power of isolating variables and narrowing scope
+* Frances Elizabeth Holberton- "break the execution- does the system work up to this point"
+* Python Debugger (PDB), breakpoints, step through the code and find the issue
+* Avoid tunnel vision- seek broad pespectives and alternative approaches
+* "A problem well stated is a problem half solved." John Dewey
+* Rubber duck debugging
+* Knowing when to seek assistance
+* Asking for help is a strategy
+* How to ask for help effectively
+* Minimum Reproducible Example (MRE), examples
+* Ken shoutout!
+* Document the process
 
+<!--
+Julie’s zine
+https://wizardzines.com/comics/good-questions-1/
+-->
+
+<!--
 [An Opinionated Guide to Modern Django Forms](https://2024.djangocon.us/talks/an-opinionated-guide-to-modern-django-forms/) by Josh Thomas
 
 My points of interest
 * 
+-->
 
 [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/) by Christopher Adams
 
 My points of interest
-* 
+* [django-debug-toolbar](https://django-debug-toolbar.readthedocs.io/en/latest/)
+* Other django-debug-toolbar uses
 
 [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/) by Lorenzo Peña
 
@@ -934,21 +970,13 @@ Keynote - Power to the People who Teach the People
 Sheena O'Connell
 https://2024.djangocon.us/talks/keynote-monday/
 https://2024.djangocon.us/news/introducing-keynote-sheena-oconnell/
-https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem
 https://en.wikipedia.org/wiki/Mastery_learning
 https://www.irishtimes.com/news/education/education-is-not-the-filling-of-a-pail-but-the-lighting-of-a-fire-it-s-an-inspiring-quote-but-did-wb-yeats-say-it-1.1560192
 https://online.hbs.edu/blog/post/growth-mindset-vs-fixed-mindset
 Growth mindset is a spectrum 
-https://www.hubermanlab.com/podcast
-https://en.wikipedia.org/wiki/Metacognition
 https://www.growthengineering.co.uk/protege-effect/
 https://www.retrievalpractice.org/
-https://www.sheenaoc.com/articles/2024-09-12-introducing-goe
-Learning Sprint tutorial: Django, htmx, playwright, tailwind, maybe alpine 
 PyCon Namibia questions… hard to get Europeans to ask questions
-Desperation mindset 
-Stereotype threat… sense of belonging
-https://en.wikipedia.org/wiki/Stereotype_threat
 Anonymous letters… they are telling my story 
 Slides at end
 
@@ -979,34 +1007,13 @@ https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/
 Choosing Wisely: SPA vs. HTMX for Your Next Web Project
 Chris May
 https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/
-Unicorn
-https://www.django-unicorn.com/
-htmx
-alpine.js 
-django-template-partials
-https://github.com/carltongibson/django-template-partials
-django-components
-https://pypi.org/project/django-components/
-Datastar
-https://datastar.fly.dev/
-Unpoly
-https://unpoly.com/
-Unuzi- Sheena
-https://www.sheenaoc.com/articles/2024-06-30-htmx
-Context- David Guillot
-OpenUnited- dev velocity improved by 500%
 https://www.reddit.com/r/django/comments/176882w/results_of_porting_openunited_from_react_to/
-Taylor Hunt
-https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na
-Chris will create a blog post with streaming info
 
 ### Performance and Optimization
 
 A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()
 Christopher Adams
 https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/
-https://django-debug-toolbar.readthedocs.io/en/latest/
-Other django-debut-toolbar uses
 
 
 
