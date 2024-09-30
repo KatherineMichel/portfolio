@@ -423,7 +423,18 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 [Keynote - How To Be A Developer and Other Lies We Tell Ourselves](https://2024.djangocon.us/talks/keynote-tuesday/) by Mario Munoz
 
 My points of interest
-* 
+* I agree that Velda and Mario both have great hair :)
+* "I am a person."
+* "We all know philosophy and software engineering are the same thing." Abstract thinking, making models of intangible things, trying to apply them to real world scenarios.
+* Jacques Lacan- Mirror Stage
+* 12 Monkeys Steam Punk Lab
+* "Being a developer should in no way rob you of who you are and your own identity"
+* Personal/Ality personality simulator
+* "The biggest lie that we can tell ourselves is that these objects of representation that are outside of us are synonymous with who we are."
+* "Everything we tell ourselves about ourselves is always a little bit inadequate"
+* "Our strengths can also be our biggest weaknesses." Examples. "You can also turn your weaknesses into your strengths."
+* Far greater things... "I am a community. We are a community... The community is my biggest asset."
+* "How to be a better developer... be a better person to others." 
 
 [Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework](https://2024.djangocon.us/talks/seamless-transition-how-i-converted-an-existing-mysql-database-to-be-fully-managed-by-django-migrations-framework/) by Daniel Ramas
 
