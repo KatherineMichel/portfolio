@@ -195,27 +195,87 @@ Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Gr
 
 [Keynote - Power to the People who Teach the People](https://2024.djangocon.us/talks/keynote-monday/) by Sheena O'Connell
 
-Points of interest to me
-* 
-
+My points of interest
+* Common learning anti-patterns
+* The power of compounding over time
+* Make it Stick book
+* If you teach one person, it can impact many others
+* Normal classroom and normal distribution versus versus mastery-based learning
+* Bloom's 2 Sigma Problem
+* Mastery-based learning techniques (1:1 tutoring), social contract
+* Mastery-based learning helps you master teaching ("did I do a good job of teaching")
+* "Education is not the filling of a pail, but the lighting of a fire."
+* "You can't each a person to ride a bicycle by riding a bycicle for them."
+* Growth mindset versus fixed mindset
+* Huberman Lab Podcast
+* You should have a growth mindset about your growth mindset :)
+* Mastery-based learning helps people develop a growth mindset
+* Growth mindset and metacognition
+* Thinking about thinking
+* Struggle is good, teach students how to learn
+* Some teaching techniques are more power than others
+* Trust no one
+* Catalyst further growth- retrieval practice
+* Foundational practices and mindsets
+* The Protégé Effect
+* The Guild of Educators
+* Learning Sprint tutorial
+  
 [The Magic of Dependencies Installing Themselves](https://2024.djangocon.us/talks/the-magic-of-dependencies-installing-themselves/) by Ilerioluwakiiye Abolade
 
-Points of interest to me
-* 
-
-<!--
-https://peps.python.org/pep-0723/
--->
+My points of interest
+* [PEP 723](https://peps.python.org/pep-0723/)
+* Inline script metadata- specify script related metadata directly within Python files using TOML format
+* Specify exact versions
+* All requirements visible
+* Share a single file instead of multiple files
+* Management commands- specify Django versions and other dependencies
+* Only include necessary dependencies
+* Regularly review and update metadata as your project evolves
+* Explain why certain versions or dependencies are required
+* Include metadata changes in your commits
+* Verify that your metadata works in different environments
+* Challenges with traditional Django dependency management and how PEP 723 solves these issues
 
 [Choosing Wisely: SPA vs. HTMX for Your Next Web Project](https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/) by Chris May
 
-Points of interest to me
-* 
+My points of interest
+* Last year's talk introduced idea that you can have SPA-like experience in Django using tools other than typical SPA tools like HTMX
+* Why would I want to use HTMX versus SPA?
+* Are you using a SPA? What would make you change? When do you think you should use a SPA? What tools are you favorite tools? Are you using them well?
+* Thoughtworks [SPA by Default](https://www.thoughtworks.com/en-us/radar/techniques/spa-by-default)
+* Alex Russell [The Market for Lemons](https://infrequently.org/2023/02/the-market-for-lemons/)
+* SPA startup takes too much time
+* Spectrum source: [Caprock](https://infrequently.org/2024/08/caprock/)
+* [Using Progressive Enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
+* "Any system that puts Javascript in the critical path starts at a disadvantage." Alex Russell
+* "JavaScript costs three more times in processing power byte-for-byte than HTML and CSS and remove the browser's ability to optimize page loading."
+* "When using JavaScript you pay a performance tax no less than four times." Tim Kadlec
+* Source: [The Cost of JavaScript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks)
+* When SPAs could be worth their weight
+* "A massive investment in controlling complexity is the only way to scale JS-driven frontends." Alex Russell
+* Bad user experience on slow devices
+* How the front-end is coping
+* [Katie Sylor-Miller's "Component Islands" pattern](https://jasonformat.com/islands-architecture/)
+* CSS view transitions
+* Component Island benefits
+* What you return from the server- if you return JSON, you are inviting complexity; if you return HTML, you require much less JavaScript
+* A new pattern: Streamed HTML components
+* Django Unicorn, HTML, Alpine.js, django-template-partials, django-components, Datastar, Unpoly, 
+* Success stories: [Umuzi](https://www.sheenaoc.com/articles/2024-06-30-htmx), [contexte](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/), [OpenUnited ](https://www.linkedin.com/feed/update/urn:li:activity:7109116330770878464/)
+* Tayor Hunt's [Making the World's Fastest Website and Other Mistakes](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
 
 [Error Culture](https://2024.djangocon.us/talks/error-culture/) by Ryan Cheley
 
-Points of interest to me
-* 
+My points of interest
+* Automated alerts received via email
+* Error culture: workers ignore error notifications, creating a culture of reactive firefighting
+* Why does it happen? Lack of understanding: what, why, who; error/alert fatique, hero culture
+* [Chesterton's Fence](https://fs.blog/chestertons-fence/)
+* Is the alert important? No: don't just delete the alert. Delete the mechanism that created the alert.
+* Is the alert important? Yes: Is the alert actionable? What does an actionable alert look like?
+* It has a verb
+* Examples
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -234,37 +294,37 @@ North Carolina-inspired lunch
 
 [Troubleshooting is a Lifestyle 😎](https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/) by Jack Linke
 
-Points of interest to me
+My points of interest
 * 
 
 [An Opinionated Guide to Modern Django Forms](https://2024.djangocon.us/talks/an-opinionated-guide-to-modern-django-forms/) by Josh Thomas
 
-Points of interest to me
+My points of interest
 * 
 
 [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/) by Christopher Adams
 
-Points of interest to me
+My points of interest
 * 
 
 [The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/) by Lorenzo Peña
 
-Points of interest to me
+My points of interest
 * 
 
 [One Thousand and One Django Sites](https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/) by Vince Salvino
 
-Points of interest to me
+My points of interest
 * 
 
 [Pygoat - Learn django security the hard way](https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/) by Adarsh Divakaran
 
-Points of interest to me
+My points of interest
 * 
 
 [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/) by Ron Maravanyika
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -305,12 +365,12 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 [Keynote - How To Be A Developer and Other Lies We Tell Ourselves](https://2024.djangocon.us/talks/keynote-tuesday/) by Mario Munoz
 
-Points of interest to me
+My points of interest
 * 
 
 [Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework](https://2024.djangocon.us/talks/seamless-transition-how-i-converted-an-existing-mysql-database-to-be-fully-managed-by-django-migrations-framework/) by Daniel Ramas
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -319,17 +379,17 @@ https://www.mysql.com/
 
 [Django + Alpine.js + htmx Ups & Downs](https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/) by Karen Tracey
 
-Points of interest to me
+My points of interest
 * 
 
 [PostgreSQL Beyond Django: Strategies to Get Max Performance](https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/) by Álvaro Justen
 
-Points of interest to me
+My points of interest
 * 
 
 [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/) by Jacob Kaplan-Moss
 
-Points of interest to me
+My points of interest
 * 
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -338,22 +398,22 @@ Points of interest to me
 
 [Upgrading EOL Django: A Journey from V1 to V5](https://2024.djangocon.us/talks/upgrading-eol-django-a-journey-from-v1-to-v5/) by Michael Riley
 
-Points of interest to me
+My points of interest
 * 
 
 [Lessons from E2E Testing Web Applications](https://2024.djangocon.us/talks/lessons-from-e2e-testing-web-applications/) by Avindra Fernando
 
-Points of interest to me
+My points of interest
 * 
 
 [You got that nice tech salary, now what?](https://2024.djangocon.us/talks/you-got-that-nice-tech-salary-now-what/) by Tim Schilling
 
-Points of interest to me
+My points of interest
 * 
 
 [Only reliable Data: Protecting Database Integrity](https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/) by Eva Nanyonga
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -364,7 +424,7 @@ Durability through logging
 
 [Level Up Your Django Performance: Identifying and Taming N+1 Queries](https://2024.djangocon.us/talks/level-up-your-django-performance-identifying-and-taming-n-1-queries/) by Mohammad Ahtasham ul Hassan and Shafqat Farhan Ahmed
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -374,7 +434,7 @@ SQL logging
 
 [How to design and implement extensible software with plugins](https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-with-plugins/) by Simon Willison
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -384,12 +444,12 @@ https://packaging.python.org/en/latest/specifications/entry-points/
 
 [Faster, leaner, greener: 10x lower website carbon emissions](https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/) by Thibaud Colas
 
-Points of interest to me
+My points of interest
 * 
 
 [Fighting Homelessness with Django](https://2024.djangocon.us/talks/fighting-homelessness-with-django/) by Benjamin "Zags" Zagorsky
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -400,7 +460,7 @@ https://2024.djangocon.us/talks/operations-missing-django-piece/
 
 [Django UI Components for Perfectionists with Deadlines](https://2024.djangocon.us/talks/reusable-django-template-components-for-perfectionists-with-deadlines/) by Hernan Lozano
 
-Points of interest to me
+My points of interest
 * 
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -461,7 +521,7 @@ Wednesday was deep dive day.
 
 [Keynote - The Fellowship of the Pony](https://2024.djangocon.us/talks/keynote-wednesday/) by Natalia Bidart
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -473,7 +533,7 @@ https://opentelemetry.io/
 
 [Hidden gems of Django 5.x](https://2024.djangocon.us/talks/hidden-gems-of-django-5-x/) by Sarah Boyce
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -501,7 +561,7 @@ Slide screenshot
 
 [Django & Celery: A love story of async proportions](https://2024.djangocon.us/talks/django-celery-a-love-story-of-async-proportions/) by Hugo Bessa
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -510,7 +570,7 @@ https://github.com/celery/celery
 
 [WebRTC with Django, Channels, HTMX, and coturn](https://2024.djangocon.us/talks/webrtc-with-django-channels-htmx-and-coturn/) by Ken Whitesell
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -521,7 +581,7 @@ https://github.com/coturn/coturn
 
 [A Guided Tour Through Postgres Internals](https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/) by Elizabeth Garrett Christensen
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -530,7 +590,7 @@ https://www.postgresql.org/
 
 [Streaming Video in Django | Demystified](https://2024.djangocon.us/talks/streaming-video-in-django-demystified/) by Vaarun Sinha
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -543,7 +603,7 @@ https://channels.readthedocs.io/en/latest/
 
 [Django User Model: Past, Present, and Future](https://2024.djangocon.us/talks/django-user-model-past-present-and-future/) by Will Vincent
 
-Points of interest to me
+My points of interest
 * 
 
 <!--
@@ -552,7 +612,7 @@ https://buttondown.com/carlton/archive/evolving-djangos-authuser/
 
 [API Maybe: Bootstrapping a Web Application circa 2024](https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/) by Carlton Gibson
 
-Points of interest to me
+My points of interest
 * 
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -864,17 +924,6 @@ Organizers
 https://2024.djangocon.us/organizers/
 
 
-Schedule
-https://2024.djangocon.us/schedule/
-
-Orientation
-Kojo Idrissa
-
-Opening Remarks
-Closing Remarks
-Peter Grandstaff
-
-
 ## 9-23
 
 https://2024.djangocon.us/schedule/#Day-2
@@ -885,26 +934,15 @@ Keynote - Power to the People who Teach the People
 Sheena O'Connell
 https://2024.djangocon.us/talks/keynote-monday/
 https://2024.djangocon.us/news/introducing-keynote-sheena-oconnell/
-Bloom’s 2 sigma problem
 https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem
-Mastery based learning 
 https://en.wikipedia.org/wiki/Mastery_learning
-"Education is not the filling of a pail, but the lighting of a fire"
 https://www.irishtimes.com/news/education/education-is-not-the-filling-of-a-pail-but-the-lighting-of-a-fire-it-s-an-inspiring-quote-but-did-wb-yeats-say-it-1.1560192
-Growth mindset versus fixed mindset
 https://online.hbs.edu/blog/post/growth-mindset-vs-fixed-mindset
 Growth mindset is a spectrum 
-Foster a growth mindset 
-Huberman Lab Podcast
 https://www.hubermanlab.com/podcast
-MLB and growth mindset effects
-Meta cognition 
 https://en.wikipedia.org/wiki/Metacognition
-Protege effect
 https://www.growthengineering.co.uk/protege-effect/
-Retrieval practice
 https://www.retrievalpractice.org/
-The Guild of Educators
 https://www.sheenaoc.com/articles/2024-09-12-introducing-goe
 Learning Sprint tutorial: Django, htmx, playwright, tailwind, maybe alpine 
 PyCon Namibia questions… hard to get Europeans to ask questions
@@ -923,9 +961,6 @@ https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/
 Error Culture
 Ryan Cheley
 https://2024.djangocon.us/talks/error-culture/
-Error culture definition 
-https://fs.blog/chestertons-fence/
-Actionable alert
 
 
 Pygoat - Learn django security the hard way
