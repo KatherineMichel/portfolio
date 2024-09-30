@@ -330,17 +330,10 @@ Julie’s zine
 https://wizardzines.com/comics/good-questions-1/
 -->
 
-<!--
-[An Opinionated Guide to Modern Django Forms](https://2024.djangocon.us/talks/an-opinionated-guide-to-modern-django-forms/) by Josh Thomas
-
-My points of interest
-* 
--->
-
 [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/) by Christopher Adams
 
 My points of interest
-* Code samples: https://github.com/adamsc64/a-related-matter
+* [Code samples](https://github.com/adamsc64/a-related-matter)
 * Manage your own expectations for tools
 * Querysets are lazy and immutable
 * Example of querysets that don't/do hit the database (future instructions)
@@ -349,26 +342,9 @@ My points of interest
 * [django-debug-toolbar](https://django-debug-toolbar.readthedocs.io/en/latest/)
 * Install conditionally (if DEBUG)
 * Each query has latency going back and forth to database, increased if data is in another datacenter
-* Prefetch returns another queryset, can more efficient than if database does it
+* Prefetch returns another queryset, can be more efficient than if database does it
 * People in the 90th percentile who have a slow machine
 * Other django-debug-toolbar uses slide
-
-<!--
-[The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/) by Lorenzo Peña
-
-My points of interest
-* 
-
-[One Thousand and One Django Sites](https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/) by Vince Salvino
-
-My points of interest
-* 
-
-[Pygoat - Learn django security the hard way](https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/) by Adarsh Divakaran
-
-My points of interest
-*
--->
 
 [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/) by Ron Maravanyika
 
@@ -438,18 +414,36 @@ My points of interest
 [Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework](https://2024.djangocon.us/talks/seamless-transition-how-i-converted-an-existing-mysql-database-to-be-fully-managed-by-django-migrations-framework/) by Daniel Ramas
 
 My points of interest
-* 
+* MySQL
+* Django migrations flow
+* We have the ability to run custom Python scripts using RunPython
+* Common arguments: Apps and schema_editor
+* Another common migration class: RunSQL (caution: accepts strings of SQL commands to run on the database; sanitize inputs and beware SQL injection)
+* Pattern: migrations have a dependency to the previous migration that is applied before it. This is how Django links migrations and is able to create a tree to describe what the migrations history looks like
+* Other way of creating a dependency, create a ForeignKey relationship
+* Sync an existing database to Django, Docker Compose
+* Take note of the type of primary key fields, primary keys are primarily integers
+* DEFAULT_AUTO_FIELD: AutoField is a subclass of IntegerField
+* Use inspectdb to generate the models based on schema it can detect: python manage.py inspectdb > <file_structure>
+* Why did he delete models?
+* class Meta managed=True
+* makemigrations
+* python manage.py migrate --fake (will fake all migrations that need to be applied)
+* python manage.py migrate --fake-initial (multiple migrations need to be run, but only initial migration needs to be faked)
+* ForeignKeys that are enforced on the backend not the database
+* db_column
+* Custom migration
+* Use RunPython to do the cleaning of the columns
+* apps.get_model
+* Operation can't be reversed, so don't need a reverse function
+* AlterField
 
-<!--
-https://www.mysql.com/
--->
-
-[Django + Alpine.js + htmx Ups & Downs](https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/) by Karen Tracey
+[PostgreSQL Beyond Django: Strategies to Get Max Performance](https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/) by Álvaro Justen
 
 My points of interest
 * 
 
-[PostgreSQL Beyond Django: Strategies to Get Max Performance](https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/) by Álvaro Justen
+[Django + Alpine.js + htmx Ups & Downs](https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/) by Karen Tracey
 
 My points of interest
 * 
@@ -644,28 +638,6 @@ My points of interest
 Web Real Time Communications (WebRTC)
 https://en.wikipedia.org/wiki/WebRTC
 https://github.com/coturn/coturn
--->
-
-<!--
-[A Guided Tour Through Postgres Internals](https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/) by Elizabeth Garrett Christensen
-
-My points of interest
-* 
-
-https://www.postgresql.org/
--->
-
-[Streaming Video in Django | Demystified](https://2024.djangocon.us/talks/streaming-video-in-django-demystified/) by Vaarun Sinha
-
-My points of interest
-* 
-
-<!--
-HLS (HTTP Live Streaming)
-MPEG-DASH (Dynamic Adaptive Streaming over HTTP)
-HLS vs MPEG-DASH
-https://www.ffmpeg.org/
-https://channels.readthedocs.io/en/latest/
 -->
 
 [Django User Model: Past, Present, and Future](https://2024.djangocon.us/talks/django-user-model-past-present-and-future/) by Will Vincent
@@ -956,6 +928,46 @@ Salted Butter Caramel
 
 
 
+
+<!--
+[An Opinionated Guide to Modern Django Forms](https://2024.djangocon.us/talks/an-opinionated-guide-to-modern-django-forms/) by Josh Thomas
+
+My points of interest
+* 
+
+[The art of (not) redirecting](https://2024.djangocon.us/talks/the-art-of-not-redirecting/) by Lorenzo Peña
+
+My points of interest
+* 
+
+[One Thousand and One Django Sites](https://2024.djangocon.us/talks/one-thousand-and-one-django-sites/) by Vince Salvino
+
+My points of interest
+* 
+
+[Pygoat - Learn django security the hard way](https://2024.djangocon.us/talks/pygoat-learn-django-security-the-hard-way/) by Adarsh Divakaran
+
+My points of interest
+*
+
+[A Guided Tour Through Postgres Internals](https://2024.djangocon.us/talks/a-guided-tour-through-postgres-internals/) by Elizabeth Garrett Christensen
+
+My points of interest
+* 
+
+https://www.postgresql.org/
+
+[Streaming Video in Django | Demystified](https://2024.djangocon.us/talks/streaming-video-in-django-demystified/) by Vaarun Sinha
+
+My points of interest
+* 
+
+HLS (HTTP Live Streaming)
+MPEG-DASH (Dynamic Adaptive Streaming over HTTP)
+HLS vs MPEG-DASH
+https://www.ffmpeg.org/
+https://channels.readthedocs.io/en/latest/
+-->
 
 <!--
 A few favorite moments
