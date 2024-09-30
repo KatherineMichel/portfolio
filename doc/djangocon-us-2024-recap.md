@@ -945,7 +945,7 @@ I had the chance to spend time at the [Unscripted Hotel](https://www.unscriptedh
 
 ### The Parlour
 
-I made a trip to [The Parlour](https://theparlour.co/) for the second year in a row. Last year, I had chocolate and was underwhelmed. This year, I had their most popular flavor- Salted Butter Caramel. It was truly incredible. Hope to make it back to Durham someday and visit The Parlour again! 
+I made a trip to [The Parlour](https://theparlour.co/) for the second year in a row. Last year, I had chocolate and was underwhelmed. This year, I had their most popular flavor- Salted Butter Caramel. It was truly incredible. I hope to make it back to Durham someday and visit The Parlour again! 
 
 Salted Butter Caramel
 ![](djangocon-us-2024-recap-images/the-parlour.jpg)
