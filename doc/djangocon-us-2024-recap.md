@@ -827,7 +827,7 @@ South Lawn
 
 ### Cocoa Cinnamon
 
-I love [Cocoa Cinnamon](https://littlewaves.coffee/pages/old-north-durham) coffee shop. I first tried it last year and went back several times during DjangoCon US. I don't just love it for the coffee, which is amazing, by the way. On my first visit this year, I was offered a free Chai Latte. As I sat drinking it, they offered a free coffee that was redeemed by a student sitting studying. According to their menu, they also offer reduced price coffees as a service to the community. It's nice to patronize a business that shows kindness. 
+I love [Cocoa Cinnamon](https://littlewaves.coffee/pages/old-north-durham) coffee shop. I first tried it last year and went back several times during DjangoCon US 2024. I don't just love it for the coffee, which is amazing, by the way. On my first visit this year, I was offered a free Chai Latte. As I sat drinking it, they offered a free coffee that was redeemed by a student sitting studying. According to their menu, they also offer reduced price coffees as a service to the community. It's nice to patronize a business that shows kindness. 
 
 Drinks had:
 * Chai Latte: "Housemade chai blend of cinnamon, cardamon, ginger, rose, anise, & black pepper served unsweetened or with honey or vanilla syrup"
