@@ -19,7 +19,7 @@ The DEFNA Board dinner at 21c Museum Hotel Counting House. An unforgettable meal
 After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! I was thrilled that he had the chance to present a talk and attend the speaker/organizer dinner too. It was a dream come true for him. 
 
 ![](favorite-conference-snapshots/djangocon-us-2024-me-and-simon.jpg)
-Sitting next to Simon Willison, co-creator of Django, at the speaker/organizer dinner, I couldn’t resist getting a photo!
+Sitting next to Simon Willison, co-creator of Django, at the speaker/organizer dinner, I couldn’t resist getting a photo! I wrote about Simon's PyCon US 2024 talk about Imitation Intelligence in my [PyCon US Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html#simon-willison-keynote). 
 
 ![](favorite-conference-snapshots/djangocon-us-2024-me-and-carlton.jpg)
 Me and Carlton Gibson, former Django Fellow, at the first day of sprints
