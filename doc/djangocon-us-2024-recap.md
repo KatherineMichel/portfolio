@@ -395,7 +395,7 @@ My points of interest
 * Jacques Lacan- Mirror Stage
 * 12 Monkeys Steam Punk Lab
 * "Being a developer should in no way rob you of who you are and your own identity"
-* Personal/Ality personality simulator
+* Person/Ality personality simulator
 * "The biggest lie that we can tell ourselves is that these objects of representation that are outside of us are synonymous with who we are."
 * "Everything we tell ourselves about ourselves is always a little bit inadequate"
 * "Our strengths can also be our biggest weaknesses." Examples. "You can also turn your weaknesses into your strengths."
@@ -443,7 +443,13 @@ My points of interest
 [Django + Alpine.js + htmx Ups & Downs](https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/) by Karen Tracey
 
 My points of interest
-* 
+* North Carolina Outerbanks Nags Head
+* The promise of a sunny day
+* Overlap between frontend frameworks and Django
+* The frontend frameworks would expect that instead of sending HTML, the server would be sending JSON. And the frontend frameworks would take the JSON and turn that into HTML.
+* Lack of full stack
+* "We're all on a walk on the beach"
+* Karen would like to encourage sharing of information. 
 
 [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/) by Jacob Kaplan-Moss
 
