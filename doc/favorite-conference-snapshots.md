@@ -16,16 +16,16 @@ Me, Abigail Afi Gbadago, and Velda Kiara after Black Python Devs Leadership Summ
 The DEFNA Board dinner at 21c Museum Hotel Counting House. An unforgettable meal. 
 
 ![](favorite-conference-snapshots/djangocon-us-2024-me-and-lorenzo.jpg)
-After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! I was thrilled that he had the chance to present a talk and attend the speaker/organizer dinner too.
+After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! I was thrilled that he had the chance to present a talk and attend the speaker/organizer dinner too. It was a dream come true for him. 
 
 ![](favorite-conference-snapshots/djangocon-us-2024-me-and-simon.jpg)
 Sitting next to Simon Willison, co-creator of Django, at the speaker/organizer dinner, I couldn’t resist getting a photo!
 
 ![](favorite-conference-snapshots/djangocon-us-2024-me-and-carlton.jpg)
-Me and Carlton Gibson at the first day of sprints
+Me and Carlton Gibson, former Django Fellow, at the first day of sprints
 
 ![](favorite-conference-snapshots/djangocon-us-2024-queenys.jpg)
-After the conference had ended, I joined a group of Wagtail developers and Eva Nanyonga for dinner at nearby Queeny’s.
+After the conference had ended, I joined a group of Wagtail developers and conference speaker Eva Nanyonga for dinner at nearby Queeny’s.
 
 ## PyCon US 2024
 
