@@ -464,22 +464,22 @@ My points of interest
 My points of interest
 * 
 
+
 [Only reliable Data: Protecting Database Integrity](https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/) by Eva Nanyonga
 
 My points of interest
-* 
-
-<!--
-Transaction atomicity
-Concurrency control
-Durability through logging
--->
+* Some argue atomicity helps the other properties in ACID
+* Postman
+* Error reporting, two records with the same name and same account
+* When the function fails, the record will not go to the database
+* Atomic transactions decorator
 
 [Level Up Your Django Performance: Identifying and Taming N+1 Queries](https://2024.djangocon.us/talks/level-up-your-django-performance-identifying-and-taming-n-1-queries/) by Mohammad Ahtasham ul Hassan and Shafqat Farhan Ahmed
 
 My points of interest
 * THe database is only access when the query is evaluated
 * Django Debug Toolbar, SQL query logging
+
 
 [How to design and implement extensible software with plugins](https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-with-plugins/) by Simon Willison
 
@@ -984,6 +984,12 @@ https://wizardzines.com/comics/good-questions-1/
 
 <!--
 https://github.com/kolofordjango/kolo
+-->
+
+<!--
+Transaction atomicity
+Concurrency control
+Durability through logging
 -->
 
 <!--
