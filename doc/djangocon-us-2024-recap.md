@@ -483,7 +483,7 @@ My points of interest
 [Level Up Your Django Performance: Identifying and Taming N+1 Queries](https://2024.djangocon.us/talks/level-up-your-django-performance-identifying-and-taming-n-1-queries/) by Mohammad Ahtasham ul Hassan and Shafqat Farhan Ahmed
 
 My points of interest
-* THe database is only access when the query is evaluated
+* The database is only accessed when the query is evaluated
 * Django Debug Toolbar, SQL query logging
 
 
