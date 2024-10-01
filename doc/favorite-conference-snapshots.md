@@ -2,6 +2,31 @@
 
 Although these snapshots do not include all of the people who are special to me, they give a taste of the fun and serendipity of my conference travels over the years. In the Python community, as they say, the world is your oyster. A huge thank you to everyone who has made these incredible experiences possible over the years. 
 
+## DjangoCon US 2024
+
+September 22-27, Durham, North Carolina
+
+![](favorite-conference-snapshots/djangocon-us-2024-butterfly.jpg)
+I've always wanted one of these! A nice visual metaphor taken along the side of the conference hotel during Centerfest Fine Art Festival. 
+
+![](favorite-conference-snapshots/djangocon-us-2024-black-python-devs-summit-me-afi-velda.jpg)
+Me, Abigail Afi Gbadago, and Velda Kiara after Black Python Devs Leadership Summit! I am so proud of them for the role they played in organizing an outstanding event. It had a lot of heart.
+
+![](favorite-conference-snapshots/djangocon-us-2024-defna-board.jpg)
+The DEFNA Board dinner at 21c Museum Hotel Counting House. An unforgettable meal. 
+
+![](favorite-conference-snapshots/djangocon-us-2024-me-and-lorenzo.jpg)
+After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! I was thrilled that he had the chance to present a talk and attend the speaker/organizer dinner too.
+
+![](favorite-conference-snapshots/djangocon-us-2024-me-and-simon.jpg)
+Sitting next to Simon Willison, co-creator of Django, at the speaker/organizer dinner, I couldn’t resist getting a photo!
+
+![](favorite-conference-snapshots/djangocon-us-2024-me-and-carlton.jpg)
+Me and Carlton Gibson at the first day of sprints
+
+![](favorite-conference-snapshots/djangocon-us-2024-queenys.jpg)
+After the conference had ended, I joined a group of Wagtail developers and Eva Nanyonga for dinner at nearby Queeny’s.
+
 ## PyCon US 2024
 
 May 15-20, Pittsburgh, Pennsylvania
