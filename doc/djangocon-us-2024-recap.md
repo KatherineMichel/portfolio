@@ -117,7 +117,7 @@ Mother and Sons... Squid Ink Tonnarelli, NC Shrimp, uni, fennel, scallions
 Press Coffee, Crepes, and Cocktails... oh my, this berries crepe was absolutely delicious. I had a banana bread latte too that was chef's kiss. 
 ![](djangocon-us-2024-recap-images/press-crepe-company-berries.jpg)
 
-Centerfest... nice visual metaphor taken along the side of the conference hotel during Centerfest
+I've always wanted one of these! A nice visual metaphor taken along the side of the conference hotel during Centerfest Fine Art Festival. 
 ![](djangocon-us-2024-recap-images/butterfly.jpg)
 
 Unscripted rooftop pool
@@ -361,7 +361,7 @@ My points of interest
 
 ### DEFNA Board Dinner
 
-DEFNA had a board dinner to discuss business. It was a pleasure to be treated to a gourmet meal at 21c Museum Hotel [Counting House](https://countinghousenc.com/) restaurant. 
+DEFNA had a board dinner to discuss business. It was a pleasure to be treated to a gourmet meal at 21c Museum Hotel [Counting House](https://countinghousenc.com/) restaurant. It was an unforgettable experience. 
 
 I had oysters for the first time and particularly enjoyed the scallops and smoked trout dip. 
 
