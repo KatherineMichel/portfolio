@@ -325,11 +325,6 @@ My points of interest
 * Ken shoutout!
 * Document the process
 
-<!--
-Julie’s zine
-https://wizardzines.com/comics/good-questions-1/
--->
-
 [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/) by Christopher Adams
 
 My points of interest
@@ -361,10 +356,6 @@ My points of interest
 * Silk Python profiler and binary version- will create an image that shows parallel functions running
 * What about profiling small blocks of code (functions and methods)- decorator method and context manager method
 * [Dynamic profiling](https://github.com/jazzband/django-silk?tab=readme-ov-file#dynamic-profiling)- used for profiling something you don't have access to
-
-<!--
-https://github.com/kolofordjango/kolo
--->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -441,7 +432,13 @@ My points of interest
 [PostgreSQL Beyond Django: Strategies to Get Max Performance](https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/) by Álvaro Justen
 
 My points of interest
-* 
+* [Code](https://github.com/PythonicCafe/djpg-example)
+* Docker Compose web and db service
+* psycopg, postreSQL, rows library
+* [cookie-cutter-dokku-django](https://github.com/PythonicCafe/cookiecutter-dokku-django)
+* Brasil.IO dataset Manifesto
+* First implementation: lazy
+* TBC
 
 [Django + Alpine.js + htmx Ups & Downs](https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/) by Karen Tracey
 
@@ -467,11 +464,6 @@ My points of interest
 My points of interest
 * 
 
-[You got that nice tech salary, now what?](https://2024.djangocon.us/talks/you-got-that-nice-tech-salary-now-what/) by Tim Schilling
-
-My points of interest
-* 
-
 [Only reliable Data: Protecting Database Integrity](https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/) by Eva Nanyonga
 
 My points of interest
@@ -486,12 +478,8 @@ Durability through logging
 [Level Up Your Django Performance: Identifying and Taming N+1 Queries](https://2024.djangocon.us/talks/level-up-your-django-performance-identifying-and-taming-n-1-queries/) by Mohammad Ahtasham ul Hassan and Shafqat Farhan Ahmed
 
 My points of interest
-* 
-
-<!--
-https://django-debug-toolbar.readthedocs.io/en/latest/
-SQL logging
--->
+* THe database is only access when the query is evaluated
+* Django Debug Toolbar, SQL query logging
 
 [How to design and implement extensible software with plugins](https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-with-plugins/) by Simon Willison
 
@@ -702,6 +690,8 @@ I met Django Fellow Sarah Boyce for the first time. We chatted about her work an
 I connected Thibaud with myself, Nicole, and Peter to talk about DjangoCon US website improvements and using it for other conference sites. 
 
 <!--
+Thibaud- caching
+
 After avidly following each other on social media, 
 Sanjeets Joodnan
 
@@ -818,7 +808,7 @@ Yum!
 
 I acted on a tip from fellow DEFNA Board Member Drew Winstel and visited The Can Opener. 
 
-Build in the 1940s when vehicles weren't as large, [The Can Opener](https://www.atlasobscura.com/places/truck-decapitating-bridge), a railroad trestle bridge, was a mere 11 feet, 8 inches tall until 8 inches were added in 2019. Even with this improvement and warning signs well in advance, the bridge continues to peel the tops off trucks. 
+Built in the 1940s when vehicles weren't as large, [The Can Opener](https://www.atlasobscura.com/places/truck-decapitating-bridge), a railroad trestle bridge, was a mere 11 feet, 8 inches tall until 8 inches were added in 2019. Even with this improvement and warning signs well in advance, the bridge continues to peel the tops off trucks. 
 
 The Can Opener
 ![](djangocon-us-2024-recap-images/the-can-opener.jpg)
@@ -967,6 +957,11 @@ MPEG-DASH (Dynamic Adaptive Streaming over HTTP)
 HLS vs MPEG-DASH
 https://www.ffmpeg.org/
 https://channels.readthedocs.io/en/latest/
+
+[You got that nice tech salary, now what?](https://2024.djangocon.us/talks/you-got-that-nice-tech-salary-now-what/) by Tim Schilling
+
+My points of interest
+* 
 -->
 
 <!--
@@ -982,6 +977,14 @@ https://www.instagram.com/thecanopenerdurham/?hl=en
 https://downtowndurham.com/directory/the-can-opener/
 -->
 
+<!--
+Julie’s zine
+https://wizardzines.com/comics/good-questions-1/
+-->
+
+<!--
+https://github.com/kolofordjango/kolo
+-->
 
 <!--
 Videos
