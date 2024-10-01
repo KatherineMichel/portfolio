@@ -664,7 +664,7 @@ Carlton Gibson, Keanya Phelps, Velda Kiara, Afi Maame Dufie, Sarah Boyce, and ho
 
 ### Queeny's 
 
-After the conference had ended, I joined a group of Wagtail developers and Eva Nanyonga and walked the short distance to [Queeny's](https://www.queenysdurham.com/), a DjangoCon US institution. No one ever seems to turn down dinner at Queeny's. :) 
+After the conference had ended, I joined a group of Wagtail developers and conference speaker Eva Nanyonga and walked the short distance to [Queeny's](https://www.queenysdurham.com/), a DjangoCon US institution. No one ever seems to turn down dinner at Queeny's. :) 
 
 Group pic!
 ![](djangocon-us-2024-recap-images/queenys.jpg)
