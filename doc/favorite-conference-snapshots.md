@@ -13,7 +13,7 @@ I've always wanted one of these! A nice visual metaphor taken along the side of 
 Me, Abigail Afi Gbadago, and Velda Kiara after Black Python Devs Leadership Summit! I am so proud of them for the role they played in organizing an outstanding event. It had a lot of heart.
 
 ![](favorite-conference-snapshots/djangocon-us-2024-defna-board.jpg)
-The DEFNA Board dinner at 21c Museum Hotel Counting House. An unforgettable meal. 
+Wonderful people... the DEFNA Board dinner at 21c Museum Hotel Counting House. An unforgettable meal. 
 
 ![](favorite-conference-snapshots/djangocon-us-2024-me-and-lorenzo.jpg)
 After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! I was thrilled that he had the chance to present a talk and attend the speaker/organizer dinner too. It was a dream come true for him. 
