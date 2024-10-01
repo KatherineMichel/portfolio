@@ -6,26 +6,26 @@ Although these snapshots do not include all of the people who are special to me,
 
 September 22-27, Durham, North Carolina
 
-![](favorite-conference-snapshots/djangocon-us-2024-butterfly.jpg)
-I've always wanted one of these! A nice visual metaphor taken along the side of the conference hotel during Centerfest Fine Art Festival. 
-
-![](favorite-conference-snapshots/djangocon-us-2024-black-python-devs-summit-me-afi-velda.jpg)
-Me, Abigail Afi Gbadago, and Velda Kiara after Black Python Devs Leadership Summit! I am so proud of them for the role they played in organizing an outstanding event. It had a lot of heart.
-
-![](favorite-conference-snapshots/djangocon-us-2024-defna-board.jpg)
-Wonderful people... the DEFNA Board dinner at 21c Museum Hotel Counting House. An unforgettable meal. 
-
-![](favorite-conference-snapshots/djangocon-us-2024-me-and-lorenzo.jpg)
-After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! I was thrilled that he had the chance to present a talk and attend the speaker/organizer dinner too. It was a dream come true for him. 
-
-![](favorite-conference-snapshots/djangocon-us-2024-me-and-simon.jpg)
-Sitting next to Simon Willison, co-creator of Django, at the speaker/organizer dinner, I couldn’t resist getting a photo! I wrote about Simon's PyCon US 2024 talk about Imitation Intelligence in my [PyCon US Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html#simon-willison-keynote). (photo credit: Django Fellow Natalia Bidart)
+![](favorite-conference-snapshots/djangocon-us-2024-queenys.jpg)
+After the conference had ended, I joined a group of Wagtail developers and conference speaker Eva Nanyonga for dinner at nearby Queeny’s.
 
 ![](favorite-conference-snapshots/djangocon-us-2024-me-and-carlton.jpg)
 Me and Carlton Gibson, former Django Fellow, at the first day of sprints
 
-![](favorite-conference-snapshots/djangocon-us-2024-queenys.jpg)
-After the conference had ended, I joined a group of Wagtail developers and conference speaker Eva Nanyonga for dinner at nearby Queeny’s.
+![](favorite-conference-snapshots/djangocon-us-2024-me-and-simon.jpg)
+Sitting next to Simon Willison, co-creator of Django, at the speaker/organizer dinner, I couldn’t resist getting a photo! I wrote about Simon's PyCon US 2024 talk about Imitation Intelligence in my [PyCon US Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html#simon-willison-keynote). (photo credit: Django Fellow Natalia Bidart)
+
+![](favorite-conference-snapshots/djangocon-us-2024-me-and-lorenzo.jpg)
+After years of following each other on social media, Lorenzo Peña and I had the chance to meet in person! I was thrilled that he had the chance to present a talk and attend the speaker/organizer dinner too. It was a dream come true for him. 
+
+![](favorite-conference-snapshots/djangocon-us-2024-defna-board.jpg)
+Wonderful people... the DEFNA Board dinner at 21c Museum Hotel Counting House. An unforgettable meal. 
+
+![](favorite-conference-snapshots/djangocon-us-2024-black-python-devs-summit-me-afi-velda.jpg)
+Me, Abigail Afi Gbadago, and Velda Kiara after Black Python Devs Leadership Summit! I am so proud of them for the role they played in organizing an outstanding event. It had a lot of heart.
+
+![](favorite-conference-snapshots/djangocon-us-2024-butterfly.jpg)
+I've always wanted one of these! A nice visual metaphor taken along the side of the conference hotel during Centerfest Fine Art Festival. 
 
 ## PyCon US 2024
 
