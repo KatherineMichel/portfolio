@@ -6,11 +6,11 @@ Although these snapshots do not include all of the people who are special to me,
 
 September 22-27, Durham, North Carolina
 
-![](favorite-conference-snapshots/djangocon-us-2024-queenys.jpg)
-After the conference had ended, I joined a group of Wagtail developers and conference speaker Eva Nanyonga for dinner at nearby Queeny’s.
-
 ![](favorite-conference-snapshots/djangocon-us-2024-me-and-carlton.jpg)
 Me and Carlton Gibson, former Django Fellow, at the first day of sprints
+
+![](favorite-conference-snapshots/djangocon-us-2024-queenys.jpg)
+After the conference had ended, I joined a group of Wagtail developers and conference speaker Eva Nanyonga for dinner at nearby Queeny’s.
 
 ![](favorite-conference-snapshots/djangocon-us-2024-me-and-simon.jpg)
 Sitting next to Simon Willison, co-creator of Django, at the speaker/organizer dinner, I couldn’t resist getting a photo! I wrote about Simon's PyCon US 2024 talk about Imitation Intelligence in my [PyCon US Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html#simon-willison-keynote). (photo credit: Django Fellow Natalia Bidart)
