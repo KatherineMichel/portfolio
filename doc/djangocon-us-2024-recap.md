@@ -542,7 +542,7 @@ Sitting next to Simon Willison, co-creator of Django, I couldn't resist getting 
 
 I wrote about Simon's PyCon US 2024 talk about Imitation Intelligence in my [PyCon US Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html#simon-willison-keynote). 
 
-Me and Simon (photo credit: Natalia Bidart)
+Me and Simon (photo credit: Django Fellow Natalia Bidart)
 ![](djangocon-us-2024-recap-images/me-and-simon.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
