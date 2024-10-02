@@ -205,7 +205,7 @@ My points of interest
 * Mastery-based learning techniques (1:1 tutoring), social contract
 * Mastery-based learning helps you master teaching ("did I do a good job of teaching")
 * "Education is not the filling of a pail, but the lighting of a fire."
-* "You can't each a person to ride a bicycle by riding a bycicle for them."
+* "You can't each a person to ride a bicycle by riding a bicycle for them."
 * Growth mindset versus fixed mindset
 * [Huberman Lab Podcast](https://www.hubermanlab.com/podcast)
 * You should have a growth mindset about your growth mindset :)
