@@ -460,17 +460,6 @@ My points of interest
 
 ### Tuesday Afternoon Talks
 
-[Upgrading EOL Django: A Journey from V1 to V5](https://2024.djangocon.us/talks/upgrading-eol-django-a-journey-from-v1-to-v5/) by Michael Riley
-
-My points of interest
-* 
-
-[Lessons from E2E Testing Web Applications](https://2024.djangocon.us/talks/lessons-from-e2e-testing-web-applications/) by Avindra Fernando
-
-My points of interest
-* 
-
-
 [Only reliable Data: Protecting Database Integrity](https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/) by Eva Nanyonga
 
 My points of interest
@@ -512,11 +501,6 @@ https://publichousingapplication.ocd.state.ma.us/
 
 https://2024.djangocon.us/talks/operations-missing-django-piece/
 -->
-
-[Django UI Components for Perfectionists with Deadlines](https://2024.djangocon.us/talks/reusable-django-template-components-for-perfectionists-with-deadlines/) by Hernan Lozano
-
-My points of interest
-* 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -561,18 +545,14 @@ Super Pac-Man
 Me standing in front of the bar at Boxcar
 ![](djangocon-us-2024-recap-images/boxcar-arcade.jpg)
 
-<!--
-Photo credit
--->
-
 <sub>[**back to top**](#table-of-contents)</sub>
-
 
 ## Wednesday
 
 Wednesday was deep dive day. 
 
 ### Wednesday Morning Talks
+
 
 [Keynote - The Fellowship of the Pony](https://2024.djangocon.us/talks/keynote-wednesday/) by Natalia Bidart
 
@@ -607,7 +587,7 @@ Jon during his lightning talk
 ![](djangocon-us-2024-recap-images/jon-lightning-talk.jpg)
 
 <!--
-Slide screenshot
+Lightning talk slide screenshot
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -965,6 +945,25 @@ https://www.ffmpeg.org/
 https://channels.readthedocs.io/en/latest/
 
 [You got that nice tech salary, now what?](https://2024.djangocon.us/talks/you-got-that-nice-tech-salary-now-what/) by Tim Schilling
+
+My points of interest
+* 
+-->
+
+<!--
+[Upgrading EOL Django: A Journey from V1 to V5](https://2024.djangocon.us/talks/upgrading-eol-django-a-journey-from-v1-to-v5/) by Michael Riley
+
+My points of interest
+* 
+
+[Lessons from E2E Testing Web Applications](https://2024.djangocon.us/talks/lessons-from-e2e-testing-web-applications/) by Avindra Fernando
+
+My points of interest
+* 
+-->
+
+<!--
+[Django UI Components for Perfectionists with Deadlines](https://2024.djangocon.us/talks/reusable-django-template-components-for-perfectionists-with-deadlines/) by Hernan Lozano
 
 My points of interest
 * 
