@@ -629,7 +629,35 @@ My points of interest
 * Blog and DjangoChat
 * Paths: monitoring, evaluation, and learning for development and sustainability projects
 * A year and a half in, busy bootstrapping, this talk is about that
-* 2018: API first, 
+* 2018: API first, API only?
+* Backend with a REST API to consume with the JavaScript client of the moment
+* 2024: "HTML over the wire" (HTMX, Turbo, Unpoly, and co.)
+* 2024: something else changed, where did all the money go?
+* Inflation that followed the pandemic, global supply chain crisis, Russia/Ukraine war
+* Tech layoffs, can't "pick up a big bag of cash to pay for a multidisciplinary team to build the app from day one."
+* Limited budget, limited time, Carlton was the only worker on the tech side
+* By leveraging Django, you can get as much done as teams using more complex stacks
+* "Django really shines exactly when the money is tight"
+* Django is the framework for perfectionists with deadlines... "When these deadlines are financial, all the more so."
+* "Django is the perfect framework for our post zero interest rate world.
+* Locality of behavior, a way of assessing code. Everything you need to understand that code is in one place. Makes code easier to reason about, easier to maintain, easier to iterate on. 
+* The idea came from Carson Gross and HTMX
+* Tailwind CSS- you can embed in the HTML to control the styling rather than keeping that code in a CSS file
+* Alpine.js- a rugged JavaScript-like framework that lets you define your component behaviors in your HTML rather than in a separate JavaScript file
+* HTMX adds a small set of HTML traits that expand the power of HTMX, all again without leaving your HTML
+* Neopolitan- his take on quick CRUD views
+* django-template-partials
+* Locality of behavior can help you go faster
+* Locality of behavior is a starting point not a destination
+* "Use your judgement as to when you sacrifice a bit of locality of behavior as your code scales to gain in maintainability. 
+* Locality of benavior is a tool. It doesn't mean we abandon the good engineering practices we've learned since we were juniors.
+* "Holding the line on locality of behavior can really pay dividends."
+* Dry, separation of concerns, "but for everyone of those, there's a write it twice and three times refactor."
+* Luke Plant: [Programming Mantras are Proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
+* [Protected variations](https://www.martinfowler.com/ieeeSoftware/protectedVariation.pdf)
+* Code that is likely to change, by focusing on locality of behavior
+* Violation of protected variations
+* 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
