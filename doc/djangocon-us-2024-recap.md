@@ -489,6 +489,8 @@ https://packaging.python.org/en/latest/specifications/entry-points/
 [Faster, leaner, greener: 10x lower website carbon emissions](https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/) by Thibaud Colas
 
 My points of interest
+* Wagtail developer, DSF Board Member
+* wagtail.org/10x-lower
 * 
 
 [Fighting Homelessness with Django](https://2024.djangocon.us/talks/fighting-homelessness-with-django/) by Benjamin "Zags" Zagorsky
