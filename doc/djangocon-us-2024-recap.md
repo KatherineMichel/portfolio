@@ -437,8 +437,20 @@ My points of interest
 * psycopg, postreSQL, rows library
 * [cookie-cutter-dokku-django](https://github.com/PythonicCafe/cookiecutter-dokku-django)
 * Brasil.IO dataset Manifesto
-* First implementation: lazy
-* TBC
+* First implementation: lazy, primary key, types: UUID, Date, Text, Integer, Decimal, Boolean, no indexes
+* You can waste a lot of space creating indexes that won't be used
+* The UUID field could be the primary key field and prevent creating two separate columns
+* Size of the ID: do you need a sequential ID? No, because of UUID hash.
+* Starting at Django 3.2 (AutoField), the ID of each field went from 4 to 8 bytes (BigAutoField).
+* Settings- change default AutoField setting
+* How are your IDs created: perferred that they are created by you (offline generated IDs, urlid.org- speaker's methodology)
+* Company: unique id, person: SSN
+* Second implentation: compact
+* Don't use Django pk (there is a pk column already)
+* Use select min/max fieldname to check values of table- use SmallIntegerField instead of IntegerField
+* SmallIntegerField, IntegerField, BigIntegerField
+* For 100 million rows with 5 columns, save 1 Gigabyte
+* 
 
 [Django + Alpine.js + htmx Ups & Downs](https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/) by Karen Tracey
 
