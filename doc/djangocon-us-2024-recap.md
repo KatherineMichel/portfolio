@@ -21,7 +21,7 @@ Table of Contents
     - [Monday Afternoon Talks](#monday-afternoon-talks)
         - [Troubleshooting is a Lifestyle 😎 by Jack Linke](#troubleshooting-is-a-lifestyle--by-jack-linke)
         - [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related() by Christopher Adams](#a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select_related-and-prefetch_related-by-christopher-adams)
-        - [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika](#)
+        - [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika](#unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency-by-ron-maravanyika)
     - [DEFNA Board Dinner](#defna-board-dinner)      
 - [Tuesday](#tuesday)
     - [Tuesday Morning Talks](#tuesday-morning-talks)
