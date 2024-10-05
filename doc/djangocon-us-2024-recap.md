@@ -272,6 +272,28 @@ North Carolina-inspired lunch
 
 [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/) by Christopher Adams
 
+Because I am already familiar with diagnosing and fixing N+1 problems, I watched Christopher's talk for new ideas. 
+
+A few reminders
+* Querysets are immutable
+* Querysets are lazy (they do not hit the database until they are evaluated). Chris showed examples. 
+
+A few ways to profile SQL queries
+* Set Django logging to debug and stream results
+* DB all-statement logging (caution- this will fill up the logs, so perhaps run it for a minute or so in staging, not prod)
+* [django-debug-toolbar](https://django-debug-toolbar.readthedocs.io/en/latest/) (install conditionally)
+  
+Good points about select_related() and prefetch_related()
+* Database transaction latency is increased if the data is in another datacenter
+* Prefetch returns another queryset and this can be more efficient than if the database does it
+* People in the 90th percentile who have a slow machine can benefit
+
+<!--
+Other django-debug-toolbar uses slide
+-->
+
+[Code samples](https://github.com/adamsc64/a-related-matter)
+
 [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/) by Ron Maravanyika
 
 <sub>[**back to top**](#table-of-contents)</sub>
