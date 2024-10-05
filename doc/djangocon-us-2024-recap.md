@@ -450,8 +450,51 @@ My points of interest
 * Use select min/max fieldname to check values of table- use SmallIntegerField instead of IntegerField
 * SmallIntegerField, IntegerField, BigIntegerField
 * For 100 million rows with 5 columns, save 1 Gigabyte
-* 
+* Saved almost 3% space
+* Since UUID is now PK, have index on this field
+* Shows query in logs
+* Third implementation: aligined (column order can affect used space)
+* First: fixed size columns (bigger than smaller), then variable-size
+* [Data alignment in Postgres](https://www.enterprisedb.com/postgres-tutorials/data-alignment-postgresql) link
+* Saved almost 3% space
+* Comments for how many bytes each field uses
+* Also faster for executing queries
+* Use tools to auto-discover types (rows schema --format=django)
+* Fourth implementation: full-text search
+* Skipping natural step- make indexes for like queries
+* Add a new field called search data- search vector field, take text wants to index, create vector and store it on the column
+* Also created index for the column- will be easier for postgres to precalculate vector
+* 3 scenarios: no search vector field (could use full text search by usign some postgress functions to create this search vector transform the strings in this column into the search vector and run a query against this vector)
+* Postgres will go through all the rows of the table, calculate the vector, then check if the vector matches my query
+* If he added this field, he will precalculate the vector, so Postgres would also run through all the row, but the row will already be calculated, so it can just run the query against. But if add an index, Postgres would not need to go through all the rows. Can use the index to find out which vectors to check and it will be much faster.
+* Trigger- way for database to perform tasks auto. Much faster than doing it in app.
+* For example: update search vector based on new data in the column
+* Postgres has been optimized for years versus app
+* Don't put too much business logic in trigger
+* Table size is bigger, but have full text search
+* Full text search text uses different ranking algorithm, but result is consistent
+* Fifth implentation: no SearchVectorField (not creating the search vector, but precalculating the vector)
+* Three scenarios: precalculating, calculating the vector during search execution and also matching the vectors for executing the search, second: creating this field without an index, third: creating the field and also the index
+* Other option: create an index of the search vector without having to create the search vector (complex in beginning, but don't need to use index for just the plain value of the column). You can create the expression based on the column values, then create an index for that expression.
+* If Postgres detects your query using that expression, it can use that index
+* Example: index column a + b, precalculated and stored in index, not another column
+* No trigger, no more search data field, compound GinIndex
+* Save 20% compared to the 4th implementation
+* Default is nill fueled by the trigger, created here this index, GinIndex for the field, and the migration creating the trigger is simple. Give the trigger a simple name. 
+* Before any insert or update on this table, postgres will, for each row, execute this feature
+* Postgres is calling a function that updates the search vector field, he passes the name of the field, which has the search vector, and the fields he wants it to concatenate and search on the search vector
+* On the last version, I don't have the search data here anymore
+* He has the search vector inside the index definition
+* It's going to calculate this and store it directly in the index
+* Trigger is not needed. It's going to do it automatically.
+* You could use other compound indexes to make this kind of query faster
+* More posgres specific features
+* Postgres has full text search, but you have to build the infrastructure- demo
+* Executing the search, ranking the results, ordering the ranking
+* Code on GitHub
+* Importing data info (create, bulk_create, pgimport()- CSV)
 
+<!--
 [Django + Alpine.js + htmx Ups & Downs](https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/) by Karen Tracey
 
 My points of interest
@@ -462,11 +505,19 @@ My points of interest
 * Lack of full stack
 * "We're all on a walk on the beach"
 * Karen would like to encourage sharing of information. 
-
+-->
+  
 [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/) by Jacob Kaplan-Moss
 
 My points of interest
-* 
+* The DSF's budget today
+* Most money in current budget goes to salary for fellows (health of project) and admin (health of foundation)
+* What if we quadrupled it? 1,000,000 is feasible
+* His wishlist- not speaking for the DSF
+* Dramatically expand grants
+* Major donors versus many-small funders (probably not realistic and that's probably ok)
+* Sue Gardner of Wikipedia Foundation: [What's Really Wrong With Non-Profits and How We Can Fix It? ](https://suegardner.org/2013/10/20/whats-really-wrong-with-nonprofits-and-how-we-can-fix-it/)
+* How do we get there?
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -487,13 +538,12 @@ My points of interest
 * The database is only accessed when the query is evaluated
 * Django Debug Toolbar, SQL query logging
 
-
+<!--
 [How to design and implement extensible software with plugins](https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-with-plugins/) by Simon Willison
 
 My points of interest
 * 
 
-<!--
 https://pluggy.readthedocs.io/en/stable/
 https://packaging.python.org/en/latest/specifications/entry-points/
 -->
@@ -505,12 +555,12 @@ My points of interest
 * wagtail.org/10x-lower
 * 
 
+<!--
 [Fighting Homelessness with Django](https://2024.djangocon.us/talks/fighting-homelessness-with-django/) by Benjamin "Zags" Zagorsky
 
 My points of interest
 * 
 
-<!--
 https://publichousingapplication.ocd.state.ma.us/
 
 https://2024.djangocon.us/talks/operations-missing-django-piece/
@@ -617,23 +667,23 @@ My points of interest
 https://github.com/celery/celery
 -->
 
+<!--
 [WebRTC with Django, Channels, HTMX, and coturn](https://2024.djangocon.us/talks/webrtc-with-django-channels-htmx-and-coturn/) by Ken Whitesell
 
 My points of interest
 * 
 
-<!--
 Web Real Time Communications (WebRTC)
 https://en.wikipedia.org/wiki/WebRTC
 https://github.com/coturn/coturn
 -->
 
+<!--
 [Django User Model: Past, Present, and Future](https://2024.djangocon.us/talks/django-user-model-past-present-and-future/) by Will Vincent
 
 My points of interest
 * 
 
-<!--
 https://buttondown.com/carlton/archive/evolving-djangos-authuser/
 -->
 
