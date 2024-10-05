@@ -193,7 +193,7 @@ Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Gr
 
 ### Monday Morning Talks
 
-#### [Keynote - Power to the People who Teach the People](https://2024.djangocon.us/talks/keynote-monday/) by Sheena O'Connell
+#### Keynote - Power to the People who Teach the People by Sheena O'Connell
 
 Sheena is interested in [metacognition](https://en.wikipedia.org/wiki/Metacognition) or how people learn. 
 
@@ -201,8 +201,8 @@ She talked about common learning anti-patterns, what a normal classroom looks li
 
 She introduced [Bloom's 2 Sigma Problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem). "The average student tutored one-to-one using mastery learning techniques performed two standard deviations better than students educated in a classroom environment."
 
-![](djangocon-us-2024-recap-images/sheena-mastery-learning-techniques.png)
 Mastery-learning techniques
+![](djangocon-us-2024-recap-images/sheena-mastery-learning-techniques.png)
 
 A few advantages of mastery-based learning:
 * Social contract- students are more motivated due to buy-in
@@ -228,13 +228,9 @@ More useful to me resources
 * [The Protégé Effect](https://www.growthengineering.co.uk/protege-effect)
 * [Stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)… sense of belonging
 
-[The Magic of Dependencies Installing Themselves](https://2024.djangocon.us/talks/the-magic-of-dependencies-installing-themselves/) by Ilerioluwakiiye Abolade
-
-Ilerioluwakiiye talked about the challenges with traditional Django Dependency management and how [PEP 723](https://peps.python.org/pep-0723/) solves these challenges. 
-
 [Choosing Wisely: SPA vs. HTMX for Your Next Web Project](https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/) by Chris May
 
-[Error Culture](https://2024.djangocon.us/talks/error-culture/) by Ryan Cheley
+#### Error Culture by Ryan Cheley
 
 Ryan defined Error Culture: workers ignore automated email alerts, creating a culture of reactive firefighting. 
 
@@ -242,13 +238,11 @@ Why does it happen? Lack of understanding, error/alert fatigue, hero culture.
 
 If an alert is not important: don't just delete the alert. Delete the mechanism that created the alert. 
 
-Make sure an alert is...
-
+Make sure an alert is... actionable, important, sent to the right people
 ![](djangocon-us-2024-recap-images/ryan-venn-diagram.png)
-Actionable, important, sent to the right people
 
-![](djangocon-us-2024-recap-images/ryan-best-example.png)
 What, why, who, verb
+![](djangocon-us-2024-recap-images/ryan-best-example.png)
 
 More useful to me resources
 * [Chesterton's Fence](https://fs.blog/chestertons-fence/)
@@ -270,7 +264,7 @@ North Carolina-inspired lunch
 
 [Troubleshooting is a Lifestyle 😎](https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/) by Jack Linke
 
-[A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](https://2024.djangocon.us/talks/a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related/) by Christopher Adams
+#### A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related() by Christopher Adams
 
 Because I am already familiar with diagnosing and fixing N+1 problems, I watched Christopher's talk for new ideas. 
 
@@ -288,8 +282,8 @@ Good points about select_related() and prefetch_related()
 * Prefetch returns another queryset and this can be more efficient than if the database does it
 * People in the 90th percentile who have a slow machine can benefit
 
-![](djangocon-us-2024-recap-images/christopher-ddt-other-uses.png)
 Other django-debug-toolbar uses
+![](djangocon-us-2024-recap-images/christopher-ddt-other-uses.png)
 
 [Code samples](https://github.com/adamsc64/a-related-matter)
 
