@@ -201,7 +201,7 @@ She talked about common learning anti-patterns, what a normal classroom looks li
 
 She introduced [Bloom's 2 Sigma Problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem). "The average student tutored one-to-one using mastery learning techniques performed two standard deviations better than students educated in a classroom environment."
 
-![](djangocon-us-2024-recap-images/sheena-mastery-learning-techniques.jpg)
+![](djangocon-us-2024-recap-images/sheena-mastery-learning-techniques.png)
 Mastery-learning techniques
 
 A few advantages of mastery-based learning:
@@ -244,10 +244,10 @@ If an alert is not important: don't just delete the alert. Delete the mechanism 
 
 Make sure an alert is...
 
-![](djangocon-us-2024-recap-images/ryan-venn-diagram.jpg)
+![](djangocon-us-2024-recap-images/ryan-venn-diagram.png)
 Actionable, important, sent to the right people
 
-![](djangocon-us-2024-recap-images/ryan-best-example.jpg)
+![](djangocon-us-2024-recap-images/ryan-best-example.png)
 What, why, who, verb
 
 More useful to me resources
