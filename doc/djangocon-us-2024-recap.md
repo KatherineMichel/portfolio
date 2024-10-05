@@ -295,9 +295,8 @@ Other django-debug-toolbar uses
 
 [Code samples](https://github.com/adamsc64/a-related-matter)
 
-<!--
-Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika
--->
+#### Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika
+
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
