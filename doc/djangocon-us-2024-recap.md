@@ -189,17 +189,69 @@ Djangonauts at Ponysaurus
 
 ## Monday
 
-### Monday Morning Talks
-
 Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Grandstaff kicked off the conference. 
 
-[Keynote - Power to the People who Teach the People](https://2024.djangocon.us/talks/keynote-monday/) by Sheena O'Connell
+### Monday Morning Talks
+
+#### [Keynote - Power to the People who Teach the People](https://2024.djangocon.us/talks/keynote-monday/) by Sheena O'Connell
+
+Sheena is interested in [metacognition](https://en.wikipedia.org/wiki/Metacognition) or how people learn. 
+
+She talked about common learning anti-patterns, what a normal classroom looks like, and normal success distribution. 
+
+She introduced [Bloom's 2 Sigma Problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem). "The average student tutored one-to-one using mastery learning techniques performed two standard deviations better than students educated in a classroom environment."
+
+![](djangocon-us-2024-recap-images/sheena-mastery-learning-techniques.jpg)
+Mastery-learning techniques
+
+A few advantages of mastery-based learning:
+* Social contract- students are more motivated due to buy-in
+* It helps students develop a growth mindset 
+* It helps the teacher master teaching ("did I do a good job of teaching?")
+
+A few thoughts on learning
+* The power of compounding over time
+* If you teach one person, it can impact many others
+* Struggle is good, teach students how to learn
+* Some teaching techniques are more powerful than others
+* "Trust no one"
+* "You can't each a person to ride a bicycle by riding a bicycle for them."
+
+"Education is not the filling of a pail, but the lighting of a fire."
+
+Sheena has started [The Guild of Educators](https://www.sheenaoc.com/articles/2024-09-12-introducing-goe). 
+
+More useful to me resources
+* [Make it Stick](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013) book
+* [Huberman Lab Podcast](https://www.hubermanlab.com/podcast)
+* [Retrieval practice](https://www.retrievalpractice.org/why-it-works)
+* [The Protégé Effect](https://www.growthengineering.co.uk/protege-effect)
+* [Stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)… sense of belonging
 
 [The Magic of Dependencies Installing Themselves](https://2024.djangocon.us/talks/the-magic-of-dependencies-installing-themselves/) by Ilerioluwakiiye Abolade
+
+Ilerioluwakiiye talked about the challenges with traditional Django Dependency management and how [PEP 723](https://peps.python.org/pep-0723/) solves these challenges. 
 
 [Choosing Wisely: SPA vs. HTMX for Your Next Web Project](https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/) by Chris May
 
 [Error Culture](https://2024.djangocon.us/talks/error-culture/) by Ryan Cheley
+
+Ryan defined Error Culture: workers ignore automated email alerts, creating a culture of reactive firefighting. 
+
+Why does it happen? Lack of understanding, error/alert fatigue, hero culture. 
+
+If an alert is not important: don't just delete the alert. Delete the mechanism that created the alert. 
+
+Make sure an alert is...
+
+![](djangocon-us-2024-recap-images/ryan-venn-diagram.jpg)
+Actionable, important, sent to the right people
+
+![](djangocon-us-2024-recap-images/ryan-best-example.jpg)
+What, why, who, verb
+
+More useful to me resources
+* [Chesterton's Fence](https://fs.blog/chestertons-fence/)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -359,6 +411,11 @@ Lightning talk slide screenshot
 [Django & Celery: A love story of async proportions](https://2024.djangocon.us/talks/django-celery-a-love-story-of-async-proportions/) by Hugo Bessa
 
 My points of interest
+* Django performance, Python is slow, not built to work with multi-thread
+* Running operations in the background
+* Requests should be processed quickly for a good user experience
+* Celery: async task queue or job queue which is based on distributed messaging passing
+* Separates async task execution from main app execution so that it doesn't run the same processes as Django runs
 * 
 
 <!--
