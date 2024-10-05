@@ -14,6 +14,10 @@ Table of Contents
     - [Django Social](#django-social)
 - [Monday](#monday)
     - [Monday Morning Talks](#monday-morning-talks)
+        - [Keynote - Power to the People who Teach the People by Sheena O'Connell](#keynote---power-to-the-people-who-teach-the-people-by-sheena-oconnell)
+        - [Choosing Wisely: SPA vs. HTMX for Your Next Web Project by Chris May](#monday-morning-talks)
+        - [Error Culture by Ryan Cheley](#error-culture-by-ryan-cheley)
+
     - [Shrimp and Grits](#shrimp-and-grits)
     - [Monday Afternoon Talks](#monday-afternoon-talks)
     - [DEFNA Board Dinner](#defna-board-dinner)      
@@ -228,7 +232,8 @@ More useful to me resources
 * [The Protégé Effect](https://www.growthengineering.co.uk/protege-effect)
 * [Stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)… sense of belonging
 
-[Choosing Wisely: SPA vs. HTMX for Your Next Web Project](https://2024.djangocon.us/talks/choosing-wisely-spa-vs-htmx-for-your-next-web-project/) by Chris May
+#### Choosing Wisely: SPA vs. HTMX for Your Next Web Project by Chris May
+
 
 #### Error Culture by Ryan Cheley
 
