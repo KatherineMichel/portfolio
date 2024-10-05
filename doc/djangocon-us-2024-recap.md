@@ -17,9 +17,11 @@ Table of Contents
         - [Keynote - Power to the People who Teach the People by Sheena O'Connell](#keynote---power-to-the-people-who-teach-the-people-by-sheena-oconnell)
         - [Choosing Wisely: SPA vs. HTMX for Your Next Web Project by Chris May](#monday-morning-talks)
         - [Error Culture by Ryan Cheley](#error-culture-by-ryan-cheley)
-
     - [Shrimp and Grits](#shrimp-and-grits)
     - [Monday Afternoon Talks](#monday-afternoon-talks)
+        - [Troubleshooting is a Lifestyle 😎 by Jack Linke](#)
+        - [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related() by Christopher Adams](#)
+        - [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika](#)
     - [DEFNA Board Dinner](#defna-board-dinner)      
 - [Tuesday](#tuesday)
     - [Tuesday Morning Talks](#tuesday-morning-talks)
@@ -267,7 +269,8 @@ North Carolina-inspired lunch
 
 ### Monday Afternoon Talks
 
-[Troubleshooting is a Lifestyle 😎](https://2024.djangocon.us/talks/troubleshooting-is-a-lifestyle/) by Jack Linke
+#### Troubleshooting is a Lifestyle 😎 by Jack Linke
+
 
 #### A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related() by Christopher Adams
 
@@ -292,7 +295,9 @@ Other django-debug-toolbar uses
 
 [Code samples](https://github.com/adamsc64/a-related-matter)
 
-[Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/) by Ron Maravanyika
+<!--
+Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika
+-->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
