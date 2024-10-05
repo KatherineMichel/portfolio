@@ -288,9 +288,8 @@ Good points about select_related() and prefetch_related()
 * Prefetch returns another queryset and this can be more efficient than if the database does it
 * People in the 90th percentile who have a slow machine can benefit
 
-<!--
-Other django-debug-toolbar uses slide
--->
+![](djangocon-us-2024-recap-images/christopher-ddt-other-uses.png)
+Other django-debug-toolbar uses
 
 [Code samples](https://github.com/adamsc64/a-related-matter)
 
