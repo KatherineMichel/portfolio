@@ -493,19 +493,6 @@ My points of interest
 * Executing the search, ranking the results, ordering the ranking
 * Code on GitHub
 * Importing data info (create, bulk_create, pgimport()- CSV)
-
-<!--
-[Django + Alpine.js + htmx Ups & Downs](https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/) by Karen Tracey
-
-My points of interest
-* North Carolina Outerbanks Nags Head
-* The promise of a sunny day
-* Overlap between frontend frameworks and Django
-* The frontend frameworks would expect that instead of sending HTML, the server would be sending JSON. And the frontend frameworks would take the JSON and turn that into HTML.
-* Lack of full stack
-* "We're all on a walk on the beach"
-* Karen would like to encourage sharing of information. 
--->
   
 [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/) by Jacob Kaplan-Moss
 
@@ -538,33 +525,12 @@ My points of interest
 * The database is only accessed when the query is evaluated
 * Django Debug Toolbar, SQL query logging
 
-<!--
-[How to design and implement extensible software with plugins](https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-with-plugins/) by Simon Willison
-
-My points of interest
-* 
-
-https://pluggy.readthedocs.io/en/stable/
-https://packaging.python.org/en/latest/specifications/entry-points/
--->
-
 [Faster, leaner, greener: 10x lower website carbon emissions](https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/) by Thibaud Colas
 
 My points of interest
 * Wagtail developer, DSF Board Member
 * wagtail.org/10x-lower
 * 
-
-<!--
-[Fighting Homelessness with Django](https://2024.djangocon.us/talks/fighting-homelessness-with-django/) by Benjamin "Zags" Zagorsky
-
-My points of interest
-* 
-
-https://publichousingapplication.ocd.state.ma.us/
-
-https://2024.djangocon.us/talks/operations-missing-django-piece/
--->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -667,26 +633,6 @@ My points of interest
 https://github.com/celery/celery
 -->
 
-<!--
-[WebRTC with Django, Channels, HTMX, and coturn](https://2024.djangocon.us/talks/webrtc-with-django-channels-htmx-and-coturn/) by Ken Whitesell
-
-My points of interest
-* 
-
-Web Real Time Communications (WebRTC)
-https://en.wikipedia.org/wiki/WebRTC
-https://github.com/coturn/coturn
--->
-
-<!--
-[Django User Model: Past, Present, and Future](https://2024.djangocon.us/talks/django-user-model-past-present-and-future/) by Will Vincent
-
-My points of interest
-* 
-
-https://buttondown.com/carlton/archive/evolving-djangos-authuser/
--->
-
 [API Maybe: Bootstrapping a Web Application circa 2024](https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/) by Carlton Gibson
 
 My points of interest
@@ -722,6 +668,19 @@ My points of interest
 * Code that is likely to change, by focusing on locality of behavior
 * Violation of protected variations
 * 
+
+<!--
+[Django + Alpine.js + htmx Ups & Downs](https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/) by Karen Tracey
+
+My points of interest
+* North Carolina Outerbanks Nags Head
+* The promise of a sunny day
+* Overlap between frontend frameworks and Django
+* The frontend frameworks would expect that instead of sending HTML, the server would be sending JSON. And the frontend frameworks would take the JSON and turn that into HTML.
+* Lack of full stack
+* "We're all on a walk on the beach"
+* Karen would like to encourage sharing of information. 
+-->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -1059,6 +1018,47 @@ My points of interest
 
 My points of interest
 * 
+-->
+
+<!--
+[How to design and implement extensible software with plugins](https://2024.djangocon.us/talks/how-to-design-and-implement-extensible-software-with-plugins/) by Simon Willison
+
+My points of interest
+* 
+
+https://pluggy.readthedocs.io/en/stable/
+https://packaging.python.org/en/latest/specifications/entry-points/
+-->
+
+<!--
+[WebRTC with Django, Channels, HTMX, and coturn](https://2024.djangocon.us/talks/webrtc-with-django-channels-htmx-and-coturn/) by Ken Whitesell
+
+My points of interest
+* 
+
+Web Real Time Communications (WebRTC)
+https://en.wikipedia.org/wiki/WebRTC
+https://github.com/coturn/coturn
+-->
+
+<!--
+[Django User Model: Past, Present, and Future](https://2024.djangocon.us/talks/django-user-model-past-present-and-future/) by Will Vincent
+
+My points of interest
+* 
+
+https://buttondown.com/carlton/archive/evolving-djangos-authuser/
+-->
+
+<!--
+[Fighting Homelessness with Django](https://2024.djangocon.us/talks/fighting-homelessness-with-django/) by Benjamin "Zags" Zagorsky
+
+My points of interest
+* 
+
+https://publichousingapplication.ocd.state.ma.us/
+
+https://2024.djangocon.us/talks/operations-missing-django-piece/
 -->
 
 <!--
