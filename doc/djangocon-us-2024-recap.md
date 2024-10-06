@@ -408,7 +408,7 @@ Other django-debug-toolbar uses
 
 [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/) by Ron Maravanyika
 
-Ron said that firstly, we need to define effiency. 
+Ron said that firstly, we need to define efficiency. 
 
 Benchmarking is looking at time. Profiling is looking at resource usage. 
 
@@ -423,6 +423,9 @@ Ron explained some possible tools and gave demos
 * django-silk decorator method and context manager method can be used to profile small blocks of code
 * django-silk [Dynamic profiling](https://github.com/jazzband/django-silk?tab=readme-ov-file#dynamic-profiling) can be used to profile something you don't have access to
 
+Summary
+![](djangocon-us-2024-recap-images/ron-summary.png)
+ 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### DEFNA Board Dinner
