@@ -256,6 +256,11 @@ SPA downsides
 
 <!--
 TBC
+
+When SPAs could be worth their weight
+
+How the front-end is coping
+
 -->
 
 Chris introduced tools that can be used to create a SPA-like experience
@@ -272,7 +277,7 @@ Three HTMX success stories
 * [contexte](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
 * [OpenUnited](https://www.linkedin.com/feed/update/urn:li:activity:7109116330770878464/)
 
-Notably, OpenUnited dev velocity improved by 500% after switching to HTMX. 
+Notably, OpenUnited developer velocity improved by at least 500% after switching to HTMX. 
   
 Chris will follow up with a blog post with more info about streaming HTML components. 
 
