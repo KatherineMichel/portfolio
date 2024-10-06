@@ -331,7 +331,7 @@ Jack started with some Django built-in troubleshooting tools
 * Template error pages
 * Error reporting by email
 * System checks framework (it's extensible- dj-stripe is an example)
-* Console and logging (for extra context and use verbosity settings 1-3)
+* Console and logging (for extra context, use verbosity settings 1-3)
 
 Django System Checks Framework
 ![](djangocon-us-2024-recap-images/jack-django-systems-check-framework.png)
@@ -346,13 +346,13 @@ He then moved on to some third-party packages and tools
 
 He gave an exemple of extending the Django admin by adding checks. He had an issue with Celery- too few tasks were processed. He put a panel into the admin to capture the last 24 hours of tasks processed through Celery. 
 
-Strategies for dissecting complex issues
-![](djangocon-us-2024-recap-images/jack-strategies-for-dissecting-complex-issues.png)
-
-He then gave some general tips for troubleshooting
+He gave some general tips for troubleshooting
 * Use the power of isolating variables and narrowing scope
 * Be like Frances Elizabeth Holberton- "break the execution- does the system work up to this point." Similarly, Python Debugger (PDB) can be used to create breakpoints to step through the code to find the issue. 
 * Avoid tunnel vision- seek broad pespectives and alternative approaches
+
+Strategies for dissecting complex issues
+![](djangocon-us-2024-recap-images/jack-strategies-for-dissecting-complex-issues.png)
 
 "A problem well stated is a problem half solved." John Dewey
 
@@ -412,7 +412,7 @@ Ron Maravanyika said that firstly, we need to define efficiency.
 
 Benchmarking is looking at time. Profiling is looking at resource usage. 
 
-Process to Follow
+Process to follow
 ![](djangocon-us-2024-recap-images/ron-process-to-follow.png)
  
 Ron explained some possible tools and gave demos
@@ -532,8 +532,8 @@ More useful to me resources
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-
 ### Faster, leaner, greener: 10x lower website carbon emissions
+
 
 Thibaud Colas
 
@@ -541,6 +541,7 @@ My points of interest
 * Wagtail developer, DSF Board Member
 * wagtail.org/10x-lower
 * 
+
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -591,11 +592,11 @@ Me standing in front of the bar at Boxcar
 
 Wednesday was deep dive day. 
 
-
-
 ### Keynote - The Fellowship of the Pony
 
-Natalia Bidart
+
+
+Natalia Bidart, Django Fellow
 
 My points of interest
 * 
@@ -604,7 +605,7 @@ My points of interest
 
 ### Hidden gems of Django 5.x
 
-Sarah Boyce
+Sarah Boyce, Django Fellow
 
 My points of interest
 * 
@@ -612,6 +613,7 @@ My points of interest
 <!--
 https://docs.djangoproject.com/en/5.1/releases/5.0/
 -->
+
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -624,10 +626,10 @@ Jon during his lightning talk
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-
 ### API Maybe: Bootstrapping a Web Application circa 2024
 
-Carlton Gibson
+
+Carlton Gibson, former Django Fellow
  
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -658,37 +660,37 @@ Group pic!
 
 I chatted with Thibaud Colas about his sustainability talk and got some tips from him. 
 
-I listened in on a conversation with Lee Trout and Adam Fast and learned about some new tools. 
+I listened in on a conversation with Lee Trout and Adam Fast and learned about some tools tips. 
+
+I had the chance to catch up with Carol Ganz, fellow DEFNA Board Member. 
 
 I pointed out Chris May's HTMX talk to Philip, a UI developer. He didn't know about HTMX and found it very enlightening. 
-
-I chatted with Jay Miller about how DEFNA could better serve Black Python Devs and reported feedback. 
 
 I found out from Frank Wiles that there is some early talk about a possible Lawrence Django event. 
 
 I chatted with Simon Willison about some of my work duties, and he identified them as senior level. He told me about his excitement for his upcoming trip to see the [V & E Simonetti Historic Tuba Collection](https://www.atlasobscura.com/places/v-e-simonetti-historic-tuba-collection).
 
+After avidly following each other on social media for years, Sangeeta Jadoonanan and I finally met in person! 
+
 I spent some much needed quality time with Lacey Henschel. She told me that I can learn anything. :) 
 
 I met Django Fellow Sarah Boyce for the first time. We chatted about her work and DjangoCon Europe. In addition to her DjangoCon US talk, Sarah recently gave an excellent talk [Django Core Demystified](https://youtu.be/8rIylYYCmSI?si=8RsuP6VX41mVS0p6). 
 
+I chatted with Jay Miller about how DEFNA could better serve Black Python Devs and reported feedback. 
+
 I connected Thibaud with myself, Nicole, and Peter to talk about DjangoCon US website improvements and using it for other conference sites. 
 
 <!--
-Thibaud- caching
-
-After avidly following each other on social media, 
-Sanjeets Joodnan
-
-Conversation with Carol
-
 Noah and Jib- MongoDB
+Includes joins
+See lightning talk
+https://github.com/mongodb-labs/django-mongodb
 
+Thibaud- caching
 Tools list
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
-
 
 ### Swag
 
