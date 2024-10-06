@@ -253,19 +253,26 @@ Chris started this year's talk off by asking some questions: Are you using a SPA
 SPA downsides
 * Slow startup time
 * Bad user experience on slow devices
-
-![](djangocon-us-2024-recap-images/chris-specrum.png)
+* "A massive investment in controlling complexity is the only way to scale JS-driven frontends." Alex Russell in [The Market for Lemons](https://infrequently.org/2023/02/the-market-for-lemons/)
+* "Not only does JavaScript cost 3x more in processing power, byte-for-byte, than HTML and CSS, but it also removes the browser's ability to parallelise page loading." Alex Russell in [Caprock](https://infrequently.org/2024/08/caprock/)
+* "When using JavaScript you pay a performance tax no less than four times." Tim Kadlec in [The Cost of JavaScript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks)
 
 How the front-end is coping
 ![](djangocon-us-2024-recap-images/chris-how-the-frontend-is-coping.png)
 
-When SPAs could be worth their weight
+When SPAs could be worth their weight (Alex Russell in [Caprock](https://infrequently.org/2024/08/caprock/))
 ![](djangocon-us-2024-recap-images/chris-when-spas-could-be-worth-their-weight.png)
 
-streamedHTML Components
+When or when-not to SPA (Alex Russell in [Caprock](https://infrequently.org/2024/08/caprock/))
+![](djangocon-us-2024-recap-images/chris-specrum.png)
+
+Chris pointed out [Katie Sylor-Miller's "Component Islands" pattern](https://jasonformat.com/islands-architecture/) as showing promise. "Removing the need for a root JavaScript component greatly reduces complexity." The brower can handle most things without JavaScript." 
+
+Streamed HTML Components
 ![](djangocon-us-2024-recap-images/chris-streamed-html-components.png)
 
 Chris introduced tools that can be used to create a SPA-like experience
+* CSS view transitions
 * [Django Unicorn](https://www.django-unicorn.com/)
 * HTMX
 * Alpine.js
@@ -397,9 +404,11 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 ### Tuesday Afternoon Talks
 
+<!--
 [Only reliable Data: Protecting Database Integrity](https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/) by Eva Nanyonga
 
 [Level Up Your Django Performance: Identifying and Taming N+1 Queries](https://2024.djangocon.us/talks/level-up-your-django-performance-identifying-and-taming-n-1-queries/) by Mohammad Ahtasham ul Hassan and Shafqat Farhan Ahmed
+-->
 
 [Faster, leaner, greener: 10x lower website carbon emissions](https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/) by Thibaud Colas
 
