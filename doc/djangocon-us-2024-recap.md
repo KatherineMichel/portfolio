@@ -516,16 +516,16 @@ Major donors are:
 
 TL;DR hire experts (executive director, grant writer, etc.) and pay them to get the money. 
 
-Easy
+Easy actions to take
 ![](djangocon-us-2024-recap-images/jacob-easy.png)
 
-Medium
+Medium actions to take
 ![](djangocon-us-2024-recap-images/jacob-medium.png)
 
-Hard
+Hard actions to take
 ![](djangocon-us-2024-recap-images/jacob-hard.png)
 
-If you take action and get a "no", Jacob would like to know why. Email him. 
+If the answer is "no", Jacob would like to know why. Email him. 
 
 More useful to me resources
 * Sue Gardner's [What's Really Wrong With Non-Profits and How We Can Fix It?](https://suegardner.org/2013/10/20/whats-really-wrong-with-nonprofits-and-how-we-can-fix-it/)
