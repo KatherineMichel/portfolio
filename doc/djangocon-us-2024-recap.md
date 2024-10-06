@@ -327,10 +327,10 @@ Jack started off the talk with a quote and described indicator categories.
 "If your only tool is a hammer then everything looks like a nail." Abraham Maslow
 
 Jack started with some Django built-in troubleshooting tools
-* Django template error pages
-* Django error reporting by email
-* Django system checks framework (it's extensible- dj-stripe is an example)
-* Django console and logging (for extra context and use verbosity settings 1-3)
+* Template error pages
+* Error reporting by email
+* System checks framework (it's extensible- dj-stripe is an example)
+* Console and logging (for extra context and use verbosity settings 1-3)
 
 Django System Checks Framework
 ![](djangocon-us-2024-recap-images/jack-django-systems-check-framework.png)
