@@ -78,6 +78,7 @@ My fellow DEFNA Board Member Adam Fast gave a lightning talk about our search fo
 
 <!--
 Volunteers
+Written form details
 -->
 
 As they say in open source, "Given enough eyeballs, all bugs are shallow." Perhaps with the eyeballs of the entire community, we can find an acceptable course of action. 
@@ -87,7 +88,10 @@ As they say in open source, "Given enough eyeballs, all bugs are shallow." Perha
 ![](djangocon-us-2024-recap-images/adam-djangocon-us-3.png)
 ![](djangocon-us-2024-recap-images/adam-djangocon-us-4.png)
 ![](djangocon-us-2024-recap-images/adam-djangocon-us-5.png)
+
+<!--
 ![](djangocon-us-2024-recap-images/adam-djangocon-us-6.png)
+-->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
