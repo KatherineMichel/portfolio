@@ -215,7 +215,6 @@ A few advantages of mastery-based learning:
 * It helps the teacher master teaching ("did I do a good job of teaching?")
 
 A few thoughts on learning
-* The power of compounding over time
 * If you teach one person, it can impact many others
 * Struggle is good, teach students how to learn
 * Some teaching techniques are more powerful than others
