@@ -660,6 +660,7 @@ A few examples of what you didn't see in the release notes
 * Django performance graph- as Python becomes faster, by simply upgrading it, the performance of your code improves
 * Significantly faster Django benchmarks for individual commits
 
+Admin accessibility improvements
 ![](djangocon-us-2024-recap-images/sarah-accessibility-improvements.png)
 
 Sarah recognized the huge amount of work done by many people and gave an [example ticket](https://code.djangoproject.com/ticket/35102) collaborated on by Marisuz, Anthony, Simon. 
