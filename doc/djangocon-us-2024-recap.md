@@ -76,6 +76,10 @@ If you want to bring DjangoCon US to your city or volunteer, we want to hear fro
 
 My fellow DEFNA Board Member Adam Fast gave a lightning talk about our search for a venue for 2025 and beyond. Affordability continues to be a challenge.  
 
+<!--
+Volunteers
+-->
+
 As they say in open source, "Given enough eyeballs, all bugs are shallow." Perhaps with the eyeballs of the entire community, we can find an acceptable course of action. 
 
 ![](djangocon-us-2024-recap-images/adam-djangocon-us-1.png)
@@ -109,7 +113,7 @@ I feel privileged to be able to travel. I make the most of every opportunity to 
 
 In Durham, I had the chance to revisit the incredible Sarah P. Duke Gardens and see a few other attractions for the first time. Also, although most of my meals were provided through the conference, I enjoyed some outstanding meals in downtown Durham restaurants. 
   
-Here are a few of my favorite moments from the trip. See more photos and anecdotes later in this post. 
+Here are a few of my favorite moments from the trip. See more photos and anecdotes at the end of this post. 
 
 Sarah P. Duke Gardens Red Bridge... jaw dropping scenes
 ![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-red-bridge.jpg)
@@ -375,7 +379,7 @@ Yep!
 Where to get help
 ![](djangocon-us-2024-recap-images/jack-where-to-get-help.png)
 
-Jack gave a shout out to Ken Whitesell for his prolific question-answering in the Django Forum!
+Jack gave a shout out to Ken Whitesell for his prolific question- answering in the Django Forum!
 
 Jack encouraged the audience to document your process. 
 ![](djangocon-us-2024-recap-images/jack-write-down-your-troubleshooting-process.png)
@@ -595,12 +599,12 @@ Wednesday was deep dive day.
 
 ### Keynote - The Fellowship of the Pony
 
+Using Lord of the Rings, Natalia Bidart, Django Fellow (a.k.a. necessita) gave a comprehensive explanation of what Django Fellowship is. 
 
+Her breakdown of fellow and community tasks is a treasure trove. This is a great addition to Django Fellow Sarah Boyce's recent talk [Django Core Demystified](https://youtu.be/8rIylYYCmSI?si=8RsuP6VX41mVS0p6). 
 
-Natalia Bidart, Django Fellow
+Natalia described the Django community as being lovable, open, tolerant, and receptive. She has felt welcome in the community from the first moment and called it a safe space. 
 
-My points of interest
-* 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -675,7 +679,7 @@ After avidly following each other on social media for years, Sangeeta Jadoonanan
 
 I spent some much needed quality time with Lacey Henschel. She told me that I can learn anything. :) 
 
-I met Django Fellow Sarah Boyce for the first time. We chatted about her work and DjangoCon Europe. In addition to her DjangoCon US talk, Sarah recently gave an excellent talk [Django Core Demystified](https://youtu.be/8rIylYYCmSI?si=8RsuP6VX41mVS0p6). 
+I met Django Fellow Sarah Boyce for the first time. We chatted about her work and DjangoCon Europe. 
 
 I chatted with Jay Miller about how DEFNA could better serve Black Python Devs and reported feedback. 
 
