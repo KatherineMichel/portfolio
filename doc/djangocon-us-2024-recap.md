@@ -605,6 +605,37 @@ Her breakdown of fellow and community tasks is a treasure trove. This is a great
 
 Natalia described the Django community as being lovable, open, tolerant, and receptive. She has felt welcome in the community from the first moment and called it a safe space. 
 
+![](djangocon-us-2024-recap-images/natalia-a-django-fellow.png)
+
+Label, observe, track, reproduce
+![](djangocon-us-2024-recap-images/natalia-label-observe-track-reproduce.png)
+
+Launch, operate, throw, release
+![](djangocon-us-2024-recap-images/natalia-launch-operate-throw-release.png)
+
+Layout, outshine, target, reasses
+![](djangocon-us-2024-recap-images/natalia-layout-outshine-target-reassess.png)
+
+Learn, overlook, test, regulate
+![](djangocon-us-2024-recap-images/natalia-learn-overlook-test-regulate.png)
+
+Liase, onboard, train, recognize
+![](djangocon-us-2024-recap-images/natalia-liase-onboard-train-recognize.png)
+
+Lint, optimize, trim, refine
+![](djangocon-us-2024-recap-images/natalia-lint-optimize-trim-refine.png)
+
+List, outline, testify, report
+![](djangocon-us-2024-recap-images/natalia-list-outline-testify-report.png)
+
+Load, overee, triage, review
+![](djangocon-us-2024-recap-images/natalia-load-oversee-triage-review.png)
+
+Locate, overcome, tackle, remedy
+![](djangocon-us-2024-recap-images/natalia-locate-overcome-tackle-remedy.png)
+
+Lock, observe, trace, reveal
+![](djangocon-us-2024-recap-images/natalia-lock-observe-trace-reveal.png)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
