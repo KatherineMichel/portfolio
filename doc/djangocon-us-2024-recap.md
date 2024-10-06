@@ -326,6 +326,41 @@ North Carolina-inspired lunch
 
 #### Troubleshooting is a Lifestyle 😎 by Jack Linke
 
+Jack started off the talk with a quote and described indicator categories. 
+
+"If your only tool is a hammer then everything looks like a nail." Abraham Maslow
+
+Jack started with some Django built-in troubleshooting tools
+* Django template error pages
+* Django error reporting by email
+* Django system checks framework (it's extensible- dj-stripe is an example)
+* Django console and logging (for extra context and use verbosity settings 1-3)
+
+He then moved on to some third-party packages and tools
+* django-debug-toolbar (also extensible)
+* django-silk performance profiler
+* Error tracking and performance monitoring- Sentry, Rollbar, Newrelic, Honeybadger, Bugsnag, Raygun
+* He gave a demo of Sentry dashboard with error page, error message, tags
+* django-health-check package (can add Celery, Redis, Postgres)
+* django-watchman
+
+He gave an exemple of extending the Django admin by adding checks. He had an issue with Celery- too few tasks were processed. He put a panel into the admin to capture the last 24 hours of tasks processed through Celery. 
+
+He then gave some general tips for troubleshooting
+* Use the power of isolating variables and narrowing scope
+* Be like Frances Elizabeth Holberton- "break the execution- does the system work up to this point." Similarly, Python Debugger (PDB) can be used to create breakpoints to step through the code to find the issue. 
+* Avoid tunnel vision- seek broad pespectives and alternative approaches
+
+Troushooting often involves stating the problem and asking for help
+* "A problem well stated is a problem half solved." John Dewey
+* Rubber duck debugging
+* Know when to seek assistance
+* Asking for help is a strategy. Learn how to ask for help effectively
+* Learn how to create a Minimum Reproducible Example (MRE) to increase your odds of getting help
+
+Jack gave a shout to Ken Whitesell for his prolific question-answering in the Django Forum!
+
+Jack encouraged the audience to document your process. 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -356,6 +391,22 @@ Other django-debug-toolbar uses
 
 #### Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika
 
+[Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/) by Ron Maravanyika
+
+Ron said that firstly, we need to define effiency. 
+
+Benchmarking is looking at time. Profiling is looking at resource usage. 
+
+Ron explained some possible tools and gave demos
+* Unix time command: real, user, sys
+* Python timeit module
+* [pytest-benchmark](https://pytest-benchmark.readthedocs.io/en/latest/) and benchmark_weave, aspectlib
+* Python profile module
+* Python cprofile module
+* Live profiling tool [django-silk](https://github.com/jazzband/django-silk)
+* django-silk profiler and binary version can be used to create an image that shows parallel functions running
+* django-silk decorator method and context manager method can be used to profile small blocks of code
+* django-silk [Dynamic profiling](https://github.com/jazzband/django-silk?tab=readme-ov-file#dynamic-profiling) can be used to profile something you don't have access to
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -386,7 +437,21 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 ### Tuesday Morning Talks
 
-[Keynote - How To Be A Developer and Other Lies We Tell Ourselves](https://2024.djangocon.us/talks/keynote-tuesday/) by Mario Munoz
+#### [Keynote - How To Be A Developer and Other Lies We Tell Ourselves](https://2024.djangocon.us/talks/keynote-tuesday/) by Mario Munoz
+
+Mario started off his keynote by introducing himself. "I am a person." He went on to talk about the many experiences that have contributed to who he is. 
+
+<!--
+* "We all know philosophy and software engineering are the same thing." Abstract thinking, making models of intangible things, trying to apply them to real world scenarios.
+* Jacques Lacan- Mirror Stage
+* "Being a developer should in no way rob you of who you are and your own identity"
+* Person/Ality personality simulator
+* "The biggest lie that we can tell ourselves is that these objects of representation that are outside of us are synonymous with who we are."
+* "Everything we tell ourselves about ourselves is always a little bit inadequate"
+* "Our strengths can also be our biggest weaknesses." Examples. "You can also turn your weaknesses into your strengths."
+* Far greater things... "I am a community. We are a community... The community is my biggest asset."
+* "How to be a better developer... be a better person to others." 
+-->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -403,12 +468,6 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Tuesday Afternoon Talks
-
-<!--
-[Only reliable Data: Protecting Database Integrity](https://2024.djangocon.us/talks/only-reliable-data-protecting-database-integrity/) by Eva Nanyonga
-
-[Level Up Your Django Performance: Identifying and Taming N+1 Queries](https://2024.djangocon.us/talks/level-up-your-django-performance-identifying-and-taming-n-1-queries/) by Mohammad Ahtasham ul Hassan and Shafqat Farhan Ahmed
--->
 
 [Faster, leaner, greener: 10x lower website carbon emissions](https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/) by Thibaud Colas
 
