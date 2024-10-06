@@ -644,15 +644,22 @@ Lock, observe, trace, reveal
 
 ### Hidden gems of Django 5.x
 
-Sarah Boyce, Django Fellow
+Django Fellow Sarah Boyce pointed out that work on [Django 5.x](https://docs.djangoproject.com/en/dev/releases/5.0/) began in January 2023, and from her perspective, is almost done. 
 
-My points of interest
-* 
+Although Django release notes are the source of truth for info about releases, "need to know" information that you see in the release notes only constitutes 13$ of the work done. 
 
-<!--
-https://docs.djangoproject.com/en/5.1/releases/5.0/
--->
+A few examples of what you don't see in the release notes
+* A screen reader experience demo showing improved logical structure, navigation, announcement of relevant info in Django Admin
+* WiP Accessibility contributor guide by Thibaud Colas
+* Code references in docs now have links to source code on GitHub
+* Django performance graph- as Python becomes faster, by simply upgrading it, the performance of your code improves
+* Significantly faster Django benchmarks for individual commits
 
+Sarah recognized the huge amount of work done by many people and gave an [example ticket](https://code.djangoproject.com/ticket/35102) collaborated on by Marisuz, Anthony, Simon. 
+
+364 people contributed to Django 5.0 and 5.1. 
+
+Please give the team feedback so they can work with you to make the experience better. 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
