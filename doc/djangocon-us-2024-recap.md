@@ -610,6 +610,8 @@ Django is looking for volunteers. Check out the info in Natalia's talk about how
 What a Django Fellow does, according to ChatGPT
 ![](djangocon-us-2024-recap-images/natalia-a-django-fellow.png)
 
+Do you see a pattern? :)
+
 Label, observe, track, reproduce
 ![](djangocon-us-2024-recap-images/natalia-label-observe-track-reproduce.png)
 
@@ -684,29 +686,44 @@ Jon during his lightning talk
 
 ### API Maybe: Bootstrapping a Web Application circa 2024
 
-<!--
-Carlton Gibson, former Django Fellow
---> 
+Carlton Gibson, former Django Fellow, is the only worker on the tech side at his startup Paths: monitoring, evaluation, and learning for development and sustainability projects. 
 
 2018 was API first. 2024 is "HTML over the wire" and the economic climate has changed. 
   
 With tech funding having dried up, teams have limited budget and time. 
 
-Carlton has been the only developer at his startup Paths: monitoring, evaluation, and learning for development and sustainability projects. 
-
-He said that "Django is the perfect framework for our post zero interest rate world. It really shines when the money is tight. [It] is the framework for perfectionists with deadlines... When these deadlines are financial, all the more so."
+He said that "Django really shines when the money is tight. Django is the framework for perfectionists with deadlines... When these deadlines are financial, all the more so. Django is the perfect framework for our post zero interest rate world. "
 
 By leveraging Django, you can get as much done as teams using more complex stacks. 
 
+"Locality of behavior is a way of thinking about and assessing code. Everything you need to understand that code is there in front of you in one place. Creating locality of behavior makes code easier to reason about, easier to maintain, easier to iterate on."
+
+"Use your judgement as to when you sacrifice a bit of locality of behavior as your code scales to gain in maintainability. 
+
+Locality of behavior is a starting point, not a destination. 
+
 "Holding the line on locality of behavior can really pay dividends."
 
+New code that is likely to change... by focusing in locality of behavior, you can stablilize the code and let the deeper patterns emerge. Quickly refactoring to DRY code can create premature optimization that leaves the code "stuck in the local optima." 
 
-Locality of behavior tools
-* Neopolitan
-* Tailwind CSS
-* django-template-partials
-* Alpine.js
-  
+Learning into Django... 
+
+Django templates and the component ecosystem- a vibrant and exciting time
+* [django-unicorn](https://www.django-unicorn.com/)
+* [slippers](https://github.com/mixxorz/slippers)
+* [django-cotton](https://django-cotton.com/)
+* [dj-angles](https://github.com/adamghill/dj-angles)
+
+Carlton's recommended stack, which also focuses on locality of behavior
+* [HTMX](https://htmx.org/)- HTMX can get us a long way and save a lot of time
+* [django-template-partials](https://github.com/carltongibson/django-template-partials)- HTMX utility
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Alpine.js](https://alpinejs.dev/)- only weighs a few kilobytes, state management, reactivity, closest he's been to jQuery in a long time
+* Alpine.js and forms
+* [Neopolitan](https://github.com/carltongibson/neapolitan)- to quote William Vincent, 90% of apps are basic CRUD views
+
+These tools have enbled Carlton to create a GVP (Genuinely Viable Product). Carlton is having the time of his life. 
+
 More useful to me resources
 * [Django Chat](https://djangochat.com/)
 * [Protected variations](https://www.martinfowler.com/ieeeSoftware/protectedVariation.pdf) architecture pattern
@@ -722,6 +739,10 @@ Carlton Gibson, Keanya Phelps, Velda Kiara, Afi Maame Dufie, Sarah Boyce, and ho
 ![](djangocon-us-2024-recap-images/closing-panel.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
+
+<!--
+### Many More Great Talks
+-->
 
 ### Queeny's 
 
