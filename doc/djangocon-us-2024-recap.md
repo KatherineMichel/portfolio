@@ -508,7 +508,7 @@ Some of his suggested methods
 
 Jacob Kaplan-Moss is a retired Django BDFL and current DSF Treasurer. He showed the current $255,000 DSF budget breakdown. Most of the budget goes to the salary for fellows (health of project) and admin (health of foundation). 
 
-If the budget were quadrupled to $1,000,000, he has a personal wishlist. 
+If the budget were quadrupled to $1,000,000, he has a personal wishlist: hire an executive director, expand the fellowship and grants programs, including feature grants
 ![](djangocon-us-2024-recap-images/jacob-my-wishlist.png)
 
 How do we get there? We probably need to target major donors versus many-small funders, and that's probably ok. 
@@ -605,6 +605,9 @@ Her breakdown of fellow and community tasks is a treasure trove. This is a great
 
 Natalia described the Django community as being lovable, open, tolerant, and receptive. She has felt welcome in the community from the first moment and called it a safe space. 
 
+Django is looking for volunteers. Check out the info in Natalia's talk about how you can help and consider applying to Djangonaut Space. 
+
+What a Django Fellow does, according to ChatGPT
 ![](djangocon-us-2024-recap-images/natalia-a-django-fellow.png)
 
 Label, observe, track, reproduce
