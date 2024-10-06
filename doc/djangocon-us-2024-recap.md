@@ -13,26 +13,23 @@ Table of Contents
     - [Swag Stuffing](#swag-stuffing)
     - [Django Social](#django-social)
 - [Monday](#monday)
-    - [Monday Morning Talks](#monday-morning-talks)
-        - [Keynote - Power to the People who Teach the People by Sheena O'Connell](#keynote---power-to-the-people-who-teach-the-people-by-sheena-oconnell)
-        - [Choosing Wisely: SPA vs. HTMX for Your Next Web Project by Chris May](#choosing-wisely-spa-vs-htmx-for-your-next-web-project-by-chris-may)
-        - [Error Culture by Ryan Cheley](#error-culture-by-ryan-cheley)
+    - [Keynote - Power to the People who Teach the People by Sheena O'Connell](#keynote---power-to-the-people-who-teach-the-people-by-sheena-oconnell)
+    - [Choosing Wisely: SPA vs. HTMX for Your Next Web Project by Chris May](#choosing-wisely-spa-vs-htmx-for-your-next-web-project-by-chris-may)
+    - [Error Culture by Ryan Cheley](#error-culture-by-ryan-cheley)
     - [Shrimp and Grits](#shrimp-and-grits)
-    - [Monday Afternoon Talks](#monday-afternoon-talks)
-        - [Troubleshooting is a Lifestyle 😎 by Jack Linke](#troubleshooting-is-a-lifestyle--by-jack-linke)
-        - [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related() by Christopher Adams](#a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select_related-and-prefetch_related-by-christopher-adams)
-        - [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika](#unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency-by-ron-maravanyika)
+    - [Troubleshooting is a Lifestyle 😎 by Jack Linke](#troubleshooting-is-a-lifestyle--by-jack-linke)
+    - [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related() by Christopher Adams](#a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select_related-and-prefetch_related-by-christopher-adams)
+    - [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika](#unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency-by-ron-maravanyika)
     - [DEFNA Board Dinner](#defna-board-dinner)      
 - [Tuesday](#tuesday)
-    - [Tuesday Morning Talks](#tuesday-morning-talks)
-    - [Tuesday Afternoon Talks](#tuesday-afternoon-talks)
+
     - [Meeting Lorenzo](#meeting-lorenzo)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
     - [The Boxcar Bar and Arcade](#the-boxcar-bar-and-arcade)
 - [Wednesday](#wednesday)
-    - [Wednesday Morning Talks](#wednesday-morning-talks)
+
     - [Lightning Talk Cameo](#lightning-talk-cameo)
-    - [Wednesday Afternoon Talks](#wednesday-afternoon-talks)
+
     - [Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django](#panel-discussion-open-friendly-and-welcoming-on-the-history-and-future-of-mentoring-in-django)
     - [Queeny's](#queenys)
 - [Hallway Track](#hallway-track)
@@ -197,9 +194,7 @@ Djangonauts at Ponysaurus
 
 Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Grandstaff kicked off the conference. 
 
-### Monday Morning Talks
-
-#### Keynote - Power to the People who Teach the People by Sheena O'Connell
+### Keynote - Power to the People who Teach the People by Sheena O'Connell
 
 Sheena is interested in [metacognition](https://en.wikipedia.org/wiki/Metacognition) or how people learn. 
 
@@ -236,7 +231,7 @@ More useful to me resources
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-#### Choosing Wisely: SPA vs. HTMX for Your Next Web Project by Chris May
+### Choosing Wisely: SPA vs. HTMX for Your Next Web Project by Chris May
 
 Last year, in his talk HTML-ivating your Django web app’s experience with HTMX, AlpineJS, and streaming HTML, Chris introduced the idea that you can have a SPA-like exerience in Django without using SPA tools. 
 
@@ -292,7 +287,7 @@ Chris will follow up with a blog post with more info about streaming HTML compon
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-#### Error Culture by Ryan Cheley
+### Error Culture by Ryan Cheley
 
 Ryan defined Error Culture: workers ignore automated email alerts, creating a culture of reactive firefighting. 
 
@@ -322,9 +317,7 @@ North Carolina-inspired lunch
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Monday Afternoon Talks
-
-#### Troubleshooting is a Lifestyle 😎 by Jack Linke
+### Troubleshooting is a Lifestyle 😎 by Jack Linke
 
 Jack started off the talk with a quote and described indicator categories. 
 
@@ -383,7 +376,7 @@ Jack encouraged the audience to document your process.
  
 <sub>[**back to top**](#table-of-contents)</sub>
 
-#### A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related() by Christopher Adams
+### A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related() by Christopher Adams
 
 Because I am already familiar with diagnosing and fixing N+1 problems, I watched Christopher's talk for new ideas. 
 
@@ -408,7 +401,7 @@ Other django-debug-toolbar uses
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-#### Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika
+### Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika
 
 [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/) by Ron Maravanyika
 
@@ -454,9 +447,7 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 ## Tuesday
 
-### Tuesday Morning Talks
-
-#### Keynote - How To Be A Developer and Other Lies We Tell Ourselves by Mario Munoz
+### Keynote - How To Be A Developer and Other Lies We Tell Ourselves by Mario Munoz
 
 Mario started off his keynote by introducing himself. "I am a person." He went on to talk about the diverse experiences that have contributed to who he is today. 
 
@@ -553,7 +544,6 @@ Me standing in front of the bar at Boxcar
 
 Wednesday was deep dive day. 
 
-### Wednesday Morning Talks
 
 [Keynote - The Fellowship of the Pony](https://2024.djangocon.us/talks/keynote-wednesday/) by Natalia Bidart
 
@@ -586,7 +576,6 @@ Lightning talk slide screenshot
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Wednesday Afternoon Talks
 
 [Django & Celery: A love story of async proportions](https://2024.djangocon.us/talks/django-celery-a-love-story-of-async-proportions/) by Hugo Bessa
 
