@@ -234,8 +234,49 @@ More useful to me resources
 * [The Protégé Effect](https://www.growthengineering.co.uk/protege-effect)
 * [Stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)… sense of belonging
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 #### Choosing Wisely: SPA vs. HTMX for Your Next Web Project by Chris May
 
+Last year, in his talk HTML-ivating your Django web app’s experience with HTMX, AlpineJS, and streaming HTML, Chris introduced the idea that you can have a SPA-like exerience in Django without using SPA tools. 
+
+I wrote about it in my [DjangoCon US 2023 Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html#html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html). 
+
+In that talk, he referenced a Thoughtworks article [SPA by Default](https://www.thoughtworks.com/en-us/radar/techniques/spa-by-default) and Tayor Hunt's [Making the World's Fastest Website and Other Mistakes](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
+
+According to Thoughtworks, "Too often teams are skipping [that] trade-off analysis, blindly accepting the complexity of SPAs by default even when business needs don't justify it."
+
+Taylor Hunt refactored a React/Redux grocery store SPA app for a much improved experience by using just HTML, CSS, and laser-focused JavaScript. 
+
+Chris started this year's talk off by asking some questions: Are you using a SPA? What would make you change? When do you think you should use a SPA? Why would I want to use HTMX versus SPA? What tools are you favorite tools? Are you using them well?
+
+SPA downsides
+* Slow startup time
+* Bad user experience on slow devices
+
+<!--
+TBC
+-->
+
+Chris introduced tools that can be used to create a SPA-like experience
+* [Django Unicorn](https://www.django-unicorn.com/)
+* HTMX
+* Alpine.js
+* [django-template-partials](https://github.com/carltongibson/django-template-partials)
+* [django-components](https://pypi.org/project/django-components/)
+* [Datastar](https://datastar.fly.dev/)
+* [Unpoly](https://unpoly.com/) 
+
+Three HTMX success stories
+* [Umuzi](https://www.sheenaoc.com/articles/2024-06-30-htmx)
+* [contexte](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
+* [OpenUnited](https://www.linkedin.com/feed/update/urn:li:activity:7109116330770878464/)
+
+Notably, OpenUnited dev velocity improved by 500% after switching to HTMX. 
+  
+Chris will follow up with a blog post with more info about streaming HTML components. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 #### Error Culture by Ryan Cheley
 
@@ -272,6 +313,8 @@ North Carolina-inspired lunch
 #### Troubleshooting is a Lifestyle 😎 by Jack Linke
 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 #### A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related() by Christopher Adams
 
 Because I am already familiar with diagnosing and fixing N+1 problems, I watched Christopher's talk for new ideas. 
@@ -294,6 +337,8 @@ Other django-debug-toolbar uses
 ![](djangocon-us-2024-recap-images/christopher-ddt-other-uses.png)
 
 [Code samples](https://github.com/adamsc64/a-related-matter)
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 #### Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika
 
@@ -329,9 +374,15 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 [Keynote - How To Be A Developer and Other Lies We Tell Ourselves](https://2024.djangocon.us/talks/keynote-tuesday/) by Mario Munoz
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 [Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework](https://2024.djangocon.us/talks/seamless-transition-how-i-converted-an-existing-mysql-database-to-be-fully-managed-by-django-migrations-framework/) by Daniel Ramas
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 [PostgreSQL Beyond Django: Strategies to Get Max Performance](https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/) by Álvaro Justen
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/) by Jacob Kaplan-Moss
 
@@ -406,6 +457,8 @@ Wednesday was deep dive day.
 My points of interest
 * 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 [Hidden gems of Django 5.x](https://2024.djangocon.us/talks/hidden-gems-of-django-5-x/) by Sarah Boyce
 
 My points of interest
@@ -445,6 +498,8 @@ My points of interest
 <!--
 https://github.com/celery/celery
 -->
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 [API Maybe: Bootstrapping a Web Application circa 2024](https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/) by Carlton Gibson
 
