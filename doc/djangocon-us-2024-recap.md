@@ -52,7 +52,7 @@ Table of Contents
     - [The Durham Hotel](#the-durham-hotel)
     - [Mother and Sons](#mother-and-sons)
     - [Durham Food Hall](#durham-food-hall)
-    - [Press Coffee, Crepes, and Cocktails](#press-coffee-crepesand-cocktails)
+    - [Press Coffee, Crepes, and Cocktails](#press-coffee-crepes-and-cocktails)
     - [Centerfest](#centerfest)
     - [Durham Market Culture](#durham-market-culture)
     - [Cousins Maine Lobster](#cousins-maine-lobster)
@@ -63,7 +63,7 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase.
 
-DjangoCon US 2024 took place from September 22-27 in Durham, North Carolina at the Durhan Convention Center. It was the seventh DjangoCon US I've had the privilege of attending and an absolute blast! 
+DjangoCon US 2024 took place from September 22-27 in Durham, North Carolina at the Durham Convention Center. It was the seventh DjangoCon US I've had the privilege of attending and an absolute blast! 
 
 Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ![](djangocon-us-2024-recap-images/attendees-photo.jpg)
@@ -236,7 +236,7 @@ More useful to me resources
 
 ### Choosing Wisely: SPA vs. HTMX for Your Next Web Project
 
-Last year, in his talk HTML-ivating your Django web app’s experience with HTMX, AlpineJS, and streaming HTML, Chris May introduced the idea that you can have a SPA-like exerience in Django without using SPA tools. 
+Last year, in his talk HTML-ivating your Django web app’s experience with HTMX, AlpineJS, and streaming HTML, Chris May introduced the idea that you can have a SPA-like experience in Django without using SPA tools. 
 
 I wrote about it in my [DjangoCon US 2023 Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html#html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html). 
 
@@ -264,7 +264,7 @@ When SPAs could be worth their weight (Alex Russell in [Caprock](https://infrequ
 When or when-not to SPA (Alex Russell in [Caprock](https://infrequently.org/2024/08/caprock/))
 ![](djangocon-us-2024-recap-images/chris-specrum.png)
 
-Chris pointed out [Katie Sylor-Miller's "Component Islands" pattern](https://jasonformat.com/islands-architecture/) as showing promise. "Removing the need for a root JavaScript component greatly reduces complexity. The brower can handle most things without JavaScript." 
+Chris pointed out [Katie Sylor-Miller's "Component Islands" pattern](https://jasonformat.com/islands-architecture/) as showing promise. "Removing the need for a root JavaScript component greatly reduces complexity. The browser can handle most things without JavaScript." 
 
 Streamed HTML Components
 ![](djangocon-us-2024-recap-images/chris-streamed-html-components.png)
@@ -343,19 +343,19 @@ He then moved on to some third-party packages and tools
 * django-health-check package (can add Celery, Redis, Postgres)
 * django-watchman
 
-He gave an exemple of extending the Django admin by adding checks. He had an issue with Celery- too few tasks were processed. He put a panel into the admin to capture the last 24 hours of tasks processed through Celery. 
+He gave an example of extending the Django admin by adding checks. He had an issue with Celery- too few tasks were processed. He put a panel into the admin to capture the last 24 hours of tasks processed through Celery. 
 
 He gave some general tips for troubleshooting
 * Use the power of isolating variables and narrowing scope
 * Be like Frances Elizabeth Holberton- "break the execution- does the system work up to this point." Similarly, Python Debugger (PDB) can be used to create breakpoints to step through the code to find the issue. 
-* Avoid tunnel vision- seek broad pespectives and alternative approaches
+* Avoid tunnel vision- seek broad perspectives and alternative approaches
 
 Strategies for dissecting complex issues
 ![](djangocon-us-2024-recap-images/jack-strategies-for-dissecting-complex-issues.png)
 
 "A problem well stated is a problem half solved." John Dewey
 
-Troushooting often involves stating the problem and asking for help
+Troubleshooting often involves stating the problem and asking for help
 * Rubber duck debugging
 * Know when to seek assistance
 * Learn how to ask for help effectively
@@ -459,7 +459,7 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 Mario Munoz started off his keynote by introducing himself. "I am a person." He went on to talk about the diverse experiences that have contributed to who he is today. 
 
-Mario's talk was philosophical. He acknowledged, "We all know philosophy and software engineering are the same thing." Both are involve abstract thinking, making models of intangible things, trying to apply them to real world scenarios. 
+Mario's talk was philosophical. He acknowledged, "We all know philosophy and software engineering are the same thing." Both involve abstract thinking, making models of intangible things, trying to apply them to real world scenarios. 
 
 He talked about The Mirror Stage, a concept in Jacques Lacan's psychoanalytic theory. It refers to the time when a child identifies their own image. 
 
@@ -500,7 +500,7 @@ Some of his suggested methods
 
 ### If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?
 
-Jacob Kaplan-Moss is a retired Django BDFL and current DSF Treasurer. He showed the curent $255,000 DSF budget breakdown. Most of the budget goes to the salary for fellows (health of project) and admin (health of foundation). 
+Jacob Kaplan-Moss is a retired Django BDFL and current DSF Treasurer. He showed the current $255,000 DSF budget breakdown. Most of the budget goes to the salary for fellows (health of project) and admin (health of foundation). 
 
 If the budget were quadrupled to $1,000,000, he has a personal wishlist. 
 ![](djangocon-us-2024-recap-images/jacob-my-wishlist.png)
@@ -833,7 +833,7 @@ Skyline right
 
 I'd been hungry for good Italian food for a while. [Mother and Sons](https://www.mothersandsonsnc.com/) had very high ratings, so I decided to give it a try. 
 
-I'd planned to play it safe and order the potato gnocchi. I asked the waiter if there was a particular dish that was very popular. He said the squid ink tonnarelli. I told him I'd always wondered what squid ink pasta tasted like, but had been afraid to order it. He said that the squid ink taste was mild. So, I ordered it, and it delicious. It had a lemon-butter shrimp taste. 
+I'd planned to play it safe and order the potato gnocchi. I asked the waiter if there was a particular dish that was very popular. He said the squid ink tonnarelli. I told him I'd always wondered what squid ink pasta tasted like, but had been afraid to order it. He said that the squid ink taste was mild. So, I ordered it, and it was delicious. It had a lemon-butter shrimp taste. 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -848,7 +848,7 @@ Looking down at the first floor of the food hall
 
 ### Press Coffee, Crepes, and Cocktails
 
-I love [Press Coffee, Crepes, and Cocktails](https://pressccc.com/). It's a short walk south of the downtown and well worth it. It's a coffeehouse specializing in savory and sweet crepes. The space has a bright, energectic vibe and the food and coffee are very high quality.   
+I love [Press Coffee, Crepes, and Cocktails](https://pressccc.com/). It's a short walk south of the downtown and well worth it. It's a coffeehouse specializing in savory and sweet crepes. The space has a bright, energetic vibe and the food and coffee are very high quality.   
 
 First time eating avocado toast... I went big! This was gourmet quality, for sure. The seasonal salted pistachio mocha latte was to die for. 
 ![](djangocon-us-2024-recap-images/press-crepe-company-avocado-toast.jpg)
@@ -857,7 +857,7 @@ First time eating avocado toast... I went big! This was gourmet quality, for sur
 
 ### Centerfest
 
-Serendipitiously, an art festival called [Centerfest](https://durhamarts.org/centerfest/) was taking place on Saturday and Sunday. 
+Serendipitously, an art festival called [Centerfest](https://durhamarts.org/centerfest/) was taking place on Saturday and Sunday. 
 
 I wandered through the art booths, then stumbled upon one of many musical acts. It was called Heart of Carolina A Capella. It was fun! 
 
