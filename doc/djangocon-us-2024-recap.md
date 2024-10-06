@@ -199,13 +199,13 @@ Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Gr
 
 ### Keynote - Power to the People who Teach the People by Sheena O'Connell
 
-Sheena is interested in [metacognition](https://en.wikipedia.org/wiki/Metacognition) or how people learn. 
+Sheena has been an educator since childhood and began working for an education non-profit called Umuzi in 2018. She is interested in [metacognition](https://en.wikipedia.org/wiki/Metacognition), how people learn. 
 
-She talked about common learning anti-patterns, what a normal classroom looks like, and normal success distribution. 
+She began her talk by describing the education status quo: common learning anti-patterns, what a normal classroom looks like, and normal success distribution. 
 
 She introduced [Bloom's 2 Sigma Problem](https://en.wikipedia.org/wiki/Bloom%27s_2_sigma_problem). "The average student tutored one-to-one using mastery learning techniques performed two standard deviations better than students educated in a classroom environment."
 
-Mastery-learning techniques
+Mastery learning techniques
 ![](djangocon-us-2024-recap-images/sheena-mastery-learning-techniques.png)
 
 A few advantages of mastery-based learning:
@@ -219,7 +219,7 @@ A few thoughts on learning
 * Struggle is good, teach students how to learn
 * Some teaching techniques are more powerful than others
 * "Trust no one"
-* "You can't each a person to ride a bicycle by riding a bicycle for them."
+* "You can't teach a person to ride a bicycle by riding a bicycle for them."
 
 "Education is not the filling of a pail, but the lighting of a fire."
 
@@ -412,7 +412,7 @@ Ron said that firstly, we need to define efficiency.
 
 Benchmarking is looking at time. Profiling is looking at resource usage. 
 
-Summary
+Process to Follow
 ![](djangocon-us-2024-recap-images/ron-process-to-follow.png)
  
 Ron explained some possible tools and gave demos
@@ -491,8 +491,7 @@ Some of his suggested methods
 * Starting at Django 3.2, the ID of each field went from 4 to 8 bytes. In settings use the default AutoField instead of BigAutoField.
 * Alvaro prefers to create his own ID. See urlid.org for his methodology.
 * Use SQL min/max to check the size of table values. Use SmallIntegerField instead of IntegerField.
-* Column order can affect space used. Use fixed-size columns (bigger, then smaller), then variable-size
-* [Data alignment in Postgres](https://www.enterprisedb.com/postgres-tutorials/data-alignment-postgresql)
+* Column order can affect space used. Use fixed-size columns (bigger, then smaller), then variable-size. See [Data alignment in Postgres](https://www.enterprisedb.com/postgres-tutorials/data-alignment-postgresql). 
 * Full text search and search vector field scenarios
 * Trigger- perform operations inside of the database more quickly than in the app. Don't put much business logic in the trigger.
 
@@ -502,7 +501,33 @@ Some of his suggested methods
 
 ### If We Had $1,000,000: What Could The DSF Do With 4x Its Budget? by Jacob Kaplan-Moss
 
+Jacob is a retired Django BDFL and current DSF Treasurer. He showed the curent $255,000 DSF budget breakdown. Most of the budget goes to the salary for fellows (health of project) and admin (health of foundation). 
 
+If the budget were quadrupled to 1,000,000, he has a personal wishlist. 
+
+How do we get there? We probably need to target major donors versus many-small funders, and that's probably ok. 
+
+Major donors are:
+* Corporations
+* High-net worth individuals
+* Government grants
+* Private foundation grants
+
+TL;DR hire experts (executive director, grant writer, etc.) and pay them to get the money. 
+
+Easy
+![](djangocon-us-2024-recap-images/jacob-easy.png)
+
+Medium
+![](djangocon-us-2024-recap-images/jacob-medium.png)
+
+Hard
+![](djangocon-us-2024-recap-images/jacob-hard.png)
+
+If you take action and get a "no", Jacob would like to know why. Email him. 
+
+More useful to me resources
+* Sue Gardner's [What's Really Wrong With Non-Profits and How We Can Fix It?](https://suegardner.org/2013/10/20/whats-really-wrong-with-nonprofits-and-how-we-can-fix-it/)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
