@@ -503,7 +503,7 @@ Some of his suggested methods
 
 Jacob is a retired Django BDFL and current DSF Treasurer. He showed the curent $255,000 DSF budget breakdown. Most of the budget goes to the salary for fellows (health of project) and admin (health of foundation). 
 
-If the budget were quadrupled to 1,000,000, he has a personal wishlist. 
+If the budget were quadrupled to $1,000,000, he has a personal wishlist. 
 ![](djangocon-us-2024-recap-images/jacob-my-wishlist.png)
 
 How do we get there? We probably need to target major donors versus many-small funders, and that's probably ok. 
