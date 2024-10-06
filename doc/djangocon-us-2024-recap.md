@@ -336,6 +336,9 @@ Jack started with some Django built-in troubleshooting tools
 * Django system checks framework (it's extensible- dj-stripe is an example)
 * Django console and logging (for extra context and use verbosity settings 1-3)
 
+Django System Checks Framework
+![](djangocon-us-2024-recap-images/jack-django-systems-check-framework.png)
+
 He then moved on to some third-party packages and tools
 * django-debug-toolbar (also extensible)
 * django-silk performance profiler
@@ -351,6 +354,9 @@ He then gave some general tips for troubleshooting
 * Be like Frances Elizabeth Holberton- "break the execution- does the system work up to this point." Similarly, Python Debugger (PDB) can be used to create breakpoints to step through the code to find the issue. 
 * Avoid tunnel vision- seek broad pespectives and alternative approaches
 
+Strategies for dissecting complex issues
+![](djangocon-us-2024-recap-images/jack-strategies-for-dissecting-complex-issues.png)
+
 Troushooting often involves stating the problem and asking for help
 * "A problem well stated is a problem half solved." John Dewey
 * Rubber duck debugging
@@ -358,10 +364,23 @@ Troushooting often involves stating the problem and asking for help
 * Asking for help is a strategy. Learn how to ask for help effectively
 * Learn how to create a Minimum Reproducible Example (MRE) to increase your odds of getting help
 
+How to effectively ask for help
+![](djangocon-us-2024-recap-images/jack-how-to-effectively-ask-for-help.png)
+
+Oh no
+![](djangocon-us-2024-recap-images/jack-oh-no.png)
+
+Yep!
+![](djangocon-us-2024-recap-images/jack-yep.png)
+
 Jack gave a shout to Ken Whitesell for his prolific question-answering in the Django Forum!
 
-Jack encouraged the audience to document your process. 
+Where to get help
+![](djangocon-us-2024-recap-images/jack-where-to-get-help.png)
 
+Jack encouraged the audience to document your process. 
+![](djangocon-us-2024-recap-images/jack-write-down-your-troubleshooting-process.png)
+ 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related() by Christopher Adams
@@ -445,7 +464,9 @@ Mario's talk was philosophical. He acknowledged, "We all know philosophy and sof
 
 He talked about The Mirror Stage, a concept in Jacques Lacan's psychoanalytic theory. It refers to the time when a child identifies their own image. 
 
-Mario then used a Person/Ality personality simulator. Images, as though from the subconscious, appeared on the screen as he talked about experiences as a developer.  
+Mario then used a Person/Ality personality simulator. Images, as though from the subconscious, appeared on the screen as he talked about experiences he'd had as a developer. Afterward, he analyzed each experience.  
+
+![](djangocon-us-2024-recap-images/mario-withdrawn-mood-self-absorbed.png)
 
 Throughout the talk, he reflected
 * "Being a developer should in no way rob you of who you are and your own identity"
@@ -458,6 +479,7 @@ At the end, he revealed, "I am a community. We are a community... The community 
 "How to be a better developer... be a better person to others." 
 
 <sub>[**back to top**](#table-of-contents)</sub>
+
 
 <!--
 [Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework](https://2024.djangocon.us/talks/seamless-transition-how-i-converted-an-existing-mysql-database-to-be-fully-managed-by-django-migrations-framework/) by Daniel Ramas
