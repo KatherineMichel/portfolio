@@ -349,13 +349,13 @@ He then moved on to some third-party packages and tools
 
 He gave an exemple of extending the Django admin by adding checks. He had an issue with Celery- too few tasks were processed. He put a panel into the admin to capture the last 24 hours of tasks processed through Celery. 
 
+Strategies for dissecting complex issues
+![](djangocon-us-2024-recap-images/jack-strategies-for-dissecting-complex-issues.png)
+
 He then gave some general tips for troubleshooting
 * Use the power of isolating variables and narrowing scope
 * Be like Frances Elizabeth Holberton- "break the execution- does the system work up to this point." Similarly, Python Debugger (PDB) can be used to create breakpoints to step through the code to find the issue. 
 * Avoid tunnel vision- seek broad pespectives and alternative approaches
-
-Strategies for dissecting complex issues
-![](djangocon-us-2024-recap-images/jack-strategies-for-dissecting-complex-issues.png)
 
 Troushooting often involves stating the problem and asking for help
 * "A problem well stated is a problem half solved." John Dewey
@@ -373,10 +373,10 @@ Oh no
 Yep!
 ![](djangocon-us-2024-recap-images/jack-yep.png)
 
-Jack gave a shout to Ken Whitesell for his prolific question-answering in the Django Forum!
-
 Where to get help
 ![](djangocon-us-2024-recap-images/jack-where-to-get-help.png)
+
+Jack gave a shout to Ken Whitesell for his prolific question-answering in the Django Forum!
 
 Jack encouraged the audience to document your process. 
 ![](djangocon-us-2024-recap-images/jack-write-down-your-troubleshooting-process.png)
