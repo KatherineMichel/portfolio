@@ -537,6 +537,17 @@ More useful to me resources
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
+### django-mongodb
+
+After Jacob Kaplan-Moss referenced [django-mongodb](https://github.com/mongodb-labs/django-mongodb) in his presentation Q&A, I chatted with co-creator Jib Adegunloye. He explained the architecture and verified that it will support joins. He gave a lightning talk about it soon thereafter. 
+
+Jib and his friends founded ByBlack. They wanted to use Django, but were too invested in MongoDB. A year ago, he was hired at MongoDB. They eventually hit him with a Django pitch. It felt personal. He wanted it to work. 
+
+<!--
+Slides
+Link
+-->
+
 ### Faster, leaner, greener: 10x lower website carbon emissions
 
 
@@ -780,13 +791,6 @@ I met Django Fellow Sarah Boyce for the first time. We chatted about her work an
 I chatted with Jay Miller about how DEFNA could better serve Black Python Devs and reported feedback. 
 
 I connected Thibaud with myself, Nicole, and Peter to talk about DjangoCon US website improvements and using it for other conference sites. 
-
-<!--
-Noah and Jib- MongoDB
-Includes joins
-See lightning talk
-https://github.com/mongodb-labs/django-mongodb
--->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
