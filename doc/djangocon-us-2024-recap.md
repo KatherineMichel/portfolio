@@ -230,7 +230,7 @@ More useful to me resources
 * [Huberman Lab Podcast](https://www.hubermanlab.com/podcast)
 * [Retrieval practice](https://www.retrievalpractice.org/why-it-works)
 * [The Protégé Effect](https://www.growthengineering.co.uk/protege-effect)
-* [Stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)… sense of belonging
+* [Stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
