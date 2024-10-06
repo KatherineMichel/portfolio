@@ -488,7 +488,7 @@ He explained each method, including profiling results, then ran a demo.
 
 Some of his suggested methods
 * Use UUID field as primary key field and avoid creating two columns. You do not need a sequential ID, because of the UUID hash. You can index UUID. 
-* Starting at Django 3.2, the ID of each field went from 4 to 8 bytes. In settings use the default AutoField instead of BigAutoField.
+* Starting at Django 3.2, the ID of each field went from 4 to 8 bytes. In settings, use the default AutoField instead of BigAutoField.
 * Alvaro prefers to create his own ID. See urlid.org for his methodology.
 * Use SQL min/max to check the size of table values. Use SmallIntegerField instead of IntegerField.
 * Column order can affect space used. Use fixed-size columns (bigger, then smaller), then variable-size. See [Data alignment in Postgres](https://www.enterprisedb.com/postgres-tutorials/data-alignment-postgresql). 
