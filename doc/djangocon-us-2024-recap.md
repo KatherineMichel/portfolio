@@ -13,19 +13,19 @@ Table of Contents
     - [Swag Stuffing](#swag-stuffing)
     - [Django Social](#django-social)
 - [Monday](#monday)
-    - [Keynote - Power to the People who Teach the People by Sheena O'Connell](#keynote---power-to-the-people-who-teach-the-people-by-sheena-oconnell)
-    - [Choosing Wisely: SPA vs. HTMX for Your Next Web Project by Chris May](#choosing-wisely-spa-vs-htmx-for-your-next-web-project-by-chris-may)
-    - [Error Culture by Ryan Cheley](#error-culture-by-ryan-cheley)
+    - [Keynote - Power to the People who Teach the People](#keynote---power-to-the-people-who-teach-the-people)
+    - [Choosing Wisely: SPA vs. HTMX for Your Next Web Project](#choosing-wisely-spa-vs-htmx-for-your-next-web-project)
+    - [Error Culture](#error-culture-by-ryan-cheley)
     - [Shrimp and Grits](#shrimp-and-grits)
-    - [Troubleshooting is a Lifestyle 😎 by Jack Linke](#troubleshooting-is-a-lifestyle--by-jack-linke)
-    - [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related() by Christopher Adams](#a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select_related-and-prefetch_related-by-christopher-adams)
-    - [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika](#unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency-by-ron-maravanyika)
+    - [Troubleshooting is a Lifestyle 😎](#troubleshooting-is-a-lifestyle-)
+    - [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](#a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select_related-and-prefetch_related)
+    - [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](#unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency-by)
     - [DEFNA Board Dinner](#defna-board-dinner)      
 - [Tuesday](#tuesday)
-    - [Keynote - How To Be A Developer and Other Lies We Tell Ourselves by Mario Munoz](#keynote---how-to-be-a-developer-and-other-lies-we-tell-ourselves-by-mario-munoz)
-    - [PostgreSQL Beyond Django: Strategies to Get Max Performance by Álvaro Justen](#postgresql-beyond-django-strategies-to-get-max-performance-by-álvaro-justen)
-    - [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget? by Jacob Kaplan-Moss](#if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget-by-jacob-kaplan-moss)
-    - [Faster, leaner, greener: 10x lower website carbon emissions by Thibaud Colas](#faster-leaner-greener-10x-lower-website-carbon-emissions-by-thibaud-colas)
+    - [Keynote - How To Be A Developer and Other Lies We Tell Ourselves](#keynote---how-to-be-a-developer-and-other-lies-we-tell-ourselves)
+    - [PostgreSQL Beyond Django: Strategies to Get Max Performance](#postgresql-beyond-django-strategies-to-get-max-performance)
+    - [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](#if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget)
+    - [Faster, leaner, greener: 10x lower website carbon emissions](#faster-leaner-greener-10x-lower-website-carbon-emissions)
     - [Meeting Lorenzo](#meeting-lorenzo)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
     - [The Boxcar Bar and Arcade](#the-boxcar-bar-and-arcade)
@@ -197,9 +197,9 @@ Djangonauts at Ponysaurus
 
 Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Grandstaff kicked off the conference. 
 
-### Keynote - Power to the People who Teach the People by Sheena O'Connell
+### Keynote - Power to the People who Teach the People
 
-Sheena has been an educator since childhood and began working for an education non-profit called Umuzi in 2018. She is interested in [metacognition](https://en.wikipedia.org/wiki/Metacognition), how people learn. 
+Sheena O'Connell has been an educator since childhood and began working for an education non-profit called Umuzi in 2018. She is interested in [metacognition](https://en.wikipedia.org/wiki/Metacognition), how people learn. 
 
 She began her talk by describing the education status quo: common learning anti-patterns, what a normal classroom looks like, and normal success distribution. 
 
@@ -234,9 +234,9 @@ More useful to me resources
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Choosing Wisely: SPA vs. HTMX for Your Next Web Project by Chris May
+### Choosing Wisely: SPA vs. HTMX for Your Next Web Project
 
-Last year, in his talk HTML-ivating your Django web app’s experience with HTMX, AlpineJS, and streaming HTML, Chris introduced the idea that you can have a SPA-like exerience in Django without using SPA tools. 
+Last year, in his talk HTML-ivating your Django web app’s experience with HTMX, AlpineJS, and streaming HTML, Chris May introduced the idea that you can have a SPA-like exerience in Django without using SPA tools. 
 
 I wrote about it in my [DjangoCon US 2023 Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html#html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html). 
 
@@ -290,9 +290,9 @@ Chris will follow up with a blog post with more info about streaming HTML compon
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Error Culture by Ryan Cheley
+### Error Culture
 
-Ryan defined Error Culture: workers ignore automated email alerts, creating a culture of reactive firefighting. 
+Ryan Cheley defined Error Culture: workers ignore automated email alerts, creating a culture of reactive firefighting. 
 
 Why does it happen? Lack of understanding, error/alert fatigue, hero culture. 
 
@@ -320,9 +320,9 @@ North Carolina-inspired lunch
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Troubleshooting is a Lifestyle 😎 by Jack Linke
+### Troubleshooting is a Lifestyle 😎
 
-Jack started off the talk with a quote and described indicator categories. 
+Jack Linke started off the talk with a quote and described indicator categories. 
 
 "If your only tool is a hammer then everything looks like a nail." Abraham Maslow
 
@@ -379,9 +379,9 @@ Jack encouraged the audience to document your process.
  
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related() by Christopher Adams
+### A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()
 
-Because I am already familiar with diagnosing and fixing N+1 problems, I watched Christopher's talk for new ideas. 
+Because I am already familiar with diagnosing and fixing N+1 problems, I watched Christopher Adams's talk for new ideas. 
 
 A few reminders
 * Querysets are immutable
@@ -404,11 +404,9 @@ Other django-debug-toolbar uses
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika
+### Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency
 
-[Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](https://2024.djangocon.us/talks/unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency/) by Ron Maravanyika
-
-Ron said that firstly, we need to define efficiency. 
+Ron Maravanyika said that firstly, we need to define efficiency. 
 
 Benchmarking is looking at time. Profiling is looking at resource usage. 
 
@@ -456,9 +454,9 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 ## Tuesday
 
-### Keynote - How To Be A Developer and Other Lies We Tell Ourselves by Mario Munoz
+### Keynote - How To Be A Developer and Other Lies We Tell Ourselves
 
-Mario started off his keynote by introducing himself. "I am a person." He went on to talk about the diverse experiences that have contributed to who he is today. 
+Mario Munoz started off his keynote by introducing himself. "I am a person." He went on to talk about the diverse experiences that have contributed to who he is today. 
 
 Mario's talk was philosophical. He acknowledged, "We all know philosophy and software engineering are the same thing." Both are involve abstract thinking, making models of intangible things, trying to apply them to real world scenarios. 
 
@@ -480,9 +478,9 @@ At the end, he revealed, "I am a community. We are a community... The community 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### PostgreSQL Beyond Django: Strategies to Get Max Performance by Álvaro Justen
+### PostgreSQL Beyond Django: Strategies to Get Max Performance
 
-Alvaro showed some lesser known ways to improve the performance of PostgreSQL.
+Álvaro Justen showed some lesser known ways to improve the performance of PostgreSQL.
 
 He explained each method, including profiling results, then ran a demo. 
 
@@ -499,9 +497,9 @@ Some of his suggested methods
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### If We Had $1,000,000: What Could The DSF Do With 4x Its Budget? by Jacob Kaplan-Moss
+### If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?
 
-Jacob is a retired Django BDFL and current DSF Treasurer. He showed the curent $255,000 DSF budget breakdown. Most of the budget goes to the salary for fellows (health of project) and admin (health of foundation). 
+Jacob Kaplan-Moss is a retired Django BDFL and current DSF Treasurer. He showed the curent $255,000 DSF budget breakdown. Most of the budget goes to the salary for fellows (health of project) and admin (health of foundation). 
 
 If the budget were quadrupled to $1,000,000, he has a personal wishlist. 
 ![](djangocon-us-2024-recap-images/jacob-my-wishlist.png)
