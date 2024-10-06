@@ -684,9 +684,33 @@ Jon during his lightning talk
 
 ### API Maybe: Bootstrapping a Web Application circa 2024
 
-
+<!--
 Carlton Gibson, former Django Fellow
- 
+--> 
+
+2018 was API first. 2024 is "HTML over the wire" and the economic climate has changed. 
+  
+With tech funding having dried up, teams have limited budget and time. 
+
+Carlton has been the only developer at his startup Paths: monitoring, evaluation, and learning for development and sustainability projects. 
+
+He said that "Django is the perfect framework for our post zero interest rate world. It really shines when the money is tight. [It] is the framework for perfectionists with deadlines... When these deadlines are financial, all the more so."
+
+By leveraging Django, you can get as much done as teams using more complex stacks. 
+
+"Holding the line on locality of behavior can really pay dividends."
+
+
+Locality of behavior tools
+* Neopolitan
+* Tailwind CSS
+* django-template-partials
+* Alpine.js
+  
+More useful to me resources
+* [Django Chat](https://djangochat.com/)
+* [Protected variations](https://www.martinfowler.com/ieeeSoftware/protectedVariation.pdf) architecture pattern
+* Luke Plant's [Programming Mantras are Proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -741,9 +765,6 @@ Noah and Jib- MongoDB
 Includes joins
 See lightning talk
 https://github.com/mongodb-labs/django-mongodb
-
-Thibaud- caching
-Tools list
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
