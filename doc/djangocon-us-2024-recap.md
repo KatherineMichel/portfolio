@@ -264,7 +264,7 @@ When SPAs could be worth their weight (Alex Russell in [Caprock](https://infrequ
 When or when-not to SPA (Alex Russell in [Caprock](https://infrequently.org/2024/08/caprock/))
 ![](djangocon-us-2024-recap-images/chris-specrum.png)
 
-Chris pointed out [Katie Sylor-Miller's "Component Islands" pattern](https://jasonformat.com/islands-architecture/) as showing promise. "Removing the need for a root JavaScript component greatly reduces complexity." The brower can handle most things without JavaScript." 
+Chris pointed out [Katie Sylor-Miller's "Component Islands" pattern](https://jasonformat.com/islands-architecture/) as showing promise. "Removing the need for a root JavaScript component greatly reduces complexity. The brower can handle most things without JavaScript." 
 
 Streamed HTML Components
 ![](djangocon-us-2024-recap-images/chris-streamed-html-components.png)
