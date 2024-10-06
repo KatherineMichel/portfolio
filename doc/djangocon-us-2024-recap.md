@@ -372,7 +372,7 @@ Yep!
 Where to get help
 ![](djangocon-us-2024-recap-images/jack-where-to-get-help.png)
 
-Jack gave a shout to Ken Whitesell for his prolific question-answering in the Django Forum!
+Jack gave a shout out to Ken Whitesell for his prolific question-answering in the Django Forum!
 
 Jack encouraged the audience to document your process. 
 ![](djangocon-us-2024-recap-images/jack-write-down-your-troubleshooting-process.png)
@@ -476,10 +476,10 @@ At the end, he revealed, "I am a community. We are a community... The community 
 
 ### PostgreSQL Beyond Django: Strategies to Get Max Performance by Álvaro Justen
 
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### If We Had $1,000,000: What Could The DSF Do With 4x Its Budget? by Jacob Kaplan-Moss
-
 
 
 <sub>[**back to top**](#table-of-contents)</sub>
