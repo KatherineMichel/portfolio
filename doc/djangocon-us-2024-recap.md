@@ -254,14 +254,16 @@ SPA downsides
 * Slow startup time
 * Bad user experience on slow devices
 
-<!--
-TBC
-
-When SPAs could be worth their weight
+![](djangocon-us-2024-recap-images/chris-specrum.png)
 
 How the front-end is coping
+![](djangocon-us-2024-recap-images/chris-how-the-frontend-is-coping.png)
 
--->
+When SPAs could be worth their weight
+![](djangocon-us-2024-recap-images/chris-when-spas-could-be-worth-their-weight.png)
+
+streamedHTML Components
+![](djangocon-us-2024-recap-images/chris-streamed-html-components.png)
 
 Chris introduced tools that can be used to create a SPA-like experience
 * [Django Unicorn](https://www.django-unicorn.com/)
