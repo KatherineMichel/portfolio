@@ -648,11 +648,12 @@ Django Fellow Sarah Boyce pointed out that work on [Django 5.x](https://docs.dja
  
 ![](djangocon-us-2024-recap-images/sarah-django-5-x.png)
 
-Although Django release notes are the source of truth for info about releases, "need to know" information that you see in the release notes only constitutes 13$ of the work done. 
+Although Django release notes are the source of truth for info about releases, "need to know" information that you see in the release notes only constitutes 13% of the work done. 
 
+Need to know versus want to know
 ![](djangocon-us-2024-recap-images/sarah-need-to-know-want-to-know.png)
 
-A few examples of what you don't see in the release notes
+A few examples of what you didn't see in the release notes
 * A screen reader experience demo showing improved logical structure, navigation, announcement of relevant info in Django Admin
 * WiP Accessibility contributor guide by Thibaud Colas
 * Code references in docs now have links to source code on GitHub
