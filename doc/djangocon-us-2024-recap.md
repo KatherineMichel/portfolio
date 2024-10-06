@@ -479,10 +479,26 @@ At the end, he revealed, "I am a community. We are a community... The community 
 
 ### PostgreSQL Beyond Django: Strategies to Get Max Performance by Álvaro Justen
 
+Alvaro showed some lesser known ways to improve the performance of PostgreSQL.
+
+He explained each method including profiling results, then ran a demo. 
+
+Some of his suggested methods
+* Use UUID field as primary key field and avoid creating two columns. You do not need a sequential ID, because of the UUID hash. You can index UUID. 
+* Starting at Django 3.2, the ID of each field went from 4 to 8 bytes. In settings use the default AutoField instead of BigAutoField.
+* Alvaro prefers to create his own ID. See urlid.org for his methodology.
+* Use SQL min/max to check the size of table values. Use SmallIntegerField instead of IntegerField.
+* Column order can affect space used. Use fixed-size columns (bigger, then smaller), then variable-size
+* [Data alignment in Postgres](https://www.enterprisedb.com/postgres-tutorials/data-alignment-postgresql)
+* Full text search and search vector field scenarios
+* Trigger- perform operations inside of the database more quickly than in the app. Don't put much business logic in the trigger.
+
+[Code](https://github.com/PythonicCafe/djpg-example)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### If We Had $1,000,000: What Could The DSF Do With 4x Its Budget? by Jacob Kaplan-Moss
+
 
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -543,15 +559,14 @@ Me standing in front of the bar at Boxcar
 
 Wednesday was deep dive day. 
 
-
-[Keynote - The Fellowship of the Pony](https://2024.djangocon.us/talks/keynote-wednesday/) by Natalia Bidart
+### Keynote - The Fellowship of the Pony by Natalia Bidart
 
 My points of interest
 * 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-[Hidden gems of Django 5.x](https://2024.djangocon.us/talks/hidden-gems-of-django-5-x/) by Sarah Boyce
+### Hidden gems of Django 5.x by Sarah Boyce
 
 My points of interest
 * 
@@ -569,31 +584,11 @@ It's no secret that I've been using social media for networking for many years n
 Jon during his lightning talk
 ![](djangocon-us-2024-recap-images/jon-lightning-talk.jpg)
 
-<!--
-Lightning talk slide screenshot
--->
-
-<sub>[**back to top**](#table-of-contents)</sub>
-
-
-[Django & Celery: A love story of async proportions](https://2024.djangocon.us/talks/django-celery-a-love-story-of-async-proportions/) by Hugo Bessa
-
-My points of interest
-* Django performance, Python is slow, not built to work with multi-thread
-* Running operations in the background
-* Requests should be processed quickly for a good user experience
-* Celery: async task queue or job queue which is based on distributed messaging passing
-* Separates async task execution from main app execution so that it doesn't run the same processes as Django runs
-* 
-
-<!--
-https://github.com/celery/celery
--->
-
 <sub>[**back to top**](#table-of-contents)</sub>
 
 [API Maybe: Bootstrapping a Web Application circa 2024](https://2024.djangocon.us/talks/api-maybe-bootstrapping-a-web-application-circa-2024/) by Carlton Gibson
 
+<!--
 My points of interest
 * Blog and DjangoChat
 * Paths: monitoring, evaluation, and learning for development and sustainability projects
@@ -627,18 +622,6 @@ My points of interest
 * Code that is likely to change, by focusing on locality of behavior
 * Violation of protected variations
 * 
-
-<!--
-[Django + Alpine.js + htmx Ups & Downs](https://2024.djangocon.us/talks/django-alpine-js-htmx-ups-downs/) by Karen Tracey
-
-My points of interest
-* North Carolina Outerbanks Nags Head
-* The promise of a sunny day
-* Overlap between frontend frameworks and Django
-* The frontend frameworks would expect that instead of sending HTML, the server would be sending JSON. And the frontend frameworks would take the JSON and turn that into HTML.
-* Lack of full stack
-* "We're all on a walk on the beach"
-* Karen would like to encourage sharing of information. 
 -->
 
 <sub>[**back to top**](#table-of-contents)</sub>
