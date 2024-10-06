@@ -246,7 +246,7 @@ According to Thoughtworks, "Too often teams are skipping [that] trade-off analys
 
 Taylor Hunt refactored a React/Redux grocery store SPA app for a much improved experience by using just HTML, CSS, and laser-focused JavaScript. 
 
-Chris started this year's talk off by asking some questions: Are you using a SPA? What would make you change? When do you think you should use a SPA? Why would I want to use HTMX versus SPA? What tools are you favorite tools? Are you using them well?
+Chris started this year's talk off by asking some questions: Are you using a SPA? What would make you change? When do you think you should use a SPA? Why would you want to use HTMX versus SPA? What tools are you favorite tools? Are you using them well?
 
 SPA downsides
 * Slow startup time
@@ -531,6 +531,7 @@ More useful to me resources
 * Sue Gardner's [What's Really Wrong With Non-Profits and How We Can Fix It?](https://suegardner.org/2013/10/20/whats-really-wrong-with-nonprofits-and-how-we-can-fix-it/)
 
 <sub>[**back to top**](#table-of-contents)</sub>
+
 
 ### Faster, leaner, greener: 10x lower website carbon emissions by Thibaud Colas
 
