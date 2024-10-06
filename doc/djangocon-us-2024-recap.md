@@ -33,8 +33,7 @@ Table of Contents
     - [Keynote - The Fellowship of the Pony](#keynote-the-fellowship-of-the-pony-by-natalia-bidart)
     - [Hidden gems of Django 5.x](#hidden-gems-of-django-5-x-by-sarah-boyce)
     - [Lightning Talk Cameo](#lightning-talk-cameo)
-    - [API Maybe: Bootstrapping a Web Application circa 2024](#keynote---how-to-be-a-developer-and-other-lies-we-tell-ourselves)
-
+    - [API Maybe: Bootstrapping a Web Application circa 2024](#api-maybe-bootstrapping-a-web-application-circa-2024)
     - [Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django](#panel-discussion-open-friendly-and-welcoming-on-the-history-and-future-of-mentoring-in-django)
     - [Queeny's](#queenys)
 - [Hallway Track](#hallway-track)
