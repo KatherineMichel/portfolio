@@ -412,6 +412,9 @@ Ron said that firstly, we need to define efficiency.
 
 Benchmarking is looking at time. Profiling is looking at resource usage. 
 
+Summary
+![](djangocon-us-2024-recap-images/ron-process-to-follow.png)
+ 
 Ron explained some possible tools and gave demos
 * Unix time command: real, user, sys
 * Python timeit module
