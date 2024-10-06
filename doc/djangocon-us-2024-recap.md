@@ -25,6 +25,7 @@ Table of Contents
     - [Keynote - How To Be A Developer and Other Lies We Tell Ourselves](#keynote---how-to-be-a-developer-and-other-lies-we-tell-ourselves)
     - [PostgreSQL Beyond Django: Strategies to Get Max Performance](#postgresql-beyond-django-strategies-to-get-max-performance)
     - [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](#if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget)
+    - [django-mongodb](#django-mongodb)
     - [Faster, leaner, greener: 10x lower website carbon emissions](#faster-leaner-greener-10x-lower-website-carbon-emissions)
     - [Meeting Lorenzo](#meeting-lorenzo)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
@@ -547,10 +548,11 @@ After Jacob Kaplan-Moss referenced [django-mongodb](https://github.com/mongodb-l
 
 Jib and his friends founded ByBlack. They wanted to use Django, but were too invested in MongoDB. A year ago, he was hired at MongoDB. They eventually hit him with a Django pitch. It felt personal. He wanted it to work. 
 
-<!--
-Slides
-Link
--->
+Motivations...
+![](djangocon-us-2024-recap-images/jib-motivations-how-it-works.png)
+
+How does it work
+![](djangocon-us-2024-recap-images/jib-how-does-it-work.png)
 
 ### Faster, leaner, greener: 10x lower website carbon emissions
 
