@@ -709,7 +709,7 @@ Carlton Gibson, former Django Fellow, is the only worker on the tech side at his
   
 With tech funding having dried up, teams have limited budget and time. 
 
-He said that "Django really shines when the money is tight. Django is the framework for perfectionists with deadlines... When these deadlines are financial, all the more so. Django is the perfect framework for our post zero interest rate world. "
+He said that "Django really shines when the money is tight. Django is the framework for perfectionists with deadlines. When these deadlines are financial, all the more so. Django is the perfect framework for our post zero interest rate world. "
 
 By leveraging Django, you can get as much done as teams using more complex stacks. 
 
@@ -723,7 +723,7 @@ Locality of behavior is a starting point, not a destination.
 
 New code that is likely to change... by focusing in locality of behavior, you can stablilize the code and let the deeper patterns emerge. Quickly refactoring to DRY code can create premature optimization that leaves the code "stuck in the local optima." 
 
-Learning into Django... 
+Leaning into Django... 
 
 Django templates and the component ecosystem- a vibrant and exciting time
 * [django-unicorn](https://www.django-unicorn.com/)
@@ -731,7 +731,7 @@ Django templates and the component ecosystem- a vibrant and exciting time
 * [django-cotton](https://django-cotton.com/)
 * [dj-angles](https://github.com/adamghill/dj-angles)
 
-Carlton's recommended stack, which also focuses on locality of behavior
+Carlton's recommended stack, which focuses on locality of behavior
 * [HTMX](https://htmx.org/)- HTMX can get us a long way and save a lot of time
 * [django-template-partials](https://github.com/carltongibson/django-template-partials)- HTMX utility
 * [Tailwind CSS](https://tailwindcss.com/)
