@@ -22,7 +22,10 @@ Table of Contents
     - [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency by Ron Maravanyika](#unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency-by-ron-maravanyika)
     - [DEFNA Board Dinner](#defna-board-dinner)      
 - [Tuesday](#tuesday)
-
+    - [Keynote - How To Be A Developer and Other Lies We Tell Ourselves by Mario Munoz](#)
+    - [PostgreSQL Beyond Django: Strategies to Get Max Performance by Álvaro Justen](#)
+    - [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget? by Jacob Kaplan-Moss](#meeting-lorenzo)
+    - [Faster, leaner, greener: 10x lower website carbon emissions by Thibaud Colas](#meeting-lorenzo)
     - [Meeting Lorenzo](#meeting-lorenzo)
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
     - [The Boxcar Bar and Arcade](#the-boxcar-bar-and-arcade)
@@ -460,9 +463,9 @@ Mario then used a Person/Ality personality simulator. Images, as though from the
 ![](djangocon-us-2024-recap-images/mario-withdrawn-mood-self-absorbed.png)
 
 Throughout the talk, he reflected
-* "Being a developer should in no way rob you of who you are and your own identity"
+* "Being a developer should in no way rob you of who you are and your own identity."
 * "The biggest lie that we can tell ourselves is that these objects of representation that are outside of us are synonymous with who we are."
-* "Everything we tell ourselves about ourselves is always a little bit inadequate"
+* "Everything we tell ourselves about ourselves is always a little bit inadequate."
 * Our strengths can be our biggest weakness and our weaknesses can be turned into our strengths.
 
 At the end, he revealed, "I am a community. We are a community... The community is my biggest asset."
@@ -471,24 +474,17 @@ At the end, he revealed, "I am a community. We are a community... The community 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-
-<!--
-[Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework](https://2024.djangocon.us/talks/seamless-transition-how-i-converted-an-existing-mysql-database-to-be-fully-managed-by-django-migrations-framework/) by Daniel Ramas
+### PostgreSQL Beyond Django: Strategies to Get Max Performance by Álvaro Justen
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-[PostgreSQL Beyond Django: Strategies to Get Max Performance](https://2024.djangocon.us/talks/postgresql-beyond-django-strategies-to-get-max-performance/) by Álvaro Justen
+### If We Had $1,000,000: What Could The DSF Do With 4x Its Budget? by Jacob Kaplan-Moss
+
+
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-[If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/) by Jacob Kaplan-Moss
--->
-
-<sub>[**back to top**](#table-of-contents)</sub>
-
-### Tuesday Afternoon Talks
-
-[Faster, leaner, greener: 10x lower website carbon emissions](https://2024.djangocon.us/talks/faster-leaner-greener-10x-lower-website-carbon-emissions/) by Thibaud Colas
+### Faster, leaner, greener: 10x lower website carbon emissions by Thibaud Colas
 
 My points of interest
 * Wagtail developer, DSF Board Member
