@@ -484,7 +484,7 @@ At the end, he revealed, "I am a community. We are a community... The community 
 
 Alvaro showed some lesser known ways to improve the performance of PostgreSQL.
 
-He explained each method including profiling results, then ran a demo. 
+He explained each method, including profiling results, then ran a demo. 
 
 Some of his suggested methods
 * Use UUID field as primary key field and avoid creating two columns. You do not need a sequential ID, because of the UUID hash. You can index UUID. 
