@@ -437,24 +437,29 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 ### Tuesday Morning Talks
 
-#### [Keynote - How To Be A Developer and Other Lies We Tell Ourselves](https://2024.djangocon.us/talks/keynote-tuesday/) by Mario Munoz
+#### Keynote - How To Be A Developer and Other Lies We Tell Ourselves by Mario Munoz
 
-Mario started off his keynote by introducing himself. "I am a person." He went on to talk about the many experiences that have contributed to who he is. 
+Mario started off his keynote by introducing himself. "I am a person." He went on to talk about the diverse experiences that have contributed to who he is today. 
 
-<!--
-* "We all know philosophy and software engineering are the same thing." Abstract thinking, making models of intangible things, trying to apply them to real world scenarios.
-* Jacques Lacan- Mirror Stage
+Mario's talk was philosophical. He acknowledged, "We all know philosophy and software engineering are the same thing." Both are involve abstract thinking, making models of intangible things, trying to apply them to real world scenarios. 
+
+He talked about The Mirror Stage, a concept in Jacques Lacan's psychoanalytic theory. It refers to the time when a child identifies their own image. 
+
+Mario then used a Person/Ality personality simulator. Images, as though from the subconscious, appeared on the screen as he talked about experiences as a developer.  
+
+Throughout the talk, he reflected
 * "Being a developer should in no way rob you of who you are and your own identity"
-* Person/Ality personality simulator
 * "The biggest lie that we can tell ourselves is that these objects of representation that are outside of us are synonymous with who we are."
 * "Everything we tell ourselves about ourselves is always a little bit inadequate"
-* "Our strengths can also be our biggest weaknesses." Examples. "You can also turn your weaknesses into your strengths."
-* Far greater things... "I am a community. We are a community... The community is my biggest asset."
-* "How to be a better developer... be a better person to others." 
--->
+* Our strengths can be our biggest weakness and our weaknesses can be turned into our strengths.
+
+At the end, he revealed, "I am a community. We are a community... The community is my biggest asset."
+
+"How to be a better developer... be a better person to others." 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
+<!--
 [Seamless Transition: How I Converted an Existing MySQL Database to be Fully Managed by Django Migrations Framework](https://2024.djangocon.us/talks/seamless-transition-how-i-converted-an-existing-mysql-database-to-be-fully-managed-by-django-migrations-framework/) by Daniel Ramas
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -464,6 +469,7 @@ Mario started off his keynote by introducing himself. "I am a person." He went o
 <sub>[**back to top**](#table-of-contents)</sub>
 
 [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](https://2024.djangocon.us/talks/if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget/) by Jacob Kaplan-Moss
+-->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
