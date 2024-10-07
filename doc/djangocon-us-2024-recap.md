@@ -84,6 +84,8 @@ Written form details
 
 As they say in open source, "Given enough eyeballs, all bugs are shallow." Perhaps with the eyeballs of the entire community, we can find an acceptable course of action. 
 
+[Written long-form proposal details](https://www.defna.org/announcements/2024/5/9/djangocon-us-call-for-venue-proposal-2025/)
+
 ![](djangocon-us-2024-recap-images/adam-djangocon-us-1.png)
 ![](djangocon-us-2024-recap-images/adam-djangocon-us-2.png)
 ![](djangocon-us-2024-recap-images/adam-djangocon-us-3.png)
@@ -93,8 +95,6 @@ As they say in open source, "Given enough eyeballs, all bugs are shallow." Perha
 <!--
 ![](djangocon-us-2024-recap-images/adam-djangocon-us-6.png)
 -->
-
-[Written long-form proposal details](https://www.defna.org/announcements/2024/5/9/djangocon-us-call-for-venue-proposal-2025/)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -218,6 +218,8 @@ Djangonauts at Ponysaurus
 ## Monday
 
 Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Grandstaff kicked off the conference. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Keynote - Power to the People who Teach the People
 
