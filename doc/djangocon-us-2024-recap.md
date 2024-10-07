@@ -478,6 +478,8 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 ## Tuesday
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Keynote- How To Be A Developer and Other Lies We Tell Ourselves
 
 Mario Munoz started off his keynote by introducing himself. "I am a person." He went on to talk about the diverse experiences that have contributed to who he is today. 
