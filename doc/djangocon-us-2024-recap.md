@@ -22,7 +22,7 @@ Table of Contents
     - [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](#unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency)
     - [DEFNA Board Dinner](#defna-board-dinner)      
 - [Tuesday](#tuesday)
-    - [Keynote - How To Be A Developer and Other Lies We Tell Ourselves](#keynote---how-to-be-a-developer-and-other-lies-we-tell-ourselves)
+    - [Keynote- How To Be A Developer and Other Lies We Tell Ourselves](#keynote-how-to-be-a-developer-and-other-lies-we-tell-ourselves)
     - [PostgreSQL Beyond Django: Strategies to Get Max Performance](#postgresql-beyond-django-strategies-to-get-max-performance)
     - [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](#if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget)
     - [django-mongodb](#django-mongodb)
@@ -31,7 +31,7 @@ Table of Contents
     - [Speaker and Organizer Dinner](#speaker-and-organizer-dinner)
     - [The Boxcar Bar and Arcade](#the-boxcar-bar-and-arcade)
 - [Wednesday](#wednesday)
-    - [Keynote - The Fellowship of the Pony](#keynote-the-fellowship-of-the-pony)
+    - [Keynote- The Fellowship of the Pony](#keynote-the-fellowship-of-the-pony)
     - [Hidden gems of Django 5.x](#hidden-gems-of-django-5-x)
     - [Lightning Talk Cameo](#lightning-talk-cameo)
     - [API Maybe: Bootstrapping a Web Application circa 2024](#api-maybe-bootstrapping-a-web-application-circa-2024)
@@ -478,7 +478,7 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 ## Tuesday
 
-### Keynote - How To Be A Developer and Other Lies We Tell Ourselves
+### Keynote- How To Be A Developer and Other Lies We Tell Ourselves
 
 Mario Munoz started off his keynote by introducing himself. "I am a person." He went on to talk about the diverse experiences that have contributed to who he is today. 
 
@@ -671,7 +671,7 @@ Wednesday was deep dive day.
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Keynote - The Fellowship of the Pony
+### Keynote- The Fellowship of the Pony
 
 Using Lord of the Rings, Natalia Bidart, Django Fellow (a.k.a. necessita) gave a comprehensive explanation of what Django Fellowship is. 
 
