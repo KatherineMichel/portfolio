@@ -295,8 +295,8 @@ Streamed HTML Components
 Chris introduced tools that can be used to create a SPA-like experience
 * CSS view transitions
 * [Django Unicorn](https://www.django-unicorn.com/)
-* HTMX
-* Alpine.js
+* [HTMX](https://htmx.org/)
+* [Alpine.js](https://alpinejs.dev/)
 * [django-template-partials](https://github.com/carltongibson/django-template-partials)
 * [django-components](https://pypi.org/project/django-components/)
 * [Datastar](https://datastar.fly.dev/)
@@ -359,12 +359,12 @@ Django System Checks Framework
 ![](djangocon-us-2024-recap-images/jack-django-systems-check-framework.png)
 
 He then moved on to some third-party packages and tools
-* django-debug-toolbar (also extensible)
-* django-silk performance profiler
+* [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) (also extensible)
+* [django-silk](https://github.com/jazzband/django-silk) performance profiler
 * Error tracking and performance monitoring- Sentry, Rollbar, Newrelic, Honeybadger, Bugsnag, Raygun
-* He gave a demo of Sentry dashboard with error page, error message, tags
-* django-health-check package (can add Celery, Redis, Postgres)
-* django-watchman
+* He gave a demo of [Sentry](https://sentry.io/welcome/) dashboard with error page, error message, tags
+* [django-health-check](https://github.com/revsys/django-health-check) package (can add Celery, Redis, Postgres)
+* [django-watchman](https://github.com/mwarkentin/django-watchman)
 
 He gave an example of extending the Django admin by adding checks. He had an issue with Celery- too few tasks were processed. He put a panel into the admin to capture the last 24 hours of tasks processed through Celery. 
 
