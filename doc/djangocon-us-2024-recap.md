@@ -802,7 +802,7 @@ These tools have enbled Carlton to create a GVP (Genuinely Viable Product). Carl
 
 More useful to me resources
 * [Django Chat](https://djangochat.com/)
-* [Protected variations](https://www.martinfowler.com/ieeeSoftware/protectedVariation.pdf) architecture pattern
+* [Protected Variations](https://www.martinfowler.com/ieeeSoftware/protectedVariation.pdf) architecture pattern
 * Luke Plant's [Programming Mantras are Proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
 
 <sub>[**back to top**](#table-of-contents)</sub>
