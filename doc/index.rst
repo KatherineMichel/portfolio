@@ -42,6 +42,7 @@ Welcome to Kati's Portfolio!
    :maxdepth: 2
    :caption: Conferences Recaps:
 
+   djangocon-us-2024-recap.md
    pycon-us-2024-recap.md
    djangocon-us-2023-recap.md
    pygotham-2019-recap.md
