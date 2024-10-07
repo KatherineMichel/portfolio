@@ -208,7 +208,7 @@ On Sunday, I continued my tradition of swag stuffing. Conference pro-tip: it's a
 
 For the second year in a row, Foxley Talent spearheaded a Django Social event at [Ponysaurus Brewing Company](https://www.ponysaurusbrewing.com/). Thank you to REVSYS for sponsoring as well. 
 
-A sign of a fantastic event: it was over before I knew it. I had the chance to catch up with "old" friends and meet new ones. 
+A sign of a fantastic event: it was over before I knew it. I had the chance to catch up with old friends and meet new ones. 
 
 Djangonauts at Ponysaurus
 ![](djangocon-us-2024-recap-images/django-social.jpg)
