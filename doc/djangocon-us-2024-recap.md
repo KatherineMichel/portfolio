@@ -845,7 +845,7 @@ I pointed out Chris May's HTMX talk to Philip, a UI developer. He didn't know ab
 
 I found out from Frank Wiles that there is some early talk about a possible Lawrence Django event. 
 
-I chatted with Simon Willison about some of my work duties, and he identified them as senior level. He told me about his excitement for his upcoming trip to see the [V & E Simonetti Historic Tuba Collection](https://www.atlasobscura.com/places/v-e-simonetti-historic-tuba-collection).
+I chatted with Simon Willison about some of my work duties, and he identified them as senior level. He told me about his excitement for his upcoming trip to see the [V & E Simonetti Historic Tuba Collection](https://www.atlasobscura.com/places/v-e-simonetti-historic-tuba-collection). He did a [write-up](https://www.niche-museums.com/112) about the experience on his Niche Museums site. 
 
 After avidly following each other on social media for years, Sangeeta Jadoonanan and I finally met in person! 
 
