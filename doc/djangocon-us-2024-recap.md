@@ -675,7 +675,7 @@ Wednesday was deep dive day.
 
 ### Keynote- The Fellowship of the Pony
 
-Using Lord of the Rings, Natalia Bidart, Django Fellow (a.k.a. necessita) gave a comprehensive explanation of what Django Fellowship is. 
+Using Lord of the Rings, Django Fellow Natalia Bidart (a.k.a. necessita) gave a comprehensive explanation of what Django Fellowship is. 
 
 Her breakdown of fellow and community tasks is a treasure trove. This is a great addition to Django Fellow Sarah Boyce's recent talk [Django Core Demystified](https://youtu.be/8rIylYYCmSI?si=8RsuP6VX41mVS0p6). 
 
