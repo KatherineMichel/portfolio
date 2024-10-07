@@ -75,7 +75,7 @@ Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 
 If you want to bring DjangoCon US to your city or volunteer, we want to hear from you! 
 
-My fellow DEFNA Board Member Adam Fast gave a lightning talk about our search for a venue for 2025 and beyond. Affordability continues to be a challenge.  
+My fellow DEFNA Board Member Adam Fast gave a lightning talk about our search for a venue for 2025 and beyond. Affordability is a challenge.  
 
 <!--
 Volunteers
@@ -169,7 +169,7 @@ Interactive speakers
 
 BPD Vice-Executor Velda Kiara led a panel with with community leaders about topics concerning Black Leaders in Python.
 
-Panel participants Benedict Koji Amofah, Jeff Triplett, Loren Crary, Monica Oyugi, and host Velda Kiara
+Panel participants Benedict Kofi Amofah, Jeff Triplett, Loren Crary, Monica Oyugi, and host Velda Kiara
 ![](djangocon-us-2024-recap-images/black-python-devs-summit-panel.jpg)
 
 After the panel, we took part in breakout sessions. My group had a thoughtful and spirited conversation about newcomer psychological safety moderated by Alex Oladele and Paul Everitt.
