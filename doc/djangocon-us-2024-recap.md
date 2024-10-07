@@ -24,7 +24,7 @@ Table of Contents
 - [Tuesday](#tuesday)
     - [Keynote- How To Be A Developer and Other Lies We Tell Ourselves](#keynote-how-to-be-a-developer-and-other-lies-we-tell-ourselves)
     - [PostgreSQL Beyond Django: Strategies to Get Max Performance](#postgresql-beyond-django-strategies-to-get-max-performance)
-    - [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](#if-we-had-1000000-what-could-the-dsf-do-with-4x-its-budget)
+    - [If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?](#if-we-had-1-000-000-what-could-the-dsf-do-with-4x-its-budget)
     - [django-mongodb](#django-mongodb)
     - [Faster, leaner, greener: 10x lower website carbon emissions](#faster-leaner-greener-10x-lower-website-carbon-emissions)
     - [Meeting Lorenzo](#meeting-lorenzo)
