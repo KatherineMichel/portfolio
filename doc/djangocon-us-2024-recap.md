@@ -703,10 +703,10 @@ Learn, overlook, test, regulate
 Liase, onboard, train, recognize
 ![](djangocon-us-2024-recap-images/natalia-liase-onboard-train-recognize.png)
 
+<!--
 Lint, optimize, trim, refine
 ![](djangocon-us-2024-recap-images/natalia-lint-optimize-trim-refine.png)
 
-<!--
 List, outline, testify, report
 ![](djangocon-us-2024-recap-images/natalia-list-outline-testify-report.png)
 -->
@@ -717,10 +717,10 @@ Load, overee, triage, review
 <!--
 Locate, overcome, tackle, remedy
 ![](djangocon-us-2024-recap-images/natalia-locate-overcome-tackle-remedy.png)
--->
 
 Lock, observe, trace, reveal
 ![](djangocon-us-2024-recap-images/natalia-lock-observe-trace-reveal.png)
+-->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
