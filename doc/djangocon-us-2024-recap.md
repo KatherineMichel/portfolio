@@ -112,7 +112,11 @@ In addition, we did a refactor of our DjangoCon US website backend this year. It
 
 Feel free to fork it and use it in line with the license. 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ## Pre-Conference Activities
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Sightseeing and Some Great Meals
 
@@ -142,7 +146,9 @@ I've always wanted one of these! A nice visual metaphor taken along the side of 
 
 Unscripted rooftop pool
 ![](djangocon-us-2024-recap-images/unscripted-rooftop-pool.jpg)
-  
+
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Black Python Devs Leadership Summit
 
 It was an honor to have been invited to attend the [Black Python Devs Leadership Summit](https://blackpythondevs.com/leadership-summit-2024/) as a distinguished guest. 
@@ -178,6 +184,8 @@ I am so proud of them for the role they played in organizing an outstanding even
 BPD Founder Jay Miller announced that the next leadership summit will be somewhere in Africa. 
 
 The morning and afternoon replays are available on the info page. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Rooftop View of Durham
 
@@ -556,6 +564,8 @@ Motivations...
 How does it work
 ![](djangocon-us-2024-recap-images/jib-how-does-it-work.png)
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Faster, leaner, greener: 10x lower website carbon emissions
 
 Thank you to Thibaud Colas, DSF Board Member and Wagtail Developer for this important talk. 
@@ -656,6 +666,8 @@ Me standing in front of the bar at Boxcar
 ## Wednesday
 
 Wednesday was deep dive day. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Keynote - The Fellowship of the Pony
 
@@ -869,6 +881,8 @@ As our conference becomes more diverse, a common frustration has emerged: diffic
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Thursday
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Sprints
 
