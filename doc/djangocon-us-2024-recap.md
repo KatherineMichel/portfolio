@@ -94,6 +94,8 @@ As they say in open source, "Given enough eyeballs, all bugs are shallow." Perha
 ![](djangocon-us-2024-recap-images/adam-djangocon-us-6.png)
 -->
 
+[Written long-form proposal details](https://www.defna.org/announcements/2024/5/9/djangocon-us-call-for-venue-proposal-2025/)
+
 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### DjangoCon US Website and Design
@@ -556,13 +558,47 @@ How does it work
 
 ### Faster, leaner, greener: 10x lower website carbon emissions
 
+Thank you to Thibaud Colas, DSF Board Member and Wagtail Developer for this important talk. 
 
-Thibaud Colas
+Slides: [wagtail.org/10x-lower](https://docs.google.com/presentation/d/1rmRFk5Kt4BraK4eRE7kmq8R5OoprXqMKVm9aPLVUXMg/edit)
 
-My points of interest
-* Wagtail developer, DSF Board Member
-* wagtail.org/10x-lower
-* 
+Thibaud estimates 119,120 tC02e/year emissions for 52,531 Django sites. 
+
+Where emissions come from
+
+Greenhouse gas emissions by system segment
+
+
+Things we can do
+
+Facade pattern
+* [lite-youtube-embed](https://github.com/paulirish/lite-youtube-embed) is 95% less than original
+
+Display brightness
+* Dark mode and OLED- dark mode is 60% less than light (and also happens to be good for accessibility)
+* Apple will complete the switch from LCD to OLED next year and start the switch for laptops in 2026
+
+Best attempt to chart how high emissions are based on how dark or light 
+
+Image optimizations
+* Jpegli (new encoder from Google) is 33% less than JPEG
+* AVIF is 76% less than JPEG
+* PDF example- AVIF-optimized version was 10x less
+
+Responsive images
+* A mobile display size image was 78% less than an original image
+
+Image packages that can be used to implement improvements
+* [django-imagekit](https://django-imagekit.readthedocs.io/en/latest/)
+* [django-pictures](https://github.com/codingjoe/django-pictures)
+
+Site architecture
+
+The more JavaScript you use, the higher the emissions
+
+Over provisioning a server with more CPUs than it needs
+
+Data center regions and their carbon grid intensity- moving from useast1 to northamerica-northeast1 is 280x lower
 
 
 <sub>[**back to top**](#table-of-contents)</sub>
