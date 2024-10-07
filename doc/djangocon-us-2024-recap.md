@@ -100,7 +100,7 @@ As they say in open source, "Given enough eyeballs, all bugs are shallow." Perha
 
 ### DjangoCon US Website and Design
 
-A number of people have commented that they've really loved the t-shirt and bag this year. 
+A number of people have commented that they've really loved the conference t-shirt and bag this year. 
 
 Our wonderful designer Joni Trythall of YupGup did a [DjangoCon US Design Reflection](https://jonitrythall.com/dcus-design-reflection) featuring all of our designs since 2018. 
 
