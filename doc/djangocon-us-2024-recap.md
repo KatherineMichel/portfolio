@@ -18,7 +18,7 @@ Table of Contents
     - [Error Culture](#error-culture)
     - [Shrimp and Grits](#shrimp-and-grits)
     - [Troubleshooting is a Lifestyle 😎](#troubleshooting-is-a-lifestyle)
-    - [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](#a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select_related-and-prefetch_related)
+    - [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](#a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related)
     - [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](#unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency)
     - [DEFNA Board Dinner](#defna-board-dinner)      
 - [Tuesday](#tuesday)
