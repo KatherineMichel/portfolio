@@ -49,7 +49,7 @@ Table of Contents
     - [Sarah P. Duke Gardens](#sarah-p-duke-gardens)
     - [Cocoa Cinnamon](#cocoa-cinnamon)
     - [The Can Opener](#the-can-opener)
-    - [21c Museum Hotel](#21c-museum-hotel)
+    - [21c Museum Hotel](#c-museum-hotel)
     - [The Durham Hotel](#the-durham-hotel)
     - [Mother and Sons](#mother-and-sons)
     - [Durham Food Hall](#durham-food-hall)
