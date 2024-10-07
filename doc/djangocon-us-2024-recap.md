@@ -563,11 +563,12 @@ Thank you to Thibaud Colas, DSF Board Member and Wagtail Developer for this impo
 Slides: [wagtail.org/10x-lower](https://docs.google.com/presentation/d/1rmRFk5Kt4BraK4eRE7kmq8R5OoprXqMKVm9aPLVUXMg/edit)
 
 Thibaud estimates 119,120 tC02e/year emissions for 52,531 Django sites. 
-
+ 
 Where emissions come from
+![](djangocon-us-2024-recap-images/thibaud-system-segments.png)
 
 Greenhouse gas emissions by system segment
-
+![](djangocon-us-2024-recap-images/thibaud-greenhouse-gas-emissions.png)
 
 Things we can do
 
@@ -579,6 +580,7 @@ Display brightness
 * Apple will complete the switch from LCD to OLED next year and start the switch for laptops in 2026
 
 Best attempt to chart how high emissions are based on how dark or light 
+![](djangocon-us-2024-recap-images/thibaud-oled-power-consumption.png)
 
 Image optimizations
 * Jpegli (new encoder from Google) is 33% less than JPEG
@@ -595,11 +597,16 @@ Image packages that can be used to implement improvements
 Site architecture
 
 The more JavaScript you use, the higher the emissions
+![](djangocon-us-2024-recap-images/thibaud-energy-usage.png)
 
 Over provisioning a server with more CPUs than it needs
+![](djangocon-us-2024-recap-images/thibaud-faas.png)
 
 Data center regions and their carbon grid intensity- moving from useast1 to northamerica-northeast1 is 280x lower
+![](djangocon-us-2024-recap-images/thibaud-electricity-maps.png)
 
+Resources
+![](djangocon-us-2024-recap-images/thibaud-resources.png)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
