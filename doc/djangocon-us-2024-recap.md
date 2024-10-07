@@ -508,6 +508,8 @@ At the end, he revealed, "I am a community. We are a community... The community 
 
 Álvaro Justen showed some lesser known ways to improve the performance of PostgreSQL.
 
+[Example code](https://github.com/PythonicCafe/djpg-example)
+
 He explained each method, including profiling results, then ran a demo. 
 
 Some of his suggested methods
@@ -518,8 +520,6 @@ Some of his suggested methods
 * Column order can affect space used. Use fixed-size columns (bigger, then smaller), then variable-size. See [Data alignment in Postgres](https://www.enterprisedb.com/postgres-tutorials/data-alignment-postgresql). 
 * Full text search and search vector field scenarios
 * Trigger- perform operations inside of the database more quickly than in the app. Don't put much business logic in the trigger.
-
-[Code](https://github.com/PythonicCafe/djpg-example)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
