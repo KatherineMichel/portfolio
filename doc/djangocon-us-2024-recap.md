@@ -733,7 +733,7 @@ Need to know versus want to know
 
 A few examples of what you didn't see in the release notes
 * A screen reader experience demo showing improved logical structure, navigation, announcement of relevant info in Django Admin
-* WiP Accessibility contributor guide by Thibaud Colas
+* Accessibility Contributor Guide by Thibaud Colas
 * Code references in docs now have links to source code on GitHub
 * Django performance graph- as Python becomes faster, by simply upgrading it, the performance of your code improves
 * Significantly faster Django benchmarks for individual commits
