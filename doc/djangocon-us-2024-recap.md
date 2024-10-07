@@ -13,7 +13,7 @@ Table of Contents
     - [Swag Stuffing](#swag-stuffing)
     - [Django Social](#django-social)
 - [Monday](#monday)
-    - [Keynote- Power to the People who Teach the People](#keynote--power-to-the-people-who-teach-the-people)
+    - [Keynote- Power to the People who Teach the People](#keynote-power-to-the-people-who-teach-the-people)
     - [Choosing Wisely: SPA vs. HTMX for Your Next Web Project](#choosing-wisely-spa-vs-htmx-for-your-next-web-project)
     - [Error Culture](#error-culture)
     - [Shrimp and Grits](#shrimp-and-grits)
