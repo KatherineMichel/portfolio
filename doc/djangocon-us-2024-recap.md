@@ -747,7 +747,7 @@ Sarah recognized the huge amount of work done by many people and gave an [exampl
 
 Please give the team feedback so they can work with you to make the experience better. 
 
-After the conference, Sarah also published a [DSF Initiatives I'd Like to See list](https://gist.github.com/sarahboyce/68ffaaeae24d2501cf27a914f77fb97c). Take a look and be inspired! 
+After the conference, Sarah also published a [DSF Initiatives I'd Like to See](https://gist.github.com/sarahboyce/68ffaaeae24d2501cf27a914f77fb97c) list for DSF Board Election candidates. Take a look and be inspired! 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
