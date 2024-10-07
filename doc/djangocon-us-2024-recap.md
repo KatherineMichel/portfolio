@@ -530,7 +530,7 @@ Jacob Kaplan-Moss is a retired Django BDFL and current DSF Treasurer. He showed 
 If the budget were quadrupled to $1,000,000, he has a personal wishlist: hire an executive director, expand the fellowship and grants programs, including feature grants
 ![](djangocon-us-2024-recap-images/jacob-my-wishlist.png)
 
-How do we get there? We probably need to target major donors versus many-small funders, and that's probably ok. 
+How do we get there? We probably need to target major donors versus many small-funders, and that's probably ok. 
 
 Major donors are:
 * Corporations
