@@ -572,7 +572,7 @@ How does it work
 
 ### Faster, leaner, greener: 10x lower website carbon emissions
 
-Thank you to Thibaud Colas, DSF Board Member and Wagtail Developer for this important talk. 
+Thank you to Thibaud Colas, DSF Board Member and Wagtail Developer, for this important talk. 
 
 Slides: [wagtail.org/10x-lower](https://docs.google.com/presentation/d/1rmRFk5Kt4BraK4eRE7kmq8R5OoprXqMKVm9aPLVUXMg/edit)
 
