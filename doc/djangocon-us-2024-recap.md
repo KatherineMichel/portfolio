@@ -13,11 +13,11 @@ Table of Contents
     - [Swag Stuffing](#swag-stuffing)
     - [Django Social](#django-social)
 - [Monday](#monday)
-    - [Keynote - Power to the People who Teach the People](#keynote---power-to-the-people-who-teach-the-people)
+    - [Keynote - Power to the People who Teach the People](#keynote--power-to-the-people-who-teach-the-people)
     - [Choosing Wisely: SPA vs. HTMX for Your Next Web Project](#choosing-wisely-spa-vs-htmx-for-your-next-web-project)
     - [Error Culture](#error-culture)
     - [Shrimp and Grits](#shrimp-and-grits)
-    - [Troubleshooting is a Lifestyle 😎](#troubleshooting-is-a-lifestyle-)
+    - [Troubleshooting is a Lifestyle 😎](#troubleshooting-is-a-lifestyle)
     - [A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()](#a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select_related-and-prefetch_related)
     - [Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency](#unlocking-performance-benchmarking-and-profiling-django-for-maximum-efficiency)
     - [DEFNA Board Dinner](#defna-board-dinner)      
@@ -221,7 +221,7 @@ Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Gr
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### Keynote - Power to the People who Teach the People
+### Keynote- Power to the People who Teach the People
 
 Sheena O'Connell has been an educator since childhood and began working for an education non-profit called Umuzi in 2018. She is interested in [metacognition](https://en.wikipedia.org/wiki/Metacognition), how people learn. 
 
