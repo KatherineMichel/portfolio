@@ -780,7 +780,7 @@ Locality of behavior is a starting point, not a destination.
 
 "Holding the line on locality of behavior can really pay dividends."
 
-New code that is likely to change... by focusing in locality of behavior, you can stablilize the code and let the deeper patterns emerge. Quickly refactoring to DRY code can create premature optimization that leaves the code "stuck in the local optima." 
+When working on new code that is likely to change, by focusing on locality of behavior, you can stablilize the code and let the deeper patterns emerge. Quickly refactoring to DRY code can create premature optimization that leaves the code "stuck in the local optima." 
 
 Leaning into Django... 
 
