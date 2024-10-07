@@ -1041,6 +1041,8 @@ I wandered through the art booths, then stumbled upon one of many musical acts. 
 
 It's wonderful to see Durham's thriving market and festival culture. In addition to Centerfest, I stumbled upon the [Durham Farmers' Market](https://www.durhamfarmersmarket.com/), [Durham Craft Market](https://durhamcentralpark.org/events/durham-craft-market/), and [Durham Underground Market](https://makrs.com/durham-underground-market) all in the same weekend. 
 
+### Cousins Maine Lobster
+
 On Sunday, I was looking for a quick, tasty lunch and decided to try the fare of a [Durham Underground Market](https://makrs.com/durham-underground-market) food truck. 
 
 [Cousins Maine Lobster](https://www.cousinsmainelobster.com/) piqued my interest. According to the truck, the founders had appeared on Shark Tank. 
