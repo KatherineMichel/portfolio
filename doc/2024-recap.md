@@ -1,7 +1,5 @@
 # 2024 Recap
 
-Disclaimer: the content of this post is a reflection of my life and career journey and not specific to my work at JPMorganChase.
-
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
 
 ## This Year's Theme
