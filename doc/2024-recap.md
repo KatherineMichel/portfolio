@@ -249,10 +249,6 @@ It was also featured in [Django News Newsletter](https://django-news.com/issues/
 ![](2024-recap-images/lacey-kudo.png)
 Thank you to the incredible Lacey for this sweet kudo! 
 
-<!--
-Can't wait to see you. :) 
--->
-
 ### DFW Pythoneers
 
 After months of good intentions, I finally committed to attending [DFW Pythoneers](https://www.meetup.com/dfwpython/) meetup. It was a great time! I got to see Kevin Horn for the third time in two months and Broadus Jones for the second time in two months. :) 
@@ -307,6 +303,7 @@ Continuing with my wellness activities, my doctor and I created a comprehensive 
 To improve my longterm health, I've begun to "eat the rainbow" often at home and work. 
 
 ![](2024-recap-images/salad-bar.jpg)
+Beautiful salad bar at JPMorganChase Plano
 
 ### More Good Luck
 
@@ -315,11 +312,6 @@ Last year, I had a modest rent increase. I've been assuming my rent would increa
 ### DjangoCon US
 
 I attended DjangoCon US from September 22-27. It was an absolute blast. I wrote a [recap](https://katherinemichel.github.io/portfolio/djangocon-us-2024-recap.html) about it. 
-
-<!--
-Other photos
-Pic with Simon
---->
 
 ### CockroachDB Day
 
@@ -331,15 +323,21 @@ CockroachDB Day
 
 ### Sightseeing in Dallas
 
-<!--
-Dallas World Aquarium, Sixth Floor Museum, Terry Black's Barbecue 
+On October 4, I spent the day sight-seeing in Dallas. I went to the Dallas World Aquarium, the Sixth Floor Museum, Terry Black's Barbecue, then enjoyed JPMorganChase employee night at the Dallas Zoo. 
 
+The Dallas World Aquarium was unique and amazing. There were a number of awe-inspiring scenes. 
+
+<!--
 Stanford art photo
 -->
 
+I had no idea what the Sixth Floor Museum would be like. The window where Oswald allegedly stood is being a glass display. It was surreal to stand at the window nearest to it and look down at a perfect view of the motorcade route below. 
+
+When I was in Austin for PyTexas in April, I had the world famous Franklin's Barbecue. It was the best brisket that I've ever had by far, but I waited in line for an hour and a half. The meat was melt in your mouth with no fat. Terry Black's Barbecue was a very different experience, but also great. I loved the ambiance. 
+
 ### JPMorganChase Dallas Zoo Employee Night
 
-October 4 was JPMorganChase employee night at Dallas Zoo. I had a really fun time! Thank you to everyone who made it unforgettable! 
+I had a really fun time at Dallas Zoo! Thank you to everyone who made it unforgettable! 
 
 <!--
 Feeding a giraffe
