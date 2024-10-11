@@ -247,10 +247,10 @@ Validation of my work among the world's leading Python practitioners and global 
 It was also featured in [Django News Newsletter](https://django-news.com/issues/236#start) and [pip Trends Newsletter](https://newsletter.piptrends.com/p/pycon-us-2024-recap-how-llms-work).
 
 ![](2024-recap-images/lacey-kudo.png)
-Thank you to the incredible Lacey for this sweet kudo! Can't wait to see you. :) 
+Thank you to the incredible Lacey for this sweet kudo! 
 
 <!--
-I am thrilled to know that my recap generated interest in the content and will have increased the number of attendees. 
+Can't wait to see you. :) 
 -->
 
 ### DFW Pythoneers
@@ -282,11 +282,9 @@ Here I am with my Plano-based hackathon teammates.
 
 Throughout July, August, and September, I took advantage of JPMorganChase employee health and finance benefits. 
 
-JPMorganChase has an employee wellness program. Employees can complete wellness activities to earn money for their MRA (Medical Reimbursement Account) and lower their medical payroll costs. One of the activities is a wellness screening. During the screening, your blood pressure and body mass index (BMI) are calculated, and a fingerstick is used to calculate your blood sugar, cholesterol and triglycerides. 
+After completing certain wellness activities, JPMorganChase will pay money into my MRA (Medical Reimbursement Account) and reduce my monthly insurance premiums. Although it's not the primary reason to do it, it's a nice incentive. 
 
-I had my first wellness screening in November, 2023. I found out that both my good cholesterol and bad cholesterol were high. 
-
-I made a few changes in my diet. By my second wellness screening in early July, my bad cholesterol had gone down 22 points.
+In July, I did my wellness screening. My blood pressure and body mass index (BMI) were calculated, and a fingerstick was used to calculate your blood sugar, cholesterol and triglycerides. My bad cholesterol had gone down 22 points since my 2023 screening. 
 
 ## August
 
@@ -304,16 +302,57 @@ I also conveniently paid off my student loans.
 
 ### Preventative Care
 
-Continuing with my wellness activities, I completed a full physical, mammogram, colon cancer screening, and got up-to-date with my vaccinations. 
+Continuing with my wellness activities, my doctor and I created a comprehensive annual preventative care plan going into the future. I completed a full physical, mammogram, colon cancer screening, and got up-to-date with my vaccinations. I feel fortunate to be "healthy as a horse." 
+
+To improve my longterm health, I've begun to "eat the rainbow" often at home and work. 
+
+<!--
+Beautiful salad bar at work
+-->
+
+### More Good Luck
+
+Last year, I had a modest rent increase. I've been assuming my rent would increase very year until I'd simply be priced out of renting. This year, to my surprise, my rent was significantly lowered. With so much bad news in the world, it's nice to know it's not all doom and gloom. 
 
 ### DjangoCon US
 
+I attended DjangoCon US from September 22-27. It was an absolute blast. I wrote a [recap](https://katherinemichel.github.io/portfolio/djangocon-us-2024-recap.html) about it. 
+
 <!--
-New profile pic
 Other photos
+Pic with Simon
 --->
 
+### CockroachDB Day
+
+<!--
+CockroachDB Day
+-->
+
 ## October
+
+### Sightseeing in Dallas
+
+<!--
+Dallas World Aquarium, Sixth Floor Museum, Terry Black's Barbecue 
+
+Stanford art photo
+-->
+
+### JPMorganChase Dallas Zoo Employee Night
+
+October 4 was JPMorganChase employee night at Dallas Zoo. I had a really fun time! Thank you to everyone who made it unforgettable! 
+
+<!--
+Feeding a giraffe
+A hand-drawn caricature of me
+A performer on stilts dancing to reggae
+A perfect chocolate milkshake
+-->
+
+### Cookbook
+
+My distant relative Kelly Cline is a talented quilter who shares her quilting adventures through her Facebook account and sells products through her online shop. I saw that she was selling a limited number of cookbooks authored by our mutual cousin Bonnie who is said to be a fantastic cook. The cookbook is full of great family and German recipes from the Russell, Kansas area where my Volga German ancestors of the Michel and Reinhardt Families settled. I couldn't resist buying one and having it sent to my sister and her husband who are avid cooks and also love German food. They'll try some recipes and cook a good one when I visit. 
 
 ## November
 
@@ -439,3 +478,10 @@ Me overtaking a longhorn
 
 ![](2024-recap-images/thank-you-memo.jpg)
 Me sitting next to a life-size thank you memo
+
+<!--
+DjangoCon US
+Mo visit
+Diwali- pic with co-workers
+Dallas World Aquarium, Sixth Floor Museum, Terry Black's Barbecue 
+-->
