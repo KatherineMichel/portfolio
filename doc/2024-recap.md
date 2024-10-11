@@ -306,9 +306,7 @@ Continuing with my wellness activities, my doctor and I created a comprehensive 
 
 To improve my longterm health, I've begun to "eat the rainbow" often at home and work. 
 
-<!--
-Beautiful salad bar at work
--->
+![](2024-recap-images/salad-bar.jpg)
 
 ### More Good Luck
 
@@ -346,6 +344,7 @@ October 4 was JPMorganChase employee night at Dallas Zoo. I had a really fun tim
 <!--
 Feeding a giraffe
 A hand-drawn caricature of me
+
 A performer on stilts dancing to reggae
 A perfect chocolate milkshake
 -->
