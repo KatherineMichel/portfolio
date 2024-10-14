@@ -311,10 +311,13 @@ Last year, I had a modest rent increase. I've been assuming my rent would increa
 
 I attended DjangoCon US from September 22-27. It was an absolute blast. I wrote a [recap](https://katherinemichel.github.io/portfolio/djangocon-us-2024-recap.html) about it. 
 
+Thank you to Django News for featuring it in [Issue 254](https://django-news.com/issues/254#start)! 
+
 ### CockroachDB Day
 
 <!--
 CockroachDB Day
+Designing Data Intensive Applications
 -->
 
 ## October
@@ -323,7 +326,7 @@ CockroachDB Day
 
 On October 4, I spent the day sight-seeing in Dallas. I went to the Dallas World Aquarium, the Sixth Floor Museum, Terry Black's Barbecue, then enjoyed JPMorganChase employee night at the Dallas Zoo. 
 
-The Dallas World Aquarium was unique and amazing. There were a number of awe-inspiring scenes. 
+The Dallas World Aquarium was unique and amazing. There were a number of awe-inspiring scenes and fun animals. 
 
 <!--
 Stanford art photo
