@@ -278,7 +278,7 @@ Throughout July, August, and September, I took advantage of JPMorganChase employ
 
 After completing certain wellness activities, JPMorganChase will pay money into my MRA (Medical Reimbursement Account) and reduce my monthly insurance premiums. Although it's not the primary reason to do it, it's a nice incentive. 
 
-In July, I did my wellness screening. My blood pressure and body mass index (BMI) were calculated, and a fingerstick was used to calculate your blood sugar, cholesterol and triglycerides. My bad cholesterol had gone down 22 points since my 2023 screening. 
+In July, I did my wellness screening. My blood pressure and body mass index (BMI) were calculated, and a fingerstick was used to calculate my blood sugar, cholesterol and triglycerides. My bad cholesterol had gone down 22 points since my 2023 screening. 
 
 ## August
 
