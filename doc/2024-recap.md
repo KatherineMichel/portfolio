@@ -274,7 +274,7 @@ Here I am with my Plano-based hackathon teammates.
 
 ### Wellness Screening
 
-Throughout July, August, and September, I took advantage of JPMorganChase employee health and finance benefits. 
+Throughout July, August, and September, I took advantage of JPMorganChase employee health and financial services benefits. 
 
 After completing certain wellness activities, JPMorganChase will pay money into my MRA (Medical Reimbursement Account) and reduce my monthly insurance premiums. Although it's not the primary reason to do it, it's a nice incentive. 
 
