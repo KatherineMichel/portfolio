@@ -329,7 +329,7 @@ The Dallas World Aquarium was unique and amazing. There were a number of awe-ins
 Stanford art photo
 -->
 
-I had no idea what the Sixth Floor Museum would be like. The window where Oswald allegedly stood is being a glass display. It was surreal to stand at the window nearest to it and look down at a perfect view of the motorcade route below. 
+I had no idea what the Sixth Floor Museum would be like. The window where Oswald allegedly stood is behind a glass display. It was surreal to stand at the window nearest to it and look down at a perfect view of the motorcade route below. 
 
 When I was in Austin for PyTexas in April, I had the world famous Franklin's Barbecue. It was the best brisket that I've ever had by far, but I waited in line for an hour and a half. The meat was melt in your mouth with no fat. Terry Black's Barbecue was a very different experience, but also great. I loved the ambiance. 
 
