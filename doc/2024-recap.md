@@ -346,6 +346,9 @@ A hand-drawn caricature of me
 
 A performer on stilts dancing to reggae
 A perfect chocolate milkshake
+
+I saw lemurs for a third time. 
+The Lemurs at Dallas Zooe extremely active, down from the tops of trees and bounding across the grass
 -->
 
 ### Cookbook
