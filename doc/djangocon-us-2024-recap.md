@@ -1033,11 +1033,11 @@ First time eating avocado toast... I went big! This was gourmet quality, for sur
 
 Serendipitously, an art festival called [Centerfest](https://durhamarts.org/centerfest/) was taking place on Saturday and Sunday. 
 
-I wandered through the art booths, then stumbled upon one of many musical acts. It was called Heart of Carolina A Capella. It was fun! 
+I wandered through the art booths, then stumbled upon one of many musical acts. It was called Heart of Carolina A Cappella. It was fun! 
 
-[Video of Heart of Carolina A Capella singing Sweet Caroline](https://youtu.be/89tf1KyUjGs)
+[Video of Heart of Carolina A Cappella singing Sweet Caroline](https://youtu.be/89tf1KyUjGs)
 
-[Video of Heart of Carolina A Capella singing Seven Bridges Road](https://youtu.be/_cReCxdjVYk)
+[Video of Heart of Carolina A Cappella singing Seven Bridges Road](https://youtu.be/_cReCxdjVYk)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
