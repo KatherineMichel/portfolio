@@ -359,7 +359,27 @@ Route simuation
 The route
 
 <!--
-When I was in Austin for PyTexas in April, I had the world famous Franklin's Barbecue. It was the best brisket that I've ever had by far, but I waited in line for an hour and a half. The meat was melt in your mouth with no fat. Terry Black's Barbecue was a very different experience, but also great. I loved the ambiance. 
+After trying the world famous Franklin's Barbecue in Austin in April, I had the pleasure of trying Terry Black's Barbecue. The approaches of either establishment were very different! 
+-->
+
+Franklin's Barbecue
+* Slow moving line with "last man standing" 
+* Slow, personal attention at the counter
+* High quality, melt in your mouth brisket
+* Quiet, small restauraunt atmosphere
+
+Terry Black's Barbecue
+* Fast moving line
+* Fast service at the counter
+* High quality, barked brisket with a lot more fat
+* Large, loud, hall-like atmosphere
+
+The perfect barbecue restaurant would be Franklin's Barbecue brisket sold with the fast service and ambience of Terry Black's Barbecue. 
+
+<!--
+When I was in Austin for PyTexas in April, I had the world famous Franklin's Barbecue. The meat was melt in your mouth with no fat.  
+
+While I'd say Franklin's Barbecue was the best brisket that I've ever had, I waited in line for an hour and a half to get it. It's not something that I'd do often. Terry Black's Barbecue was a very different experience, but also great. I preferred the fast-pace and lively ambiance.
 -->
 
 ![](2024-recap-images/terry-blacks-barbecue.jpg)
@@ -398,8 +418,9 @@ My distant relative Kelly Cline is a talented quilter who shares her quilting ad
 
 ### Fun for My  Nieces
 
-<!--
--->
+While looking through popular brainteaser toys, I came across a couple that I couldn't resist buying for my nieces: 
+* A Learn & Climb Mega Magic Kit for kids with 100s of tricks of all skill levels and a tutorial video
+* Kanoodle, a best-selling educational game for all ages
 
 ### DjangoCon US 2025 Venue Selection
 
