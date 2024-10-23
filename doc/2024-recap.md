@@ -328,25 +328,53 @@ On October 4, I spent the day sight-seeing in Dallas. I went to the Dallas World
 
 The Dallas World Aquarium was unique and amazing. There were a number of awe-inspiring scenes and fun animals. 
 
+![](2024-recap-images/waterfall.jpg)
+
+![](2024-recap-images/fish-tunnel.jpg)
+
+![](2024-recap-images/flamingos.jpg)
+
+![](2024-recap-images/sloth.jpg)
+
+![](2024-recap-images/stanford-artwork-similar.jpg)
+
 <!--
 Stanford art photo
 -->
 
 I had no idea what the Sixth Floor Museum would be like. The window where Oswald allegedly stood is behind a glass display. It was surreal to stand at the window nearest to it and look down at a perfect view of the motorcade route below. 
 
+![](2024-recap-images/the-route-simulation.jpg)
+Route simuation
+
+![](2024-recap-images/the-route.jpg)
+The route
+
 When I was in Austin for PyTexas in April, I had the world famous Franklin's Barbecue. It was the best brisket that I've ever had by far, but I waited in line for an hour and a half. The meat was melt in your mouth with no fat. Terry Black's Barbecue was a very different experience, but also great. I loved the ambiance. 
+
+![](2024-recap-images/terry-blacks-barbecue.jpg)
+
+![](2024-recap-images/brisket-sandwich.jpg)
+
+![](2024-recap-images/pit-power.jpg)
 
 ### JPMorganChase Dallas Zoo Employee Night
 
 I had a really fun time at Dallas Zoo! Thank you to everyone who made it unforgettable! 
 
-<!--
+![](2024-recap-images/me-feeding-a-giraffe.jpg)
 Feeding a giraffe
+
+![](2024-recap-images/caricature.jpg)
 A hand-drawn caricature of me
 
+![](2024-recap-images/performer-on-stilts.jpg)
 A performer on stilts dancing to reggae
+
+![](2024-recap-images/chocolate-milkshake.jpg)
 A perfect chocolate milkshake
 
+<!--
 I saw lemurs for a third time. 
 The Lemurs at Dallas Zooe extremely active, down from the tops of trees and bounding across the grass
 -->
