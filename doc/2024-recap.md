@@ -166,6 +166,16 @@ All of the videos are available on the [PyTexas Youtube channel](https://www.you
 <!--
 Tweets
 Conference and sight seeing details. 
+Franklin's Barbecue
+Walking along the river and trails
+Stevie Ray Statue
+Church
+Capitol
+Tacos
+LBJ Presidential Library
+Bruce Springsteen Foundation Exhibit
+Botanical Garden
+Austin Central Library
 -->
 
 ## May
@@ -331,16 +341,16 @@ On October 4, I spent the day sight-seeing in Dallas. I went to the Dallas World
 The Dallas World Aquarium was unique and amazing. There were a number of awe-inspiring scenes and fun animals. 
 
 ![](2024-recap-images/waterfall.jpg)
-Three story waterfall
+Three story waterfall... wow! 
 
 ![](2024-recap-images/fish-tunnel.jpg)
-Fish tunnel
+Fish tunnel... can't believe I took this photo. Simply magical. 
 
 ![](2024-recap-images/flamingos.jpg)
-Flamingos
+Love flamingos! 
 
 ![](2024-recap-images/sloth.jpg)
-Sloth
+An ever-so-slow moving sloth
 
 A few years ago, I wrote some code to create artwork for the final project of a Stanford Python course. At the aquarium, I saw a scene that very much reminded me of a favorite "artwork" that my program made. It was a small aquarium filled with sea life from British Columbia.
 
@@ -348,7 +358,7 @@ A few years ago, I wrote some code to create artwork for the final project of a 
 Sea life from British Columbia
 
 ![](2024-recap-images/stanford-artwork.jpg)
-A "favorite" artwork
+A "favorite" artwork my program made
 
 I had no idea what the Sixth Floor Museum would be like. The window where Oswald allegedly stood is behind a glass display. It was surreal to stand at the window nearest to it and look down at a perfect view of the motorcade route below. 
 
@@ -358,9 +368,7 @@ Route simuation
 ![](2024-recap-images/the-route.jpg)
 The route
 
-<!--
 After trying the world famous Franklin's Barbecue in Austin in April, I had the pleasure of trying Terry Black's Barbecue. The approaches of either establishment were very different! 
--->
 
 Franklin's Barbecue
 * Slow moving line with "last man standing" 
@@ -371,7 +379,7 @@ Franklin's Barbecue
 Terry Black's Barbecue
 * Fast moving line
 * Fast service at the counter
-* High quality, barked brisket with a lot more fat
+* High quality, barked brisket with more fat
 * Large, loud, hall-like atmosphere
 
 The perfect barbecue restaurant would be Franklin's Barbecue brisket sold with the fast service and ambience of Terry Black's Barbecue. 
