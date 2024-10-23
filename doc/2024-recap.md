@@ -152,11 +152,6 @@ Here is [a little taste of the fun](https://youtu.be/vvNfmo0zwDw?si=Tl2xj-TZ29j_
 
 PyTexas has been on my bucketlist for years, and I finally went. 
 
-<!--
-Tweets
-Conference and sight seeing details. 
--->
-
 I met Jason Koo at DjangoCon US 2022 in San Diego where he generously helped as an organizer. It was great to see him again, and I look forward to learning more about Neo4j Graph Database! On the bright, sunny, second day of PyTexas, he invited me to be in this photo. 
 
 ![](2024-recap-images/jason-koo.jpg)
@@ -165,6 +160,13 @@ Nick, Dan, Jason, Josh, me, Carol
 It was a pleasure to get a snapshot next to my incredible friend Carol Willing. She had given an amazing keynote that morning. It is a must watch! I was also standing next to Josh Cannon who read the very clever Oh the (Methods) You Can (Make) book by Dunder Seuss.
 
 All of the videos are available on the [PyTexas Youtube channel](https://www.youtube.com/c/PyTexas). 
+
+### Austin Sightseeing
+
+<!--
+Tweets
+Conference and sight seeing details. 
+-->
 
 ## May
 
@@ -324,22 +326,28 @@ Designing Data Intensive Applications
 
 ### Sightseeing in Dallas
 
-On October 4, I spent the day sight-seeing in Dallas. I went to the Dallas World Aquarium, the Sixth Floor Museum, Terry Black's Barbecue, then enjoyed JPMorganChase employee night at the Dallas Zoo. 
+On October 4, I spent the day sight-seeing in Dallas. I went to the Dallas World Aquarium, the Sixth Floor Museum, Terry Black's Barbecue, then the Dallas Zoo. 
 
 The Dallas World Aquarium was unique and amazing. There were a number of awe-inspiring scenes and fun animals. 
 
 ![](2024-recap-images/waterfall.jpg)
+Three story waterfall
 
 ![](2024-recap-images/fish-tunnel.jpg)
+Fish tunnel
 
 ![](2024-recap-images/flamingos.jpg)
+Flamingos
 
 ![](2024-recap-images/sloth.jpg)
+Sloth
+
+A few years ago, I wrote some code to create artwork for the final project of a Stanford Python course. At the aquarium, I saw a scene that very much reminded me of a favorite "artwork" that my program made. It was a small aquarium filled with sea life from British Columbia.
 
 ![](2024-recap-images/stanford-artwork-similar.jpg)
 
 <!--
-Stanford art photo
+A "favorite" artwork
 -->
 
 I had no idea what the Sixth Floor Museum would be like. The window where Oswald allegedly stood is behind a glass display. It was surreal to stand at the window nearest to it and look down at a perfect view of the motorcade route below. 
@@ -350,17 +358,22 @@ Route simuation
 ![](2024-recap-images/the-route.jpg)
 The route
 
+<!--
 When I was in Austin for PyTexas in April, I had the world famous Franklin's Barbecue. It was the best brisket that I've ever had by far, but I waited in line for an hour and a half. The meat was melt in your mouth with no fat. Terry Black's Barbecue was a very different experience, but also great. I loved the ambiance. 
+-->
 
 ![](2024-recap-images/terry-blacks-barbecue.jpg)
+Terry Black's Barbecue
 
 ![](2024-recap-images/brisket-sandwich.jpg)
+Brisket sandwich, green beans, and a Big Red (haven't had one of those in years!) 
 
 ![](2024-recap-images/pit-power.jpg)
+"Pit power"
 
 ### JPMorganChase Dallas Zoo Employee Night
 
-I had a really fun time at Dallas Zoo! Thank you to everyone who made it unforgettable! 
+JPMorganChase Plano rented out the Dallas Zoo for an employee night. I had a really fun time! Thank you to everyone who made it unforgettable! 
 
 ![](2024-recap-images/me-feeding-a-giraffe.jpg)
 Feeding a giraffe
@@ -382,6 +395,12 @@ The Lemurs at Dallas Zooe extremely active, down from the tops of trees and boun
 ### Cookbook
 
 My distant relative Kelly Cline is a talented quilter who shares her quilting adventures through her Facebook account and sells products through her online shop. I saw that she was selling a limited number of cookbooks authored by our mutual cousin Bonnie who is said to be a fantastic cook. The cookbook is full of great family and German recipes from the Russell, Kansas area where my Volga German ancestors of the Michel and Reinhardt Families settled. I couldn't resist buying one and having it sent to my sister and her husband who are avid cooks and also love German food. They'll try some recipes and cook a good one when I visit. 
+
+### Fun for My  Nieces
+
+<!--
+
+-->
 
 ## November
 
