@@ -345,10 +345,10 @@ Sloth
 A few years ago, I wrote some code to create artwork for the final project of a Stanford Python course. At the aquarium, I saw a scene that very much reminded me of a favorite "artwork" that my program made. It was a small aquarium filled with sea life from British Columbia.
 
 ![](2024-recap-images/stanford-artwork-similar.jpg)
+Sea life from British Columbia
 
-<!--
+![](2024-recap-images/stanford-artwork.jpg)
 A "favorite" artwork
--->
 
 I had no idea what the Sixth Floor Museum would be like. The window where Oswald allegedly stood is behind a glass display. It was surreal to stand at the window nearest to it and look down at a perfect view of the motorcade route below. 
 
@@ -399,7 +399,11 @@ My distant relative Kelly Cline is a talented quilter who shares her quilting ad
 ### Fun for My  Nieces
 
 <!--
+-->
 
+### DjangoCon US 2025 Venue Selection
+
+<!--
 -->
 
 ## November
