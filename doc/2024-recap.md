@@ -165,8 +165,12 @@ All of the videos are available on the [PyTexas Youtube channel](https://www.you
 
 <!--
 Tweets
-Conference and sight seeing details. 
-Franklin's Barbecue
+Conference and sight seeing details
+-->
+
+On a whim, I went straight from the airport to Franklin's Barbecue for some of their world famous brisket. The meat was melt in your mouth with very little fat. It was the best brisket that I've ever had, but I waited in line for an hour and a half to get it. 
+
+<!--
 Walking along the river and trails
 Stevie Ray Statue
 Church
@@ -346,9 +350,6 @@ Three story waterfall... wow!
 ![](2024-recap-images/fish-tunnel.jpg)
 Fish tunnel... can't believe I took this photo. Simply magical. 
 
-![](2024-recap-images/flamingos.jpg)
-Love flamingos! 
-
 ![](2024-recap-images/sloth.jpg)
 An ever-so-slow moving sloth
 
@@ -368,7 +369,7 @@ Route simuation
 ![](2024-recap-images/the-route.jpg)
 The route
 
-After trying the world famous Franklin's Barbecue in Austin in April, I had the pleasure of trying Terry Black's Barbecue. The approaches of either establishment were very different! 
+After trying the world famous Franklin's Barbecue in Austin in April, I had the pleasure of trying Terry Black's Barbecue. Terry Black's Barbecue was a very different experience, but also great. The approaches of either establishment were very different! 
 
 Franklin's Barbecue
 * Slow moving line with "last man standing" 
@@ -384,20 +385,11 @@ Terry Black's Barbecue
 
 The perfect barbecue restaurant would be Franklin's Barbecue brisket sold with the fast service and ambience of Terry Black's Barbecue. 
 
-<!--
-When I was in Austin for PyTexas in April, I had the world famous Franklin's Barbecue. The meat was melt in your mouth with no fat.  
-
-While I'd say Franklin's Barbecue was the best brisket that I've ever had, I waited in line for an hour and a half to get it. It's not something that I'd do often. Terry Black's Barbecue was a very different experience, but also great. I preferred the fast-pace and lively ambiance.
--->
-
 ![](2024-recap-images/terry-blacks-barbecue.jpg)
 Terry Black's Barbecue
 
 ![](2024-recap-images/brisket-sandwich.jpg)
 Brisket sandwich, green beans, and a Big Red (haven't had one of those in years!) 
-
-![](2024-recap-images/pit-power.jpg)
-"Pit power"
 
 ### JPMorganChase Dallas Zoo Employee Night
 
@@ -408,12 +400,6 @@ Feeding a giraffe
 
 ![](2024-recap-images/caricature.jpg)
 A hand-drawn caricature of me
-
-![](2024-recap-images/performer-on-stilts.jpg)
-A performer on stilts dancing to reggae
-
-![](2024-recap-images/chocolate-milkshake.jpg)
-A perfect chocolate milkshake
 
 <!--
 I saw lemurs for a third time. 
@@ -564,5 +550,24 @@ Me sitting next to a life-size thank you memo
 DjangoCon US
 Mo visit
 Diwali- pic with co-workers
-Dallas World Aquarium, Sixth Floor Museum, Terry Black's Barbecue 
 -->
+
+### Dallas World Aquarium
+
+![](2024-recap-images/flamingos.jpg)
+Love flamingos! 
+
+### Sixth Floor Museum
+
+### Terry Black's Barbecue 
+
+![](2024-recap-images/pit-power.jpg)
+"Pit power"
+
+### Dallas Zoo
+
+![](2024-recap-images/performer-on-stilts.jpg)
+A performer on stilts dancing to reggae
+
+![](2024-recap-images/chocolate-milkshake.jpg)
+A perfect chocolate milkshake
