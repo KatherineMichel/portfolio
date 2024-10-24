@@ -7,7 +7,7 @@ Although these snapshots do not include all of the people who are special to me,
 September 22-27, Durham, North Carolina
 
 ![](favorite-conference-snapshots/djangocon-us-2024-organizers-bull-city.jpg)
-DjangoCon US organizers making the "bull city" sign; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
+DjangoCon US organizers making the "bull city" hand sign; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ![](favorite-conference-snapshots/djangocon-us-2024-defna-board-velda-jumping.jpg)
 DEFNA Board watching as Velda jumps: Bartek Pawlik (https://bartpawlik.format.com/)
