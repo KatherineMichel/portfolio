@@ -25,6 +25,8 @@ DEFNA Board group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.
 
 ## Organizer Photos
 
+### DjangoCon US 2024
+
 September 22-27, Durham, North Carolina
 
 ![](speaker-board-and-organizer-photos/djangocon-us-2024-organizers-stage.jpg)
