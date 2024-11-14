@@ -423,9 +423,9 @@ While looking through popular brainteaser toys, I came across a couple that I co
 
 ## November
 
-<!--
-2 year anniversary
--->
+### JPMorgan PowerUp Conference Presentation
+
+### Two Year Work Anniversary
 
 ## December
 
