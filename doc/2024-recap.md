@@ -423,7 +423,11 @@ While looking through popular brainteaser toys, I came across a couple that I co
 
 ## November
 
-### JPMorgan PowerUp Conference Presentation
+### JPMorganChase PowerUp Conference Presentation
+
+#### JPMorganChase Advent of Code Leadership
+
+#### JPMorganChase DjangoCon US Recap Presentation
 
 ### Two Year Work Anniversary
 
