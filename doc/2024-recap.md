@@ -263,6 +263,10 @@ It was also featured in [Django News Newsletter](https://django-news.com/issues/
 ![](2024-recap-images/lacey-kudo.png)
 Thank you to the incredible Lacey for this sweet kudo! 
 
+<!--
+Kudo from Simon Willison
+-->
+
 ### DFW Pythoneers
 
 After months of good intentions, I finally committed to attending [DFW Pythoneers](https://www.meetup.com/dfwpython/) meetup. It was a great time! I got to see Kevin Horn for the third time in two months and Broadus Jones for the second time in two months. :) 
@@ -401,11 +405,6 @@ Feeding a giraffe
 ![](2024-recap-images/caricature.jpg)
 A hand-drawn caricature of me
 
-<!--
-I saw lemurs for a third time. 
-The Lemurs at Dallas Zooe extremely active, down from the tops of trees and bounding across the grass
--->
-
 ### Cookbook
 
 My distant relative Kelly Cline is a talented quilter who shares her quilting adventures through her Facebook account and sells products through her online shop. I saw that she was selling a limited number of cookbooks authored by our mutual cousin Bonnie who is said to be a fantastic cook. The cookbook is full of great family and German recipes from the Russell, Kansas area where my Volga German ancestors of the Michel and Reinhardt Families settled. I couldn't resist buying one and having it sent to my sister and her husband who are avid cooks and also love German food. They'll try some recipes and cook a good one when I visit. 
@@ -419,11 +418,20 @@ While looking through popular brainteaser toys, I came across a couple that I co
 ### DjangoCon US 2025 Venue Selection
 
 <!--
+Financial analysis
 -->
 
 ## November
 
 ### JPMorganChase PowerUp Conference Presentation
+
+I had a blast presenting at JPMorganChase Plano PowerUp Conference. It was my first time presenting there and a great experience. 
+
+![](2024-recap-images/me-presenting-at-powerup.JPEG)
+Me presenting at PowerUp
+
+![](2024-recap-images/me-standing-next-to-powerup-banner.jpg)
+Me standing next to a PowerUp banner
 
 #### JPMorganChase Advent of Code Leadership
 
