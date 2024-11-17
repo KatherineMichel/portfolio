@@ -265,6 +265,7 @@ Thank you to the incredible Lacey for this sweet kudo!
 
 <!--
 Kudo from Simon Willison
+https://simonwillison.net/2024/Jun/3/katherine-michels-pycon-us-2024-recap/
 -->
 
 ### DFW Pythoneers
