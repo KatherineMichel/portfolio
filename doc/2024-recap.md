@@ -229,7 +229,7 @@ After the conference, I did some "heavy lifting" from conference connections mad
 
 ## June
 
-### PyCon US 2024 Recap
+### PyCon US 2024 Recap and Hacker News
 
 I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html) experience. 
 
@@ -440,6 +440,9 @@ Me standing next to a PowerUp banner
 
 My co-worker Julie and I co-lead JPMorganChase Plano Advent of Code for the second year in a row. This year, we expanded it from our department to the entire Dallas Tech Center. We teamed up with two Jersey City AoC co-leads to give an information session. 
 
+![](2024-recap-images/me-with-julie.jpg)
+Me and my wonderful co-worker Julie
+
 #### JPMorganChase DjangoCon US Recap Presentation
 
 ### Two Year Work Anniversary
@@ -519,7 +522,7 @@ A 750S, the equivalent of an F1 car
 Japanese hotpot with tonkotsu, pork belly, ramen, and goma sesame peanut, citrus ponzu, and roasted garlic teriyaki sauces
 
 ![](2024-recap-images/sake.jpg)
-Mango sake
+Mango sake... first time trying sake! 
 
 ### T Swirl Japanese Crepe
 
@@ -534,11 +537,6 @@ Video link
 
 ![](2024-recap-images/lucis-bakery.jpg)
 Venezuelan chicken empanada, rice, black beans, fried plantains
-
-### Pic with Julie
-
-![](2024-recap-images/me-with-julie.jpg)
-Me and my wonderful co-worker Julie
 
 ### Darna Mediterranean Eatery
 
