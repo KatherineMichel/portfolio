@@ -319,7 +319,7 @@ I also conveniently paid off my student loans.
 
 Continuing with my wellness activities, my doctor and I created a comprehensive annual preventative care plan going into the future. I completed a full physical, mammogram, colon cancer screening, and got up-to-date with my vaccinations. I feel fortunate to be "healthy as a horse." 
 
-To improve my longterm health, I've begun to "eat the rainbow" often at home and work. 
+To improve my longterm health, I've cut back on animal products and now "eat the rainbow" often at home and work. 
 
 ![](2024-recap-images/salad-bar.jpg)
 Beautiful salad bar at JPMorganChase Plano
