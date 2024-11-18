@@ -424,9 +424,11 @@ Financial analysis
 
 ## November
 
+November was a month for presentations. I gave three important ones within a week! 
+
 ### JPMorganChase PowerUp Conference Presentation
 
-I had a blast presenting at JPMorganChase Plano PowerUp Conference. It was my first time presenting there and a great experience. 
+I had a blast presenting at JPMorganChase Plano PowerUp Conference. It was my first time presenting there and a great experience.
 
 ![](2024-recap-images/me-presenting-at-powerup.JPEG)
 Me presenting at PowerUp
@@ -435,6 +437,8 @@ Me presenting at PowerUp
 Me standing next to a PowerUp banner
 
 #### JPMorganChase Advent of Code Leadership
+
+My co-worker Julie and I co-lead JPMorganChase Plano Advent of Code for the second year in a row. This year, we expanded it from our department to the entire Dallas Tech Center. We teamed up with two Jersey City AoC co-leads to give an information session. 
 
 #### JPMorganChase DjangoCon US Recap Presentation
 
