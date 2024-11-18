@@ -564,8 +564,12 @@ Me sitting next to a life-size thank you memo
 <!--
 DjangoCon US
 Mo visit
-Diwali- pic with co-workers
 -->
+
+### Diwali
+
+![](2024-recap-images/diwali-attire.JPEG)
+Me standing with co-workers wearing beautiful Diwali attire!
 
 ### Dallas World Aquarium
 
