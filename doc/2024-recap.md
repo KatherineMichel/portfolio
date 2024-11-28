@@ -455,6 +455,25 @@ Me and my wonderful co-worker Julie
 
 ### Two Year Work Anniversary
 
+<!--
+![](2024-recap-images/advent-of-code.png)
+![](2024-recap-images/carriage-crossing-thanksgiving-lunch.jpg)
+![](2024-recap-images/cfp-panel.jpg)
+![](2024-recap-images/epson-fastfoto.png)
+![](2024-recap-images/ikea-meal.jpg)
+![](2024-recap-images/in-the-airport.jpg)
+![](2024-recap-images/jpmorganchase-plano.jpg)
+![](2024-recap-images/last-photo-with-uncle-edward.jpg)
+![](2024-recap-images/main-street.jpg)
+![](2024-recap-images/mo.jpg)
+![](2024-recap-images/soderhamn-couch.jpg)
+![](2024-recap-images/spiked-coffee.jpg)
+![](2024-recap-images/standing-ovation.jpg)
+![](2024-recap-images/wellness.jpg)
+![](2024-recap-images/work-anniversary.png)
+![](2024-recap-images/yoshi-shabu-shabu.jpg)
+-->
+
 #### New Furnishings
 
 ## December
