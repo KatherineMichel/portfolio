@@ -2,6 +2,16 @@
 
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
 
+<!--
+![](2024-recap-images/cfp-panel.jpg)
+![](2024-recap-images/in-the-airport.jpg)
+![](2024-recap-images/jpmorganchase-plano.jpg)
+![](2024-recap-images/main-street.jpg)
+![](2024-recap-images/mo.jpg)
+![](2024-recap-images/spiked-coffee.jpg)
+![](2024-recap-images/yoshi-shabu-shabu.jpg)
+-->
+
 ## This Year's Theme
 
 While writing this recap, I found myself thinking the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
@@ -301,6 +311,8 @@ After completing certain wellness activities, JPMorganChase will pay money into 
 
 In July, I did my wellness screening. My blood pressure and body mass index (BMI) were calculated, and a fingerstick was used to calculate my blood sugar, cholesterol and triglycerides. My bad cholesterol had gone down 22 points since my 2023 screening. 
 
+![](2024-recap-images/wellness.jpg)
+
 ## August
 
 ### Financial Advisor
@@ -333,6 +345,9 @@ Last year, I had a modest rent increase. I've been assuming my rent would increa
 I attended DjangoCon US from September 22-27. It was an absolute blast. I wrote a [recap](https://katherinemichel.github.io/portfolio/djangocon-us-2024-recap.html) about it. 
 
 Thank you to Django News for featuring it in [Issue 254](https://django-news.com/issues/254#start)! 
+
+![](2024-recap-images/standing-ovation.jpg)
+Standing ovation
 
 ### CockroachDB Day
 
@@ -449,32 +464,33 @@ My co-worker Julie and I co-lead JPMorganChase Plano Advent of Code for the seco
 ![](2024-recap-images/me-with-julie.jpg)
 Me and my wonderful co-worker Julie
 
+<!--
+![](2024-recap-images/advent-of-code.png)
+-->
+
 #### JPMorganChase DjangoCon US Recap Presentation
 
 #### Epson FastFoto FF-680W Scanner
 
-### Two Year Work Anniversary
-
 <!--
-![](2024-recap-images/advent-of-code.png)
-![](2024-recap-images/carriage-crossing-thanksgiving-lunch.jpg)
-![](2024-recap-images/cfp-panel.jpg)
 ![](2024-recap-images/epson-fastfoto.png)
-![](2024-recap-images/ikea-meal.jpg)
-![](2024-recap-images/in-the-airport.jpg)
-![](2024-recap-images/jpmorganchase-plano.jpg)
-![](2024-recap-images/last-photo-with-uncle-edward.jpg)
-![](2024-recap-images/main-street.jpg)
-![](2024-recap-images/mo.jpg)
-![](2024-recap-images/soderhamn-couch.jpg)
-![](2024-recap-images/spiked-coffee.jpg)
-![](2024-recap-images/standing-ovation.jpg)
-![](2024-recap-images/wellness.jpg)
-![](2024-recap-images/work-anniversary.png)
-![](2024-recap-images/yoshi-shabu-shabu.jpg)
 -->
 
+### Carriage Crossing
+
+<!--
+![](2024-recap-images/carriage-crossing-thanksgiving-lunch.jpg)
+-->
+
+### Two Year Work Anniversary
+
+![](2024-recap-images/work-anniversary.png)
+
 #### New Furnishings
+
+![](2024-recap-images/soderhamn-couch.jpg)
+
+![](2024-recap-images/ikea-meal.jpg)
 
 ## December
 
@@ -483,6 +499,10 @@ Me and my wonderful co-worker Julie
 Thank you to each and everyone one of you, and there are many, who made my year special.
 
 ![](2024-recap-images/still-reflecting.png)
+
+<!--
+![](2024-recap-images/last-photo-with-uncle-edward.jpg)
+-->
 
 These are the "good old days." Live your best life. 
 
