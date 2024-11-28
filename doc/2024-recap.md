@@ -364,7 +364,7 @@ A few years ago, I wrote some code to create artwork for the final project of a 
 Sea life from British Columbia
 
 ![](2024-recap-images/stanford-artwork.jpg)
-A "favorite" artwork my program made
+A favorite "artwork" my program made
 
 I had no idea what the Sixth Floor Museum would be like. The window where Oswald allegedly stood is behind a glass display. It was surreal to stand at the window nearest to it and look down at a perfect view of the motorcade route below. 
 
