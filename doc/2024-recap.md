@@ -347,7 +347,7 @@ I attended DjangoCon US from September 22-27. It was an absolute blast. I wrote 
 Thank you to Django News for featuring it in [Issue 254](https://django-news.com/issues/254#start)! 
 
 ![](2024-recap-images/standing-ovation.jpg)
-Standing ovation
+Standing ovation for organizers
 
 ### CockroachDB Day
 
