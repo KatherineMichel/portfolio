@@ -472,15 +472,11 @@ Me and my wonderful co-worker Julie
 
 #### Epson FastFoto FF-680W Scanner
 
-<!--
 ![](2024-recap-images/epson-fastfoto.png)
--->
 
 ### Carriage Crossing
 
-<!--
 ![](2024-recap-images/carriage-crossing-thanksgiving-lunch.jpg)
--->
 
 ### Two Year Work Anniversary
 
