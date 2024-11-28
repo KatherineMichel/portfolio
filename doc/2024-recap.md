@@ -476,6 +476,10 @@ Me and my wonderful co-worker Julie
 
 ![](2024-recap-images/epson-fastfoto.png)
 
+![](2024-recap-images/fast-foto-enhanced.jpg)
+
+![](2024-recap-images/fast-foto-original.jpg)
+
 ### Carriage Crossing
 
 ![](2024-recap-images/carriage-crossing-thanksgiving-lunch.jpg)
