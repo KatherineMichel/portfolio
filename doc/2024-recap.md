@@ -455,6 +455,8 @@ Me and my wonderful co-worker Julie
 
 ### Two Year Work Anniversary
 
+#### New Furnishings
+
 ## December
 
 ## Parting Thoughts
