@@ -311,7 +311,9 @@ After completing certain wellness activities, JPMorganChase will pay money into 
 
 In July, I did my wellness screening. My blood pressure and body mass index (BMI) were calculated, and a fingerstick was used to calculate my blood sugar, cholesterol and triglycerides. My bad cholesterol had gone down 22 points since my 2023 screening. 
 
+<!--
 ![](2024-recap-images/wellness.jpg)
+-->
 
 ## August
 
