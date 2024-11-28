@@ -486,6 +486,8 @@ Me and my wonderful co-worker Julie
 
 #### New Furnishings
 
+![](2024-recap-images/patchwork-boho.jpg)
+
 ![](2024-recap-images/soderhamn-couch.jpg)
 
 ![](2024-recap-images/ikea-meal.jpg)
