@@ -445,6 +445,8 @@ Me and my wonderful co-worker Julie
 
 #### JPMorganChase DjangoCon US Recap Presentation
 
+#### Epson FastFoto FF-680W Scanner
+
 ### Two Year Work Anniversary
 
 ## December
