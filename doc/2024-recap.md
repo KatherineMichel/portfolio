@@ -412,6 +412,10 @@ My distant relative Kelly Cline is a talented quilter who shares her quilting ad
 
 ![](2024-recap-images/cookbook.jpg)
 
+<!--
+Recipes
+-->
+
 ### Fun for My  Nieces
 
 While looking through popular brainteaser toys, I came across a couple that I couldn't resist buying for my nieces: 
