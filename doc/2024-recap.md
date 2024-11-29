@@ -430,10 +430,11 @@ A hand-drawn caricature of me
 
 My distant relative Kelly Cline is a talented quilter who shares her quilting adventures through her Facebook account and sells products through her online shop. I saw that she was selling a limited number of cookbooks authored by our mutual cousin Bonnie who is said to be a fantastic cook. The cookbook is full of great family and German recipes from the Russell, Kansas area where my Volga German ancestors of the Michel and Reinhardt Families settled. I couldn't resist buying one and having it sent to my sister and her husband who are avid cooks and also love German food. They'll try some recipes and cook a good one when I visit. 
 
-![](2024-recap-images/cookbook.jpg)
+![](2024-recap-images/german-recipes.jpg)
+A few of the German recipes
 
 <!--
-Recipes
+![](2024-recap-images/cookbook.jpg)
 -->
 
 ### Fun for My  Nieces
