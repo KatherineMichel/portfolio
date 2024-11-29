@@ -63,7 +63,7 @@ We FaceTimed while they opened the box. They immediately began playing and loved
 
 ### CFP Connect
 
-Last year, I obtained sponsorship from a JPMorganChase Managing Director to start a monthly departmental meetup in Plano that became known as PS Connect, then CFP Connect. This year, it grew to be an event typically attended by 100+ plus and filled with knowledge-sharing, networking, and fun, supported by top department leadership in Plano. 
+Last year, I obtained sponsorship from a JPMorganChase Managing Director to start a monthly departmental meetup in Plano that became known as PS Connect, then CFP Connect. This year, it grew to be an event typically attended by 100+ plus, filled with knowledge-sharing, networking, and fun, and supported by top department leadership across Plano. 
 
 ## March
 
