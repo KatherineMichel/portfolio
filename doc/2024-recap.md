@@ -506,9 +506,10 @@ My two-year work anniversary happened on Thanksgiving.
 
 I picked out new furnishings for my apartment.
 
-I chose a washable, Ruggable rug called Patchwork Boho. I like the multi-colors and warm, relaxing look.
+I chose a washable, Ruggable rug called Patchwork Boho as the centerpiece. I like the multi-colors and warm, relaxing look.
 
 ![](2024-recap-images/patchwork-boho.jpg)
+
 Ruggable Patchwork Boho
 
 I went to Ikea. It was the first time I've ever been to one, and it was a wild experience! 
