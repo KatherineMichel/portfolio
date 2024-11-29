@@ -61,12 +61,9 @@ I had countless hours of fun playing these when I was a kid.
 
 We FaceTimed while they opened the box. They immediately began playing and loved them. 
 
-<!--
-### PS Connect
+### CFP Connect
 
-How many people now?
-Sharing, networking, and fun
--->
+Last year, I obtained sponsorship from a JPMorgan Chase Managing Director to start a monthly departmental meetup in Plano that became known as PS Connect, then CFP Connect. This year, it grew to be an event typically attended by 100+ plus attendees filled with knowledge-sharing, networking, and fun, supported by top department leadership in Plano. 
 
 ## March
 
@@ -471,6 +468,9 @@ My co-worker Julie and I co-lead JPMorganChase Plano Advent of Code for the seco
 
 ![](2024-recap-images/me-with-julie.jpg)
 Me and my wonderful co-worker Julie
+
+![](2024-recap-images/advent-of-code.png)
+Kickoff
 
 #### JPMorganChase DjangoCon US Recap Presentation
 
