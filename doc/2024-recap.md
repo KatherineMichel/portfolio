@@ -2,21 +2,13 @@
 
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
 
-<!--
-September 27
-![](2024-recap-images/spiked-coffee.jpg)
-![](2024-recap-images/yoshi-shabu-shabu.jpg)
-
-October 1
-![](2024-recap-images/mo.jpg)
-
-October 23
-![](2024-recap-images/jpmorganchase-plano.jpg)
--->
-
 ## This Year's Theme
 
 While writing this recap, I found myself thinking the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
+
+<!--
+Designing Data Intensive Applications
+-->
 
 ## Work
 
@@ -369,12 +361,14 @@ Standing ovation for organizers
 
 ### CockroachDB Day
 
-<!--
-CockroachDB Day
-Designing Data Intensive Applications
--->
-
 ## October
+
+<!--
+October 1
+![](2024-recap-images/mo.jpg)
+
+CockroachDB Day
+-->
 
 ### Sightseeing in Dallas
 
@@ -670,7 +664,6 @@ Me sitting next to a life-size thank you memo
 
 <!--
 DjangoCon US
-Mo visit
 -->
 
 ### Diwali
@@ -697,3 +690,12 @@ A performer on stilts dancing to reggae
 
 ![](2024-recap-images/chocolate-milkshake.jpg)
 A perfect chocolate milkshake
+
+<!--
+September 27
+![](2024-recap-images/spiked-coffee.jpg)
+![](2024-recap-images/yoshi-shabu-shabu.jpg)
+
+October 23
+![](2024-recap-images/jpmorganchase-plano.jpg)
+-->
