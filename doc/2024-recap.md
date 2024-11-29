@@ -4,7 +4,6 @@ You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-re
 
 <!--
 ![](2024-recap-images/cfp-panel.jpg)
-![](2024-recap-images/in-the-airport.jpg)
 ![](2024-recap-images/jpmorganchase-plano.jpg)
 ![](2024-recap-images/main-street.jpg)
 ![](2024-recap-images/mo.jpg)
@@ -476,6 +475,10 @@ Me and my wonderful co-worker Julie
 
 ![](2024-recap-images/epson-fastfoto.png)
 
+<!--
+Features
+-->
+
 ![](2024-recap-images/fast-foto-enhanced.jpg)
 Enhanced photo of me and my sister
 
@@ -483,6 +486,8 @@ Enhanced photo of me and my sister
 Original photo of me and my sister
 
 ### Carriage Crossing
+
+The Saturday before our family Thanksgiving, I finally made it to my favorite restaurant Carriage Crossing for their Thanksgiving special. 
 
 ![](2024-recap-images/carriage-crossing-thanksgiving-lunch.jpg)
 
@@ -530,6 +535,11 @@ These are the "good old days." Live your best life.
 Me at PyCon US
 
 ## Favorite Snapshots Throughout The Year
+
+### Dallas Love Field
+
+![](2024-recap-images/in-the-airport.jpg)
+On the road again... walking through Dallas Love Field airport
 
 <!--
 ### Arbor Hills
