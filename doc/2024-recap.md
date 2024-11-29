@@ -477,11 +477,20 @@ Me and my wonderful co-worker Julie
 
 #### Epson FastFoto FF-680W Scanner
 
+<!--
+I've been wanting to get our family photos scanned for a long time. I just pulled the trigger on this highly-rated Epson FastFoto FF-680W to try get started over the holidays. 
+-->
+
 ![](2024-recap-images/epson-fastfoto.png)
 
-<!--
 Features
--->
+* Fastest personal scanner on the market- able to scan a photo a second
+* Able to consecutively scan a stack of 100+ documents
+* Auto-detects a two-sided photo or document and scans both sides at once
+* Photo auto-enhancement
+* Can save a copy of the original and enhanced scans
+* Document utility that can be used to create custom PDFs and other files
+* Auto shut-off
 
 ![](2024-recap-images/fast-foto-enhanced.jpg)
 Enhanced scan of me and my sister
