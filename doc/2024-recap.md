@@ -490,6 +490,7 @@ Original photo of me and my sister
 The Saturday before our family Thanksgiving, I finally made it to my favorite restaurant Carriage Crossing for their Thanksgiving special. 
 
 ![](2024-recap-images/carriage-crossing-thanksgiving-lunch.jpg)
+Oven roasted turkey and smoked ham, mashed potatoes and turkey gravy, stuffing, vegetable, cranberry sauce, dinner roll and cinnamon butter
 
 ### Two Year Work Anniversary
 
@@ -504,7 +505,6 @@ I picked out new furnishings for my apartment.
 I chose a washable, Ruggable rug called Patchwork Boho. I like the multi-colors and warm, relaxing look.
 
 ![](2024-recap-images/patchwork-boho.jpg)
-
 Ruggable Patchwork Boho
 
 I went to Ikea. It was the first time I've ever been to one, and it was a wild experience! 
