@@ -3,12 +3,15 @@
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
 
 <!--
-![](2024-recap-images/cfp-panel.jpg)
-![](2024-recap-images/jpmorganchase-plano.jpg)
-![](2024-recap-images/main-street.jpg)
-![](2024-recap-images/mo.jpg)
+September 27
 ![](2024-recap-images/spiked-coffee.jpg)
 ![](2024-recap-images/yoshi-shabu-shabu.jpg)
+
+October 1
+![](2024-recap-images/mo.jpg)
+
+October 23
+![](2024-recap-images/jpmorganchase-plano.jpg)
 -->
 
 ## This Year's Theme
@@ -320,6 +323,11 @@ In July, I did my wellness screening. My blood pressure and body mass index (BMI
 
 ## August
 
+<!--
+Augustu 7
+![](2024-recap-images/cfp-panel.jpg)
+-->
+
 ### Financial Advisor
 
 Using employee financial services benefits, I began working with a JPMorganChase personal advisor and private banker. 
@@ -331,6 +339,11 @@ I also conveniently paid off my student loans.
 ![](2024-recap-images/personal-banker.png)
 
 ## September
+
+<!--
+September 16
+![](2024-recap-images/main-street.jpg)
+-->
 
 ### Preventative Care
 
