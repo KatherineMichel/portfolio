@@ -104,6 +104,10 @@ I am super excited that my photos helped inspire this year's theme. The [website
 ![](2024-recap-images/joni-djangocon-us-website-post.png)
 A shoutout from our amazing designer Joni Trythall of YupGup!
 
+<!--
+Joni's blog post about the designs
+-->
+
 ### Conference Snapshots
 
 After years of collecting conference snapshots, I got organized and created a page of my [Favorite Conference Snapshots](https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html) and the stories behind them, as well as a page of [Speaker, Board, and Organizer Photos](https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html). 
