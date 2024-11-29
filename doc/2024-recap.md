@@ -516,14 +516,19 @@ I picked out new furnishings for my apartment.
 I chose a washable, Ruggable rug called Patchwork Boho as the centerpiece. I like the multi-colors and warm, relaxing look.
 
 ![](2024-recap-images/patchwork-boho.jpg)
+
 Ruggable Patchwork Boho
+
+<!-- 
+Fix this
+-->
 
 I went to Ikea. It was the first time I've ever been to one, and it was a wild experience! 
 
-I looked closely at the Söderhamn sofa in Tonerud Gray. It's modular (one large sofa can be made into a small sofa and separate chaise lounge), washable, pretty comfortable, and can be informally made into a sleeper. 
+I looked closely at the Söderhamn sofa in Tonerud Gray. It's modular (one three-section sofa can be made into a two-section sofa and separate chaise lounge or chair with an ottoman), washable, pretty comfortable, and can be informally made into a sleeper. 
 
 ![](2024-recap-images/soderhamn-couch.jpg)
-Söderhamn sofa
+Söderhamn sofa with an ottoman and chaise lounge
 
 Not only was Ikea teeming with people, but I had no idea that while shopping in an Ikea, you can take a break and eat in a Swedish restaurant. Someone sitting next to me had a plate of Swedish meatballs with Swedish flags stuck in them. 🤣 
 
