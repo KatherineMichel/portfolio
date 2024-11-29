@@ -526,7 +526,7 @@ Fix this
 
 I went to Ikea. It was the first time I've ever been to one, and it was a wild experience! 
 
-I looked closely at the Söderhamn sofa in Tonerud Gray. It's modular (one three-section sofa can be made into a two-section sofa and separate chaise lounge or chair with an ottoman), washable, pretty comfortable, and can be informally made into a sleeper. 
+I looked closely at the Söderhamn sofa in Tonerud Gray. It's modular, washable, pretty comfortable, and can be informally made into a sleeper. One three-section sofa can be made into a two-section sofa and separate chaise lounge or single-section with an ottoman.
 
 ![](2024-recap-images/soderhamn-couch.jpg)
 Söderhamn sofa with an ottoman and chaise lounge
