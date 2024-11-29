@@ -662,10 +662,6 @@ Me overtaking a longhorn
 ![](2024-recap-images/thank-you-memo.jpg)
 Me sitting next to a life-size thank you memo
 
-<!--
-DjangoCon US
--->
-
 ### Diwali
 
 ![](2024-recap-images/diwali-attire.JPEG)
@@ -691,11 +687,12 @@ A performer on stilts dancing to reggae
 ![](2024-recap-images/chocolate-milkshake.jpg)
 A perfect chocolate milkshake
 
-<!--
-September 27
+### Yoshi Shabu Shabu September
+
 ![](2024-recap-images/spiked-coffee.jpg)
 ![](2024-recap-images/yoshi-shabu-shabu.jpg)
 
+<!--
 October 23
 ![](2024-recap-images/jpmorganchase-plano.jpg)
 -->
