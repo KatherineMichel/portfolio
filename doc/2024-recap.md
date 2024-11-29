@@ -309,10 +309,6 @@ After completing certain wellness activities, JPMorganChase will pay money into 
 
 In July, I did my wellness screening. My blood pressure and body mass index (BMI) were calculated, and a fingerstick was used to calculate my blood sugar, cholesterol and triglycerides. My bad cholesterol had gone down 22 points since my 2023 screening. 
 
-<!--
-![](2024-recap-images/wellness.jpg)
--->
-
 ## August
 
 <!--
@@ -492,11 +488,13 @@ I've been wanting to get our family photos scanned for a long time. I just pulle
 
 Features
 * Fastest personal scanner on the market- able to scan a photo a second
+* 300 dpi, 600 dpi, or 1200 dpi available
 * Able to consecutively scan a stack of 100+ documents
 * Auto-detects a two-sided photo or document and scans both sides at once
 * Photo auto-enhancement
 * Can save a copy of the original and enhanced scans
 * Document utility that can be used to create custom PDFs and other files
+* Ability to upload to Google Drive or Dropbox
 * Auto shut-off
 
 ![](2024-recap-images/fast-foto-enhanced.jpg)
@@ -665,6 +663,10 @@ Love flamingos!
 
 ### Sixth Floor Museum
 
+<!--
+Photos
+-->
+
 ### Terry Black's Barbecue 
 
 ![](2024-recap-images/pit-power.jpg)
@@ -681,7 +683,7 @@ A perfect chocolate milkshake
 ### Yoshi Shabu Shabu September
 
 ![](2024-recap-images/yoshi-shabu-shabu.jpg)
-Yum!
+Japanese hotpot with tonkotsu, shrimp, ramen, and goma sesame peanut, citrus ponzu, and roasted garlic teriyaki sauces
 
 ![](2024-recap-images/spiked-coffee.jpg)
 Spiked coffee
