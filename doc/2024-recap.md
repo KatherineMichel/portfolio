@@ -480,10 +480,10 @@ Features
 -->
 
 ![](2024-recap-images/fast-foto-enhanced.jpg)
-Enhanced photo of me and my sister
+Enhanced scan of me and my sister
 
 ![](2024-recap-images/fast-foto-original.jpg)
-Original photo of me and my sister
+Original scan of me and my sister
 
 ### Carriage Crossing
 
