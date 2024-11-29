@@ -472,10 +472,6 @@ My co-worker Julie and I co-lead JPMorganChase Plano Advent of Code for the seco
 ![](2024-recap-images/me-with-julie.jpg)
 Me and my wonderful co-worker Julie
 
-<!--
-![](2024-recap-images/advent-of-code.png)
--->
-
 #### JPMorganChase DjangoCon US Recap Presentation
 
 #### Epson FastFoto FF-680W Scanner
