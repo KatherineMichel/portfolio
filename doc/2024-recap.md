@@ -477,8 +477,10 @@ Me and my wonderful co-worker Julie
 ![](2024-recap-images/epson-fastfoto.png)
 
 ![](2024-recap-images/fast-foto-enhanced.jpg)
+Enhanced photo of me and my sister
 
 ![](2024-recap-images/fast-foto-original.jpg)
+Original photo of me and my sister
 
 ### Carriage Crossing
 
@@ -486,15 +488,28 @@ Me and my wonderful co-worker Julie
 
 ### Two Year Work Anniversary
 
+My two-year work anniversary happened on Thanksgiving. 
+
 ![](2024-recap-images/work-anniversary.png)
 
 #### New Furnishings
 
-![](2024-recap-images/patchwork-boho.jpg)
+I picked out new furnishings for my apartment.
 
-![](2024-recap-images/soderhamn-couch.jpg)
+I chose a washable, Ruggable rug called Patchwork Boho. I like the multi-colors and warm, relaxing look.
+
+![](2024-recap-images/patchwork-boho.jpg)
+Ruggable Patchwork Boho
+
+I went to Ikea. It was the first time I've ever been to one, and it was a wild experience! Not only was it teeming with people, but I had no idea that while shopping in an Ikea, you can take a break and eat in a Swedish restaurant. Someone sitting next to me had a plate of Swedish meatballs with Swedish flags stuck in them. 🤣 
 
 ![](2024-recap-images/ikea-meal.jpg)
+Eating at Ikea
+
+I looked closely at the Söderhamn sofa in Tonerud Gray. It's modular (one large sofa can be made into a small sofa and separate chaise lounge), washable, pretty comfortable, and can be informally made into a sleeper. 
+
+![](2024-recap-images/soderhamn-couch.jpg)
+Söderhamn sofa
 
 ## December
 
