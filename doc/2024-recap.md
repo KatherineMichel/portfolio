@@ -578,11 +578,6 @@ Parade
 Cultural attire
 
 <!--
-![](2024-recap-images/calligraphy.jpg)
-Calligraphy
--->
-
-<!--
 ### JPMorganChase Eclipse Watch Party
 -->
 
@@ -641,10 +636,6 @@ Venezuelan chicken empanada, rice, black beans, fried plantains
 
 ### Darna Mediterranean Eatery
 
-<!--
-![](2024-recap-images/mocktail.jpg)
--->
-
 ![](2024-recap-images/saffron-chicken.jpg)
 Saffron chicken kebab and mocktail mojito with strawberry flavor
 
@@ -689,8 +680,11 @@ A perfect chocolate milkshake
 
 ### Yoshi Shabu Shabu September
 
-![](2024-recap-images/spiked-coffee.jpg)
 ![](2024-recap-images/yoshi-shabu-shabu.jpg)
+Yum!
+
+![](2024-recap-images/spiked-coffee.jpg)
+Spiked coffee
 
 <!--
 October 23
