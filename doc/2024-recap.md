@@ -63,7 +63,9 @@ We FaceTimed while they opened the box. They immediately began playing and loved
 
 ### CFP Connect
 
-Last year, I obtained sponsorship from a JPMorganChase Managing Director to start a monthly departmental meetup in Plano that became known as PS Connect, then CFP Connect. This year, it grew to be an event typically attended by 100+ plus, filled with knowledge-sharing, networking, and fun, and supported by top department leadership across Plano. 
+Last year, I obtained sponsorship from a JPMorganChase Managing Director to start a monthly departmental meetup in Plano that became known as PS Connect, then CFP Connect. This year, it grew to be a quarterly event typically attended by 100+ plus people, filled with knowledge-sharing, networking, and fun, and supported by top department leadership across Plano. 
+
+It was a pleasure to continue to be part of the core team overseeing the events. 
 
 ## March
 
@@ -299,7 +301,10 @@ In July, I did my wellness screening. My blood pressure and body mass index (BMI
 
 ### CFP Connect Panel
 
+August CFP Connect hosted a women in leadership panel. 
+
 ![](2024-recap-images/cfp-connect-panel.jpg)
+Women in Leadership Panel
 
 ### Financial Advisor
 
@@ -339,7 +344,10 @@ Standing ovation for organizers
 
 ### CFP Connect and Mo
 
+October CFP Connect served as a forum to get to know Mo. 
+
 ![](2024-recap-images/mo.jpg)
+Group photo with Mo
 
 ### CockroachDB Day
 
