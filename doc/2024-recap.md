@@ -433,10 +433,6 @@ My distant relative Kelly Cline is a talented quilter who shares her quilting ad
 ![](2024-recap-images/german-recipes.jpg)
 A few of the German recipes
 
-<!--
-![](2024-recap-images/cookbook.jpg)
--->
-
 ### Fun for My  Nieces
 
 While looking through popular brainteaser toys, I came across a couple that I couldn't resist buying for my nieces: 
@@ -486,7 +482,7 @@ Features
 * Able to consecutively scan a stack of 100+ documents
 * Auto-detects a two-sided photo or document and scans both sides at once
 * Photo auto-enhancement
-* Can save a copy of the original and enhanced scans
+* Can auto-save a copy of the original and enhanced scans
 * Document utility that can be used to create custom PDFs and other files
 * Ability to upload to Google Drive or Dropbox
 * Auto shut-off
@@ -512,9 +508,9 @@ My two-year work anniversary happened on Thanksgiving.
 
 #### New Furnishings
 
-I picked out new furnishings for my apartment.
+After leasing furnishings for my apartment for a years, I stopped the lease and picked out my own. 
 
-I chose a washable, Ruggable rug called Patchwork Boho as the centerpiece. I like the multi-colors and warm, relaxing look.
+I couldn't resist the washable, Ruggable rug Patchwork Boho. I like the multi-colors and warm, relaxing look.
 
 ![](2024-recap-images/patchwork-boho.jpg)
 
@@ -526,7 +522,7 @@ Fix this
 
 I went to Ikea. It was the first time I've ever been to one, and it was a wild experience! 
 
-I looked closely at the Söderhamn sofa in Tonerud Gray. It's modular, washable, pretty comfortable, and can be informally made into a sleeper. One three-section sofa can be made into a two-section sofa and separate chaise lounge or single-section with an ottoman.
+I wantee to try out the Söderhamn sofa. It's modular, washable, pretty comfortable, and can be informally made into a sleeper. One three-section sofa can be made into a two-section sofa and separate chaise lounge or single-section with an ottoman. I like the Tonerud Gray. 
 
 ![](2024-recap-images/soderhamn-couch.jpg)
 Söderhamn sofa with an ottoman and chaise lounge
@@ -542,17 +538,17 @@ Eating at Ikea
 
 Thank you to each and everyone one of you, and there are many, who made my year special.
 
-![](2024-recap-images/still-reflecting.png)
-
 ![](2024-recap-images/last-photo-with-uncle-edward.jpg)
 Last photo with my Uncle Edward
+
+![](2024-recap-images/still-reflecting.png)
 
 These are the "good old days." Live your best life. 
 
 ![](2024-recap-images/me-at-pycon-us.jpg)
 Me at PyCon US
 
-## Favorite Snapshots Throughout The Year
+## More Favorite Snapshots Throughout The Year
 
 ### Dallas Love Field
 
