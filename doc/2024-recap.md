@@ -534,10 +534,10 @@ Eating at Ikea
 
 Thank you to each and everyone one of you, and there are many, who made my year special.
 
+![](2024-recap-images/still-reflecting.png)
+
 ![](2024-recap-images/last-photo-with-uncle-edward.jpg)
 Last photo with my Uncle Edward
-
-![](2024-recap-images/still-reflecting.png)
 
 These are the "good old days." Live your best life. 
 
