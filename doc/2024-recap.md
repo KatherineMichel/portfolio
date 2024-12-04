@@ -344,7 +344,7 @@ Standing ovation for organizers
 
 ### CFP Connect and Mo
 
-October CFP Connect served as a forum to get to know Mo. 
+October CFP Connect served as a forum to get to know Mo El-Gammal. 
 
 ![](2024-recap-images/mo.jpg)
 Group photo with Mo
