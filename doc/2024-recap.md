@@ -674,5 +674,7 @@ Spiked coffee
 ### JPMorganChase Plano
 
 ![](2024-recap-images/main-street.jpg)
+Main Street
 
 ![](2024-recap-images/morning.jpg)
+Morning
