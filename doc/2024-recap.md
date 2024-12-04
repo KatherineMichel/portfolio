@@ -174,19 +174,15 @@ Tweets
 Conference and sight seeing details
 -->
 
+#### Franklin's Barbecue
+
 On a whim, I went straight from the airport to Franklin's Barbecue for some of their world famous brisket. The meat was melt in your mouth with very little fat. It was the best brisket that I've ever had, but I waited in line for an hour and a half to get it. 
 
-<!--
-Walking along the river and trails
-Stevie Ray Statue
-Church
-Capitol
-Tacos
-LBJ Presidential Library
-Bruce Springsteen Foundation Exhibit
-Botanical Garden
-Austin Central Library
--->
+#### LBJ Presidential Library
+
+#### Bruce Springsteen Foundation Exhibit
+
+#### Austin Central Library
 
 ## May
 
@@ -339,20 +335,19 @@ Thank you to Django News for featuring it in [Issue 254](https://django-news.com
 ![](2024-recap-images/standing-ovation.jpg)
 Standing ovation for organizers
 
-### CockroachDB Day
-
 ## October
 
-<!--
-October 1
+### CFP Connect and Mo
+
 ![](2024-recap-images/mo.jpg)
 
-CockroachDB Day
--->
+### CockroachDB Day
 
 ### Sightseeing in Dallas
 
 On October 4, I spent the day sight-seeing in Dallas. I went to the Dallas World Aquarium, the Sixth Floor Museum, Terry Black's Barbecue, then the Dallas Zoo. 
+
+#### Dallas World Aquarium
 
 The Dallas World Aquarium was unique and amazing. There were a number of awe-inspiring scenes and fun animals. 
 
@@ -373,6 +368,8 @@ Sea life from British Columbia
 ![](2024-recap-images/stanford-artwork.jpg)
 A favorite "artwork" my program made
 
+#### Sixth Floor Museum
+
 I had no idea what the Sixth Floor Museum would be like. The window where Oswald allegedly stood is behind a glass display. It was surreal to stand at the window nearest to it and look down at a perfect view of the motorcade route below. 
 
 ![](2024-recap-images/the-route-simulation.jpg)
@@ -380,6 +377,8 @@ Route simuation
 
 ![](2024-recap-images/the-route.jpg)
 The route
+
+#### Terry Black's Barbecue
 
 After trying the world famous Franklin's Barbecue in Austin in April, I had the pleasure of trying Terry Black's Barbecue. Terry Black's Barbecue was a very different experience, but also great. The approaches of either establishment were very different! 
 
@@ -403,7 +402,7 @@ Terry Black's Barbecue
 ![](2024-recap-images/brisket-sandwich.jpg)
 Brisket sandwich, green beans, and a Big Red (haven't had one of those in years!) 
 
-### JPMorganChase Dallas Zoo Employee Night
+#### JPMorganChase Dallas Zoo Employee Night
 
 JPMorganChase Plano rented out the Dallas Zoo for an employee night. I had a really fun time! Thank you to everyone who made it unforgettable! 
 
@@ -569,6 +568,13 @@ Mom turning the tables on me at Tanganyka
 
 <!--
 ### PyTexas 2024 Photos
+
+Walking along the river and trails
+Stevie Ray Statue
+Church
+Capitol
+Tacos
+Botanical Garden
 
 ### May the 4th
 
