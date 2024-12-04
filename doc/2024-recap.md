@@ -98,6 +98,7 @@ A shoutout from our amazing designer Joni Trythall of YupGup!
 
 <!--
 Joni's blog post about the designs
+https://jonitrythall.com/dcus-design-reflection
 -->
 
 ### Conference Snapshots
@@ -206,14 +207,9 @@ By June 1st, I'd already had a personal best on the elliptical and broke that re
 
 ![](2024-recap-images/felt-like-it.png)
 
-<!--
-Personal best by year end
--->
-
 ![](2024-recap-images/gym-rat.jpg)
-Gym rat :) 
 
-A chef friend Sheldon also encouraged me to get a personal trainer, which I have not done (yet). It has been life-changing for him in his life and work.
+According to my chef friend Sheldon, having a person trainer has been life-changing for him in his life and work. It is something I am considering. 
 
 ### DjangoCon US Featured Post
 
@@ -261,17 +257,17 @@ While the recaps I have written of smaller Python/Django conferences have been w
 
 The new Python Release Manager Hugo van Kemenade whom I had the pleasure of meeting at the conference included my recap as the must read recap in his [conference recap roundup](https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj).
 
+<!--
+Kudo from Simon Willison
+https://simonwillison.net/2024/Jun/3/katherine-michels-pycon-us-2024-recap/
+-->
+
 Validation of my work among the world's leading Python practitioners and global community means a lot to me. 
 
 It was also featured in [Django News Newsletter](https://django-news.com/issues/236#start) and [pip Trends Newsletter](https://newsletter.piptrends.com/p/pycon-us-2024-recap-how-llms-work).
 
 ![](2024-recap-images/lacey-kudo.png)
 Thank you to the incredible Lacey for this sweet kudo! 
-
-<!--
-Kudo from Simon Willison
-https://simonwillison.net/2024/Jun/3/katherine-michels-pycon-us-2024-recap/
--->
 
 ### DFW Pythoneers
 
@@ -308,10 +304,9 @@ In July, I did my wellness screening. My blood pressure and body mass index (BMI
 
 ## August
 
-<!--
-Augustu 7
-![](2024-recap-images/cfp-panel.jpg)
--->
+### CFP Connect Panel
+
+![](2024-recap-images/cfp-connect-panel.jpg)
 
 ### Financial Advisor
 
@@ -504,21 +499,21 @@ My two-year work anniversary happened on Thanksgiving.
 
 #### New Furnishings
 
-After leasing furnishings for my apartment for a years, I stopped the lease and picked out my own. 
+After leasing furnishings for my apartment for a couple of years, I stopped the lease and picked out my own. 
 
-I couldn't resist the washable, Ruggable rug Patchwork Boho. I like the multi-colors and warm, relaxing look.
+I couldn't resist buying a Ruggable Patchwork Boho rug on Black Friday. I like the multi-colors and warm, relaxing look, and it's washable. 
 
 ![](2024-recap-images/patchwork-boho.jpg)
 
+<!-- 
 Ruggable Patchwork Boho
 
-<!-- 
 Fix this
 -->
 
-I went to Ikea. It was the first time I've ever been to one, and it was a wild experience! 
+I went to an Ikea for the first time, and it was a wild experience! 
 
-I wantee to try out the Söderhamn sofa. It's modular, washable, pretty comfortable, and can be informally made into a sleeper. One three-section sofa can be made into a two-section sofa and separate chaise lounge or single-section with an ottoman. I like the Tonerud Gray. 
+I wanted to try out the Söderhamn sofa. It's modular, washable, pretty comfortable, and can be informally made into a sleeper. One three-section sofa can be made into a two-section sofa and separate chaise lounge or single-section with an ottoman. I like the Tonerud Gray. 
 
 ![](2024-recap-images/soderhamn-couch.jpg)
 Söderhamn sofa with an ottoman and chaise lounge
@@ -527,6 +522,12 @@ Not only was Ikea teeming with people, but I had no idea that while shopping in 
 
 ![](2024-recap-images/ikea-meal.jpg)
 Eating at Ikea
+
+<!--
+Cozy Earth
+Dupray Steam cleaner
+Spinning brush
+-->
 
 ## December
 
