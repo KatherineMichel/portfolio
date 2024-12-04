@@ -47,7 +47,7 @@ I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/d
 
 ## February
 
-### Board Games for My Nieces
+### Spring Fun for My Nieces
 
 I want to start doing random, fun things for my nieces. I decided to buy them some board games. 
 
@@ -332,7 +332,7 @@ September 16
 
 ### Preventative Care
 
-Continuing with my wellness activities, my doctor and I created a comprehensive annual preventative care plan going into the future. I completed a full physical, mammogram, colon cancer screening, and got up-to-date with my vaccinations. I feel fortunate to be "healthy as a horse." 
+Continuing with my wellness activities, my doctor and I created a comprehensive, longterm annual preventative care plan. I completed a full physical, mammogram, colon cancer screening, and got up-to-date with my vaccinations. I feel fortunate to be "healthy as a horse." 
 
 To improve my longterm health, I've cut back on animal products and now "eat the rainbow" often at home and work. 
 
@@ -433,7 +433,7 @@ My distant relative Kelly Cline is a talented quilter who shares her quilting ad
 ![](2024-recap-images/german-recipes.jpg)
 A few of the German recipes
 
-### Fun for My  Nieces
+### Winter Fun for My  Nieces
 
 While looking through popular brainteaser toys, I came across a couple that I couldn't resist buying for my nieces: 
 * A Learn & Climb Mega Magic Kit for kids with 100s of tricks of all skill levels and a tutorial video
@@ -470,19 +470,15 @@ Me and my wonderful co-worker Julie
 
 #### Epson FastFoto FF-680W Scanner
 
-<!--
-I've been wanting to get our family photos scanned for a long time. I just pulled the trigger on this highly-rated Epson FastFoto FF-680W to try get started over the holidays. 
--->
-
-![](2024-recap-images/epson-fastfoto.png)
+Over the holiday break, I wanted to scan family photos and documents. After reading some reviews, I pulled the trigger on the highly-rated Epson FastFoto FF-680W. It is a very fast and powerful machine, and a game changer for scanning a large quantity of documents well in a short amount of time. 
 
 Features
 * Fastest personal scanner on the market- able to scan a photo a second
 * 300 dpi, 600 dpi, or 1200 dpi available
-* Able to consecutively scan a stack of 100+ documents
+* Able to consecutively scan a stack of 150+ pages, in my experience
 * Auto-detects a two-sided photo or document and scans both sides at once
 * Photo auto-enhancement
-* Can auto-save a copy of the original and enhanced scans
+* Auto-saves a copy of both the original and enhanced scan
 * Document utility that can be used to create custom PDFs and other files
 * Ability to upload to Google Drive or Dropbox
 * Auto shut-off
