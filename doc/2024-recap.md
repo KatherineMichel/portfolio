@@ -457,7 +457,7 @@ Me and my wonderful co-worker Julie
 
 #### Epson FastFoto FF-680W Scanner
 
-Over the holiday break, I wanted to scan family photos and documents. After reading some reviews, I pulled the trigger on the highly-rated Epson FastFoto FF-680W. It is a very fast and powerful machine, and a game changer for scanning a large quantity of documents well in a short amount of time. 
+Over the holiday break, I wanted to scan family photos and documents. After reading some reviews, I pulled the trigger on the highly-rated Epson FastFoto FF-680W. It is a very fast and powerful machine, and a game changer for scanning a large quantity of photos and documents well in a short amount of time. 
 
 Features
 * Fastest personal scanner on the market- able to scan a photo a second
