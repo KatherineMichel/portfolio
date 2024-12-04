@@ -671,10 +671,8 @@ Japanese hotpot with tonkotsu, shrimp, ramen, and goma sesame peanut, citrus pon
 ![](2024-recap-images/spiked-coffee.jpg)
 Spiked coffee
 
-<!--
-September 16
+### JPMorganChase Plano
+
 ![](2024-recap-images/main-street.jpg)
 
-October 23
-![](2024-recap-images/jpmorganchase-plano.jpg)
--->
+![](2024-recap-images/morning.jpg)
