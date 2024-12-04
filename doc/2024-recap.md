@@ -257,10 +257,7 @@ While the recaps I have written of smaller Python/Django conferences have been w
 
 The new Python Release Manager Hugo van Kemenade whom I had the pleasure of meeting at the conference included my recap as the must read recap in his [conference recap roundup](https://dev.to/hugovk/pycon-us-2024-a-roundup-of-writeups-26hj).
 
-<!--
-Kudo from Simon Willison
-https://simonwillison.net/2024/Jun/3/katherine-michels-pycon-us-2024-recap/
--->
+I also made it to Django Co-creator Simon Willison's blog! Thank you to Simon for the [kudo](https://simonwillison.net/2024/Jun/3/katherine-michels-pycon-us-2024-recap/). 
 
 Validation of my work among the world's leading Python practitioners and global community means a lot to me. 
 
@@ -319,11 +316,6 @@ I also conveniently paid off my student loans.
 ![](2024-recap-images/personal-banker.png)
 
 ## September
-
-<!--
-September 16
-![](2024-recap-images/main-street.jpg)
--->
 
 ### Preventative Care
 
@@ -680,6 +672,9 @@ Japanese hotpot with tonkotsu, shrimp, ramen, and goma sesame peanut, citrus pon
 Spiked coffee
 
 <!--
+September 16
+![](2024-recap-images/main-street.jpg)
+
 October 23
 ![](2024-recap-images/jpmorganchase-plano.jpg)
 -->
