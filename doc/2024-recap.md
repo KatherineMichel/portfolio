@@ -12,7 +12,7 @@ Designing Data Intensive Applications
 
 ## Work
 
-I continued as a Python/Django software engineer doing task orchestration and distributed systems engineering. 
+I continued as a Python/Django software engineer doing task orchestration and distributed systems engineering. The year went well, including a very positive end-of-year review. I am incredibly grateful.  
 
 ## January 
 
@@ -98,10 +98,11 @@ I am super excited that my photos helped inspire this year's theme. The [website
 ![](2024-recap-images/joni-djangocon-us-website-post.png)
 A shoutout from our amazing designer Joni Trythall of YupGup!
 
-<!--
-Joni's blog post about the designs
-https://jonitrythall.com/dcus-design-reflection
--->
+Our wonderful designer Joni Trythall of YupGup did a [DjangoCon US Design Reflection](https://jonitrythall.com/dcus-design-reflection) featuring all of our designs since 2018.
+
+They are so beautiful!
+
+Thank you to Joni for a special recognition at the end of her post.
 
 ### Conference Snapshots
 
@@ -207,7 +208,7 @@ By June 1st, I'd already had a personal best on the elliptical and broke that re
 
 ![](2024-recap-images/gym-rat.jpg)
 
-According to my chef friend Sheldon, having a person trainer has been life-changing for him in his life and work. It is something I am considering. 
+According to my chef friend Sheldon, having a personal trainer has been life-changing for him in his life and work. It is something I am considering. 
 
 ### DjangoCon US Featured Post
 
@@ -320,7 +321,7 @@ I also conveniently paid off my student loans.
 
 ### Preventative Care
 
-Continuing with my wellness activities, my doctor and I created a comprehensive, longterm annual preventative care plan. I completed a full physical, mammogram, colon cancer screening, and got up-to-date with my vaccinations. I feel fortunate to be "healthy as a horse." 
+Continuing with my wellness activities, for the first time, my doctor and I created a comprehensive, longterm annual preventative care plan. I completed a full physical, mammogram, colon cancer screening, and got up-to-date with my vaccinations. I feel fortunate to be "healthy as a horse." 
 
 To improve my longterm health, I've cut back on animal products and now "eat the rainbow" often at home and work. 
 
@@ -347,7 +348,7 @@ Standing ovation for organizers
 October CFP Connect served as a forum to get to know new Head of CFP Mo El-Gammal. 
 
 ![](2024-recap-images/mo.jpg)
-Group photo with Mo
+A few of us stragglers enjoyed a photo with Mo after the event
 
 ### CockroachDB Day
 
@@ -535,6 +536,8 @@ Spinning brush
 Thank you to each and everyone one of you, and there are many, who made my year special.
 
 ![](2024-recap-images/still-reflecting.png)
+
+Although I am generally a person who maintains a stable outlook, it was a year of very high highs, and lower than usual lows. In addition to some health problems in the first part of the year, the loss of my aunt two years ago, then my uncle this year drastically impacted many of my family members. Throughout the year, I often had to prioritize health and family. I am hoping for a more normal 2025 in that respect. 
 
 ![](2024-recap-images/last-photo-with-uncle-edward.jpg)
 Last photo with my Uncle Edward
