@@ -442,9 +442,11 @@ Identifying a DjangoCon US 2024 venue has been a challenge this year due to affo
 
 Fellow DEFNA Board Member Adam Fast gave a lightning talk about it at DjangoCon US 2024. The community answered the call by submitting a number of proposals. 
 
-Fellow Board Member Tim Schilling and I collaborated to create an Excel spreadsheet analyzing the options. Internalizing this data has enabled me to take a more active role in the conversation. 
+Fellow Board Member Tim Schilling and I collaborated to create an Excel spreadsheet analyzing the options. Reading through and disecting all of the proposals has enabled me to internalize the data and take a more active role in the conversation around venue tradeoffs. 
 
 <!--
+As I said in my 2023 recap
+
 Priorities
 Financial analysis
 -->
@@ -472,10 +474,9 @@ Me and my wonderful co-worker Julie
 
 #### JPMorganChase DjangoCon US Recap Presentation
 
-<!--
-Distilled
-Department, Databases leadership team
--->
+Considering the popularity of my PyCon US 2024 and DjangoCon US 2024 recaps, I am well-positioned to analyze industry trends.
+
+I distilled my DjangoCon US experience into a DjangoCon US Recap presentation specific to JPMorganChase that I gave to my team, department, and will soon give to the Databases Leadership Team. 
 
 #### Epson FastFoto FF-680W Scanner
 
