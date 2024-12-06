@@ -12,7 +12,7 @@ Designing Data Intensive Applications
 
 ## Work
 
-I continued as a Python/Django software engineer doing task orchestration and distributed systems engineering. The year went well, including a very positive end-of-year review. I am incredibly grateful.  
+I continued as a Python/Django software engineer doing task orchestration and distributed systems engineering. The year went well, including a very positive end-of-year review. 
 
 ## January 
 
@@ -352,6 +352,8 @@ A few of us stragglers enjoyed a photo with Mo after the event
 
 ### CockroachDB Day
 
+As my team's CockroachDB expert, I had the pleasure of attending a JPMorganChase Plano CockroachDB Day. 
+
 ### Sightseeing in Dallas
 
 On October 4, I spent the day sight-seeing in Dallas. I went to the Dallas World Aquarium, the Sixth Floor Museum, Terry Black's Barbecue, then the Dallas Zoo. 
@@ -436,7 +438,14 @@ While looking through popular brainteaser toys, I came across a couple that I co
 
 ### DjangoCon US 2025 Venue Selection
 
+Identifying a DjangoCon US 2024 venue has been a challenge this year due to affordability. 
+
+Fellow DEFNA Board Member Adam Fast gave a lightning talk about it at DjangoCon US 2024. The community answered the call by submitting a number of proposals. 
+
+Fellow Board Member Tim Schilling and I collaborated to create an Excel spreadsheet analyzing the options. Internalizing this data has enabled me to take a more active role in the conversation. 
+
 <!--
+Priorities
 Financial analysis
 -->
 
@@ -462,6 +471,11 @@ My co-worker Julie and I co-lead JPMorganChase Plano Advent of Code for the seco
 Me and my wonderful co-worker Julie
 
 #### JPMorganChase DjangoCon US Recap Presentation
+
+<!--
+Distilled
+Department, Databases leadership team
+-->
 
 #### Epson FastFoto FF-680W Scanner
 
