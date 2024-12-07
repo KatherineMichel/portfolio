@@ -457,7 +457,7 @@ November was a month for presentations. I gave three important ones within a wee
 
 ### JPMorganChase PowerUp Conference Presentation
 
-I had a blast presenting at JPMorganChase Plano PowerUp Conference. It was my first time presenting there and a great experience.
+I had a blast presenting at JPMorganChase Plano PowerUp Conference with my team. It was my first time presenting there and a great experience.
 
 ![](2024-recap-images/me-presenting-at-powerup.JPEG)
 Me presenting at PowerUp
