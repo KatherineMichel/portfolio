@@ -194,14 +194,14 @@ A few of my personal favorites:
 * Stevie Ray Vaughan's "Number One" Guitar
 * Bruce Springsteen's outfit from the Born in the USA cover
 * Prince's shirt from Purple Rain and "Cloud" guitar
-* Ella Fitzgerald dress
+* Ella Fitzgerald's dress
 * A ticket to an Elvis Presley concert in Memphis twelve days after his death
 * Elvis Presley's 1956 Tupelo Concert shirt
-* Beatles Shea Stadium concert ticket
+* Beatles' Shea Stadium concert ticket
 * John Coltrane's Saxaphone
 * A Buddy Holly suit and letter to his mother
-* Hank Williams guitar
-* Bo Diddley homemade guitar
+* Hank Williams' guitar
+* Bo Diddley's homemade guitar
 * B.B. King's Lucille guitar
 * Dizzie Gillespie's trumpet
 * The first rock & roll records ("The Fat Man" and "Rocket 88")
