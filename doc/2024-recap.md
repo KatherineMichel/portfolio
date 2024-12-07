@@ -203,6 +203,12 @@ Texas State Capitol
 
 #### Lyndon B. Johnson Presidential Library
 
+On Saturday, I visited the LBJ Presidential Library. Naturally, the Kennedy assassination was a major part of it. 
+
+<!--
+Video
+-->
+
 ![](2024-recap-images/lbj-library-replica-oval-office.jpg)
 Replica Oval Office
 
