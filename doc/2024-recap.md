@@ -256,9 +256,8 @@ Buddy Holly letter (1957)
 
 PyTexas was held in the gorgeous Austin Central Library, a tourist destination in its own right. 
 
-<!--
+![](2024-recap-images/austin-central-public-library.jpg)
 The stunning rooftop garden with a view of the Austin skyline and Colorado River. 
--->
 
 ## May
 
