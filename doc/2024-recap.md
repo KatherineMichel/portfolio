@@ -187,21 +187,30 @@ The meal!
 
 #### Downtown Austin
 
-![](2024-recap-images/lady-bird-trail.jpg)
+On Friday and Saturday, I explored the downtown. 
+
+![](2024-recap-images/lady-bird-lake-trail.jpg)
+View of Block 185 from Lady Bird Lake Trail
 
 ![](2024-recap-images/saint-mary-catholic-cathedral.jpg)
+Saint Mary Catholic Cathedral
 
 ![](2024-recap-images/texas-state-capitol-tier.jpg)
+Texas State Capitol
 
 ![](2024-recap-images/texas-state-capitol-dome.jpg)
+Texas State Capitol
 
 #### Lyndon B. Johnson Presidential Library
 
 ![](2024-recap-images/lbj-library-replica-oval-office.jpg)
+Replica Oval Office
 
 ![](2024-recap-images/lbj-library-moon-rock.jpg)
+Moon rock
 
 ![](2024-recap-images/lbj-library-voting-rights-act-desk.jpg)
+Desk where the Voting Rights Act was signed
 
 #### Bruce Springsteen Foundation Exhibit
 
