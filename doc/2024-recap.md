@@ -172,11 +172,6 @@ All of the videos are available on the [PyTexas Youtube channel](https://www.you
 
 ### Austin Sightseeing
 
-<!--
-Tweets
-Conference and sight seeing details
--->
-
 #### Franklin's Barbecue
 
 On a whim, I went straight from the airport to Franklin's Barbecue for some of their brisket. Many believe it to be the best in the United States. The meat was melt in your mouth with very little fat. It was the best brisket that I've ever had, but I waited in line for an hour and a half to get it. On the bright side, an incredibly nice man I chatted with in line bought my meal.
