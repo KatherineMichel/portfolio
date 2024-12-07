@@ -200,6 +200,15 @@ A few of my personal favorites:
 * Dizzie Gillespie's trumpet
 * The first rock & roll records ("The Fat Man" and "Rocket 88")
 
+![](2024-recap-images/prince-purple-rain-shirt-and-cloud-guitar.jpg)
+Prince Purple Rain shirt and "Cloud" guitar
+
+![](2024-recap-images/buddy-holly-letter.jpg)
+Buddy Holly Letter
+
+![](2024-recap-images/beatles-shea-stadium.jpg)
+Beatles Shea Stadium ticket
+
 #### Austin Central Library
 
 PyTexas was held in the gorgeous Austin Central Library, a tourist destination in its own right. 
