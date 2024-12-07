@@ -176,6 +176,21 @@ All of the videos are available on the [PyTexas Youtube channel](https://www.you
 
 On a whim, I went straight from the airport to Franklin's Barbecue for some of their brisket. Many believe it to be the best in the United States. The meat was melt in your mouth with very little fat. It was the best brisket that I've ever had, but I waited in line for an hour and a half to get it. On the bright side, I chatted with an incredibly nice man in line, and he bought my meal.
 
+![](2024-recap-images/franklins-interior.jpg)
+Franklin's interior
+
+![](2024-recap-images/franklins-it-me.jpg)
+Finally inside Franklin's
+
+![](2024-recap-images/franklins-meal.jpg)
+The meal!
+
+#### Downtown Austin
+
+![](2024-recap-images/lady-bird-trail.jpg)
+
+![](2024-recap-images/saint-mary-catholic-cathedral.jpg)
+
 #### Lyndon B. Johnson Presidential Library
 
 #### Bruce Springsteen Foundation Exhibit
