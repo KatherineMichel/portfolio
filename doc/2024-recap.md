@@ -486,7 +486,7 @@ While looking through popular brainteaser toys, I came across a couple that I co
 
 ### DjangoCon US 2025 Venue Selection
 
-Identifying a DjangoCon US 2024 venue has been a challenge this year due to affordability. 
+Identifying a DjangoCon US 2025 venue has been a challenge this year due to affordability. 
 
 Fellow DEFNA Board Member Adam Fast gave a lightning talk about it at DjangoCon US 2024. The community answered the call by submitting a number of proposals. 
 
