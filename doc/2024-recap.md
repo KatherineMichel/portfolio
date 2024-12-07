@@ -192,7 +192,6 @@ It was by far the highlight of my visit.
 A few of my personal favorites:
 * The history of African influence on American music
 * Stevie Ray Vaughan's "Number One" Guitar
-* Bruce Springsteen's outfit from the Born in the USA cover
 * Prince's shirt from Purple Rain and "Cloud" guitar
 * Ella Fitzgerald's dress
 * A ticket to an Elvis Presley concert in Memphis twelve days after his death
