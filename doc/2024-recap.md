@@ -206,11 +206,11 @@ A few of my personal favorites:
 ![](2024-recap-images/prince-purple-rain-shirt-and-cloud-guitar.jpg)
 Prince Purple Rain shirt and "Cloud" guitar
 
-![](2024-recap-images/buddy-holly-letter.jpg)
-Buddy Holly Letter
-
 ![](2024-recap-images/beatles-shea-stadium.jpg)
-Beatles Shea Stadium ticket
+Beatles' Shea Stadium concert ticket
+
+![](2024-recap-images/buddy-holly-letter.jpg)
+Buddy Holly letter
 
 #### Austin Central Library
 
