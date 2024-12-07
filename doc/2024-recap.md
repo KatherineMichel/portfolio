@@ -210,7 +210,7 @@ Prince Purple Rain shirt and "Cloud" guitar
 Beatles' Shea Stadium concert ticket
 
 ![](2024-recap-images/buddy-holly-letter.jpg)
-Buddy Holly letter
+Buddy Holly letter (1957)
 
 #### Austin Central Library
 
