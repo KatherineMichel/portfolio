@@ -179,13 +179,40 @@ Conference and sight seeing details
 
 #### Franklin's Barbecue
 
-On a whim, I went straight from the airport to Franklin's Barbecue for some of their brisket. Many believe it to be the best in the United States. The meat was melt in your mouth with very little fat. It was the best brisket that I've ever had, but I waited in line for an hour and a half to get it. 
+On a whim, I went straight from the airport to Franklin's Barbecue for some of their brisket. Many believe it to be the best in the United States. The meat was melt in your mouth with very little fat. It was the best brisket that I've ever had, but I waited in line for an hour and a half to get it. On the bright side, an incredibly nice man I chatted with in line bought my meal.
 
-#### LBJ Presidential Library
+#### Lyndon B. Johnson Presidential Library
 
 #### Bruce Springsteen Foundation Exhibit
 
+As I walked around the LBJ Presidential Library, I nearly missed the premier of an incredible exhibit curated by the Bruce Springsteen Archives called [Music America: Iconic Objects from America's Music History](https://www.lbjlibrary.org/news-and-press/press-releases/music-america-exhibition-opens-at-lbj-library). The exhibition featured "more than one hundred objects representing the best of American music, spanning decades and genres."
+
+It was by far the highlight of my visit to the library and worth the price of admission alone. 
+
+A few of my personal favorites:
+* The history of African influence on American music
+* Stevie Ray Vaughan's "Number One" Guitar
+* Bruce Springsteen's outfit from the Born in the USA cover
+* Prince's shirt from Purple Rain and "Cloud" guitar
+* Ella Fitzgerald dress
+* A ticket to an Elvis Presley concert in Memphis, Tennesee twelve days after his death
+* Elvis Presley's 1956 Tupelo Concert shirt
+* Beatles Shea Stadium concert ticket
+* John Coltrane's Saxaphone
+* A Buddy Holly suit and letter to his mother
+* Hank Williams guitar
+* Bo Diddley homemade guitar
+* B.B. King's Lucille guitar
+* Dizzie Gillespie's trumpet
+* The first rock & roll records ("The Fat Man" and "Rocket 88")
+
 #### Austin Central Library
+
+PyTexas was held in the gorgeous Austin Central Library, a tourist destination in its own right. 
+
+<!--
+The stunning rooftop garden with a view of the Austin skyline and Colorado River. 
+-->
 
 ## May
 
