@@ -189,16 +189,19 @@ A few of my personal favorites:
 * Stevie Ray Vaughan's "Number One" Guitar
 * Prince's shirt from Purple Rain and "Cloud" guitar
 * Ella Fitzgerald's dress
-* A ticket to an Elvis Presley concert in Memphis twelve days after his death
 * Elvis Presley's 1956 Tupelo Concert shirt
 * Beatles' Shea Stadium concert ticket
 * John Coltrane's Saxaphone
 * A Buddy Holly suit and letter to his mother
-* Hank Williams' guitar
-* Bo Diddley's homemade guitar
 * B.B. King's Lucille guitar
 * Dizzie Gillespie's trumpet
 * The first rock & roll records ("The Fat Man" and "Rocket 88")
+
+<!--
+* A ticket to an Elvis Presley concert in Memphis twelve days after his death
+* Hank Williams' guitar
+* Bo Diddley's homemade guitar
+-->
 
 ![](2024-recap-images/prince-purple-rain-shirt-and-cloud-guitar.jpg)
 Prince Purple Rain shirt and "Cloud" guitar
