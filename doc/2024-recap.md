@@ -191,7 +191,17 @@ The meal!
 
 ![](2024-recap-images/saint-mary-catholic-cathedral.jpg)
 
+![](2024-recap-images/texas-state-capitol-tier.jpg)
+
+![](2024-recap-images/texas-state-capitol-dome.jpg)
+
 #### Lyndon B. Johnson Presidential Library
+
+![](2024-recap-images/lbj-library-replica-oval-office.jpg)
+
+![](2024-recap-images/lbj-library-moon-rock.jpg)
+
+![](2024-recap-images/lbj-library-voting-rights-act-desk.jpg)
 
 #### Bruce Springsteen Foundation Exhibit
 
