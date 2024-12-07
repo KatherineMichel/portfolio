@@ -185,7 +185,7 @@ On a whim, I went straight from the airport to Franklin's Barbecue for some of t
 
 #### Bruce Springsteen Foundation Exhibit
 
-As I walked around the LBJ Presidential Library, I nearly missed the premier of an incredible exhibit curated by the Bruce Springsteen Archives called [Music America: Iconic Objects from America's Music History](https://www.lbjlibrary.org/news-and-press/press-releases/music-america-exhibition-opens-at-lbj-library). The exhibition featured "more than one hundred objects representing the best of American music, spanning decades and genres."
+As I walked around the LBJ Presidential Library, I nearly missed the premier of an incredible exhibit curated by the Bruce Springsteen Archives called [Music America: Iconic Objects from America's Music History](https://www.lbjlibrary.org/news-and-press/press-releases/music-america-exhibition-opens-at-lbj-library). The exhibit featured "more than one hundred objects representing the best of American music, spanning decades and genres."
 
 It was by far the highlight of my visit. 
 
