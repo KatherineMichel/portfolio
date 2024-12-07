@@ -174,7 +174,7 @@ All of the videos are available on the [PyTexas Youtube channel](https://www.you
 
 #### Franklin's Barbecue
 
-On a whim, I went straight from the airport to Franklin's Barbecue for some of their brisket. Many believe it to be the best in the United States. The meat was melt in your mouth with very little fat. It was the best brisket that I've ever had, but I waited in line for an hour and a half to get it. On the bright side, an incredibly nice man I chatted with in line bought my meal.
+On a whim, I went straight from the airport to Franklin's Barbecue for some of their brisket. Many believe it to be the best in the United States. The meat was melt in your mouth with very little fat. It was the best brisket that I've ever had, but I waited in line for an hour and a half to get it. On the bright side, I chatted with an incredibly nice man in line, and he bought my meal.
 
 #### Lyndon B. Johnson Presidential Library
 
