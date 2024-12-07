@@ -98,7 +98,7 @@ I am super excited that my photos helped inspire this year's theme. The [website
 ![](2024-recap-images/joni-djangocon-us-website-post.png)
 A shoutout from our amazing designer Joni Trythall of YupGup!
 
-Our wonderful designer Joni Trythall of YupGup did a [DjangoCon US Design Reflection](https://jonitrythall.com/dcus-design-reflection) featuring all of our designs since 2018.
+Joni did a [DjangoCon US Design Reflection](https://jonitrythall.com/dcus-design-reflection) featuring all of our designs since 2018.
 
 They are so beautiful!
 
