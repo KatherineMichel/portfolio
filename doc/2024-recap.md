@@ -550,9 +550,9 @@ Spinning brush
 
 Thank you to each and everyone one of you, and there are many, who made my year special.
 
-![](2024-recap-images/still-reflecting.png)
-
 Although I am generally a person who maintains a stable outlook, it was a year of very high highs, and lower than usual lows. In addition to some health problems in the first part of the year, the loss of my aunt two years ago, then my uncle this year drastically impacted many of my family members. Throughout the year, I often had to prioritize health and family. I am hoping for a more normal 2025 in that respect. 
+
+![](2024-recap-images/still-reflecting.png)
 
 ![](2024-recap-images/last-photo-with-uncle-edward.jpg)
 Last photo with my Uncle Edward
