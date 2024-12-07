@@ -65,7 +65,7 @@ We FaceTimed while they opened the box. They immediately began playing and loved
 
 Last year, I obtained sponsorship from a JPMorganChase Managing Director to start a monthly departmental meetup in Plano that became known as PS Connect, then CFP Connect. This year, it grew to be a quarterly event typically attended by 100+ plus people, filled with knowledge-sharing, networking, and fun, and supported by top department leadership across Plano. 
 
-It was a pleasure to continue to be part of the core team overseeing the events. 
+It was a pleasure to continue to be part of the core team organizing the events. 
 
 ## March
 
