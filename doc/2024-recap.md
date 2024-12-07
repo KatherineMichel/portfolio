@@ -195,7 +195,7 @@ A few of my personal favorites:
 * Bruce Springsteen's outfit from the Born in the USA cover
 * Prince's shirt from Purple Rain and "Cloud" guitar
 * Ella Fitzgerald dress
-* A ticket to an Elvis Presley concert in Memphis, Tennesee twelve days after his death
+* A ticket to an Elvis Presley concert in Memphis twelve days after his death
 * Elvis Presley's 1956 Tupelo Concert shirt
 * Beatles Shea Stadium concert ticket
 * John Coltrane's Saxaphone
