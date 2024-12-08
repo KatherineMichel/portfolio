@@ -444,7 +444,7 @@ The Dallas World Aquarium was unique and amazing. There were a number of awe-ins
 Three story waterfall... wow! 
 
 ![](2024-recap-images/fish-tunnel.jpg)
-Fish tunnel... can't believe I took this photo. Simply magical. 
+Fish tunnel... can't believe I took this photo. Magical. 
 
 ![](2024-recap-images/sloth.jpg)
 An ever-so-slow moving sloth
