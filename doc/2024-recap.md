@@ -563,7 +563,7 @@ Over the holiday break, I wanted to scan family photos and documents. After read
 Features
 * Fastest personal scanner on the market- able to scan a photo a second
 * 300 dpi, 600 dpi, or 1200 dpi available
-* Able to consecutively scan a stack of 150+ pages, in my experience
+* Able to consecutively scan a stack of 50+ pages
 * Auto-detects a two-sided photo or document and scans both sides at once
 * Photo auto-enhancement
 * Auto-saves a copy of both the original and enhanced scan
