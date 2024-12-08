@@ -429,9 +429,6 @@ Three story waterfall... wow!
 ![](2024-recap-images/fish-tunnel.jpg)
 Fish tunnel... can't believe I took this photo. Magical!
 
-![](2024-recap-images/sloth.jpg)
-An ever-so-slow moving sloth
-
 A few years ago, I wrote some code to create artwork for the final project of a Stanford Python course. At the aquarium, I saw a scene that very much reminded me of a favorite "artwork" that my program made. It was a small aquarium filled with sea life from British Columbia.
 
 ![](2024-recap-images/stanford-artwork-similar.jpg)
@@ -747,12 +744,15 @@ Me standing with co-workers wearing beautiful Diwali attire!
 
 ### Dallas World Aquarium
 
+![](2024-recap-images/sloth.jpg)
+An ever-so-slow moving sloth
+
 ![](2024-recap-images/flamingos.jpg)
 Love flamingos! 
 
+<!--
 ### Sixth Floor Museum
 
-<!--
 Photos
 -->
 
