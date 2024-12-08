@@ -196,7 +196,7 @@ View of Block 185 from Lady Bird Lake Trail
 Saint Mary Catholic Cathedral
 
 ![](2024-recap-images/2024-recap-images/texas-state-capitol-tier.jpg)
-Texas State Capitol seal
+Texas State Capitol
 
 #### Lyndon B. Johnson Presidential Library
 
