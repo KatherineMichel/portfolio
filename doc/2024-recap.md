@@ -203,20 +203,22 @@ Texas State Capitol
 
 #### Lyndon B. Johnson Presidential Library
 
-On Saturday, I visited the LBJ Presidential Library. Naturally, the Kennedy assassination was a major part of it. 
-
-<!--
-Video
--->
+On Saturday, I visited the LBJ Presidential Library. 
 
 ![](2024-recap-images/lbj-library-replica-oval-office.jpg)
 Replica Oval Office
 
 ![](2024-recap-images/lbj-library-moon-rock.jpg)
-Moon rock
+Moon rock collected during the Apollo 15 mission in 1971
 
 ![](2024-recap-images/lbj-library-voting-rights-act-desk.jpg)
-Desk where the Voting Rights Act was signed
+Desk where President Johnson signed the Voting Rights Act
+
+The library included an exibit about the Kennedy assassination. Hear the commentary. 
+
+<!--
+Video
+-->
 
 #### Bruce Springsteen Foundation Exhibit
 
