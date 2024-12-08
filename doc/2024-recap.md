@@ -195,11 +195,8 @@ View of Block 185 from Lady Bird Lake Trail
 ![](2024-recap-images/saint-mary-catholic-cathedral.jpg)
 Saint Mary Catholic Cathedral
 
-![](2024-recap-images/texas-state-capitol-tier.jpg)
-Texas State Capitol
-
-![](2024-recap-images/texas-state-capitol-dome.jpg)
-Texas State Capitol
+![](2024-recap-images/2024-recap-images/texas-state-capitol-seal.jpg)
+Texas State Capitol seal
 
 #### Lyndon B. Johnson Presidential Library
 
@@ -207,12 +204,6 @@ On Saturday, I visited the LBJ Presidential Library.
 
 ![](2024-recap-images/lbj-library-replica-oval-office.jpg)
 Replica Oval Office
-
-![](2024-recap-images/lbj-library-moon-rock.jpg)
-Moon rock collected during the Apollo 15 mission in 1971
-
-![](2024-recap-images/lbj-library-voting-rights-act-desk.jpg)
-Desk where President Johnson signed the Voting Rights Act
 
 The library included an exibit about the Kennedy assassination. Hear the commentary. 
 
@@ -606,9 +597,12 @@ I went to an Ikea for the first time, and it was a wild experience!
 
 I wanted to try out the Söderhamn sofa. It's modular, washable, pretty comfortable, and can be informally converted into a sleeper. One three-section sofa can be a two-section sofa and separate chaise lounge or chair with an ottoman. I like the Tonerud Gray. 
 
-![](2024-recap-images/soderhamn-couch.jpg)
+![](2024-recap-images/ikea-soderhamn-couch.jpg)
 Söderhamn sofa with an ottoman and chaise lounge
 
+![](2024-recap-images/soderhamn-couch.jpg)
+Söderhamn chaise lounge on Tonerud Gray... a soft, felt-like aterial
+ 
 Not only was Ikea teeming with people, but I had no idea that while shopping in an Ikea, you can take a break and eat in a Swedish restaurant. Someone sitting next to me had a plate of Swedish meatballs with Swedish flags stuck in them. 🤣 
 
 I have been living a sheltered life. 
@@ -670,13 +664,23 @@ Cultural attire
 ![](2024-recap-images/tables-turned.jpg)
 Mom turning the tables on me at Tanganyka
 
+### Austin
+
 <!--
 ### PyTexas 2024 Photos
 
-Walking along the river and trails
 Stevie Ray Statue
 Tacos
 Botanical Garden
+
+![](2024-recap-images/texas-state-capitol-dome.jpg)
+Texas State Capitol dome
+
+![](2024-recap-images/lbj-library-moon-rock.jpg)
+Moon rock collected during the Apollo 15 mission in 1971
+
+![](2024-recap-images/lbj-library-voting-rights-act-desk.jpg)
+Desk where President Johnson signed the Voting Rights Act
 
 ### May the 4th
 
