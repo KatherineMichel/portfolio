@@ -378,7 +378,7 @@ In July, I did my wellness screening. My blood pressure and body mass index (BMI
 
 ### CFP Connect Panel
 
-August CFP Connect hosted a women in leadership panel. The world has enough manels. Bring on the wanels. 
+CFP Connect hosted a women in leadership panel. The world has enough manels. Bring on the wanels. 
 
 ![](2024-recap-images/cfp-connect-panel.jpg)
 Women in Leadership Panel
