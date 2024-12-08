@@ -224,7 +224,7 @@ Video
 
 As I walked around the LBJ Presidential Library, I nearly missed the premier of an incredible exhibit curated by the Bruce Springsteen Archives called [Music America: Iconic Objects from America's Music History](https://www.lbjlibrary.org/news-and-press/press-releases/music-america-exhibition-opens-at-lbj-library). The exhibit featured "more than one hundred objects representing the best of American music, spanning decades and genres."
 
-It was by far the highlight of my visit. 
+It was by far the highlight of my visit and worth the price of admission alone. 
 
 A few of my personal favorites:
 * The history of African influence on American music
