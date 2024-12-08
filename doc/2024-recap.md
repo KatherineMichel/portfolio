@@ -195,7 +195,7 @@ View of Block 185 from Lady Bird Lake Trail
 ![](2024-recap-images/saint-mary-catholic-cathedral.jpg)
 Saint Mary Catholic Cathedral
 
-![](2024-recap-images/2024-recap-images/texas-state-capitol-seal.jpg)
+![](2024-recap-images/2024-recap-images/texas-state-capitol-tier.jpg)
 Texas State Capitol seal
 
 #### Lyndon B. Johnson Presidential Library
@@ -229,12 +229,6 @@ A few of my personal favorites:
 * B.B. King's Lucille guitar
 * Dizzie Gillespie's trumpet
 * The first rock & roll records ("The Fat Man" and "Rocket 88")
-
-<!--
-* A ticket to an Elvis Presley concert in Memphis twelve days after his death
-* Hank Williams' guitar
-* Bo Diddley's homemade guitar
--->
 
 ![](2024-recap-images/prince-purple-rain-shirt-and-cloud-guitar.jpg)
 Prince Purple Rain shirt and "Cloud" guitar
