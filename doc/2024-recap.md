@@ -642,10 +642,10 @@ Me at PyCon US
 
 ## More Favorite Snapshots Throughout The Year
 
-### Dallas Love Field
+### Dallas Love Field Airport
 
 ![](2024-recap-images/in-the-airport.jpg)
-On the road again... walking through Dallas Love Field airport
+On the road again... walking through Dallas Love Field Airport
 
 <!--
 ### Arbor Hills
