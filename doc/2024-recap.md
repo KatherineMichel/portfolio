@@ -85,15 +85,13 @@ Table of Contents
     - [Yoshi Shabu Shabu September](#yoshi-shabu-shabu-september)
     - [JPMorganChase Plano](#jpmorganchase-plano)
 
+Disclaimer: the content of this post is a reflection of my life journey and not specific to my work at JPMorgan Chase & Co.
+
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
 
 ## This Year's Theme
 
 While writing this recap, I found myself thinking the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
-
-<!--
-Designing Data Intensive Applications
--->
 
 ## Work
 
@@ -123,10 +121,6 @@ Having said that, the layout is similar, but not exactly the same as a regular Q
 Kinesis Advantage360
 
 ### DjangoCon US 2023 Recap
-
-<!--
-Get stats- how long at the top and how many views
--->
 
 I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html) in October 2023. It was featured in [Django News Newsletter](https://django-news.com/issues/203#start). I learned in January that the recap had been Django News Newsletter's top article for months. 
 
@@ -290,11 +284,7 @@ On Saturday, I visited the LBJ Presidential Library.
 ![](2024-recap-images/lbj-library-replica-oval-office.jpg)
 Replica Oval Office
 
-The library included an exibit about the Kennedy assassination. Hear the commentary. 
-
-<!--
-Video
--->
+The library included an exibit about the Kennedy assassination. Hear the [commentary](https://youtu.be/r-8P3GjKfPU?si=uwYY28LLu2Z2z00q). 
 
 #### Bruce Springsteen Foundation Exhibit
 
@@ -782,9 +772,7 @@ Mango sake... first time trying sake!
 ![](2024-recap-images/crepe.jpg)
 Strawberry banana crepe: sliced strawberries, sliced bananas, custard cream, whipped yogurt, chocolate pearls, crushed pistachios
 
-<!--
-Video link
--->
+[Video](https://youtu.be/zvWUkiFdXGI?si=lyunl-E7kim5ol_f)
 
 ### Luci's Bakery
 
@@ -825,8 +813,6 @@ Love flamingos!
 
 <!--
 ### Sixth Floor Museum
-
-Photos
 -->
 
 ### Terry Black's Barbecue Pit
