@@ -611,6 +611,8 @@ Söderhamn sofa with an ottoman and chaise lounge
 
 Not only was Ikea teeming with people, but I had no idea that while shopping in an Ikea, you can take a break and eat in a Swedish restaurant. Someone sitting next to me had a plate of Swedish meatballs with Swedish flags stuck in them. 🤣 
 
+I have been living a sheltered life. 
+
 ![](2024-recap-images/ikea-meal.jpg)
 Eating at Ikea
 
