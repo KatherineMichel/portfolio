@@ -294,7 +294,7 @@ I was featured on DjangoCon US social media accounts, along with current Django 
 
 PyCon US 2024 took place from May 15-23 in Pittsburgh, Pennsylvania. 
 
-Thank you to Bernat Gabor for encouraging me to go! It was extremely worth it. 
+Thank you to Bernat Gabor for encouraging me to go! It was well worth it. 
 
 After the conference, I did some "heavy lifting" from conference connections made. A few examples: 
 * Based on a conversation with Black Python Devs Founder K. Jay Miller, I liased with DEFNA to further the interests of Black Python Devs at DjangoCon US 2024
