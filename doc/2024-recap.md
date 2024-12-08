@@ -44,7 +44,7 @@ Table of Contents
 - [September](#september)
     - [Preventative Care](#preventative-care)
     - [More Good Luck](#more-good-luck)
-    - [DjangoCon US](#djangocon-us)
+    - [DjangoCon US 2024](#djangocon-us-2024)
 - [October](#october)
     - [CFP Connect and Mo](#cfp-connect-and-mo)
     - [CockroachDB Day](#cockroachdb-day)
@@ -66,7 +66,25 @@ Table of Contents
     - [New Furnishings](#new-furnishings)
 - [December](#december)
 - [Parting Thoughts](#parting-thoughts)
-- 
+- [More Favorite Snapshots Throughout The Year](#parting-thoughts)
+    - [Dallas Love Field Airport](#dallas-love-field-airport)
+    - [JPMorganChase Plano Chinese Lunar New Year Celebration](#jpmorganchase-plano-chinese-lunar-new-year-celebration)
+    - [Tanganyka Wildlife Park](#tanganyka-wildlife-park)
+    - [Austin](#austin)
+    - [Clouds](#clouds)
+    - [McClaren Sports Cars](#mcclaren-sports-cars)
+    - [Yoshi Shabu Shabu](#yoshi-shabu-shabu)
+    - [T Swirl Japanese Crepe](#t-swirl-japanese-crepe)
+    - [Luci's Bakery](#luci-s-bakery)
+    - [Darna Mediterranean Eatery](#darna-mediterranean-eatery)
+    - [Employee Appreciation Week](#employee-appreciation-week)
+    - [Diwali](#diwali)
+    - [Dallas World Aquarium Animals](##dallas-world-aquarium-animals)
+    - [Terry Black's Barbecue Pit](#terry-black-s-barbecue-pit)
+    - [Dallas Zoo](#dallas-zoo)
+    - [Yoshi Shabu Shabu September](#yoshi-shabu-shabu-september)
+    - [JPMorganChase Plano](#jpmorganchase-plano)
+
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
 
 ## This Year's Theme
@@ -460,7 +478,7 @@ Beautiful salad bar at JPMorganChase Plano
 
 Last year, I had a modest rent increase. I've been assuming my rent would increase very year until I'd simply be priced out of renting. This year, to my surprise, my rent was significantly lowered. With so much bad news in the world, it's nice to know it's not all doom and gloom. 
 
-### DjangoCon US
+### DjangoCon US 2024
 
 I attended DjangoCon US from September 22-27. It was an absolute blast. I wrote a [recap](https://katherinemichel.github.io/portfolio/djangocon-us-2024-recap.html) about it. 
 
@@ -569,13 +587,6 @@ Fellow DEFNA Board Member Adam Fast gave a lightning talk about it at DjangoCon 
 
 Fellow Board Member Tim Schilling and I collaborated to create an Excel spreadsheet analyzing the options. Reading through and disecting all of the proposals has enabled me to internalize the data and take a more active role in the conversation around venue tradeoffs. 
 
-<!--
-As I said in my 2023 recap
-
-Priorities
-Financial analysis
--->
-
 ## November
 
 November was a month for presentations. I gave three important ones within a week! 
@@ -669,9 +680,10 @@ I have been living a sheltered life.
 Eating at Ikea
 
 <!--
-Cozy Earth
-Dupray Steam cleaner
-Spinning brush
+Other favorite purchases
+* Dupray Steam Cleaner
+* Cozy earth weighted throw blanket, down-alternative comforter, duvet cover, luxe towels- one of Oprah's "favorite things" brands and significantly discounted on Black Friday
+* Spinning brush
 -->
 
 ## December
@@ -724,13 +736,6 @@ Mom turning the tables on me at Tanganyka
 
 ### Austin
 
-<!--
-### PyTexas 2024 Photos
-
-Stevie Ray Statue
-Tacos
-Botanical Garden
-
 ![](2024-recap-images/texas-state-capitol-dome.jpg)
 Texas State Capitol dome
 
@@ -740,6 +745,7 @@ Moon rock collected during the Apollo 15 mission in 1971
 ![](2024-recap-images/lbj-library-voting-rights-act-desk.jpg)
 Desk where President Johnson signed the Voting Rights Act
 
+<!--
 ### May the 4th
 
 ### Side Car Social
@@ -809,7 +815,7 @@ Me sitting next to a life-size thank you memo
 ![](2024-recap-images/diwali-attire.JPEG)
 Me standing with co-workers wearing beautiful Diwali attire!
 
-### Dallas World Aquarium
+### Dallas World Aquarium Animals
 
 ![](2024-recap-images/sloth.jpg)
 An ever-so-slow moving sloth
@@ -823,7 +829,7 @@ Love flamingos!
 Photos
 -->
 
-### Terry Black's Barbecue 
+### Terry Black's Barbecue Pit
 
 ![](2024-recap-images/pit-power.jpg)
 "Pit power"
