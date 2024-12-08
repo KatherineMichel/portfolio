@@ -248,8 +248,10 @@ A few of my personal favorites:
 ![](2024-recap-images/prince-purple-rain-shirt-and-cloud-guitar.jpg)
 Prince Purple Rain shirt and "Cloud" guitar
 
+<!--
 ![](2024-recap-images/beatles-shea-stadium.jpg)
 Beatles' Shea Stadium concert ticket
+-->
 
 ![](2024-recap-images/buddy-holly-letter.jpg)
 Buddy Holly letter (1957)
@@ -352,6 +354,8 @@ In keeping with my plan to do more random, fun things for my nieces, I asked my 
 Based on her suggestion, I bought them:
 * Four X-Shot fast-fill water blasters
 * 24 reusable, magnetic, fast-fill water balloons
+
+I've been told the water balloons were a big hit, no pun intended. 
 
 ### Innovation Week Global Hackathon 
 
