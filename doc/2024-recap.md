@@ -595,7 +595,7 @@ I wanted to try out the Söderhamn sofa. It's modular, washable, pretty comforta
 Söderhamn sofa with an ottoman and chaise lounge
 
 ![](2024-recap-images/soderhamn-couch.jpg)
-Söderhamn chaise lounge on Tonerud Gray... a soft, felt-like aterial
+Söderhamn chaise lounge on Tonerud Gray... a soft, felt-like material
  
 Not only was Ikea teeming with people, but I had no idea that while shopping in an Ikea, you can take a break and eat in a Swedish restaurant. Someone sitting next to me had a plate of Swedish meatballs with Swedish flags stuck in them. 🤣 
 
