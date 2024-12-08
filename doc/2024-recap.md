@@ -195,7 +195,7 @@ View of Block 185 from Lady Bird Lake Trail
 ![](2024-recap-images/saint-mary-catholic-cathedral.jpg)
 Saint Mary Catholic Cathedral
 
-![](2024-recap-images/2024-recap-images/texas-state-capitol-tier.jpg)
+![](2024-recap-images/texas-state-capitol-tier.jpg)
 Texas State Capitol
 
 #### Lyndon B. Johnson Presidential Library
@@ -591,7 +591,7 @@ I wanted to try out the Söderhamn sofa. It's modular, washable, pretty comforta
 ![](2024-recap-images/ikea-soderhamn-couch.jpg)
 Söderhamn sofa with an ottoman and chaise lounge
 
-![](2024-recap-images/soderhamn-couch.jpg)
+![](2024-recap-images/ikea-soderhamn-couch-chaise-tonerud-gray.jpg)
 Söderhamn chaise lounge in Tonerud Gray... a soft, felt-like material
  
 Not only was Ikea teeming with people, but I had no idea that while shopping in an Ikea, you can take a break and eat in a Swedish restaurant. Someone sitting next to me had a plate of Swedish meatballs with Swedish flags stuck in them. 🤣 
