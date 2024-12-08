@@ -423,7 +423,7 @@ Standing ovation for organizers
 
 ### CFP Connect and Mo
 
-October CFP Connect served as a forum to get to know new Head of CFP Mo El-Gammal. 
+October CFP Connect served as a forum to get to know new Head of CFP Mo El-Gammal. It was exciting to see an initiative I started become a platform this powerful. 
 
 ![](2024-recap-images/mo.jpg)
 A few of us stragglers enjoyed a photo with Mo after the event
