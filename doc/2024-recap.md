@@ -1,5 +1,72 @@
 # 2024 Recap
 
+Table of Contents
+-----------------
+
+- [This Year's Theme](#this-year-s-theme)
+- [Work](#work)
+- [January](#january)
+    - [Los Angeles 2023 Trip Recap](#los-angeles-2023-trip-recap)
+    - [Kinesis Advantage360](#kinesis-advantage360)
+    - [DjangoCon US 2023 Recap](#djangocon-us-2023-recap)
+- [February](#february)
+    - [Spring Fun for My Nieces](#spring-fun-for-my-nieces)
+    - [CFP Connect](#cfp-connect)
+- [March](#march)
+    - [DjangoCon US Talk Topics Inspiration List](#djangocon-us-talk-topics-inspiration-list)
+    - [DjangoCon US Website Design](#djangocon-us-website-design)
+    - [Conference Snapshots](#conference-snapshots)
+    - [Family Tragedy](#family-tragedy)
+- [April](#april)
+    - [Lemurs at Tanganyka Wildlife Park](#lemurs-at-tanganyka-wildlife-park)
+    - [JPMorganChase Eclipse Watch Party](#jpmorganchase-eclipse-watch-party)
+    - [PyTexas 2024](#pytexas-2024)
+    - [Austin Sightseeing](#austin-sightseeing)
+        - [Franklin's Barbecue](#franklin-s-barbecue)
+        - [Downtown Austin](#downtown-austin)
+        - [Lyndon B. Johnson Presidential Library](#lyndon-b-johnson-presidential-library)
+        - [Bruce Springsteen Foundation Exhibit](#bruce-springsteen-foundation-exhibit)
+        - [Austin Central Library](#austin-central-library)
+- [May](#may)
+    - [Gym](#gym)
+    - [DjangoCon US Featured Post](#djangocon-us-featured-post)
+    - [PyCon US 2024](#pycon-us-2024)
+- [June](#june)
+    - [PyCon US 2024 Recap and Hacker News](#pycon-us-2024-recap-and-hacker-news)
+    - [DFW Pythoneers](#dfw-pythoneers)
+    - [Summer Fun for My Nieces](#summer-fun-for-my-nieces)
+    - [Innovation Week Global Hackathon ](#innovation-week-global-hackathon)
+- [July](#july)
+    - [Wellness Screening](#wellness-screening)
+- [August](#august)
+    - [CFP Connect Panel](#cfp-connect-panel)
+    - [Financial Advisor](#financial-advisor)
+- [September](#september)
+    - [Preventative Care](#preventative-care)
+    - [More Good Luck](#more-good-luck)
+    - [DjangoCon US](#djangocon-us)
+- [October](#october)
+    - [CFP Connect and Mo](#cfp-connect-and-mo)
+    - [CockroachDB Day](#cockroachdb-day)
+    - [Sightseeing in Dallas](#sightseeing-in-dallas)
+        - [Dallas World Aquarium](#dallas-world-aquarium)
+        - [Sixth Floor Museum](#sixth-floor-museum)
+        - [Terry Black's Barbecue](#terry-black-s-barbecue)
+        - [JPMorganChase Dallas Zoo Employee Night](#jpmorganchase-dallas-zoo-employee-night)
+    - [Cookbook](#cookbook)
+    - [Winter Fun for My Nieces](#winter-fun-for-my-nieces)
+    - [DjangoCon US 2025 Venue Selection](#djangocon-us-2025-venue-selection)
+- [November](#november)
+    - [JPMorganChase PowerUp Conference Presentation](#jpmorganchase-powerup-conference-presentation)
+    - [JPMorganChase Advent of Code Leadership](#jpmorganchase-advent-of-code-leadership)
+    - [JPMorganChase DjangoCon US Recap Presentation](#jpmorganchase-djangocon-us-recap-presentation)
+    - [Epson FastFoto FF-680W Scanner](#epson-fastfoto-ff-680w-scanner)
+    - [Carriage Crossing](#carriage-crossing)
+    - [Two Year Work Anniversary](#two-year-work-anniversary)
+    - [New Furnishings](#new-furnishings)
+- [December](#december)
+- [Parting Thoughts](#parting-thoughts)
+- 
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
 
 ## This Year's Theme
@@ -488,7 +555,7 @@ My distant relative Kelly Cline is a talented quilter who shares her quilting ad
 ![](2024-recap-images/german-recipes.jpg)
 A few of the German recipes
 
-### Winter Fun for My  Nieces
+### Winter Fun for My Nieces
 
 While looking through popular brainteaser toys, I came across a couple that I couldn't resist buying for my nieces: 
 * A Learn & Climb Mega Magic Kit for kids with 100s of tricks of all skill levels and a tutorial video
@@ -523,20 +590,20 @@ Me presenting at PowerUp
 ![](2024-recap-images/me-standing-next-to-powerup-banner.jpg)
 Me standing next to a PowerUp banner
 
-#### JPMorganChase Advent of Code Leadership
+### JPMorganChase Advent of Code Leadership
 
 My co-worker Julie and I co-lead JPMorganChase Plano Advent of Code for the second year in a row. This year, we expanded it from our department to the entire Dallas Tech Center. We teamed up with two Jersey City AoC co-leads to give an information session. 
 
 ![](2024-recap-images/me-with-julie.jpg)
 Me and my wonderful co-worker Julie
 
-#### JPMorganChase DjangoCon US Recap Presentation
+### JPMorganChase DjangoCon US Recap Presentation
 
 Considering the popularity of my PyCon US 2024 and DjangoCon US 2024 recaps, I am well-positioned to analyze industry trends.
 
 I distilled my DjangoCon US experience into a DjangoCon US Recap presentation specific to JPMorganChase that I gave to my team, department, and will soon give to the Databases Leadership Team. 
 
-#### Epson FastFoto FF-680W Scanner
+### Epson FastFoto FF-680W Scanner
 
 Over the holiday break, I wanted to scan family photos and documents. After reading some reviews, I pulled the trigger on the highly-rated Epson FastFoto FF-680W. It is a very fast and powerful machine, and a game changer for scanning a large quantity of photos and documents well in a short amount of time. 
 
@@ -570,7 +637,7 @@ My two-year work anniversary happened on Thanksgiving.
 
 ![](2024-recap-images/work-anniversary.png)
 
-#### New Furnishings
+### New Furnishings
 
 After leasing furnishings for my apartment for a couple of years, I stopped the lease and picked out my own. 
 
