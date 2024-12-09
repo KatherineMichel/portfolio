@@ -93,9 +93,13 @@ You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-re
 
 While writing this recap, I found myself thinking the words, "I finally got organized and" a number of times. I felt a sense of cumulative momentum this year that came from building on prior knowledge and experience. 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ## Work
 
 I continued as a Python/Django software engineer doing task orchestration and distributed systems engineering. The year went well, including a very positive end-of-year review. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ## January 
 
@@ -109,6 +113,8 @@ My most-viewed Los Angeles videos:
 * [Santa Monica Pier at Night- Ferris Wheel](https://youtu.be/cnWdL9C4ucU?si=G7QbrVFGAfQuWI7a)
 * [Universal Studios Tour- Jaws](https://youtu.be/evZHAcfSnqw?si=-1P7Dd3wRPQW3I8F)
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Kinesis Advantage360
 
 In 2020, I bought a Kinesis [Freestyle Pro](https://www.amazon.com/gp/product/B07J1ZJ6XR/) split keyboard. Although the keyboard itself was fairly traditional, I loved the 20'' separation cord and tenting. The unique Kinesis [Advantage2](https://kinesis-ergo.com/keyboards/advantage2-keyboard/) keyboard had long piqued my curiosity as well. When Kinesis came out with the [Advantage360](https://kinesis-ergo.com/keyboards/advantage360/) split version with tenting, I finally pulled the trigger. 
@@ -120,9 +126,13 @@ Having said that, the layout is similar, but not exactly the same as a regular Q
 ![](2024-recap-images/advantage-360.jpg)
 Kinesis Advantage360
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### DjangoCon US 2023 Recap
 
 I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html) in October 2023. It was featured in [Django News Newsletter](https://django-news.com/issues/203#start). I learned in January that the recap had been Django News Newsletter's top article for months. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ## February
 
@@ -140,11 +150,15 @@ I had countless hours of fun playing these when I was a kid.
 
 We FaceTimed while they opened the box. They immediately began playing and loved them. 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### CFP Connect
 
 Last year, I obtained sponsorship from a JPMorganChase Managing Director to start a monthly departmental meetup in Plano that became known as PS Connect, then CFP Connect. This year, it grew to be a quarterly event typically attended by 100+ plus people, filled with knowledge-sharing, networking, and fun, and supported by top department leadership across Plano. 
 
 It was a pleasure to continue to be part of the core team organizing the events. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ## March
 
@@ -162,6 +176,8 @@ Our talk submission stats since I began publishing my list:
 I am confident that my list played a major role in the increase in submissions. I am really proud of that! 
 
 My list was featured in [Django News Newsletter](https://django-news.com/issues/222#start), along with [Jeff's list](https://micro.webology.dev/2024/04/28/djangocon-us-talks.html) and DjangoCon US Program Chair [Drew Winstel's list](https://winstel.dev/2024/03/01/talk-ideas-for-dcus-24/). 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### DjangoCon US Website Design
 
@@ -183,9 +199,13 @@ They are so beautiful!
 
 Thank you to Joni for a special recognition at the end of her post.
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Conference Snapshots
 
 After years of collecting conference snapshots, I got organized and created a page of my [Favorite Conference Snapshots](https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html) and the stories behind them, as well as a page of [Speaker, Board, and Organizer Photos](https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html). 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Family Tragedy
 
@@ -211,6 +231,8 @@ There's something in my eye.
 ![](2024-recap-images/defna-flowers.jpg)
 Beautiful sympathy flowers from DEFNA... in a strange coincidence, my cousin pointed out that the roses were one of my uncle's favorite colors
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ## April
 
 ### Lemurs at Tanganyka Wildlife Park
@@ -228,11 +250,15 @@ Mom, me, and the lemurs!
 ![](2024-recap-images/lemurs-2.jpg)
 Me feeding a lemur a craisin out of my palm! It's holding my hand. 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### JPMorganChase Eclipse Watch Party
 
 On my way back to Plano after my uncle's funeral, I got stuck in eclipse travel. I arrived back in Plano in time for the eclipse, but hadn't had time to plan. Fortunately, JPMorganChase had me covered. Eclipse glasses were handed out around campus, and we convened outside for a watch party. It's hard to put into words what it was like to watch the eclipse with what must have been thousands of co-workers. 
 
 Here is [a little taste of the fun](https://youtu.be/vvNfmo0zwDw?si=Tl2xj-TZ29j_Doed). This was a small portion of the crowd. Clouds intermittently covered the sun, but parted in time for the totality. The crowd cheered and Total Eclipse of the Heart played in the background. Super fun!
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### PyTexas 2024
 
@@ -249,6 +275,8 @@ It was a pleasure to get a snapshot next to my incredible friend Carol Willing. 
 
 All of the videos are available on the [PyTexas Youtube channel](https://www.youtube.com/c/PyTexas). 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Austin Sightseeing
 
 #### Franklin's Barbecue
@@ -264,6 +292,8 @@ Finally inside Franklin's
 ![](2024-recap-images/franklins-meal.jpg)
 The meal!
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 #### Downtown Austin
 
 On Friday and Saturday, I explored the downtown. 
@@ -277,6 +307,8 @@ Saint Mary Catholic Cathedral
 ![](2024-recap-images/texas-state-capitol-tier.jpg)
 Texas State Capitol
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 #### Lyndon B. Johnson Presidential Library
 
 On Saturday, I visited the LBJ Presidential Library. 
@@ -285,6 +317,8 @@ On Saturday, I visited the LBJ Presidential Library.
 Replica Oval Office
 
 The library included an exibit about the Kennedy assassination. Hear the [commentary](https://youtu.be/r-8P3GjKfPU?si=uwYY28LLu2Z2z00q). 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 #### Bruce Springsteen Foundation Exhibit
 
@@ -314,12 +348,16 @@ Beatles' Shea Stadium concert ticket
 ![](2024-recap-images/buddy-holly-letter.jpg)
 Buddy Holly letter (1957)
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 #### Austin Central Library
 
 PyTexas was held in the gorgeous Austin Central Library, a tourist destination in its own right. 
 
 ![](2024-recap-images/austin-central-public-library.jpg)
 The stunning rooftop garden with a view of the Austin skyline and Colorado River. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ## May
 
@@ -344,11 +382,15 @@ By June 1st, I'd already had a personal best on the elliptical and broke that re
 
 According to my chef friend Sheldon, having a personal trainer has been life-changing for him in his life and work. It is something I am considering. 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### DjangoCon US Featured Post
 
 I was featured on DjangoCon US social media accounts, along with current Django Fellow Natalia Bidart and former and current DEFNA Board Members Drew Winstel, Tim Schilling, and Koji Idressa. 
 
 ![](2024-recap-images/djangocon-us-featured-post.png)
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### PyCon US 2024
 
@@ -360,6 +402,8 @@ After the conference, I did some "heavy lifting" from conference connections mad
 * Based on a conversation with Black Python Devs Founder K. Jay Miller, I liased with DEFNA to further the interests of Black Python Devs at DjangoCon US 2024
 * Based on a conversation with PyTexas Chair Mason Egger, I made PyTexas sponsorship pitches to interested parties
 * Based on a conversation with Quansight Labs Co-director Tania Allard, I attempted to rekindle a prospective open source process within my network
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ## June
 
@@ -399,11 +443,15 @@ It was also featured in [Django News Newsletter](https://django-news.com/issues/
 ![](2024-recap-images/lacey-kudo.png)
 Thank you to the incredible Lacey for this sweet kudo! 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### DFW Pythoneers
 
 After months of good intentions, I finally committed to attending [DFW Pythoneers](https://www.meetup.com/dfwpython/) meetup. It was a great time! I got to see Kevin Horn for the third time in two months and Broadus Jones for the second time in two months. :) 
 
 I really enjoyed Jim Vogel's talk about Pydantic, MongoDB, Beanie, and FastAPI. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Summer Fun for My Nieces
 
@@ -415,6 +463,8 @@ Based on her suggestion, I bought them:
 
 I've been told the water balloons were a big hit, no pun intended. 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Innovation Week Global Hackathon 
 
 It was an amazing Innovation Week at JPMorganChase. I attended presentations Monday, Tuesday, and Wednesday, then finished the week off by participating in the Global Hackathon for the second year in a row. 
@@ -423,6 +473,8 @@ My first project fell through. Feeling disheartened, Wednesday night, I looked t
 
 ![](2024-recap-images/hackathon-team.jpg)
 Here I am with my Plano-based hackathon teammates.
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ## July
 
@@ -434,6 +486,8 @@ After completing certain wellness activities, JPMorganChase will pay money into 
 
 In July, I did my wellness screening. My blood pressure and body mass index (BMI) were calculated, and a fingerstick was used to calculate my blood sugar, cholesterol and triglycerides. My bad cholesterol had gone down 22 points since my 2023 screening. 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ## August
 
 ### CFP Connect Panel
@@ -442,6 +496,8 @@ CFP Connect hosted a women in leadership panel. The world has enough manels. Bri
 
 ![](2024-recap-images/cfp-connect-panel.jpg)
 Women in Leadership Panel
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Financial Advisor
 
@@ -452,6 +508,8 @@ What I learned from them has helped me understand the larger picture better, cre
 I also conveniently paid off my student loans. 
 
 ![](2024-recap-images/personal-banker.png)
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ## September
 
@@ -464,9 +522,13 @@ To improve my longterm health, I've cut back on animal products and now "eat the
 ![](2024-recap-images/salad-bar.jpg)
 Beautiful salad bar at JPMorganChase Plano
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### More Good Luck
 
 Last year, I had a modest rent increase. I've been assuming my rent would increase very year until I'd simply be priced out of renting. This year, to my surprise, my rent was significantly lowered. With so much bad news in the world, it's nice to know it's not all doom and gloom. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### DjangoCon US 2024
 
@@ -477,6 +539,8 @@ Thank you to Django News for featuring it in [Issue 254](https://django-news.com
 ![](2024-recap-images/standing-ovation.jpg)
 Standing ovation for organizers
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ## October
 
 ### CFP Connect and Mo
@@ -486,13 +550,19 @@ October CFP Connect served as a forum to get to know new Head of CFP Mo El-Gamma
 ![](2024-recap-images/mo.jpg)
 A few of us stragglers enjoyed a photo with Mo after the event
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### CockroachDB Day
 
 As my team's CockroachDB expert, I had the pleasure of attending a JPMorganChase Plano CockroachDB Day. 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Sightseeing in Dallas
 
 On October 4, I spent the day sight-seeing in Dallas. I went to the Dallas World Aquarium, the Sixth Floor Museum, Terry Black's Barbecue, then the Dallas Zoo. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 #### Dallas World Aquarium
 
@@ -512,6 +582,8 @@ Sea life from British Columbia
 ![](2024-recap-images/stanford-artwork.jpg)
 A favorite "artwork" my program made
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 #### Sixth Floor Museum
 
 I had no idea what the Sixth Floor Museum would be like. The window where Oswald allegedly stood is behind a glass display. It was surreal to stand at the window nearest to it and look down at a perfect view of the motorcade route below. 
@@ -521,6 +593,8 @@ Route simuation
 
 ![](2024-recap-images/the-route.jpg)
 The route
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 #### Terry Black's Barbecue
 
@@ -546,6 +620,8 @@ Terry Black's Barbecue
 ![](2024-recap-images/brisket-sandwich.jpg)
 Brisket sandwich, green beans, and a Big Red (haven't had one of those in years!) 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 #### JPMorganChase Dallas Zoo Employee Night
 
 JPMorganChase Plano rented out the Dallas Zoo for an employee night. I had a really fun time! Thank you to everyone who made it unforgettable! 
@@ -556,6 +632,8 @@ Feeding a giraffe
 ![](2024-recap-images/caricature.jpg)
 A hand-drawn caricature of me
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Cookbook
 
 My distant relative Kelly Cline is a talented quilter who shares her quilting adventures through her Facebook account and sells products through her online shop. I saw that she was selling a limited number of cookbooks authored by our mutual cousin Bonnie who is said to be a fantastic cook. The cookbook is full of great family and German recipes from the Russell, Kansas area where my Volga German ancestors of the Michel and Reinhardt Families settled. I couldn't resist buying one and having it sent to my sister and her husband who are avid cooks and also love German food. They'll try some recipes and cook a good one when I visit. 
@@ -563,11 +641,15 @@ My distant relative Kelly Cline is a talented quilter who shares her quilting ad
 ![](2024-recap-images/german-recipes.jpg)
 A few of the German recipes
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Winter Fun for My Nieces
 
 While looking through popular brainteaser toys, I came across a couple that I couldn't resist buying for my nieces: 
 * A Learn & Climb Mega Magic Kit for kids with 100s of tricks of all skill levels and a tutorial video
 * Kanoodle, a best-selling educational game for all ages
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### DjangoCon US 2025 Venue Selection
 
@@ -576,6 +658,8 @@ Identifying a DjangoCon US 2025 venue has been a challenge this year due to affo
 Fellow DEFNA Board Member Adam Fast gave a lightning talk about it at DjangoCon US 2024. The community answered the call by submitting a number of proposals. 
 
 Fellow Board Member Tim Schilling and I collaborated to create an Excel spreadsheet analyzing the options. Reading through and disecting all of the proposals has enabled me to internalize the data and take a more active role in the conversation around venue tradeoffs. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ## November
 
@@ -591,6 +675,8 @@ Me presenting at PowerUp
 ![](2024-recap-images/me-standing-next-to-powerup-banner.jpg)
 Me standing next to a PowerUp banner
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### JPMorganChase Advent of Code Leadership
 
 My co-worker Julie and I co-lead JPMorganChase Plano Advent of Code for the second year in a row. This year, we expanded it from our department to the entire Dallas Tech Center. We teamed up with two Jersey City AoC co-leads to give an information session. 
@@ -598,11 +684,15 @@ My co-worker Julie and I co-lead JPMorganChase Plano Advent of Code for the seco
 ![](2024-recap-images/me-with-julie.jpg)
 Me and my wonderful co-worker Julie
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### JPMorganChase DjangoCon US Recap Presentation
 
 Considering the popularity of my PyCon US 2024 and DjangoCon US 2024 recaps, I am well-positioned to analyze industry trends.
 
 I distilled my DjangoCon US experience into a DjangoCon US Recap presentation specific to JPMorganChase that I gave to my team, department, and will soon give to the Databases Leadership Team. 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Epson FastFoto FF-680W Scanner
 
@@ -625,6 +715,8 @@ Enhanced scan of me and my sister
 ![](2024-recap-images/fast-foto-original.jpg)
 Original scan of me and my sister
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Carriage Crossing
 
 The Saturday before our family Thanksgiving, I finally made it to my favorite restaurant Carriage Crossing for their Thanksgiving special. 
@@ -632,11 +724,15 @@ The Saturday before our family Thanksgiving, I finally made it to my favorite re
 ![](2024-recap-images/carriage-crossing-thanksgiving-lunch.jpg)
 Oven roasted turkey and smoked ham, mashed potatoes and turkey gravy, stuffing, vegetable, cranberry sauce, dinner roll and cinnamon butter
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Two Year Work Anniversary
 
 My two-year work anniversary happened on Thanksgiving. 
 
 ![](2024-recap-images/work-anniversary.png)
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### New Furnishings
 
@@ -676,6 +772,8 @@ Other favorite purchases
 * Spinning brush
 -->
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ## December
 
 ## Parting Thoughts
@@ -694,12 +792,16 @@ These are the "good old days." Live your best life.
 ![](2024-recap-images/me-at-pycon-us.jpg)
 Me at PyCon US
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ## More Favorite Snapshots Throughout The Year
 
 ### Dallas Love Field Airport
 
 ![](2024-recap-images/in-the-airport.jpg)
 On the road again... walking through Dallas Love Field Airport
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
 ### Arbor Hills
@@ -715,6 +817,8 @@ Parade
 ![](2024-recap-images/cultural-attire.jpg)
 Cultural attire
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 <!--
 ### JPMorganChase Eclipse Watch Party
 -->
@@ -723,6 +827,8 @@ Cultural attire
 
 ![](2024-recap-images/tables-turned.jpg)
 Mom turning the tables on me at Tanganyka
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Austin
 
@@ -735,6 +841,8 @@ Moon rock collected during the Apollo 15 mission in 1971
 ![](2024-recap-images/lbj-library-voting-rights-act-desk.jpg)
 Desk where President Johnson signed the Voting Rights Act
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 <!--
 ### May the 4th
 
@@ -745,6 +853,8 @@ Desk where President Johnson signed the Voting Rights Act
 
 ![](2024-recap-images/clouds.jpg)
 Clouds in Legacy
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### McClaren Sports Cars
 
@@ -759,6 +869,8 @@ Me with the Artura
 ![](2024-recap-images/mclaren-750s.jpg)
 A 750S, the equivalent of an F1 car
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Yoshi Shabu Shabu
 
 ![](2024-recap-images/hotpot.jpg)
@@ -767,6 +879,8 @@ Japanese hotpot with tonkotsu, pork belly, ramen, and goma sesame peanut, citrus
 ![](2024-recap-images/sake.jpg)
 Mango sake... first time trying sake! 
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### T Swirl Japanese Crepe
 
 ![](2024-recap-images/crepe.jpg)
@@ -774,15 +888,21 @@ Strawberry banana crepe: sliced strawberries, sliced bananas, custard cream, whi
 
 [Video](https://youtu.be/zvWUkiFdXGI?si=lyunl-E7kim5ol_f)
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Luci's Bakery
 
 ![](2024-recap-images/lucis-bakery.jpg)
 Venezuelan chicken empanada, rice, black beans, fried plantains
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Darna Mediterranean Eatery
 
 ![](2024-recap-images/saffron-chicken.jpg)
 Saffron chicken kebab and mocktail mojito with strawberry flavor
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Employee Appreciation Week
 
@@ -798,10 +918,14 @@ Me overtaking a longhorn
 ![](2024-recap-images/thank-you-memo.jpg)
 Me sitting next to a life-size thank you memo
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Diwali
 
 ![](2024-recap-images/diwali-attire.JPEG)
 Me standing with co-workers wearing beautiful Diwali attire!
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Dallas World Aquarium Animals
 
@@ -810,6 +934,8 @@ An ever-so-slow moving sloth
 
 ![](2024-recap-images/flamingos.jpg)
 Love flamingos! 
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
 ### Sixth Floor Museum
@@ -820,6 +946,8 @@ Love flamingos!
 ![](2024-recap-images/pit-power.jpg)
 "Pit power"
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### Dallas Zoo
 
 ![](2024-recap-images/performer-on-stilts.jpg)
@@ -827,6 +955,8 @@ A performer on stilts dancing to reggae
 
 ![](2024-recap-images/chocolate-milkshake.jpg)
 A perfect chocolate milkshake
+
+<sub>[**back to top**](#table-of-contents)</sub>
 
 ### Yoshi Shabu Shabu September
 
@@ -836,6 +966,8 @@ Japanese hotpot with tonkotsu, shrimp, ramen, and goma sesame peanut, citrus pon
 ![](2024-recap-images/spiked-coffee.jpg)
 Spiked coffee
 
+<sub>[**back to top**](#table-of-contents)</sub>
+
 ### JPMorganChase Plano
 
 ![](2024-recap-images/main-street.jpg)
@@ -843,3 +975,5 @@ Main Street
 
 ![](2024-recap-images/morning.jpg)
 Morning
+
+<sub>[**back to top**](#table-of-contents)</sub>
