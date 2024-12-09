@@ -66,7 +66,7 @@ Table of Contents
     - [New Furnishings](#new-furnishings)
 - [December](#december)
 - [Parting Thoughts](#parting-thoughts)
-- [More Favorite Snapshots Throughout The Year](#parting-thoughts)
+- [More Favorite Snapshots Throughout The Year](#more-favorite-snapshots-throughout-the-year)
     - [Dallas Love Field Airport](#dallas-love-field-airport)
     - [JPMorganChase Plano Chinese Lunar New Year Celebration](#jpmorganchase-plano-chinese-lunar-new-year-celebration)
     - [Tanganyka Wildlife Park](#tanganyka-wildlife-park)
