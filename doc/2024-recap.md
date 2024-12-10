@@ -334,7 +334,7 @@ A few of my personal favorites:
 * Elvis Presley's 1956 Tupelo Concert shirt
 * Beatles' Shea Stadium concert ticket
 * John Coltrane's Saxaphone
-* A Buddy Holly suit and letter to his mother
+* Buddy Holly's suit and letter to his mother
 * B.B. King's Lucille guitar
 * Dizzie Gillespie's trumpet
 * The first rock & roll records ("The Fat Man" and "Rocket 88")
