@@ -8,7 +8,7 @@ Table of Contents
 - [January](#january)
     - [Los Angeles 2023 Trip Recap](#los-angeles-2023-trip-recap)
     - [Kinesis Advantage360](#kinesis-advantage360)
-    - [DjangoCon US 2023 Recap](#djangocon-us-2023-recap)
+    - [DjangoCon US 2023 Recap Popularity](#djangocon-us-2023-recap-popularity)
 - [February](#february)
     - [Spring Fun for My Nieces](#spring-fun-for-my-nieces)
     - [CFP Connect](#cfp-connect)
@@ -128,7 +128,7 @@ Kinesis Advantage360
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
-### DjangoCon US 2023 Recap
+### DjangoCon US 2023 Recap Popularity
 
 I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html) in October 2023. It was featured in [Django News Newsletter](https://django-news.com/issues/203#start). I learned in January that the recap had been Django News Newsletter's top article for months. 
 
