@@ -780,7 +780,7 @@ Other favorite purchases
 
 Thank you to each and everyone one of you, and there are many, who made my year special.
 
-Although I am generally a person who maintains a stable outlook, it was a year of very high highs, and lower than usual lows. In addition to some health problems, the loss of my aunt two years ago, then my uncle this year had a major impact on my extended family. Throughout the year, I often had to prioritize health and family. I am hoping for a more normal 2025 in that respect. 
+Although I am generally a person who maintains a stable outlook, it was a year of some high highs, and lower than usual lows. In addition to some health problems, the loss of my aunt two years ago, then my uncle this year had a major impact on my extended family. Throughout the year, I often had to prioritize health and family. I am hoping for a more normal 2025 in that respect. 
 
 ![](2024-recap-images/still-reflecting.jpg)
 
