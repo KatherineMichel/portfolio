@@ -21,6 +21,7 @@ Welcome to Kati's Portfolio!
    :maxdepth: 2
    :caption: Annual Reviews:
 
+   2024-recap.md
    2023-recap.md
    2020-year-in-review.md
 
