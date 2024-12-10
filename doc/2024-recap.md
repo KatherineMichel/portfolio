@@ -239,7 +239,7 @@ Beautiful sympathy flowers from DEFNA... in a strange coincidence, my cousin poi
 
 Because our DjangoCon US host city Durham, North Carolina has the largest population of lemurs outside of Madagascar, we featured a "friendly" lemur on our website last year. 
 
-![](2024-recap-images/djangocon-us-2023-website-header.png)
+![](2024-recap-images/djangocon-us-2023-website-header.jpg)
 A "friendly" lemur with a smile on its face
 
 After years of hearing about [Tanganyika Wildlife Park](https://twpark.com/) in Goddard, Kansas, mom and I decided to go. I had no idea until I got there that you can feed lemurs. They were so soft and gentle. I loved spending time with these real-life, friendly lemurs!
@@ -369,14 +369,14 @@ A few years ago, she found out that she was on her way to having debilitating il
 
 When I started using an elliptical, I limited myself to ~70 steps per minute. Otherwise, I would get winded. Now, I am regularly up to 120+ steps per minute, and when life gets busy for a short time, and I don't exercise regularly, I am able to get back to my top performance within just a few sessions. I would love to know the science behind it. 
 
-![](2024-recap-images/one-day-too-many.png)
+![](2024-recap-images/one-day-too-many.jpg)
 One day too many
 
 I returned to the gym regularly on May 2nd and added light weight lifting. In combination with aerobic activity, I've read that weight lifting has a number of benefits as we age: bone density, muscle mass, coordination and balance, general health. 
 
 By June 1st, I'd already had a personal best on the elliptical and broke that record many times over throughout the year. 
 
-![](2024-recap-images/felt-like-it.png)
+![](2024-recap-images/felt-like-it.jpg)
 
 ![](2024-recap-images/gym-rat.jpg)
 
@@ -388,7 +388,7 @@ According to my chef friend Sheldon, having a personal trainer has been life-cha
 
 I was featured on DjangoCon US social media accounts, along with current Django Fellow Natalia Bidart and former and current DEFNA Board Members Drew Winstel, Tim Schilling, and Koji Idressa. 
 
-![](2024-recap-images/djangocon-us-featured-post.png)
+![](2024-recap-images/djangocon-us-featured-post.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -507,7 +507,7 @@ What I learned from them has helped me understand the larger picture better, cre
 
 I also conveniently paid off my student loans. 
 
-![](2024-recap-images/personal-banker.png)
+![](2024-recap-images/personal-banker.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
