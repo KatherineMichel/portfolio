@@ -79,7 +79,7 @@ Table of Contents
     - [Darna Mediterranean Eatery](#darna-mediterranean-eatery)
     - [Employee Appreciation Week](#employee-appreciation-week)
     - [Diwali](#diwali)
-    - [Dallas World Aquarium Animals](##dallas-world-aquarium-animals)
+    - [Dallas World Aquarium Animals](#dallas-world-aquarium-animals)
     - [Terry Black's Barbecue Pit](#terry-black-s-barbecue-pit)
     - [Dallas Zoo](#dallas-zoo)
     - [Yoshi Shabu Shabu September](#yoshi-shabu-shabu-september)
