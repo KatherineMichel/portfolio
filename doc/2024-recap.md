@@ -130,7 +130,7 @@ Kinesis Advantage360
 
 ### DjangoCon US 2023 Recap Popularity
 
-I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html) in October 2023. It was featured in [Django News Newsletter](https://django-news.com/issues/203#start). I learned in January that the recap had been Django News Newsletter's top article for months. 
+I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html) in October 2023. It was featured in Django News Newsletter [Issue 203](https://django-news.com/issues/203#start). I learned in January that the recap had been Django News Newsletter's top article for months. 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -175,7 +175,7 @@ Our talk submission stats since I began publishing my list:
 
 I am confident that my list played a major role in the increase in submissions. I am really proud of that! 
 
-My list was featured in [Django News Newsletter](https://django-news.com/issues/222#start), along with [Jeff's list](https://micro.webology.dev/2024/04/28/djangocon-us-talks.html) and DjangoCon US Program Chair [Drew Winstel's list](https://winstel.dev/2024/03/01/talk-ideas-for-dcus-24/). 
+My list was featured in Django News Newsletter [Issue 222](https://django-news.com/issues/222#start), along with [Jeff's list](https://micro.webology.dev/2024/04/28/djangocon-us-talks.html) and DjangoCon US Program Chair [Drew Winstel's list](https://winstel.dev/2024/03/01/talk-ideas-for-dcus-24/). 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -438,7 +438,7 @@ I also made it to Django Co-creator Simon Willison's blog! Thank you to Simon fo
 
 Validation of my work among the world's leading Python practitioners and global community means a lot to me. 
 
-It was also featured in [Django News Newsletter](https://django-news.com/issues/236#start) and [pip Trends Newsletter](https://newsletter.piptrends.com/p/pycon-us-2024-recap-how-llms-work).
+It was also featured in Django News Newsletter [Issue 236](https://django-news.com/issues/236#start) and [pip Trends Newsletter](https://newsletter.piptrends.com/p/pycon-us-2024-recap-how-llms-work).
 
 ![](2024-recap-images/lacey-kudo.jpg)
 Thank you to the incredible Lacey for this sweet kudo! 
