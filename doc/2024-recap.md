@@ -185,12 +185,12 @@ As a DEFNA Board Member, I help oversee DjangoCon US, including the website desi
 
 During DjangoCon US 2023, I walked around downtown Durham and took some photos of the quirky artwork there. During the always-fun website design iteration process, I shared these photos with the website team. 
 
-![](2024-recap-images/durham-downtown-snapshots.png)
+![](2024-recap-images/durham-downtown-snapshots.jpg)
 Snapshots I took in downtown Durham
 
 I am super excited that my photos helped inspire this year's theme. The [website design](https://2024.djangocon.us/) makes me smile, and I hope it makes you smile too! 
 
-![](2024-recap-images/joni-djangocon-us-website-post.png)
+![](2024-recap-images/joni-djangocon-us-website-post.jpg)
 A shoutout from our amazing designer Joni Trythall of YupGup!
 
 Joni did a [DjangoCon US Design Reflection](https://jonitrythall.com/dcus-design-reflection) featuring all of our designs since 2018.
@@ -419,13 +419,13 @@ Unbeknownst to me, Neil Stoker, Senior Director of Ratings AI at Fitch Ratings, 
 
 He tweeted to me that it was trending there. It had reached #2! 
 
-![](2024-recap-images/hacker-news-trending.png)
+![](2024-recap-images/hacker-news-trending.jpg)
 #2 on Hacker News... so close to #1. Beaten out by Tim Bray's sofa parable, lol
 
-![](2024-recap-images/hacker-news-rankings-stats.png)
+![](2024-recap-images/hacker-news-rankings-stats.jpg)
 #2 for nearly an hour
 
-![](2024-recap-images/hacker-news-rankings-expanded.png)
+![](2024-recap-images/hacker-news-rankings-expanded.jpg)
 On the "front page" for about 12 hours
 
 It eventually reached 186 points and 91 comments
@@ -440,7 +440,7 @@ Validation of my work among the world's leading Python practitioners and global 
 
 It was also featured in [Django News Newsletter](https://django-news.com/issues/236#start) and [pip Trends Newsletter](https://newsletter.piptrends.com/p/pycon-us-2024-recap-how-llms-work).
 
-![](2024-recap-images/lacey-kudo.png)
+![](2024-recap-images/lacey-kudo.jpg)
 Thank you to the incredible Lacey for this sweet kudo! 
 
 <sub>[**back to top**](#table-of-contents)</sub>
@@ -669,7 +669,7 @@ November was a month for presentations. I gave three important ones within a wee
 
 I had a blast presenting at JPMorganChase Plano PowerUp Conference with my team. It was my first time presenting there and a great experience.
 
-![](2024-recap-images/me-presenting-at-powerup.JPEG)
+![](2024-recap-images/me-presenting-at-powerup.jpg)
 Me presenting at PowerUp
 
 ![](2024-recap-images/me-standing-next-to-powerup-banner.jpg)
@@ -730,7 +730,7 @@ Oven roasted turkey and smoked ham, mashed potatoes and turkey gravy, stuffing, 
 
 My two-year work anniversary happened on Thanksgiving. 
 
-![](2024-recap-images/work-anniversary.png)
+![](2024-recap-images/work-anniversary.jpg)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -782,7 +782,7 @@ Thank you to each and everyone one of you, and there are many, who made my year 
 
 Although I am generally a person who maintains a stable outlook, it was a year of very high highs, and lower than usual lows. In addition to some health problems, the loss of my aunt two years ago, then my uncle this year had a major impact on my extended family. Throughout the year, I often had to prioritize health and family. I am hoping for a more normal 2025 in that respect. 
 
-![](2024-recap-images/still-reflecting.png)
+![](2024-recap-images/still-reflecting.jpg)
 
 ![](2024-recap-images/last-photo-with-uncle-edward.jpg)
 Last photo with my Uncle Edward
