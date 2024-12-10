@@ -922,7 +922,7 @@ Me sitting next to a life-size thank you memo
 
 ### Diwali
 
-![](2024-recap-images/diwali-attire.JPEG)
+![](2024-recap-images/diwali-attire.jpg)
 Me standing with co-workers wearing beautiful Diwali attire!
 
 <sub>[**back to top**](#table-of-contents)</sub>
