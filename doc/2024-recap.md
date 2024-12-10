@@ -736,7 +736,7 @@ My two-year work anniversary happened on Thanksgiving.
 
 ### New Furnishings
 
-After leasing furnishings for my apartment for a couple of years, I stopped the lease and picked out my own. 
+After leasing furnishings for my apartment for a couple of years, I stopped the lease and started picking out my own. 
 
 I couldn't resist buying a Ruggable Patchwork Boho rug on Black Friday. I like the multi-colors and warm, relaxing look, and it's washable. 
 
