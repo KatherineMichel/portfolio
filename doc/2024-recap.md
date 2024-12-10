@@ -130,7 +130,7 @@ Kinesis Advantage360
 
 ### DjangoCon US 2023 Recap Popularity
 
-I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html) in October 2023. It was featured in Django News Newsletter [Issue 203](https://django-news.com/issues/203#start). I learned in January that the recap had been Django News Newsletter's top article for months. 
+I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html) in October 2023. It was featured in Django News Newsletter [Issue 205](https://django-news.com/issues/205#start). I learned in January that the recap had been Django News Newsletter's top article for months. 
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
