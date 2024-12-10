@@ -85,7 +85,7 @@ Table of Contents
     - [Yoshi Shabu Shabu September](#yoshi-shabu-shabu-september)
     - [JPMorganChase Plano](#jpmorganchase-plano)
 
-Disclaimer: the content of this post is a reflection of my life journey and not specific to my work at JPMorgan Chase & Co.
+Disclaimer: the content of this post is a reflection of my life journey and not specific to my work at JPMorganChase.
 
 You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
 
