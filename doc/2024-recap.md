@@ -376,7 +376,7 @@ I returned to the gym regularly on May 2nd and added light weight lifting. In co
 
 By June 1st, I'd already had a personal best on the elliptical and broke that record many times over throughout the year. 
 
-![](2024-recap-images/felt-like-it.jpg)
+![](2024-recap-images/felt-like-it.png)
 
 ![](2024-recap-images/gym-rat.jpg)
 
