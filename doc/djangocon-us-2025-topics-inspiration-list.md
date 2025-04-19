@@ -18,11 +18,12 @@ Django Software Foundation
 Diversity
 * Where we stand in bringing more diversity to: our steering council, core dev, contributor base, community
 
-Interesting Django Use Cases
-* Lesser known architectures and patterns, when to use, tradeoffs: clean code principles, domain driven design, hexagonal architecture, etc. 
+Interesting Django Use Cases and Case Studies
+* Lessons from managing/scaling Django in a unique or difficult way in your company
+* Lesser known architectures and patterns, when to use, tradeoffs: GoF applied to Python/Django, clean code principles, domain driven design, hexagonal architecture, etc. 
+* Refactoring (Martin Fowler, Kent Beck in practice)
 * Orchestration/workflows
 * Multi-tenancy
-* Lessons from managing/scaling Django in a unique or difficult way in your company
 
 API
 * Django Ninja compared to Django Rest Framework
