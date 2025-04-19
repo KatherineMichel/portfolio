@@ -2,6 +2,8 @@
 
 Published April 19, 2025
 
+Disclaimer: the content of this post is a reflection of my career journey and not specific to my work at JPMorganChase & Co.
+
 New Features and Future Outlook
 * New Django features
 * New Python features of interest to Django devs
