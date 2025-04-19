@@ -12,7 +12,7 @@ New Features and Future Outlook
 
 Django Software Foundation
 * DSF News
-* Update on [workgroups structure](https://github.com/django/dsf-working-groups) and opportunities
+* Update on workgroups structure and opportunities
 * Django Developer Survey results
 
 Diversity
@@ -41,6 +41,7 @@ AI
 * Co-Pilot, ChatGPT, etc. for Django devs 
 
 Raising Your Game
+* Advanced deep dives
 * Lesser known, but highly useful Django features
 * Practical Django profiling, optimization
 * Security (OWASP 10 and Django)
