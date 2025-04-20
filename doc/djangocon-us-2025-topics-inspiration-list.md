@@ -21,7 +21,7 @@ Diversity
 Interesting Django Use Cases and Case Studies
 * Lessons from managing/scaling Django in a unique or difficult way in your company
 * Lesser known architectures and patterns, when to use, tradeoffs: GoF applied to Python/Django, clean code principles, domain driven design, hexagonal architecture, etc. 
-* Refactoring (Martin Fowler, Kent Beck in practice)
+* Refactoring (Martin Fowler, Kent Beck, Michael Feathers in practice)
 * Orchestration/workflows
 * Multi-tenancy
 
