@@ -36,6 +36,7 @@ Welcome to Kati's Portfolio!
    :maxdepth: 2
    :caption: DjangoCon US Talk Topic Inspiration Lists:
 
+   djangocon-us-2025-topics-inspiration-list.md
    djangocon-us-2024-topics-inspiration-list.md
    djangocon-us-2023-topics-inspiration-list.md
 
