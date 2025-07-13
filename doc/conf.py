@@ -9,7 +9,7 @@
 project = 'Portfolio'
 copyright = 'Katherine "Kati" Michel'
 author = 'Katherine "Kati" Michel'
-release = '0.1'
+# release = '0.1'
 
 
 # -- General configuration ---------------------------------------------------
