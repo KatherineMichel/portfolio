@@ -8,9 +8,9 @@ I eventually made it back to the states and properly joined the Django community
 
 Thank you to Rob Curley, Simon Willison, Adrian Holovaty, and Jacob Kaplan-Moss (and the many who have come after) for not just creating, but also making Django free and open-source. I've had the pleasure of spending time with Rob and Simon at conferences. Given their unique curiosity and ingenuity, I can only imagine the explosion of creativity that occurred. 
 
-Thank you to everyone who has helped shape this special community. Craig Bruce, Frank Wiles, Jeff Triplett, Ken Whitesell, Kojo Idrissa, Ola Sendecka, Ola Sitarska, and Stacey Haysler immediately come to mind for me personally, but there are far too many to mention. The Django Software Foundation Individuals Members list is a good place to start. 
+Thank you to everyone who has helped shape this special community. Craig Bruce, Frank Wiles, Jeff Triplett, Ken Whitesell, Kojo Idrissa, Ola Sendecka, Ola Sitarska, and Stacey Haysler immediately come to mind for me personally, but there are far too many to mention. The Django Software Foundation [Individuals Members list](https://www.djangoproject.com/foundation/individual-members/) is a good place to start. 
 
-As I said in my DjangoCon US 2023 Recap, this community is changing the world for the better through shared humanity and technology. And, it's not a coincidence that it started in wonderful Lawrence, Kansas.
+As I said in my [DjangoCon US 2023 Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html), this community is changing the world for the better through shared humanity and technology. And, it's not a coincidence that it started in wonderful Lawrence, Kansas.
 
 Happy Birthday, Django! Here's to many more years to come! 
 
