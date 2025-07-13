@@ -53,6 +53,12 @@ Welcome to Kati's Portfolio!
 
 .. toctree::
    :maxdepth: 2
+   :caption: Thoughts:
+
+   happy-20th-birthday-django.md
+
+.. toctree::
+   :maxdepth: 2
    :caption: Travel:
 
    los-angeles-2023.md
