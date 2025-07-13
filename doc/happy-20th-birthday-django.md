@@ -1,4 +1,4 @@
-# Happy 20th Birthday Django!
+# Happy 20th Birthday, Django!
 
 In the early 2000s, I moved to Lawrence, Kansas. I visited the Lawrence Public Library in downtown Lawrence often and unfortunately had no idea that a few blocks away, Django was being created at the Lawrence Journal World. 
 
