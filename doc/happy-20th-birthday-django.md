@@ -6,7 +6,7 @@ I was working in a job that didn't suit me and decided to go on an adventure to 
 
 I eventually made it back to the states and properly joined the Django community. It was life-changing, to say the least.  
 
-Thank you to Rob Curley, Simon Willison, Adrian Holovaty, and Jacob Kaplan-Moss for not just creating, but also making Django free and open-source. I've had the pleasure of spending time with Rob and Simon at conferences. Given their unique curiosity and ingenuity, I can only imagine the explosion of creativity that occurred. 
+Thank you to Rob Curley, Simon Willison, Adrian Holovaty, and Jacob Kaplan-Moss (and the many who have come after) for not just creating, but also making Django free and open-source. I've had the pleasure of spending time with Rob and Simon at conferences. Given their unique curiosity and ingenuity, I can only imagine the explosion of creativity that occurred. 
 
 Thank you to everyone who has helped shape this special community. Craig Bruce, Frank Wiles, Jeff Triplett, Ken Whitesell, Kojo Idrissa, Ola Sendecka, Ola Sitarska, and Stacey Haysler immediately come to mind for me personally, but there are far too many to mention. The Django Software Foundation Individuals Members list is a good place to start. 
 
