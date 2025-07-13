@@ -14,5 +14,5 @@ As I said in my DjangoCon US 2023 Recap, this community is changing the world fo
 
 Happy Birthday, Django! Here's to many more years to come! 
 
-Me and Simon (photo credit: Django Fellow Natalia Bidart)
+Me and Simon Willison at DjangoCon US 2024 (photo credit: Django Fellow Natalia Bidart)
 ![](djangocon-us-2024-recap-images/me-and-simon.jpg)
