@@ -12,7 +12,7 @@ Thank you to everyone who has helped shape this special community. Craig Bruce, 
 
 As I said in my [DjangoCon US 2023 Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html), this community is changing the world for the better through shared humanity and technology. And, it's not a coincidence that it started in wonderful Lawrence, Kansas.
 
-Happy Birthday, Django! Here's to many more years to come! 
+Happy Birthday, Django! Here's to many more years to come. 
 
 ![](djangocon-us-2024-recap-images/me-and-simon.jpg)
 Me and Simon Willison at DjangoCon US 2024 (photo credit: Django Fellow Natalia Bidart)
