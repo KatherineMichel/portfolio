@@ -1,5 +1,8 @@
 # Happy 20th Birthday, Django!
 
+![](djangocon-us-2024-recap-images/me-and-simon.jpg)
+Me and Simon Willison at DjangoCon US 2024 (photo credit: Django Fellow Natalia Bidart)
+
 In the early 2000s, I moved to Lawrence, Kansas. I visited the Lawrence Public Library in downtown Lawrence often and unfortunately had no idea that a few blocks away, Django was being created at the Lawrence Journal World. 
 
 I was working in a job that didn't suit me and decided to go on an adventure to England in 2009 to join a master's degree program at Lancaster University Management School. It was only after interning in the IT Change Management Department at Co-operative Financial Services/Britannia Building Society that I learned about Django. 
@@ -13,6 +16,3 @@ Thank you to everyone who has helped shape this special community. Craig Bruce, 
 As I said in my [DjangoCon US 2023 Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html), this community is changing the world for the better through shared humanity and technology. And, it's not a coincidence that it started in wonderful Lawrence, Kansas.
 
 Happy Birthday, Django! Here's to many more years to come. 
-
-![](djangocon-us-2024-recap-images/me-and-simon.jpg)
-Me and Simon Willison at DjangoCon US 2024 (photo credit: Django Fellow Natalia Bidart)
