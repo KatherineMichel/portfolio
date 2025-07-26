@@ -56,6 +56,7 @@ Welcome to Kati's Portfolio!
    :caption: Thoughts:
 
    happy-20th-birthday-django.md
+   a-lesson-in-leadership.md
 
 .. toctree::
    :maxdepth: 2
