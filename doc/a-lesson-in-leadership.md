@@ -2,7 +2,7 @@
 
 Last week at work, a leadership team was in town and answering employee questions at a fireside chat. 
 
-The event was an extension of a quarterly meetup I helped launch a few years ago. 
+The event was an extension of a quarterly meetup I helped launch a couple years ago. 
 
 During the event, I marveled at how impressive the managing director overseeing a division was... his communication skills, knowledge of his domain, and sense of humor. 
 
