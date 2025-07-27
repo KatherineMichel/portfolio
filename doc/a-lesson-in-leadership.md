@@ -4,11 +4,11 @@ Last week at work, a leadership team was in town and answering employee question
 
 The event was an extension of a quarterly meetup I helped launch a couple years ago. 
 
-During the event, I marveled at how impressive the managing director overseeing a division was... his communication skills, knowledge of his domain, and sense of humor. 
+During the event, I marveled at how impressive the general manager overseeing a division was... his communication skills, knowledge of his domain, and sense of humor. 
 
 Afterward, I hung around meeting people. 
 
-All of a sudden, the managing director appeared in front of me. I was very surprised. I'd never met him before and had no idea that he knew of me. 
+All of a sudden, the general manager appeared in front of me. I was very surprised. I'd never met him before and had no idea that he knew of me. 
 
 He knew my name and thanked me for all that I do, then chatted with me about my work. 
 
