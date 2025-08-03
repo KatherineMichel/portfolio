@@ -82,7 +82,7 @@ These tools are:
 * [Flake8](https://flake8.pycqa.org/en/latest/): check your codebase style and complexity
 * [Black](https://black.readthedocs.io/en/stable/) (being added in this release): check your codebase style and reformat in place
 * [isort](https://pycqa.github.io/isort/): sort Django imports
-* [Coverage](https://coverage.readthedocs.io/): measures the percentage of code per file that is covered by tests
+* [Coverage](https://coverage.readthedocs.io/en/7.10.1/): measures the percentage of code per file that is covered by tests
 
 Invariably, these other tools will have had new releases of their own between Pinax releases. As a result, additional changes will need to be made to the configuration. For some examples, check out the WIP [Pinax 22.12 Release Plan](https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/).
 
