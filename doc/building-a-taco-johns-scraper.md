@@ -26,7 +26,7 @@ A source code snippet... this source code had been "minified" to improve website
 
 ![](building-a-taco-johns-scraper-images/source-code-snippet.png)
 
-In addition to an official [standard library](https://docs.python.org/library/) that contains all of the commonly used features of the language, [Python](https://www.python.org/) programming language has a rich ecosystem of third-party tools that can be used to do powerful things.
+In addition to an official [standard library](https://docs.python.org/3/library/) that contains all of the commonly used features of the language, [Python](https://www.python.org/) programming language has a rich ecosystem of third-party tools that can be used to do powerful things.
 
 One of the third-party tools in the Python ecosystem is called [Scrapy](https://scrapy.org/). Scrapy can be used to create a Python program that can programatically follow a website's URLs (links) in the source code to obtain, or "scrape" the structured data you are in search of and output it in a form that you can save and use. 
 
