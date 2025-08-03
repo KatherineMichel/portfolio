@@ -152,7 +152,7 @@ If you are interested in the project or would like to contribute, reach out to t
 
 The conference closed with a keynote by [Meg Ray](https://twitter.com/teach_python): "[Because Equity: Python FTW](https://2019.pygotham.org/talks/keynote-because-equity-python-ftw/)."
 
-Meg's keynote at PyGotham was very timely. She had recently been [awarded a PSF education grant](http://pyfound.blogspot.com/2019/09/grants-awarded-for-python-in-education.html) to create an open-source, PSF landing site for Python education. Meg wants to bring together Pythonistas who are interested in education and educators interested in Python. And she's looking for contributors! Reach out to her if you are interested.
+Meg's keynote at PyGotham was very timely. She had recently been [awarded a PSF education grant](https://pyfound.blogspot.com/2019/09/grants-awarded-for-python-in-education.html) to create an open-source, PSF landing site for Python education. Meg wants to bring together Pythonistas who are interested in education and educators interested in Python. And she's looking for contributors! Reach out to her if you are interested.
 
 ![](pygotham-2019-recap-images/meg-python-education-website.png)
 
