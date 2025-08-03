@@ -138,7 +138,7 @@ Froi and José began to build their own tool [Contrato PRA](https://contratospr.
 
 The batteries included philosophy of [Django](https://www.djangoproject.com/) and the third-party extensions in the Python and Django ecosystem enabled them to get the project up and running as quickly and cost effectively as possible. 
 
-The project was split into two parts: a REST API built with [Django REST Framework](https://www.django-rest-framework.org/), [Python](https://www.python.org/), [Redis](https://redis.io/), [Celery](http://www.celeryproject.org/), [Docker,](https://www.docker.com/) and [Postgres](https://www.postgresql.org/); and a front-end, which users can access the API data through, built using a [React](https://reactjs.org/) framework called [Next](https://nextjs.org/).
+The project was split into two parts: a REST API built with [Django REST Framework](https://www.django-rest-framework.org/), [Python](https://www.python.org/), [Redis](https://redis.io/), [Celery](https://docs.celeryq.dev/en/stable/), [Docker,](https://www.docker.com/) and [Postgres](https://www.postgresql.org/); and a front-end, which users can access the API data through, built using a [React](https://reactjs.org/) framework called [Next](https://nextjs.org/).
 
 Froi and José used JSON endpoints and self-throttling to optimize data collection, without negatively affecting the controller site. In the Contrato PRA site, documents and their contents are now searchable and the data can be visualized by category.
 
