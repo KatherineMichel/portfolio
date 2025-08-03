@@ -822,7 +822,7 @@ Why even upgrade?
 * Stepping stone for future improvements
 * Discover what newly deprecated APIs you are using
 
-The 3.13 beta is out now! See the full release notes at [What's New in Python 3.13](https://bit.ly/python313). 
+The 3.13 beta is out now! See the full release notes at [What's New in Python 3.13](https://docs.python.org/3.13/whatsnew/3.13.html). 
 
 Thomas noted that incoming release manager Hugo van Kemenade has proposed switching to CalVer. He gave a talk "[Should Python adopt CalVer](https://hugovk.github.io/python-calver/)" at the Language Summit. 
 
