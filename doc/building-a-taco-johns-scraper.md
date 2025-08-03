@@ -34,7 +34,7 @@ Unlike a human being, a [scraper](https://en.wikipedia.org/wiki/Web_scraping) ca
 
 ## Making a Scraper for Hacktoberfest
 
-[Hacktoberfest](https://hacktoberfest.digitalocean.com/), sponsored by [GitHub](https://github.com/) and Digital Ocean, is a month-long celebration of open-source code. If you submit four pull requests (proposed contributions) to participating open-source projects on GitHub during October, and the pull requests are considered valid and merged, you will receive a t-shirt or have a tree planted in your name, up to the first 70,000 people.
+[Hacktoberfest](https://hacktoberfest.com/), sponsored by [GitHub](https://github.com/) and Digital Ocean, is a month-long celebration of open-source code. If you submit four pull requests (proposed contributions) to participating open-source projects on GitHub during October, and the pull requests are considered valid and merged, you will receive a t-shirt or have a tree planted in your name, up to the first 70,000 people.
 
 If you are ever interested in getting involved in open source and don't know where to get started, I sometimes give a talk about it called "Get a Jumpstart on Collaboration and Code Review in GitHub." Check out my talk [slides and script](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida) in my GitHub account.
 
