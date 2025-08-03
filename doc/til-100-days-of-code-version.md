@@ -65,7 +65,7 @@ I considered four major approaches implemented in Python:
 
 ### Contrasting the Implementations
 
-Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://datasette.readthedocs.io/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. 
+Simon's [TIL implementation](https://github.com/simonw/til) uses [Datasette](https://docs.datasette.io/en/stable/), an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. Although I have no doubt that Simon's implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset. 
 
 I felt his implementation was too opinionated for my current needs.
 
