@@ -231,7 +231,7 @@ I happened to look down the street at the marina in the distance. For several br
 
 Looking down the street at the sunset illuminating the marina; photo credit: Katherine Michel
 
-In 2018, I traveled to Coronado Island by bus and got off at the [Hotel del Coronado](https://hoteldel.com/) bus stop in search of Coronado Beach. Having known nothing in advance about the location, I was gobsmacked to find a beach-front hotel that felt like a movie set. Walking around back, I found the greenest of manicured grass, palm trees rising high into the air, and in the distance, Coronado Beach glittering gold under the sun. It was a jawdropping moment that I'll never forget.
+In 2018, I traveled to Coronado Island by bus and got off at the [Hotel del Coronado](https://www.hoteldel.com/) bus stop in search of Coronado Beach. Having known nothing in advance about the location, I was gobsmacked to find a beach-front hotel that felt like a movie set. Walking around back, I found the greenest of manicured grass, palm trees rising high into the air, and in the distance, Coronado Beach glittering gold under the sun. It was a jawdropping moment that I'll never forget.
 
 This year, I wanted to see some other San Diego beaches, so I traveled to [Mission Beach](https://en.wikipedia.org/wiki/Mission_Beach,_San_Diego) and [Ocean Beach](https://en.wikipedia.org/wiki/Ocean_Beach,_San_Diego).
 
