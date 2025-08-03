@@ -38,7 +38,7 @@ One of the highlights of the conference was eating dinner with [Guido van Rossum
 ![](2020-year-in-review-images/dinner-with-guido.jpg)
 Dinner with Guido (he's the one waving!)... what fun; photo credit: Jonan Scheffler, used with permission
 
-While I was in Portland, I also enjoyed Cuban food at [Cubo](https://www.cuboportland.com/), Lebanese and Mediterranean food at [Nicholas Restaurant](http://nicholasrestaurant.com/), and Mexican food at [La Morenita](https://www.facebook.com/La-morenita-mexican-food-687319458053736/) food truck. All of the food was super delicious and I'd love to go back and eat it again! :) 
+While I was in Portland, I also enjoyed Cuban food at [Cubo](https://www.cuboportland.com/), Lebanese and Mediterranean food at [Nicholas Restaurant](https://www.nicholasrestaurant.com/), and Mexican food at [La Morenita](https://www.facebook.com/La-morenita-mexican-food-687319458053736/) food truck. All of the food was super delicious and I'd love to go back and eat it again! :) 
 
 ![](2020-year-in-review-images/cubo.jpg)
 Ropita at Cubo: shredded beef brisket stewed with tomato, vegetables and traditional Cuban spices, served with white rice, black beans, mango, avocado, maduros and tostone
