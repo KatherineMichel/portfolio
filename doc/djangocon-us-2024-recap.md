@@ -299,7 +299,7 @@ Chris introduced tools that can be used to create a SPA-like experience
 * [Alpine.js](https://alpinejs.dev/)
 * [django-template-partials](https://github.com/carltongibson/django-template-partials)
 * [django-components](https://pypi.org/project/django-components/)
-* [Datastar](https://datastar.fly.dev/)
+* [Datastar](https://data-star.dev/)
 * [Unpoly](https://unpoly.com/) 
 
 Three HTMX success stories
