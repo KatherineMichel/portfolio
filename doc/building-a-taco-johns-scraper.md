@@ -36,7 +36,7 @@ Unlike a human being, a [scraper](https://en.wikipedia.org/wiki/Web_scraping) ca
 
 [Hacktoberfest](https://hacktoberfest.com/), sponsored by [GitHub](https://github.com/) and Digital Ocean, is a month-long celebration of open-source code. If you submit four pull requests (proposed contributions) to participating open-source projects on GitHub during October, and the pull requests are considered valid and merged, you will receive a t-shirt or have a tree planted in your name, up to the first 70,000 people.
 
-If you are ever interested in getting involved in open source and don't know where to get started, I sometimes give a talk about it called "Get a Jumpstart on Collaboration and Code Review in GitHub." Check out my talk [slides and script](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida) in my GitHub account.
+If you are ever interested in getting involved in open source and don't know where to get started, I sometimes give a talk about it called "Get a Jumpstart on Collaboration and Code Review in GitHub." Check out my talk [slides and script](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida-talk) in my GitHub account.
 
 While I was looking through GitHub repos (places where code is stored) to identify contributions I could make that would qualify for Hacktoberfest, I came across a repo called [All the Places](https://github.com/alltheplaces/alltheplaces/). All the Places project contains a collection of [Scrapy scripts](https://github.com/alltheplaces/alltheplaces/tree/master/locations/spiders) (a.k.a "spiders") that can be used to scrape business websites for location data.
 
