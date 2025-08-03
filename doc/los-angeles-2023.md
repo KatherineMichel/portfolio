@@ -84,7 +84,7 @@ Hollywood experience
 * [Warner Brothers Studio Tour](https://www.wbstudiotour.com/tickets/)
 * [Universal Studios Tour](https://www.universalstudioshollywood.com/web/en/us/things-to-do/rides-and-attractions/the-world-famous-studio-tour)
 * [Academy Museum of Motion Pictures](https://www.academymuseum.org/en)
-* [Celebrity Homes Bus Tour](http://hollywoodbustours.com/)
+* [Celebrity Homes Bus Tour](https://hollywoodbustoursla.com)
 * [Via Alloro](https://www.viaalloro.com/)
 
 Great views, artwork, and science
