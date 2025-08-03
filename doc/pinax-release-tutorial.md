@@ -80,7 +80,7 @@ In addition to testing against Python and Django, Pinax tox configuration includ
 
 These tools are:
 * [Flake8](https://flake8.pycqa.org/en/latest/): check your codebase style and complexity
-* [Black](https://black.readthedocs.io/) (being added in this release): check your codebase style and reformat in place
+* [Black](https://black.readthedocs.io/en/stable/) (being added in this release): check your codebase style and reformat in place
 * [isort](https://pycqa.github.io/isort/): sort Django imports
 * [Coverage](https://coverage.readthedocs.io/): measures the percentage of code per file that is covered by tests
 
