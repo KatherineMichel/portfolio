@@ -135,7 +135,7 @@ The Django community is embarking on one of the largest changes in Django's hist
 
 Andrew's deep-dive day talk "[Just Add Await: Retrofitting Async Into Django](https://2019.djangocon.us/talks/just-add-await-retrofitting-async-into/)" was definitely a highlight of the week for me.
 
-Andrew has done extensive research about how to add async support into Django in a safe, backwards compatible way that maintains the familiarity of the Django API. His approach is detailed in [DEP 0009 (Async in Django)](https://github.com/django/deps/blob/master/accepted/0009-async.rst), which he authored.
+Andrew has done extensive research about how to add async support into Django in a safe, backwards compatible way that maintains the familiarity of the Django API. His approach is detailed in [DEP 0009 (Async in Django)](https://github.com/django/deps/blob/main/accepted/0009-async.rst), which he authored.
 
 ![](djangocon-us-2019-recap-images/django-async.jpg)
 
