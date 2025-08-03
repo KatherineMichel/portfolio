@@ -191,7 +191,7 @@ Several new-ish (or new-to-me) blogs that stand out
 * [The Developing Dev](https://www.developing.dev/)
 
 Perhaps this is dated, but I'd like to know more
-* [High Performance Web Sites Blog](http://stevesouders.com/)
+* [High Performance Web Sites Blog](https://stevesouders.com/)
 
 ## How Companies Do Things
 
