@@ -144,8 +144,8 @@ A few useful resources:
 
 While I was looking through Hacktoberfest issues, the [YT Higher Lower](https://github.com/jackdonofrio/yt-higher-lower) project piqued my interest. This was admittedly an easy PR. However, it provided a real benefit to a project and gave me the opportunity to try out a Python "game" script made based on a well-known product, and understand how it works.
 
-* Issue: https://github.com/Jack1q/yt-higher-lower/issues/1
-* PR: https://github.com/Jack1q/yt-higher-lower/pull/26
+* Issue: https://github.com/jackdonofrio/yt-higher-lower/issues/1
+* PR: https://github.com/jackdonofrio/yt-higher-lower/pull/26
 
 Action taken:
 * Looked for common YouTube terms and added them to `terms.txt`
