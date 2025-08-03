@@ -142,7 +142,7 @@ A favorite from the Andy Warhol Museum
 
 ### Heinz History Center
 
-When I heard that the [Heinz History Center](https://heinzhistorycenter.org/) has the Mister Rogers set, I had to go. 
+When I heard that the [Heinz History Center](https://www.heinzhistorycenter.org/) has the Mister Rogers set, I had to go. 
 
 ![](pycon-us-2024-recap-images/heinz-museum-mr-rogers.jpg)
 Mr. Rogers Neighborhood set
