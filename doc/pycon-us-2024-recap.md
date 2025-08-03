@@ -514,7 +514,7 @@ New profile pic :)
 
 ### Juggling
 
-Not only does Ned Batchelder ([coverage.py](https://coverage.readthedocs.io/) Maintainer) maintain a powerful Python package and give popular conference talks (check out [People: The API User's Guide](https://nedbatchelder.com/text/key23.html)), he is also a juggling enthusiast. When I saw his juggling open space in progress, I couldn't resist stopping. I juggled for the first time in probably decades! It was also great to catch up with Paul Ganssle (Google, CPython Core Dev, pytz maintainer), and meet Rob Ludwick (Bank of NY Mellon) and William Higgins (Consumer Financial Protection Bureau). 
+Not only does Ned Batchelder ([coverage.py](https://coverage.readthedocs.io/en/7.10.1/) Maintainer) maintain a powerful Python package and give popular conference talks (check out [People: The API User's Guide](https://nedbatchelder.com/text/key23.html)), he is also a juggling enthusiast. When I saw his juggling open space in progress, I couldn't resist stopping. I juggled for the first time in probably decades! It was also great to catch up with Paul Ganssle (Google, CPython Core Dev, pytz maintainer), and meet Rob Ludwick (Bank of NY Mellon) and William Higgins (Consumer Financial Protection Bureau). 
 
 ![](pycon-us-2024-recap-images/me-juggling.png)
 
