@@ -207,7 +207,7 @@ In the PR, I [added django-docker-box to the Django docs](https://docs.djangopro
 
 Due to a sick computer and conference travel, Django Fellow [Mariusz Felisiak](https://twitter.com/MariuszFelisiak) assisted me in updating and merging this important PR. I'm proud to have left the campground better than I found it, as my friend Jeff would say.
 
-The [workshop notes](https://github.com/carltongibson/dcus2019sprints) are open source for anyone who would like to use them to contribute!
+The [workshop notes](https://github.com/carltongibson/djangocon-sprints) are open source for anyone who would like to use them to contribute!
 
 A special shoutout to Django Core Dev [Chris Beaven](https://twitter.com/SmileyChris) of Lincoln Loop who personally assisted people at my table with troubleshooting.
 
