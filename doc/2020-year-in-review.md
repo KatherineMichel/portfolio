@@ -134,7 +134,7 @@ I was delighted to be asked to do it.
 
 I had the choice to give the talk a week and a half later, or a month or more in the future. After some thought, I decided to give the talk in a week and a half. I knew that the talk would not be "better" in a month or more. Putting the talk off would just give me the opportunity to prolong any fear I might have of giving my first virtual talk to an audience of this size. Doing this kind of thing isn't easy, but it's satisfying to face my fear head on.
 
-With Hacktoberfest beginning only a few days later, the timing of my talk could not have been better. I spent some time updating the talk to incorporate some things I had learned since 2017. You can see a copy of the slides and script in the [talk repo](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida).
+With Hacktoberfest beginning only a few days later, the timing of my talk could not have been better. I spent some time updating the talk to incorporate some things I had learned since 2017. You can see a copy of the slides and script in the [talk repo](https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida-talk).
 
 I was extremely happy with how the talk went. The audience was fairly large for a local meetup... around 50 people had signed up to attend.
 
