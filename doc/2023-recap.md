@@ -103,7 +103,7 @@ Django News Newsletter is a fabulous newsletter published every Friday and fille
 
 ## Stanford Code in Place Article
 
-In April, Stanford Engineering featured me an article "[Stanford Engineering offers free online introductory programming course](https://engineering.stanford.edu/magazine/stanford-engineering-offers-free-online-introductory-programming-course)". I talked about my experience learning and teaching Python programming language as a Stanford Code in Place student in 2020 and section leader in 2021. It was an honor to be selected to take part from among thousands of participants. 
+In April, Stanford Engineering featured me an article "[Stanford Engineering offers free online introductory programming course](https://engineering.stanford.edu/news/stanford-engineering-offers-free-online-introductory-programming-course)". I talked about my experience learning and teaching Python programming language as a Stanford Code in Place student in 2020 and section leader in 2021. It was an honor to be selected to take part from among thousands of participants. 
 
 For more about my experience, check out my student recap "[Reflections on Stanford Code in Place](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/reflections-on-stanford-code-in-place.md)" or my section leader [recap slides](https://github.com/KatherineMichel/stanford-code-in-place-section-leader). 
 
