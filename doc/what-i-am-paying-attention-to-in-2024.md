@@ -199,7 +199,7 @@ A curated list of engineering blogs including most, if not all, of the leading t
 * [Engineering Blogs](https://github.com/kilimchoi/engineering-blogs) &#8987;
 
 A classic blog about system architecture. Also happens to be "for sale." See the December 11 post and respond if you are serious. 
-* [High Scalability](http://highscalability.com/) &#8987;
+* [High Scalability](https://highscalability.com/) &#8987;
 
 Information about how companies do testing and SRE 
 * [How They Test](https://github.com/abhivaikar/howtheytest)
