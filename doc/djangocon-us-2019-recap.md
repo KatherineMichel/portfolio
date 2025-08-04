@@ -163,7 +163,7 @@ Russell explained what WASM is and how it works. WASM can take code such as Pyth
 
 Russell gave a few promising ways of using Python and WASM together
 
-* The [Pyodide](https://github.com/iodide-project/pyodide) project uses enscripten to compile the CPython source code to WASM. The result can be used to deploy a Python shell in the browser completely clientside, similarly to a Jupyter notebook session. Because it's big, the smaller implementation Micro Python could be used alternatively.
+* The [Pyodide](https://github.com/pyodide/pyodide) project uses enscripten to compile the CPython source code to WASM. The result can be used to deploy a Python shell in the browser completely clientside, similarly to a Jupyter notebook session. Because it's big, the smaller implementation Micro Python could be used alternatively.
 * Russell's own experiment is [Batavia](https://github.com/beeware/batavia), which implements a CPython virtual machine in pure Javascript, which provides a Python REPL in the browser. Bytecode is run directly, no parsing or compiling needed.
 
 Russell ended by mentioning the great organization [BeeWare](https://beeware.org/).
