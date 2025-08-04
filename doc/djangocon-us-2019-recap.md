@@ -26,9 +26,9 @@ Also, like DjangoCon US 2018, DjangoCon US 2019 was visibly diverse, I believe t
 
 Kojo Idrissa kicking off DjangoCon with Orientation; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
-Monday kicked off with an [Orientation and Welcome](https://2019.djangocon.us/talk/orientation-and-welcome/) led by [DEFNA](https://www.defna.org/) North American Ambassador and DjangoCon Organizer [Kojo Idrissa](https://twitter.com/Transition). Notably, Kojo asked, what if the audience were primarily black women in their 40s to 60s? White men might start to wonder if they fit there. That is what underrepresented people are dealing with. All are welcome at DjangoCon US.
+Monday kicked off with an [Orientation and Welcome](https://2019.djangocon.us/talk/orientation-and-welcome/) led by [DEFNA](https://www.defna.org/) North American Ambassador and DjangoCon Organizer [Kojo Idrissa](https://x.com/Transition). Notably, Kojo asked, what if the audience were primarily black women in their 40s to 60s? White men might start to wonder if they fit there. That is what underrepresented people are dealing with. All are welcome at DjangoCon US.
 
-[Matt Mitchell](https://twitter.com/geminiimatt), a security expert who specializes in working with marginalized groups around the world, gave the opening keynote, "[Building Community and Supporting Others](https://2019.djangocon.us/talk/keynote-matt-mitchelln/)." Matt compared community to the Model/Template/View paradigm (MTV), gave some examples of people and groups who dig deep to find inner strength, including Sheroes, Knowledge House, Torchbox, and Laura Tich of SheHacks, and challenged the audience to see the beauty in the community and be kind to each other.
+[Matt Mitchell](https://x.com/geminiimatt), a security expert who specializes in working with marginalized groups around the world, gave the opening keynote, "[Building Community and Supporting Others](https://2019.djangocon.us/talk/keynote-matt-mitchelln/)." Matt compared community to the Model/Template/View paradigm (MTV), gave some examples of people and groups who dig deep to find inner strength, including Sheroes, Knowledge House, Torchbox, and Laura Tich of SheHacks, and challenged the audience to see the beauty in the community and be kind to each other.
 
 ![](djangocon-us-2019-recap-images/matt-mitchell.jpg)
 
@@ -36,11 +36,11 @@ Matt Mitchell; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 A few other talks that resonated with me:
 
-In "[The Unspeakable Horror of Discovering You Didn't Write Tests](https://2019.djangocon.us/talks/the-unspeakable-horror-of-discovering-t/)," [Melanie Crutchfield](https://twitter.com/hellomelaniec) explained how she went from not even having one little digusting kale testing leaf in her app Five Up, to wanting to eat that disgusting testing vegetable for real. Yay!
+In "[The Unspeakable Horror of Discovering You Didn't Write Tests](https://2019.djangocon.us/talks/the-unspeakable-horror-of-discovering-t/)," [Melanie Crutchfield](https://x.com/hellomelaniec) explained how she went from not even having one little digusting kale testing leaf in her app Five Up, to wanting to eat that disgusting testing vegetable for real. Yay!
 
-[Peter Baumgartner](https://twitter.com/ipmb) gave a detailed overview of hosting, configuration, web server, and asset options and tradeoffs in "[Prepping Your Project for Production](https://2019.djangocon.us/talks/prepping-your-project-for-production/)," using special slides by [Joni Trythall](https://twitter.com/JoniTrythall), our DjangoCon US Website Designer!
+[Peter Baumgartner](https://x.com/ipmb) gave a detailed overview of hosting, configuration, web server, and asset options and tradeoffs in "[Prepping Your Project for Production](https://2019.djangocon.us/talks/prepping-your-project-for-production/)," using special slides by [Joni Trythall](https://x.com/JoniTrythall), our DjangoCon US Website Designer!
 
-[Casey Faist](https://twitter.com/cfactoid), Heroku's Python Platform Maintainer, gave a great talk, "[Everything you need to know but were afraid to ask about Data Classes](https://2019.djangocon.us/talks/everything-you-need-to-know-but-were-to/)" about the ins and outs of Python Data Classes. Heroku is special to me, as the first platform I ever deployed a Django app to. I'm thrilled that I had the chance to meet Casey at PyCon US and further chat at DjangoCon US! 
+[Casey Faist](https://x.com/cfactoid), Heroku's Python Platform Maintainer, gave a great talk, "[Everything you need to know but were afraid to ask about Data Classes](https://2019.djangocon.us/talks/everything-you-need-to-know-but-were-to/)" about the ins and outs of Python Data Classes. Heroku is special to me, as the first platform I ever deployed a Django app to. I'm thrilled that I had the chance to meet Casey at PyCon US and further chat at DjangoCon US! 
 
 After a very popular DjangoCon US 2018 talk about [uncovering gender bias in Harry Potter](https://2018.djangocon.us/talk/a-bossy-sort-of-voice-uncovering-gender/), Eleanor Stribling followed up in 2019 with "[Think Like a Product Manager: Straightforward frameworks for building great products](https://2019.djangocon.us/talks/think-like-a-product-manager-frameworks/)," which provided a product management black box for non-product managers.
 
@@ -52,9 +52,9 @@ Opening Reception; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ### Your Web Framework Needs You
 
-At DjangoCon US 2018, [Carlton Gibson](https://twitter.com/carltongibson), Django Fellow, gave a talk "[Your Web Framework Needs You](https://2018.djangocon.us/talk/your-web-framework-needs-you/)." Carlton acknowleged that the community is more diverse than ever, but the core contributors have continued to be white guys, many of whom have been associated with Django for a very long time and are no longer even contributing. The talk was a call to action to community members to contribute to the Django core code. In short, there is not a quick fix, but change is a priority.
+At DjangoCon US 2018, [Carlton Gibson](https://x.com/carltongibson), Django Fellow, gave a talk "[Your Web Framework Needs You](https://2018.djangocon.us/talk/your-web-framework-needs-you/)." Carlton acknowleged that the community is more diverse than ever, but the core contributors have continued to be white guys, many of whom have been associated with Django for a very long time and are no longer even contributing. The talk was a call to action to community members to contribute to the Django core code. In short, there is not a quick fix, but change is a priority.
 
-As a side note, after DjangoCon US 2018, a [draft DEP dissolving Django Core](https://github.com/django/deps/pull/47/files) and creating a new model of governance was merged into the Django organization. This DEP is in part intended to fix some of the problems discussed by Carlton in his talk. [James Bennett](https://twitter.com/ubernostrum), the author of the DEP, explained the changes in his blog post "[Core no more](https://www.b-list.org/weblog/2018/nov/20/core/)."
+As a side note, after DjangoCon US 2018, a [draft DEP dissolving Django Core](https://github.com/django/deps/pull/47/files) and creating a new model of governance was merged into the Django organization. This DEP is in part intended to fix some of the problems discussed by Carlton in his talk. [James Bennett](https://x.com/ubernostrum), the author of the DEP, explained the changes in his blog post "[Core no more](https://www.b-list.org/weblog/2018/nov/20/core/)."
 
 This year, Carlton gave a "[Framework Update](https://2019.djangocon.us/talk/framework-update-carlton-gibson/)." Progress is happening in Django core: the 1328 accepted tickets that existed last year were reduced to 1262 this year, with over 1000 new tickets opened; more than 1200 commits to master branch were made from 290 separate contributors, including new contributors and more contributors overall. Carlton gave examples of areas where individuals or self-organized groups could make improvements to Django core and its docs that could have a massive positive impact. Carlton again extended the invitation, "You're web framework still needs you! Come and join us."
 
@@ -64,7 +64,7 @@ Carlton Gibson; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
 ### Tuesday
 
-[Jessica Rose](https://twitter.com/jesslynnrose) kicked off Tuesday with a keynote about a very important topic: "[Burnout and Balance](https://2019.djangocon.us/talk/keynote-jessica-rose/)." Using cognitive psychology and humor, she explained what occupational burnout is, the warning signs (based on the Mayo Clinic diagnostic survey for burnout), and strategies for preventing it or reducing the negative impact of it. I found these strategies very practical and plan to apply them in life. A few strategies in particular: take care of yourself first ("put on your own airmask before helping other people"), invest your energy selectively, and learn to say no.
+[Jessica Rose](https://x.com/jesslynnrose) kicked off Tuesday with a keynote about a very important topic: "[Burnout and Balance](https://2019.djangocon.us/talk/keynote-jessica-rose/)." Using cognitive psychology and humor, she explained what occupational burnout is, the warning signs (based on the Mayo Clinic diagnostic survey for burnout), and strategies for preventing it or reducing the negative impact of it. I found these strategies very practical and plan to apply them in life. A few strategies in particular: take care of yourself first ("put on your own airmask before helping other people"), invest your energy selectively, and learn to say no.
 
 ![](djangocon-us-2019-recap-images/jessica-rose.jpg)
 
@@ -74,7 +74,7 @@ A few other talks that resonated with me:
 
 In his talk "[Prefetching for Fun and Profit](https://2019.djangocon.us/talks/prefetching-for-fun-and-profit/)," [Mike Hansen](https://github.com/mwhansen/) walked us through what pre-fetching is, the problem it's trying to solve, and how it is implemented. In the process, Mike took a deep dive into the Django code. He suggested that people should dig into the Django internals more often and use their knowledge of it to improve their own code, instead of going directly to Stack Overflow. I like that.
 
-As a maintainer of [Pinax](https://github.com/pinax/), I'm always on the lookout for new ways to improve our process. [Luca Bezerra's](https://twitter.com/lucabezerra_) talk "[Pull Requests: Merging good practices into your project](https://2019.djangocon.us/talks/pull-requests-merging-good-practices/)" provided some good food for thought. Plus, the talk ended with one of Vinta's trademark checklists. I love a good checklist!
+As a maintainer of [Pinax](https://github.com/pinax/), I'm always on the lookout for new ways to improve our process. [Luca Bezerra's](https://x.com/lucabezerra_) talk "[Pull Requests: Merging good practices into your project](https://2019.djangocon.us/talks/pull-requests-merging-good-practices/)" provided some good food for thought. Plus, the talk ended with one of Vinta's trademark checklists. I love a good checklist!
 
 ### Thank You Dinner
 
@@ -86,7 +86,7 @@ Special "thank you" dinner; photo credit: Bartek Pawlik (https://bartpawlik.form
 
 Plates of appetizers were passed around the tables to share, filled with Wisconsin fried cheese curds, fried mac and cheese, jumbo Bavarian pretezel, fried calimari and poke nachos. I tried calimari, poke, and ahi for the first time. The mini chocolate soufflé cake topped with vanilla ice cream that I had for dessert was divine.
 
-After dinner, a cake was brought out for a special recognition of the longtime service of DjangoCon US volunteer [Ken Whitesell](https://twitter.com/KenWhitesell). Thank you, Ken!
+After dinner, a cake was brought out for a special recognition of the longtime service of DjangoCon US volunteer [Ken Whitesell](https://x.com/KenWhitesell). Thank you, Ken!
 
 ![](djangocon-us-2019-recap-images/ken-being-honored.jpg)
 
@@ -113,7 +113,7 @@ What could be more timely than several deep-dive day talks grappling with these 
 
 #### The Natural State of Computers
 
-[Amber Brown](https://twitter.com/hawkieowl), maintainer, and longest standing contributor of the asynchronous networking framework Twisted, started the day with her keynote "[The Natural State of Computers](https://2019.djangocon.us/talk/keynote-amber-brown/)." 
+[Amber Brown](https://x.com/hawkieowl), maintainer, and longest standing contributor of the asynchronous networking framework Twisted, started the day with her keynote "[The Natural State of Computers](https://2019.djangocon.us/talk/keynote-amber-brown/)." 
 
 I was thrilled that morning when I met Amber at breakfast. 
 
@@ -127,11 +127,11 @@ Amber believes that computer performance is driving the async story. She said pr
 
 The tide started turning when async was added to Node. Languages can no longer opt out of async support. While the Python GIL prevents the problems created by multi-threading, it also makes it difficult to use multi-threading in Python. Async is an alternative and can improve the Python async story. 
 
-Amber gave a hat-tip to [Andrew Godwin](https://twitter.com/andrewgodwin) and other contributors who are bringing native async to Django. Amber said adding async to Django will bring async into the Python mainstream. The sky will be the limit. 
+Amber gave a hat-tip to [Andrew Godwin](https://x.com/andrewgodwin) and other contributors who are bringing native async to Django. Amber said adding async to Django will bring async into the Python mainstream. The sky will be the limit. 
 
 #### Async Django
 
-The Django community is embarking on one of the largest changes in Django's history: adding async support to Django core, led by [Andrew Godwin](https://twitter.com/andrewgodwin). 
+The Django community is embarking on one of the largest changes in Django's history: adding async support to Django core, led by [Andrew Godwin](https://x.com/andrewgodwin). 
 
 Andrew's deep-dive day talk "[Just Add Await: Retrofitting Async Into Django](https://2019.djangocon.us/talks/just-add-await-retrofitting-async-into/)" was definitely a highlight of the week for me.
 
@@ -151,11 +151,11 @@ Code development and maintenance are not cheap and an initiative of this scale n
 
 Andrew had a "Thanks" slide at the end of his talk, but the community should be thanking Andrew for his hard work in bringing async to Django!
 
-In addition to Andrew's talk, I highly recommend watching [Tom Christie](https://twitter.com/_tomchristie)'s DjangoCon Europe 2019 talk, "[Sketching Out a Django Redesign](https://www.youtube.com/watch?v=u8GSFEg5lnU)." Tom contrasted sync and async, explained the benefits of async and why it matters to the longterm success of Django, gave an overview of the ASGI landscape, and praised Andrew's plan of progressively adding async into the Django stack as very achieveable. He believes that while nothing beats Python for productivity, by adding the performance provided by async, Python will hit its sweet spot.
+In addition to Andrew's talk, I highly recommend watching [Tom Christie](https://x.com/_tomchristie)'s DjangoCon Europe 2019 talk, "[Sketching Out a Django Redesign](https://www.youtube.com/watch?v=u8GSFEg5lnU)." Tom contrasted sync and async, explained the benefits of async and why it matters to the longterm success of Django, gave an overview of the ASGI landscape, and praised Andrew's plan of progressively adding async into the Django stack as very achieveable. He believes that while nothing beats Python for productivity, by adding the performance provided by async, Python will hit its sweet spot.
 
 #### Python and WebAssembly
 
-In his talk "[WASM Matter](https://2019.djangocon.us/talks/wasm-matter/)," [Dr. Russell Keith-Magee](https://twitter.com/freakboy3742) talked about the emerging opportunity to use WebAssembly (WASM) to run Python code in the browser. 
+In his talk "[WASM Matter](https://2019.djangocon.us/talks/wasm-matter/)," [Dr. Russell Keith-Magee](https://x.com/freakboy3742) talked about the emerging opportunity to use WebAssembly (WASM) to run Python code in the browser. 
 
 Russell told the story of Java and JavaScript. In the mid-90s, Java promised to be the language you could write once and run everywhere, replacing all other programming languages. JavaScript was invented around the same time. Unlike Java, and Python, JavaScript didn't have a standardized byte code format or virtual machine that would make it cross platform. It just worked in the browser. Because of the importance of the browser, developers have tried to "reinvent the universe" using JavaScript. This might have given the appearance that JavaScript would one day become the universal language Java once promised to be. But rather than one language being universal, it might be that the JavaScript runtime becomes universal for programming languages through the use of WASM.
 
@@ -174,16 +174,16 @@ For a view of the larger picture of the "Black Swan" challenges facing the Pytho
 
 In addition, several stellar talks further explained important aspects of the Django framework itself:
 
-* [Using Django as a Micro-Framework: Hacking on the HTTP handlers and middleware (for fun and profit)](https://2019.djangocon.us/talks/using-django-as-a-micro-framework-on-the/) by [Carlton Gibson](https://twitter.com/carltongibson)
+* [Using Django as a Micro-Framework: Hacking on the HTTP handlers and middleware (for fun and profit)](https://2019.djangocon.us/talks/using-django-as-a-micro-framework-on-the/) by [Carlton Gibson](https://x.com/carltongibson)
 * [The Ins and Outs of Model Inheritance](https://2019.djangocon.us/talks/the-ins-and-outs-of-model-inheritance/) by [Blythe J Dunham](https://github.com/blythedunham/)
-* [Generic View? What is that and why would I use it?](https://2019.djangocon.us/talks/generic-view-what-is-that-and-why-would/) by [Felipe Lee](https://twitter.com/felipeleeg)
-* [Understanding Django authentication](https://2019.djangocon.us/talks/understanding-django-authentication/) by [Renato Oliveira](https://twitter.com/_renatooliveira)
+* [Generic View? What is that and why would I use it?](https://2019.djangocon.us/talks/generic-view-what-is-that-and-why-would/) by [Felipe Lee](https://x.com/felipeleeg)
+* [Understanding Django authentication](https://2019.djangocon.us/talks/understanding-django-authentication/) by [Renato Oliveira](https://x.com/_renatooliveira)
 
 #### Deep-Dive Day Wrap Up
 
-Deep-dive day ended with [Frank Wiles](https://twitter.com/fwiles) making a call to action for corporate sponsorship of [Django Software Foundation](https://www.djangoproject.com/foundation/).
+Deep-dive day ended with [Frank Wiles](https://x.com/fwiles) making a call to action for corporate sponsorship of [Django Software Foundation](https://www.djangoproject.com/foundation/).
 
-Conference Chair [Jessica Deatz](https://twitter.com/__deatz__) and Co-Chair [Sara Gore](https://twitter.com/saradgore) then gave the conference closing comments and were presented with special framed photos in appreciation for their hard work.
+Conference Chair [Jessica Deatz](https://x.com/__deatz__) and Co-Chair [Sara Gore](https://x.com/saradgore) then gave the conference closing comments and were presented with special framed photos in appreciation for their hard work.
 
 ![](djangocon-us-2019-recap-images/jessica-and-sara.jpg)
 
@@ -205,13 +205,13 @@ Later in the day, I made [my first PR](https://github.com/django/django/pull/118
 
 In the PR, I [added django-docker-box to the Django docs](https://docs.djangoproject.com/en/2.2/internals/contributing/writing-code/unit-tests/#running-tests-using-django-docker-box) as an installation option. Hopefully, drawing attention to this option will have a big impact in making the local setup process easier for others.
 
-Due to a sick computer and conference travel, Django Fellow [Mariusz Felisiak](https://twitter.com/MariuszFelisiak) assisted me in updating and merging this important PR. I'm proud to have left the campground better than I found it, as my friend Jeff would say.
+Due to a sick computer and conference travel, Django Fellow [Mariusz Felisiak](https://x.com/MariuszFelisiak) assisted me in updating and merging this important PR. I'm proud to have left the campground better than I found it, as my friend Jeff would say.
 
 The [workshop notes](https://github.com/carltongibson/djangocon-sprints) are open source for anyone who would like to use them to contribute!
 
-A special shoutout to Django Core Dev [Chris Beaven](https://twitter.com/SmileyChris) of Lincoln Loop who personally assisted people at my table with troubleshooting.
+A special shoutout to Django Core Dev [Chris Beaven](https://x.com/SmileyChris) of Lincoln Loop who personally assisted people at my table with troubleshooting.
 
-The Sprints also included an "[Intro to Contributing to Open Source](https://2019.djangocon.us/intro-contributing-open-source/)" workshop led by [Jeffrey Eliasen](https://twitter.com/jeffreyeliasen), as well as a Git Help Desk.
+The Sprints also included an "[Intro to Contributing to Open Source](https://2019.djangocon.us/intro-contributing-open-source/)" workshop led by [Jeffrey Eliasen](https://x.com/jeffreyeliasen), as well as a Git Help Desk.
 
 ### Sight Seeing
 
@@ -275,7 +275,7 @@ View of the Midway Hangar Deck from the Navigation Bridge; photo credit: Katheri
 
 View of the San Diego skyline from harbor cruise; photo credit: Katherine Michel
 
-That night, I went to the [Taco Stand](http://downtown.letstaco.com/) where I enjoyed a Carne Asada Taco and Grilled Pescado Taco (Mahi Mahi). I had never had a fish taco before. The combination of grilled fish, cabbage, and chipotle sauce was delicious in a way I hadn't anticipated. Thank you to [Trey Hunner](https://twitter.com/treyhunner) for one of many great recommendations.
+That night, I went to the [Taco Stand](http://downtown.letstaco.com/) where I enjoyed a Carne Asada Taco and Grilled Pescado Taco (Mahi Mahi). I had never had a fish taco before. The combination of grilled fish, cabbage, and chipotle sauce was delicious in a way I hadn't anticipated. Thank you to [Trey Hunner](https://x.com/treyhunner) for one of many great recommendations.
 
 ![](djangocon-us-2019-recap-images/taco-stand.jpg)
 
@@ -291,7 +291,7 @@ Delicious Salt and Straw ice cream; photo credit: Katherine Michel
 
 If you enjoyed this blog post, you might enjoy reading my [PyCon US 2019 blog post](https://eldarion.com/blog/2019/06/01/recap-pycon-us-2019/), or watching the replay of the DjangoCon US 2018 "[State of Django](https://2018.djangocon.us/talk/state-of-django-panel/)" panel, in which several DEFNA Board Members, including myself, and other community members talk about our efforts.
 
-My DjangoCon experience couldn't have been better. I learned a ton, networked with friends new and old, and had some once-in-a-lifetime sight seeing moments. Thank you to Chair [Jessica Deatz](https://twitter.com/__deatz__), Co-Chair [Sara Gore](https://twitter.com/saradgore), and all of the organizers, speakers, and attendees who made DjangoCon US 2019 a special conference.
+My DjangoCon experience couldn't have been better. I learned a ton, networked with friends new and old, and had some once-in-a-lifetime sight seeing moments. Thank you to Chair [Jessica Deatz](https://x.com/__deatz__), Co-Chair [Sara Gore](https://x.com/saradgore), and all of the organizers, speakers, and attendees who made DjangoCon US 2019 a special conference.
 
 Join us next year... ?
 
