@@ -279,7 +279,7 @@ Interviews many of the movers and shakers of our time
 * [Lex Fridman](https://www.youtube.com/c/lexfridman)
 
 An incredible example of hustle. His podcast put him on the map and helped him launch a career in VC, no small feat. Outstanding guests. 
-* [The 20 Minute VC](https://www.thetwentyminutevc.com/podcast/)
+* [The 20 Minute VC](https://www.thetwentyminutevc.com/20vc)
 
 ## Certifications
 
