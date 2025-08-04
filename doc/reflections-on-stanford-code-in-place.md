@@ -191,4 +191,4 @@ In the past few months, I've also overseen an epic new [Pinax](https://github.co
 
 ## Contact Me
 
-Have questions or comments? I can be reached at kthrnmichel@gmail.com or on Twitter [@KatiMichel](https://twitter.com/KatiMichel).
+Have questions or comments? I can be reached at kthrnmichel@gmail.com or on Twitter [@KatiMichel](https://x.com/KatiMichel).
