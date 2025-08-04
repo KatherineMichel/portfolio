@@ -120,7 +120,7 @@ On my last full day of PyCon, I left the sprints to spend a large part of the da
 
 The Beatles Exhibit at the Rock and Roll Hall of Fame Museum; photo credit; Katherine Michel
 
-On Wednesday, my last evening in Cleveland, being invited to eat at [Flannery’s Irish Pub](https://www.flannerys.com/) with a group of CPython Core Devs and other Pythonistas was a wonderful way to end a magical week.
+On Wednesday, my last evening in Cleveland, being invited to eat at [Flannery’s Irish Pub](https://flannerys.com/) with a group of CPython Core Devs and other Pythonistas was a wonderful way to end a magical week.
 
 ### It’s Not the End
 
