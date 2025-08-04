@@ -55,7 +55,7 @@ PSF Security Developer-in-Residence
 * [Seth M Larson](https://sethmlarson.dev/) &#128736;
 
 Podcast by CPython Release Manager Pablo Galindo and CPython Developer-in-Residence Łukasz Langa
-* [core.py Podcast](https://podcasters.spotify.com/pod/show/corepy/) &#128736;
+* [core.py Podcast](https://creators.spotify.com/pod/profile/corepy/) &#128736;
 
 CPython Core Dev and Microsoft faster CPython team member
 * [Brett Cannon](https://snarky.ca/)
