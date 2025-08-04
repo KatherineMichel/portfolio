@@ -395,7 +395,7 @@ What if we could safety share state between the subinterpreters with the potenti
 ![](pycon-us-2024-recap-images/yury-shared-state-no-pickle.png)
 Safe shared state... no pickle
 
-Yury has created a minimal library called [memhive](https://github.com/edgedb/memhive) that enables efficient data sharing between isolated subinterpreters.
+Yury has created a minimal library called [memhive](https://github.com/geldata/memhive) that enables efficient data sharing between isolated subinterpreters.
 
 He showed a code snippet. 
 
