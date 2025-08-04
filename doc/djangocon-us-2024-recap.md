@@ -359,7 +359,7 @@ Django System Checks Framework
 ![](djangocon-us-2024-recap-images/jack-django-systems-check-framework.png)
 
 He then moved on to some third-party packages and tools
-* [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) (also extensible)
+* [django-debug-toolbar](https://github.com/django-commons/django-debug-toolbar) (also extensible)
 * [django-silk](https://github.com/jazzband/django-silk) performance profiler
 * Error tracking and performance monitoring- Sentry, Rollbar, Newrelic, Honeybadger, Bugsnag, Raygun
 * He gave a demo of [Sentry](https://sentry.io/welcome/) dashboard with error page, error message, tags
