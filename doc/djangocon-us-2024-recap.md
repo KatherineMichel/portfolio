@@ -653,7 +653,7 @@ Me and Simon (photo credit: Django Fellow Natalia Bidart)
 
 ### The Boxcar Bar and Arcade
 
-After the speaker/organizer dinner, [Six Feet Up](https://www.sixfeetup.com/) hosted a Mario Kart competition across the street at [The Boxcar Bar and Arcade](https://theboxcarbar.com/). 
+After the speaker/organizer dinner, [Six Feet Up](https://sixfeetup.com/) hosted a Mario Kart competition across the street at [The Boxcar Bar and Arcade](https://theboxcarbar.com/). 
 
 I spotted a few favorite old school games too: Super Pac-Man, Ms. Pac-Man, Donkey Kong, BurgerTime, Frogger. 
 
