@@ -200,7 +200,7 @@ As a fellow Lawrence native, Elizabeth seems to be hoping for a Lawrence Django 
 
 At the PostgreSQL community booth, I obtained some learning resources, including a paper version of [PostgreSQL FAQs](https://www.postgresql.org/about/press/faq/).
 
-At the [Coiled](https://www.coiled.io/) booth, I learned about using Dask for parallel computing. Dask was a projects cited in the Measuring the performance of CPython. 
+At the [Coiled](https://coiled.io/) booth, I learned about using Dask for parallel computing. Dask was a projects cited in the Measuring the performance of CPython. 
 
 ![](pycon-us-2024-recap-images/swag.jpg)
 EdgeDB, Oracle, Dask, Streamlit socks, MongoDB socks? 
