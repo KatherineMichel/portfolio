@@ -90,7 +90,7 @@ The portrait of Guido being carried around by PyLadies; photo credit: Katherine 
 
 On Sunday, I attended the [PyLadies Lunch](https://us.pycon.org/2019/events/pyladieslunch/). The lunch was a time to meet in a fun, relaxed atmosphere to network and share common experiences. Throughout the lunch, women went to the front of the room and shared things they had done that they were proud of. Too often, women downplay their accomplishments. This was a time to celebrate ourselves and applaud one another!
 
-After the PyLadies Lunch, I walked from the convention center a few blocks to take a [30 minute self-guided tour of the Terminal Tower Observation Deck](https://www.eventbrite.com/e/terminal-tower-observation-deck-self-guided-tour-tickets-33127241471). When I was researching the sights around Cleveland, I’d had a hunch that I would enjoy seeing the Cleveland skyline from the top of this famous landmark and I did!
+After the PyLadies Lunch, I walked from the convention center a few blocks to take a [30 minute self-guided tour of the Terminal Tower Observation Deck](https://www.eventbrite.com/e/terminal-tower-observation-deck-self-guided-tour-registration-33127241471). When I was researching the sights around Cleveland, I’d had a hunch that I would enjoy seeing the Cleveland skyline from the top of this famous landmark and I did!
 
 ![](pycon-us-2019-recap-images/terminal-tower.jpg)
 
