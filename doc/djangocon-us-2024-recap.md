@@ -976,7 +976,7 @@ The Can Opener
 
 ### 21c Museum Hotel
 
-Last year, I didn't make it to the [21c Museum Hotel](https://www.21cmuseumhotels.com/) to see the hotel's signature artwork, so I thought it would be a fun experience this year. I was particularly taken by the see-into bathrooms. Also, the bank vault was a fun throwback to the hotel's past as a bank. 
+Last year, I didn't make it to the [21c Museum Hotel](https://21cmuseumhotels.com/) to see the hotel's signature artwork, so I thought it would be a fun experience this year. I was particularly taken by the see-into bathrooms. Also, the bank vault was a fun throwback to the hotel's past as a bank. 
 
 [Video of 21c Museum Hotel See-Into Bathroom](https://youtu.be/yeOEAycUvIQ)
 
