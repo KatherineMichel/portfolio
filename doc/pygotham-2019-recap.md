@@ -24,9 +24,9 @@ I felt this call-to-action in several ways:
 
 In addition to open captioning, every PyGotham talk was interpeted in [American Sign Language](https://2019.pygotham.org/about/accessibility/#hearing-accessibility). 
 
-The three keynotes, "[Python Use Spectrum](https://2019.pygotham.org/talks/keynote-the-python-use-spectrum/)" by Kojo Idrissa, "[Accepting your successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/)" by [Piper Thunstrom](https://twitter.com/pathunstrom), and "[Because Equity: Python FTW](https://2019.pygotham.org/talks/keynote-because-equity-python-ftw/)" by [Meg Ray](https://twitter.com/teach_python), were about welcoming people on the fringes into the community and making them feel valued, for the greater good of all.
+The three keynotes, "[Python Use Spectrum](https://2019.pygotham.org/talks/keynote-the-python-use-spectrum/)" by Kojo Idrissa, "[Accepting your successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/)" by [Piper Thunstrom](https://x.com/pathunstrom), and "[Because Equity: Python FTW](https://2019.pygotham.org/talks/keynote-because-equity-python-ftw/)" by [Meg Ray](https://x.com/teach_python), were about welcoming people on the fringes into the community and making them feel valued, for the greater good of all.
 
-I felt inspired by a talk by [Froi Irizarry Rivera](https://twitter.com/froidotdev) and [José Padilla](https://twitter.com/jpadilla_) called "[Python, Governments, and Contracts](https://2019.pygotham.org/talks/python-governments-and-contracts/)," in which they told of their feeling of helplessness as they watched a hurricane ravage Puerto Rico and how they had spontaneously channeled their frustration into an appeal for grassroots volunteers who have now created powerful tools to root out corruption.
+I felt inspired by a talk by [Froi Irizarry Rivera](https://x.com/froidotdev) and [José Padilla](https://x.com/jpadilla_) called "[Python, Governments, and Contracts](https://2019.pygotham.org/talks/python-governments-and-contracts/)," in which they told of their feeling of helplessness as they watched a hurricane ravage Puerto Rico and how they had spontaneously channeled their frustration into an appeal for grassroots volunteers who have now created powerful tools to root out corruption.
 
 And during my own visit to the [Statue of Liberty](https://en.wikipedia.org/wiki/Statue_of_Liberty) and [Ellis Island](https://en.wikipedia.org/wiki/Ellis_Island), I watched Ranger Jenn re-enact the impassioned stories of people who had arrived at Ellis Island as prospective immigrants. She told of the extreme adversity many had faced to be accepted in the United States. More about that later in this blog post.
 
@@ -34,7 +34,7 @@ All converged into one interwoven experience that felt very fitting in such a di
 
 ### A Note About American Sign Language at PyGotham
 
-Approximately a month before PyGotham, I attended an event at [Strange Loop](https://www.thestrangeloop.com/) conference in St. Louis where a deaf woman named [Mel Chua](https://twitter.com/mchua) was a featured speaker. Mel is an electrical computer engineer with a background in free open-source software (FOSS), large-scale distributed engineering team collaboration, and engineering education culture. 
+Approximately a month before PyGotham, I attended an event at [Strange Loop](https://www.thestrangeloop.com/) conference in St. Louis where a deaf woman named [Mel Chua](https://x.com/mchua) was a featured speaker. Mel is an electrical computer engineer with a background in free open-source software (FOSS), large-scale distributed engineering team collaboration, and engineering education culture. 
 
 Mel told her story, primarily through American Sign Language. I'm embarrassed to say, this was the first time I can remember ever having seen sign language interpretation happen in real life. 
 
@@ -44,7 +44,7 @@ Mel gave a call to action during her message, to see tech as one culture. "Let�
 
 After having heard Mel's powerful message at Strange Loop, it made me happy to see her at PyGotham, along with a group of other deaf developers, making use of the services of the American Sign Language interpreters.
 
-[A. Jesse Jiryu Davis](https://twitter.com/jessejiryudavis) wrote "[PyGotham 2019's ASL and Live Captioning Playbook](https://emptysqua.re/blog/pygotham-2019-asl-live-captioning-playbook/)" in the hopes that it will be used to make other conferences accessible for the Deaf and hard-of-hearing.
+[A. Jesse Jiryu Davis](https://x.com/jessejiryudavis) wrote "[PyGotham 2019's ASL and Live Captioning Playbook](https://emptysqua.re/blog/pygotham-2019-asl-live-captioning-playbook/)" in the hopes that it will be used to make other conferences accessible for the Deaf and hard-of-hearing.
 
 ![](pygotham-2019-recap-images/members-of-the-deaf-community.jpg)
 
@@ -88,15 +88,15 @@ Kojo Idrissa; photo credit: Casey Faist (used with permission)
 
 As a [Pinax](https://github.com/pinax) Maintainer, I find that talks I can apply to my work particularly resonate with me. There were several such talks on Friday.
 
-[Hynek Schlawack](https://twitter.com/hynek) is a CPython Core Developer and maintainer of many open-source projects. In his talk, "[Maintaining a Python Project When It's Not Your Job](https://2019.pygotham.org/talks/maintaining-a-python-project-when-its-not-your-job/)," Hynek explained how a maintainer with limited time can publish a high quality Python package, that as much as possible leverages the contributions of others. Even though the title suggests it's for volunteer maintainers, the talk included lessons that could be useful to just about any maintainer. Hynek has made a fine science out of creating a welcoming environment for all prospective contributors, removing the fiction from the contribution process, and automating the package continuous integration and release process. This process has also been helpfully documented in an [outline on his blog](https://hynek.me/talks/python-foss/). I particularly liked that the talk went beyond a list of tips, to focus more on the psychology of motivation and time, and the tools and configurations he uses.
+[Hynek Schlawack](https://x.com/hynek) is a CPython Core Developer and maintainer of many open-source projects. In his talk, "[Maintaining a Python Project When It's Not Your Job](https://2019.pygotham.org/talks/maintaining-a-python-project-when-its-not-your-job/)," Hynek explained how a maintainer with limited time can publish a high quality Python package, that as much as possible leverages the contributions of others. Even though the title suggests it's for volunteer maintainers, the talk included lessons that could be useful to just about any maintainer. Hynek has made a fine science out of creating a welcoming environment for all prospective contributors, removing the fiction from the contribution process, and automating the package continuous integration and release process. This process has also been helpfully documented in an [outline on his blog](https://hynek.me/talks/python-foss/). I particularly liked that the talk went beyond a list of tips, to focus more on the psychology of motivation and time, and the tools and configurations he uses.
 
-I found myself completely engrossed in [Mason Egger](https://twitter.com/masonegger)'s high-energy talk, "[Building Docs Like Code: Continuous Integration for Documentation](https://2019.pygotham.org/talks/building-docs-like-code-continuous-integration-for-documentation/)." Mason is a self-described "documentation fanatic" who believes that developers dislike writing code because they have to context-switch out of the code writing tools that they love in order to write docs in a workflow they don't love. Empowering developers to document within a workflow they already know and love can result in beautiful, uniform docs. Mason believes we should treat documentation like code... store it in version control alongside the code it documents, write it with markup language, review and test it with the same granularity as code to ensure it is accurate and functional, and auto-publish it. Mason did a review of documentation types and tools, including [Sphinx](https://www.sphinx-doc.org/en/master/) and [MkDocs](https://www.mkdocs.org/). He also gave a case study and demo showing how he created a docs pipeline.
+I found myself completely engrossed in [Mason Egger](https://x.com/masonegger)'s high-energy talk, "[Building Docs Like Code: Continuous Integration for Documentation](https://2019.pygotham.org/talks/building-docs-like-code-continuous-integration-for-documentation/)." Mason is a self-described "documentation fanatic" who believes that developers dislike writing code because they have to context-switch out of the code writing tools that they love in order to write docs in a workflow they don't love. Empowering developers to document within a workflow they already know and love can result in beautiful, uniform docs. Mason believes we should treat documentation like code... store it in version control alongside the code it documents, write it with markup language, review and test it with the same granularity as code to ensure it is accurate and functional, and auto-publish it. Mason did a review of documentation types and tools, including [Sphinx](https://www.sphinx-doc.org/en/master/) and [MkDocs](https://www.mkdocs.org/). He also gave a case study and demo showing how he created a docs pipeline.
 
-Going on at the same time as Mason Egger's talk was "[How I Solved my NYC Parking Problem with Python](https://2019.pygotham.org/talks/how-i-solved-my-nyc-parking-problem-with-python/)," by [Jessica Garson](https://twitter.com/jessicagarson). I was particularly interested in this talk because Jessica created a fun app to solve her own problem, something I'd like to do more of myself. Jessica lives in Brooklyn and used to have a car. Because of alternate side of the street parking restrictions, every night at 9 o'clock, she would move her car to avoid an expensive parking ticket. She was spending a lot of time looking for a new parking space, sometimes overlooking that she didn't need to, due to a holiday. So, she built an app that would let her know when she didn't need to move her car! Twice a day, a cron job runs the app. Using a [Twitter Premium Search endpoint](https://developer.twitter.com/en/docs/tweets/search/api-reference/premium-search), when the words "suspended" and "tomorrow" show up in a tweet from the [NYC Alt Side Parking Twitter account](https://twitter.com/NYCASP), [Twilio](https://www.twilio.com/) sends her a text message letting her know she doesn't need to re-park. Very cool! 
+Going on at the same time as Mason Egger's talk was "[How I Solved my NYC Parking Problem with Python](https://2019.pygotham.org/talks/how-i-solved-my-nyc-parking-problem-with-python/)," by [Jessica Garson](https://x.com/jessicagarson). I was particularly interested in this talk because Jessica created a fun app to solve her own problem, something I'd like to do more of myself. Jessica lives in Brooklyn and used to have a car. Because of alternate side of the street parking restrictions, every night at 9 o'clock, she would move her car to avoid an expensive parking ticket. She was spending a lot of time looking for a new parking space, sometimes overlooking that she didn't need to, due to a holiday. So, she built an app that would let her know when she didn't need to move her car! Twice a day, a cron job runs the app. Using a [Twitter Premium Search endpoint](https://developer.twitter.com/en/docs/tweets/search/api-reference/premium-search), when the words "suspended" and "tomorrow" show up in a tweet from the [NYC Alt Side Parking Twitter account](https://x.com/NYCASP), [Twilio](https://www.twilio.com/) sends her a text message letting her know she doesn't need to re-park. Very cool! 
 
 ### Accepting Your Successes
 
-Saturday kicked off with a keynote by [Piper Thunstrom](https://twitter.com/pathunstrom): "[Accepting your successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/)." 
+Saturday kicked off with a keynote by [Piper Thunstrom](https://x.com/pathunstrom): "[Accepting your successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/)." 
 
 ![](pygotham-2019-recap-images/piper-accepting-your-success.png)
 
@@ -122,7 +122,7 @@ If you're struggling with your mental health: you're not alone. Don't be afraid 
 
 ### Python, Governments, and Contracts
 
-On Saturday, I spent a lot of time in the "hallway track." But there was one talk I did attend that I found particularly important. It was "[Python, Governments, and Contracts](https://2019.pygotham.org/talks/python-governments-and-contracts/)," by [Froi Irizarry Rivera](https://twitter.com/froidotdev) and [José Padilla](https://twitter.com/jpadilla_).
+On Saturday, I spent a lot of time in the "hallway track." But there was one talk I did attend that I found particularly important. It was "[Python, Governments, and Contracts](https://2019.pygotham.org/talks/python-governments-and-contracts/)," by [Froi Irizarry Rivera](https://x.com/froidotdev) and [José Padilla](https://x.com/jpadilla_).
 
 In 2017, Hurricane Maria, a category 4 storm, made landfall in Puerto Rico and devastated the island. Feeling helpless as they worried about their families back home, Froi and José decided to do something. They started the [Maria Tech Brigade](https://github.com/SoPR/maria-tech-brigade-effort). In two or three weeks, through grassroots organizing, they were 300 volunteers strong.
 
@@ -150,7 +150,7 @@ If you are interested in the project or would like to contribute, reach out to t
 
 ### Closing Keynote
 
-The conference closed with a keynote by [Meg Ray](https://twitter.com/teach_python): "[Because Equity: Python FTW](https://2019.pygotham.org/talks/keynote-because-equity-python-ftw/)."
+The conference closed with a keynote by [Meg Ray](https://x.com/teach_python): "[Because Equity: Python FTW](https://2019.pygotham.org/talks/keynote-because-equity-python-ftw/)."
 
 Meg's keynote at PyGotham was very timely. She had recently been [awarded a PSF education grant](https://pyfound.blogspot.com/2019/09/grants-awarded-for-python-in-education.html) to create an open-source, PSF landing site for Python education. Meg wants to bring together Pythonistas who are interested in education and educators interested in Python. And she's looking for contributors! Reach out to her if you are interested.
 
@@ -192,7 +192,7 @@ At the end of the talk, Meg gave a call to action for community members to advoc
 
 As usual, the "hallway track" was an invaluable opportunity to network. The connections made were too numerous to list all, but here are a few highlights:
 
-It was a pleasure to chat with PSF Director [Lorena Mesa](https://twitter.com/loooorenanicole) about PSF diversity initiatives, and meet for the first time PyCon US 2019 and 2020 Financial Co-Chair [Jigyasa Grover](https://twitter.com/jigyasa_grover).
+It was a pleasure to chat with PSF Director [Lorena Mesa](https://x.com/loooorenanicole) about PSF diversity initiatives, and meet for the first time PyCon US 2019 and 2020 Financial Co-Chair [Jigyasa Grover](https://x.com/jigyasa_grover).
 
 While mentioning to Meg Ray that perhaps there were some lessons in her talk that I could apply to my work as an open-source maintainer, we arranged for her to pick my brain about my experiences as [DjangoCon US Website](https://2019.djangocon.us/) Chair and Co-Chair and [Pinax](https://github.com/pinax) Maintainer as she embarks on the new open-source PSF Education landing page. 
 
@@ -358,7 +358,7 @@ It was an experience of a lifetime.
 
 ### Thank You
 
-PyGotham was yet another life-changing conference. Thank you to Conference Chair [Jon Banafato](https://twitter.com/jonafato) and all of the organizers who put so much hard work and planning into making it a wonderful event. Looking forward to next time!
+PyGotham was yet another life-changing conference. Thank you to Conference Chair [Jon Banafato](https://x.com/jonafato) and all of the organizers who put so much hard work and planning into making it a wonderful event. Looking forward to next time!
 
 ![](pygotham-2019-recap-images/i-love-nyc.jpg)
 
