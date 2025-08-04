@@ -151,7 +151,7 @@ Unscripted rooftop pool
 
 ### Black Python Devs Leadership Summit
 
-It was an honor to have been invited to attend the [Black Python Devs Leadership Summit](https://blackpythondevs.com/bpd-events/black-python-devs-leadership-summit.html) as a distinguished guest. 
+It was an honor to have been invited to attend the [Black Python Devs Leadership Summit](https://blackpythondevs.com/blog/black-python-devs-leadership-summit.html) as a distinguished guest. 
 
 The event took place at the Caktus office. I attended the afternoon session. 
 
