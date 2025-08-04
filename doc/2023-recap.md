@@ -58,7 +58,7 @@ I am looking forward to seeing the new connections yet to come.
 
 ## Diversity and Inclusion
 
-During the second quarter, I completed a JPMorgan Chase [Women on the Move](https://www.jpmorganchase.com/impact/people/women-on-the-move) (WoTM) Career Development Program. This outstanding program featured high impact modules on subjects such as fixed versus growth mindset, skill inventory, and an outstanding negotiation workshop led by Kathryn Valentine of [Worthmore Strategies](https://worthmorestrategies.com/). 
+During the second quarter, I completed a JPMorgan Chase [Women on the Move](https://www.jpmorganchase.com/about/diversity-opportunity-and-inclusion) (WoTM) Career Development Program. This outstanding program featured high impact modules on subjects such as fixed versus growth mindset, skill inventory, and an outstanding negotiation workshop led by Kathryn Valentine of [Worthmore Strategies](https://worthmorestrategies.com/). 
 
 Throughout the year, I had the opportunity to attend a number of powerful, internal WoTM and Take It Forward (TIF) events. 
 
