@@ -4,7 +4,7 @@ In the spirit of building in public and using accountability to improve, I decid
 
 ## pugdebug PyPI Package
 
-I learned a great deal about packaging recently while overseeing a Pinax release. It was a fun exercise to use some of that knowledge to create the packaging configs for an app called [pugdebug](https://github.com/Mte90/pugdebug/) and test publish and install it. The project was fairly straight forward, which meant that the script could be relatively simple. Based on a [tweet](https://twitter.com/di_codes/status/1306234847812354050) by Dustin Ingram, I used the official PyPA Sample Project as a starting point. Check out the [setup.py](https://github.com/pypa/sampleproject/blob/master/setup.py) file in that project to see some of the other commonly used, optional arguments. :) 
+I learned a great deal about packaging recently while overseeing a Pinax release. It was a fun exercise to use some of that knowledge to create the packaging configs for an app called [pugdebug](https://github.com/Mte90/pugdebug/) and test publish and install it. The project was fairly straight forward, which meant that the script could be relatively simple. Based on a [tweet](https://x.com/di_codes/status/1306234847812354050) by Dustin Ingram, I used the official PyPA Sample Project as a starting point. Check out the [setup.py](https://github.com/pypa/sampleproject/blob/master/setup.py) file in that project to see some of the other commonly used, optional arguments. :) 
 
 * Issue: https://github.com/Mte90/pugdebug/issues/9
 * PR: https://github.com/Mte90/pugdebug/pull/13
