@@ -180,7 +180,7 @@ Students need to be motivated to pursue programming. Making kids sit at computer
 
 Holistically, schools can create a longterm path for every student by offering diverse on-ramps for beginners, not one set path. A sense of belonging should be created immediately and fostered intentionally for the longterm.
 
-Meg also gave a few tips from the "[Zen of Python Education](https://www.slideshare.net/MegRay2/the-zen-of-python-open-education-resources-creating-resources-that-work)" talk she gave at PyCon 2019. 
+Meg also gave a few tips from the "[Zen of Python Education](https://www.slideshare.net/slideshow/the-zen-of-python-open-education-resources-creating-resources-that-work/143229814)" talk she gave at PyCon 2019. 
 
 ![](pygotham-2019-recap-images/meg-the-zen-of-python-education.png)
 
