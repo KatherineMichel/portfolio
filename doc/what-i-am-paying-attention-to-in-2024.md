@@ -252,7 +252,7 @@ An instant classic by the excellent Morgan Housel
 ## Transformational Leadership
 
 A colleague made me aware of the concept of [Transformational Leadership](https://en.wikipedia.org/wiki/Transformational_leadership). I love this graphic that categorizes leadership versus management. I hope to incorporate more leadership into my work to empower my colleagues. 
-* [Leadership versus Management](https://www.linkedin.com/posts/marcus-koehnlein_leadership-management-organization-activity-7070036302271762432-Hhly/?) &#x2713;
+* [Leadership versus Management](https://www.linkedin.com/posts/marcus-koehnlein_leadership-management-organization-activity-7070036302271762432-Hhly/) &#x2713;
 
 ## Agile and Scrum
 
