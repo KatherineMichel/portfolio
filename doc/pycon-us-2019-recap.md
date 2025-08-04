@@ -114,7 +114,7 @@ Mariatta and I taking a selfie for her self-care Selfie Sprint!
 
 Throughout the week, I had the chance to meet a number of CPython and Django Core Devs for the first time, including [Cheryl Sabella](https://x.com/cherylsabella) and [Emily Morehouse-Valcarcel](https://x.com/emilyemorehouse). I’m particularly excited to see the rapid progress happening in CPython gender diversity now that it’s a priority.
 
-On my last full day of PyCon, I left the sprints to spend a large part of the day at the [Rock and Roll Hall of Fame Museum](https://www.rockhall.com/). The museum has an incredible collection of rock and roll memorabilia and I highly recommend going, if you get the chance. A few of my favorite items were John Lennon and Paul McCartney’s In My Life handwritten lyrics and Hey Jude descriptive score, Elvis Presley’s gold lamé suit, and Michael Jackson’s Dangerous Tour “Billie Jean” glove.
+On my last full day of PyCon, I left the sprints to spend a large part of the day at the [Rock and Roll Hall of Fame Museum](https://rockhall.com/). The museum has an incredible collection of rock and roll memorabilia and I highly recommend going, if you get the chance. A few of my favorite items were John Lennon and Paul McCartney’s In My Life handwritten lyrics and Hey Jude descriptive score, Elvis Presley’s gold lamé suit, and Michael Jackson’s Dangerous Tour “Billie Jean” glove.
 
 ![](pycon-us-2019-recap-images/rock-and-roll-hall-of-fame.jpg)
 
