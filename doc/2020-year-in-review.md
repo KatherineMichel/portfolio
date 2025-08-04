@@ -1,6 +1,6 @@
 # 2020 Year in Review
 
-Thank you to [Dawn Wages](https://twitter.com/DawnWagesSays/status/1337212013014110209) for inspiring me to do a Year in Review blog post! 
+Thank you to [Dawn Wages](https://x.com/DawnWagesSays/status/1337212013014110209) for inspiring me to do a Year in Review blog post! 
 
 ## TL;DR
 
@@ -69,7 +69,7 @@ I've enjoyed having the opportunity to attend a few online conferences and meetu
 
 ## Stanford Code in Place and 100 Days of Code
 
-In late March, while I was looking through my Twitter news feed, I came across a [tweet](https://twitter.com/chrispiech/status/1244692768431038473) about a one-time [Python](https://www.python.org/) programming course called Stanford Code in Place. 
+In late March, while I was looking through my Twitter news feed, I came across a [tweet](https://x.com/chrispiech/status/1244692768431038473) about a one-time [Python](https://www.python.org/) programming course called Stanford Code in Place. 
 
 [Mehran Sahami](http://robotics.stanford.edu/users/sahami/bio.html) and [Chris Piech](https://stanford.edu/~cpiech/bio/index.html) teach Stanford's introductory Python course CS106A. Because of shelter-in-place, they decided to open the course to the public. They would teach the traditional CS106A version and public Code in Place version simultaneously.
 
@@ -94,7 +94,7 @@ One of my goals for this release was to make it easier for people to get started
 
 Notably, in this release, support was dropped for Python 2.7, and support was added for Python 3.6+ and Django 3.0.
 
-A number of people contributed to the release in many different and important ways, but I couldn't have finished the release without the generous contribution of [Mfon Eti-mfon](https://twitter.com/mfonism). 
+A number of people contributed to the release in many different and important ways, but I couldn't have finished the release without the generous contribution of [Mfon Eti-mfon](https://x.com/mfonism). 
 
 As a first time contributor, Mfon provided expertise in dropping Python 2 support, dropped and added support for Python and Django versions in 14 apps, including Django User Accounts, and created a script to automate the addition of contributors to the AUTHORS files. He also reviewed all of the code changes with me, to ensure that the best choices were made. I'm so grateful for the contributions that he made to the Pinax release and I'm thrilled that he was recently elected to the [Django Software Foundation Board](https://www.djangoproject.com/weblog/2020/dec/10/2021-dsf-board-election-results/).
 
