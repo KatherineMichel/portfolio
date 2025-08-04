@@ -558,7 +558,7 @@ More useful to me resources
 
 ### django-mongodb
 
-After Jacob Kaplan-Moss referenced [django-mongodb](https://github.com/mongodb-labs/django-mongodb) in his presentation Q&A, I chatted with co-creator Jib Adegunloye. He explained the architecture and verified that it will support joins. He gave a lightning talk about it soon thereafter. 
+After Jacob Kaplan-Moss referenced [django-mongodb](https://github.com/mongodb/django-mongodb-backend) in his presentation Q&A, I chatted with co-creator Jib Adegunloye. He explained the architecture and verified that it will support joins. He gave a lightning talk about it soon thereafter. 
 
 Jib and his friends founded ByBlack. They wanted to use Django, but were too invested in MongoDB. A year ago, he was hired at MongoDB. They eventually hit him with a Django pitch. It felt personal. He wanted it to work. 
 
