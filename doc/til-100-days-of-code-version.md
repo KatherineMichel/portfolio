@@ -1,6 +1,6 @@
 # TIL- 100 Days of Code Version
 
-In April, I was looking through my Twitter newsfeed and came across a [tweet](https://twitter.com/simonw/status/1252050046566055937) by Simon Willison that piqued my curiosity.  
+In April, I was looking through my Twitter newsfeed and came across a [tweet](https://x.com/simonw/status/1252050046566055937) by Simon Willison that piqued my curiosity.  
 
 ![](til-100-days-of-code-version-images/simon-tweet.png)
 
@@ -325,7 +325,7 @@ But, knowing what I know now, if I were to start over, I would probably use `os.
 
 How would you create a TIL project and why? Is `os.listdir()` preferable to `os.walk()`? Which is the best method of storing and writing README.md content: string concatenation, list `append()`, or another method? Is front matter parsing an anti-pattern? 
 
-Let me know what you think on Twitter [@KatiMichel](https://twitter.com/KatiMichel), in a [GitHub issue](https://github.com/KatherineMichel/til-100-days-of-code-version), or by email kthrnmichel@gmail.com.
+Let me know what you think on Twitter [@KatiMichel](https://x.com/KatiMichel), in a [GitHub issue](https://github.com/KatherineMichel/til-100-days-of-code-version), or by email kthrnmichel@gmail.com.
 
 Stay tuned for a TIL- 100 Days of Code Version tutorial for step-by-step instructions for setting up your own TIL. 
 
