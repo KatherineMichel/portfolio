@@ -27,11 +27,11 @@ The entrance to Revolution Hall
 The talks were as great as you'd expect and I enjoyed the "hallway track" too. I saw many "old" friends there and made plenty of new ones. Notably, I met a number of "famous" Python folks, too. :) 
 
 A few memorable moments:
-* Meeting [Al Sweigart](https://twitter.com/AlSweigart), one of my favorite Python authors
-* Chatting with [Joanne Hastie](https://twitter.com/JoanneHastieArt) about using robots and AI to make fine art
-* Getting some insight from [Moshe Zadka](https://twitter.com/moshezadka) into the success of Israeli startups
-* Making a new GIS friend [Ana Leticia](https://twitter.com/AnaLeticiaGIS)
-* Meeting [Scott Shawcroft](https://twitter.com/tannewt) (CircuitPython project lead), [David Lord](https://twitter.com/davidism) (Flask maintainer), and [Timothy Crosley](https://twitter.com/timothycrosley) (isort author)
+* Meeting [Al Sweigart](https://x.com/AlSweigart), one of my favorite Python authors
+* Chatting with [Joanne Hastie](https://x.com/JoanneHastieArt) about using robots and AI to make fine art
+* Getting some insight from [Moshe Zadka](https://x.com/moshezadka) into the success of Israeli startups
+* Making a new GIS friend [Ana Leticia](https://x.com/AnaLeticiaGIS)
+* Meeting [Scott Shawcroft](https://x.com/tannewt) (CircuitPython project lead), [David Lord](https://x.com/davidism) (Flask maintainer), and [Timothy Crosley](https://x.com/timothycrosley) (isort author)
 
 One of the highlights of the conference was eating dinner with [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum), the original author of Python, and friends at [Grassa](https://www.grassapdx.com/), a "handcrafted pasta" restaurant. Guido told us some stories from the early days of Python. It was quite an evening. 
 
