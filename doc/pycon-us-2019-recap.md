@@ -28,7 +28,7 @@ Even though I didn’t know what to expect at PyCon, I knew there would be more 
 
 ### It’s Going to Be Great
 
-As people began to tweet that they were on their way to Cleveland, the anticipation began to build. Kushal Das [tweeted](https://twitter.com/KatiMichel/status/1123277599348707328) that SFO was filling up for PyCon, including the BDFL [Guido van Rossum](https://twitter.com/gvanrossum)! I replied, “I’m getting so excited!” I was gobsmacked when Guido then followed me on Twitter. I immediately felt quite welcome and certain that I would have a great PyCon!
+As people began to tweet that they were on their way to Cleveland, the anticipation began to build. Kushal Das [tweeted](https://x.com/KatiMichel/status/1123277599348707328) that SFO was filling up for PyCon, including the BDFL [Guido van Rossum](https://x.com/gvanrossum)! I replied, “I’m getting so excited!” I was gobsmacked when Guido then followed me on Twitter. I immediately felt quite welcome and certain that I would have a great PyCon!
 
 ![](pycon-us-2019-recap-images/guido-tweet.png)
 
@@ -38,13 +38,13 @@ My tweet after being followed on Twitter by Guido
 
 I arrived in Cleveland on Thursday, around noon. I headed to the conference floor to register and see what was going on. Quite a few conference-goers were mingling in the hallway. It was an advantage for me that I had gone to smaller, regional Python conferences before PyCon. I immediately saw some friends I’ve made through [DjangoCon US](https://2019.djangocon.us/) and [PyGotham](https://2019.pygotham.org/) and was excited to see them. I also immediately began to see people I had hoped to meet for the first time and chatted with them. The atmosphere was upbeat and everyone was super friendly. A group of us walked to nearby [Mabel’s BBQ](http://www.michaelsymon.com/mabels-bbq). The food was delicious.
 
-When we returned to the convention center, I decided to join the [swag stuffing line](https://us.pycon.org/2019/about/volunteers/#swag). I was surprised to meet Larry Hastings and [Paul Hildebrandt](https://twitter.com/paulhildebrandt) there and began to realize that I was going to stumble across people I admire everywhere I went! While taking a break from swag stuffing, I also chatted with some Bloomberg friends I’d met through PyGotham, including being given an impromptu black hole simulation made using Python by [Pablo Galindo Salgado](https://twitter.com/pyblogsal). Very cool and timely!
+When we returned to the convention center, I decided to join the [swag stuffing line](https://us.pycon.org/2019/about/volunteers/#swag). I was surprised to meet Larry Hastings and [Paul Hildebrandt](https://x.com/paulhildebrandt) there and began to realize that I was going to stumble across people I admire everywhere I went! While taking a break from swag stuffing, I also chatted with some Bloomberg friends I’d met through PyGotham, including being given an impromptu black hole simulation made using Python by [Pablo Galindo Salgado](https://x.com/pyblogsal). Very cool and timely!
 
 The [Opening Reception](https://us.pycon.org/2019/events/opening-reception/) started at 5:30 pm in the [Exhibit Hall](https://us.pycon.org/2019/sponsors/exhibit-hall/). I’d never seen anything quite like the Exhibit Hall in real life, only on television! It was an industrial-size space filled with row after row of booths. Conference-goers ate, networked, and walked around chatting to sponsors and picking up swag. I saw Guido there for the first time and said hello! I was thrilled to meet him. Throughout the week, it became rather normal to see him around, chatting and working. I began to think of him more as a human being, not just a famous tech person.
 
 ### Friday
 
-The main conference kicked off on Friday, with an [impressive keynote](https://www.youtube.com/watch?v=ftP5BQh1-YM) by [Dr. Russell Keith-Magee](https://twitter.com/freakboy3742) about Python black swans. I had come across some of the ideas in his talk before. I was amazed at how he wove them into one coherent theme, often using masterful storytelling. I felt inspired to become a better public speaker by finding connections between ideas and improving my storytelling skills.
+The main conference kicked off on Friday, with an [impressive keynote](https://www.youtube.com/watch?v=ftP5BQh1-YM) by [Dr. Russell Keith-Magee](https://x.com/freakboy3742) about Python black swans. I had come across some of the ideas in his talk before. I was amazed at how he wove them into one coherent theme, often using masterful storytelling. I felt inspired to become a better public speaker by finding connections between ideas and improving my storytelling skills.
 
 That morning, I began fulfilling one of my goals as a [DEFNA](https://www.defna.org/) Board Member. DEFNA is the Django Events Foundation North America. We oversee DjangoCon US and facilitate outreach and local events across all of North America, including Canada, the U.S., Mexico, and a number of other countries and territories. I represented DEFNA at the [PyCon Charlas](https://us.pycon.org/2019/hatchery/charlas/). I’m thrilled that throughout the week I got to know many members of the Mexican and Latin American communities who can benefit from DEFNA’s services.
 
@@ -60,11 +60,11 @@ On Friday evening, I attended the [Art of Python](https://us.pycon.org/2019/hatc
 
 ### Saturday
 
-Saturday kicked off with two very special keynotes by [Shadeed “Sha” Wallace-Stepter](https://restorecal.org/sha/) and [Jessica McKellar](https://twitter.com/jessicamckellar).
+Saturday kicked off with two very special keynotes by [Shadeed “Sha” Wallace-Stepter](https://restorecal.org/sha/) and [Jessica McKellar](https://x.com/jessicamckellar).
 
 Sha told the story of his troubled childhood in San Francisco. He turned to street crime for a feeling of empowerment. It was only after he was sent to prison for 27 years that he realized the same skills that he had used on the street could be channeled into entrepreneurship and tech. After producing a vast body of journalistic content while in prison, his sentence was commuted. Sha said that open source is “love.” Open source accepts people like him. He received a standing ovation. I was proud to see the community embrace someone who could easily be rejected elsewhere.
 
-Jessica McKellar’s keynote was a call to action to the Python community to help break the cycle of incarceration and help former inmates re-integrate. She is a powerful voice for change. You might remember that under Jessica’s leadership as PyCon US Diversity Chair, talk gender diversity [rose from 1% to 40%](https://twitter.com/jessicamckellar/status/737299461563502595) in just a few years. I’m glad that after Jessica’s talk I had the chance to personally thank her for that and also thank [Chris Neugebauer](https://twitter.com/chrisjrn) for making it a priority as a PSF Director to tie [PSF event support to diversity and inclusion targets](https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018#christopher-neugebauer).
+Jessica McKellar’s keynote was a call to action to the Python community to help break the cycle of incarceration and help former inmates re-integrate. She is a powerful voice for change. You might remember that under Jessica’s leadership as PyCon US Diversity Chair, talk gender diversity [rose from 1% to 40%](https://x.com/jessicamckellar/status/737299461563502595) in just a few years. I’m glad that after Jessica’s talk I had the chance to personally thank her for that and also thank [Chris Neugebauer](https://x.com/chrisjrn) for making it a priority as a PSF Director to tie [PSF event support to diversity and inclusion targets](https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2018#christopher-neugebauer).
 
 Later that morning, I spent as much time as I could at the [Maintainer’s Summit](https://us.pycon.org/2019/hatchery/maintainers/). Thanks to my time as Pinax Maintainer and [DjangoCon US](https://2019.djangocon.us/) Website Chair, I felt right at home. I especially enjoyed the table discussion I took part in where we shared our approaches in some of the practical aspects of maintaining projects. Other maintainers and I had faced many of the same challenges. I hope to attend another summit like this sometime.
 
@@ -76,11 +76,11 @@ A selection of chocolate on the table at the Chocolate Open Space; photo credit:
 
 After the Chocolate Open Space I spent time as a volunteer at the [PyLadies](https://www.pyladies.com/) Booth. I hadn’t realized how many people I would meet as a booth volunteer! It was a lot of fun and I highly recommend it. So many people came up to the booth to pick up stickers, buy t-shirts, ask questions about PyLadies, and inquire about [PyLadies Auction](https://us.pycon.org/2019/events/auction/) tickets. Fortunately and unfortunately, the PyLadies Auction tickets were sold out. Although I hated to turn people away, it was great to see an abundance of support for PyLadies.
 
-Incredibly, I also randomly met one of the original Pinax authors at the PyLadies Booth! It was a pleasure to chat with [Jannis Leidel](https://twitter.com/jezdez) about the early days of Pinax. I have some new insight into the history of the Pinax ecosystem now. He also gave me some input for our next release.
+Incredibly, I also randomly met one of the original Pinax authors at the PyLadies Booth! It was a pleasure to chat with [Jannis Leidel](https://x.com/jezdez) about the early days of Pinax. I have some new insight into the history of the Pinax ecosystem now. He also gave me some input for our next release.
 
 After I was finished at the booth, I attended the PyLadies Auction. The auction took place at 6:30 pm in a ballroom in the Hilton Hotel connected to the Huntington Convention Center. The atmosphere was filled with good will and humor. A highlight was seeing the smile on Guido’s face after a portrait of him went for the highest ever bid. I really appreciate that he proactively supports underrepresented people.
 
-Another highlight of PyCon for me was meeting [Dr. Naomi Ceder](https://twitter.com/NaomiCeder), [Lorena Mesa](https://twitter.com/loooorenanicole), [Jackie Kazil](https://twitter.com/JackieKazil), [Katie Cunningham](https://twitter.com/kcunning), and [Lynn Root](https://twitter.com/roguelynn), all of whom play an important role in the PyLadies Auction and in promoting diversity in the Python community.
+Another highlight of PyCon for me was meeting [Dr. Naomi Ceder](https://x.com/NaomiCeder), [Lorena Mesa](https://x.com/loooorenanicole), [Jackie Kazil](https://x.com/JackieKazil), [Katie Cunningham](https://x.com/kcunning), and [Lynn Root](https://x.com/roguelynn), all of whom play an important role in the PyLadies Auction and in promoting diversity in the Python community.
 
 ![](pycon-us-2019-recap-images/pyladies-auction.jpg)
 
@@ -106,13 +106,13 @@ After several overcast days, the sun finally came out on Monday morning. Even th
 
 A peaceful scene at Edgewater Park; photo credit: Katherine Michel
 
-Back at the sprints, I spent time in the CPython Sprint. I remember back to the 2016 [PyLadies tweet](https://twitter.com/mariatta/status/737689052736978945) that led [Mariatta](https://twitter.com/mariatta) to become a CPython Core Developer. She's one of my heroes and I love having the chance to see her in person!
+Back at the sprints, I spent time in the CPython Sprint. I remember back to the 2016 [PyLadies tweet](https://x.com/mariatta/status/737689052736978945) that led [Mariatta](https://x.com/mariatta) to become a CPython Core Developer. She's one of my heroes and I love having the chance to see her in person!
 
 ![](pycon-us-2019-recap-images/me-and-mariatta.jpg)
 
 Mariatta and I taking a selfie for her self-care Selfie Sprint!
 
-Throughout the week, I had the chance to meet a number of CPython and Django Core Devs for the first time, including [Cheryl Sabella](https://twitter.com/cherylsabella) and [Emily Morehouse-Valcarcel](https://twitter.com/emilyemorehouse). I’m particularly excited to see the rapid progress happening in CPython gender diversity now that it’s a priority.
+Throughout the week, I had the chance to meet a number of CPython and Django Core Devs for the first time, including [Cheryl Sabella](https://x.com/cherylsabella) and [Emily Morehouse-Valcarcel](https://x.com/emilyemorehouse). I’m particularly excited to see the rapid progress happening in CPython gender diversity now that it’s a priority.
 
 On my last full day of PyCon, I left the sprints to spend a large part of the day at the [Rock and Roll Hall of Fame Museum](https://www.rockhall.com/). The museum has an incredible collection of rock and roll memorabilia and I highly recommend going, if you get the chance. A few of my favorite items were John Lennon and Paul McCartney’s In My Life handwritten lyrics and Hey Jude descriptive score, Elvis Presley’s gold lamé suit, and Michael Jackson’s Dangerous Tour “Billie Jean” glove.
 
@@ -130,7 +130,7 @@ Firstly, although the crowd at PyCon was huge, it still had the same warm feelin
 
 Also, I found the planning I had done in advance of PyCon to have been very helpful. Nevermind that by the end of the week, I had walked and stood so much, I had a blister on my foot to prove it! I made it to the talks and events that were the highest priority for me. I chatted with nearly everyone I had wanted to reconnect with or meet for the first time, plus many more. And I had seen the sights most important to me in Cleveland.
 
-I met so many people that I created a [Twitter list](https://twitter.com/KatiMichel/lists/pycon-us-2019/members) to keep track of as many of them as I could find. I borrowed this idea from Trey Hunner, who also happens to have written a wonderful blog post [How to Have a Great First PyCon](https://treyhunner.com/2018/04/how-to-make-the-most-of-your-first-pycon/). By the way, if I met you at PyCon and you’re not in my Twitter list, please let me know, so I can add you! I want to build on the new relationships I formed and when I attend PyCon in the future, grow my network even more. I’m also making my way through talk videos I missed due to the “hallway track” and finding more insights to apply to our next major Pinax release.
+I met so many people that I created a [Twitter list](https://x.com/KatiMichel/lists/pycon-us-2019/members) to keep track of as many of them as I could find. I borrowed this idea from Trey Hunner, who also happens to have written a wonderful blog post [How to Have a Great First PyCon](https://treyhunner.com/2018/04/how-to-make-the-most-of-your-first-pycon/). By the way, if I met you at PyCon and you’re not in my Twitter list, please let me know, so I can add you! I want to build on the new relationships I formed and when I attend PyCon in the future, grow my network even more. I’m also making my way through talk videos I missed due to the “hallway track” and finding more insights to apply to our next major Pinax release.
 
-A special thank you to [PyCon Chair Ernest Durbin III](https://twitter.com/EWDurbin) and the many other people who made PyCon US 2019 happen. I can’t wait to go again!
+A special thank you to [PyCon Chair Ernest Durbin III](https://x.com/EWDurbin) and the many other people who made PyCon US 2019 happen. I can’t wait to go again!
 
