@@ -69,7 +69,7 @@ DjangoCon US 2024 took place from September 22-27 in Durham, North Carolina at t
 Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ![](djangocon-us-2024-recap-images/attendees-photo.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Venue Selection
 
@@ -96,7 +96,7 @@ As they say in open source, "Given enough eyeballs, all bugs are shallow." Perha
 ![](djangocon-us-2024-recap-images/adam-djangocon-us-6.png)
 -->
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### DjangoCon US Website and Design
 
@@ -112,11 +112,11 @@ In addition, we did a refactor of our DjangoCon US website backend this year. It
 
 Feel free to fork it and use it in line with the license. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Pre-Conference Activities
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Sightseeing and Some Great Meals
 
@@ -147,7 +147,7 @@ I've always wanted one of these! A nice visual metaphor taken along the side of 
 Unscripted rooftop pool
 ![](djangocon-us-2024-recap-images/unscripted-rooftop-pool.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Black Python Devs Leadership Summit
 
@@ -185,7 +185,7 @@ BPD Founder Jay Miller announced that the next leadership summit will be somewhe
 
 The morning and afternoon replays are available on the info page. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Rooftop View of Durham
 
@@ -196,13 +196,13 @@ After the summit, a DjangoCon US attendee who lives at One City Center took a gr
 One City Center rooftop pool
 ![](djangocon-us-2024-recap-images/one-city-center-roof.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Swag Stuffing
 
 On Sunday, I continued my tradition of swag stuffing. Conference pro-tip: it's a great opportunity to meet people! 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Django Social
 
@@ -213,13 +213,13 @@ A sign of a fantastic event: it was over before I knew it. I had the chance to c
 Djangonauts at Ponysaurus
 ![](djangocon-us-2024-recap-images/django-social.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Monday
 
 Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Grandstaff kicked off the conference. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Keynote- Power to the People who Teach the People
 
@@ -255,7 +255,7 @@ More useful to me resources
 * [The Protégé Effect](https://www.growthengineering.co.uk/protege-effect)
 * [Stereotype threat](https://en.wikipedia.org/wiki/Stereotype_threat)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Choosing Wisely: SPA vs. HTMX for Your Next Web Project
 
@@ -311,7 +311,7 @@ Notably, OpenUnited developer velocity improved by at least 500% after switching
   
 Chris will follow up with a blog post with more info about streaming HTML components. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Error Culture
 
@@ -330,7 +330,7 @@ What, why, who, verb
 More useful to me resources
 * [Chesterton's Fence](https://fs.blog/chestertons-fence/)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Shrimp and Grits
 
@@ -341,7 +341,7 @@ When I saw grits on the DjangoCon US lunch buffet, I had to try them. I still do
 North Carolina-inspired lunch
 ![](djangocon-us-2024-recap-images/shrimp-and-grits.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Troubleshooting is a Lifestyle 😎
 
@@ -401,7 +401,7 @@ Jack gave a shout out to Ken Whitesell for his prolific question- answering in t
 Jack encouraged the audience to document your process. 
 ![](djangocon-us-2024-recap-images/jack-write-down-your-troubleshooting-process.png)
  
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()
 
@@ -426,7 +426,7 @@ Other django-debug-toolbar uses
 
 [Code samples](https://github.com/adamsc64/a-related-matter)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Unlocking Performance: Benchmarking and profiling Django for Maximum Efficiency
 
@@ -451,7 +451,7 @@ Ron explained some possible tools and gave demos
 Summary
 ![](djangocon-us-2024-recap-images/ron-summary.png)
  
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### DEFNA Board Dinner
 
@@ -474,11 +474,11 @@ Diver scallops, pecorino english pea puree, radish & snow pea orzo salad, pea te
 Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-dessert.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Tuesday
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Keynote- How To Be A Developer and Other Lies We Tell Ourselves
 
@@ -502,7 +502,7 @@ At the end, he revealed, "I am a community. We are a community... The community 
 
 "How to be a better developer... be a better person to others." 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### PostgreSQL Beyond Django: Strategies to Get Max Performance
 
@@ -521,7 +521,7 @@ Some of his suggested methods
 * Full text search and search vector field scenarios
 * Trigger- perform operations inside of the database more quickly than in the app. Don't put much business logic in the trigger.
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?
 
@@ -554,7 +554,7 @@ If the answer is "no", Jacob would like to know why. Email him.
 More useful to me resources
 * Sue Gardner's [What's Really Wrong With Non-Profits and How We Can Fix It?](https://suegardner.org/2013/10/20/whats-really-wrong-with-nonprofits-and-how-we-can-fix-it/)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### django-mongodb
 
@@ -568,7 +568,7 @@ Motivations...
 How does it work
 ![](djangocon-us-2024-recap-images/jib-how-does-it-work.png)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Faster, leaner, greener: 10x lower website carbon emissions
 
@@ -622,7 +622,7 @@ Data center regions and their carbon grid intensity- moving from useast1 to nort
 Resources
 ![](djangocon-us-2024-recap-images/thibaud-resources.png)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Meeting Lorenzo
 
@@ -634,7 +634,7 @@ A dream come true
 Me and Lorenzo
 ![](djangocon-us-2024-recap-images/me-and-lorenzo.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Speaker and Organizer Dinner
 
@@ -649,7 +649,7 @@ I wrote about Simon's PyCon US 2024 talk about Imitation Intelligence in my [PyC
 Me and Simon (photo credit: Django Fellow Natalia Bidart)
 ![](djangocon-us-2024-recap-images/me-and-simon.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### The Boxcar Bar and Arcade
 
@@ -665,13 +665,13 @@ Super Pac-Man
 Me standing in front of the bar at Boxcar
 ![](djangocon-us-2024-recap-images/boxcar-arcade.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Wednesday
 
 Wednesday was deep dive day. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Keynote- The Fellowship of the Pony
 
@@ -722,7 +722,7 @@ Lock, observe, trace, reveal
 ![](djangocon-us-2024-recap-images/natalia-lock-observe-trace-reveal.png)
 -->
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Hidden gems of Django 5.x
 
@@ -753,7 +753,7 @@ Please give the team feedback so they can work with you to make the experience b
 
 After the conference, Sarah also published a [DSF Initiatives I'd Like to See](https://gist.github.com/sarahboyce/68ffaaeae24d2501cf27a914f77fb97c) list for DSF Board Election candidates. Take a look and be inspired! 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Lightning Talk Cameo
 
@@ -762,7 +762,7 @@ It's no secret that I've been using social media for networking for many years n
 Jon during his lightning talk
 ![](djangocon-us-2024-recap-images/jon-lightning-talk.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### API Maybe: Bootstrapping a Web Application circa 2024
 
@@ -809,7 +809,7 @@ More useful to me resources
 * [Protected Variations](https://www.martinfowler.com/ieeeSoftware/protectedVariation.pdf) architecture pattern
 * Luke Plant's [Programming Mantras are Proverbs](https://lukeplant.me.uk/blog/posts/programming-mantras-are-proverbs/)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Panel Discussion: Open, friendly, and welcoming: on the history and future of mentoring in Django
 
@@ -818,7 +818,7 @@ Our conference ended with a panel of five women, including three women of color,
 Carlton Gibson, Keanya Phelps, Velda Kiara, Afi Maame Dufie, Sarah Boyce, and host Lacey Henschel
 ![](djangocon-us-2024-recap-images/closing-panel.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
 ### Many More Great Talks
@@ -831,11 +831,11 @@ After the conference had ended, I joined a group of Wagtail developers and confe
 Group pic!
 ![](djangocon-us-2024-recap-images/queenys.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Hallway track
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Connections Made
 
@@ -861,7 +861,7 @@ I chatted with Jay Miller about how DEFNA could better serve Black Python Devs a
 
 I connected Thibaud with myself, Nicole, and Peter to talk about DjangoCon US website improvements and using it for other conference sites. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Swag
 
@@ -871,7 +871,7 @@ Velda and John showing off John's DjangoCon US tote bag... "famous" people signe
 Black Python Devs Leadership Summit bead lanyard made by an artisan in Kenya (procured by Velda), African bracelet (gift from Velda), Kenyan coffee made with beans from Velda's family's farm (gift from Velda), PostgreSQL hat, Valkey sticker, DjangoCon US shirt, Caktus shirt
 ![](djangocon-us-2024-recap-images/swag.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Django Social T-Shirt
 
@@ -880,17 +880,17 @@ In 2023, Foxley Talent gifted me a Django Social t-shirt. Foxley Talent Recruite
 Me and Jon
 ![](djangocon-us-2024-recap-images/me-and-jon.jpeg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Visa Frustration
 
 As our conference becomes more diverse, a common frustration has emerged: difficulty getting a visa to enter the US. People from multiple countries have voiced their frustration about this to me. Django community member Julius Boakye poured his heart into a must-read post about it: [Breaking Barriers: A Tech Speaker’s Plea for Fair Visa Policies](https://medium.com/@theflyboy/breaking-barriers-a-tech-speakers-plea-for-fair-visa-policies-621b5909e496).
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Thursday
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Sprints
 
@@ -906,7 +906,7 @@ A slice of Italian sausage and a simple house salad really hit the spot! It was 
 Italian sausage and a simple house salad
 ![](djangocon-us-2024-recap-images/pie-pushers.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Another Great Adventure
 
@@ -919,11 +919,11 @@ The talk replays will be available on the [DjangoCon US YouTube channel](https:/
 
 Keep scrolling for more sightseeing and food! 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## More Sight Seeing and Food!
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Sarah P. Duke Gardens
 
@@ -944,7 +944,7 @@ Ducks at the Red Bridge
 South Lawn
 ![](djangocon-us-2024-recap-images/sarah-p-duke-gardens-grass-for-days.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Cocoa Cinnamon
 
@@ -961,7 +961,7 @@ Cocoa Cinnamon... a short walk from the convention center
 Yum! 
 ![](djangocon-us-2024-recap-images/cocoa-cinnamon-coffee.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### The Can Opener
 
@@ -972,7 +972,7 @@ Built in the 1940s when vehicles weren't as large, [The Can Opener](https://www.
 The Can Opener
 ![](djangocon-us-2024-recap-images/the-can-opener.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### 21c Museum Hotel
 
@@ -989,7 +989,7 @@ Bank vault- first room
 Bank vault- inner room
 ![](djangocon-us-2024-recap-images/21c-museum-hotel-bank-vault-inner-room.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### The Durham Hotel
 
@@ -1001,7 +1001,7 @@ Skyline left
 Skyline right
 ![](djangocon-us-2024-recap-images/the-durham-hotel-roof-right.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Mother and Sons
 
@@ -1009,7 +1009,7 @@ I'd been hungry for good Italian food for a while. [Mother and Sons](https://www
 
 I'd planned to play it safe and order the potato gnocchi. I asked the waiter if there was a particular dish that was very popular. He said the squid ink tonnarelli. I told him I'd always wondered what squid ink pasta tasted like, but had been afraid to order it. He said that the squid ink taste was mild. So, I ordered it, and it was delicious. It had a lemon-butter shrimp taste. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Durham Food Hall
 
@@ -1018,7 +1018,7 @@ I'd already eaten, but joined a few attendees to walk over to the [Durham Food H
 Looking down at the first floor of the food hall
 ![](djangocon-us-2024-recap-images/durham-food-hall.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Press Coffee, Crepes, and Cocktails
 
@@ -1027,7 +1027,7 @@ I love [Press Coffee, Crepes, and Cocktails](https://pressccc.com/). It's a shor
 First time eating avocado toast... I went big! This was gourmet quality, for sure. The seasonal salted pistachio mocha latte was to die for. 
 ![](djangocon-us-2024-recap-images/press-crepe-company-avocado-toast.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Centerfest
 
@@ -1039,13 +1039,13 @@ I wandered through the art booths, then stumbled upon one of many musical acts. 
 
 [Video of Heart of Carolina A Cappella singing Seven Bridges Road](https://youtu.be/_cReCxdjVYk)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Durham Market Culture
 
 It's wonderful to see Durham's thriving market and festival culture. In addition to Centerfest, I stumbled upon the [Durham Farmers' Market](https://www.durhamfarmersmarket.com/), [Durham Craft Market](https://durhamcentralpark.org/events/durham-craft-market/), and [Durham Underground Market](https://makrs.com/durham-underground-market) all in the same weekend. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Cousins Maine Lobster
 
@@ -1058,7 +1058,7 @@ I ordered a lobster tail, but they were out, so they upgraded me to a lobster ro
 This was the moment when I realized my low cholesterol diet was officially suspended
 ![](djangocon-us-2024-recap-images/cousins-maine-lobster.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Unscripted Rooftop Pool
 
@@ -1066,7 +1066,7 @@ I had the chance to spend time at the [Unscripted Hotel](https://www.unscriptedh
 
 [Video of the Unscripted rooftop pool](https://youtu.be/_5-08ssL8Wk)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### The Parlour
 
@@ -1075,4 +1075,4 @@ I made a trip to [The Parlour](https://theparlour.co/) for the second year in a 
 Salted Butter Caramel
 ![](djangocon-us-2024-recap-images/the-parlour.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
