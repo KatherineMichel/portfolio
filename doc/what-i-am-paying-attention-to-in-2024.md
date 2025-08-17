@@ -30,7 +30,7 @@ GitHub news and changelog
 Python release notes, discussion forum, enhancements proposals, release livestreams (recorded)
 * [What's New](https://docs.python.org/dev/whatsnew/)
 * [Python Discuss](https://discuss.python.org)
-* [PEP (Python Enhancement Proposals) Index](https://www.python.org/dev/peps) &#128736;
+* [PEP (Python Enhancement Proposals) Index](https://peps.python.org/) &#128736;
 * [Pablo Galindo Salgado's Release Streams](https://www.youtube.com/@PythonDiscord) 
 
 Django release notes, enhancements proposals, blog, roadmap
