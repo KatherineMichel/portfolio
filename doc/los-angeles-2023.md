@@ -111,7 +111,11 @@ I've had a lot of what I call travel serendipity. My trip kicked off with some i
 
 Immediately upon arriving in Los Angeles, I had the good fortune to randomly meet award show producer Charnise Love Jones! She has worked on the Daytime Emmys, Children and Family Emmys, Grammys, BET Awards, Soultrain Awards, Stellar Awards, NAACP Image Awards, American Music Awards, and many other fun productions. Wow!
 
-We've connected on LinkedIn, and I can't wait to get to know her work better and follow her adventures! Check out her [Instagram](https://www.instagram.com/lovejonesproduction/) and [YouTube](https://www.youtube.com/@Lovejonesproductions/videos) channel. 
+We've connected on LinkedIn, and I can't wait to get to know her work better and follow her adventures! Check out her [Instagram](https://www.instagram.com/lovejonesproduction/). 
+
+<!--
+[YouTube](https://www.youtube.com/@Lovejonesproductions/videos) channel. 
+-->
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
