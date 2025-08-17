@@ -74,7 +74,7 @@ On Saturday afternoon, even though I hadn’t had time to check out the [Open Sp
 
 A selection of chocolate on the table at the Chocolate Open Space; photo credit: Katherine Michel
 
-After the Chocolate Open Space I spent time as a volunteer at the [PyLadies](https://www.pyladies.com/) Booth. I hadn’t realized how many people I would meet as a booth volunteer! It was a lot of fun and I highly recommend it. So many people came up to the booth to pick up stickers, buy t-shirts, ask questions about PyLadies, and inquire about [PyLadies Auction](https://us.pycon.org/2019/events/auction/) tickets. Fortunately and unfortunately, the PyLadies Auction tickets were sold out. Although I hated to turn people away, it was great to see an abundance of support for PyLadies.
+After the Chocolate Open Space I spent time as a volunteer at the [PyLadies](https://pyladies.com/) Booth. I hadn’t realized how many people I would meet as a booth volunteer! It was a lot of fun and I highly recommend it. So many people came up to the booth to pick up stickers, buy t-shirts, ask questions about PyLadies, and inquire about [PyLadies Auction](https://us.pycon.org/2019/events/auction/) tickets. Fortunately and unfortunately, the PyLadies Auction tickets were sold out. Although I hated to turn people away, it was great to see an abundance of support for PyLadies.
 
 Incredibly, I also randomly met one of the original Pinax authors at the PyLadies Booth! It was a pleasure to chat with [Jannis Leidel](https://x.com/jezdez) about the early days of Pinax. I have some new insight into the history of the Pinax ecosystem now. He also gave me some input for our next release.
 
