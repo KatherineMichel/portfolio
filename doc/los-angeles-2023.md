@@ -128,15 +128,15 @@ Pacific Park Amusement Park
 ![](los-angeles-2023-images/santa-monica-pier-at-night-pacific-park-ferris-wheel.jpg)
 Pacific Park ferris wheel overlooking the ocean waves...
 
-[Video](https://www.youtube.com/watch?si=XDPxScs8KR0mg2fj&v=GP4Td4SUH0M&feature=youtu.be) of walking along Santa Monica Pier
+[Video](https://youtu.be/GP4Td4SUH0M?si=XDPxScs8KR0mg2fj) of walking along Santa Monica Pier
 
-[Video](https://www.youtube.com/watch?si=6b8YhK7_jpLKBhiN&v=_KTMAmlOzqQ&feature=youtu.be) of Santa Monica Pier looking east
+[Video](https://youtu.be/_KTMAmlOzqQ?si=6b8YhK7_jpLKBhiN) of Santa Monica Pier looking east
 
 [Video](https://youtu.be/cnWdL9C4ucU?si=_5bCR2RdHMWjLTbO) of ferris wheel and roller coaster
 
-[Video](https://www.youtube.com/watch?si=oVrTxLtU4tAqe9FC&v=08xtEKQ8Yjg&feature=youtu.be) of north of the Santa Monica Pier
+[Video](https://youtu.be/08xtEKQ8Yjg?si=oVrTxLtU4tAqe9FC) of north of the Santa Monica Pier
 
-[Video](https://www.youtube.com/watch?si=W2jQtuxPaf7SNMy5&v=53oLr76JxuY&feature=youtu.be) of south of the Santa Monica Pier
+[Video](https://youtu.be/53oLr76JxuY?si=W2jQtuxPaf7SNMy5) of south of the Santa Monica Pier
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -203,21 +203,21 @@ Santa Monica Beach looked toward the pier
 ![](los-angeles-2023-images/venice-beach-santa-monica-pier-sun.jpg)
 Santa Monica Pier... the sun is going down. 
 
-[Video](https://www.youtube.com/watch?si=Ceo0xQmuELsoQAQ&v=WtmDbIY2Ieo&feature=youtu.be) of birds flying around Santa Monica Beach
+[Video](https://youtu.be/WtmDbIY2Ieo?si=Ceo0xQmuELsoQAQ) of birds flying around Santa Monica Beach
 
-[Video](https://www.youtube.com/watch?si=4_Ry7O-1ObcdP_bx&v=KwIrQjfX-V4&feature=youtu.be) of walking along Santa Monica Pier
+[Video](https://youtu.be/KwIrQjfX-V4?si=4_Ry7O-1ObcdP_bx) of walking along Santa Monica Pier
 
 [Video](https://youtu.be/svqLyz8D2uM?si=_0ziKygwuCW4jcWS) of Venice Beach Boardwalk
 
-[Video](https://www.youtube.com/watch?si=ZBpTh3dFF_Y0ivTc&v=AUqmrRV7teE&feature=youtu.be) of Venice Beach Skatepark
+[Video](https://youtu.be/AUqmrRV7teE?si=ZBpTh3dFF_Y0ivTc) of Venice Beach Skatepark
 
-[Video](https://www.youtube.com/watch?si=EOogWOqHwtV2SGFw&v=TLsb7qy8kyY&feature=youtu.be) of a bird flying above Venice Beach Pier
+[Video](https://youtu.be/TLsb7qy8kyY?si=EOogWOqHwtV2SGFw) of a bird flying above Venice Beach Pier
 
-[Video](https://www.youtube.com/watch?si=rQCBZOJ3st627zSB&v=cJEZFFnFlng&feature=youtu.be) of a sailboat at Venice Beach Pier
+[Video](https://youtu.be/cJEZFFnFlng?si=rQCBZOJ3st627zSB) of a sailboat at Venice Beach Pier
 
-[Video](https://www.youtube.com/watch?si=E43wzKHu5W-n3QDG&v=MAdhUKSJbbg&feature=youtu.be) of Venice Beach north of the pier
+[Video](https://youtu.be/MAdhUKSJbbg?si=E43wzKHu5W-n3QDG) of Venice Beach north of the pier
 
-[Video](https://www.youtube.com/watch?si=V_2mktPdKua1GsRd&v=aZfZ09UInL8&feature=youtu.be) of Venice Beach south of the pier
+[Video](https://youtu.be/aZfZ09UInL8?si=V_2mktPdKua1GsRd) of Venice Beach south of the pier
 
 [Video](https://youtu.be/qO44Inr0C48?si=DVb-wguV6vt81JGV) of Venice Beach sand pipers
 
@@ -225,9 +225,9 @@ Santa Monica Pier... the sun is going down.
 
 [Video](https://youtu.be/kQFnozP3w_I?si=YTc9aYrPt0YRq4ez) of a dog running along Santa Monica Beach
 
-[Video](https://www.youtube.com/watch?si=oZu2eSMt4OWFLY4D&v=WFSL7NGoi8w&feature=youtu.be) of Santa Monica Beach with a view of the pier
+[Video](https://youtu.be/WFSL7NGoi8w?si=oZu2eSMt4OWFLY4D) of Santa Monica Beach with a view of the pier
 
-[Video](https://www.youtube.com/watch?si=AmMmtc6kuHH13b7N&v=Fzv0tZ1zzQU&feature=youtu.be) of Santa Monica Pier at sunset
+[Video](https://youtu.be/Fzv0tZ1zzQU?si=AmMmtc6kuHH13b7N) of Santa Monica Pier at sunset
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -263,7 +263,7 @@ Mr. Freeze, Joker, Oz, and Riddler costumes in front of the Arkham Asylum gates
 ![](los-angeles-2023-images/warner-brothers-awards.jpg)
 Warner Brothers Studio awards
 
-[Video](https://www.youtube.com/watch?si=r4nBfIcyBcqmhqzs&v=4aTxOa3chcs&feature=youtu.be) of Friends set
+[Video](https://youtu.be/4aTxOa3chcs?si=r4nBfIcyBcqmhqzs) of Friends set
 
 [Video](https://youtu.be/wNWcuESAZDE?si=_4TjbCbo0CUcXOPE) of the Friends fountain
 
@@ -386,7 +386,7 @@ Terminator 2: Judgement Day animatronic... the team that created this won an Aca
 ![](los-angeles-2023-images/academy-museum-statue-room.jpg)
 Academy Award statues room
 
-[Video](https://www.youtube.com/watch?si=Jpd-JnuRdGW-eT4u&v=BM8AMYP3mL0&feature=youtu.be) of the Academy Award statues room
+[Video](https://youtu.be/BM8AMYP3mL0?si=Jpd-JnuRdGW-eT4u) of the Academy Award statues room
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -441,13 +441,13 @@ Although I enjoyed the view of Los Angeles from the main Getty Center terrace, t
 
 [Video](https://youtu.be/vngC0TWpU0Q?si=nnghFglziVyW2WwK) of The Getty Center main terrace
 
-[Video](https://www.youtube.com/watch?si=luk7utrXz2LnaQff&v=1-OcUMCII3o&feature=youtu.be) of the Central Garden
+[Video](https://youtu.be/1-OcUMCII3o?si=luk7utrXz2LnaQff) of the Central Garden
 
 [Video](https://youtu.be/x8CULebm0bY?si=fIBpoVIoVCZCmAth) walking through Central Garden
 
-[Video](https://www.youtube.com/watch?si=ADCgfmAaY8KrLPvw&v=ZzHO8MQLE9U&feature=youtu.be) of a Getty Center fountain
+[Video](https://youtu.be/ZzHO8MQLE9U?si=ADCgfmAaY8KrLPvw) of a Getty Center fountain
 
-[Video](https://www.youtube.com/watch?si=ub_cBZedXZhjluZQ&v=TwIPtk2IA9A&feature=youtu.be) of the ride down from The Getty Center
+[Video](https://youtu.be/TwIPtk2IA9A?si=ub_cBZedXZhjluZQ) of the ride down from The Getty Center
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -521,7 +521,7 @@ The hotel is shuttered with a "private property" sign on one door. There were a 
 ![](los-angeles-2023-images/hotel-cecil-2.jpg)
 The infamous water tanks where Elisa Lam drowned... it was speculated that she might have taken the stairs on the front of the hotel to the roof.
 
-[Video](https://www.youtube.com/watch?si=Gd6toD3jRr4On6tR&v=4Jyj94ut0Mk&feature=youtu.be) of the Hotel Cecil
+[Video](https://youtu.be/4Jyj94ut0Mk?si=Gd6toD3jRr4On6tR) of the Hotel Cecil
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -594,15 +594,15 @@ Bates Motel from Psycho
 ![](los-angeles-2023-images/universal-psycho-house.jpg)
 Mother's house from Psycho
 
-[Video](https://www.youtube.com/watch?si=R2pd8kGSKy9brRnG&v=9uv5BZtSHNA&feature=youtu.be) of the Universal sign
+[Video](https://youtu.be/9uv5BZtSHNA?si=R2pd8kGSKy9brRnG) of the Universal sign
 
 [Video](https://youtu.be/d3wERBCZHEM?si=YHK-vpGaG7TKclwF) of 3-D King King experience, designed by Peter Jackson and team!
 
 [Video](https://youtu.be/evZHAcfSnqw?si=B279b284H-g0lZDn) of the Jaws experience!
 
-[Video](https://www.youtube.com/watch?si=Q2x-n0jO9UIFyq1J&v=VVTMQafABCA&feature=youtu.be) of Norman Bates
+[Video](https://youtu.be/VVTMQafABCA?si=Q2x-n0jO9UIFyq1J) of Norman Bates
 
-[Video](https://www.youtube.com/watch?si=HJ51z3y9jCnwu-Ti&v=402GcUXZ01c&feature=youtu.be) of "Wisteria Lane"
+[Video](https://youtu.be/402GcUXZ01c?si=HJ51z3y9jCnwu-Ti) of "Wisteria Lane"
 
 [Video](https://youtu.be/r5AzrhSoNRo?si=NIepFiPXdL0puQB2) of a simulated flood
 
@@ -629,11 +629,11 @@ Beautiful architecture...
 
 Multiple Lyft drivers told me the view is "spectacular" after dark, but frankly, I was too tired to stay that long. I will go back sometime. 
 
-[Video](https://www.youtube.com/watch?si=ZJENLG-pFEtw86m8&v=WxTooLaosq4&feature=youtu.be) riding through the Hollywood Hills to The Griffith Observatory
+[Video](https://youtu.be/WxTooLaosq4?si=ZJENLG-pFEtw86m8) riding through the Hollywood Hills to The Griffith Observatory
 
 [Video](https://youtu.be/hlTgWcAXSXk?si=075mQ_nmLtIOpH2g) of the view around The Griffith Observatory
 
-[Video](https://www.youtube.com/watch?si=U7bHzHmFENE5ZAZP&v=_nZQzYq1Pnc&feature=youtu.be) of the Foucault Pendulum
+[Video](https://youtu.be/_nZQzYq1Pnc?si=U7bHzHmFENE5ZAZP) of the Foucault Pendulum
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -680,9 +680,9 @@ Jack Nicholson's house... that's a tennis court on stilts!
 ![](los-angeles-2023-images/celebrity-home-bus-tour-leonardo-dicaprio.jpg)
 Leonardo DiCaprio's house
 
-[Video](https://www.youtube.com/watch?si=-wciRXebAL2qQ9uP&v=CetaKXxeulU&feature=youtu.be) of bus stopping for Hollywood Sign
+[Video](https://youtu.be/CetaKXxeulU?si=-wciRXebAL2qQ9uP) of bus stopping for Hollywood Sign
 
-[Video](https://www.youtube.com/watch?si=DuYZs3tEoSCWRRSa&v=52_T3K6Fc7c&feature=youtu.be) driving past homes in Beverly Hills
+[Video](https://youtu.be/52_T3K6Fc7c?si=DuYZs3tEoSCWRRSa) driving past homes in Beverly Hills
 
 [Video](https://youtu.be/idbC9zhvkxk?si=yWPyfS_X_hJY86N6) of Rodeo Drive, part 1
 
@@ -703,7 +703,7 @@ Valentino
 ![](los-angeles-2023-images/rodeo-drive-harry-winston.jpg)
 Harry Winston
 
-[Video](https://www.youtube.com/watch?si=P2X4uJ25YaVcFLYy&v=aPwa4OlnCP0&feature=youtu.be) of Rodeo Drive Giorgio Armani storefront
+[Video](https://youtu.be/aPwa4OlnCP0?si=P2X4uJ25YaVcFLYy) of Rodeo Drive Giorgio Armani storefront
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -799,11 +799,11 @@ People watching
 
 [Video](https://youtu.be/dPPWp-k3kIE?si=mELmyVOv6elfcVWr) of Santa Monica Pier at sunset
 
-[Video](https://www.youtube.com/watch?si=dJTLWqB0KCtadn7V&v=NK2FCOE9ZGA&feature=youtu.be) of Santa Monica Pier at sunset
+[Video](https://youtu.be/NK2FCOE9ZGA?si=dJTLWqB0KCtadn7V) of Santa Monica Pier at sunset
 
-[Video](https://www.youtube.com/watch?si=kVukmFdxZy3GXXXA&v=KxvcWh8gzg4&feature=youtu.be) of the end of the pier at sunset
+[Video](https://youtu.be/KxvcWh8gzg4?si=kVukmFdxZy3GXXXA) of the end of the pier at sunset
 
-[Video](https://www.youtube.com/watch?si=KRM_pPzfLflQLAJX&v=bFZlSN-wjWg&feature=youtu.be) of Santa Monica Beach at sunset
+[Video](https://youtu.be/bFZlSN-wjWg?si=KRM_pPzfLflQLAJX) of Santa Monica Beach at sunset
 
 [Video](https://youtu.be/xyXs-FP-3n4?si=UgdO0TWjZ5fcvAYR) of ferris wheel with Santa Claus
 
@@ -814,7 +814,7 @@ People watching
 ![](los-angeles-2023-images/santa-monica-pier-sunset-carousel.jpg)
 Santa Monica Pier Carousel... Paul Newman worked there in the Sting. I rode it!
 
-[Video](https://www.youtube.com/watch?si=CHgmEYUToBc9Eerr&v=TVL2gUfgNGk&feature=youtu.be) riding Paul Newman's carousel :)
+[Video](https://youtu.be/TVL2gUfgNGk?si=CHgmEYUToBc9Eerr) riding Paul Newman's carousel :)
 
 <sub>[**back to top**](#table-of-contents)</sub>
 
