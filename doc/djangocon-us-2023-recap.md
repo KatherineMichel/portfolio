@@ -53,7 +53,7 @@ DjangoCon US 2023 took place from October 16-20 in Durham, North Carolina. It wa
 Attendees (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ![](djangocon-us-2023-recap-images/attendee-photo.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Pre-Conference Activities
 
@@ -83,7 +83,7 @@ https://www.linkedin.com/posts/katherinemichel_thank-you-to-our-defna-president-
 DEFNA Board (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ![](djangocon-us-2023-recap-images/defna-board.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Django Girls Workshop
 
@@ -106,7 +106,7 @@ Django Girls lunch from Neomonde Mediterranean
 I've always wanted one of these shirts! 
 ![](djangocon-us-2023-recap-images/django-girls-shirts.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Swag Stuffing
 
@@ -115,7 +115,7 @@ I eventually made it to the Durham Convention Center for swag stuffing! Many han
 Swag stuffing operation (I spy a [DEFNA](https://www.defna.org/) sticker!)
 ![](djangocon-us-2023-recap-images/swag-stuffing.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Django Social
 
@@ -130,7 +130,7 @@ Gosé Margarita
 
 !["Thank you to Jason Judkins and Jon Gould for generously hosting a wonderful Django Social event tonight on the eve of DjangoCon US. I enjoyed meeting and getting to know the new Python Software Foundation Executive Director Deb Nicholson, spending time with two of my favorite Python/Django authors Eric Matthes and William Vincent, and catching up with my wonderful Revsys friends Frank and Jeff, among many interesting conversations."](djangocon-us-2023-recap-images/thank-you-to.png)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Meeting the New PSF Executive Director Deb Nicholson
 
@@ -139,14 +139,14 @@ During the event, I happened to find myself having a conversation with a woman w
 Me and PSF Executive Director Deb Nicholson later in the week 
 ![](djangocon-us-2023-recap-images/me-and-deb.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### A Chance to Hang Out with Old Friends and Make New Friends
 
 Hanging out with favorite Python/Django authors Eric Matthes and William Vincent, and my wonderful Revsys friend and fellow DEFNA Board Member Jeff Triplett
 ![](djangocon-us-2023-recap-images/jeff-eric-william.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Monday
 
@@ -154,7 +154,7 @@ Hanging out with favorite Python/Django authors Eric Matthes and William Vincent
 
 On Monday, I ate breakfast with our new [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/). I was thrilled to meet her! We talked about our work, what her experience has been like so far as a Django Fellow, and she introduced me to the art of drinking [maté](https://en.wikipedia.org/wiki/Mate_(drink)).
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Kojo Idressa and Peter Grandstaff Kick Off the Conference
 
@@ -174,7 +174,7 @@ During the Opening Remarks, Conference Chair Peter Grandstaff asked everyone to 
 A powerful tool borrowed from PyCon Australia and written about by Eric Holscher of [Read the Docs](https://about.readthedocs.com/) and [Write the Docs](https://www.writethedocs.org/) for setting norms: "[Hey, we don't do that here.](https://www.ericholscher.com/blog/2023/feb/10/we-dont-do-that-here/)"
 ![](djangocon-us-2023-recap-images/hey-we-dont.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Finding Purpose in Open Source Through Community Building
 
@@ -213,7 +213,7 @@ Me and Abigail
 
 !["Don’t have stats, but this feels like the most diverse DjangoCon US I’ve ever been to. Particularly excited at how many Africans we have speaking and attending, starting with Abigail Mesrenyame Dogbe‘s inspiring keynote “Finding Purpose in Open Source Through Community Building.” #DjangoConUS"](djangocon-us-2023-recap-images/don't-have-stats.png)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### HTML-ivating your Django web app's experience with HTMX, AlpineJS, and streaming HTML
 
@@ -347,14 +347,14 @@ These are not the only options. Chris has created a [web-async-patterns repo](ht
 Chris closed by summarizing what created an exception experience. 
 ![Exceptional Experiences with Django: Using `StreamingHttpResponse` to stream critical elements to the user as quickly as possible, use HTML fragments to update parts of the page with HTMX, leverage scoped down frameworks like Alpine.js to power rich interactions](djangocon-us-2023-recap-images/chris-exceptional-experiences.png)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Fried Green Tomatoes :)
 
 At lunch... trying a fried green tomato for the first time!
 ![](djangocon-us-2023-recap-images/marriott-fried-green-tomato.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
 ### Wes Kendall and Maxwell Muoto
@@ -402,7 +402,7 @@ Jacob talking to attendees about the new DSF Working Groups initiative
 
 It's great that the creators and early architects of Django continue to be engaged with and accessible to the community. Check out this DjangoCon 2008 [Schema Evolution Panel](https://fosstodon.org/@simon@simonwillison.net/111310910516740202) that Django Co-Creator Simon Willison recently unearthed featuring himself, Andrew Godwin, and Russell Keith-Magee. :)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Parts and Labor, The Parlour, and Back to the Hotel
 
@@ -424,7 +424,7 @@ Back at the hotel, a late night chat... great crew :) (© 2023 Paolo Melchiorre 
 
 Incidentally, on the first sprint day, Paolo, along with Will Vincent, presented μDjango, a single file Django micro project. Read about its inception on [Paolo's blog](https://www.paulox.net/2023/10/26/udjango_micro_django/#history). 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Tuesday
 
@@ -433,7 +433,7 @@ Incidentally, on the first sprint day, Paolo, along with Will Vincent, presented
 Ken Whitesell at the registration desk 
 ![](djangocon-us-2023-recap-images/hallway.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Django Social T-Shirt
 
@@ -444,7 +444,7 @@ On Monday, I was fortunate to come into the possession of one of Foxley Talent's
 Me wearing my Django Social T-shirt with Django Social Organizer and Foxley Talent Principal Jon Gould
 ![](djangocon-us-2023-recap-images/me-and-jon.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 #### Coherence Demo
 
@@ -469,7 +469,7 @@ Check out the [docs](https://docs.withcoherence.com/)!
 Coherence brand
 ![](djangocon-us-2023-recap-images/coherence-table.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 <!--
 ### Pavel Sviridov
@@ -550,7 +550,7 @@ Djangonaut Space is now [accepting applications](https://www.djangoproject.com/w
 
 Spread the word :)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Don't Buy the "AI" Hype
 
@@ -579,7 +579,7 @@ He doesn't have an easy answer, but says that as technologists we must be respon
 
 "We've got to stop falling for it."
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### An Approach to Lightweight Tenancy Management Using Django Rest Framework
 
@@ -637,7 +637,7 @@ Limitations
 A different approach using https://github.com/rsinger86/drf-access-policy
 -->
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Speaker and Organizer Dinner
 
@@ -654,7 +654,7 @@ A wonderful conference partner [Discover Durham](https://www.discoverdurham.com/
 City Box Durham gift boxes
 ![](djangocon-us-2023-recap-images/discover-durham-box-2.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Wednesday
 
@@ -734,7 +734,7 @@ Afterw the talk, I had the chance to catch up with Andy. His talk has rekindled 
 A gift from my friend Andy
 ![](djangocon-us-2023-recap-images/test-card-from-andy.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Inside Out: My Journey of Understanding Inclusion
 
@@ -781,7 +781,7 @@ https://twitter.com/KatiMichel/status/1714679106510434533
 
 I've chatted with women recently about the additional overhead women and other underrepresented people often have from doing extra work to change the system. It can be exhausting. I am looking forward to getting to know Natalia's development work. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### DjangoCon Africa
 
@@ -817,7 +817,7 @@ Check out the Black Python Devs write-up about their [DjangoCon US experience](h
 
 !["This makes me smile. ❤️ We are nowhere near where we want to be on diversity, but making big strides. I think this was the most fun DjangoCon US I've been to so far, and the growing diversity played a big part in that."](djangocon-us-2023-recap-images/this-makes-me-smile.png)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Another Great Adventure
 
@@ -841,7 +841,7 @@ Simon Says Dip This Counter
 Final product... wow! (chocolate core, bourbon dip, and strawberry topping)
 ![](djangocon-us-2023-recap-images/simon-says-ice-cream.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Conference Conclusion
 
@@ -866,13 +866,13 @@ Standing ovation for organizers
 DjangoCon US Organizers (photo credit: Bartek Pawlik (https://bartpawlik.format.com/))
 ![](djangocon-us-2023-recap-images/djangocon-us-organizers.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## Sight Seeing and More Food!
 
 I consider getting to know the host city to be an important part of the conference experience. 
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Sarah P. Duke Gardens
 
@@ -899,7 +899,7 @@ Red Bridge
 Wooden Bridge
 ![](djangocon-us-2023-recap-images/duke-gardens-wooden-bridge.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Duke Chapel
 
@@ -910,7 +910,7 @@ After visiting the gardens, I made the quick walk over to the [Duke Chapel](http
 ![](djangocon-us-2023-recap-images/duke-chapel-side.jpg)
 ![](djangocon-us-2023-recap-images/duke-chapel-back.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Museum of Life and Science
 
@@ -945,7 +945,7 @@ Insectarium- cockroaches
 Insectarium- tarantula
 ![](djangocon-us-2023-recap-images/museum-of-life-and-science-tarantula.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Parizade
 
@@ -957,7 +957,7 @@ Amazing ambiance
 Cookie and ice cream desert
 ![](djangocon-us-2023-recap-images/parizade-cookie-and-ice-cream-dessert.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Loaf
 
@@ -973,7 +973,7 @@ Ham and gruyere croissant
 Walnut sea salt brownie
 ![](djangocon-us-2023-recap-images/the-loaf-brownie.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Pizzeria Toro
 
@@ -985,7 +985,7 @@ Cool atmosphere!
 Yum! 
 ![](djangocon-us-2023-recap-images/pizzeria-toro-pizza.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Simon Says Dip This
 
@@ -997,7 +997,7 @@ Dip being poured on
 Toppings to choose from
 ![](djangocon-us-2023-recap-images/simon-says-toppings.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ### Press Coffee, Crepes,and Cocktails
 
@@ -1018,7 +1018,7 @@ The Down Home breakfast crepe ("bacon with scrambled eggs and hoop cheese")
 The inside 
 ![](djangocon-us-2023-recap-images/press-crepes-crepe-inside.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
 ## In Closing
 
@@ -1031,4 +1031,4 @@ Can't wait for next year! :)
 djurham
 ![](djangocon-us-2023-recap-images/djurham.jpg)
 
-<sub>[**back to top**](#table-of-contents)</sub>
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
