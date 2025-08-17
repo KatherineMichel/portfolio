@@ -641,7 +641,7 @@ A different approach using https://github.com/rsinger86/drf-access-policy
 
 ### Speaker and Organizer Dinner
 
-After the conference activities and group photo, I attended the complimentary speaker and organizer dinner at [The Pit](https://www.thepit-durham.com/). The food was really good! 
+After the conference activities and group photo, I attended the complimentary speaker and organizer dinner at The Pit. The food was really good! 
 
 The Pit dining room
 ![](djangocon-us-2023-recap-images/the-pit-dining-room.jpg)
