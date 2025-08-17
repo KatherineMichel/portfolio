@@ -309,7 +309,7 @@ For more information about the changes I made to KhanhIceTea's implementation, c
 
 ## What I Learned About Performance
 
-Although based on existing implementations, `os.walk()` seemed like the obvious choice at first, it can perform poorly. This was explained in [PEP 0471](https://www.python.org/dev/peps/pep-0471), which introduced `os.scandir()`, added to the Python Standard Library in Python 3.5.
+Although based on existing implementations, `os.walk()` seemed like the obvious choice at first, it can perform poorly. This was explained in [PEP 0471](https://peps.python.org/pep-0471/), which introduced `os.scandir()`, added to the Python Standard Library in Python 3.5.
 
 > "This PEP proposes including a new directory iteration function, os.scandir(), in the standard library. This new function adds useful functionality and increases the speed of os.walk() by 2-20 times (depending on the platform and file system) by avoiding calls to os.stat() in most cases.
 > 
