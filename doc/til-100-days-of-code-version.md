@@ -26,7 +26,7 @@ Now that I knew about the self-writing README.md, it was clear that a similar im
 
 ## TIL- 100 Days of Code Version
 
-Around the time of Simon's tweet, I was just beginning [Stanford's Code in Place](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/reflections-on-stanford-code-in-place.md) course. When Code in Place ended, I wanted to continue building small, fun apps regularly. So, I started taking part in a popular initiative called [100 Days of Code](https://www.100daysofcode.com/). 
+Around the time of Simon's tweet, I was just beginning [Stanford's Code in Place](https://katherinemichel.github.io/blog/personal/reflections-on-stanford-code-in-place.html) course. When Code in Place ended, I wanted to continue building small, fun apps regularly. So, I started taking part in a popular initiative called [100 Days of Code](https://www.100daysofcode.com/). 
 
 100 Days of Code participants spend 1 hour a day, most days, working on code-related learning and are encouraged to fork the official [100 Days of Code repo](https://github.com/kallaway/100-days-of-code) to keep a record of their work, as well as tweet their progress from day to day, in order to stay accountable. 
 
@@ -54,7 +54,7 @@ Special 100 Days of Code Features
 
 The first thing I did was spend some time looking at different TIL implementations hosted on GitHub. My intention was not to adopt another person's solution outright, but to get a general idea of what approaches people had taken, and perhaps, why. Ultimately, I wanted to take code apart and go through my own process of discovery and learning, so that I would fully understand how what I was using worked. I also wanted to create an implementation unique to my own needs, including features incorporated specifically for 100 Days of Code. 
 
-The upside of looking at different TIL implementations was that I immediately began to experiment and problem solve by creating my own versions. The downside was that I overlooked a potentially important performance issue. See the "[What I Learned About Performance](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md#what-i-learned-about-performance)" section later in this blog post for more information about that.
+The upside of looking at different TIL implementations was that I immediately began to experiment and problem solve by creating my own versions. The downside was that I overlooked a potentially important performance issue. See the "[What I Learned About Performance](https://katherinemichel.github.io/blog/projects/til-100-days-of-code-version.html)" section later in this blog post for more information about that.
 
 I considered four major approaches implemented in Python:
 
