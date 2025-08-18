@@ -87,7 +87,7 @@ Table of Contents
 
 Disclaimer: the content of this post is a reflection of my life journey and not specific to my work at JPMorganChase.
 
-You can read my [2023 Recap](https://katherinemichel.github.io/portfolio/2023-recap.html) here. 
+You can read my [2023 Recap](https://katherinemichel.github.io/blog/annual-recap/2023-recap.html) here. 
 
 ## This Year's Theme
 
@@ -105,7 +105,7 @@ I continued as a Python/Django software engineer doing task orchestration and di
 
 ### Los Angeles 2023 Trip Recap
 
-The dream Los Angeles trip that I took in early December 2023 turned into a [dream recap](https://katherinemichel.github.io/portfolio/los-angeles-2023.html) filled with my favorite stories, photos, and videos. 
+The dream Los Angeles trip that I took in early December 2023 turned into a [dream recap](https://katherinemichel.github.io/blog/travel/los-angeles-2023.html) filled with my favorite stories, photos, and videos. 
 
 My most-viewed Los Angeles videos:
 * [Universal Studios Tour- King Kong](https://youtu.be/d3wERBCZHEM?si=P2SAE4GQRgXkhKDI)
@@ -130,7 +130,7 @@ Kinesis Advantage360
 
 ### DjangoCon US 2023 Recap Popularity
 
-I published a [DjangoCon US Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html) in October 2023. It was featured in Django News Newsletter [Issue 205](https://django-news.com/issues/205#start). I learned in January that the recap had been Django News Newsletter's top article for months. 
+I published a [DjangoCon US Recap](https://katherinemichel.github.io/blog/conferences/djangocon-us-2023-recap.html) in October 2023. It was featured in Django News Newsletter [Issue 205](https://django-news.com/issues/205#start). I learned in January that the recap had been Django News Newsletter's top article for months. 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -166,7 +166,7 @@ It was a pleasure to continue to be part of the core team organizing the events.
 
 Every year, fellow DEFNA Board Member Jeff Triplett publishes a list of talk topics he'd like to learn more about at DjangoCon US. He also encourages other DEFNA Board Members to publish their own. 
 
-Last year, I finally got organized and created a [Talk Topics Inspiration List for DjangoCon US 2023](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html). This year, I created a [Talk Topics List for DjangoCon US 2024](https://katherinemichel.github.io/portfolio/djangocon-us-2024-topics-inspiration-list.html). 
+Last year, I finally got organized and created a [Talk Topics Inspiration List for DjangoCon US 2023](https://katherinemichel.github.io/blog/conferences/djangocon-us-2023-topics-inspiration-list.html). This year, I created a [Talk Topics List for DjangoCon US 2024](https://katherinemichel.github.io/blog/conferences/djangocon-us-2024-topics-inspiration-list.html). 
 
 Our talk submission stats since I began publishing my list: 
 * 2022: 152
@@ -203,7 +203,7 @@ Thank you to Joni for a special recognition at the end of her post.
 
 ### Conference Snapshots
 
-After years of collecting conference snapshots, I got organized and created a page of my [Favorite Conference Snapshots](https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html) and the stories behind them, as well as a page of [Speaker, Board, and Organizer Photos](https://katherinemichel.github.io/portfolio/speaker-board-and-organizer-photos.html). 
+After years of collecting conference snapshots, I got organized and created a page of my [Favorite Conference Snapshots](https://katherinemichel.github.io/blog/favorite-conference-snapshots.html) and the stories behind them, as well as a page of [Speaker, Board, and Organizer Photos](https://katherinemichel.github.io/blog/speaker-board-and-organizer-photos.html). 
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -409,7 +409,7 @@ After the conference, I did some "heavy lifting" from conference connections mad
 
 ### PyCon US 2024 Recap and Hacker News
 
-I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html) experience. 
+I wrote a deep dive of my [PyCon US 2024](https://katherinemichel.github.io/blog/conferences/pycon-us-2024-recap.html) experience. 
 
 As my recap reflects, as far as talks go, I was particularly interested in major new developments around free-threading, per GIL subinterpreters, and JIT compilation. 
 
@@ -532,7 +532,7 @@ Last year, I had a modest rent increase. I've been assuming my rent would increa
 
 ### DjangoCon US 2024
 
-I attended DjangoCon US from September 22-27. It was an absolute blast. I wrote a [recap](https://katherinemichel.github.io/portfolio/djangocon-us-2024-recap.html) about it. 
+I attended DjangoCon US from September 22-27. It was an absolute blast. I wrote a [recap](https://katherinemichel.github.io/blog/conferences/djangocon-us-2024-recap.html) about it. 
 
 Thank you to Django News for featuring it in [Issue 254](https://django-news.com/issues/254#start)! 
 
