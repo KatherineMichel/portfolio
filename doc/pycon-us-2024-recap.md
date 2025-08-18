@@ -287,7 +287,7 @@ It was also a pleasure to meet Brianne Wilhelmi (Springboard) and Aaron Clark (H
 
 ### Photos and Tea
 
-Earlier this year, I created a [page of favorite conference snapshots](https://katherinemichel.github.io/portfolio/favorite-conference-snapshots.html). Benedict Kofi Amofah (Python Ghana, DjangoCon US) tweeted to me that he'd be in the gallery soon. I took him up on it. :) 
+Earlier this year, I created a [page of favorite conference snapshots](https://katherinemichel.github.io/blog/favorite-conference-snapshots.html). Benedict Kofi Amofah (Python Ghana, DjangoCon US) tweeted to me that he'd be in the gallery soon. I took him up on it. :) 
 
 ![](pycon-us-2024-recap-images/me-and-benedict.jpg)
 Me and Benedict
@@ -900,7 +900,7 @@ After chatting with a PSF Staff Member a few years ago about location selection,
 
 It was announced that PyCon US 2026 will be in Long Beach, California. 
 
-Last year, I treated myself by taking [my dream Los Angeles vacation](https://katherinemichel.github.io/portfolio/los-angeles-2023.html) in December. I loved it, and I can't wait to go back for PyCon US! :)
+Last year, I treated myself by taking [my dream Los Angeles vacation](https://katherinemichel.github.io/blog/travel/los-angeles-2023.html) in December. I loved it, and I can't wait to go back for PyCon US! :)
 
 In the meantime, I hope to see you all in Pittsburgh next year!
 
