@@ -56,7 +56,7 @@ A few useful resources:
 
 For a while now, I've been wanting to learn how to make a scraper, so, when I came across the [All the Places](https://github.com/alltheplaces/) project, which contains a collection of Scrapy scripts (a.k.a "spiders") that can be used to scrape business websites for location data, I decided to make one of my own to contribute to the All the Places project for Hacktoberfest.
 
-I learned so much from this exercise, that I created a blog post about it, "[Building a Taco John's Scraper](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/building-a-taco-johns-scraper.md)." Check it out if you want an insight into my learning process and how the script works.
+I learned so much from this exercise, that I created a blog post about it, "[Building a Taco John's Scraper](https://katherinemichel.github.io/blog/projects/building-a-taco-johns-scraper.html)." Check it out if you want an insight into my learning process and how the script works.
 
 Now that I've created a working scraper, I can build on that knowledge by using it in a more complex project.
 
