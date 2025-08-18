@@ -21,7 +21,7 @@ In early February, I attended [PyCascades 2020](https://2020.pycascades.com/) fo
 
 The atmosphere at PyCascades 2020 was amazing. It was held at [Revolution Hall](https://www.revolutionhall.com/), a former high school on the east side of Portland that was renovated into an event space.
 
-![](2020-year-in-review-images/revolution-hall.jpg)
+![](2020-recap-images/revolution-hall.jpg)
 The entrance to Revolution Hall
 
 The talks were as great as you'd expect and I enjoyed the "hallway track" too. I saw many "old" friends there and made plenty of new ones. Notably, I met a number of "famous" Python folks, too. :) 
@@ -35,32 +35,32 @@ A few memorable moments:
 
 One of the highlights of the conference was eating dinner with [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum), the original author of Python, and friends at [Grassa](https://www.grassapdx.com/), a "handcrafted pasta" restaurant. Guido told us some stories from the early days of Python. It was quite an evening. 
 
-![](2020-year-in-review-images/dinner-with-guido.jpg)
+![](2020-recap-images/dinner-with-guido.jpg)
 Dinner with Guido (he's the one waving!)... what fun; photo credit: Jonan Scheffler, used with permission
 
 While I was in Portland, I also enjoyed Cuban food at [Cubo](https://www.cuboportland.com/), Lebanese and Mediterranean food at [Nicholas Restaurant](https://www.nicholasrestaurant.com/), and Mexican food at [La Morenita](https://www.facebook.com/La-morenita-mexican-food-687319458053736/) food truck. All of the food was super delicious and I'd love to go back and eat it again! :) 
 
-![](2020-year-in-review-images/cubo.jpg)
+![](2020-recap-images/cubo.jpg)
 Ropita at Cubo: shredded beef brisket stewed with tomato, vegetables and traditional Cuban spices, served with white rice, black beans, mango, avocado, maduros and tostone
 
-![](2020-year-in-review-images/nicholas-restuarant.jpg)
+![](2020-recap-images/nicholas-restuarant.jpg)
 Chicken Kabob Lunch Bowl at Nicholas Restaurant: chicken breast marinated in olive oil, garlic, yogurt, paprika, and lemon, served with tzatziki and toum, saffron jasmine rice, and cabbage garbanzo salad; not pictured: yummy hummus and warm pita bread
 
-![](2020-year-in-review-images/la-morenita-food-truck.jpg)
+![](2020-recap-images/la-morenita-food-truck.jpg)
 Morenita Burrito at La Morenita Food Truck: steak, chile relleno, beans, cheese, lettuce, pico de gallo, and guacamole in a flour tortilla
 
 I enjoyed a birdseye view of Portland while riding the [Portland Aerial Tram](https://www.ohsu.edu/visit/tram) and visited the picturesque [Portland Japanese Garden](https://japanesegarden.org/).
 
-![](2020-year-in-review-images/portland-aerial-tram.jpg)
+![](2020-recap-images/portland-aerial-tram.jpg)
 The view from the Portland Aerial Tram upper platform
 
-![](2020-year-in-review-images/me-at-the-portland-japanese-garden.jpg)
+![](2020-recap-images/me-at-the-portland-japanese-garden.jpg)
 Me at the Portland Japanese Garden... a kind stranger saw me taking photos and offered to take mine
 
-![](2020-year-in-review-images/portland-japanese-garden-bridge.jpg)
+![](2020-recap-images/portland-japanese-garden-bridge.jpg)
 The iconic Moon Bridge at the Portland Japanese Garden... breathtaking
 
-![](2020-year-in-review-images/portland-japanese-garden-waterfall.jpg)
+![](2020-recap-images/portland-japanese-garden-waterfall.jpg)
 The iconic Heavenly Falls at the Portland Japanese Garden... wow!
 
 From the moment I arrived in Portland, it came across as a relaxed city full of very nice people. For instance, I was pleasantly taken aback one morning, while walking down the sidewalk, when a stranger kindly said "good morning" to me. That's something I might expect in small town Kansas, not in a city as big as Portland. I loved the food truck culture. And the city itself was quirky and beautiful. It's a potentially triggering subject, but I feel it would be remiss to not acknowledge that a KKK rally took place in the downtown during one of the conference days. During the trip, as I learned more about Oregon's history of racism, I found it to be very disturbing and a reminder of the complexities in our past and, unfortunately, present.
@@ -75,14 +75,14 @@ In late March, while I was looking through my Twitter news feed, I came across a
 
 I applied and was chosen to participate. Although I was much more familiar with Python than some of the other participants, I used it as an opportunity to reinforce concepts and kickstart making some new fun and practical apps from scratch. Although my "section" had a dedicated leader, I was also able to provide some informal mentoring to other members of the group.
 
-I won't write much about my Stanford Code in Place experience here, because you can read about it in my [Reflections on Stanford Code in Place](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/reflections-on-stanford-code-in-place.md) blog post. It was a fun and unique experience and I think I got a lot out of it, including making [Simba Friends Twitter Bot](https://github.com/KatherineMichel/stanford-code-in-place-final-project).
+I won't write much about my Stanford Code in Place experience here, because you can read about it in my [Reflections on Stanford Code in Place](https://katherinemichel.github.io/blog/personal/reflections-on-stanford-code-in-place.html) blog post. It was a fun and unique experience and I think I got a lot out of it, including making [Simba Friends Twitter Bot](https://github.com/KatherineMichel/stanford-code-in-place-final-project).
 
 After Stanford Code in Place ended, I decided to keep the momentum of making apps going by participating in 100 Days of Code. The highlight has been completing several small projects and writing about the process I went through and what I learned. 
 
 A few of my favorite 100 Days of Code project blog posts from this year: 
-* [Building a Taco John's Scraper Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/building-a-taco-johns-scraper.md)
-* [TIL- 100 Days of Code Version Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/til-100-days-of-code-version.md) and [GitHub Repo](https://github.com/KatherineMichel/til-100-days-of-code-version/)
-* [Hacktoberfest PRs- 2020 Blog Post](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/hacktoberfest-prs-2020.md)
+* [Building a Taco John's Scraper Blog Post](https://katherinemichel.github.io/blog/projects/building-a-taco-johns-scraper.html)
+* [TIL- 100 Days of Code Version Blog Post](https://katherinemichel.github.io/blog/projects/til-100-days-of-code-version.html) and [GitHub Repo](https://github.com/KatherineMichel/til-100-days-of-code-version/)
+* [Hacktoberfest PRs- 2020 Blog Post](https://katherinemichel.github.io/blog/projects/hacktoberfest-prs-2020.html)
 
 ## Pinax Release
 
@@ -125,7 +125,7 @@ Community:
 
 In 2017, I became an open source maintainer for the first time, then created a talk about what I'd learned about using Git and GitHub for collaboration and code review. I gave the talk at DjangoCon US 2017 (my first ever conference and talk!), PyLadies Remote, and at a DevICT Hacktoberfest meetup. 
 
-![](2020-year-in-review-images/djangocon-us-2017-talk.jpg)
+![](2020-recap-images/djangocon-us-2017-talk.jpg)
 Me on stage giving my talk at DjangoCon US 2017, my first ever conference and talk
 
 In September, a PyLadies Southwest Florida organizer came across the talk and asked me to give the talk virtually to an audience that would consist of members of PyLadies Southwest Florida, PyLadies Miami, SWFL Coders, SWFL Data, and FGCU SEC Meetup.
@@ -174,3 +174,4 @@ My major step changes this year:
 * Had several experts review my resume and am revising it accordingly
 * Did pay rate research and sought pay rate advice from experts
 * Used my people skills more, including reaching out to my connections for help more often
+
