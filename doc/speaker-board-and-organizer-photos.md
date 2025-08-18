@@ -23,6 +23,8 @@ October 18, Durham, North Carolina
 ![](speaker-board-and-organizer-photos/djangocon-us-2023-defna-board-outside.jpg)
 DEFNA Board group photo; photo credit: Bartek Pawlik (https://bartpawlik.format.com/)
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ## Organizer Photos
 
 ### DjangoCon US 2024
@@ -82,6 +84,8 @@ August 13-18, Spokane, Washington
 ![](speaker-board-and-organizer-photos/djangocon-us-2017-organizers-stage.jpg)
 Organizers during closing remarks; photo credit: Adam Gregory (https://atomimages509.wixsite.com/atom)
 
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
+
 ## Speaker Photos
 
 ### JPMorgan Chase 2023- DjangoCon US Recap
@@ -137,3 +141,5 @@ September 28, 2017
 
 ![](speaker-board-and-organizer-photos/dev-ict-2017-speaker-photo.jpg)
 Speaker photo
+
+🔝 <sub>[**back to top**](#table-of-contents)</sub>
