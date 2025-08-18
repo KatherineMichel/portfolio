@@ -481,7 +481,7 @@ https://2023.djangocon.us/talks/decoding-ddd-a-three-tiered-approach-to-django-p
 
 It was at [DjangoCon US 2018](https://2018.djangocon.us/) that I personally first recall a growing sense of discontent being publicly expressed, for example in this talk that year by former Django Fellow Carlton Gibson, [Your Framework Needs You](https://youtu.be/1BFjg9XtptM?si=oUQr3y2monEzCoud). 
 
-I wrote about it in this [DjangoCon US 2019 recap blog post](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2019.md#your-web-framework-needs-you). 
+I wrote about it in this [DjangoCon US 2019 recap blog post](https://katherinemichel.github.io/blog/conferences/djangocon-us-2019-recap.html#your-web-framework-needs-you). 
 
 "Carlton acknowleged that the (Django) community is more diverse than ever, but the core contributors have continued to be white guys, many of whom have been associated with Django for a very long time and are no longer even contributing. The talk was a call to action to community members to contribute to the Django core code. In short, there is not a quick fix, but change is a priority."
 
@@ -738,7 +738,7 @@ A gift from my friend Andy
 
 ### Inside Out: My Journey of Understanding Inclusion
 
-This year, along the lines of my fellow DEFNA board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I created my own [Talk Topic Ideas List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and posted it on social media. 
+This year, along the lines of my fellow DEFNA board member Jeff Triplett's annual [DjangoCon US Talks I'd Like to See](https://jefftriplett.com/2023/djangocon-us-talks-i-d-like-to-see-2023-edition/) list, I created my own [Talk Topic Ideas List](https://katherinemichel.github.io/blog/conferences/djangocon-us-2023-topics-inspiration-list.html) and posted it on social media. 
 
 !["The @djangocon US CfP closes May 15th. We'd LOVE to receive your talk proposal! If you need some inspiration, I've written up a list of possible topics. What topics would you like to learn more about? ❤️🐍"](djangocon-us-2023-recap-images/the-djangocon-us-cfp.png)
 
