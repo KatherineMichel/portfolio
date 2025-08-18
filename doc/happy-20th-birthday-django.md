@@ -1,6 +1,6 @@
 # Happy 20th Birthday, Django!
 
-![](me-and-simon.jpg)
+![](djangocon-us-2024-recap-images/me-and-simon.jpg)
 Me and Simon Willison at DjangoCon US 2024 (photo credit: Django Fellow Natalia Bidart)
 
 In the early 2000s, I moved to Lawrence, Kansas. I visited the Lawrence Public Library in downtown Lawrence often and unfortunately had no idea that a few blocks away, Django was being created at the Lawrence Journal World. 
