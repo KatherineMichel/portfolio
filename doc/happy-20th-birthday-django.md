@@ -1,6 +1,6 @@
 # Happy 20th Birthday, Django!
 
-![](djangocon-us-2024-recap-images/me-and-simon.jpg)
+![](me-and-simon.jpg)
 Me and Simon Willison at DjangoCon US 2024 (photo credit: Django Fellow Natalia Bidart)
 
 In the early 2000s, I moved to Lawrence, Kansas. I visited the Lawrence Public Library in downtown Lawrence often and unfortunately had no idea that a few blocks away, Django was being created at the Lawrence Journal World. 
@@ -13,6 +13,6 @@ Thank you to Rob Curley, Simon Willison, Adrian Holovaty, and Jacob Kaplan-Moss 
 
 Thank you to everyone who has helped shape this special community. Craig Bruce, Frank Wiles, Jeff Triplett, Ken Whitesell, Kojo Idrissa, Ola Sendecka, Ola Sitarska, and Stacey Haysler immediately come to mind for me personally, but there are far too many to mention. The Django Software Foundation [Individual Members List](https://www.djangoproject.com/foundation/individual-members/) is a good place to start. 
 
-As I said in my [DjangoCon US 2023 Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html), this community is changing the world for the better through shared humanity and technology. And, it's not a coincidence that it started in wonderful Lawrence, Kansas.
+As I said in my [DjangoCon US 2023 Recap](https://katherinemichel.github.io/blog/conferences/djangocon-us-2023-recap.html), this community is changing the world for the better through shared humanity and technology. And, it's not a coincidence that it started in wonderful Lawrence, Kansas.
 
 Happy Birthday, Django! Here's to many more years to come. 
