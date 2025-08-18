@@ -261,7 +261,7 @@ More useful to me resources
 
 Last year, in his talk HTML-ivating your Django web app’s experience with HTMX, AlpineJS, and streaming HTML, Chris May introduced the idea that you can have a SPA-like experience in Django without using SPA tools. 
 
-I wrote about it in my [DjangoCon US 2023 Recap](https://katherinemichel.github.io/portfolio/djangocon-us-2023-recap.html#html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html). 
+I wrote about it in my [DjangoCon US 2023 Recap](https://katherinemichel.github.io/blog/conferences/djangocon-us-2023-recap.html#html-ivating-your-django-web-app-s-experience-with-htmx-alpinejs-and-streaming-html). 
 
 In that talk, he referenced a Thoughtworks article [SPA by Default](https://www.thoughtworks.com/en-us/radar/techniques/spa-by-default) and Tayor Hunt's [Making the World's Fastest Website and Other Mistakes](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
 
@@ -644,7 +644,7 @@ It was a chance to relax, enjoy some good food and conversation.
 
 Sitting next to Simon Willison, co-creator of Django, I couldn't resist getting a photo!
 
-I wrote about Simon's PyCon US 2024 talk about Imitation Intelligence in my [PyCon US Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html#simon-willison-keynote). 
+I wrote about Simon's PyCon US 2024 talk about Imitation Intelligence in my [PyCon US Recap](https://katherinemichel.github.io/blog/conferences/pycon-us-2024-recap.html#simon-willison-keynote). 
 
 Me and Simon (photo credit: Django Fellow Natalia Bidart)
 ![](djangocon-us-2024-recap-images/me-and-simon.jpg)
