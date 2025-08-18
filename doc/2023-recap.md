@@ -20,7 +20,7 @@ I mentored an apprentice in doing so.
 
 In November, a co-worker and I co-presented about Advent of Code and increased the number of participants within our department. 
 
-![](2023-recap/aoc-presentation.jpg)
+![](2023-recap-images/aoc-presentation.jpg)
 Advent of Code Presentation
 
 ## New Certifications
@@ -39,7 +39,7 @@ Throughout the year, I attended JPMorgan Chase Product Ignite and DFW Women in P
 
 During the second quarter, I took part in a five-part security competition and finished close to the top 10%. 
 
-![](2023-recap/secure-code-swag.jpg)
+![](2023-recap-images/secure-code-swag.jpg)
 Secure Code swag
 
 ## PS Connect
@@ -48,10 +48,10 @@ In July, I obtained sponsorship from a JPMorgan Chase Managing Director to start
 
 I was invited to give a DjangoCon US Recap presentation at our PS Connect Christmas Party December 6. It was a great opportunity to do some public speaking and get to know my department colleagues better.
 
-![](2023-recap/christmas-party-presentation-1.jpg) <br/>
+![](2023-recap-images/christmas-party-presentation-1.jpg) <br/>
 Christmas Party presentation
 
-![](2023-recap/christmas-party-presentation-2.jpg) <br/>
+![](2023-recap-images/christmas-party-presentation-2.jpg) <br/>
 Christmas Party presentation
 
 I am looking forward to seeing the new connections yet to come. 
@@ -64,10 +64,10 @@ Throughout the year, I had the opportunity to attend a number of powerful, inter
 
 In June, I took part in the JPMorgan Chase Innovation Week Global Hackathon with a project in the DE&I category. My teammates' backgrounds ranged from product to user experience and design. We participated in the finals. Although we did not win, it was a great experience, and I made some new friends. 
 
-![](2023-recap/hackathon-team.jpg)
+![](2023-recap-images/hackathon-team.jpg)
 My wonderful hackathon Team... so talented and passionate!
 
-![](2023-recap/tif-cup.jpg)
+![](2023-recap-images/tif-cup.jpg)
 Beautiful Take It Forward (TIF) Cup
 
 ## DEFNA
@@ -93,7 +93,7 @@ In addition to being there as a DEFNA Board member, as an attendee, I made many 
 See my [DjangoCon US Recap](https://katherinemichel.github.io/blog/conferences/djangocon-us-2023-recap.html) for more info. 
 
 <!--
-![](2023-recap/djangocon-us-organizers.jpg)
+![](2023-recap-images/djangocon-us-organizers.jpg)
 DjangoCon US Organizers... a truly incredible group of people!
 -->
 
@@ -111,7 +111,7 @@ For more about my experience, check out my student recap "[Reflections on Stanfo
 
 On September 29 at 7:14 am, I happened to be walking down the campus main street, which I don't normally do. I looked up and saw the harvest moon. I snapped this stunning photo. 
 
-![](2023-recap/harvest-moon.jpg)
+![](2023-recap-images/harvest-moon.jpg)
 Harvest Moon
 
 ## Travel, Food, and Fun
@@ -120,7 +120,7 @@ Throughout the year, I enjoyed what Plano had to offer. Thank you to my Plano fr
 
 In December, I took the Los Angeles trip that I've been dreaming of taking for years. I'd had this trip planned twice before and cancelled, once due to wild fires, and once due to the pandemic. It was the last major US city on my bucket list. With Santa Monica as my "home base," I spent 9 days seeing the city. I plan to do a separate write-up of the trip soon. Stay tuned! 
 
-![](2023-recap/friends-set.jpg)
+![](2023-recap-images/friends-set.jpg)
 Me on the Friends set during Warner Brothers Studio Tour
 
 ## Looking Ahead
@@ -139,56 +139,56 @@ I hope to visit Europe. It's next on my bucket list. :)
 
 ## Plano Fun
 
-![](2023-recap/brasao-1.jpg)
+![](2023-recap-images/brasao-1.jpg)
 Brasão Brazilian Steakhouse
 
-![](2023-recap/brasao-2.jpg)
+![](2023-recap-images/brasao-2.jpg)
 Brasão Brazilian Steakhouse... many tasty meats brought to your table and sliced for you
 
-![](2023-recap/brasao-3.jpg)
+![](2023-recap-images/brasao-3.jpg)
 Brasão Brazilian Steakhouse... authentic Brazilian side dishes
 
-![](2023-recap/brasao-4.jpg)
+![](2023-recap-images/brasao-4.jpg)
 Brasão Brazilian Steakhouse... forget about the meat, the grilled pineapple is to die for!
 
-![](2023-recap/rodeo-goat-1.jpg)
+![](2023-recap-images/rodeo-goat-1.jpg)
 Rodeo Goat... Burger Battle
 
-![](2023-recap/rodeo-goat-2.jpg)
+![](2023-recap-images/rodeo-goat-2.jpg)
 Rodeo Goat... yummy!
 
 <!--
-![](2023-recap/rodeo-goat-3.jpg)
+![](2023-recap-images/rodeo-goat-3.jpg)
 Rodeo Goat
 -->
 
-![](2023-recap/mexican-sugar-1.jpg)
+![](2023-recap-images/mexican-sugar-1.jpg)
 Mexican Sugar
 
-![](2023-recap/mexican-sugar-2.jpg)
+![](2023-recap-images/mexican-sugar-2.jpg)
 Mexican Sugar... brunch! Yummy pork chop breakfast, including chips and their distinctive tasting salsa and pour over coffee
 
 <!--
-![](2023-recap/dock-local-1.jpg)
+![](2023-recap-images/dock-local-1.jpg)
 Dock Local
 -->
 
-![](2023-recap/dock-local-2.jpg)
+![](2023-recap-images/dock-local-2.jpg)
 Dock Local fish and chips... highly rated seafood counter in Legacy Town Hall
 
-![](2023-recap/main-street-bakery-1.jpg)
+![](2023-recap-images/main-street-bakery-1.jpg)
 Main Street Bakery in Legacy Shops... lots of beautiful and tasty treats!
 
 <!--
-![](2023-recap/main-street-bakery-2.jpg)
+![](2023-recap-images/main-street-bakery-2.jpg)
 Main Street Bakery
 -->
 
-![](2023-recap/bamboo-house-1.jpg)
+![](2023-recap-images/bamboo-house-1.jpg)
 Bamboo House
 
-![](2023-recap/bamboo-house-2.jpg)
+![](2023-recap-images/bamboo-house-2.jpg)
 Bamboo House Peking Duck... not my favorite food, but an interesting experience
 
-![](2023-recap/fowling.jpg)
+![](2023-recap-images/fowling.jpg)
 Fowling (football bowling... more difficult than it looks!)
