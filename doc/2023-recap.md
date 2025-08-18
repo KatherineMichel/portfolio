@@ -76,7 +76,7 @@ I served another year as a [DEFNA](https://www.defna.org/) Board Member. I chall
 
 During the first quarter, I helped oversee the [DjangoCon US](https://2023.djangocon.us/) website design by publishing our CfP, working to secure a web design contractor, and taking part in website design meetings. 
 
-In May, I created a [DjangoCon US Talk Topics Inspiration List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) that was widely shared among leaders in the Django community and undoubtedly contributed to the number of DjangoCon US talk proposals increasing from 158 the year before to 185. 
+In May, I created a [DjangoCon US Talk Topics Inspiration List](https://katherinemichel.github.io/blog/conferences/djangocon-us-2023-topics-inspiration-list.html) that was widely shared among leaders in the Django community and undoubtedly contributed to the number of DjangoCon US talk proposals increasing from 158 the year before to 185. 
 
 The list kickstarted a conversation that led to a talk by new Django Fellow Natalia Bidart: "[Inside Out: My Journey of Understanding Inclusion](https://www.youtube.com/watch?v=jYAeO37-420)." 
 
@@ -90,7 +90,7 @@ In October, I attended DjangoCon US and made the most of the experience.
 
 In addition to being there as a DEFNA Board member, as an attendee, I made many new connections (including [Python Software Foundation (PSF) Executive Director Deb Nicholson](https://www.python.org/psf/records/staff/) and [Django Fellow Natalia Bidart](https://www.djangoproject.com/weblog/2023/mar/31/welcome-our-new-fellow-natalia-bidart/)), acquired new knowledge, and supported diversity and inclusion. 
 
-See my [DjangoCon US Recap](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md) for more info. 
+See my [DjangoCon US Recap](https://katherinemichel.github.io/blog/conferences/djangocon-us-2023-recap.html) for more info. 
 
 <!--
 ![](2023-recap/djangocon-us-organizers.jpg)
@@ -99,13 +99,13 @@ DjangoCon US Organizers... a truly incredible group of people!
 
 ## Django News Newsletter
 
-Django News Newsletter is a fabulous newsletter published every Friday and filled with all of the most important Django news. I was honored to be included twice this year, first in May for my [DjangoCon US Talk Topics Inspiration List](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/topic-ideas-djangocon-us-2023.md) and second in November for my [DjangoCon US Recap](https://github.com/KatherineMichel/portfolio/blob/master/conference-blog-posts/recap-of-djangocon-us-2023.md). 
+Django News Newsletter is a fabulous newsletter published every Friday and filled with all of the most important Django news. I was honored to be included twice this year, first in May for my [DjangoCon US Talk Topics Inspiration List](https://katherinemichel.github.io/blog/conferences/djangocon-us-2023-recap.html) and second in November for my [DjangoCon US Recap](https://katherinemichel.github.io/blog/conferences/djangocon-us-2023-recap.html). 
 
 ## Stanford Code in Place Article
 
 In April, Stanford Engineering featured me an article "[Stanford Engineering offers free online introductory programming course](https://engineering.stanford.edu/news/stanford-engineering-offers-free-online-introductory-programming-course)". I talked about my experience learning and teaching Python programming language as a Stanford Code in Place student in 2020 and section leader in 2021. It was an honor to be selected to take part from among thousands of participants. 
 
-For more about my experience, check out my student recap "[Reflections on Stanford Code in Place](https://github.com/KatherineMichel/portfolio/blob/master/regular-blog-posts/reflections-on-stanford-code-in-place.md)" or my section leader [recap slides](https://github.com/KatherineMichel/stanford-code-in-place-section-leader). 
+For more about my experience, check out my student recap "[Reflections on Stanford Code in Place](https://katherinemichel.github.io/blog/personal/reflections-on-stanford-code-in-place.html)" or my section leader [recap slides](https://github.com/KatherineMichel/stanford-code-in-place-section-leader). 
 
 ## Harvest Moon
 
