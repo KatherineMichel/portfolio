@@ -134,7 +134,7 @@ Froi Irizarry Rivera; photo credit: Casey Faist (used with permission)
 
 Froi and José found that the controller website has a terrible user experience. The site data is neither open nor usable. Users have to download documents one at a time. There is no real API. The contract documents are sometimes missing. The search functionality is rudimentary. The document content is not searchable. The pagination is broken. No real insights or data visualization tools are provided.
 
-Froi and José began to build their own tool [Contrato PRA](https://contratospr.com/) to help journalists and interested citizens investigate corruption.
+Froi and José began to build their own tool Contrato PRA to help journalists and interested citizens investigate corruption.
 
 The batteries included philosophy of [Django](https://www.djangoproject.com/) and the third-party extensions in the Python and Django ecosystem enabled them to get the project up and running as quickly and cost effectively as possible. 
 
