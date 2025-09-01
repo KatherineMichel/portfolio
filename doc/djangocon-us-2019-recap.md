@@ -281,7 +281,7 @@ That night, I went to the [Taco Stand](https://www.letstaco.com/location/san-die
 
 Yummy tacos at Taco Stand; photo credit: Katherine Michel
 
-Afterward, for dessert, I visited [Salt and Straw](https://saltandstraw.com/flavors/#sd) ice cream shop in Little Italy. Their ice cream cups are a familar sight in Little Italy. I am still dreaming of the Sea Salt with Caramel Ribbons ice cream I had there that night. Can't wait to go back sometime.
+Afterward, for dessert, I visited [Salt and Straw](https://saltandstraw.com/) ice cream shop in Little Italy. Their ice cream cups are a familar sight in Little Italy. I am still dreaming of the Sea Salt with Caramel Ribbons ice cream I had there that night. Can't wait to go back sometime.
 
 ![](djangocon-us-2019-recap-images/salt-and-straw-ice-cream.jpg)
 
