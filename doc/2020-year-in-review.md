@@ -140,7 +140,7 @@ I was extremely happy with how the talk went. The audience was fairly large for 
 
 My presentation lasted for around 45 minutes, followed by questions. I was really at ease and it went very well. There were a lot of positive comments and they would like for me to return sometime.
 
-At that time, I also got some good news about a talk proposal I had submitted to the PyCon US 2020 Maintainers Summit, which was cancelled. My talk proposal, entitled "[Bringing Pinax Back to Life](https://github.com/KatherineMichel/portfolio/blob/master/talk-proposals/pycon-us-2020-maintainers-summit.md)", had been accepted and was thought to be "excellent." Perhaps I will have the opportunity to give that talk in the future, which I would absolutely love to do. :)
+At that time, I also got some good news about a talk proposal I had submitted to the PyCon US 2020 Maintainers Summit, which was cancelled. My talk proposal, entitled "[Bringing Pinax Back to Life](https://github.com/KatherineMichel/portfolio/blob/master/talk-proposals/2020-pycon-us-maintainers-summit.md)", had been accepted and was thought to be "excellent." Perhaps I will have the opportunity to give that talk in the future, which I would absolutely love to do. :)
 
 ## The Wharton School and Simpl
 
