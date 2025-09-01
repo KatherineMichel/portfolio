@@ -266,8 +266,12 @@ One of the most important voices in product management
 * [Marty Cagan](https://www.linkedin.com/in/cagan)
 
 Prolific author of a widely-read, product-focused blog. Recently published the excellent The Ultimate Guide to Developer Productivity. 
+* John Cutler
+* The Ultimate Guide to Developer Productivity
+<!--
 * [John Cutler](https://cutlefish.substack.com/)
 * [The Ultimate Guide to Developer Productivity](https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer)
+-->
 
 A couple of resources that I've had bookmarked for a while to spend some time looking through. 
 * [Open Product Management](https://github.com/ProductHired/open-product-management)
