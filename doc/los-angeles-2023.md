@@ -560,7 +560,7 @@ A view from one of the four sides
 ![](los-angeles-2023-images/city-hall-observation-deck-view.jpg)
 A view from one of the four sides
 
-[Video]([https://youtu.be/mGme3_W_BQc?si=xZ_PfOAzYDDktxUF) of the view from the City Hall Observation Deck
+[Video]([https://youtu.be/mGme3_W_BQc?si=xZ_PfOAzYDDktxUF]) of the view from the City Hall Observation Deck
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
