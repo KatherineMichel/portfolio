@@ -869,7 +869,7 @@ Tammy Do (Code Fellows), Velda Kiara (DEFNA Board Member, Python Steering Counci
 ![](pycon-us-2024-recap-images/chocolate-bar.jpg)
 Chocolate bar made by a Ghanian company and given to me by Afi :) 
 
-PyCon US had a [challenge](https://us.pycon.org/2024/about/pycon-us-challenge/). You could get points for completing certain activities and redeem them for an ice cream card. I was able to complete the challenge, because I had organized a Python-related conference (DjangoCon US 2023) and attended a regional Python conference (PyTexas 2024) since last PyCon US. After dinner, I went to [Milley's Homemade Ice Cream at Market Square](https://www.millieshomemade.com/location/market-square/) and used the ice cream card. I had Best Chocolate. Yummy! 
+PyCon US had a challenge<!--https://us.pycon.org/2024/about/pycon-us-challenge/-->. You could get points for completing certain activities and redeem them for an ice cream card. I was able to complete the challenge, because I had organized a Python-related conference (DjangoCon US 2023) and attended a regional Python conference (PyTexas 2024) since last PyCon US. After dinner, I went to [Milley's Homemade Ice Cream at Market Square](https://www.millieshomemade.com/location/market-square/) and used the ice cream card. I had Best Chocolate. Yummy! 
 
 ![](pycon-us-2024-recap-images/ice-cream.jpg)
 Best Chocolate :) 
