@@ -2,17 +2,17 @@
 
 Published: July 20, 2020
 
-### Description
+## Description
 
 PyGotham 2019 took place at Hotel Penn in New York City last fall. While sheltering-in-place, Eldarion’s Katherine Michel looked back at the wonderful experience she had there and looks forward to returning to a conference and city she loves.
 
-### Blog Post
+## Blog Post
 
 ![](pygotham-2019-recap-images/statue-of-liberty-and-south-manhattan.jpg)
 
 While riding the ferry to Liberty Island, looking back at the Statue of Liberty and South Manhattan; photo credit: Katherine Michel
 
-### A Powerful Call-to-Action
+## A Powerful Call-to-Action
 
 [PyGotham](https://2019.pygotham.org/), New York City's regional Python conference, took place again last fall at the historic [Hotel Pennsylvania](https://en.wikipedia.org/wiki/Hotel_Pennsylvania), in the heart of Manhattan. I've been fortunate to have been able to attend PyGotham every year for the past three years.
 
@@ -32,7 +32,7 @@ And during my own visit to the [Statue of Liberty](https://en.wikipedia.org/wiki
 
 All converged into one interwoven experience that felt very fitting in such a diverse city.
 
-### A Note About American Sign Language at PyGotham
+## A Note About American Sign Language at PyGotham
 
 Approximately a month before PyGotham, I attended an event at [Strange Loop](https://www.thestrangeloop.com/) conference in St. Louis where a deaf woman named [Mel Chua](https://x.com/mchua) was a featured speaker. Mel is an electrical computer engineer with a background in free open-source software (FOSS), large-scale distributed engineering team collaboration, and engineering education culture. 
 
@@ -50,9 +50,9 @@ After having heard Mel's powerful message at Strange Loop, it made me happy to s
 
 Members of the Deaf community at PyGotham; photo credit: A. Jesse Jiryu Davis (used with permission)
 
-### Friday
+## Friday
 
-#### Python Use Spectrum
+### Python Use Spectrum
 
 I was thrilled that the conference kicked off with a keynote about the "[Python Use Spectrum](https://2019.pygotham.org/talks/keynote-the-python-use-spectrum/)" by Kojo Idrissa!
 
@@ -84,7 +84,7 @@ In reality, everyone on the spectrum is using Python to solve problems and all a
 
 Kojo Idrissa; photo credit: Casey Faist (used with permission)
 
-### Friday Talks
+## Friday Talks
 
 As a [Pinax](https://github.com/pinax) Maintainer, I find that talks I can apply to my work particularly resonate with me. There were several such talks on Friday.
 
@@ -94,7 +94,7 @@ I found myself completely engrossed in [Mason Egger](https://x.com/masonegger)'s
 
 Going on at the same time as Mason Egger's talk was "[How I Solved my NYC Parking Problem with Python](https://2019.pygotham.org/talks/how-i-solved-my-nyc-parking-problem-with-python/)," by [Jessica Garson](https://x.com/jessicagarson). I was particularly interested in this talk because Jessica created a fun app to solve her own problem, something I'd like to do more of myself. Jessica lives in Brooklyn and used to have a car. Because of alternate side of the street parking restrictions, every night at 9 o'clock, she would move her car to avoid an expensive parking ticket. She was spending a lot of time looking for a new parking space, sometimes overlooking that she didn't need to, due to a holiday. So, she built an app that would let her know when she didn't need to move her car! Twice a day, a cron job runs the app. Using a [Twitter Premium Search endpoint](https://developer.twitter.com/en/docs/tweets/search/api-reference/premium-search), when the words "suspended" and "tomorrow" show up in a tweet from the [NYC Alt Side Parking Twitter account](https://x.com/NYCASP), [Twilio](https://www.twilio.com/en-us) sends her a text message letting her know she doesn't need to re-park. Very cool! 
 
-### Accepting Your Successes
+## Accepting Your Successes
 
 Saturday kicked off with a keynote by [Piper Thunstrom](https://x.com/pathunstrom): "[Accepting your successes](https://2019.pygotham.org/talks/keynote-accepting-your-successes/)." 
 
@@ -120,7 +120,7 @@ Stop treating societal expectations as success metrics: write your own success s
 
 If you're struggling with your mental health: you're not alone. Don't be afraid to reach out to those around you."
 
-### Python, Governments, and Contracts
+## Python, Governments, and Contracts
 
 On Saturday, I spent a lot of time in the "hallway track." But there was one talk I did attend that I found particularly important. It was "[Python, Governments, and Contracts](https://2019.pygotham.org/talks/python-governments-and-contracts/)," by [Froi Irizarry Rivera](https://x.com/froidotdev) and [José Padilla](https://x.com/jpadilla_).
 
@@ -148,7 +148,7 @@ They have met their goal of collecting the million contract documents on the web
 
 If you are interested in the project or would like to contribute, reach out to them!
 
-### Closing Keynote
+## Closing Keynote
 
 The conference closed with a keynote by [Meg Ray](https://x.com/teach_python): "[Because Equity: Python FTW](https://2019.pygotham.org/talks/keynote-because-equity-python-ftw/)."
 
@@ -188,7 +188,7 @@ Meg Ray; photo credit: Casey Faist (used with permission)
 
 At the end of the talk, Meg gave a call to action for community members to advocate and volunteer. Ways to make a difference include: personally advocating at a state or local level for computer science as a graduation requirement; professionally promoting computer science education via your workplace by supporting employees in volunteering for computer science education week or make events, hosting school field trips in your office, inviting high school students to shadow you for a day on take your child to work day, or recruiting a first-time intern.
 
-### Hallway Track
+## Hallway Track
 
 As usual, the "hallway track" was an invaluable opportunity to network. The connections made were too numerous to list all, but here are a few highlights:
 
@@ -198,7 +198,7 @@ While mentioning to Meg Ray that perhaps there were some lessons in her talk tha
 
 During the last few hours of PyGotham, I also serendipitiously met employees of three companies that have had a huge impact on my life, and was offered tours of the San Francisco-based headquarters of all three. Fun!
 
-### Statue of Liberty and Ellis Island
+## Statue of Liberty and Ellis Island
 
 When I attended PyGotham for the first time in 2017, it was the first time I had ever visited New York City. I had read about and seen pictures and videos of New York City all of my life, of course, but you really have to physically be in a place to understand it, in my opinion. It both was and wasn't what I had expected.
 
@@ -356,7 +356,7 @@ After the tour was over, I had the chance to chat with Ranger Jenn about my time
 
 It was an experience of a lifetime.
 
-### Thank You
+## Thank You
 
 PyGotham was yet another life-changing conference. Thank you to Conference Chair [Jon Banafato](https://x.com/jonafato) and all of the organizers who put so much hard work and planning into making it a wonderful event. Looking forward to next time!
 
