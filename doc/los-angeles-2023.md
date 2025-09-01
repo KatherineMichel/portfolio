@@ -42,7 +42,7 @@ Table of Contents
     - [The Getty Center](#the-getty-center)
     - [Tacos 1986 and Santa Monica Beach at Sunset](#tacos-1986-and-santa-monica-beach-at-sunset)      
 - [Monday](#monday)
-    - [Republique](#id1)
+    - [République](#republique)
     - [The Grammy Museum](#the-grammy-museum)
     - [The Cecil Hotel](#the-cecil-hotel)
     - [Downtown Los Angeles](#downtown-los-angeles)
@@ -52,19 +52,19 @@ Table of Contents
     - [Universal Theme Park](#universal-theme-park)
     - [The Griffith Observatory](#the-griffith-observatory)
     - [Comedy in English](#comedy-in-english)
-- [Wednesday](#id2)
+- [Wednesday](#wednesday-2)
     - [Hollywood Walk of Fame](#hollywood-walk-of-fame)
     - [Celebrity Homes Bus Tour](#celebrity-homes-bus-tour)
     - [Rodeo Drive](#rodeo-drive)
     - [Via Alloro](#via-alloro)
     - [Bruno's Ristorante Italiano](#brunos-ristorante-italiano-1)
-- [Thursday](#id4)
+- [Thursday](#thursday-2)
     - [Ice at Santa Monica](#ice-at-santa-monica)
-    - [Mel's Drive-In](#mel-s-drive-in)
+    - [Mel's Drive-In](#mels-drive-in)
     - [End of Santa Monica Pier at Sunset](#end-of-santa-monica-pier-at-sunset)
     - [Santa Monica Pier Carousel](#santa-monica-pier-carousel)
     - [Santa Monica Promenade](#santa-monica-promenade)
-- [Friday](#id5)
+- [Friday](#friday-2)
     - [Back to Kansas for Christmas](#back-to-kansas-for-christmas)
 - [Takeaways](#takeaways)
 - [Warner Brothers Studio Tour versus Universal Studios Tour](#warner-brothers-studio-tour-versus-universal-studios-tour)
@@ -344,7 +344,8 @@ Tourist be touristing... I gave in and ate an overpriced hamburger, fries, and s
 
 ## Saturday
 
-### Republique
+(republique)=
+### République
 
 I started Saturday by eating breakfast at a bakery/café called [République](https://republiquela.com/) in a building that Charlie Chaplin had built. République is owned by two chefs awarded a Michelin Star and a James Beards award and one of whom worked with Alain Ducasse of the Dorchester Collection, my old stomping grounds. A foodie colleague and friend Wooyong Ee recommended it. It was excellent. 
 
@@ -652,6 +653,7 @@ The comedian before him was scream-y... this one was quiet and thoughtful. I tho
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(wednesday-2)=
 ## Wednesday
 
 ### Hollywood Walk of Fame
@@ -737,6 +739,7 @@ I'll be back.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(thursday-2)=
 ## Thursday
 
 ### Ice at Santa Monica 
@@ -754,6 +757,7 @@ Santa Monica's Ice skating rink
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(mels-drive-in)=
 ### Mel's Drive-In
 
 I saw a [Mel's Drive-in](https://melsdrive-in.com/) at Universal Studios Theme Park and another one just off Hollywood Boulevard. Because I kept hearing about it so much, I decided to eat at one in Santa Monica. I later realized that I had Mel's Drive-in mixed up with Mel's Diner. Mel's Drive-in was made famous by the movie [American Graffiti](https://melsdrive-in.com/history/). [Mel's Diner](https://www.alicehyatt.com/) was a television show. Haha. Nevertheless, the chocolate milkshake was the best that I've ever had. 
@@ -832,6 +836,7 @@ Christmas decorations
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(friday-2)=
 ## Friday
 
 ### Back to Kansas for Christmas
