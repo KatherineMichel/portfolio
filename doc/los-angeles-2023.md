@@ -95,7 +95,7 @@ Beach fun
 * [Santa Monica](https://www.santamonica.com/things-to-do/santa-monica-beach/) and [Venice Beaches](https://www.visitveniceca.com/), [Santa Monica Pier](https://www.santamonicapier.org/) (day and night)
 
 Fascinating
-* [Petersen Automotive Museum](petersen.org)
+* [Petersen Automotive Museum](https://www.petersen.org/)
 
 Good food
 * [Bruno's Ristorante Italiano](https://brunossantamonica.com/)
