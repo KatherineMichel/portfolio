@@ -16,6 +16,7 @@ author = 'Katherine "Kati" Michel'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = ['myst_parser']
+myst_heading_anchors = 7
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
