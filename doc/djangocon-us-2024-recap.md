@@ -13,7 +13,7 @@ Table of Contents
     - [Swag Stuffing](#swag-stuffing)
     - [Django Social](#django-social)
 - [Monday](#monday)
-    - [Keynote- Power to the People who Teach the People](#keynote-power-to-the-people-who-teach-the-people)
+    - [Keynote- Power to the People who Teach the People](#keynote--power-to-the-people-who-teach-the-people)
     - [Choosing Wisely: SPA vs. HTMX for Your Next Web Project](#choosing-wisely-spa-vs-htmx-for-your-next-web-project)
     - [Error Culture](#error-culture)
     - [Shrimp and Grits](#shrimp-and-grits)
@@ -221,6 +221,7 @@ Orientation Chair Kojo Idressa and Conference Chair and DEFNA President Peter Gr
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(keynote-power-to-the-people-who-teach-the-people)=
 ### Keynote- Power to the People who Teach the People
 
 Sheena O'Connell has been an educator since childhood and began working for an education non-profit called Umuzi in 2018. She is interested in [metacognition](https://en.wikipedia.org/wiki/Metacognition), how people learn. 
@@ -343,6 +344,7 @@ North Carolina-inspired lunch
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(troubleshooting-is-a-lifestyle)=
 ### Troubleshooting is a Lifestyle 😎
 
 Jack Linke started off the talk with a quote and described indicator categories. 
@@ -403,6 +405,7 @@ Jack encouraged the audience to document your process.
  
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(a-related-matter-optimizing-your-webapp-by-using-django-debug-toolbar-select-related-and-prefetch-related)=
 ### A Related Matter: Optimizing your webapp by using django-debug-toolbar, select_related(), and prefetch_related()
 
 Because I am already familiar with diagnosing and fixing N+1 problems, I watched Christopher Adams's to pick up new tips. 
@@ -480,6 +483,7 @@ Chocolate cremieux, dark chocolate, hazelnut, Italian meringue, decaf coffee
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(keynote-how-to-be-a-developer-and-other-lies-we-tell-ourselves)=
 ### Keynote- How To Be A Developer and Other Lies We Tell Ourselves
 
 Mario Munoz started off his keynote by introducing himself. "I am a person." He went on to talk about the diverse experiences that have contributed to who he is today. 
@@ -523,6 +527,7 @@ Some of his suggested methods
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(if-we-had-1-000-000-what-could-the-dsf-do-with-4x-its-budget)=
 ### If We Had $1,000,000: What Could The DSF Do With 4x Its Budget?
 
 Jacob Kaplan-Moss is a retired Django BDFL and current DSF Treasurer. He showed the current $255,000 DSF budget breakdown. Most of the budget goes to the salary for fellows (health of project) and admin (health of foundation). 
@@ -673,6 +678,7 @@ Wednesday was deep dive day.
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(keynote-the-fellowship-of-the-pony)=
 ### Keynote- The Fellowship of the Pony
 
 Using Lord of the Rings, Django Fellow Natalia Bidart (a.k.a. necessita) gave a comprehensive explanation of what Django Fellowship is. 
@@ -724,6 +730,7 @@ Lock, observe, trace, reveal
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(hidden-gems-of-django-5-x)=
 ### Hidden gems of Django 5.x
 
 Django Fellow Sarah Boyce pointed out that work on [Django 5.x](https://docs.djangoproject.com/en/dev/releases/5.0/) began in January 2023, and from her perspective, is almost done. 
@@ -974,6 +981,7 @@ The Can Opener
 
 🔝 <sub>[**back to top**](#table-of-contents)</sub>
 
+(c-museum-hotel)=
 ### 21c Museum Hotel
 
 Last year, I didn't make it to the [21c Museum Hotel](https://21cmuseumhotels.com/) to see the hotel's signature artwork, so I thought it would be a fun experience this year. I was particularly taken by the see-into bathrooms. Also, the bank vault was a fun throwback to the hotel's past as a bank. 
