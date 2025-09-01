@@ -283,7 +283,7 @@ After the Warner Brothers Studio Tour, I traveled over to Hollywood Boulevard an
 Hollywood Boulevard
 
 ![](los-angeles-2023-images/hollywood-boulevard-tcl-chinese-theater.jpg)
-[TCL Chinese Theater](https://www.tclchinesetheatres.com/)
+[Grauman's (TCL) Chinese Theater](https://en.wikipedia.org/wiki/Grauman%27s_Chinese_Theatre)
 
 ![](los-angeles-2023-images/hollywood-boulevard-michael-jackson-handprints.jpg)
 Michael Jackson's handprints, glove prints, and footprints
