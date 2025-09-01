@@ -903,7 +903,7 @@ Wooden Bridge
 
 ### Duke Chapel
 
-After visiting the gardens, I made the quick walk over to the [Duke Chapel](https://chapel.duke.edu/). Not only was the chapel gorgeous, but the [Conference for North Carolina Chapter of the American Choral Directors Association](https://chapel.duke.edu/events/conference-north-carolina-chapter-american-choral-directors-association-1697169600) was taking place. A choir that must have been made up of elite children singers happened to be practicing. I've stumbled into some jaw-dropping experiences while traveling. This was another one. Together, the music and surroundings were magical. 
+After visiting the gardens, I made the quick walk over to the [Duke Chapel](https://chapel.duke.edu/). Not only was the chapel gorgeous, but the Conference for North Carolina Chapter of the American Choral Directors Association was taking place. A choir that must have been made up of elite children singers happened to be practicing. I've stumbled into some jaw-dropping experiences while traveling. This was another one. Together, the music and surroundings were magical. 
 
 ![](djangocon-us-2023-recap-images/duke-chapel-front.jpg)
 ![](djangocon-us-2023-recap-images/duke-chapel-altar.jpg)
