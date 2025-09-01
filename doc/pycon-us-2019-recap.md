@@ -2,11 +2,11 @@
 
 Published June 1, 2019
 
-### Description
+## Description
 
 PyCon US 2019 took place at Huntington Convention Center in downtown Cleveland, Ohio from May 1-10. Eldarion’s Katherine Michel wrote about what it was like to experience PyCon US for the first time!
 
-### Blog Post
+## Blog Post
 
 ![](pycon-us-2019-recap-images/cleveland-sign.jpg)
 
@@ -18,7 +18,7 @@ While PyCon 2018 was going on, I regretted not having gone when I realized via T
 
 Perhaps because of my FOMO in 2018, I didn’t want to have any regrets after PyCon US 2019 and I don’t. I both challenged and enjoyed myself to the max. I returned home having made many new friends, (including people I have long admired), learned new things, and found new ideas for [Pinax](https://github.com/pinax), an open source ecosystem of Django starter projects and apps that I help maintain.
 
-### Getting Ready
+## Getting Ready
 
 Even though I didn’t know what to expect at PyCon, I knew there would be more going on than I could do. So ahead of time, I did some prioritizing that helped me make the most of my time, without doing too much:
 
@@ -26,7 +26,7 @@ Even though I didn’t know what to expect at PyCon, I knew there would be more 
 * I made a list of people with whom I wanted to reconnect or meet for the first time.
 * And I chose three sights around Cleveland that were a priority to see.
 
-### It’s Going to Be Great
+## It’s Going to Be Great
 
 As people began to tweet that they were on their way to Cleveland, the anticipation began to build. Kushal Das [tweeted](https://x.com/KatiMichel/status/1123277599348707328) that SFO was filling up for PyCon, including the BDFL [Guido van Rossum](https://x.com/gvanrossum)! I replied, “I’m getting so excited!” I was gobsmacked when Guido then followed me on Twitter. I immediately felt quite welcome and certain that I would have a great PyCon!
 
@@ -34,7 +34,7 @@ As people began to tweet that they were on their way to Cleveland, the anticipat
 
 My tweet after being followed on Twitter by Guido
 
-### Thursday
+## Thursday
 
 I arrived in Cleveland on Thursday, around noon. I headed to the conference floor to register and see what was going on. Quite a few conference-goers were mingling in the hallway. It was an advantage for me that I had gone to smaller, regional Python conferences before PyCon. I immediately saw some friends I’ve made through [DjangoCon US](https://2019.djangocon.us/) and [PyGotham](https://2019.pygotham.org/) and was excited to see them. I also immediately began to see people I had hoped to meet for the first time and chatted with them. The atmosphere was upbeat and everyone was super friendly. A group of us walked to nearby [Mabel’s BBQ](http://www.michaelsymon.com/mabels-bbq). The food was delicious.
 
@@ -42,7 +42,7 @@ When we returned to the convention center, I decided to join the [swag stuffing 
 
 The [Opening Reception](https://us.pycon.org/2019/events/opening-reception/) started at 5:30 pm in the [Exhibit Hall](https://us.pycon.org/2019/sponsors/exhibit-hall/). I’d never seen anything quite like the Exhibit Hall in real life, only on television! It was an industrial-size space filled with row after row of booths. Conference-goers ate, networked, and walked around chatting to sponsors and picking up swag. I saw Guido there for the first time and said hello! I was thrilled to meet him. Throughout the week, it became rather normal to see him around, chatting and working. I began to think of him more as a human being, not just a famous tech person.
 
-### Friday
+## Friday
 
 The main conference kicked off on Friday, with an [impressive keynote](https://www.youtube.com/watch?v=ftP5BQh1-YM) by [Dr. Russell Keith-Magee](https://x.com/freakboy3742) about Python black swans. I had come across some of the ideas in his talk before. I was amazed at how he wove them into one coherent theme, often using masterful storytelling. I felt inspired to become a better public speaker by finding connections between ideas and improving my storytelling skills.
 
@@ -58,7 +58,7 @@ Me and Joel Rivera with the PyLatam Logo
 
 On Friday evening, I attended the [Art of Python](https://us.pycon.org/2019/hatchery/artofpython/), a mini arts festival that is part of the [PyCon Hatchery Program](https://us.pycon.org/2019/hatchery/). The performances were funny and thought-provoking. I’m glad I went.
 
-### Saturday
+## Saturday
 
 Saturday kicked off with two very special keynotes by [Shadeed “Sha” Wallace-Stepter](https://restorecal.org/sha/) and [Jessica McKellar](https://x.com/jessicamckellar).
 
@@ -86,7 +86,7 @@ Another highlight of PyCon for me was meeting [Dr. Naomi Ceder](https://x.com/Na
 
 The portrait of Guido being carried around by PyLadies; photo credit: Katherine Michel
 
-### Sunday
+## Sunday
 
 On Sunday, I attended the [PyLadies Lunch](https://us.pycon.org/2019/events/pyladieslunch/). The lunch was a time to meet in a fun, relaxed atmosphere to network and share common experiences. Throughout the lunch, women went to the front of the room and shared things they had done that they were proud of. Too often, women downplay their accomplishments. This was a time to celebrate ourselves and applaud one another!
 
@@ -96,7 +96,7 @@ After the PyLadies Lunch, I walked from the convention center a few blocks to ta
 
 Cleveland skyline as seen from the Terminal Tower Observation Deck; photo credit: Katherine Michel
 
-### Development Sprints and More Sight Seeing
+## Development Sprints and More Sight Seeing
 
 The main conference ended on Sunday and the [Development Sprints](https://us.pycon.org/2019/community/sprints/) began on Monday.
 
@@ -122,7 +122,7 @@ The Beatles Exhibit at the Rock and Roll Hall of Fame Museum; photo credit; Kath
 
 On Wednesday, my last evening in Cleveland, being invited to eat at [Flannery’s Irish Pub](https://flannerys.com/) with a group of CPython Core Devs and other Pythonistas was a wonderful way to end a magical week.
 
-### It’s Not the End
+## It’s Not the End
 
 A few things really surprised me about PyCon.
 
