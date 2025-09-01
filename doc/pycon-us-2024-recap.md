@@ -196,7 +196,7 @@ At Snowflake booth, I learned about [Snowflake Quickstarts](https://quickstarts.
 
 At the Crunch Data booth, I met Elizabeth Garrett Christensen. I know of Elizabeth through the talks she has given at DjangoCon US: "[How to Be a Postgres DBA in a Pinch](https://2022.djangocon.us/talks/how-to-be-a-postgres-dba-in-a-pinch/)" and "[Postgres Performance: From Slow to Pro](https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/)". Crunch Data provides Enterprise PostgreSQL support, including fully managed Postgres as a Service. 
 
-As a fellow Lawrence native, Elizabeth seems to be hoping for a Lawrence Django conference as much as I am. :) I missed the [Lawrence Technology Conference](https://lawrencetechconference.splashthat.com/) this year, but hope to make it next year at least, if there is one. 
+As a fellow Lawrence native, Elizabeth seems to be hoping for a Lawrence Django conference as much as I am. :) I missed the Lawrence Technology Conference this year, but hope to make it next year at least, if there is one. 
 
 At the PostgreSQL community booth, I obtained some learning resources, including a paper version of [PostgreSQL FAQs](https://www.postgresql.org/about/press/faq/).
 
