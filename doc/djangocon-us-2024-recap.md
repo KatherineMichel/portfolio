@@ -449,7 +449,7 @@ Ron explained some possible tools and gave demos
 * Live profiling tool [django-silk](https://github.com/jazzband/django-silk)
 * django-silk profiler and binary version can be used to create an image that shows parallel functions running
 * django-silk decorator method and context manager method can be used to profile small blocks of code
-* django-silk [Dynamic profiling](https://github.com/jazzband/django-silk?tab=readme-ov-file#dynamic-profiling) can be used to profile something you don't have access to
+* django-silk [Dynamic profiling](https://github.com/jazzband/django-silk/blob/master/README.md#dynamic-profiling) can be used to profile something you don't have access to
 
 Summary
 ![](djangocon-us-2024-recap-images/ron-summary.png)
