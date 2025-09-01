@@ -589,7 +589,7 @@ In a single-tenancy architecture, each tenant has its own application instance a
 
 In a multi-tenancy architecture, all tenants share the same database and application instance, but each tenant is isolated from the rest, and you have to implement the isolation. A user can belong to multiple tenants, but can only access resources from the tenants to which they belong. 
 
-"Multitenancy is a software architecture where a single software instance can serve multiple, distinct user groups."- [Red Hat's definition](https://www.redhat.com/en/topics/cloud-computing/what-is-multitenancy#:~:text=Multitenancy%20is%20a%20software%20architecture,an%20example%20of%20multitenant%20architecture.)
+"Multitenancy is a software architecture where a single software instance can serve multiple, distinct user groups."- [Red Hat's definition](https://www.redhat.com/en/topics/cloud-computing/what-is-multitenancy)
 
 According to Eliana, multi-tenancy is more common when a company uses your product and will have its own users, not when you market directly to the end user. 
 
