@@ -554,7 +554,7 @@ Spread the word :)
 
 ### Don't Buy the "AI" Hype
 
-While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference [OpenAI DevDay](https://openai.com/blog/announcing-openai-devday) off the ground, Tim Allen, gave an impassioned talk [Don't Buy the "AI" Hype](https://2023.djangocon.us/talks/dont-buy-the-ai-hype/) the he had put together at the last minute to fill an open slot. 
+While [DjangoCon US 2022 Chair Logan Kilpatrick](https://2022.djangocon.us/news/introducing-conference-chair-logan/), first DevRel hire at OpenAI, is busy getting OpenAI's first developer conference OpenAI DevDay<!--https://openai.com/blog/announcing-openai-devday--> off the ground, Tim Allen, gave an impassioned talk [Don't Buy the "AI" Hype](https://2023.djangocon.us/talks/dont-buy-the-ai-hype/) the he had put together at the last minute to fill an open slot. 
 
 Tim has been writing code since 1980. Over the years, he has seen a lot of tech trends and hype, and has been involved in some of it. He has never seen anything like what he calls the "AI" hype cycle. According to Tim, it's next level. At the risk of sounding "like an old man yelling at kids to get off my lawn," he wants to provide a warning.
 
