@@ -321,7 +321,7 @@ He does not think of them as Artificial Intelligence. He thinks of them as Imita
 
 When evaluating a new technology, Simon asks, what can I build with this that I couldn't have built with it before? LLMs open up new options unlike anything he has ever seen. 
 
-How can we tell which of these models works best? Vibes. Simon recommends using [LMSYS Org Chatbot Arena](https://arena.lmsys.org/). You vote on which model gave the best response to a prompt, then they are scored using Elo rating system. Simon is relieved, because "openly" licensed models are beginning to rank. 
+How can we tell which of these models works best? Vibes. Simon recommends using [LMSYS Org Chatbot Arena](https://lmarena.ai/). You vote on which model gave the best response to a prompt, then they are scored using Elo rating system. Simon is relieved, because "openly" licensed models are beginning to rank. 
 
 LLMs can be run on smartphones now, even with no internet connection. An app called MLC Chat will give you access to Mistral, one of the best openly licensed models. 
 
