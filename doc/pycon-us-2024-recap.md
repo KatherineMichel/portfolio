@@ -730,7 +730,7 @@ Key takeaways
   
 Homework
 * Renew a connection: reply to an old friend or colleague
-* Practice [Volunteer Responsibility Amnesty Day](volunteeramnestyday.net): on June 20th have a 20 minute meeting with yourself to think about your choices
+* Practice Volunteer Responsibility Amnesty Day<!--volunteeramnestyday.net-->: on June 20th have a 20 minute meeting with yourself to think about your choices
 * Consider solidarity
 
 Sumana created a page with all of her excellent [keynote references](https://harihareswara.net/posts/2024/references-pycon-us-keynote/). 
