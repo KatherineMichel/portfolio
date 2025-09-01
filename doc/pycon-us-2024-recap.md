@@ -190,7 +190,7 @@ At the Edge DB booth, Yury Selivanov (Edge DB Co-founder) told me that Django wi
 
 At the Oracle booth, Gary Brenner (Oracle Senior Cloud Engineer) told me about Oracle Cloud and self-managing Oracle databases. 
 
-At MongoDB booth, I caught up with my friend Mark Smith (MongoDB) and obtained some [learning resources](https://www.mongodb.com/developer/events/pycon-us-2024/) from Rita Rodrigues (Director of Developer Relations at MongoDB). 
+At MongoDB booth, I caught up with my friend Mark Smith (MongoDB) and obtained some learning resources<!--https://www.mongodb.com/developer/events/pycon-us-2024/--> from Rita Rodrigues (Director of Developer Relations at MongoDB). 
 
 At Snowflake booth, I learned about [Snowflake Quickstarts](https://quickstarts.snowflake.com/) and using Snowflake tasks for orchestration. 
 
