@@ -14,6 +14,14 @@ jobs:
       - name: Install dependencies
         run: |
           pip install sphinx alabaster myst_parser
+      - name: Sphinx linkcheck
+        run: |
+          sphinx-build -b linkcheck -W -n -a -E doc _build/linkcheck
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: linkcheck
+          path: _build/linkcheck
       - name: Sphinx build
         run: |
           sphinx-build doc _build
