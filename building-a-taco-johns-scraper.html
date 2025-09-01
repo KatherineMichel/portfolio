@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="./">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Building a Taco John’s Scraper &#8212; Portfolio  documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=5ecbeea2" />
+    <link rel="stylesheet" type="text/css" href="_static/basic.css?v=b08954a9" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css?v=27fed22d" />
+    <script src="_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="_static/doctools.js?v=9bcbadda"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+
+  
+  
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="building-a-taco-john-s-scraper">
+<h1>Building a Taco John’s Scraper<a class="headerlink" href="#building-a-taco-john-s-scraper" title="Link to this heading">¶</a></h1>
+<section id="before-i-begin">
+<h2>Before I Begin<a class="headerlink" href="#before-i-begin" title="Link to this heading">¶</a></h2>
+<p>I created this scraper as a fun programming exercise to solve a hypothetical problem.</p>
+<p>A couple of important things to know:</p>
+<ul class="simple">
+<li><p>Scraping is sometimes considered controversial, and can have unintended consequences. For example, I recently read an article about a person being indefinitely locked out of their Google account due to their scraping activity! Be careful out there.</p></li>
+<li><p>Some websites have been designed to have a built-in <a class="reference external" href="https://en.wikipedia.org/wiki/API">API (Application Programming Interface)</a>, which enables data to be obtained from the website database in a controlled way. Before scraping, you might want to see if an API exists and whether it serves your purpose. APIs are often well documented. Here are a couple of lists of APIs as examples: https://github.com/public-apis/public-apis and https://github.com/n0shake/Public-APIs</p></li>
+</ul>
+</section>
+<section id="what-is-scraping">
+<h2>What is Scraping?<a class="headerlink" href="#what-is-scraping" title="Link to this heading">¶</a></h2>
+<p>Imagine that a website contains some structured data that you would like to obtain. For example, perhaps you are a data scientist who would like to do an analysis of a store’s products, or you are a web developer who would like to create a website that aggregates product information.</p>
+<p>One way to obtain the data is to use a mouse to click through the pages of the website. But, depending on how much data you’d like to obtain, this might not only be inconvenient, it might not be humanly possible!</p>
+<p>Perhaps, sometime, while looking through the menu of your website browser, you’ve clicked on an option that says “View Source” and you’ve gotten a glimpse of some of the source code, that is normally hidden, that runs a website page.</p>
+<p>Clicking on “View Source”</p>
+<p><img alt="" src="_images/view-source.png" /></p>
+<p>A source code snippet… this source code had been “minified” to improve website performance. I used a formatting tool to un-minify it.</p>
+<p><img alt="" src="_images/source-code-snippet.png" /></p>
+<p>In addition to an official <a class="reference external" href="https://docs.python.org/3/library/">standard library</a> that contains all of the commonly used features of the language, <a class="reference external" href="https://www.python.org/">Python</a> programming language has a rich ecosystem of third-party tools that can be used to do powerful things.</p>
+<p>One of the third-party tools in the Python ecosystem is called <a class="reference external" href="https://www.scrapy.org/">Scrapy</a>. Scrapy can be used to create a Python program that can programatically follow a website’s URLs (links) in the source code to obtain, or “scrape” the structured data you are in search of and output it in a form that you can save and use.</p>
+<p>Unlike a human being, a <a class="reference external" href="https://en.wikipedia.org/wiki/Web_scraping">scraper</a> can hypothetically do this on a massive scale, in a short amount of time, and on a schedule.</p>
+</section>
+<section id="making-a-scraper-for-hacktoberfest">
+<h2>Making a Scraper for Hacktoberfest<a class="headerlink" href="#making-a-scraper-for-hacktoberfest" title="Link to this heading">¶</a></h2>
+<p><a class="reference external" href="https://hacktoberfest.com/">Hacktoberfest</a>, sponsored by <a class="reference external" href="https://github.com/">GitHub</a> and Digital Ocean, is a month-long celebration of open-source code. If you submit four pull requests (proposed contributions) to participating open-source projects on GitHub during October, and the pull requests are considered valid and merged, you will receive a t-shirt or have a tree planted in your name, up to the first 70,000 people.</p>
+<p>If you are ever interested in getting involved in open source and don’t know where to get started, I sometimes give a talk about it called “Get a Jumpstart on Collaboration and Code Review in GitHub.” Check out my talk <a class="reference external" href="https://github.com/KatherineMichel/get-a-jumpstart-on-collaboration-and-code-review-in-github-pyladies-southwest-florida-talk">slides and script</a> in my GitHub account.</p>
+<p>While I was looking through GitHub repos (places where code is stored) to identify contributions I could make that would qualify for Hacktoberfest, I came across a repo called <a class="reference external" href="https://github.com/alltheplaces/alltheplaces/">All the Places</a>. All the Places project contains a collection of <a class="reference external" href="https://github.com/alltheplaces/alltheplaces/tree/master/locations/spiders">Scrapy scripts</a> (a.k.a “spiders”) that can be used to scrape business websites for location data.</p>
+<p>For a while now, I’ve been wanting to learn how to make a scraper, so I decided to make one of my own to contribute to the All the Places project for Hacktoberfest.</p>
+</section>
+<section id="considerations">
+<h2>Considerations<a class="headerlink" href="#considerations" title="Link to this heading">¶</a></h2>
+<p>To begin with, I attempted to make scrapers for several different websites and learned by trial and error about the challenges.</p>
+<p>Firstly, because All the Places scrapers are intended to be used to collect geographical information, it’s required that location latitude and longitude information be scraped from the website. But, even if the latitude and longitude information is contained within the website, it’s not necessarily easily accessible. If the source code contains a Google Map URL that has the location latitude and longitude information within the URL, that information can be scraped directly. But, in one project I worked on, the Google Map URL contained the location address instead of its latitude and longitude, making that information much less straight forward to obtain.</p>
+<p>Google Map URL that contains latitude and longitude data</p>
+<div class="highlight-html notranslate"><div class="highlight"><pre><span></span>https://www.google.com/maps/place/Taco+John&#39;s/@38.9728434,-95.2478613,15z/data=!4m5!3m4!1s0x0:0x9ed745c4be038bd6!8m2!3d38.9728434!4d-95.2478613
+</pre></div>
+</div>
+<p>Google Map URL that contains an address</p>
+<div class="highlight-html notranslate"><div class="highlight"><pre><span></span>https://www.google.com/maps/dir/Taco+John&#39;s,+West+6th+Street,+Lawrence,+KS/
+</pre></div>
+</div>
+<p>Secondly, there is a lot of inconsistency in the way that websites are structured. In an “easier” scenario, the website structure and its URLs will progress in a predictable way. For example, maybe the relevant URLs in a page listing states will only lead to city pages and the URLs in the city pages will only lead to restaurant pages. Unfortunately, the URLs in the Taco John’s website are inconsistent, which you’ll learn about later.</p>
+<p>Thirdly, when scraping information from a page, you are at the mercy of the meticulousness of the developer who wrote the source code. Better structured and documented source code (for instance, that is structured using a <a class="reference external" href="https://schema.org/">schema</a>) can make your life easier.</p>
+<p>Snippet of HTML structured using <a class="reference external" href="https://schema.org/PostalAddress">PostalAddress Schema</a></p>
+<div class="highlight-html notranslate"><div class="highlight"><pre><span></span><span class="p">&lt;</span><span class="nt">div</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;information-address-content&quot;</span><span class="p">&gt;&lt;</span><span class="nt">span</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;coordinates&quot;</span> <span class="na">itemprop</span><span class="o">=</span><span class="s">&quot;geo&quot;</span> <span class="na">itemscope</span> <span class="na">itemtype</span><span class="o">=</span><span class="s">&quot;http://schema.org/GeoCoordinates&quot;</span><span class="p">&gt;&lt;</span><span class="nt">meta</span> <span class="na">itemprop</span><span class="o">=</span><span class="s">&quot;latitude&quot;</span> <span class="na">content</span><span class="o">=</span><span class="s">&quot;38.9728433610435&quot;</span><span class="p">&gt;&lt;</span><span class="nt">meta</span> <span class="na">itemprop</span><span class="o">=</span><span class="s">&quot;longitude&quot;</span> <span class="na">content</span><span class="o">=</span><span class="s">&quot;-95.24786129593849&quot;</span><span class="p">&gt;&lt;/</span><span class="nt">span</span><span class="p">&gt;&lt;</span><span class="nt">address</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;c-address&quot;</span> <span class="na">itemscope</span> <span class="na">itemtype</span><span class="o">=</span><span class="s">&quot;http://schema.org/PostalAddress&quot;</span> <span class="na">itemprop</span><span class="o">=</span><span class="s">&quot;address&quot;</span><span class="p">&gt;&lt;</span><span class="nt">span</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;c-address-street&quot;</span> <span class="na">itemprop</span><span class="o">=</span><span class="s">&quot;streetAddress&quot;</span><span class="p">&gt;&lt;</span><span class="nt">span</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;c-address-street-1&quot;</span><span class="p">&gt;</span>1101 W 6th St <span class="p">&lt;/</span><span class="nt">span</span><span class="p">&gt;&lt;/</span><span class="nt">span</span><span class="p">&gt;&lt;</span><span class="nt">span</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;c-address-city&quot;</span><span class="p">&gt;&lt;</span><span class="nt">span</span> <span class="na">itemprop</span><span class="o">=</span><span class="s">&quot;addressLocality&quot;</span><span class="p">&gt;</span>Lawrence<span class="p">&lt;/</span><span class="nt">span</span><span class="p">&gt;&lt;</span><span class="nt">span</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;c-address-city-comma&quot;</span><span class="p">&gt;</span>,<span class="p">&lt;/</span><span class="nt">span</span><span class="p">&gt;&lt;/</span><span class="nt">span</span><span class="p">&gt;</span> <span class="p">&lt;</span><span class="nt">abbr</span> <span class="na">title</span><span class="o">=</span><span class="s">&quot;Kansas&quot;</span> <span class="na">aria-label</span><span class="o">=</span><span class="s">&quot;Kansas&quot;</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;c-address-state&quot;</span> <span class="na">itemprop</span><span class="o">=</span><span class="s">&quot;addressRegion&quot;</span><span class="p">&gt;</span>KS<span class="p">&lt;/</span><span class="nt">abbr</span><span class="p">&gt;</span> <span class="p">&lt;</span><span class="nt">span</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;c-address-postal-code&quot;</span> <span class="na">itemprop</span><span class="o">=</span><span class="s">&quot;postalCode&quot;</span><span class="p">&gt;</span> 66044<span class="p">&lt;/</span><span class="nt">span</span><span class="p">&gt;</span> <span class="p">&lt;</span><span class="nt">abbr</span> <span class="na">title</span><span class="o">=</span><span class="s">&quot;United States&quot;</span> <span class="na">aria-label</span><span class="o">=</span><span class="s">&quot;United States&quot;</span> <span class="na">class</span><span class="o">=</span><span class="s">&quot;c-address-country-name c-address-country-us&quot;</span> <span class="na">itemprop</span><span class="o">=</span><span class="s">&quot;addressCountry&quot;</span><span class="p">&gt;</span>US<span class="p">&lt;/</span><span class="nt">abbr</span><span class="p">&gt;&lt;/</span><span class="nt">address</span><span class="p">&gt;&lt;/</span><span class="nt">div</span><span class="p">&gt;</span>
+</pre></div>
+</div>
+<p>However… inconsistent website structure and poorly written source code can also strengthen your problem solving muscles.</p>
+<p>After a lot of experimentation with websites in the All the Places issues, I decided to identify a site on my own to scrape. I thought about restaurant chains in Kansas and Taco John’s immediately came to mind. When I lived in Lawrence, Kansas, I often went through the drive-through of the Taco John’s at 1626 W 23rd St (now closed) on Taco Tuesday, and picked up several tacos and an order of Potato Olés®. Yum.</p>
+</section>
+<section id="how-location-pages-work-on-the-taco-john-s-website">
+<h2>How Location Pages Work on the Taco John’s Website<a class="headerlink" href="#how-location-pages-work-on-the-taco-john-s-website" title="Link to this heading">¶</a></h2>
+<p>I set my Taco John’s scraper up to begin “crawling” at the main Taco John’s locations page. This locations page is an index of states where Taco John’s restaurants are located.</p>
+<p>Taco John’s locations page (https://locations.tacojohns.com/)</p>
+<p><img alt="" src="_images/locations-page.png" /></p>
+<p>Clicking on a URL in the locations page will usually open up an index page showing the cities where Taco John’s restaurants are located in the state.</p>
+<p>Taco John’s state page example (https://locations.tacojohns.com/ks.html)</p>
+<p><img alt="" src="_images/state-page.png" /></p>
+<p>If a city contains more than one Taco John’s restaurant, clicking on the city URL will open an index page showing all of the restaurants in the city.</p>
+<p>Taco John’s city page example (https://locations.tacojohns.com/ks/lawrence.html)</p>
+<p><img alt="" src="_images/city-page.png" /></p>
+<p>Clicking on one of these URLs will open up the restaurant page.</p>
+<p>Taco John’s restaurant page example (https://locations.tacojohns.com/ks/lawrence/1101-w-6th-st.html)</p>
+<p><img alt="" src="_images/restaurant-page.png" /></p>
+<p>If a city contains only one Taco John’s restaurant, clicking on the city URL will open up the restaurant page directly.</p>
+</section>
+<section id="the-challenge">
+<h2>The Challenge<a class="headerlink" href="#the-challenge" title="Link to this heading">¶</a></h2>
+<p>I said that clicking on a link in the locations page will usually open up a state page showing the cities where Taco John’s restaurants are located. But unfortunately, this is not <em>always</em> the case.</p>
+<p>State page links on locations page</p>
+<div class="highlight-html notranslate"><div class="highlight"><pre><span></span>https://locations.tacojohns.com/co.html
+https://locations.tacojohns.com/id.html
+https://locations.tacojohns.com/il.html                            
+https://locations.tacojohns.com/in.html
+https://locations.tacojohns.com/ia.html
+https://locations.tacojohns.com/ks.html                           
+https://locations.tacojohns.com/ky.html
+https://locations.tacojohns.com/mn.html
+https://locations.tacojohns.com/mo.html
+https://locations.tacojohns.com/mt.html                       
+https://locations.tacojohns.com/ne.html
+https://locations.tacojohns.com/nd.html
+https://locations.tacojohns.com/oh.html
+https://locations.tacojohns.com/sd.html
+https://locations.tacojohns.com/tn.html
+https://locations.tacojohns.com/wa.html
+https://locations.tacojohns.com/wi.html
+https://locations.tacojohns.com/wy.html
+</pre></div>
+</div>
+<p>Only one city in Arkansas (Russellville) has any Taco John’s location and that city has two. So, a state page is not required, but a city page is. The program needs to skip to a city page, then parse the location pages.</p>
+<p>City page link on locations page</p>
+<div class="highlight-html notranslate"><div class="highlight"><pre><span></span>https://locations.tacojohns.com/ar/russellville.html
+</pre></div>
+</div>
+<p>Three states (Michigan, Nevada, and New York), only have one restaurant in the state. So state and city pages are not required. The program needs to skip to a restaurant page.</p>
+<p>Restaurant page links on locations page</p>
+<div class="highlight-html notranslate"><div class="highlight"><pre><span></span>https://locations.tacojohns.com/mi/stevensville/4107-red-arrow-highway.html
+https://locations.tacojohns.com/nv/reno/770-s-wells-ave.html
+https://locations.tacojohns.com/ny/jamaica/john-f--kennedy-international-airport.html
+</pre></div>
+</div>
+<p>As a result, most of the links on the locations page are for state pages, one is for a city page, and three are for restaurant pages.</p>
+<p>In programming, it’s important to “catch” <a class="reference external" href="https://docs.python.org/3/tutorial/errors.html#exceptions">exceptions</a>, situations that differ from the norm, and plan for them in advance. Otherwise, the program might literally… not work.</p>
+<p>My Scrapy program has specific instructions for how to parse each type of page. If the program always goes in the same order, from location page to state page, to city page, to restaurants page, using the correct set of instructions to parse the correct page, there’s no problem.</p>
+<p>But, if the program follows a city or restaurant page link, but is parsed using the instructions for parsing a state page, there’s a problem. The program doesn’t work right, because the instructions don’t fit the page.</p>
+<p>The program needs to know what type of page it’s parsing, so it can use the correct instructions.</p>
+</section>
+<section id="the-solution">
+<h2>The Solution<a class="headerlink" href="#the-solution" title="Link to this heading">¶</a></h2>
+<p>My solution involves <a class="reference external" href="https://en.wikipedia.org/wiki/Regular_expression">regular expressions</a> (regex).</p>
+<p>A regular expression is an abstract pattern that a program can use to identify a combination of letters, numbers, or symbols.</p>
+<p>Within the program, I’ve used regex to create a <code class="docutils literal notranslate"><span class="pre">state_pattern</span></code>, <code class="docutils literal notranslate"><span class="pre">city_pattern</span></code>, and <code class="docutils literal notranslate"><span class="pre">location_pattern</span></code>, to express the abstract patterns of the website state page, city page, and location page URLs.</p>
+<p>State, city, and location page URL regex patterns</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">state_pattern</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s2">&quot;^[a-z]</span><span class="si">{2}</span><span class="s2">(\.html)$&quot;</span><span class="p">)</span>
+<span class="n">city_pattern</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s2">&quot;^[a-z]</span><span class="si">{2}</span><span class="s2">\/.+(\.html)$&quot;</span><span class="p">)</span>
+<span class="n">location_pattern</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s2">&quot;^[a-z]</span><span class="si">{2}</span><span class="s2">\/.+\/.+(\.html)$&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>As the program crawls the URLs in the source code page, it will compare each URL to each regex pattern until it matches one. In that way, the program will know if the URL belongs to a state, city, or restaurant page.</p>
+<p>The program will then call the function that contains the instructions for parsing that type of page.</p>
+<p>Instead of processing the pages in an order, the program processes the pages by page type. In that way, no matter what path the links take, however long or short, the program will end up at a location page, outputting the data from that page.</p>
+</section>
+<section id="regex-pattern-explanation">
+<h2>Regex Pattern Explanation<a class="headerlink" href="#regex-pattern-explanation" title="Link to this heading">¶</a></h2>
+<p>Every location URL begins with <code class="docutils literal notranslate"><span class="pre">https://locations.tacojohns.com/</span></code>. The <code class="docutils literal notranslate"><span class="pre">^</span></code> character lets the program know that that part of the URL doesn’t matter to us. We are only interested in the unique part of each URL.</p>
+<p>The unique part of every URL starts with a state code. The regex pattern <code class="docutils literal notranslate"><span class="pre">[a-z]{2}</span></code> will match any two letters between a and z, inclusive.</p>
+<p>Every page ends with <code class="docutils literal notranslate"><span class="pre">.html</span></code>, which is a file ending. We can group this pattern together in parentheses. Because the <code class="docutils literal notranslate"><span class="pre">.</span></code> can be used in regex to match any character, we need to tell the program that we are matching a <code class="docutils literal notranslate"><span class="pre">.</span></code> literally. We can do that by putting a <code class="docutils literal notranslate"><span class="pre">\</span></code> in front of it, to “escape” it. The <code class="docutils literal notranslate"><span class="pre">$</span></code> after <code class="docutils literal notranslate"><span class="pre">(\.html)</span></code> indicates it’s the end of the pattern. This pattern will be used in all the regex patterns.</p>
+<p>State pattern match example: https://locations.tacojohns.com/ks.html</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">state_pattern</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s2">&quot;^[a-z]</span><span class="si">{2}</span><span class="s2">(\.html)$&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>In the city pattern, the state code is followed by a forward slash (<code class="docutils literal notranslate"><span class="pre">/</span></code>), then a group of characters for a city name. Because the <code class="docutils literal notranslate"><span class="pre">/</span></code> can also be used as a regex character, we need to make it literal by putting a <code class="docutils literal notranslate"><span class="pre">\</span></code> in front of it, to escape it. The <code class="docutils literal notranslate"><span class="pre">.</span></code> can be used to match any character and the <code class="docutils literal notranslate"><span class="pre">+</span></code> indicates that pattern can occur one or more times.</p>
+<p>City pattern match example: https://locations.tacojohns.com/ks/lawrence.html</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">city_pattern</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s2">&quot;^[a-z]</span><span class="si">{2}</span><span class="s2">\/.+(\.html)$&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>The location pattern is similar to the city pattern, but the <code class="docutils literal notranslate"><span class="pre">\/.+</span></code> patterns happens twice, once for a <code class="docutils literal notranslate"><span class="pre">/</span></code> and a city name, and again for a <code class="docutils literal notranslate"><span class="pre">/</span></code> and the location name.</p>
+<p>Location pattern match example: https://locations.tacojohns.com/ks/lawrence/1101-w-6th-st.html</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">location_pattern</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s2">&quot;^[a-z]</span><span class="si">{2}</span><span class="s2">\/.+\/.+(\.html)$&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>If you want to get better at Regex, I recommend doing <a class="reference external" href="https://regexcrossword.com/">Regex Crosswords</a>!</p>
+</section>
+<section id="stepping-through-the-program">
+<h2>Stepping Through the Program<a class="headerlink" href="#stepping-through-the-program" title="Link to this heading">¶</a></h2>
+<p>This blog post assumes that the Python programming environment required is already set up on the computer.</p>
+<p>You can see the public code here: https://github.com/alltheplaces/alltheplaces/blob/master/locations/spiders/taco_johns.py</p>
+<p>The Python Standard Library <a class="reference external" href="https://docs.python.org/3/library/re.html">regex module</a> is imported from Python, as well as the Scrapy package, and a <a class="reference external" href="https://github.com/alltheplaces/alltheplaces/blob/master/locations/items.py"><code class="docutils literal notranslate"><span class="pre">GeojsonPointItem()</span></code> class</a> that the data properties are passed into.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span><span class="w"> </span><span class="nn">re</span>
+
+<span class="kn">import</span><span class="w"> </span><span class="nn">scrapy</span>
+
+<span class="kn">from</span><span class="w"> </span><span class="nn">locations.items</span><span class="w"> </span><span class="kn">import</span> <span class="n">GeojsonPointItem</span>
+</pre></div>
+</div>
+<p>The project is set up. Although not extremely relevant for our purposes, Scrapy uses object-oriented programming. <code class="docutils literal notranslate"><span class="pre">download_delay</span></code> is optional, but can make the program performance more consistent.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="k">class</span><span class="w"> </span><span class="nc">TacoJohns</span><span class="p">(</span><span class="n">scrapy</span><span class="o">.</span><span class="n">Spider</span><span class="p">):</span>
+    <span class="n">name</span> <span class="o">=</span> <span class="s2">&quot;taco_johns&quot;</span>
+    <span class="n">allowed_domains</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;tacojohns.com&quot;</span><span class="p">]</span>
+    <span class="n">download_delay</span> <span class="o">=</span> <span class="mf">0.2</span>
+    <span class="n">start_urls</span> <span class="o">=</span> <span class="p">(</span>
+        <span class="s2">&quot;https://locations.tacojohns.com/&quot;</span><span class="p">,</span>
+    <span class="p">)</span>
+</pre></div>
+</div>
+<p>The state page, city page, and location page URL patterns as regex. These patterns will be used throughout the program.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span>    <span class="n">state_pattern</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s2">&quot;^[a-z]</span><span class="si">{2}</span><span class="s2">(\.html)$&quot;</span><span class="p">)</span>
+    <span class="n">city_pattern</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s2">&quot;^[a-z]</span><span class="si">{2}</span><span class="s2">\/.+(\.html)$&quot;</span><span class="p">)</span>
+    <span class="n">location_pattern</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s2">&quot;^[a-z]</span><span class="si">{2}</span><span class="s2">\/.+\/.+(\.html)$&quot;</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>The program begins at the <code class="docutils literal notranslate"><span class="pre">start_url</span></code>, which is the main locations page. The program locates the URLs in the source code, and compares each one to the regex patterns. Depending on which regex pattern the URL matches, the program will call the <code class="docutils literal notranslate"><span class="pre">parse_state</span></code>, <code class="docutils literal notranslate"><span class="pre">parse_location</span></code>, or <code class="docutils literal notranslate"><span class="pre">parse_city</span></code> function next.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span>    <span class="k">def</span><span class="w"> </span><span class="nf">parse</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">response</span><span class="p">):</span>
+        <span class="n">urls</span> <span class="o">=</span> <span class="n">response</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s1">&#39;//li[@class=&quot;c-directory-list-content-item&quot;]//@href&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">extract</span><span class="p">()</span>
+        <span class="k">for</span> <span class="n">url</span> <span class="ow">in</span> <span class="n">urls</span><span class="p">:</span>
+            <span class="k">if</span> <span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">state_pattern</span><span class="o">.</span><span class="n">match</span><span class="p">(</span><span class="n">url</span><span class="o">.</span><span class="n">strip</span><span class="p">())):</span>
+               <span class="k">yield</span> <span class="n">scrapy</span><span class="o">.</span><span class="n">Request</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">urljoin</span><span class="p">(</span><span class="n">url</span><span class="p">),</span> <span class="n">callback</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">parse_state</span><span class="p">)</span>
+            <span class="k">elif</span> <span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">location_pattern</span><span class="o">.</span><span class="n">match</span><span class="p">(</span><span class="n">url</span><span class="o">.</span><span class="n">strip</span><span class="p">())):</span>
+                <span class="k">yield</span> <span class="n">scrapy</span><span class="o">.</span><span class="n">Request</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">urljoin</span><span class="p">(</span><span class="n">url</span><span class="p">),</span> <span class="n">callback</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">parse_location</span><span class="p">)</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="k">yield</span> <span class="n">scrapy</span><span class="o">.</span><span class="n">Request</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">urljoin</span><span class="p">(</span><span class="n">url</span><span class="p">),</span> <span class="n">callback</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">parse_city</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>If the URL matched the <code class="docutils literal notranslate"><span class="pre">state_pattern</span></code> regex pattern, the <code class="docutils literal notranslate"><span class="pre">parse_state</span></code> function has now been called. Because the entries on the state page can lead to either a city page or a location page, the URLs will be compared to the <code class="docutils literal notranslate"><span class="pre">city_pattern</span></code> and <code class="docutils literal notranslate"><span class="pre">location_pattern</span></code> and depending on which regex pattern the URL matches, the program will call the <code class="docutils literal notranslate"><span class="pre">parse_city</span></code> or <code class="docutils literal notranslate"><span class="pre">parse_location</span></code>function next.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span>    <span class="k">def</span><span class="w"> </span><span class="nf">parse_state</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">response</span><span class="p">):</span>
+        <span class="n">urls</span> <span class="o">=</span> <span class="n">response</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s1">&#39;//li[@class=&quot;c-directory-list-content-item&quot;]//@href&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">extract</span><span class="p">()</span>
+        <span class="k">for</span> <span class="n">url</span> <span class="ow">in</span> <span class="n">urls</span><span class="p">:</span>
+            <span class="k">if</span> <span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">location_pattern</span><span class="o">.</span><span class="n">match</span><span class="p">(</span><span class="n">url</span><span class="o">.</span><span class="n">strip</span><span class="p">())):</span>
+                <span class="k">yield</span> <span class="n">scrapy</span><span class="o">.</span><span class="n">Request</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">urljoin</span><span class="p">(</span><span class="n">url</span><span class="p">),</span> <span class="n">callback</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">parse_location</span><span class="p">)</span>
+            <span class="k">else</span><span class="p">:</span>
+                <span class="k">yield</span> <span class="n">scrapy</span><span class="o">.</span><span class="n">Request</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">urljoin</span><span class="p">(</span><span class="n">url</span><span class="p">),</span> <span class="n">callback</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">parse_city</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>If the URL matched the <code class="docutils literal notranslate"><span class="pre">city_pattern</span></code> regex pattern, the <code class="docutils literal notranslate"><span class="pre">parse_city</span></code> function has now been called. These URLs will only lead to a location page, so the <code class="docutils literal notranslate"><span class="pre">parse_location</span></code> function is called.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span>    <span class="k">def</span><span class="w"> </span><span class="nf">parse_city</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">response</span><span class="p">):</span>
+        <span class="n">urls</span> <span class="o">=</span> <span class="n">response</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s1">&#39;//*[@class=&quot;c-location-grid-item-link page-link hidden-xs&quot;]//@href&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">extract</span><span class="p">()</span>
+        <span class="k">for</span> <span class="n">url</span> <span class="ow">in</span> <span class="n">urls</span><span class="p">:</span>
+            <span class="k">yield</span> <span class="n">scrapy</span><span class="o">.</span><span class="n">Request</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">urljoin</span><span class="p">(</span><span class="n">url</span><span class="p">),</span> <span class="n">callback</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">parse_location</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>All roads lead to the location page, which will contain the location details.</p>
+<p>See the All the Places project <a class="reference external" href="https://github.com/alltheplaces/alltheplaces/blob/master/DATA_FORMAT.md"><code class="docutils literal notranslate"><span class="pre">DATA_FORMAT</span></code></a> file for information about the types of data that can be collected. <code class="docutils literal notranslate"><span class="pre">properties</span></code> creates a structured model for the data and indicates where to find each piece of data within the source code. The scraped <code class="docutils literal notranslate"><span class="pre">properties</span></code> data will be passed into the imported <a class="reference external" href="https://github.com/alltheplaces/alltheplaces/blob/master/locations/items.py"><code class="docutils literal notranslate"><span class="pre">GeojsonPointItem()</span></code> class</a> as a subclassed <a class="reference external" href="https://docs.scrapy.org/en/latest/topics/items.html"><code class="docutils literal notranslate"><span class="pre">scrapy.Item</span></code></a> parameter. The properties will be set as Scrapy fields and outputted in the terminal.</p>
+<p>The developers of this website formatted the source code using a <a class="reference external" href="https://schema.org/PostalAddress">PostalAddress Schema</a>, which made the data easier to locate and parse.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span>    <span class="k">def</span><span class="w"> </span><span class="nf">parse_location</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">response</span><span class="p">):</span>
+
+        <span class="n">properties</span> <span class="o">=</span> <span class="p">{</span>
+            <span class="s1">&#39;ref&#39;</span><span class="p">:</span> <span class="n">response</span><span class="o">.</span><span class="n">url</span><span class="p">,</span>
+            <span class="s1">&#39;name&#39;</span><span class="p">:</span> <span class="n">response</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s1">&#39;//div[@itemprop=&quot;name&quot;]//text()&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">extract_first</span><span class="p">(),</span>
+            <span class="s1">&#39;addr_full&#39;</span><span class="p">:</span> <span class="n">response</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s1">&#39;normalize-space(//*[@itemprop=&quot;streetAddress&quot;]//text())&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">extract_first</span><span class="p">(),</span>
+            <span class="s1">&#39;city&#39;</span><span class="p">:</span> <span class="n">response</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s1">&#39;//span[@itemprop=&quot;addressLocality&quot;]//text()&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">extract_first</span><span class="p">(),</span>
+            <span class="s1">&#39;state&#39;</span><span class="p">:</span> <span class="n">response</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s1">&#39;//*[@itemprop=&quot;addressRegion&quot;]//text()&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">extract_first</span><span class="p">(),</span>
+            <span class="s1">&#39;postcode&#39;</span><span class="p">:</span> <span class="n">response</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s1">&#39;normalize-space(//span[@itemprop=&quot;postalCode&quot;]//text())&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">extract_first</span><span class="p">(),</span>
+            <span class="s1">&#39;country&#39;</span><span class="p">:</span> <span class="s2">&quot;USA&quot;</span><span class="p">,</span>
+            <span class="s1">&#39;phone&#39;</span><span class="p">:</span> <span class="n">response</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s1">&#39;//span[@id=&quot;telephone&quot;]//text()&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">extract_first</span><span class="p">(),</span>
+            <span class="s1">&#39;website&#39;</span><span class="p">:</span> <span class="n">response</span><span class="o">.</span><span class="n">url</span><span class="p">,</span>
+            <span class="s1">&#39;lat&#39;</span><span class="p">:</span> <span class="n">response</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s1">&#39;//*[@itemprop=&quot;latitude&quot;]/@content&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">extract_first</span><span class="p">(),</span>
+            <span class="s1">&#39;lon&#39;</span><span class="p">:</span> <span class="n">response</span><span class="o">.</span><span class="n">xpath</span><span class="p">(</span><span class="s1">&#39;//*[@itemprop=&quot;longitude&quot;]/@content&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">extract_first</span><span class="p">(),</span>
+        <span class="p">}</span>
+
+        <span class="k">yield</span> <span class="n">GeojsonPointItem</span><span class="p">(</span><span class="o">**</span><span class="n">properties</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>One restaurant’s data output in the terminal</p>
+<div class="highlight-javascript notranslate"><div class="highlight"><pre><span></span><span class="mf">2020</span><span class="o">-</span><span class="mf">10</span><span class="o">-</span><span class="mf">25</span><span class="w"> </span><span class="mf">15</span><span class="o">:</span><span class="mf">09</span><span class="o">:</span><span class="mf">08</span><span class="w"> </span><span class="p">[</span><span class="nx">scrapy</span><span class="p">.</span><span class="nx">core</span><span class="p">.</span><span class="nx">engine</span><span class="p">]</span><span class="w"> </span><span class="nx">DEBUG</span><span class="o">:</span><span class="w"> </span><span class="nx">Crawled</span><span class="w"> </span><span class="p">(</span><span class="mf">200</span><span class="p">)</span><span class="w"> </span><span class="o">&lt;</span><span class="nx">GET</span><span class="w"> </span><span class="nx">https</span><span class="o">:</span><span class="c1">//locations.tacojohns.com/ks/lawrence/1101-w-6th-st.html&gt; (referer: https://locations.tacojohns.com/ks/lawrence.html)</span>
+<span class="mf">2020</span><span class="o">-</span><span class="mf">10</span><span class="o">-</span><span class="mf">25</span><span class="w"> </span><span class="mf">15</span><span class="o">:</span><span class="mf">09</span><span class="o">:</span><span class="mf">08</span><span class="w"> </span><span class="p">[</span><span class="nx">scrapy</span><span class="p">.</span><span class="nx">core</span><span class="p">.</span><span class="nx">scraper</span><span class="p">]</span><span class="w"> </span><span class="nx">DEBUG</span><span class="o">:</span><span class="w"> </span><span class="nx">Scraped</span><span class="w"> </span><span class="kr">from</span><span class="w"> </span><span class="o">&lt;</span><span class="mf">200</span><span class="w"> </span><span class="nx">https</span><span class="o">:</span><span class="c1">//locations.tacojohns.com/ks/lawrence/1101-w-6th-st.html&gt;</span>
+<span class="p">{</span><span class="s1">&#39;addr_full&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;1101 W 6th St&#39;</span><span class="p">,</span>
+<span class="w"> </span><span class="s1">&#39;city&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;Lawrence&#39;</span><span class="p">,</span>
+<span class="w"> </span><span class="s1">&#39;country&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;USA&#39;</span><span class="p">,</span>
+<span class="w"> </span><span class="s1">&#39;extras&#39;</span><span class="o">:</span><span class="w"> </span><span class="p">{</span><span class="s1">&#39;@spider&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;taco_johns&#39;</span><span class="p">},</span>
+<span class="w"> </span><span class="s1">&#39;lat&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;38.9728433610435&#39;</span><span class="p">,</span>
+<span class="w"> </span><span class="s1">&#39;lon&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;-95.24786129593849&#39;</span><span class="p">,</span>
+<span class="w"> </span><span class="s1">&#39;name&#39;</span><span class="o">:</span><span class="w"> </span><span class="s2">&quot;Taco John&#39;s&quot;</span><span class="p">,</span>
+<span class="w"> </span><span class="s1">&#39;phone&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;(785) 843-0936&#39;</span><span class="p">,</span>
+<span class="w"> </span><span class="s1">&#39;postcode&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;66044&#39;</span><span class="p">,</span>
+<span class="w"> </span><span class="s1">&#39;ref&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;https://locations.tacojohns.com/ks/lawrence/1101-w-6th-st.html&#39;</span><span class="p">,</span>
+<span class="w"> </span><span class="s1">&#39;state&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;KS&#39;</span><span class="p">,</span>
+<span class="w"> </span><span class="s1">&#39;website&#39;</span><span class="o">:</span><span class="w"> </span><span class="s1">&#39;https://locations.tacojohns.com/ks/lawrence/1101-w-6th-st.html&#39;</span><span class="p">}</span>
+</pre></div>
+</div>
+</section>
+<section id="wrapping-up">
+<h2>Wrapping Up<a class="headerlink" href="#wrapping-up" title="Link to this heading">¶</a></h2>
+<p>This was a lot of fun. I know I learned a lot about Scrapy and some new things about how websites work. I hope you learned something too.</p>
+<p>Happy scraping! :)</p>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="Main">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">Portfolio</a></h1>
+
+
+
+
+
+
+
+
+
+<search id="searchbox" style="display: none" role="search">
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script><h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">About:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="speaker-board-and-organizer-photos.html">Speaker, Board, and Organizer Photos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="favorite-conference-snapshots.html">Favorite Conference Snapshots</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Annual Reviews:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="2024-recap.html">2024 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2023-recap.html">2023 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2020-year-in-review.html">2020 Recap</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">My Craft:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="what-i-am-paying-attention-to-in-2024.html">What I Am Paying Attention to in 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="reflections-on-stanford-code-in-place.html">Reflections on Stanford Code in Place</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">DjangoCon US Talk Topic Inspiration Lists:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2025-topics-inspiration-list.html">DjangoCon US 2025 Topics Inspiration List</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2024-topics-inspiration-list.html">DjangoCon US 2024 Topics Inspiration List</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2023-topics-inspiration-list.html">DjangoCon US 2023 Topics Inspiration List</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Conferences Recaps:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2024-recap.html">DjangoCon US 2024 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pycon-us-2024-recap.html">PyCon US 2024 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2023-recap.html">DjangoCon US 2023 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pygotham-2019-recap.html">PyGotham 2019 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2019-recap.html">DjangoCon US 2019 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pycon-us-2019-recap.html">PyCon US 2019 Recap</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Thoughts:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="happy-20th-birthday-django.html">Happy 20th Birthday, Django!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="a-lesson-in-leadership.html">A Lesson in Leadership</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Travel:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="los-angeles-2023.html">Los Angeles 2023</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &#169;Katherine "Kati" Michel.
+      
+      |
+      Powered by <a href="https://www.sphinx-doc.org/">Sphinx 8.2.3</a>
+      &amp; <a href="https://alabaster.readthedocs.io">Alabaster 1.0.0</a>
+      
+      |
+      <a href="_sources/building-a-taco-johns-scraper.md.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

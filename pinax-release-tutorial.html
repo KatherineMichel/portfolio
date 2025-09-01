@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="./">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Pinax Release Tutorial &#8212; Portfolio  documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=5ecbeea2" />
+    <link rel="stylesheet" type="text/css" href="_static/basic.css?v=b08954a9" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css?v=27fed22d" />
+    <script src="_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="_static/doctools.js?v=9bcbadda"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+
+  
+  
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="pinax-release-tutorial">
+<h1>Pinax Release Tutorial<a class="headerlink" href="#pinax-release-tutorial" title="Link to this heading">¶</a></h1>
+<p>Pinax has been a popular group of projects, apps, and themes for around 15 years and still has many users.</p>
+<p>A request was made recently to add support for Django 4.0 and 4.1. I decided it’s time to create a new Pinax release plan. I’ve also created this tutorial to teach others how Pinax releases are done. Let’s get started!</p>
+<section id="tl-dr">
+<h2>TL;DR<a class="headerlink" href="#tl-dr" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>You will need to be able to install and access multiple Python interpreters locally</p></li>
+<li><p>Determine which Python and Django versions to use</p></li>
+<li><p>Using these Python and Django versions, create updated configurations for the CircleCI <code class="docutils literal notranslate"><span class="pre">config.yml</span></code> and <code class="docutils literal notranslate"><span class="pre">tox.ini</span></code> files</p></li>
+<li><p>Clone a Pinax App repo locally, cd, and create a new branch</p></li>
+<li><p>Update the CircleCI <code class="docutils literal notranslate"><span class="pre">config.yml</span></code> and <code class="docutils literal notranslate"><span class="pre">tox.ini</span></code> files in that Pinax App directory with the new configurations</p></li>
+<li><p>Run tox</p></li>
+<li><p>Fix the errors</p></li>
+<li><p>When tox is successful, push your changes to GitHub</p></li>
+<li><p>Open a pull request</p></li>
+<li><p>When all of the updates are made to a Pinax App, the app release will be tagged</p></li>
+<li><p>Then, a package will be created and published to PyPI</p></li>
+</ul>
+</section>
+<section id="background">
+<h2>Background<a class="headerlink" href="#background" title="Link to this heading">¶</a></h2>
+<p>Pinax includes a group of Django projects called <a class="reference external" href="https://github.com/pinax/pinax-starter-projects">Pinax Starter Projects</a> that can be installed using <a class="reference external" href="https://github.com/pinax/pinax-cli">Pinax CLI</a>. These Pinax Starter Projects include relevant Pinax Apps that can be found in the <a class="reference external" href="https://github.com/pinax">Pinax GitHub organization</a> or on PyPI via <a class="reference external" href="https://pypi.org/search/?q=pinax">Pinax keyword search</a>.</p>
+<p>This tutorial will focus on app release.</p>
+</section>
+<section id="required-setup">
+<h2>Required Setup<a class="headerlink" href="#required-setup" title="Link to this heading">¶</a></h2>
+<p>In order to test code locally and make the updates required for the release, you will need to be able to access a Python interpreter for every version used in the release. The Pinax way of doing this is to install <a class="reference external" href="https://github.com/pyenv/pyenv">pyenv</a> on a MacBook. This will enable you to install multiple versions of Python on your computer and make them globally available using the command:</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>$<span class="w"> </span>pyenv<span class="w"> </span>global<span class="w"> </span><span class="m">3</span>.10.0<span class="w"> </span><span class="m">3</span>.9.0<span class="w"> </span><span class="m">3</span>.8.0<span class="w"> </span><span class="m">3</span>.7.0
+</pre></div>
+</div>
+</section>
+<section id="release-plan">
+<h2>Release Plan<a class="headerlink" href="#release-plan" title="Link to this heading">¶</a></h2>
+<p>I create a release plan for each release. This serves several purposes.</p>
+<ul class="simple">
+<li><p>It provides instructions for how to complete the release as it happens</p></li>
+<li><p>It enables newcomers to contribute more easily to a release</p></li>
+<li><p>It serves as a reference for future releases</p></li>
+</ul>
+<p>Here is the WIP <a class="reference external" href="https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/">Pinax 22.12 Release Plan</a>.</p>
+</section>
+<section id="why-do-a-new-release">
+<h2>Why Do a New Release?<a class="headerlink" href="#why-do-a-new-release" title="Link to this heading">¶</a></h2>
+<p>Pinax is based on the <a class="reference external" href="https://www.djangoproject.com/">Django</a> framework, which is based on the <a class="reference external" href="https://www.python.org/">Python</a> programming language. Like other software, Python and Django evolve over time. Features are added, bugs are fixed, and security flaws are patched. New releases of Python and Django are then published. By incorporating new versions of Python and Django into Pinax, Pinax can benefit from these new features, bug fixes, and security patches. This is done through a release. Pinax releases can also include new features, bug fixes, and security patches.</p>
+</section>
+<section id="knowing-which-versions-of-python-and-django-to-include">
+<h2>Knowing Which Versions of Python and Django to Include<a class="headerlink" href="#knowing-which-versions-of-python-and-django-to-include" title="Link to this heading">¶</a></h2>
+<p>We will want to use Python and Django versions that are being actively supported. For one thing, unsupported versions of Python and Django no longer receive security patches. It’s best to drop these versions and add new, supported versions.</p>
+<p>In order to determine which versions of Python and Django are being actively supported, check out the <a class="reference external" href="https://www.python.org/downloads/">Python downloads</a> and <a class="reference external" href="https://www.djangoproject.com/download/">Django downloads</a> pages.</p>
+<p>Current Python support schedule</p>
+<p><img alt="" src="_images/python-support-schedule.png" /></p>
+<p>Current Django support schedule</p>
+<p><img alt="" src="_images/django-support-schedule.png" /></p>
+<p>Not all versions of Python and Django are compatible together. In order to determine which Python and Django versions are compatible, check out the “<a class="reference external" href="https://docs.djangoproject.com/en/4.1/faq/install/#what-python-version-can-i-use-with-django">What Python version can I use with Django?</a>” section of the Django FAQs. This will help us create the test matrix and release documentation.</p>
+<p>Python and Django compatibility</p>
+<p><img alt="" src="_images/python-django-compatibility.png" /></p>
+<p>We now know that the Python 3.7, 3.8, 3.9, 3.10 and Django 3.2, 40, and 4.1 are supported.</p>
+<p>Python 3.8, 3.9, and 3.10 are compatible with all versions of Django.</p>
+<p>Python 3.7 is not compatible with Django 4.0 or 4.1.</p>
+</section>
+<section id="test-matrix-configurations">
+<h2>Test Matrix Configurations<a class="headerlink" href="#test-matrix-configurations" title="Link to this heading">¶</a></h2>
+<p>Once we know which Python and Django versions to use, we can create updated configurations for the CircleCI <code class="docutils literal notranslate"><span class="pre">config.yml</span></code> and <code class="docutils literal notranslate"><span class="pre">tox.ini</span></code> files that will be in each Pinax App repo. Although CircleCI and tox can be used together, it is primarily tox that we will be interested in for this tutorial, because it’s the tool we will use to update the code locally.</p>
+<p>In addition to testing against Python and Django, Pinax tox configuration includes a few other tools to maintain code quality.</p>
+<p>These tools are:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://flake8.pycqa.org/en/latest/">Flake8</a>: check your codebase style and complexity</p></li>
+<li><p><a class="reference external" href="https://black.readthedocs.io/en/stable/">Black</a> (being added in this release): check your codebase style and reformat in place</p></li>
+<li><p><a class="reference external" href="https://pycqa.github.io/isort/">isort</a>: sort Django imports</p></li>
+<li><p><a class="reference external" href="https://coverage.readthedocs.io/en/7.10.1/">Coverage</a>: measures the percentage of code per file that is covered by tests</p></li>
+</ul>
+<p>Invariably, these other tools will have had new releases of their own between Pinax releases. As a result, additional changes will need to be made to the configuration. For some examples, check out the WIP <a class="reference external" href="https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/">Pinax 22.12 Release Plan</a>.</p>
+</section>
+<section id="running-the-test-matrix-locally-using-tox">
+<h2>Running the Test Matrix Locally Using tox<a class="headerlink" href="#running-the-test-matrix-locally-using-tox" title="Link to this heading">¶</a></h2>
+<p>Once the configurations are documented, we will be able to clone a Pinax App repo, update its CircleCI <code class="docutils literal notranslate"><span class="pre">config.yml</span></code> and <code class="docutils literal notranslate"><span class="pre">tox.ini</span></code> files, run tox, then fix the errors that result from the incompatibility between the existing code and the new Python and Django versions we are testing against.</p>
+<p>Clone the repo using the command line tool of your choice</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>$<span class="w"> </span>git<span class="w"> </span>clone<span class="w"> </span>https://github.com/pinax/pinax-messages
+</pre></div>
+</div>
+<p>Change directory</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>$<span class="w"> </span><span class="nb">cd</span><span class="w"> </span>pinax-messages
+</pre></div>
+</div>
+<p>Run the tox test matrix using the Makefile</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>$<span class="w"> </span>Make
+</pre></div>
+</div>
+<p>Alternatively, run tox directly</p>
+<div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>$<span class="w"> </span>tox
+</pre></div>
+</div>
+</section>
+<section id="tox-test-environments">
+<h2>tox Test Environments<a class="headerlink" href="#tox-test-environments" title="Link to this heading">¶</a></h2>
+<p>Pinax tox configuration includes several test environments that it will run.</p>
+<div class="highlight-tox notranslate"><div class="highlight"><pre><span></span>[tox]
+envlist =
+    checkqa,
+    py{37}-dj{32}
+    py{38, 39, 310}-dj{32, 40, 41}
+</pre></div>
+</div>
+<p>The first one, called <code class="docutils literal notranslate"><span class="pre">checkqa</span></code>, runs the formatting tools Flake8, Black, and isort.</p>
+<p>A special <code class="docutils literal notranslate"><span class="pre">[testenv:checkqa]</span></code> configuration specifies which version of each tool tox should use and the commands needed to run each one. Instead of running the tools ourselves manually via the command line, tox will run them as it executes.</p>
+<p>Here, it’s specified that Flake8 and Black will run in the <code class="docutils literal notranslate"><span class="pre">pinax</span></code> directory. The isort <code class="docutils literal notranslate"><span class="pre">--check-only</span></code> and <code class="docutils literal notranslate"><span class="pre">--diff</span></code> flags indicate proposed changes should be outputted in the terminal, rather than the files being modified. The isort <code class="docutils literal notranslate"><span class="pre">--settings-path</span></code> is explicitly set. For more information about isort options, see the <a class="reference external" href="https://pycqa.github.io/isort/docs/configuration/options.html">isort Configuration Options page</a>.</p>
+<div class="highlight-tox notranslate"><div class="highlight"><pre><span></span>[testenv:checkqa]
+commands =
+    flake8 pinax
+    isort --check-only --diff pinax --settings-path tox.ini
+    black pinax
+deps =
+    flake8 == 5.0.4
+    flake8-quotes == 3.3.1
+    isort == 5.10.01
+    black == 22.8.0
+</pre></div>
+</div>
+<p>Separate <code class="docutils literal notranslate"><span class="pre">[flake8]</span></code> and <code class="docutils literal notranslate"><span class="pre">[isort]</span></code> configurations document choices specific to Pinax such as which tool formatting rules to ignore.</p>
+<p>Here, it’s specified that tox should ignore the default <a class="reference external" href="https://www.flake8rules.com/">Flake8 rules</a> that a colon should not have a space before it, that a block comment should have a space before the pound sign and comment, that there is no need for backslashes between brackets, and that a line break should occur before a binary operator. <a class="reference external" href="https://flake8.pycqa.org/en/2.5.5/config.html#settings"><code class="docutils literal notranslate"><span class="pre">max-line-length</span></code></a> can be up to 100 characters, rather than the 79 suggested by <a class="reference external" href="https://peps.python.org/pep-0008/">PEP 8</a>. <a class="reference external" href="https://flake8.pycqa.org/en/2.5.5/#quickstart"><code class="docutils literal notranslate"><span class="pre">max-complexity</span></code></a> can be up to 10 (more than 10 is believed to be too complex). Migrations files should be excluded from formatting. <code class="docutils literal notranslate"><span class="pre">inline-quotes</span></code> should be double, not single.</p>
+<div class="highlight-tox notranslate"><div class="highlight"><pre><span></span>[flake8]
+ignore = E203,E265,E501,W504
+max-line-length = 100
+max-complexity = 10
+exclude = **/*/migrations/*
+inline-quotes = double
+</pre></div>
+</div>
+<p><a class="reference external" href="https://pycqa.github.io/isort/docs/configuration/multi_line_output_modes.html"><code class="docutils literal notranslate"><span class="pre">multi_line_output</span></code></a> should be formatted as a vertical hanging indent.</p>
+<div class="highlight-tox notranslate"><div class="highlight"><pre><span></span>[isort]
+multi_line_output=3
+known_django=django
+known_third_party=appconf,pinax
+sections=FUTURE,STDLIB,DJANGO,THIRDPARTY,FIRSTPARTY,LOCALFOLDER
+include_trailing_comma=True
+skip_glob=**/*/migrations/*
+</pre></div>
+</div>
+<p>After <code class="docutils literal notranslate"><span class="pre">checkqa</span></code> is finished running, tox will iterate through each Python/Django combination, creating an environment to test that combination.</p>
+<p>tox environments created within the Pinax App directory <code class="docutils literal notranslate"><span class="pre">.tox</span></code> folder</p>
+<p><img alt="" src="_images/tox-folder.png" /></p>
+<p>This will include a coverage report for each combination.</p>
+<div class="highlight-tox notranslate"><div class="highlight"><pre><span></span>[testenv]
+passenv = CI CIRCLECI CIRCLE_*
+deps =
+    coverage==6.5.0
+    codecov
+    dj32: Django&gt;=3.2,&lt;4.0
+    dj40: Django&gt;=4.0,&lt;4.1
+    dj41: Django&gt;=4.1,&lt;4.2
+    master: https://github.com/django/django/tarball/master
+</pre></div>
+</div>
+<p>Separate <code class="docutils literal notranslate"><span class="pre">[coverage:run]</span></code> and <code class="docutils literal notranslate"><span class="pre">[coverage:report]</span></code> configurations document coverage choices specific to Pinax.</p>
+<p>Here, it is specified that coverage should run in the <code class="docutils literal notranslate"><span class="pre">pinax</span></code> directory. <code class="docutils literal notranslate"><span class="pre">conf.py</span></code>, <code class="docutils literal notranslate"><span class="pre">tests</span></code>, <code class="docutils literal notranslate"><span class="pre">migrations</span></code>, and <code class="docutils literal notranslate"><span class="pre">admin.py</span></code> folders and files should be ignored.</p>
+<div class="highlight-tox notranslate"><div class="highlight"><pre><span></span>[coverage:run]
+source = pinax
+omit = **/*/conf.py,**/*/tests/*,**/*/migrations/*,**/*/admin.py
+branch = true
+data_file = .coverage
+</pre></div>
+</div>
+<p><code class="docutils literal notranslate"><span class="pre">conf.py</span></code>, <code class="docutils literal notranslate"><span class="pre">tests</span></code>, <code class="docutils literal notranslate"><span class="pre">migrations</span></code>, and <code class="docutils literal notranslate"><span class="pre">admin.py</span></code> folders and files should be ignored. The <code class="docutils literal notranslate"><span class="pre">--show-missing</span></code> flag indicates that the report should show the file line numbers missing coverage.</p>
+<div class="highlight-tox notranslate"><div class="highlight"><pre><span></span>[coverage:report]
+omit = **/*/conf.py,**/*/tests/*,**/*/migrations/*,**/*/admin.py
+exclude_lines =
+    coverage: omit
+show_missing = True
+</pre></div>
+</div>
+</section>
+<section id="tox-output">
+<h2>tox Output<a class="headerlink" href="#tox-output" title="Link to this heading">¶</a></h2>
+<p>When <code class="docutils literal notranslate"><span class="pre">checkqa</span></code> runs, tox will output any formatting errors in the terminal.</p>
+<p>For each Python/Django combination, tox will output the incompability errors.</p>
+<p>tox will show one error at a time. Fix that error, and rerun tox.</p>
+<p>If needed, refer to the <a class="reference external" href="https://docs.djangoproject.com/en/4.1/releases/3.2/">Django 3.2 release notes</a>, <a class="reference external" href="https://docs.djangoproject.com/en/4.0/releases/4.0/#features-removed-in-4-0">Django 4.0 release notes</a>, and <a class="reference external" href="https://docs.djangoproject.com/en/4.1/releases/4.1/">Django 4.1 release notes</a> for more info about the changes made in those releases. Google and Stack Overflow can also help.</p>
+<p>To see some example errors, check out the WIP <a class="reference external" href="https://github.com/pinax/pinax/wiki/Pinax-22.12-Release-Plan/">Pinax 22.12 Release Plan</a>.</p>
+<p>Once all of the errors are fixed, tox will show all green.</p>
+<p>tox success! :)</p>
+<p><img alt="" src="_images/tox-success.png" /></p>
+</section>
+<section id="coverage-report">
+<h2>Coverage Report<a class="headerlink" href="#coverage-report" title="Link to this heading">¶</a></h2>
+<p>For each Python/Django combination, tox will also show a coverage report. The report will show the percentage of coverage for each file. Files with 100% coverage will be ignored.</p>
+<p>Example coverage report</p>
+<p><img alt="" src="_images/coverage-report.png" /></p>
+</section>
+<section id="circleci">
+<h2>CircleCI<a class="headerlink" href="#circleci" title="Link to this heading">¶</a></h2>
+</section>
+<section id="tagging-and-publishing">
+<h2>Tagging and Publishing<a class="headerlink" href="#tagging-and-publishing" title="Link to this heading">¶</a></h2>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="Main">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">Portfolio</a></h1>
+
+
+
+
+
+
+
+
+
+<search id="searchbox" style="display: none" role="search">
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script><h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">About:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="speaker-board-and-organizer-photos.html">Speaker, Board, and Organizer Photos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="favorite-conference-snapshots.html">Favorite Conference Snapshots</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Annual Reviews:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="2024-recap.html">2024 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2023-recap.html">2023 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2020-year-in-review.html">2020 Recap</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">My Craft:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="what-i-am-paying-attention-to-in-2024.html">What I Am Paying Attention to in 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="reflections-on-stanford-code-in-place.html">Reflections on Stanford Code in Place</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">DjangoCon US Talk Topic Inspiration Lists:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2025-topics-inspiration-list.html">DjangoCon US 2025 Topics Inspiration List</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2024-topics-inspiration-list.html">DjangoCon US 2024 Topics Inspiration List</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2023-topics-inspiration-list.html">DjangoCon US 2023 Topics Inspiration List</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Conferences Recaps:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2024-recap.html">DjangoCon US 2024 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pycon-us-2024-recap.html">PyCon US 2024 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2023-recap.html">DjangoCon US 2023 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pygotham-2019-recap.html">PyGotham 2019 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2019-recap.html">DjangoCon US 2019 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pycon-us-2019-recap.html">PyCon US 2019 Recap</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Thoughts:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="happy-20th-birthday-django.html">Happy 20th Birthday, Django!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="a-lesson-in-leadership.html">A Lesson in Leadership</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Travel:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="los-angeles-2023.html">Los Angeles 2023</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &#169;Katherine "Kati" Michel.
+      
+      |
+      Powered by <a href="https://www.sphinx-doc.org/">Sphinx 8.2.3</a>
+      &amp; <a href="https://alabaster.readthedocs.io">Alabaster 1.0.0</a>
+      
+      |
+      <a href="_sources/pinax-release-tutorial.md.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>

@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="./">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>TIL- 100 Days of Code Version &#8212; Portfolio  documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=5ecbeea2" />
+    <link rel="stylesheet" type="text/css" href="_static/basic.css?v=b08954a9" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css?v=27fed22d" />
+    <script src="_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="_static/doctools.js?v=9bcbadda"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+
+  
+  
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="til-100-days-of-code-version">
+<h1>TIL- 100 Days of Code Version<a class="headerlink" href="#til-100-days-of-code-version" title="Link to this heading">¶</a></h1>
+<p>In April, I was looking through my Twitter newsfeed and came across a <a class="reference external" href="https://x.com/simonw/status/1252050046566055937">tweet</a> by Simon Willison that piqued my curiosity.</p>
+<p><img alt="" src="_images/simon-tweet.png" /></p>
+<p>Caption: Simon’s tweet</p>
+<p>I had the good fortune to get to know <a class="reference external" href="https://github.com/simonw/">Simon</a> when he was the moderator of a <a class="reference external" href="https://youtu.be/TrAFQW7Wza0">“State of Django” panel</a> that I took part in at <a class="reference external" href="https://2018.djangocon.us/">DjangoCon US 2018</a> and I’ve been following him on Twitter ever since. One of the original creators of the <a class="reference external" href="https://en.wikipedia.org/wiki/Django_(web_framework)">Django</a> web development framework at the Lawrence Journal World, Simon can often be found discovering novel ways of doing things. So, when he comes across an “interesting” idea, I tend to take notice.</p>
+<p>While looking at Hacker News, Simon had come across the idea of a self-rewriting README.md. The idea originated from a project called <a class="reference external" href="https://github.com/jbranchaud/til">TIL (Today I Learned)</a>, created by <a class="reference external" href="https://github.com/jbranchaud/">Josh Branchaud</a> that was inspired by a <a class="reference external" href="https://github.com/thoughtbot/til">thoughtbot</a> project of the same name.</p>
+<p>Simon re-implemented the idea in Python and wrote about it in a <a class="reference external" href="https://simonwillison.net/2020/Apr/20/self-rewriting-readme/">blog post</a>.</p>
+<p>In a nutshell, Simon’s TIL repo contains a README.md and subject folders filled with TIL files. When Simon learns something new, he can open a corresponding subject folder, create a new markdown TIL file, and fill in what he has learned. When the new file is saved, a program runs and finds the change. In the README.md, each folder name is listed as a category with the names of the files contained in the folder listed below the category as TIL hyperlinks. The program rewrites the README.md, adding the new TIL file name under its category.</p>
+<p><img alt="" src="_images/simon-til.png" /></p>
+<p>Caption: The beginning of Simon’s TIL README.md</p>
+<section id="lightbulb-moment">
+<h2>Lightbulb Moment<a class="headerlink" href="#lightbulb-moment" title="Link to this heading">¶</a></h2>
+<p>There is so much to be learned from tech that for years now, I’ve been curating what I’ve learned in README.mds the old fashioned way, by hand, as a memory device. I’ve long known there was undoubtedly a more efficient way of doing it, but hadn’t come across a specific better way, and my way worked well enough for the time being.</p>
+<p>Now that I knew about the self-writing README.md, it was clear that a similar implementation could be very helpful to me. I bookmarked the idea as something I would revisit.</p>
+</section>
+<section id="id1">
+<h2>TIL- 100 Days of Code Version<a class="headerlink" href="#id1" title="Link to this heading">¶</a></h2>
+<p>Around the time of Simon’s tweet, I was just beginning <a class="reference external" href="https://katherinemichel.github.io/blog/personal/reflections-on-stanford-code-in-place.html">Stanford’s Code in Place</a> course. When Code in Place ended, I wanted to continue building small, fun apps regularly. So, I started taking part in a popular initiative called <a class="reference external" href="https://www.100daysofcode.com/">100 Days of Code</a>.</p>
+<p>100 Days of Code participants spend 1 hour a day, most days, working on code-related learning and are encouraged to fork the official <a class="reference external" href="https://github.com/kallaway/100-days-of-code">100 Days of Code repo</a> to keep a record of their work, as well as tweet their progress from day to day, in order to stay accountable.</p>
+<p>It’s a great initiative and I can definitely feel my coding muscles becoming stronger over time.</p>
+<p>However, 100 Days of Code is largely self-guided, and at the beginning, I found myself having difficult settling into a routine. After a couple of weeks of feeling disorganized, I suddenly remembered the idea of a self-rewriting TIL. I had an ephiphany that I could create a TIL- 100 Days of Code version, to keep what I had worked on and learned from day to day organized.</p>
+<p>I felt super excited at the thought of creating my own TIL implementation. What better sort of project could there be than to create a programmatic solution to my own problem?</p>
+</section>
+<section id="my-til-requirements">
+<h2>My TIL Requirements<a class="headerlink" href="#my-til-requirements" title="Link to this heading">¶</a></h2>
+<p>Requirements for my own TIL:</p>
+<p>Basic Features</p>
+<ul class="simple">
+<li><p>TILs listed by category, with a name and hyperlink for each (this is a traditional TIL feature)</p></li>
+<li><p>Total number of TILs and total by category (nice to have)</p></li>
+<li><p>Ability to add/edit TILs in the browser (I want to be able to do a quick and easy update)</p></li>
+<li><p>Powered by a GitHub Action (no need to run this locally)</p></li>
+</ul>
+<p>Special 100 Days of Code Features</p>
+<ul class="simple">
+<li><p>TILs ordered by date, name, and hyperlink, most recently modified first (ordering by date will help keep me accountable)</p></li>
+<li><p>Ability to open the most recently modified TIL and tweet a status update (I’ll no longer need to manually tweet my progress)</p></li>
+</ul>
+</section>
+<section id="implementations-i-considered">
+<h2>Implementations I Considered<a class="headerlink" href="#implementations-i-considered" title="Link to this heading">¶</a></h2>
+<p>The first thing I did was spend some time looking at different TIL implementations hosted on GitHub. My intention was not to adopt another person’s solution outright, but to get a general idea of what approaches people had taken, and perhaps, why. Ultimately, I wanted to take code apart and go through my own process of discovery and learning, so that I would fully understand how what I was using worked. I also wanted to create an implementation unique to my own needs, including features incorporated specifically for 100 Days of Code.</p>
+<p>The upside of looking at different TIL implementations was that I immediately began to experiment and problem solve by creating my own versions. The downside was that I overlooked a potentially important performance issue. See the “<a class="reference external" href="https://katherinemichel.github.io/blog/projects/til-100-days-of-code-version.html">What I Learned About Performance</a>” section later in this blog post for more information about that.</p>
+<p>I considered four major approaches implemented in Python:</p>
+<ul class="simple">
+<li><p>Simon Willison’s <a class="reference external" href="https://github.com/simonw/til">TIL implementation</a></p></li>
+<li><p>Andrei Cioara’s <a class="reference external" href="https://github.com/aicioara/til/">TIL Implementation</a></p></li>
+<li><p>Raegon Kim’s <a class="reference external" href="https://github.com/raycon/til/">TIL implementation</a></p></li>
+<li><p>KhanhIceTea’s <a class="reference external" href="https://github.com/khanhicetea/today-i-learned/">TIL implementation</a></p></li>
+</ul>
+<section id="contrasting-the-implementations">
+<h3>Contrasting the Implementations<a class="headerlink" href="#contrasting-the-implementations" title="Link to this heading">¶</a></h3>
+<p>Simon’s <a class="reference external" href="https://github.com/simonw/til">TIL implementation</a> uses <a class="reference external" href="https://docs.datasette.io/en/stable/">Datasette</a>, an SQL tool he created and develops as part of a John S. Knight Journalism Fellowship at Stanford. Although I have no doubt that Simon’s implementation is a stellar approach that leverages a very cool and useful tool (I plan to use it in the future in a project of my own!), I wanted to start from a blank slate and beginner mindset.</p>
+<p>I felt his implementation was too opinionated for my current needs.</p>
+<p>So, I moved on to Andrei Cioara’s <a class="reference external" href="https://github.com/aicioara/til/">TIL implementation</a> and Raegon Kim’s <a class="reference external" href="https://github.com/raycon/til/">TIL implementation</a>.</p>
+<section id="os-walk-and-program-structure">
+<h4><code class="docutils literal notranslate"><span class="pre">os.walk()</span></code> and Program Structure<a class="headerlink" href="#os-walk-and-program-structure" title="Link to this heading">¶</a></h4>
+<p>Both implementations use <code class="docutils literal notranslate"><span class="pre">os.walk()</span></code> to traverse the directories and files, but the programs are structured very differently. For me, Andrei Cioara’s implementation was the simplest of the four to understand and Raegon Kim’s the most difficult.</p>
+<p>In Andrei Cioara’s implementation, the bulk of the program exists within <code class="docutils literal notranslate"><span class="pre">main()</span></code> and executes from beginning to end, like a consecutive list of instructions. The program executes <code class="docutils literal notranslate"><span class="pre">os.walk()</span></code> once to create a simple list of categories and file links.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Andrei Cioara&#39;s `os.walk()`</span>
+
+<span class="k">def</span><span class="w"> </span><span class="nf">main</span><span class="p">():</span>
+    <span class="c1"># Other stuff</span>
+
+    <span class="k">for</span> <span class="n">root</span><span class="p">,</span> <span class="n">dirs</span><span class="p">,</span> <span class="n">files</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">walk</span><span class="p">(</span><span class="s2">&quot;.&quot;</span><span class="p">):</span>
+        <span class="n">dirs</span><span class="o">.</span><span class="n">sort</span><span class="p">()</span>
+        <span class="k">if</span> <span class="n">root</span> <span class="o">==</span> <span class="s1">&#39;.&#39;</span><span class="p">:</span>
+            <span class="k">for</span> <span class="nb">dir</span> <span class="ow">in</span> <span class="p">(</span><span class="s1">&#39;.git&#39;</span><span class="p">,</span> <span class="s1">&#39;.github&#39;</span><span class="p">):</span>
+                <span class="k">try</span><span class="p">:</span>
+                    <span class="n">dirs</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="nb">dir</span><span class="p">)</span>
+                <span class="k">except</span> <span class="ne">ValueError</span><span class="p">:</span>
+                    <span class="k">pass</span>
+            <span class="k">continue</span>
+            
+        <span class="c1"># Other stuff    </span>
+            
+        <span class="k">for</span> <span class="n">file</span> <span class="ow">in</span> <span class="n">files</span><span class="p">:</span>
+        <span class="c1"># Other stuff</span>
+</pre></div>
+</div>
+<p>Unlike the procedural approach taken by Andrei Cioara, Raegon Kim splits the program into functions. Encapsulated in a function, <code class="docutils literal notranslate"><span class="pre">os.walk()</span></code> is called twice, to create both “Recently Modified” and “Categories” sections. He also creates a “Categories” table of contents with entries that link to the categories in the README.md via <code class="docutils literal notranslate"><span class="pre">relative</span></code> path.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Raegon Kim&#39;s `os.walk()`, encapsulated in `tils()`</span>
+
+<span class="n">excludes</span> <span class="o">=</span> <span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="s2">&quot;drafts&quot;</span><span class="p">,</span> <span class="s2">&quot;archive&quot;</span><span class="p">)</span>
+
+<span class="c1"># Other stuff</span>
+
+<span class="k">def</span><span class="w"> </span><span class="nf">tils</span><span class="p">(</span><span class="n">root</span><span class="p">):</span>
+    <span class="k">for</span> <span class="p">(</span><span class="n">path</span><span class="p">,</span> <span class="n">dirs</span><span class="p">,</span> <span class="n">files</span><span class="p">)</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">walk</span><span class="p">(</span><span class="n">root</span><span class="p">):</span>
+        <span class="n">dirs</span><span class="p">[:]</span> <span class="o">=</span> <span class="p">[</span><span class="n">d</span> <span class="k">for</span> <span class="n">d</span> <span class="ow">in</span> <span class="n">dirs</span> <span class="k">if</span> <span class="n">d</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">excludes</span> <span class="ow">and</span> <span class="ow">not</span> <span class="n">d</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s2">&quot;.&quot;</span><span class="p">)]</span>
+        <span class="n">paths</span> <span class="o">=</span> <span class="p">[</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">path</span><span class="p">,</span> <span class="n">f</span><span class="p">)</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">files</span> <span class="k">if</span> <span class="n">f</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s2">&quot;.md&quot;</span><span class="p">)]</span>
+        <span class="k">if</span> <span class="n">path</span> <span class="o">!=</span> <span class="n">root</span><span class="p">:</span>
+            <span class="k">yield</span> <span class="n">relative</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">path</span><span class="p">),</span> <span class="n">paths</span>
+</pre></div>
+</div>
+<p>Raegon Kim’s entire program begins and ends in the same small block of code near the end of the file, when, the highest-order function <code class="docutils literal notranslate"><span class="pre">readme()</span></code> is called. A number of other functions, some nested within one another, are called from within <code class="docutils literal notranslate"><span class="pre">readme()</span></code>. These other functions create relative and absolute paths, titles, hyperlinks, TIL <code class="docutils literal notranslate"><span class="pre">count</span></code>, and a <code class="docutils literal notranslate"><span class="pre">modified</span></code> list that returns the most recent entries.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Raegon Kim&#39;s `readme()` calls `tils()` and other functions</span>
+
+<span class="k">def</span><span class="w"> </span><span class="nf">readme</span><span class="p">():</span>
+    <span class="c1"># Other stuff</span>
+
+    <span class="c1"># Recents</span>
+    <span class="n">lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s2">&quot;## Recently Modified</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+    <span class="k">for</span> <span class="n">date</span><span class="p">,</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">recent</span><span class="p">(</span><span class="n">flat</span><span class="p">(</span><span class="n">tils</span><span class="p">(</span><span class="n">root</span><span class="p">)),</span> <span class="mi">15</span><span class="p">):</span>
+        <span class="n">date</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">utcfromtimestamp</span><span class="p">(</span><span class="n">date</span><span class="p">)</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s2">&quot;%Y-%m-</span><span class="si">%d</span><span class="s2">&quot;</span><span class="p">)</span>
+        <span class="n">l</span> <span class="o">=</span> <span class="n">link</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">filename</span><span class="p">)</span>
+        <span class="n">lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;- *</span><span class="si">{</span><span class="n">date</span><span class="si">}</span><span class="s2">* : </span><span class="si">{</span><span class="n">l</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+
+    <span class="c1"># Categories</span>
+    <span class="n">lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">## Categories</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+    <span class="n">lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s2">&quot;Total `</span><span class="si">%s</span><span class="s2">` TILs</span><span class="se">\n</span><span class="s2">&quot;</span> <span class="o">%</span> <span class="n">total</span><span class="p">(</span><span class="n">root</span><span class="p">))</span>
+    <span class="k">for</span> <span class="n">relative</span><span class="p">,</span> <span class="n">paths</span> <span class="ow">in</span> <span class="n">tils</span><span class="p">(</span><span class="n">root</span><span class="p">):</span>
+        <span class="n">count</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">paths</span><span class="p">)</span>
+        <span class="n">lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;- [</span><span class="si">{</span><span class="n">relative</span><span class="si">}</span><span class="s2">](#</span><span class="si">{</span><span class="n">relative</span><span class="si">}</span><span class="s2">) *(</span><span class="si">{</span><span class="n">count</span><span class="si">}</span><span class="s2">)*&quot;</span><span class="p">)</span>
+
+    <span class="c1"># Links</span>
+    <span class="k">for</span> <span class="n">relative</span><span class="p">,</span> <span class="n">paths</span> <span class="ow">in</span> <span class="n">tils</span><span class="p">(</span><span class="n">root</span><span class="p">):</span>
+        <span class="n">lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">### </span><span class="si">{</span><span class="n">relative</span><span class="si">}</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+        <span class="k">for</span> <span class="n">path</span> <span class="ow">in</span> <span class="n">paths</span><span class="p">:</span>
+            <span class="n">l</span> <span class="o">=</span> <span class="n">link</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">path</span><span class="p">)</span>
+            <span class="n">lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;- </span><span class="si">{</span><span class="n">l</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+
+    <span class="c1"># Other stuff</span>
+</pre></div>
+</div>
+</section>
+<section id="os-listdir-til-dictionary-and-python-standard-library">
+<h4><code class="docutils literal notranslate"><span class="pre">os.listdir()</span></code>, TIL Dictionary, and Python Standard Library<a class="headerlink" href="#os-listdir-til-dictionary-and-python-standard-library" title="Link to this heading">¶</a></h4>
+<p>I later came across KhanhIceTea’s <a class="reference external" href="https://github.com/khanhicetea/today-i-learned/">TIL implementation</a>, which is the approach I finally settled on. KhanhIceTea’s implementation uses <code class="docutils literal notranslate"><span class="pre">os.listdir()</span></code> to iterate through the directories and files, instead of <code class="docutils literal notranslate"><span class="pre">os.walk()</span></code>.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># KhanhIceTea uses `os.listdir()` to create and sort a list of categories and iterate through their TIL files</span>
+
+<span class="k">def</span><span class="w"> </span><span class="nf">convert_til_2_readme</span><span class="p">(</span><span class="n">source</span><span class="p">,</span> <span class="n">template_file</span><span class="p">,</span> <span class="n">dest</span><span class="p">):</span>
+    <span class="n">excluded_folders</span> <span class="o">=</span> <span class="p">[</span><span class="s2">&quot;.git&quot;</span><span class="p">,</span> <span class="s2">&quot;.vscode&quot;</span><span class="p">]</span>
+    <span class="n">categories</span> <span class="o">=</span> <span class="p">[</span><span class="n">f</span> <span class="k">for</span> <span class="n">f</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">listdir</span><span class="p">(</span><span class="n">source</span><span class="p">)</span> <span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">isdir</span><span class="p">(</span><span class="n">f</span><span class="p">)</span> <span class="ow">and</span> <span class="n">f</span> <span class="ow">not</span> <span class="ow">in</span> <span class="n">excluded_folders</span><span class="p">]</span>
+    <span class="n">categories</span><span class="o">.</span><span class="n">sort</span><span class="p">()</span>
+    <span class="c1"># Other stuff</span>
+
+    <span class="k">for</span> <span class="n">cat</span> <span class="ow">in</span> <span class="n">categories</span><span class="p">:</span>
+        <span class="c1"># Other stuff</span>
+        <span class="k">for</span> <span class="n">file</span> <span class="ow">in</span> <span class="n">os</span><span class="o">.</span><span class="n">listdir</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">source</span><span class="p">,</span> <span class="n">cat</span><span class="p">)):</span>
+</pre></div>
+</div>
+<p>Each TIL file is split into pieces and passed into a <code class="docutils literal notranslate"><span class="pre">parse_article()</span></code> function and the front matter and header are parsed using the Python <code class="docutils literal notranslate"><span class="pre">find()</span></code> function, with a dictionary created that stores the <code class="docutils literal notranslate"><span class="pre">date</span></code>, <code class="docutils literal notranslate"><span class="pre">category</span></code>, <code class="docutils literal notranslate"><span class="pre">tags</span></code>, and <code class="docutils literal notranslate"><span class="pre">title</span></code>. Each dictionary is added to both a <code class="docutils literal notranslate"><span class="pre">cat_articles</span></code> and <code class="docutils literal notranslate"><span class="pre">all_articles</span></code> list, which are sorted by chronological and reverse date.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># `parse_article()` parses the file front matter and header and returns a dictionary containing the data</span>
+
+<span class="k">def</span><span class="w"> </span><span class="nf">parse_article</span><span class="p">(</span><span class="n">content</span><span class="p">,</span> <span class="n">category</span><span class="p">):</span>
+    <span class="n">pos1</span> <span class="o">=</span> <span class="n">content</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s1">&#39;- Date : &#39;</span><span class="p">)</span>
+    <span class="n">pos2</span> <span class="o">=</span> <span class="n">content</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s1">&#39;- Tags : &#39;</span><span class="p">,</span> <span class="n">pos1</span><span class="p">)</span>
+    <span class="n">pos3</span> <span class="o">=</span> <span class="n">content</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">,</span> <span class="n">pos2</span><span class="p">)</span>
+    <span class="n">pos4</span> <span class="o">=</span> <span class="n">content</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s2">&quot;##&quot;</span><span class="p">,</span> <span class="n">pos3</span><span class="p">)</span>
+    <span class="n">pos5</span> <span class="o">=</span> <span class="n">content</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">,</span> <span class="n">pos4</span><span class="p">)</span>
+    <span class="n">post</span> <span class="o">=</span> <span class="p">{</span>
+        <span class="s2">&quot;date&quot;</span><span class="p">:</span> <span class="n">datetime</span><span class="o">.</span><span class="n">strptime</span><span class="p">(</span><span class="n">content</span><span class="p">[</span><span class="n">pos1</span><span class="o">+</span><span class="mi">9</span><span class="p">:</span><span class="n">pos2</span><span class="p">]</span><span class="o">.</span><span class="n">strip</span><span class="p">(),</span> <span class="s2">&quot;%Y-%m-</span><span class="si">%d</span><span class="s2">&quot;</span><span class="p">),</span>
+        <span class="s2">&quot;category&quot;</span><span class="p">:</span> <span class="n">category</span><span class="p">,</span>
+        <span class="s2">&quot;tags&quot;</span><span class="p">:</span> <span class="p">[</span><span class="n">t</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span> <span class="k">for</span> <span class="n">t</span> <span class="ow">in</span> <span class="n">content</span><span class="p">[</span><span class="n">pos2</span><span class="o">+</span><span class="mi">9</span><span class="p">:</span><span class="n">pos3</span><span class="p">]</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">&#39; &#39;</span><span class="p">)],</span>
+        <span class="s2">&quot;title&quot;</span><span class="p">:</span> <span class="n">content</span><span class="p">[</span><span class="n">pos4</span><span class="o">+</span><span class="mi">3</span><span class="p">:</span><span class="n">pos5</span><span class="p">]</span><span class="o">.</span><span class="n">strip</span><span class="p">(),</span>
+    <span class="p">}</span>
+
+    <span class="k">return</span> <span class="n">post</span>
+</pre></div>
+</div>
+<p>While Andrei Cioara and Raegon Kim use Python Standard Library built-in functions to identify the variables used to create the README.md entries, KhanhIceTea’s implementation accesses that data from the TIL dictionaries using index and variables instead.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Iterating through the `cat_articles` and `all_articles` lists and accessing the data by index and variable</span>
+
+        <span class="c1"># Other stuff</span>
+        
+        <span class="k">for</span> <span class="n">article</span> <span class="ow">in</span> <span class="n">cat_articles</span><span class="p">:</span>
+            <span class="n">count</span> <span class="o">+=</span> <span class="mi">1</span>
+            <span class="n">cat_content</span> <span class="o">+=</span> <span class="s2">&quot;| </span><span class="si">{}</span><span class="s2">. [</span><span class="si">{}</span><span class="s2">](</span><span class="si">{}</span><span class="s2">/</span><span class="si">{}</span><span class="s2">) | </span><span class="si">{}</span><span class="s2"> |</span><span class="se">\n</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span>
+                <span class="n">count</span><span class="p">,</span> <span class="n">article</span><span class="p">[</span><span class="s1">&#39;title&#39;</span><span class="p">],</span> <span class="n">article</span><span class="p">[</span><span class="s1">&#39;category&#39;</span><span class="p">],</span> <span class="n">article</span><span class="p">[</span><span class="s1">&#39;file_name&#39;</span><span class="p">],</span>
+                <span class="n">article</span><span class="p">[</span><span class="s1">&#39;date&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s1">&#39;%Y-%m-</span><span class="si">%d</span><span class="s1">&#39;</span><span class="p">))</span>
+
+    <span class="c1"># Other stuff</span>
+    <span class="k">for</span> <span class="n">article</span> <span class="ow">in</span> <span class="n">all_articles</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">5</span><span class="p">]:</span>
+        <span class="n">content</span> <span class="o">+=</span> <span class="s2">&quot;| [</span><span class="si">{}</span><span class="s2">](</span><span class="si">{}</span><span class="s2">/</span><span class="si">{}</span><span class="s2">) [</span><span class="si">{}</span><span class="s2">] | </span><span class="si">{}</span><span class="s2"> |</span><span class="se">\n</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span>
+            <span class="n">article</span><span class="p">[</span><span class="s1">&#39;title&#39;</span><span class="p">],</span> <span class="n">article</span><span class="p">[</span><span class="s1">&#39;category&#39;</span><span class="p">],</span>
+            <span class="n">article</span><span class="p">[</span><span class="s1">&#39;file_name&#39;</span><span class="p">],</span> <span class="n">article</span><span class="p">[</span><span class="s1">&#39;category&#39;</span><span class="p">],</span>
+            <span class="n">article</span><span class="p">[</span><span class="s1">&#39;date&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s1">&#39;%Y-%m-</span><span class="si">%d</span><span class="s1">&#39;</span><span class="p">))</span>
+</pre></div>
+</div>
+</section>
+<section id="writing-content-using-string-versus-list">
+<h4>Writing Content Using String Versus List<a class="headerlink" href="#writing-content-using-string-versus-list" title="Link to this heading">¶</a></h4>
+<p>One other seemingly incidental difference between implementations that could affect performance is how content is written to the README.md.</p>
+<p>Andrei Cioara creates an empty string called <code class="docutils literal notranslate"><span class="pre">content</span></code> and uses an addition assignment operator to append new strings to <code class="docutils literal notranslate"><span class="pre">content</span></code>, starting with a README.md header via a global <code class="docutils literal notranslate"><span class="pre">HEADER</span></code> variable assigned to a multiline, triple-double-quote string. At the end of the program, all of the <code class="docutils literal notranslate"><span class="pre">content</span></code> is written into the README.md at once. KhanhIceTea uses the same method.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># README.md header stored in a multiline, triple-double-quote string</span>
+
+<span class="c1"># Other stuff</span>
+
+<span class="n">HEADER</span><span class="o">=</span><span class="s2">&quot;&quot;&quot;# TIL</span>
+<span class="s2">&gt; Today I Learned</span>
+<span class="s2">A collection of software engineering tips that I learn every day.</span>
+<span class="s2">---</span>
+<span class="s2">&quot;&quot;&quot;</span>
+</pre></div>
+</div>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># New strings are appended to `content`, then all of the `content` is written into the README.md at once. </span>
+
+<span class="k">def</span><span class="w"> </span><span class="nf">main</span><span class="p">():</span>
+    <span class="n">content</span> <span class="o">=</span> <span class="s2">&quot;&quot;</span>
+    <span class="n">content</span> <span class="o">+=</span> <span class="n">HEADER</span>
+
+    <span class="c1"># Other stuff</span>
+    
+        <span class="n">category</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">basename</span><span class="p">(</span><span class="n">root</span><span class="p">)</span>
+
+        <span class="n">content</span> <span class="o">+=</span> <span class="s2">&quot;### </span><span class="si">{}</span><span class="se">\n\n</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">category</span><span class="p">)</span>
+
+        <span class="k">for</span> <span class="n">file</span> <span class="ow">in</span> <span class="n">files</span><span class="p">:</span>
+            <span class="n">name</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">basename</span><span class="p">(</span><span class="n">file</span><span class="p">)</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">&#39;.&#39;</span><span class="p">)[</span><span class="mi">0</span><span class="p">]</span>
+            <span class="n">name</span> <span class="o">=</span> <span class="s2">&quot; &quot;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">word</span><span class="o">.</span><span class="n">capitalize</span><span class="p">()</span> <span class="k">for</span> <span class="n">word</span> <span class="ow">in</span> <span class="n">name</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">&#39;-&#39;</span><span class="p">))</span>
+            <span class="n">content</span> <span class="o">+=</span> <span class="s2">&quot;- [</span><span class="si">{}</span><span class="s2">](</span><span class="si">{}</span><span class="s2">)</span><span class="se">\n</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">name</span><span class="p">,</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">category</span><span class="p">,</span> <span class="n">file</span><span class="p">))</span>
+        <span class="n">content</span> <span class="o">+=</span> <span class="s2">&quot;</span><span class="se">\n</span><span class="s2">&quot;</span>
+
+    <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s2">&quot;README.md&quot;</span><span class="p">,</span> <span class="s2">&quot;w&quot;</span><span class="p">)</span> <span class="k">as</span> <span class="n">fd</span><span class="p">:</span>
+        <span class="n">fd</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">content</span><span class="p">)</span>
+</pre></div>
+</div>
+<p>In Raegon Kim’s implementation, at the beginning of <code class="docutils literal notranslate"><span class="pre">readme()</span></code>, an empty list called <code class="docutils literal notranslate"><span class="pre">lines</span></code> is created. As the program progresses through <code class="docutils literal notranslate"><span class="pre">readme()</span></code>, and new lines are generated, the built-in list function <code class="docutils literal notranslate"><span class="pre">append()</span></code> is used to append the new lines to <code class="docutils literal notranslate"><span class="pre">lines</span></code> as strings. The <code class="docutils literal notranslate"><span class="pre">lines</span></code> list is returned by <code class="docutils literal notranslate"><span class="pre">readme()</span></code> and line by line, written into the README.md.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Content is appended to `lines` as strings and `lines` is returned</span>
+
+<span class="k">def</span><span class="w"> </span><span class="nf">readme</span><span class="p">():</span>
+    <span class="n">lines</span> <span class="o">=</span> <span class="p">[]</span>
+    <span class="n">lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s2">&quot;# TIL</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+    <span class="n">lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s2">&quot;&gt; Today I Learned</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+
+    <span class="c1"># Recents</span>
+    <span class="n">lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="s2">&quot;## Recently Modified</span><span class="se">\n</span><span class="s2">&quot;</span><span class="p">)</span>
+    <span class="k">for</span> <span class="n">date</span><span class="p">,</span> <span class="n">filename</span> <span class="ow">in</span> <span class="n">recent</span><span class="p">(</span><span class="n">flat</span><span class="p">(</span><span class="n">tils</span><span class="p">(</span><span class="n">root</span><span class="p">)),</span> <span class="mi">15</span><span class="p">):</span>
+        <span class="n">date</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">utcfromtimestamp</span><span class="p">(</span><span class="n">date</span><span class="p">)</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s2">&quot;%Y-%m-</span><span class="si">%d</span><span class="s2">&quot;</span><span class="p">)</span>
+        <span class="n">l</span> <span class="o">=</span> <span class="n">link</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">filename</span><span class="p">)</span>
+        <span class="n">lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="sa">f</span><span class="s2">&quot;- *</span><span class="si">{</span><span class="n">date</span><span class="si">}</span><span class="s2">* : </span><span class="si">{</span><span class="n">l</span><span class="si">}</span><span class="s2">&quot;</span><span class="p">)</span>
+
+    <span class="c1"># Other examples</span>
+
+    <span class="k">return</span> <span class="n">lines</span>    
+</pre></div>
+</div>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Content stored within `lines` is written into the README.md, line by line</span>
+
+<span class="n">output</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="s2">&quot;README.md&quot;</span><span class="p">),</span> <span class="s1">&#39;w&#39;</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s1">&#39;UTF-8&#39;</span><span class="p">)</span>
+<span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="n">readme</span><span class="p">():</span>
+    <span class="n">output</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">line</span><span class="p">)</span>
+    <span class="n">output</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="s1">&#39;</span><span class="se">\n</span><span class="s1">&#39;</span><span class="p">)</span>
+<span class="n">output</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+</pre></div>
+</div>
+</section>
+</section>
+</section>
+<section id="my-journey-through-implementations">
+<h2>My Journey Through Implementations<a class="headerlink" href="#my-journey-through-implementations" title="Link to this heading">¶</a></h2>
+<p>I had heard positive things about <code class="docutils literal notranslate"><span class="pre">os.walk()</span></code> and immediately thought it would be a great approach for my TIL. So, I began by creating my own TIL implementation loosely based on Andrei Cioara’s approach.</p>
+<p>However, I ran into difficulty when I attempted to add a section for most recently modified files, in addition to categories. I realized that <code class="docutils literal notranslate"><span class="pre">os.walk()</span></code> needed to “walk” the directories and files twice. Adding a second <code class="docutils literal notranslate"><span class="pre">os.walk()</span></code> without using a function seemed like overkill.</p>
+<p>So, I began to study Raegon Kim’s implementation, to see how he had added a “Recently Modified” category using functions. Although I nearly completed a similar implementation, I wasn’t quite happy with the result. I felt it was overly complex.</p>
+<p>At that point, I began looking through more examples on GitHub and came across KhanhIceTea’s implementation.</p>
+<p>I immediately liked the way it looked, because of its fun use of markdown tables and emojis, plus it ticked the boxes of having both “Recently Modified” and “Category” sections.</p>
+<p>So, I created my own <a class="reference external" href="https://github.com/KatherineMichel/til-100-days-of-code-version">TIL- 100 Days of Code Version</a>.</p>
+<p><img alt="" src="_images/my-til.png" /></p>
+<p>Caption: My <a class="reference external" href="https://github.com/KatherineMichel/til-100-days-of-code-version">TIL- 100 Days of Code Version</a> repo</p>
+<p><img alt="" src="_images/my-til-example-til-file.png" /></p>
+<p>Caption: An example file in my <a class="reference external" href="https://github.com/KatherineMichel/til-100-days-of-code-version">TIL- 100 Days of Code Version</a> repo</p>
+<p>I’m undecided about the use of front matter and the <code class="docutils literal notranslate"><span class="pre">find()</span></code> function to parse it. I feel it might be unnecessarily manual, but I also have confidence in it. One major advantage of KhanhIceTea’s approach of using a TIL dictionary is that I found it to be very straightforward to work with and was able to quickly add a <code class="docutils literal notranslate"><span class="pre">status</span></code> variable and implement auto-status tweet.</p>
+<p>For more information about the changes I made to KhanhIceTea’s implementation, check out the “Changes I Made” section of the <a class="reference external" href="https://github.com/KatherineMichel/til-100-days-of-code-version/blob/master/program_information.py">program_information.py</a> file.</p>
+</section>
+<section id="what-i-learned-about-performance">
+<h2>What I Learned About Performance<a class="headerlink" href="#what-i-learned-about-performance" title="Link to this heading">¶</a></h2>
+<p>Although based on existing implementations, <code class="docutils literal notranslate"><span class="pre">os.walk()</span></code> seemed like the obvious choice at first, it can perform poorly. This was explained in <a class="reference external" href="https://peps.python.org/pep-0471/">PEP 0471</a>, which introduced <code class="docutils literal notranslate"><span class="pre">os.scandir()</span></code>, added to the Python Standard Library in Python 3.5.</p>
+<blockquote>
+<div><p>“This PEP proposes including a new directory iteration function, os.scandir(), in the standard library. This new function adds useful functionality and increases the speed of os.walk() by 2-20 times (depending on the platform and file system) by avoiding calls to os.stat() in most cases.</p>
+<p>Python’s built-in os.walk() is significantly slower than it needs to be, because – in addition to calling os.listdir() on each directory – it executes the stat() system call or GetFileAttributes() on each file to determine whether the entry is a directory or not.”</p>
+</div></blockquote>
+<p>Although my implementation uses <code class="docutils literal notranslate"><span class="pre">os.listdir()</span></code> directly, which is an improvement over <code class="docutils literal notranslate"><span class="pre">os.walk()</span></code>, according to the <code class="docutils literal notranslate"><span class="pre">os.listdir()</span></code> documentation, <code class="docutils literal notranslate"><span class="pre">os.scandir()</span></code> gives better performance than <code class="docutils literal notranslate"><span class="pre">os.listdir()</span></code> for many common use cases.</p>
+<p>For a small, open-source app like mine, performance might not be as much of an issue as it would be for a large-scale system or one that runs the risk of maxing out on resource, such as an app in a private repo using up all of its GitHub Action minutes.</p>
+<p>But, knowing what I know now, if I were to start over, I would probably use <code class="docutils literal notranslate"><span class="pre">os.scandir()</span></code>. Perhaps, I will create a new version using it.</p>
+</section>
+<section id="make-your-own">
+<h2>Make Your Own<a class="headerlink" href="#make-your-own" title="Link to this heading">¶</a></h2>
+<p>How would you create a TIL project and why? Is <code class="docutils literal notranslate"><span class="pre">os.listdir()</span></code> preferable to <code class="docutils literal notranslate"><span class="pre">os.walk()</span></code>? Which is the best method of storing and writing README.md content: string concatenation, list <code class="docutils literal notranslate"><span class="pre">append()</span></code>, or another method? Is front matter parsing an anti-pattern?</p>
+<p>Let me know what you think on Twitter <a class="reference external" href="https://x.com/KatiMichel">&#64;KatiMichel</a>, in a <a class="reference external" href="https://github.com/KatherineMichel/til-100-days-of-code-version">GitHub issue</a>, or by email kthrnmichel&#64;gmail.com.</p>
+<p>Stay tuned for a TIL- 100 Days of Code Version tutorial for step-by-step instructions for setting up your own TIL.</p>
+<p>Happy learning! :)</p>
+</section>
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="Main">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">Portfolio</a></h1>
+
+
+
+
+
+
+
+
+
+<search id="searchbox" style="display: none" role="search">
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Search"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script><h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">About:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="speaker-board-and-organizer-photos.html">Speaker, Board, and Organizer Photos</a></li>
+<li class="toctree-l1"><a class="reference internal" href="favorite-conference-snapshots.html">Favorite Conference Snapshots</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Annual Reviews:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="2024-recap.html">2024 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2023-recap.html">2023 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="2020-year-in-review.html">2020 Recap</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">My Craft:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="what-i-am-paying-attention-to-in-2024.html">What I Am Paying Attention to in 2024</a></li>
+<li class="toctree-l1"><a class="reference internal" href="reflections-on-stanford-code-in-place.html">Reflections on Stanford Code in Place</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">DjangoCon US Talk Topic Inspiration Lists:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2025-topics-inspiration-list.html">DjangoCon US 2025 Topics Inspiration List</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2024-topics-inspiration-list.html">DjangoCon US 2024 Topics Inspiration List</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2023-topics-inspiration-list.html">DjangoCon US 2023 Topics Inspiration List</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Conferences Recaps:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2024-recap.html">DjangoCon US 2024 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pycon-us-2024-recap.html">PyCon US 2024 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2023-recap.html">DjangoCon US 2023 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pygotham-2019-recap.html">PyGotham 2019 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="djangocon-us-2019-recap.html">DjangoCon US 2019 Recap</a></li>
+<li class="toctree-l1"><a class="reference internal" href="pycon-us-2019-recap.html">PyCon US 2019 Recap</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Thoughts:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="happy-20th-birthday-django.html">Happy 20th Birthday, Django!</a></li>
+<li class="toctree-l1"><a class="reference internal" href="a-lesson-in-leadership.html">A Lesson in Leadership</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Travel:</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="los-angeles-2023.html">Los Angeles 2023</a></li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+  </ul></li>
+</ul>
+</div>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &#169;Katherine "Kati" Michel.
+      
+      |
+      Powered by <a href="https://www.sphinx-doc.org/">Sphinx 8.2.3</a>
+      &amp; <a href="https://alabaster.readthedocs.io">Alabaster 1.0.0</a>
+      
+      |
+      <a href="_sources/til-100-days-of-code-version.md.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
