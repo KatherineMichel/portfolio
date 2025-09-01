@@ -120,7 +120,7 @@ General Python resources
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
 The go-to intermediate to expert Django book
-* [Two Scoops of Django 3.x](https://www.feldroy.com/books/two-scoops-of-django-3-x)
+* [Two Scoops of Django 3.x](https://www.feldroy.com/two-scoops-of-django)
 
 Great, new-ish Python newsletter
 * [Bite Code](https://www.bitecode.dev/) &#128736;
