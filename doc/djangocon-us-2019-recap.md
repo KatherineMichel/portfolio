@@ -275,7 +275,7 @@ View of the Midway Hangar Deck from the Navigation Bridge; photo credit: Katheri
 
 View of the San Diego skyline from harbor cruise; photo credit: Katherine Michel
 
-That night, I went to the [Taco Stand](http://downtown.letstaco.com/) where I enjoyed a Carne Asada Taco and Grilled Pescado Taco (Mahi Mahi). I had never had a fish taco before. The combination of grilled fish, cabbage, and chipotle sauce was delicious in a way I hadn't anticipated. Thank you to [Trey Hunner](https://x.com/treyhunner) for one of many great recommendations.
+That night, I went to the [Taco Stand](https://www.letstaco.com/location/san-diego-downtown) where I enjoyed a Carne Asada Taco and Grilled Pescado Taco (Mahi Mahi). I had never had a fish taco before. The combination of grilled fish, cabbage, and chipotle sauce was delicious in a way I hadn't anticipated. Thank you to [Trey Hunner](https://x.com/treyhunner) for one of many great recommendations.
 
 ![](djangocon-us-2019-recap-images/taco-stand.jpg)
 
