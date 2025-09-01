@@ -60,7 +60,7 @@ On Friday evening, I attended the [Art of Python](https://us.pycon.org/2019/hatc
 
 ## Saturday
 
-Saturday kicked off with two very special keynotes by [Shadeed “Sha” Wallace-Stepter](https://restorecal.org/sha/) and [Jessica McKellar](https://x.com/jessicamckellar).
+Saturday kicked off with two very special keynotes by Shadeed “Sha” Wallace-Stepter<!--https://restorecal.org/sha/--> and [Jessica McKellar](https://x.com/jessicamckellar).
 
 Sha told the story of his troubled childhood in San Francisco. He turned to street crime for a feeling of empowerment. It was only after he was sent to prison for 27 years that he realized the same skills that he had used on the street could be channeled into entrepreneurship and tech. After producing a vast body of journalistic content while in prison, his sentence was commuted. Sha said that open source is “love.” Open source accepts people like him. He received a standing ovation. I was proud to see the community embrace someone who could easily be rejected elsewhere.
 
