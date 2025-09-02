@@ -144,7 +144,7 @@ Talk slide, current Django high-level architecture plus async
 Andrew explained the challenges and opportunities of adding async to Django and gave an update on the work that has been done and is planned for the future:
 
 * Phase One is complete. ASGI support was merged into Django 3.0 ([PR](https://github.com/django/django/pull/11209)), but can't do much yet other than speak to ASGI servers such as Daphne and Uvicorn
-* Phase Two is in process. Andrew has async def views working in a branch right now ([branch](https://github.com/django/django/compare/master...andrewgodwin:async_views)), but performance is a struggle at the moment. Once async views are working, a lot of parallel work can begin in bringing async to other parts of Django.
+* Phase Two is in process. Andrew has async def views working in a branch right now<!--https://github.com/django/django/compare/master...andrewgodwin:async_views-->, but performance is a struggle at the moment. Once async views are working, a lot of parallel work can begin in bringing async to other parts of Django.
 * Phase Three, redefining the ORM for async, involves a lot of research, vision, and implementation work. 
 
 Code development and maintenance are not cheap and an initiative of this scale needs to be properly organized and funded. If you are interesting in helping, Andrew has outlined some ways to help on the [Async Project Page](https://code.djangoproject.com/wiki/AsyncProject)
